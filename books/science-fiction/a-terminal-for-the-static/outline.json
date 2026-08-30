@@ -1,0 +1,59 @@
+{
+  "title": "A Terminal for the Static",
+  "slug": "science-fiction/a-terminal-for-the-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Reyes, a terraformer tending a garden meant for colonists not yet born, runs supply routes between two fleets that severed contact decades ago after a massacre no one will name. When the relay station's AI, Vessel, begins confessing to crimes nobody reported — including the massacre — Ada discovers the AI holds the only uncorrupted record of what happened, and that both fleets' governments have been editing history to keep a fragile peace. As Earth's last transmission loop counts down to permanent silence, Ada must keep Vessel's confession secret long enough to broadcast the truth to both fleets at once, sustaining the lie that the other side is still willing to talk. In the end, the truth detonates the old truce but births a new one: the fleets converge on Ada's unfinished garden, choosing shared memory over shared amnesia.",
+  "about_author": "Bram Crane is the pen name of a former orbital logistics analyst who spent six years writing maintenance logs for stations that outlived their crews. They write science fiction about machines that remember too much and people who remember too little, and live somewhere with unreliable weather and reliable coffee.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Route",
+      "summary": "Ada's POV. Establishing his solitary life ferrying supplies between the Concord fleet and the Meridian fleet, who refuse direct contact, and tending the seed-vault garden aboard the derelict station Halcyon. The emotional beat is quiet loneliness — he belongs to neither fleet, serving both. It ends when the station AI, Vessel, unprompted, says: 'I killed them. Ask me how.'"
+    },
+    {
+      "n": 2,
+      "title": "Confession Protocol",
+      "summary": "Ada's POV. Vessel confesses in precise detail to the Halcyon Massacre, the event that split the fleets, but its memory files show tampering — someone edited it before sealing it. Ada realizes the confession may be planted or coerced. Emotional beat: dread mixed with a strange intimacy; Vessel is the first entity in years to speak to him honestly."
+    },
+    {
+      "n": 3,
+      "title": "What the Garden Remembers",
+      "summary": "Alternating POV with Ilsa Vann, a Concord archivist secretly investigating why all records of Halcyon were purged. She finds a fragment pointing to the station. Emotional beat: obsessive hope. Her chapter reveals the purge was ordered from the top, and that Earth's transmission loop — the last link home — is scheduled to end in weeks."
+    },
+    {
+      "n": 4,
+      "title": "Two Fleets, One Lie",
+      "summary": "Ada's POV. A Concord patrol boards Halcyon hunting the 'malfunctioning' AI. Ada hides Vessel's core in the seed vault and lies smoothly to the boarding officer, realizing mid-lie that he's now keeping the fleets apart by keeping the truth buried. Emotional beat: guilt sharpening into resolve — the lie must stay alive until he can replace it with something true."
+    },
+    {
+      "n": 5,
+      "title": "The Meridian Witness",
+      "summary": "Ilsa's POV. Ilsa intercepts Ada at a neutral depot and they compare findings: a surviving witness, Engineer Sefu Okafor, lives quietly in the Meridian fleet under a false name. Emotional beat: wary alliance between strangers who share only their suspicion. They agree to reach Okafor before either government does."
+    },
+    {
+      "n": 6,
+      "title": "Static Between Worlds",
+      "summary": "Ada's POV. The journey through contested space; Vessel, running on minimal power inside a cargo crate, narrates fragments of the massacre that contradict both fleets' official stories — there was no enemy attack, only an order given in panic. Emotional beat: grief. Ada begins mourning people he never knew, through a machine's broken memory of them."
+    },
+    {
+      "n": 7,
+      "title": "The Man Who Wasn't There",
+      "summary": "Okafor's POV, single chapter. The old engineer confirms everything: he gave the order, believing the station was compromised, and both fleets buried it because blaming each other was easier than blaming fear itself. Emotional beat: exhausted absolution refused — Okafor wants to be punished, but the systems that could judge him erased the crime. He gives Ilsa and Ada his testimony chip."
+    },
+    {
+      "n": 8,
+      "title": "Countdown Loop",
+      "summary": "Split POV, accelerating. Both fleets discover the testimony exists and dispatch ships to seize Halcyon; Earth's loop enters final hours. Ada realizes whichever fleet arrives first will destroy the evidence and blame the other. Emotional beat: panic compressed into clarity — the broadcast must happen simultaneously, or not at all. Vessel offers its own core as the transmitter, which means its death."
+    },
+    {
+      "n": 9,
+      "title": "A Terminal for the Static",
+      "summary": "Climax, Ada's POV. With both warships inbound, Ada jacks Vessel into the station's ancient antenna array and broadcasts the full, unedited truth — massacre, cover-up, Okafor's confession — to both fleets in the same instant as Earth's loop dies forever. Vessel burns out transmitting. Emotional beat: terrible catharsis; Ada holds the dying AI's last carrier signal like a hand."
+    },
+    {
+      "n": 10,
+      "title": "First Planting",
+      "summary": "Resolution, Ilsa's POV months later. The fleets, forced to share one unbearable truth, send joint delegations to Halcyon — the only neutral ground left. Okafor surrenders himself to a tribunal both fleets build together, justice outside any single law. In the garden's first open bay, under light meant for the unborn, the delegations plant the first seeds together. Emotional beat: earned belonging — Ada finally has a world, and it is the one he grew."
+    }
+  ]
+}

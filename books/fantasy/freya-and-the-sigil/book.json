@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01324",
+  "title": "Freya and the Sigil",
+  "author": "Elodie Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Oscar Hartwell, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. To get through this, they must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1324
+  }
+}

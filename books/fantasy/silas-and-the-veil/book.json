@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01617",
+  "title": "Silas and the Veil",
+  "author": "Dominic Yarrow",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Rafael Okonkwo, a hedge-witch's runaway apprentice, has spent three years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1617
+  }
+}

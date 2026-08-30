@@ -1,0 +1,21 @@
+{
+  "id": "THR-09468",
+  "title": "The Last Safehouse Revisited",
+  "author": "Petra Coldharbour",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Cyrus Underhill, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9468
+  }
+}

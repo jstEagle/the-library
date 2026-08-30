@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05047",
+  "title": "When the Confession Wakes",
+  "author": "Tamsin Galloway",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Quentin Eastwick, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. Then a body turns up dressed in clothes stolen from the witness's own closet — and he is pulled straight into the middle of it. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5047
+  }
+}

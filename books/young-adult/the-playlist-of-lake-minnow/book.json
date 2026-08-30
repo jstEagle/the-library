@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09722",
+  "title": "The Playlist of Lake Minnow",
+  "author": "Lena Dravenmoor",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Wendell Joubert, the eldest sibling raising the younger ones while mom works nights, has spent seven years being so careful it hurts. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, they discover that staying invisible was never really an option. To get through this, they must win the championship that doesn't matter — and the one that does before prom.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9722
+  }
+}

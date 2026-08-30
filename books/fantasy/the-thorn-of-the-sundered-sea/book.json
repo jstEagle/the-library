@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00827",
+  "title": "The Thorn of the Sundered Sea",
+  "author": "Rosalind Iversen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Tamsin Reyes, a hedge-witch's runaway apprentice, has spent twelve years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the long winter finishes falling.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 827
+  }
+}

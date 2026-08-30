@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02829",
+  "title": "Isandro and the Regiment",
+  "author": "Juniper Vasquez",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Felix Eastwick, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2829
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00786",
+  "title": "Choir and Crown",
+  "author": "Quentin Fairweather",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Vesper Amberdale, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 786
+  }
+}

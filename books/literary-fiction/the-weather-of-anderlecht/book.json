@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04497",
+  "title": "The Weather of Anderlecht",
+  "author": "Marguerite Yarrow",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Gideon Villalobos, a piano tuner who hears the house's history in its radiators, has spent ten years practicing the art of almost saying it. Then the last speaker of a language asks for one final student — and he is pulled straight into the middle of it. To get through this, he must forgive the stranger in the old photographs before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4497
+  }
+}

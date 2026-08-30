@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02052",
+  "title": "When the Hollow Wakes Anew",
+  "author": "Ada Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Cyrus Amberdale, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. To get through this, she must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2052
+  }
+}

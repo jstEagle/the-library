@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02825",
+  "title": "Theo and the Bridge",
+  "author": "Noor Voss",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Gideon Reyes, an apprentice clockmaker summoned to repair the observatory's master clock, measures the world in what can be carried when the orders come. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. Now she must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2825
+  }
+}

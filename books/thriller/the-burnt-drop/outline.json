@@ -1,0 +1,59 @@
+{
+  "title": "The Burnt Drop",
+  "slug": "thriller/the-burnt-drop",
+  "model": "stealth/ox-alpha",
+  "premise": "Astrid Almeida, a whistle-blower who burned his old identity to expose a market-manipulation syndicate, has survived four years under four names. When his dead handler, Marek, sends a calendar invite for a meeting that cannot happen, Astrid is pulled back into the world he fled: the invitation is real, and it is bait set by the syndicate's remaining architect to frame an 'accidental' infrastructure failure timed to crash Frankfurt's opening bell. Racing across Lisbon and Frankfurt with Lena Voss, an auditor who once hunted him and now believes him, Astrid must decide whether exposing the truth is worth surrendering the anonymity that keeps him alive. In the end he stops the attack by going on record under his true name—sacrificing invisibility for integrity—and discovers the invitation came from Marek himself, who faked his death to force Astrid home.",
+  "about_author": "Noor Eastwick is the pen name of a former financial-crimes analyst who spent a decade inside compliance departments before turning to fiction. They write thrillers about people whose paperwork is more dangerous than their weapons.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Four Names, One Bag",
+      "summary": "Astrid's POV. We meet him in Porto as 'Daniel Reyes': go-bag by the door, routines rehearsed, paranoia worn like a coat. A routine check of his burner inbox reveals a meeting invitation from Marek—sent three days after Marek's confirmed death—for tomorrow, 08:00, Frankfurt time. The emotional beat is dread sharpening into compulsion: whoever sent this knows him."
+    },
+    {
+      "n": 2,
+      "title": "The Invitation",
+      "summary": "Astrid's POV. He verifies Marek is dead—casket closed, cause listed as cardiac arrest—then traces the invite's metadata to a server he recognizes: the syndicate's old dead-drop network. Someone is using Marek's ghost as a lure. Against every instinct, he packs the bag. Emotional beat: grief weaponized into resolve."
+    },
+    {
+      "n": 3,
+      "title": "Ghost Protocol",
+      "summary": "Lena Voss's POV. An EU markets-integrity auditor, Lena has spent years chasing the phantom behind the Almeida leak. She flags anomalous options positions betting against Frankfurt-listed energy futures—a pattern identical to the one Astrid exposed four years ago. Her superiors dismiss her; she doesn't. Beat: lonely certainty hardening into obsession."
+    },
+    {
+      "n": 4,
+      "title": "Dead Man's Handshake",
+      "summary": "Astrid's POV, Frankfurt. The 08:00 meeting place is empty except for a locker key and a phone loaded with evidence: schematics for a staged transformer explosion at a Frankfurt exchange data center, scheduled before Thursday's open. A voice on the phone—Marek's—says only, 'You were always the drop.' Beat: vertigo; the past isn't chasing him, it's recruiting him."
+    },
+    {
+      "n": 5,
+      "title": "Collision Course",
+      "summary": "Alternating POVs. Lena's investigation puts her in the same Frankfurt hotel lobby where Astrid is decrypting the phone. She corners him; instead of arresting him, she shows him her trading anomalies—the same timestamp as the sabotage plan. Reluctant alliance forms over bad coffee and mutual suspicion. Beat: two hunters realizing they share prey."
+    },
+    {
+      "n": 6,
+      "title": "The Architecture of Accidents",
+      "summary": "Lena's POV. Following the phone's trail, they identify the syndicate's surviving architect: Henrik Dahl, the compliance chief who buried Astrid's original leak and now runs 'risk solutions' for hire. Dahl's method is elegant—every catastrophe insured, hedged, and deniable. Beat: horror at how clean evil can look on a balance sheet."
+    },
+    {
+      "n": 7,
+      "title": "Burn Notice",
+      "summary": "Astrid's POV. Dahl finds them first: a safehouse raid kills their contact and burns Astrid's current identity. On the run through Frankfurt's night trains, Astrid confesses everything to Lena—including that Marek trained him to disappear, and that Marek's last message hinted the invitation was mercy, not malice. Beat: intimacy forged in flight."
+    },
+    {
+      "n": 8,
+      "title": "Opening Bell",
+      "summary": "Alternating POVs, climax begins. Wednesday night: the data center, the planted charge, Dahl's crew moving into position. Lena works her regulator contacts to freeze the suspicious options while Astrid infiltrates the facility. They are hours early and still too late—the detonation window opens at dawn. Beat: controlled panic, ticking clock."
+    },
+    {
+      "n": 9,
+      "title": "The Burnt Drop",
+      "summary": "Astrid's POV, climax. Astrid reaches the charge but triggers a lockdown; Dahl appears, offering him his old life back if he walks away. Instead Astrid livestreams the evidence under his real name—burning all four aliases in one act—and disables the device as Lena's freeze order lands. Dahl flees into a trap of regulators. Beat: self-immolation as rebirth."
+    },
+    {
+      "n": 10,
+      "title": "One Name Left",
+      "summary": "Astrid's POV, resolution. Weeks later: testimony given, markets steadied, Dahl indicted. A final envelope arrives containing Marek's autopsy photo—alive until recently—and a note: 'Invisible men can't testify. Welcome back.' Astrid unpacks the go-bag for the first time in years, keeping one packed bag out of habit, not fear. Beat: quiet, earned peace with a scar of doubt."
+    }
+  ]
+}

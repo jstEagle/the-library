@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07153",
+  "title": "The Colony of New Lagos",
+  "author": "Gideon Crane",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Yara Iversen, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7153
+  }
+}

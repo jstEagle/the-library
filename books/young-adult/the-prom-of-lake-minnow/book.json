@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09852",
+  "title": "The Prom of Lake Minnow",
+  "author": "Wendell Hartwell",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Rosalind Amberdale, a scholarship student at an academy with too many secrets, stays under the radar: head down, grades up, locker shut. But when the teacher pairs nemesis with nemesis for a semester-long project, they discover that staying invisible was never really an option. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9852
+  }
+}

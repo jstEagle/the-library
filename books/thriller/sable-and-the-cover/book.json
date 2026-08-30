@@ -1,0 +1,21 @@
+{
+  "id": "THR-08743",
+  "title": "Sable and the Cover",
+  "author": "Mara Winterbourne",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.8,
+  "blurb": "Coral Delacroix, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. To get through this, he must extract a defector who may be the bait before the markets open in Frankfurt.",
+  "themes": [
+    "found family",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8743
+  }
+}

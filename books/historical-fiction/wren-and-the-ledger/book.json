@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02985",
+  "title": "Wren and the Ledger",
+  "author": "Sable Crane",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Wendell Halloran, a typeface cutter's daughter in a print shop on the eve of a revolution, measures the world in what can be carried when the orders come. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and they are pulled straight into the middle of it. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2985
+  }
+}

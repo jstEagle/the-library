@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05813",
+  "title": "Ulyana and the Will",
+  "author": "Coral Oyelaran",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Lior Brightwater, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. To get through this, they must untangle alibis woven thirty years ago before the trial begins.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5813
+  }
+}

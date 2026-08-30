@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03890",
+  "title": "Coral and the Well",
+  "author": "Lena Nakamura",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Zephyrine Lockridge, a folklorist recording songs the village refuses to sing twice, has spent twelve years telling themselves the noises have explanations. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. Now they must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3890
+  }
+}

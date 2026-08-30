@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09636",
+  "title": "A Recipe for the Semester",
+  "author": "Orsen Sterling",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Yara Ishikawa, the new kid at a school built over something old, has spent three years being so careful it hurts. But when the college essay prompt asks one honest question nobody can stop answering, she discovers that staying invisible was never really an option. Now she must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9636
+  }
+}

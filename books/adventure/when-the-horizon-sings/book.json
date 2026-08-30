@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00221",
+  "title": "When the Horizon Sings",
+  "author": "Hazel Ishikawa",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Paloma Fairweather, a riverboat captain who knows every sandbar's mood, knows the wilderness forgives nothing and forgets less. Then a government survey team vanishes, leaving gear and no tracks — and they are pulled straight into the middle of it. To get through this, they must bring the expedition home without telling anyone what it found before the monsoon makes landfall.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 221
+  }
+}

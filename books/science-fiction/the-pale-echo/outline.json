@@ -1,0 +1,29 @@
+{
+  "title": "The Pale Echo",
+  "slug": "science-fiction/the-pale-echo",
+  "model": "stealth/ox-alpha",
+  "premise": "August Coldharbour investigates impossible accidents along the relay route between Earth and the silent colony Meridian, where a generation-old war of silence has severed all communication. When the colony's children begin sharing one dream — a message from the enemy world that neither government will admit exists — August realizes her own forgotten childhood on Meridian makes her the only living courier both sides will tolerate. She must carry the children's dream-message across the void, exposing the war's true origin as a corporate cover-up, and in the final transmission she chooses to broadcast it publicly, ending the war but burning her own anonymity forever.",
+  "about_author": "Odile Delacroix is the pen name of a former maritime radio operator who spent a decade relaying messages between ships that never met. She writes about distance, duty, and the voices we refuse to hear until it is nearly too late.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Route",
+      "summary": "August Coldharbour, POV. Investigating a cargo ship that vanished between worlds, August finds evidence the 'accident' was engineered to keep Meridian isolated. Flashbacks hint at her own buried childhood there. Emotional beat: her practiced invisibility begins to crack as she recognizes the sabotage signature — someone protecting a secret she almost remembers."
+    },
+    {
+      "n": 2,
+      "title": "Children of the Same Dream",
+      "summary": "Alternating POV: August and Meridian schoolteacher Ivo Ren. The colony's children draw identical images of a door in the dark, reciting words no one taught them. Ivo smuggles the drawings to August via black-market relay. Emotional beat: dread and wonder — the dream is a structured signal, and the colonial authority is quietly disappearing families who discuss it."
+    },
+    {
+      "n": 3,
+      "title": "The Door in the Dark",
+      "summary": "August's POV, infiltrating Meridian's archive station. She decodes the dream: a distress confession from the enemy world revealing the war began as an insurance fraud by the founding corporation — her own employer. Captured, she bargains with a sympathetic officer using her hidden Meridian birth records. Emotional beat: terror transmuting into resolve; belonging claimed at gunpoint."
+    },
+    {
+      "n": 4,
+      "title": "Deliver Me",
+      "summary": "August's POV, climax and resolution. Escaping during a blackout, she hijacks the ancient public broadcast array and transmits the children's dream to both worlds simultaneously. The truth detonates the war's legitimacy; ceasefires ripple outward as she surrenders to the crowd of children who dreamed her home. Emotional beat: grief for her lost anonymity transformed into peace — finally seen, finally belonging."
+    }
+  ]
+}

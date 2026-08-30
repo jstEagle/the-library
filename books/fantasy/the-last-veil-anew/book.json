@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01840",
+  "title": "The Last Veil Anew",
+  "author": "Vesper Sandoval",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Sable Fairweather, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1840
+  }
+}

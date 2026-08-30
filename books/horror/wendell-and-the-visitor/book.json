@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03616",
+  "title": "Wendell and the Visitor",
+  "author": "Edmund Thackeray",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Xanthe Dunmore, a radio host taking calls from listeners who died last week, doesn't believe, has never believed, will not begin believing now. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. Now he must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3616
+  }
+}

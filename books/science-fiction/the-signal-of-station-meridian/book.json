@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07557",
+  "title": "The Signal of Station Meridian",
+  "author": "E. M. Joubert",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Sebastian Coldharbour, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. To get through this, they must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7557
+  }
+}

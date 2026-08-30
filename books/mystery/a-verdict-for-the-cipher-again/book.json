@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05827",
+  "title": "A Verdict for the Cipher Again",
+  "author": "Juniper Hartwell",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Odile Dravenmoor, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5827
+  }
+}

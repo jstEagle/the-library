@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06342",
+  "title": "Elodie and the Postcard",
+  "author": "V. M. Eriksen",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Wren Pemberton, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6342
+  }
+}

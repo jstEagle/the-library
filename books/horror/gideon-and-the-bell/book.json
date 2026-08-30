@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03989",
+  "title": "Gideon and the Bell",
+  "author": "Tamsin Galloway",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Juniper Vane, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. But when the sleep recordings capture a second voice answering questions, he discovers that staying invisible was never really an option. To get through this, he must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3989
+  }
+}

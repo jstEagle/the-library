@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01618",
+  "title": "Wren and the Choir",
+  "author": "Marguerite Yarrow",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Coral Underhill, a thief who steals memories, has spent seven years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1618
+  }
+}

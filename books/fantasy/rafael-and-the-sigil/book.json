@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01852",
+  "title": "Rafael and the Sigil",
+  "author": "Freya Joubert",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Mirabel Dunmore, a debt-bound temple scribe, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "memory",
+    "found family",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1852
+  }
+}

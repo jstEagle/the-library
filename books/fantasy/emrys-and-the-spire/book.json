@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01569",
+  "title": "Emrys and the Spire",
+  "author": "Gideon Crane",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Lena Halloran, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1569
+  }
+}

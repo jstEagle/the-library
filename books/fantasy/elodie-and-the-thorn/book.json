@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01583",
+  "title": "Elodie and the Thorn",
+  "author": "Dominic Eastwick",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Zephyrine Nystrom, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1583
+  }
+}

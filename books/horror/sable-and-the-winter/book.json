@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03180",
+  "title": "Sable and the Winter",
+  "author": "Ivo Villalobos",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ansel Pemberton, a radio host taking calls from listeners who died last week, doesn't believe, has never believed, will not begin believing now. But when every mirror in the house starts reflecting the room one second late, they discover that staying invisible was never really an option. Now they must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3180
+  }
+}

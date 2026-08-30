@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09635",
+  "title": "Freya and the Semester",
+  "author": "Freya Vane",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Xanthe Hartwell, the team's statistician who knows the game is rigged, stays under the radar: head down, grades up, locker shut. But when a best friend goes missing, leaving only a set of keys behind, he discovers that staying invisible was never really an option. Now he must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9635
+  }
+}

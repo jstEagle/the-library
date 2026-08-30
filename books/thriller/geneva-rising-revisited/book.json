@@ -1,0 +1,21 @@
+{
+  "id": "THR-09321",
+  "title": "Geneva Rising Revisited",
+  "author": "Wren Sterling",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Bram Galloway, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. To get through this, he must burn the network that did the training before the summit convenes.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9321
+  }
+}

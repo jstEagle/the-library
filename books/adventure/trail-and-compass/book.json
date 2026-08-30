@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00531",
+  "title": "Trail and Compass",
+  "author": "Yara Iversen",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Zhou, a mountain guide blacklisted from two countries, has spent three years measuring life in miles rather than years. But when a government survey team vanishes, leaving gear and no tracks, they discover that staying invisible was never really an option. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 531
+  }
+}

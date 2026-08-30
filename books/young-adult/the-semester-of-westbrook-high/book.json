@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09651",
+  "title": "The Semester of Westbrook High",
+  "author": "Tamsin Fairweather",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Jonah Voss, the only out kid in a town of nine hundred, stays under the radar: head down, grades up, locker shut. Then a group chat starts predicting things that haven't happened yet — and he is pulled straight into the middle of it. To get through this, he must tell the truth even if it costs the friendship before the last game of the season.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9651
+  }
+}

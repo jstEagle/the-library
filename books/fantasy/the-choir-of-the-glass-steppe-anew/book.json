@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02165",
+  "title": "The Choir of the Glass Steppe Anew",
+  "author": "Xanthe Vane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Freya Nystrom, a beast-speaker hiding a forbidden gift, keeps the ledgers of a guild that trades in impossible things. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2165
+  }
+}

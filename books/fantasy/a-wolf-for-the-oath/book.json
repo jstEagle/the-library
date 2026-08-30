@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00902",
+  "title": "A Wolf for the Oath",
+  "author": "Silas Almeida",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Freya Delacroix, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 902
+  }
+}

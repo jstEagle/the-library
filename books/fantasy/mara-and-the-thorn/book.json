@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01678",
+  "title": "Mara and the Thorn",
+  "author": "Beatrix Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Freya Hartwell, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1678
+  }
+}

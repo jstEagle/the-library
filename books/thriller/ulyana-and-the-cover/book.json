@@ -1,0 +1,21 @@
+{
+  "id": "THR-09267",
+  "title": "Ulyana and the Cover",
+  "author": "Sable Fairweather",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Juniper Pemberton, a crash investigator whose family died in row twelve, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9267
+  }
+}

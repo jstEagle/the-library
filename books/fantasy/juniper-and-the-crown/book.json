@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01475",
+  "title": "Juniper and the Crown",
+  "author": "Tamsin Lockridge",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Elodie Quintana, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "found family",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1475
+  }
+}

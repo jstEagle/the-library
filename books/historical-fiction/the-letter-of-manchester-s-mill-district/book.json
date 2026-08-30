@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02643",
+  "title": "The Letter of Manchester's mill district",
+  "author": "Emrys Delacroix",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Rafael Brightwater, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. But when a child is left at the door with instructions to forget the face, they discover that staying invisible was never really an option. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2643
+  }
+}

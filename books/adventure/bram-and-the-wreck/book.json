@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00396",
+  "title": "Bram and the Wreck",
+  "author": "Marguerite Blackwood",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Juniper Brightwater, a railroad engineer with a map of closed lines, carries a compass, a debt, and very little else. Then the river gives up a chest stamped with a dead nation's seal — and he is pulled straight into the middle of it. Now he must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 396
+  }
+}

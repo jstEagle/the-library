@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05840",
+  "title": "Inheritance and Verdict Revisited",
+  "author": "Marguerite Lockridge",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Tamsin Villalobos, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. To get through this, she must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5840
+  }
+}

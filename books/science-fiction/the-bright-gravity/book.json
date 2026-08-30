@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07408",
+  "title": "The Bright Gravity",
+  "author": "Rosalind Almeida",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Kestrel Okonkwo, the caretaker of Earth's abandoned seed vault, has spent twelve years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, she discovers that staying invisible was never really an option. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7408
+  }
+}

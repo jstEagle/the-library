@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06695",
+  "title": "Xanthe and the Songbook",
+  "author": "Marguerite Ashgrove",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Astrid Underhill, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. To get through this, she must say the sentence that has been rehearsed for a decade before the vineyard's first harvest comes in.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6695
+  }
+}

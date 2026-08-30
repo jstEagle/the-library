@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00046",
+  "title": "A Provision for the Monsoon",
+  "author": "Mirabel Quintana",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Casper Nakamura, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. Then a government survey team vanishes, leaving gear and no tracks — and they are pulled straight into the middle of it. To get through this, they must cross the range ahead of the snows before the monsoon makes landfall.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 46
+  }
+}

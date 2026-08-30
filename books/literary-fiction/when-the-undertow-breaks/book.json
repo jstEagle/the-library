@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04456",
+  "title": "When the Undertow Breaks",
+  "author": "Mirabel Almeida",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.9,
+  "blurb": "Juniper Delacroix, a night librarian in a city that sleeps less every year, has spent twelve years practicing the art of almost saying it. Then the last speaker of a language asks for one final student — and they are pulled straight into the middle of it. Now they must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4456
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04407",
+  "title": "Postcards and Silence",
+  "author": "A. M. Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Oscar Amberdale, an heir cataloging a parent's silence after the funeral, has spent three years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and he is pulled straight into the middle of it. To get through this, he must return to the place where the story went wrong before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4407
+  }
+}

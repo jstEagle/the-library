@@ -1,0 +1,29 @@
+{
+  "title": "Asset and Deadline",
+  "slug": "thriller/asset-and-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Bram Ravensworth, a ghost-writer of financial-crimes verdicts, is handed a case that arrives pre-solved: a voiceprint match to a dead whistleblower unlocks a server in Singapore holding proof that the Ravensworth family fortune was laundered through the very fund Bram is investigating. The defector who can authenticate the files, Ilse Brandt, may be bait dangled by Bram's own uncle to flush out anyone carrying the family's secrets. As Frankfurt's markets open and the uncle's fixers close in, Bram must choose between burying the evidence — as every Ravensworth before them has done — or detonating their own inheritance. In the end Bram authenticates the files publicly, burning the name they were built to protect.",
+  "about_author": "Astrid Villalobos spent a decade auditing offshore trusts in Zurich and Panama City before trading spreadsheets for fiction. She writes thrillers about people who discover the numbers were never neutral.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Clean Money",
+      "summary": "Bram's POV. A routine attribution job — scrubbing a hedge fund scandal of its ugliest fingerprints — goes sideways when an automated voiceprint check flags a recording of whistleblower Ilse Brandt, officially dead for six years. The voiceprint unlocks a dormant server whose first file bears the Ravensworth crest. Emotional beat: the vertigo of realizing your own name is on the evidence you were hired to erase."
+    },
+    {
+      "n": 2,
+      "title": "The Defector's Voice",
+      "summary": "Alternating POV: Bram traces the server to Singapore while Ilse, alive and hiding in Johor Bahru, watches her own death certificate circulate and realizes someone wants her found. Bram arranges extraction; Ilse agrees only if Bram hears the full recording — which names Uncle Aldous as architect of the laundering scheme. Emotional beat: two liars recognizing each other, trust extended as a calculated gamble."
+    },
+    {
+      "n": 3,
+      "title": "Bait Before Open",
+      "summary": "Ilse's POV, then Bram's. The extraction convoy is ambushed by Aldous's fixers hours before Frankfurt opens; Ilse admits she let herself be traceable, betting the family would rather bargain than kill her with markets watching. Cornered in a data center, Bram must choose: hand over the authentication key Aldous demands, or broadcast the files with no verification. Emotional beat: betrayal reframed as leverage; power corrupting in real time."
+    },
+    {
+      "n": 4,
+      "title": "Attribution",
+      "summary": "Bram's POV. Instead of bargaining, Bram authenticates the archive themselves — using the investigator credentials built to erase such truths — and publishes minutes before the opening bell, collapsing the fund and Aldous's protection with it. Ilse vanishes into a new identity; Bram keeps nothing but the case file and a disowned name. Emotional beat: inheritance refused, memory weaponized, the quiet cost of becoming unownable."
+    }
+  ]
+}

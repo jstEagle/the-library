@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07605",
+  "title": "A Echo for the Signal",
+  "author": "Sebastian Eastwick",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "August Eastwick, the last human technician on an automated relay station, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. To get through this, she must prove a massacre happened when every record says otherwise before the fleet's truce expires.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7605
+  }
+}

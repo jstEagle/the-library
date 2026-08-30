@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03268",
+  "title": "Visitor and Cellar",
+  "author": "Juniper Zhou",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "August Quintana, a radio host taking calls from listeners who died last week, keeps the lights on and the doors counted. But when the sleep recordings capture a second voice answering questions, they discover that staying invisible was never really an option. Now they must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3268
+  }
+}

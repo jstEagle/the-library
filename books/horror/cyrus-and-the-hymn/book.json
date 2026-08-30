@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03802",
+  "title": "Cyrus and the Hymn",
+  "author": "Zephyrine Whitlock",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Sebastian Okafor, a radio host taking calls from listeners who died last week, doesn't believe, has never believed, will not begin believing now. But when every mirror in the house starts reflecting the room one second late, they discover that staying invisible was never really an option. Now they must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3802
+  }
+}

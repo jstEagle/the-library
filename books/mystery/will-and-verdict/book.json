@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05006",
+  "title": "Will and Verdict",
+  "author": "Wendell Dravenmoor",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Xanthe Zhou, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5006
+  }
+}

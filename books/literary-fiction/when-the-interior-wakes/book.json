@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04522",
+  "title": "When the Interior Wakes",
+  "author": "Quentin Montrose",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Rosalind Marchetti, a restaurant critic who has forgotten how food tastes, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. Now he must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4522
+  }
+}

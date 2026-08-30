@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08207",
+  "title": "Kestrel and the Protocol",
+  "author": "Noor Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Mirabel Vasquez, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8207
+  }
+}

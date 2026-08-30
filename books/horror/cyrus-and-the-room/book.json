@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03982",
+  "title": "Cyrus and the Room",
+  "author": "Paloma Zhou",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Freya Eriksen, a property surveyor appraising a house that appraises back, documents everything, because documentation is a kind of prayer. Then the sleep recordings capture a second voice answering questions — and she is pulled straight into the middle of it. To get through this, she must return what was taken in 1974 before the well refills.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3982
+  }
+}

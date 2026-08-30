@@ -1,0 +1,21 @@
+{
+  "id": "THR-09364",
+  "title": "Coral and the Asset",
+  "author": "Yara Thornbury",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Silas Galloway, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. To get through this, he must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9364
+  }
+}

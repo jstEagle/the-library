@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02981",
+  "title": "Atlas and Uniform",
+  "author": "Vesper Lockridge",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Wendell Delacroix, a battlefield nurse keeping a ledger of the names officers omit, believes history happens to other people, elsewhere. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, she discovers that staying invisible was never really an option. To get through this, she must keep a promise made in peacetime to someone now declared enemy before the ice breaks on the river.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2981
+  }
+}

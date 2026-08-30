@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09684",
+  "title": "The Last Tryouts",
+  "author": "U. M. Brightwater",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Wendell Vasquez, the only out kid in a town of nine hundred, is fine. Everything is fine. Obviously.. But when grandma's recipe box contains directions that aren't for food, she discovers that staying invisible was never really an option. Now she must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9684
+  }
+}

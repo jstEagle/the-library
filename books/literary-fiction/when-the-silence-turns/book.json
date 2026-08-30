@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04578",
+  "title": "When the Silence Turns",
+  "author": "Rosalind Vane",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Juniper Sandoval, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. To get through this, he must forgive the stranger in the old photographs before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4578
+  }
+}

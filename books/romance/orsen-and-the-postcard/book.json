@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06618",
+  "title": "Orsen and the Postcard",
+  "author": "Elodie Brightwater",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Lena Villalobos, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and she is pulled straight into the middle of it. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6618
+  }
+}

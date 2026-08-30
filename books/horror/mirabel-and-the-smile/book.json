@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03789",
+  "title": "Mirabel and the Smile",
+  "author": "Astrid Quintana",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Casper Winterbourne, a radio host taking calls from listeners who died last week, has spent seven years telling themselves the noises have explanations. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. To get through this, he must hold out until sunrise with the truth about what was invited in before the last resident signs the papers.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3789
+  }
+}

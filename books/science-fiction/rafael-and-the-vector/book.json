@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07159",
+  "title": "Rafael and the Vector",
+  "author": "Silas Okafor",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Dominic Reyes, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. To get through this, she must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7159
+  }
+}

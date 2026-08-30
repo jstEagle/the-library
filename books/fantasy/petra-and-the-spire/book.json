@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01458",
+  "title": "Petra and the Spire",
+  "author": "Xanthe Halloran",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Felix Villalobos, a hedge-witch's runaway apprentice, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1458
+  }
+}

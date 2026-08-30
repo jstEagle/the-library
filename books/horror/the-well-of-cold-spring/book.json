@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03447",
+  "title": "The Well of Cold Spring",
+  "author": "Juniper Amberdale",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Isandro Okonkwo, a folklorist recording songs the village refuses to sing twice, has spent three years telling themselves the noises have explanations. But when the village's church bell rings although the bell was melted down in 1911, he discovers that staying invisible was never really an option. To get through this, he must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3447
+  }
+}

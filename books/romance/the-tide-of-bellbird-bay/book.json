@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06070",
+  "title": "The Tide of Bellbird Bay",
+  "author": "Paloma Thackeray",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wren Underhill, a ghostwriter secretly penning a rival's memoirs, has spent fifteen years rebuilding a life measured in small safe steps. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6070
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00195",
+  "title": "The Horizon of the Coral Triangle",
+  "author": "Ansel Amberdale",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Petra Ishikawa, a bush pilot flying medicine and rumors into the interior, has spent three years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, they discover that staying invisible was never really an option. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the monsoon makes landfall.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 195
+  }
+}

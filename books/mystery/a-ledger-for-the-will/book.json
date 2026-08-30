@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05444",
+  "title": "A Ledger for the Will",
+  "author": "Freya Okonkwo",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Mara Ravensworth, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5444
+  }
+}

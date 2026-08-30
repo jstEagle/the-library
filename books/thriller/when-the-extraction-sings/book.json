@@ -1,0 +1,21 @@
+{
+  "id": "THR-08474",
+  "title": "When the Extraction Sings",
+  "author": "Xanthe Montrose",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Marguerite Whitlock, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8474
+  }
+}

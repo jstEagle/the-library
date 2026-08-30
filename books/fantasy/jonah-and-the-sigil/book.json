@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00915",
+  "title": "Jonah and the Sigil",
+  "author": "Mirabel Voss",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Juniper Eriksen, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 915
+  }
+}

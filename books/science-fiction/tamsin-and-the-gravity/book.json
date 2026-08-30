@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07476",
+  "title": "Tamsin and the Gravity",
+  "author": "Coral Thackeray",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Freya Almeida, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7476
+  }
+}

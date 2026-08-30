@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05094",
+  "title": "Alibi and Portrait",
+  "author": "Oscar Iversen",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ulyana Nystrom, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. To get through this, he must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5094
+  }
+}

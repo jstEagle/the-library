@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04145",
+  "title": "Blue Hour and Silence",
+  "author": "E. M. Marchetti",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Theo Delacroix, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. But when a song on the radio is one that was written and never recorded, they discover that staying invisible was never really an option. To get through this, they must return to the place where the story went wrong before the mother's memory goes entirely.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4145
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05139",
+  "title": "Orsen and the Inheritance",
+  "author": "Ulyana Halloran",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Juniper Villalobos, a retired detective running a failing bookshop, prides themselves on never taking a case they can't close. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. To get through this, they must close the one case everyone swore was closed for good before the statute expires.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5139
+  }
+}

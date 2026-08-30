@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00121",
+  "title": "Devil's Throat Rising",
+  "author": "Ivo Underhill",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Ada Brightwater, a storm chaser who owes money to dangerous optimists, has spent ten years measuring life in miles rather than years. Then an old rival hires the crew for the one job that was sworn off long ago — and they are pulled straight into the middle of it. To get through this, they must bring the expedition home without telling anyone what it found before the dry season ends.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 121
+  }
+}

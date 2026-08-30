@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06091",
+  "title": "The Sweet Postcard",
+  "author": "Ivo Brightwater",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Paloma Oyelaran, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. To get through this, he must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6091
+  }
+}

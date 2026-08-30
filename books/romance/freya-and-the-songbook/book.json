@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06165",
+  "title": "Freya and the Songbook",
+  "author": "Vesper Nystrom",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "August Villalobos, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the bakery lease runs out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6165
+  }
+}

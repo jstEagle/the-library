@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01579",
+  "title": "Dominic and the Choir",
+  "author": "Mara Winterbourne",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Theo Blackwood, a thief who steals memories, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. To get through this, she must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "belonging",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1579
+  }
+}

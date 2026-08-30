@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03970",
+  "title": "Elodie and the Hymn",
+  "author": "Orsen Villalobos",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Oscar Amberdale, a folklorist recording songs the village refuses to sing twice, doesn't believe, has never believed, will not begin believing now. But when the sleep recordings capture a second voice answering questions, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3970
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05001",
+  "title": "When the Will Sings",
+  "author": "Petra Amberdale",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Emrys Eastwick, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. To get through this, he must close the one case everyone swore was closed for good before the statute expires.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5001
+  }
+}

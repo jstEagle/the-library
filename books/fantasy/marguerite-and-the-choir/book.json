@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01204",
+  "title": "Marguerite and the Choir",
+  "author": "Zephyrine Vasquez",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Ines Almeida, a royal food-taster building immunity one dish at a time, has never left the valley where magic cannot follow. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. To get through this, she must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1204
+  }
+}

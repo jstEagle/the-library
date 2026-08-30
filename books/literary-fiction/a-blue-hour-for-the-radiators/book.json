@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04371",
+  "title": "A Blue Hour for the Radiators",
+  "author": "Orsen Quintana",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Isandro Sandoval, a piano tuner who hears the house's history in its radiators, has spent seven years practicing the art of almost saying it. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4371
+  }
+}

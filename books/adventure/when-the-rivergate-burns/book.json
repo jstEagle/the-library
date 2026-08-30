@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00683",
+  "title": "When the Rivergate Burns",
+  "author": "Paloma Sandoval",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Orsen Montrose, a mountain guide blacklisted from two countries, has spent five years measuring life in miles rather than years. Then the river gives up a chest stamped with a dead nation's seal — and she is pulled straight into the middle of it. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 683
+  }
+}

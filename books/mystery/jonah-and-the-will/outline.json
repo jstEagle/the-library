@@ -1,0 +1,59 @@
+{
+  "title": "Jonah and the Will",
+  "slug": "mystery/jonah-and-the-will",
+  "model": "stealth/ox-alpha",
+  "premise": "Paloma Ravensworth, archivist of St. Aldhelm's Cathedral, is cataloguing the effects of missing parishioner Edith Crane when she discovers Edith's diary contains entries written after the date of her disappearance — entries that describe Paloma's own investigation in unnervingly accurate detail. As Paloma follows the diary's clues into the cathedral's sealed crypt and the tangled inheritance of the Crane family fortune, she realizes the killer is someone with access to the case files: a member of the investigative team itself. The final entry predicts Paloma's death inside the crypt; instead, she uses it to stage her own disappearance, luring Detective Inspector Marcus Hale — who has been feeding the killer information all along — into confessing before witnesses. Edith, hidden alive beneath the crypt by Hale's accomplice brother to secure her inheritance, is found, and Paloma learns the diary's last pages were written as a message meant for whoever was brave enough to keep reading.",
+  "about_author": "Rafael Voss spent a decade cataloguing ecclesiastical archives across northern England before turning to fiction, a career that left him with an abiding fascination for what institutions choose to lock away. He writes mysteries from a converted vestry in York, where he insists the drafts are better for the draftiness.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Catalogue of Ends",
+      "summary": "Paloma Ravensworth, POV. While processing the estate of missing Edith Crane, Paloma catalogs the dead woman's belongings in the cathedral archive and finds her diary — its final dated entry written three days after Edith vanished. The entry describes a woman 'with ink-stained fingers' opening a locked drawer. Paloma recognizes herself. Emotional beat: professional detachment cracking into dread."
+    },
+    {
+      "n": 2,
+      "title": "Entries After the End",
+      "summary": "Paloma, POV. She reads forward through impossible entries that predict her own small choices — which lamp she lights, which file she pulls. She reports the anomaly to DI Marcus Hale, lead investigator on the cold case, who dismisses it but takes the diary 'for evidence.' That night Paloma photographs every page. Emotional beat: the shift from unease to deliberate defiance."
+    },
+    {
+      "n": 3,
+      "title": "What the Crypt Keeps",
+      "summary": "Paloma, POV, intercut with diary excerpts. Following a diary clue about 'the ninth stone,' Paloma finds the crypt's old seal broken from the inside and traces of recent habitation — a candle stub, a water tin. Someone has been living below the cathedral. Emotional beat: wonder curdling into fear as belonging to the building turns sinister."
+    },
+    {
+      "n": 4,
+      "title": "The Crane Inheritance",
+      "summary": "Paloma, POV. Digging into parish records, she uncovers that Edith's disappearance coincided with a contested will: her brother Gerald stood to lose everything if she revoked a codicil. Gerald is charming, grieving, and lies smoothly about his sister's state of mind. Hale warns Paloma off the family. Emotional beat: righteous anger at how money launders motive."
+    },
+    {
+      "n": 5,
+      "title": "A Reader in the Dark",
+      "summary": "Paloma, POV. A new diary page appears — physically placed inside the archive overnight, though the building was locked. It describes this exact morning and ends: 'You are close now. So is he.' Paloma realizes the diary isn't predicting; someone is watching and writing in real time, using Edith's voice. Emotional beat: violation, then resolve — she decides to answer back in the margins."
+    },
+    {
+      "n": 6,
+      "title": "Correspondence with a Ghost",
+      "summary": "Paloma, POV. Over several nights she leaves questions in the diary and receives answers: Edith is alive, hiding, too frightened of 'the one who reads the files' to surface. The writer asks Paloma to bring proof of the codicil to the crypt. Meanwhile Hale grows oddly informed about her movements. Emotional beat: fragile trust in an unseen ally."
+    },
+    {
+      "n": 7,
+      "title": "The Ninth Stone",
+      "summary": "Paloma, POV. She descends into the crypt at midnight and finds Edith's hiding place empty but warm, and pinned to the wall, a photocopy of the official case file — annotated in Hale's handwriting. The ally was never Edith alone; the informant is the investigator himself. Footsteps above. Emotional beat: betrayal landing like a physical blow."
+    },
+    {
+      "n": 8,
+      "title": "Every Way a Life Can End",
+      "summary": "Paloma, POV. Trapped in the crypt as Hale seals the entrance, she pieces it together aloud: Hale and Gerald conspired to disappear Edith and split the estate, and Hale has been steering the investigation while feeding its secrets to the diary's true author — Edith, writing from hiding after escaping them. Hale offers a bargain. Emotional beat: terror mastered into negotiation."
+    },
+    {
+      "n": 9,
+      "title": "The Last Entry",
+      "summary": "Paloma, POV. Using the diary's predicted script, she fakes her own death in the crypt — the staged scene Hale believes he's creating — while the real Edith, guided by Paloma's margin notes, delivers the codicil and the annotated file to the bishop and press gathered above for the cathedral's anniversary. Hale opens the crypt expecting silence and finds witnesses. Emotional beat: the trap snapping shut on the trapper."
+    },
+    {
+      "n": 10,
+      "title": "Belonging",
+      "summary": "Paloma, POV, weeks later. Gerald and Hale are charged; Edith, recovering, donates her diary to the archive with a new final entry thanking 'the reader.' Paloma re-catalogues the collection, adding her own name beside Edith's in the register of the cathedral's kept lives. Emotional beat: quiet restoration — memory preserved, belonging earned rather than inherited."
+    }
+  ]
+}

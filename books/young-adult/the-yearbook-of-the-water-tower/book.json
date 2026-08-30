@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09954",
+  "title": "The Yearbook of the water tower",
+  "author": "Sebastian Oyelaran",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Theo Joubert, the team's statistician who knows the game is rigged, has spent twenty years being so careful it hurts. But when grandma's recipe box contains directions that aren't for food, they discover that staying invisible was never really an option. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9954
+  }
+}

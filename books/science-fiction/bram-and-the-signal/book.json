@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07975",
+  "title": "Bram and the Signal",
+  "author": "Lena Marchetti",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Juniper Ashgrove, the last human technician on an automated relay station, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7975
+  }
+}

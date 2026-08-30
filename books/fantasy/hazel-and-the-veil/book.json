@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01616",
+  "title": "Hazel and the Veil",
+  "author": "Cyrus Sandoval",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Emrys Galloway, the keeper of a gate that should stay shut, has spent three years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. To get through this, they must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1616
+  }
+}

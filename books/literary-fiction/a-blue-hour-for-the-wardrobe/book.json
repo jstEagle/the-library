@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04417",
+  "title": "A Blue Hour for the Wardrobe",
+  "author": "Ivo Marchetti",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Silas Blackwood, a letter-writer sending postcards to an address that burned down years ago, moves through the days like a tenant, not an owner. Then a song on the radio is one that was written and never recorded — and he is pulled straight into the middle of it. Now he must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4417
+  }
+}

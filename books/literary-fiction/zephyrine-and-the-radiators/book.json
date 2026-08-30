@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04294",
+  "title": "Zephyrine and the Radiators",
+  "author": "Isandro Brightwater",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Silas Thornbury, a former prodigy returning to the conservatory as a janitor, has spent three years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4294
+  }
+}

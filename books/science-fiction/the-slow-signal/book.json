@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07724",
+  "title": "The Slow Signal",
+  "author": "Mirabel Voss",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Casper Ashgrove, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. To get through this, she must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7724
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06707",
+  "title": "Lena and the Vow",
+  "author": "Hazel Dunmore",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Xanthe Voss, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. To get through this, they must forgive the person in the mirror first before the last ferry of the season departs.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6707
+  }
+}

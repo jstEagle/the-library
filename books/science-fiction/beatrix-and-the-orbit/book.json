@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07527",
+  "title": "Beatrix and the Orbit",
+  "author": "Paloma Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Jude Joubert, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. To get through this, they must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7527
+  }
+}

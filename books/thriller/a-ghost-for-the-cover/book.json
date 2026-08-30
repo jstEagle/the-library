@@ -1,0 +1,21 @@
+{
+  "id": "THR-08508",
+  "title": "A Ghost for the Cover",
+  "author": "Isandro Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Mirabel Thackeray, a private security contractor guarding clients nobody trusts, has spent three years following rules that keep getting rewritten. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. To get through this, they must extract a defector who may be the bait before the summit convenes.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8508
+  }
+}

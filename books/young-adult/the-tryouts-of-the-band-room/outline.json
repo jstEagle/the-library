@@ -1,0 +1,119 @@
+{
+  "title": "The Tryouts of the band room",
+  "slug": "young-adult/the-tryouts-of-the-band-room",
+  "model": "stealth/ox-alpha",
+  "premise": "Mara Voss, a nonbinary senior coder, runs an anonymous account that exposes the rigged 'tryouts' deciding who gets solos, scholarships, and the college recommendations handed out by band director Aldous Crane. When a college essay prompt demands one honest answer, Mara's draft accidentally reveals details only the anonymous account could know, and Crane begins hunting the leaker while dangling the championship Mara needs for a scholarship. Torn between protecting their best friend Priya — whose future depends on staying in Crane's favor — and telling the truth, Mara builds a final reveal timed to the state championship. In the end, Mara sacrifices the trophy to expose Crane publicly, loses the scholarship but wins an honesty-based fellowship, and finally signs their real name to everything they've written.",
+  "about_author": "Ansel Whitlock is a former high school marching band section leader who spent three years writing code by day and fan fiction by night before turning to YA novels. They live in Ohio with a tuba they refuse to learn and a cat named Metronome.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Counting Days",
+      "summary": "Mara's POV. Senior year opens with Mara counting down 187 days to graduation, invisible in the back of the brass section while coding under the handle @tuningfork. Establishes Crane's iron rule and Mara's quiet contempt. Emotional beat: restless suffocation."
+    },
+    {
+      "n": 2,
+      "title": "The Prompt",
+      "summary": "Mara's POV. English class assigns the college essay: 'Tell one truth no one has asked you for.' Mara writes freely at 2 a.m., pasting in details about rigged auditions, then panics at how identifiable it is. Beat: the first crack in invisibility."
+    },
+    {
+      "n": 3,
+      "title": "Priya's Solo",
+      "summary": "Priya's POV. Priya wins fall solo tryouts and suspects she won because her mother donates to the boosters, not because she earned it. She confides in Mara, unknowingly feeding the account. Beat: guilt disguised as joy."
+    },
+    {
+      "n": 4,
+      "title": "@tuningfork Speaks",
+      "summary": "Mara's POV. Mara posts evidence of score tampering; the account goes semi-viral in the school. Crane cancels a rehearsal to interrogate the band, his charm curdling. Beat: intoxicating power, first taste."
+    },
+    {
+      "n": 5,
+      "title": "Crane's Offer",
+      "summary": "Crane's POV. Crane privately offers Mara the drum-major-adjacent leadership spot and a recommendation letter if he can trust them — a gilded leash. Mara accepts to get closer to the truth. Beat: corruption begins as temptation."
+    },
+    {
+      "n": 6,
+      "title": "Essay Draft Leak",
+      "summary": "Mara's POV. Peer review pairs Mara with rival coder Dex, who reads the essay draft and recognizes the @tuningfork phrasing. He says nothing — yet. Beat: dread settling like dust."
+    },
+    {
+      "n": 7,
+      "title": "Championship Stakes",
+      "summary": "Priya's POV. The state championship determines booster funding and which seniors get Crane's coveted recommendation letters. Priya realizes Mara's account could destroy everyone's chances, including hers. Beat: loyalty pulling against truth."
+    },
+    {
+      "n": 8,
+      "title": "Dex's Silence",
+      "summary": "Dex's POV. Dex, who lost his own solo to a donor's kid years ago, wrestles with whether exposing Mara serves justice or revenge. He starts leaving coded notes in Mara's locker. Beat: wary alliance forming."
+    },
+    {
+      "n": 9,
+      "title": "The Trap",
+      "summary": "Mara's POV. Crane plants a fake scoring error to trace who reports it; only @tuningfork flags it within the hour. Now certain the leaker is in the band, he narrows suspects. Beat: the walls tightening."
+    },
+    {
+      "n": 10,
+      "title": "What Duty Costs",
+      "summary": "Priya's POV. Priya discovers her mother's donations bought her solo outright and confronts her at home. Her mother says winning matters more than how. Beat: love against duty, generational echo."
+    },
+    {
+      "n": 11,
+      "title": "Midnight Compile",
+      "summary": "Mara's POV. Mara and Dex finally acknowledge what each knows, working overnight on a data pipeline that cross-references scores with donation records. Trust is fragile, transactional. Beat: two liars building one truth."
+    },
+    {
+      "n": 12,
+      "title": "The Favor",
+      "summary": "Crane's POV. Crane asks Mara to quietly discredit a freshman who complained about hazing, testing their loyalty. Mara complies and hates themselves for it. Beat: power corrupting from the inside."
+    },
+    {
+      "n": 13,
+      "title": "Intermission",
+      "summary": "Priya's POV. At the regional semifinal, Priya plays flawlessly and feels nothing. She catches Mara watching @tuningfork metrics instead of the field. Beat: the friendship fraying under secrets."
+    },
+    {
+      "n": 14,
+      "title": "Blackmail",
+      "summary": "Mara's POV. Crane reveals he knows Mara wrote the essay's damning draft — he found it via the peer-review file — and offers a trade: delete the account, get the letter and the championship spotlight. Beat: checkmate, seemingly."
+    },
+    {
+      "n": 15,
+      "title": "Delete Key",
+      "summary": "Dex's POV. Dex watches Mara archive the account and calls them a coward; Mara says survival isn't cowardice. Their alliance shatters. Beat: rock bottom, alone by choice."
+    },
+    {
+      "n": 16,
+      "title": "Priya's Choice",
+      "summary": "Priya's POV. Priya finds the archived drafts and realizes Mara protected her all along at their own expense. She decides to give up her solo spot publicly unless the truth comes out. Beat: loyalty choosing truth over safety."
+    },
+    {
+      "n": 17,
+      "title": "One Honest Question",
+      "summary": "Mara's POV. Rereading the college prompt, Mara understands the question was never rhetorical. They restore the account, schedule the full dataset release for championship night, and rewrite the essay with their real name attached. Beat: resolve igniting."
+    },
+    {
+      "n": 18,
+      "title": "State Championship",
+      "summary": "Ensemble POV, rotating between Mara, Priya, and Dex across the performance day. The band takes the field; Crane waits to celebrate his redemption narrative. Beat: held breath, everything balanced on eight minutes."
+    },
+    {
+      "n": 19,
+      "title": "The Reveal",
+      "summary": "Mara's POV. As the trophy is announced, the dataset publishes: every rigged score, every bought solo, every silenced complaint, live on the jumbotron-adjacent screens students control. The gym goes silent. Beat: cathartic detonation."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath",
+      "summary": "Priya's POV. Crane is suspended pending investigation; the championship is vacated; some bandmates thank Mara, others spit venom. Priya stands beside Mara when it costs her friends. Beat: victory that hurts."
+    },
+    {
+      "n": 21,
+      "title": "Signed, Mara Voss",
+      "summary": "Mara's POV. Mara submits the essay — signed, unhidden — and interviews for an honesty-and-civic-tech fellowship that values exactly what the scandal proved. Dex returns with a peace offering: a fixed bug. Beat: identity reclaimed."
+    },
+    {
+      "n": 22,
+      "title": "Graduation Day",
+      "summary": "Mara's POV. Day zero. No countdown left. Mara plays one last piece in the band room where it started, leaves the @tuningfork password taped to Crane's empty desk, and walks out with Priya and Dex into an unscored future. Beat: freedom, quiet and earned."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01387",
+  "title": "Gideon and the Veil",
+  "author": "G. M. Pemberton",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Marguerite Ashgrove, the last oath-bound swordspeaker, keeps the ledgers of a guild that trades in impossible things. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the long winter finishes falling.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1387
+  }
+}

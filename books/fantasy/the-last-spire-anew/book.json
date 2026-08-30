@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02125",
+  "title": "The Last Spire Anew",
+  "author": "Odile Okonkwo",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Gideon Halloran, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2125
+  }
+}

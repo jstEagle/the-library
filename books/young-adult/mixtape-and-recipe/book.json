@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09970",
+  "title": "Mixtape and Recipe",
+  "author": "Mirabel Iversen",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Odile Eriksen, the eldest sibling raising the younger ones while mom works nights, is fine. Everything is fine. Obviously.. Then the teacher pairs nemesis with nemesis for a semester-long project — and she is pulled straight into the middle of it. Now she must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9970
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04213",
+  "title": "The Language of Anderlecht",
+  "author": "Xanthe Vane",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Zephyrine Hartwell, a letter-writer sending postcards to an address that burned down years ago, keeps a careful inventory of everything unsaid. Then the last speaker of a language asks for one final student — and they are pulled straight into the middle of it. To get through this, they must forgive the stranger in the old photographs before the mother's memory goes entirely.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4213
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "title": "Emrys and the Compass",
+  "slug": "adventure/emrys-and-the-compass",
+  "model": "stealth/ox-alpha",
+  "premise": "Kestrel Amberdale, a disgraced mountain guide living under a borrowed name in the border town of Vess, pulls a sealed chest from the flooded river and finds it marked with the crest of Callowmere, a nation erased from every map twenty years ago. Inside are expedition journals proving the old kingdom's fall was engineered by the very coalition that now governs the borderlands, along with a compass that doesn't point north but toward the last living heir. Hunted by a coalition agent who once was his friend, Kestrel must lead the heir and a ragtag expedition through the mountains he knows better than his own past, choosing between erasing himself forever or testifying to a truth that will cost him everything. The book ends at the ruins of Callowmere's capital, where Kestrel surrenders the compass, the debt, and his anonymity to a tribunal of exiles, trading his invisibility for a justice that may never be recognized by any living government.",
+  "about_author": "Tamsin Oyelaran is a former alpine rescue coordinator who spent a decade mapping river systems along disputed borders before turning to fiction. She writes adventure stories about people the law has failed, and she still carries her grandfather's broken compass on every hike.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Borrowed Names",
+      "summary": "Kestrel's POV. He guides a wealthy client down the Vess river trail, hiding his blacklisted identity behind the name 'Emrys.' A near-fatal slip on scree reveals his uncanny skill, and his client's suspicion plants unease. Emotional beat: the exhaustion of living as someone else."
+    },
+    {
+      "n": 2,
+      "title": "What the River Keeps",
+      "summary": "Kestrel's POV. After a flood, he finds a waterlogged chest wedged in the shallows, stamped with Callowmere's seal. Inside: journals, a strange brass compass, and a photograph of a child. Emotional beat: dread disguised as curiosity."
+    },
+    {
+      "n": 3,
+      "title": "The Debt Collector",
+      "summary": "Kestrel's POV. A creditor named Halloway arrives to collect Kestrel's mountain of debt and offers to forgive it if Kestrel hands over the chest. Kestrel refuses without knowing why. Emotional beat: the first irrational choice that changes everything."
+    },
+    {
+      "n": 4,
+      "title": "North Is a Lie",
+      "summary": "Kestrel's POV. He studies the compass and discovers it points not north but toward a fixed point deep in the mountains. The journals name a survivor: the Callowmere heir. Emotional beat: the past reaching through water and time."
+    },
+    {
+      "n": 5,
+      "title": "The Girl Who Sells Rain",
+      "summary": "Wren's POV. A street-smart water-seller and part-time smuggler notices Kestrel asking dangerous questions and decides he's either a mark or a meal ticket. Emotional beat: opportunism with a flicker of conscience."
+    },
+    {
+      "n": 6,
+      "title": "Coalition Men",
+      "summary": "Kestrel's POV. A coalition agent named Davor Reiss arrives in Vess asking about river salvage. Kestrel recognizes him: the friend who testified against him years ago. Emotional beat: old betrayal reopened like a wound."
+    },
+    {
+      "n": 7,
+      "title": "The Heir in the Foundry",
+      "summary": "Wren's POV. Following the compass, Kestrel and Wren find Sable, a young foundry worker with Callowmere features and a birthmark matching the photograph. She wants nothing to do with a dead kingdom. Emotional beat: inheritance as burden, not gift."
+    },
+    {
+      "n": 8,
+      "title": "Twenty Years of Silence",
+      "summary": "Sable's POV. Sable recounts her grandmother's fragmented stories of the fall of Callowmere, stories the coalition forbade. Kestrel realizes the journals corroborate everything. Emotional beat: grief for a homeland she never knew."
+    },
+    {
+      "n": 9,
+      "title": "Blacklist",
+      "summary": "Kestrel's POV. Flashback chapter: how Kestrel was blamed for an expedition disaster that killed four climbers, how Reiss signed the testimony, and how the truth was buried. Emotional beat: understanding that his exile was engineered too."
+    },
+    {
+      "n": 10,
+      "title": "Halloway's Price",
+      "summary": "Halloway's POV. The debt collector reports to Reiss, revealing he's been the agent's informant all along. Reiss orders the chest recovered and the bearers 'managed.' Emotional beat: banality of the machinery hunting them."
+    },
+    {
+      "n": 11,
+      "title": "The Expedition Forms",
+      "summary": "Wren's POV. Kestrel, Wren, and Sable recruit a cartographer, a defrocked priest, and a mute tracker. Each has a reason to vanish into the mountains. Emotional beat: the fragile arithmetic of trust among outcasts."
+    },
+    {
+      "n": 12,
+      "title": "Leaving Vess",
+      "summary": "Kestrel's POV. They slip out of town the night before a coalition sweep, Halloway's men one street behind. Wren's smuggler routes save them. Emotional beat: the door closing on the last safe place."
+    },
+    {
+      "n": 13,
+      "title": "The Low Pass",
+      "summary": "Kestrel's POV. The first mountain leg tests the team; the priest, Father Ivo, questions whether exposing the truth will heal anything or just reopen graves. Emotional beat: doubt as a traveling companion."
+    },
+    {
+      "n": 14,
+      "title": "Reiss Ascending",
+      "summary": "Reiss's POV. Reiss follows with a squad, haunted by his own role in the cover-up and by what he owes Kestrel from before. Emotional beat: the hunter who envies the hunted."
+    },
+    {
+      "n": 15,
+      "title": "The Compass Points Home",
+      "summary": "Sable's POV. The compass needle steadies toward a valley Sable has dreamed about her whole life. She begins to accept she is the heir the journals describe. Emotional beat: terror and belonging arriving together."
+    },
+    {
+      "n": 16,
+      "title": "Bridge at Marrow Ford",
+      "summary": "Wren's POV. A collapsed bridge forces a river crossing; the mute tracker nearly drowns saving the journals. Wren realizes she's stopped thinking of this as a job. Emotional beat: loyalty crystallizing under pressure."
+    },
+    {
+      "n": 17,
+      "title": "Halloway Closes In",
+      "summary": "Halloway's POV. Halloway ambushes the camp at dawn; Kestrel talks him down by promising him the one thing he truly wants, release from Reiss's leash. Emotional beat: an enemy flipped by an honest lie."
+    },
+    {
+      "n": 18,
+      "title": "The Cartographer's Secret",
+      "summary": "Cartographer Odell's POV. Odell admits he helped erase Callowmere from official maps and has been searching for redemption ever since. Emotional beat: complicity confessed at altitude."
+    },
+    {
+      "n": 19,
+      "title": "Stormbound",
+      "summary": "Kestrel's POV. A three-day storm traps them in a cave; Kestrel and Sable trade stories, and she asks the question he's dodged: what will he do when the truth costs him his last hiding place? Emotional beat: intimacy forged in confinement."
+    },
+    {
+      "n": 20,
+      "title": "Reiss's Doubt",
+      "summary": "Reiss's POV. Reiss finds evidence his own superiors ordered the Callowmere disaster and that the expedition Kestrel was blamed for was sabotaged to silence him. Emotional beat: the hunter's world inverted."
+    },
+    {
+      "n": 21,
+      "title": "The Ambush at the Saddle",
+      "summary": "Wren's POV. Coalition soldiers attack at a high saddle; the tracker is killed holding the line. The group escapes but is broken. Emotional beat: the first death they cannot rationalize."
+    },
+    {
+      "n": 22,
+      "title": "What We Owe the Dead",
+      "summary": "Father Ivo's POV. Ivo buries the tracker and nearly leaves the expedition, then chooses to stay, deciding witness is a form of prayer. Emotional beat: faith rebuilt on ruins."
+    },
+    {
+      "n": 23,
+      "title": "The Erased Valley",
+      "summary": "Sable's POV. They descend into a valley that appears on no map, where Callowmere refugees built a hidden settlement that still endures. Emotional beat: a dead nation breathing."
+    },
+    {
+      "n": 24,
+      "title": "The Elders' Reckoning",
+      "summary": "Kestrel's POV. The settlement elders know the journals' authors and confirm the coalition's crime, but warn that carrying the truth out will bring soldiers to the last free Callowmere ground. Emotional beat: the cost of testimony made concrete."
+    },
+    {
+      "n": 25,
+      "title": "Sable's Choice",
+      "summary": "Sable's POV. The elders ask Sable to stay and lead in hiding; she refuses, insisting justice must be public or it is just another secret. Emotional beat: claiming an inheritance on her own terms."
+    },
+    {
+      "n": 26,
+      "title": "Halloway's Gamble",
+      "summary": "Halloway's POV. Halloway, caught between Kestrel's promise and Reiss's threats, feeds Reiss false coordinates, buying the expedition two days. Emotional beat: a small man's first large act."
+    },
+    {
+      "n": 27,
+      "title": "Reiss Alone",
+      "summary": "Reiss's POV. Reiss's superiors, learning of his doubts, order his own 'management.' He burns his orders and goes off-grid, now a hunted man. Emotional beat: defection as self-rescue."
+    },
+    {
+      "n": 28,
+      "title": "The High Route",
+      "summary": "Kestrel's POV. The only path to the capital ruins crosses a glacier Kestrel's dead expedition once mapped. He confronts the route that destroyed him. Emotional beat: mastery reclaimed from trauma."
+    },
+    {
+      "n": 29,
+      "title": "Crevasse",
+      "summary": "Wren's POV. Odell falls into a crevasse; Kestrel's rescue mirrors, almost exactly, the disaster he was blamed for. This time, no one dies. Emotional beat: the past rewritten in ice."
+    },
+    {
+      "n": 30,
+      "title": "Odell's Map",
+      "summary": "Odell's POV. Gravely injured, Odell completes a new map of Callowmere, restoring the erased nation to paper. Emotional beat: a life's penance finished."
+    },
+    {
+      "n": 31,
+      "title": "The Gates of Callowmere",
+      "summary": "Sable's POV. They reach the ruined capital, its seal matching the chest, its archives intact beneath rubble. The compass needle finally spins free, its purpose spent. Emotional beat: arrival that feels like mourning."
+    },
+    {
+      "n": 32,
+      "title": "What the Archives Say",
+      "summary": "Kestrel's POV. The archives prove the coalition engineered the famine and the border disaster that framed Kestrel. He finds his own name in the orders. Emotional beat: vindication that tastes like ash."
+    },
+    {
+      "n": 33,
+      "title": "Reiss at the Gates",
+      "summary": "Reiss's POV. Reiss arrives unarmed, offering his testimony and his knowledge of the coalition's chain of command. Kestrel must decide whether a betrayer can become a witness. Emotional beat: forgiveness as strategy, not sentiment."
+    },
+    {
+      "n": 34,
+      "title": "Halloway's End",
+      "summary": "Halloway's POV. Coalition trackers catch Halloway; he dies refusing to give up the expedition's route. Emotional beat: the debt collector paying his own debt."
+    },
+    {
+      "n": 35,
+      "title": "The Tribunal of Exiles",
+      "summary": "Father Ivo's POV. In the ruins, a tribunal of Callowmere survivors convenes. Kestrel, Sable, Reiss, and Odell's map are presented as evidence. Emotional beat: law reborn where law was murdered."
+    },
+    {
+      "n": 36,
+      "title": "Kestrel's Testimony",
+      "summary": "Kestrel's POV. Kestrel testifies under his true name for the first time in years, surrendering 'Emrys' and the invisibility it bought. Emotional beat: identity reclaimed at the moment of maximum danger."
+    },
+    {
+      "n": 37,
+      "title": "The Coalition Comes",
+      "summary": "Wren's POV. Coalition forces reach the valley; the settlement's defenders, the terrain, and Reiss's knowledge of their tactics hold them off. Emotional beat: the weak armed with the truth."
+    },
+    {
+      "n": 38,
+      "title": "The Compass Surrendered",
+      "summary": "Sable's POV. Sable gives the compass to the tribunal, refusing to be a symbol; the needle's target, it's revealed, was this archive all along, the proof waiting to be found. Emotional beat: destiny demoted to duty."
+    },
+    {
+      "n": 39,
+      "title": "Verdict",
+      "summary": "Kestrel's POV. The tribunal rules the evidence must be carried to the world's courts, whatever the cost. Kestrel volunteers to lead the expedition out, blacklisted no longer but more exposed than ever. Emotional beat: courage chosen with eyes open."
+    },
+    {
+      "n": 40,
+      "title": "Emrys and the Compass",
+      "summary": "Kestrel's POV, final chapter. The expedition descends toward the lowlands, the truth in their packs and soldiers on the horizon. Kestrel no longer hides his face or his name. Emotional beat: a man finally walking in his own direction."
+    }
+  ]
+}

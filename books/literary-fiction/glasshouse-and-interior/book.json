@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04701",
+  "title": "Glasshouse and Interior",
+  "author": "Xanthe Montrose",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Casper Sterling, a piano tuner who hears the house's history in its radiators, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, he discovers that staying invisible was never really an option. To get through this, he must translate the untranslatable sentence and live with it before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "identity",
+    "belonging",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4701
+  }
+}

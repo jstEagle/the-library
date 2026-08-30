@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02509",
+  "title": "Harbor and Bridge",
+  "author": "Orsen Lockridge",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Elodie Winterbourne, a widowed lighthouse keeper during the year of the great storms, measures the world in what can be carried when the orders come. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. Now he must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2509
+  }
+}

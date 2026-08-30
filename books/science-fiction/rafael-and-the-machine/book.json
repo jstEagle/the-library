@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07819",
+  "title": "Rafael and the Machine",
+  "author": "Mara Thornbury",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Petra Dunmore, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. Then an unfamiliar name shows up on the manifest of a ship that never flew — and they are pulled straight into the middle of it. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7819
+  }
+}

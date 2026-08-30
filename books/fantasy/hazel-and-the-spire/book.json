@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01350",
+  "title": "Hazel and the Spire",
+  "author": "Tamsin Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Xanthe Vane, a beast-speaker hiding a forbidden gift, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1350
+  }
+}

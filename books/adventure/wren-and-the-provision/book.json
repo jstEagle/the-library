@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00498",
+  "title": "Wren and the Provision",
+  "author": "H. M. Oyelaran",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Yara Hartwell, a riverboat captain who knows every sandbar's mood, has spent three years measuring life in miles rather than years. But when an expedition upriver stops answering the radio, she discovers that staying invisible was never really an option. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 498
+  }
+}

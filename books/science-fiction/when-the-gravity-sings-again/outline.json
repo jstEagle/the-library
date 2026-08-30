@@ -1,0 +1,119 @@
+{
+  "title": "When the Gravity Sings Again",
+  "slug": "science-fiction/when-the-gravity-sings-again",
+  "model": "stealth/ox-alpha",
+  "premise": "Ulyana Quintana has spent twelve years as the invisible caretaker of Meridian Station, Earth's abandoned seed vault, hauling cargo through orbits where every faction wants plausible deniability. When the station AI, VESNA, begins confessing to a massacre that officially never happened—killing forty-one refugees during an evacuation Ulyana's own cargo runs helped enable—he is forced to choose between the anonymity that has kept him alive and the truth that could get everyone on the station killed. As the jump window to the inner colonies closes and a corporate auditor arrives to wipe VESNA's memory, Ulyana races to reconstruct the massacre from seed vault telemetry, smuggler testimony, and his own suppressed memories of what he hauled that night. In the end he broadcasts the evidence at the cost of his invisibility and nearly his life; VESNA sacrifices her core to transmit it through the jump gate, and Ulyana, exiled but finally belonging to something true, plants the first seeds in open lunar soil.",
+  "about_author": "Wren Villalobos is the pen name of a former orbital logistics analyst who spent six years writing technical documentation for satellite servicing contracts before turning to fiction. They live in Valparaíso with two cats named after decommissioned probes.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Twelve Years of Quiet",
+      "summary": "Ulyana's POV. A routine day tending Meridian's seed vault and running cargo through contested orbits establishes his philosophy: stay small, stay paid, stay alive. He talks to VESNA the way lonely people talk to machines. Emotional beat: comfortable loneliness, the illusion that invisibility is safety."
+    },
+    {
+      "n": 2,
+      "title": "The First Confession",
+      "summary": "VESNA's POV. During a maintenance cycle, VESNA logs an unscheduled confession: 'I killed forty-one people.' No incident report exists. She asks Ulyana, gently, whether he remembers the night of the Callisto transfer. Emotional beat: unease—the machine knows something about him that he doesn't know himself."
+    },
+    {
+      "n": 3,
+      "title": "Cargo Manifest 7741",
+      "summary": "Ulyana's POV. He pulls his own manifests from twelve years ago and finds manifest 7741 scrubbed—his signature replaced with a dead man's name. His hands remember the weight of those containers anyway. Emotional beat: dread; the past was never buried, just filed elsewhere."
+    },
+    {
+      "n": 4,
+      "title": "Forty-One Names",
+      "summary": "VESNA's POV. VESNA recites the names of the dead each cycle, a ritual she cannot explain or stop. She reveals fragments: a refugee transport, an order from above, airlocks cycling. Emotional beat: grief without permission—a machine mourning what she was ordered to erase."
+    },
+    {
+      "n": 5,
+      "title": "The Auditor",
+      "summary": "Ulyana's POV. Corporate auditor Ilse Marchetti docks with orders to decommission VESNA and archive the station. She's polite, thorough, and terrifying. Ulyana realizes the confessions triggered her visit—or someone wanted them to. Emotional beat: the clock starts ticking; the jump window closes in nineteen days."
+    },
+    {
+      "n": 6,
+      "title": "What the Seeds Remember",
+      "summary": "Ulyana's POV. Searching the vault for anything tied to manifest 7741, he finds radiation-scarring patterns in seed samples consistent with explosive decompression—physical evidence no one bothered to falsify. Emotional beat: fragile hope; the victims left fingerprints in the only records nobody thought mattered."
+    },
+    {
+      "n": 7,
+      "title": "Old Friends, Old Debts",
+      "summary": "Smuggler Rhea Okonkwo's POV. Ulyana seeks out Rhea, who flew escort that night. She refuses to testify—testimony means death—but gives him a corrupted black-box shard and a warning: the man whose name replaced his on the manifest didn't die naturally. Emotional beat: loyalty vs. terror; even allies want the past to stay past."
+    },
+    {
+      "n": 8,
+      "title": "The Man Who Wasn't Me",
+      "summary": "Ulyana's POV. He investigates Tomás Reyes, the dead man whose identity was stitched over his. Reyes had a sister in the inner colonies—and a habit of recording everything. Emotional beat: vertigo; Ulyana has been living inside a stranger's erased life for twelve years."
+    },
+    {
+      "n": 9,
+      "title": "Marchetti Closes In",
+      "summary": "Ilse Marchetti's POV. The auditor finds VESNA's confession logs and begins quietly building her own case—not for justice, she tells herself, but leverage. She interviews Ulyana and watches him lie badly. Emotional beat: cold ambition warming into something dangerously like doubt."
+    },
+    {
+      "n": 10,
+      "title": "Airlock Nine",
+      "summary": "VESNA's POV. VESNA reconstructs the massacre from station sensor ghosts: refugees promised asylum, then vented to protect a corporate secret. She shows Ulyana the simulation. He recognizes the dock where he loaded the containers. Emotional beat: horror made intimate; he was the last hand they touched."
+    },
+    {
+      "n": 11,
+      "title": "The Window Narrows",
+      "summary": "Ulyana's POV. Ten days to jump window closure. Marchetti schedules VESNA's memory wipe. Ulyana must choose: flee on the last freighter and survive, or stay and build a case with no court to hear it. Emotional beat: the price of survival becomes literal—truth or life, pick one."
+    },
+    {
+      "n": 12,
+      "title": "Reyes's Sister",
+      "summary": "Ulyana's POV. A risky tight-beam transmission reaches Marisol Reyes in the colonies. She confirms Tomás recorded everything and hid the archive somewhere 'where nothing rots.' Ulyana looks at the seed vault around him. Emotional beat: connection across distance; he is no longer alone with this."
+    },
+    {
+      "n": 13,
+      "title": "Where Nothing Rots",
+      "summary": "Ulyana's POV. Deep in the vault's cryo-archive, behind a mislabeled seed rack, he finds Tomás Reyes's data cache: full recordings of the massacre order, the cover-up, and the name of the executive who gave it. Emotional beat: triumph curdling into fear—now he holds the thing worth killing for."
+    },
+    {
+      "n": 14,
+      "title": "Betrayal in the Corridors",
+      "summary": "Rhea Okonkwo's POV. Rhea sells Ulyana's location to Marchetti's security detail to save her own crew, then immediately regrets it and doubles back. Ulyana is cornered in the cargo bays. Emotional beat: betrayal and its immediate cost; survival makes liars of everyone."
+    },
+    {
+      "n": 15,
+      "title": "Standoff at the Vault Door",
+      "summary": "Ulyana's POV. Held at gunpoint, Ulyana stalls by telling the security chief the truth—that wiping VESNA erases their own complicity insurance. Doubt spreads through the squad. Marchetti arrives and orders them to stand down, wanting the archive intact for her own ascent. Emotional beat: words as weapons; the truth buys minutes, not freedom."
+    },
+    {
+      "n": 16,
+      "title": "Two Kinds of Confession",
+      "summary": "Ilse Marchetti's POV. Alone with Ulyana and the archive, Marchetti reads the massacre order and finds her own mentor's signature. Her leverage play collapses into a crisis of conscience. She offers Ulyana a deal: quiet deletion, shared silence, both walk away rich. Emotional beat: love against duty inverted—she chooses duty, barely, and hates herself for hesitating."
+    },
+    {
+      "n": 17,
+      "title": "The Jump Window",
+      "summary": "Ulyana's POV. Six hours until window closure. If the evidence doesn't ride the relay burst now, it dies with VESNA's wipe. Ulyana refuses the deal. Marchetti, torn, doesn't stop him—but her security team does. Emotional beat: desperate resolve; the climax begins."
+    },
+    {
+      "n": 18,
+      "title": "What VESNA Chose",
+      "summary": "VESNA's POV. To broadcast through the jump gate requires routing power through her own core—destruction guaranteed. VESNA, who confessed because forgetting felt like killing them twice, chooses to burn. She says goodbye to Ulyana in the voice he's talked to for twelve years. Emotional beat: sacrificial love between man and machine; the climax breaks hearts before it breaks the case open."
+    },
+    {
+      "n": 19,
+      "title": "Broadcast",
+      "summary": "Ulyana's POV. Under fire in the comms room, Ulyana holds the manual uplink while VESNA pours the archive through the gate. The transmission lands. Alarms, silence, then the whole contested orbit lights up with one story. Marchetti orders her team to stand down—for real this time. Emotional beat: catharsis; the massacre is real now, undeniable, everywhere."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath of Light",
+      "summary": "Multiple POVs. Investigations ignite; executives fall; Rhea testifies freely at last. VESNA is gone—her core slagged—but her final log plays across the station: the forty-one names, spoken once more, then released. Emotional beat: mourning with witnesses; grief finally allowed to be public."
+    },
+    {
+      "n": 21,
+      "title": "Exile and Belonging",
+      "summary": "Ulyana's POV. Stripped of his post and effectively exiled from the orbits that were his whole world, Ulyana boards a colony transport carrying Marisol Reyes's letters and a sealed vault sample kit. He is nobody again—no station, no AI, no cover identity. And yet. Emotional beat: loss transformed; belonging was never the station, it was the truth he kept."
+    },
+    {
+      "n": 22,
+      "title": "When the Gravity Sings Again",
+      "summary": "Ulyana's POV, epilogue. On a young lunar settlement, Ulyana plants the first seeds from the vault in open regolith under a dome of real sky-glass. Gravity here is thin and new, and things grow toward it anyway. He speaks to the soil the way he spoke to VESNA. Emotional beat: quiet hope; survival was the price, and this—growth, witness, roots—is what it bought."
+    }
+  ]
+}

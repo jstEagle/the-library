@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04976",
+  "title": "A Autopsy for the Ledger",
+  "author": "Rafael Okonkwo",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Gideon Fairweather, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4976
+  }
+}

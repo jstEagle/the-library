@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00987",
+  "title": "August and the Choir",
+  "author": "Beatrix Villalobos",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Tamsin Marchetti, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 987
+  }
+}

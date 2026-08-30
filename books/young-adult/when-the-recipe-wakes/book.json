@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09620",
+  "title": "When the Recipe Wakes",
+  "author": "S. M. Vasquez",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Odile Nystrom, a coder whose anonymous account knows too much, has spent five years being so careful it hurts. Then a best friend goes missing, leaving only a set of keys behind — and he is pulled straight into the middle of it. To get through this, he must expose what the school board buried before prom.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9620
+  }
+}

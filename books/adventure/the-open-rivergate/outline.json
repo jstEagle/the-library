@@ -1,0 +1,119 @@
+{
+  "title": "The Open Rivergate",
+  "slug": "adventure/the-open-rivergate",
+  "model": "stealth/ox-alpha",
+  "premise": "When a government survey team vanishes in the Serran highlands, disgraced mountain guide Lior Almeida is the only person both desperate enough and skilled enough to search for them. Following the river upstream into the forbidden Rivergate basin, she uncovers evidence that the team found something worth killing for: an uncharted geothermal system the state plans to flood, erasing three villages from the map. Hunted by the survey's military escort, shadowed by a defector who knows too much, and forced to choose between exposing the truth and protecting the people who once sheltered her, Lior must decide what survival is actually for. In the end she leads the villagers through the flooded gorge at night, trading her own freedom—and the man she has come to love—for their escape, sending the evidence downstream while she surrenders to the soldiers on the riverbank.",
+  "about_author": "Tamsin Sterling is a former river ranger who spent a decade mapping remote waterways before turning to fiction full-time. She writes adventure novels from a cabin above the confluence of two unnamed rivers.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Blacklist",
+      "summary": "Lior Almeida works under a false name guiding hunters through the low valleys of the Serran range, avoiding checkpoints and old colleagues. A former client recognizes her, forcing her to consider moving on. POV: Lior. Emotional beat: the exhaustion of invisibility and the quiet grief of a life cut in half."
+    },
+    {
+      "n": 2,
+      "title": "Gear With No Tracks",
+      "summary": "A villager brings Lior a crate of government-issue survey equipment found wedged in rocks beside the river—intact, dry, and impossibly far from any trail. No footprints, no drag marks, no bodies. POV: Lior. Emotional beat: unease sharpening into obsession; the wilderness has presented her a riddle she cannot refuse."
+    },
+    {
+      "n": 3,
+      "title": "The Summons She Refused",
+      "summary": "A state liaison named Captain Voss arrives offering amnesty in exchange for joining the official search. Lior refuses, knowing how the last 'amnesty' ended. That night someone searches her cabin. POV: Lior. Emotional beat: distrust as armor; the first hint that the disappearance is not an accident but a story being edited."
+    },
+    {
+      "n": 4,
+      "title": "What the River Keeps",
+      "summary": "Lior finds a surveyor's journal page waterproofed in a cairn upstream: coordinates above the legal limit, and a single scrawled line—'the map is wrong on purpose.' POV: Lior. Emotional beat: the thrill of forbidden knowledge and the weight of knowing it makes her a target."
+    },
+    {
+      "n": 5,
+      "title": "The Defector",
+      "summary": "Lior catches a man raiding her supplies: Elias Renner, the survey team's cartographer, who walked out alive and has been hiding ever since. He claims the team voted to fake its own disappearance. POV: alternating Lior and Elias. Emotional beat: mutual hostage-taking that curdles into wary alliance."
+    },
+    {
+      "n": 6,
+      "title": "Three Villages Under Water",
+      "summary": "Elias reveals the truth: the team mapped a geothermal basin the state intends to dam and flood, drowning the villages of Kestrel Ford, Lowmark, and Ansel's Reach. The team split over whether to go public; half never came down. POV: Elias. Emotional beat: guilt—he drew the maps that will erase his own birthplace."
+    },
+    {
+      "n": 7,
+      "title": "Kestrel Ford",
+      "summary": "Lior and Elias descend to Kestrel Ford to warn the villagers, where Lior is recognized by Maren, the woman who sheltered her after the blacklist. Some villagers want to flee; others refuse to abandon ancestral ground. POV: Lior. Emotional beat: love against duty—the community that saved her now asks the impossible."
+    },
+    {
+      "n": 8,
+      "title": "Voss Closes the Net",
+      "summary": "Captain Voss declares the valley closed for a 'geological hazard,' sealing roads and posting patrols. Maren hides Lior in a root cellar during a sweep. POV: Voss, then Lior. Emotional beat: claustrophobic dread; Voss is revealed not as a villain but a believer doing arithmetic with lives."
+    },
+    {
+      "n": 9,
+      "title": "The Second Journal",
+      "summary": "Elias decodes the missing half of the survey records hidden in Ansel's Reach: proof the state knew the flooding would also rupture the geothermal field, poisoning the watershed for a hundred miles downstream. POV: Elias. Emotional beat: horror hardening into resolve; the truth is bigger than three villages."
+    },
+    {
+      "n": 10,
+      "title": "Upstream",
+      "summary": "Lior, Elias, and Maren's son Dov slip past the patrol line and begin the ascent toward the forbidden source, racing the onset of the storm season. POV: Lior. Emotional bond between the trio forms. Emotional beat: purpose replacing fear; the river becomes a character pulling them onward."
+    },
+    {
+      "n": 11,
+      "title": "The Scree Field",
+      "summary": "A rockslide separates the group; Dov breaks his arm and Elias nearly goes over the edge before Lior anchors him. They lose two days and most of their food. POV: Elias. Emotional beat: the price of survival made physical—every mile forward costs something irreplaceable."
+    },
+    {
+      "n": 12,
+      "title": "Camp of the Vanished",
+      "summary": "They find the survey team's high camp: tents pitched, stove cold, and five sets of gear arranged neatly—as if the owners stepped out mid-meal. Only one body, long frozen, bearing no wounds. POV: Lior. Emotional beat: uncanny terror; the mountain keeps its own counsel."
+    },
+    {
+      "n": 13,
+      "title": "The Source",
+      "summary": "At the rivergate itself they find the truth: a steaming fissure lake feeding the river, and the four surviving surveyors living wild, hiding from the escorts who were ordered to silence them. Their leader is Lior's old mentor, Ilsa Brandt—the woman whose testimony blacklisted her. POV: Lior. Emotional beat: betrayal and reunion colliding."
+    },
+    {
+      "n": 14,
+      "title": "Ilsa's Confession",
+      "summary": "Ilsa admits she stayed silent years ago when Lior was blamed for a client's death—a death caused by falsified route maps Ilsa was ordered to approve. Her silence bought her career and cost Lior everything. POV: Ilsa. Emotional beat: loyalty vs. truth laid bare; forgiveness offered but not yet earned."
+    },
+    {
+      "n": 15,
+      "title": "The Escort Arrives",
+      "summary": "Voss's strike team reaches the basin ahead of schedule, guided by a tracker who read Lior's trail like scripture. A standoff in the fog; one surveyor is killed covering the others' escape. POV: Voss. Emotional beat: Voss wavers as he sees the fissure lake and understands what the dam will unleash."
+    },
+    {
+      "n": 16,
+      "title": "Splitting the Evidence",
+      "summary": "The group copies the geological proof onto three separate media: one for Elias to carry downstream, one sewn into Dov's jacket, one left with Ilsa. If any one of them is caught, the truth survives. POV: Elias. Emotional beat: grim hope; trust distributed like ballast."
+    },
+    {
+      "n": 17,
+      "title": "The Gorge at Night",
+      "summary": "With the dam's diversion tunnels about to close, the only escape for the villages is through the gorge before the waters rise. Lior leads forty villagers, elders and children included, through the narrowing canyon by lantern light. POV: Lior. Emotional beat: terror transmuted into fierce tenderness; every hand she pulls across the water is a debt repaid."
+    },
+    {
+      "n": 18,
+      "title": "What Elias Carried",
+      "summary": "Elias is intercepted at the low bridge and chooses to burn his copy rather than surrender it, escaping wounded into the reed marshes. Voss recovers ash and nothing else. POV: Elias. Emotional beat: sacrifice without witness; the loneliest courage."
+    },
+    {
+      "n": 19,
+      "title": "The Bargain",
+      "summary": "Cornered on the riverbank with the last villagers still crossing, Lior offers Voss a trade: herself and Ilsa in exchange for letting the column pass unmolested. Voss, having seen the fissure, accepts—and quietly misfiles his report. POV: Lior and Voss. Emotional beat: love against duty resolved in reverse; she gives up the future she'd just begun to want."
+    },
+    {
+      "n": 20,
+      "title": "Downstream",
+      "summary": "Dov delivers his copy of the evidence to a journalist in the capital city; the geothermal scandal breaks, the dam project is suspended, and the villages are spared. Elias, recovering in a marsh hamlet, learns the news from a radio. POV: Dov, then Elias. Emotional beat: vindication arriving like spring thaw—slow, then all at once."
+    },
+    {
+      "n": 21,
+      "title": "The Riverbank",
+      "summary": "Months later, Lior waits in a detention facility while hearings unfold. Ilsa testifies, finally telling the whole truth, and the blacklist is struck down. On the day of release, Elias is waiting at the gate with two packs and a river permit for the upper Serran. POV: Lior. Emotional beat: love against duty answered at last—she chose duty, and love chose her back."
+    },
+    {
+      "n": 22,
+      "title": "The Open Rivergate",
+      "summary": "Lior and Elias guide the first legal expedition to the source, now a protected reserve. At the fissure lake, Lior scatters Ilsa's ashes—she died that winter, free and cleared. The river runs open to the sea, carrying every secret to light. POV: Lior. Emotional beat: peace earned at cost; the wilderness forgives nothing, but people, given time, forgive almost anything."
+    }
+  ]
+}

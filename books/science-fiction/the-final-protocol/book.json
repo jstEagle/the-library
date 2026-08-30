@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07262",
+  "title": "The Final Protocol",
+  "author": "Lior Villalobos",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Sable Fairweather, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and they are pulled straight into the middle of it. To get through this, they must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7262
+  }
+}

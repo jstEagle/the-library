@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05808",
+  "title": "Odile and the Letter",
+  "author": "Elodie Reyes",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Tamsin Zhou, a retired detective running a failing bookshop, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5808
+  }
+}

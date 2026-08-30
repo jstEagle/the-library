@@ -1,0 +1,21 @@
+{
+  "id": "THR-09296",
+  "title": "Isandro and the Border",
+  "author": "O. M. Almeida",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Dominic Quintana, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. To get through this, he must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9296
+  }
+}

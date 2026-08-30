@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04470",
+  "title": "Aftermath and Language",
+  "author": "Mirabel Amberdale",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Quentin Dravenmoor, a restaurant critic who has forgotten how food tastes, keeps a careful inventory of everything unsaid. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. Now they must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4470
+  }
+}

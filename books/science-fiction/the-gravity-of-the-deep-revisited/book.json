@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08391",
+  "title": "The Gravity of the Deep Revisited",
+  "author": "Freya Blackwood",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Oscar Blackwood, a decommissioned war android paying off its debts, has spent twelve years hauling cargo through contested orbits. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. To get through this, they must prove a massacre happened when every record says otherwise before Earth's last transmission loop ends.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8391
+  }
+}

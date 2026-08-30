@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02754",
+  "title": "A Bridge for the Clock",
+  "author": "Ansel Thackeray",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Tamsin Thackeray, a mapmaker's apprentice finishing the atlas the master died for, has spent fifteen years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. Now she must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2754
+  }
+}

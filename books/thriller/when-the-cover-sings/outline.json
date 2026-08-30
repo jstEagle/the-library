@@ -1,0 +1,29 @@
+{
+  "title": "When the Cover Sings",
+  "slug": "thriller/when-the-cover-sings",
+  "model": "stealth/ox-alpha",
+  "premise": "Noor Nakamura, a ghost-hired interpreter for a collapsing peace delegation in Geneva, has built her career on being unattributable—until a voiceprint she recorded for a routine transcript unlocks a shadow server in Frankfurt holding proof that the delegation's chief mediator engineered the war he is brokering peace for. Hunted by the mediator's fixer and shadowed by Elias Brandt, the delegation's security officer who has quietly fallen for her, Noor must decide whether to bury the evidence and keep her invisibility or expose it and lose everything. In the end she broadcasts the files minutes before Frankfurt's markets open, sacrificing her anonymity and nearly her life, and chooses Elias and truth over the safe silence she once called belonging.",
+  "about_author": "Jonah Oyelaran is a former conference interpreter who spent a decade working behind glass in rooms where wars were priced. He writes thrillers about people whose voices belong to everyone but themselves.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Glass Booth",
+      "summary": "POV Noor. During a fractious Geneva session, Noor interprets a mediation she already knows is doomed, noticing the mediator, Arno Voss, using phrases that seem rehearsed to fail. A routine transcription request sends her a voice file of Voss that her software flags as an access key. Emotional beat: quiet unease—the first crack in her carefully invisible life."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "POV Noor, with one interlude from Elias. The voiceprint unlocks a Frankfurt server containing Voss's correspondence proving he armed both sides of the conflict he now mediates. The fixer Marek traces the access within hours; a colleague dies in what's ruled an accident. Elias begins watching Noor—not hunting her, protecting her. Emotional beat: fear sharpening into resolve."
+    },
+    {
+      "n": 3,
+      "title": "Before the Bell",
+      "summary": "POV alternating Noor and Elias. With markets opening at dawn in Frankfurt, Marek corners Noor during the delegation's final gala, offering her erasure in exchange for silence—and revealing Elias was sent to monitor her all along. Betrayed, Noor flees through the city with the decryption key hidden in a live interpretation feed only she can trigger. Emotional beat: heartbreak fusing with defiance."
+    },
+    {
+      "n": 4,
+      "title": "Attribution",
+      "summary": "POV Noor, closing with Elias. At the delegation's closing plenary, Noor hijacks the simultaneous feed to broadcast Voss's files globally seconds before Frankfurt opens; Marek is arrested mid-extraction while Voss's coalition collapses on live audio. Wounded but alive, Noor signs her name to the transcript for the first time. Emotional beat: costly liberation—belonging chosen, not hidden into."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00427",
+  "title": "The Salt Summit",
+  "author": "Ansel Fairweather",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Rosalind Oyelaran, a bush pilot flying medicine and rumors into the interior, has spent five years measuring life in miles rather than years. Then the river gives up a chest stamped with a dead nation's seal — and she is pulled straight into the middle of it. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 427
+  }
+}

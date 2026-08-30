@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07887",
+  "title": "Ada and the Signal",
+  "author": "Ines Nystrom",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Juniper Fairweather, a xenolinguist who can no longer dream in human languages, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7887
+  }
+}

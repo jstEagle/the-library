@@ -1,0 +1,21 @@
+{
+  "id": "THR-08642",
+  "title": "When the Border Breaks",
+  "author": "Rosalind Dravenmoor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Vesper Ashgrove, a financial-crimes investigator drowning in clean money, has spent ten years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and she is pulled straight into the middle of it. To get through this, she must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8642
+  }
+}

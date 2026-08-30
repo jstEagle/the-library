@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03195",
+  "title": "The Patient Room",
+  "author": "Odile Sterling",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Dominic Iversen, a twin who came home to bury the wrong sibling, keeps the lights on and the doors counted. Then all the photographs from grandma's house now include an extra chair — and they are pulled straight into the middle of it. To get through this, they must finish the ritual the founders started before the harvest moon rises.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3195
+  }
+}

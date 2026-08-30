@@ -1,0 +1,59 @@
+{
+  "title": "The Quiet Terminal",
+  "slug": "science-fiction/the-quiet-terminal",
+  "model": "stealth/ox-alpha",
+  "premise": "Freya Vasquez navigates the Meridian, a freighter running supplies between colonies severed from the fleet's authority, while the hold carries illegal memory-backups of passengers who died in a massacre the fleet officially erased. When the ship Calloway's Wake returns with its crew aged backward into children who remember everything, Freya becomes the only living witness-adjacent to a crime every record denies. Racing the truce that will grant the fleet amnesty for all pre-war atrocities, she must smuggle the child-witnesses and her contraband backups to an independent tribunal at Terminus Station. The book ends with Freya sacrificing her own clean record and freedom to testify, the massacre acknowledged and the truce rewritten, as the Meridian departs with a crew of found family and a hold finally empty.",
+  "about_author": "Ansel Eastwick is the pen name of a former merchant marine radio officer who spent eleven years on deep-space supply runs before turning to fiction. They write about people whose jobs keep civilizations alive but never make the histories.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Route",
+      "summary": "Freya's POV. Establishes the Meridian's run between silent colonies, the sleeping backups in the hold, and the truce clock ticking in the background newsfeeds. Freya logs a routine jump while avoiding questions from her engineer, Doss, about what exactly they're carrying. Emotional beat: weary complicity—she knows staying invisible is a choice she makes daily."
+    },
+    {
+      "n": 2,
+      "title": "Calloway's Wake",
+      "summary": "Freya's POV. A distress ping leads them to the derelict Calloway's Wake drifting off-route; aboard they find thirty crew members de-aged to children, physically six years old, clutching memories of an event no database contains. One child, Imre, recognizes Freya's voice. Emotional beat: dread—the past has literally come back younger than the lie that buried it."
+    },
+    {
+      "n": 3,
+      "title": "Children of the Event",
+      "summary": "Doss's POV. The crew debates what to do: report the Wake and expose themselves, or take the children in. Doss, who lost siblings in the massacre, argues to keep them. The children sleep in shifts, dreaming aloud in unison. Emotional beat: reluctant guardianship hardening into resolve."
+    },
+    {
+      "n": 4,
+      "title": "What the Records Say",
+      "summary": "Freya's POV. At relay station Vetch, Freya pulls official archives: the colony Meridian-9 shows a thriving population census dated after the date the children describe its destruction. She realizes the fleet didn't just hide the massacre—it fabricated a world. Emotional beat: vertigo of gaslighting at civilizational scale."
+    },
+    {
+      "n": 5,
+      "title": "The Backup Manifest",
+      "summary": "Imre's POV, rendered through Freya's translation of the child's fragmented testimony. Imre explains the de-aging was the fleet's own experimental 'mercy protocol'—witnesses reset beyond credible testimony. But the backups in Freya's hold are the same technology, meaning her cargo can corroborate the children. Emotional beat: horrified hope—the evidence she smuggled is the key."
+    },
+    {
+      "n": 6,
+      "title": "Interdiction",
+      "summary": "Doss's POV. A fleet patrol vessel hails the Meridian demanding inspection. Freya bluffs them off using her navigator credentials, but the patrol tags their transponder. Now they're flagged, and every port ahead is closing. Emotional beat: paranoia tightening; invisibility is over."
+    },
+    {
+      "n": 7,
+      "title": "Terminus or Nothing",
+      "summary": "Freya's POV. With ports sealed, the only tribunal that can hear the case before the truce expires sits at Terminus Station, nine days away through a dead-coral nebula no navigator has crossed. Freya commits to flying it. Emotional beat: acceptance—she stops choosing safety and starts choosing a side."
+    },
+    {
+      "n": 8,
+      "title": "The Coral Dark",
+      "summary": "Alternating POV, Freya and Doss. The nebula crossing: navigation by the children's collective memory-songs, which turn out to encode the original route charts of the destroyed colony. The Meridian nearly dies; Doss vents the hold to save power, nearly losing the backups. Emotional beat: terror braided with wonder—the victims' memories literally steer them home."
+    },
+    {
+      "n": 9,
+      "title": "Tribunal of the Small Hours",
+      "summary": "Freya's POV. At Terminus, the tribunal hesitates—children and contraband data aren't 'credible' witnesses. Freya chooses to testify, surrendering her anonymity, her license, and her freedom, playing the backups publicly: the dead speaking in their own voices. Emotional beat: climax—justice demanded outside the law, at personal ruin."
+    },
+    {
+      "n": 10,
+      "title": "Departure Vector",
+      "summary": "Freya's POV. The tribunal voids the amnesty clause; the fabricated records are exposed; the children are granted guardianship status as survivors, not evidence. Freya, stripped of rank but not of crew, takes the Meridian out on a new route with Doss, Imre, and the others. Emotional beat: quiet belonging—the invisible become a visible, chosen family."
+    }
+  ]
+}

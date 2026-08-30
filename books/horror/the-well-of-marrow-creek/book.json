@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03887",
+  "title": "The Well of Marrow Creek",
+  "author": "Theo Zhou",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Rosalind Lockridge, a radio host taking calls from listeners who died last week, keeps the lights on and the doors counted. But when every mirror in the house starts reflecting the room one second late, he discovers that staying invisible was never really an option. To get through this, he must get the family out ahead of the count before the well refills.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3887
+  }
+}

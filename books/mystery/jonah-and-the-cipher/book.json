@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05514",
+  "title": "Jonah and the Cipher",
+  "author": "Elodie Okafor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Mara Ishikawa, a night-shift dispatcher for a taxi company, has spent ten years keeping the town's secrets filed and alphabetized. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. To get through this, he must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5514
+  }
+}

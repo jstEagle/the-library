@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00907",
+  "title": "Beatrix and the Hollow",
+  "author": "Vesper Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Felix Okonkwo, a thief who steals memories, has never left the valley where magic cannot follow. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. To get through this, they must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 907
+  }
+}

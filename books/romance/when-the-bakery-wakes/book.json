@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06013",
+  "title": "When the Bakery Wakes",
+  "author": "Juniper Brightwater",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Paloma Thackeray, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6013
+  }
+}

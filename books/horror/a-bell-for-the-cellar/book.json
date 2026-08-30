@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03891",
+  "title": "A Bell for the Cellar",
+  "author": "F. M. Eriksen",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Freya Nystrom, a pest controller called to something with fingerprints, doesn't believe, has never believed, will not begin believing now. But when every mirror in the house starts reflecting the room one second late, he discovers that staying invisible was never really an option. To get through this, he must get the family out ahead of the count before the harvest moon rises.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3891
+  }
+}

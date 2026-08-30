@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07869",
+  "title": "Cyrus and the Gravity",
+  "author": "Zephyrine Vasquez",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ulyana Marchetti, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7869
+  }
+}

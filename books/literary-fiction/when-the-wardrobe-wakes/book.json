@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04581",
+  "title": "When the Wardrobe Wakes",
+  "author": "Beatrix Thackeray",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Beatrix Almeida, a restaurant critic who has forgotten how food tastes, has spent ten years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. To get through this, he must forgive the stranger in the old photographs before the demolition date arrives.",
+  "themes": [
+    "identity",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4581
+  }
+}

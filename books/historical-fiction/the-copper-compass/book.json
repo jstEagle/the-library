@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02613",
+  "title": "The Copper Compass",
+  "author": "Sebastian Pemberton",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Elodie Reyes, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. But when the bridge — the only road out — closes for the season, he discovers that staying invisible was never really an option. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2613
+  }
+}

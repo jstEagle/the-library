@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07929",
+  "title": "Cyrus and the Terminal",
+  "author": "Zephyrine Villalobos",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Orsen Iversen, the caretaker of Earth's abandoned seed vault, has spent twelve years hauling cargo through contested orbits. But when an unfamiliar name shows up on the manifest of a ship that never flew, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7929
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04657",
+  "title": "The Half-Light Radiators",
+  "author": "M. M. Zhou",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Oscar Ravensworth, a night librarian in a city that sleeps less every year, has perfected the smile that ends conversations. Then the last speaker of a language asks for one final student — and she is pulled straight into the middle of it. Now she must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4657
+  }
+}

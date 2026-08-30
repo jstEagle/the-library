@@ -1,0 +1,21 @@
+{
+  "id": "THR-08482",
+  "title": "Border and Cipher",
+  "author": "Odile Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Vesper Amberdale, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8482
+  }
+}

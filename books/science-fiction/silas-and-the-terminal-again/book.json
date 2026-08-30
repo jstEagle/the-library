@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08038",
+  "title": "Silas and the Terminal Again",
+  "author": "Hazel Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Lena Zhou, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. Then an unfamiliar name shows up on the manifest of a ship that never flew — and they are pulled straight into the middle of it. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8038
+  }
+}

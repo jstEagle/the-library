@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04173",
+  "title": "A Blue Hour for the Undertow",
+  "author": "Freya Delacroix",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Beatrix Sandoval, a former prodigy returning to the conservatory as a janitor, has spent twenty years practicing the art of almost saying it. Then the last speaker of a language asks for one final student — and he is pulled straight into the middle of it. To get through this, he must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4173
+  }
+}

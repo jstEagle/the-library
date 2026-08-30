@@ -1,0 +1,59 @@
+{
+  "title": "The Live Cipher",
+  "slug": "thriller/the-live-cipher",
+  "model": "stealth/ox-alpha",
+  "premise": "Hazel Fairweather, a private security contractor with a fabricated past, receives a calendar invite from Marcus Vane — the handler who trained her and died three days ago — summoning her to a Frankfurt safehouse at dawn. The invite is bait from Meridian, the shadowy training network that manufactured operatives like Hazel and now needs to erase its living liabilities before a hostile takeover of its parent firm closes when markets open. Teaming up with Ines Okafor, Vane's estranged protégée who believes Hazel betrayed him, Hazel must decide whether loyalty means obedience or truth. They expose Meridian's ledger to regulators mid-trading-day, burning the network at the cost of Hazel's cover identity — but gaining, for the first time, a family that knows her real name.",
+  "about_author": "Felix Yarrow is the pen name of a former risk analyst who spent a decade writing threat assessments for firms he can no longer name. He lives in Rotterdam, where he writes thrillers about people whose paperwork is better than their alibis.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Invitation",
+      "summary": "POV: Hazel. Between contracts in London, Hazel maintains her polished lie — no family, no history, go-bag by the door. Then her phone chimes: a meeting invitation from Marcus Vane, sent from an account active after his confirmed death, scheduled for tomorrow, 06:00 Frankfurt time. Emotional beat: dread sharpening into compulsion; she books the flight she swore she wouldn't take."
+    },
+    {
+      "n": 2,
+      "title": "Dead Handler's Handshake",
+      "summary": "POV: Hazel. At the Frankfurt safehouse, Hazel finds signs of staged occupancy and a dead-drop keyed to her old cipher — proof whoever sent the invite knows her training intimately. She's ambushed not by killers but by Ines Okafor, Vane's other protégée, who accuses Hazel of selling him out. Emotional beat: hostile recognition between two people shaped by the same machine."
+    },
+    {
+      "n": 3,
+      "title": "What Vane Taught Us",
+      "summary": "POV: Ines. Flashback-threaded chapter: Ines recalls Vane's final call, cut off mid-sentence, and the encrypted drive he mailed her containing fragments of 'the Ledger' — Meridian's operational record. She and Hazel compare their versions and realize each holds half a key. Emotional beat: grudging alliance born of shared grief and mutual suspicion."
+    },
+    {
+      "n": 4,
+      "title": "The Network That Made Me",
+      "summary": "POV: Hazel. Deciphering the drive reveals Meridian's structure: a training program that recruits the unmoored, builds them new identities, and leases them to clients nobody trusts. Hazel finds her own file — including the contingency order for her termination, signed before Vane died. Emotional beat: vertigo of seeing yourself as inventory; the lie she polished was never hers."
+    },
+    {
+      "n": 5,
+      "title": "Six Hours to Open",
+      "summary": "POV: Ines. Meridian's parent firm, Halvern Capital, completes a merger at Frankfurt open that will legally bury every record — including evidence of assassinations dressed as security contracts. Ines proposes going public with the Ledger through a regulator contact; Hazel argues exposure means death before filing. Emotional beat: love against duty as the two women argue strategy and admit what they mean to each other."
+    },
+    {
+      "n": 6,
+      "title": "Safehouse Fire",
+      "summary": "POV: Hazel. Meridian cleaners hit the safehouse; Hazel and Ines escape through service tunnels with only half the decrypted Ledger, losing their equipment and Ines's burner identity. A dying cleaner reveals the kill list has eleven names — theirs are first two. Emotional beat: terror transmuted into resolve; running is over."
+    },
+    {
+      "n": 7,
+      "title": "The Ninth Name",
+      "summary": "POV: Ines. Hunting the one surviving Meridian defector on the list, they find Elena Brandt, a former instructor turned archivist, hiding in a Cologne data center. Brandt holds the complete Ledger but demands justice outside the law: Meridian burned her family years ago and regulators were bought then. Emotional beat: found family forming among the discarded — three women the system built and tried to delete."
+    },
+    {
+      "n": 8,
+      "title": "Counter-Cipher",
+      "summary": "POV: Hazel. Meridian counterattacks by leaking Hazel's real identity and fabricated crimes, turning police and press into weapons. Cornered in Brandt's server vault, Hazel decrypts the final Ledger layer using the cipher Vane embedded in her own training — his last lesson, hidden in plain sight. Emotional beat: grief resolving into understanding; Vane wasn't testing her, he was arming her."
+    },
+    {
+      "n": 9,
+      "title": "Frankfurt Opens",
+      "summary": "POV: Ines. At 09:00, as Halvern's merger trades live, the trio executes the plan: Brandt floods the exchange's compliance feed while Ines walks into the regulator's office as a whistleblower and Hazel holds off Meridian's last field team in the lobby. The merger freezes mid-session; trading halts on disclosure. Emotional beat: climax — chaos, sacrifice, and Hazel choosing truth over the polished lie at gunpoint."
+    },
+    {
+      "n": 10,
+      "title": "Real Names",
+      "summary": "POV: Hazel. Weeks later, investigations gut Meridian; Hazel, officially dead and legally free, sits across from Ines and Brandt at a kitchen table in Rotterdam — no handlers, no covers, go-bag unpacked for the first time. Justice came outside the law, imperfect and unfinished, but it came. Emotional beat: quiet resolution; a woman built by a network finally belongs to people instead."
+    }
+  ]
+}

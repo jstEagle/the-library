@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00163",
+  "title": "Escarpment and Rivergate",
+  "author": "I. M. Blackwood",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Odile Dunmore, a bush pilot flying medicine and rumors into the interior, knows the wilderness forgives nothing and forgets less. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. To get through this, she must cross the range ahead of the snows before the monsoon makes landfall.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 163
+  }
+}

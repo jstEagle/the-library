@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09844",
+  "title": "Group Chat and Semester",
+  "author": "Yara Reyes",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Marguerite Ashgrove, a debate champion who can't win the argument at home, is fine. Everything is fine. Obviously.. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. To get through this, she must tell the truth even if it costs the friendship before the final audition.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9844
+  }
+}

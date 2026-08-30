@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00363",
+  "title": "The Uncharted Passage",
+  "author": "E. M. Coldharbour",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Juniper Halloran, a desert ranger tracking a thief across nothing, knows the wilderness forgives nothing and forgets less. Then the river gives up a chest stamped with a dead nation's seal — and they are pulled straight into the middle of it. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 363
+  }
+}

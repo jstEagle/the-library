@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02437",
+  "title": "The Iron Lantern",
+  "author": "Zephyrine Delacroix",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Freya Crane, a widowed lighthouse keeper during the year of the great storms, believes history happens to other people, elsewhere. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, he discovers that staying invisible was never really an option. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2437
+  }
+}

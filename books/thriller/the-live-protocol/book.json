@@ -1,0 +1,21 @@
+{
+  "id": "THR-08594",
+  "title": "The Live Protocol",
+  "author": "Freya Iversen",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Isandro Kavanagh, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. But when a voiceprint unlocks a server on another continent, they discover that staying invisible was never really an option. To get through this, they must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8594
+  }
+}

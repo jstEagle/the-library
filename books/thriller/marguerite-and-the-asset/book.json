@@ -1,0 +1,21 @@
+{
+  "id": "THR-09238",
+  "title": "Marguerite and the Asset",
+  "author": "I. M. Sandoval",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Coral Dunmore, a crash investigator whose family died in row twelve, has spent five years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. To get through this, they must extract a defector who may be the bait before the border checkpoint shifts change.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9238
+  }
+}

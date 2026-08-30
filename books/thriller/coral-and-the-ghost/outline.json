@@ -1,0 +1,29 @@
+{
+  "title": "Coral and the Ghost",
+  "slug": "thriller/coral-and-the-ghost",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Galloway, a whistle-blower living under four names, has spent three years erasing herself—until a dead woman's voiceprint, harvested from an old deposition, unlocks a shadow server in Frankfurt holding proof of the financial syndicate Ada once exposed and everyone who profited from silencing her. Hunted by the syndicate's fixer and shadowed by a disgraced investigator who once loved her, Ada realizes the server can be wiped only with a second voiceprint: her own. In a night-long race before the Frankfurt markets open, Ada chooses to speak her real name aloud into the machine, trading her invisibility for the evidence that will burn the syndicate down—surviving, but never anonymous again.",
+  "about_author": "Oscar Coldharbour is the pen name of a former compliance auditor who spent a decade inside the machinery of offshore finance before walking away with nothing but his notes. He writes thrillers about ordinary people who discover that disappearing is a full-time job.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Fourth Name",
+      "summary": "POV: Ada. Living as 'Maren Voss' in a Lisbon boarding house, Ada keeps her go-bag packed and rehearses her cover story nightly—until a dead drop message reveals her old deposition audio was stolen and a server in Frankfurt has been keyed to her voice. The emotional beat is the vertigo of realizing three years of erasure can be undone by six seconds of sound."
+    },
+    {
+      "n": 2,
+      "title": "What the Dead Woman Knew",
+      "summary": "POV: Ada, with an interlude from fixer Elias Brandt. Ada traces the theft to a murdered archivist and crosses paths with Tomas Reyes, the disgraced investigator who once loved her and now works the same trail. Brandt closes in from the other side. The emotional beat: Ada must decide whether Tomas is a shield or a weapon aimed at her."
+    },
+    {
+      "n": 3,
+      "title": "Voiceprint",
+      "summary": "POV: Tomas, then Ada. Infiltrating the Frankfurt data center, they learn the server wipes only to a live voiceprint—hers—and that Brandt wants Ada captured alive to make her recant on camera before the markets open. Betrayed by a safehouse contact, Ada is taken. The emotional beat: love against duty, as Tomas chooses her over his last chance at redemption."
+    },
+    {
+      "n": 4,
+      "title": "Say Your Name",
+      "summary": "POV: Ada. Handcuffed in the server room as dawn nears and Frankfurt's markets stir, Ada turns her captivity into a stage: she speaks her true name into the machine, triggering the wipe and broadcasting the evidence to every terminal on the exchange floor. Brandt is exposed by his own kill order. The emotional beat: the price of survival paid in full—justice won, anonymity lost, and a life that must be built from truth."
+    }
+  ]
+}

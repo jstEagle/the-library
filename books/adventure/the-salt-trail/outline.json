@@ -1,0 +1,29 @@
+{
+  "title": "The Salt Trail",
+  "slug": "adventure/the-salt-trail",
+  "model": "stealth/ox-alpha",
+  "premise": "Hazel Pemberton, a storm chaser deep in debt to the Vane brothers—cheerful lenders who collect in favors rather than cash—is sent upriver to find an expedition that went silent near the glacier's forbidden source. What he finds is his estranged brother, Aldous, alive but guarding a discovery the expedition's backers will kill to control: a salt-preserved archive proving the valley's founding fortune was built on a buried massacre. As calving season closes the route, Hazel must choose between paying his debt by bringing back silence, or carrying the truth downriver and losing everyone who helped him carry it. He chooses truth, broadcasts the archive as the ice wall collapses behind him, and walks out owing nothing but grief.",
+  "about_author": "Bram Halloran is the pen name of a former river guide who spent six seasons on glacial waterways before turning to writing full-time. His fiction blends hard-edged adventure with moral terrain as treacherous as any rapids.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Debt of Weather",
+      "summary": "Hazel's POV. Chasing storms across the plains to outrun his debts, Hazel is intercepted by the Vane brothers, who offer to erase what he owes if he retrieves their silent survey expedition upriver. The emotional beat is reluctant obligation: Hazel measures everything in miles because miles can be paid off, and he tells himself this is just another run."
+    },
+    {
+      "n": 2,
+      "title": "The Silent Bend",
+      "summary": "Hazel's POV. Following the river past abandoned camps and a wrecked radio mast, Hazel finds one survivor—the expedition's translator, Marisol—who leads him to Aldous hiding in a salt cave above the waterline. The emotional beat is shock curdling into suspicion: reunion with his brother should feel like rescue, but Aldous won't say why the others are dead."
+    },
+    {
+      "n": 3,
+      "title": "What the Glacier Keeps",
+      "summary": "Aldous's POV. In the cave, Aldous reveals the archive and confesses he silenced the expedition himself when they voted to sell it back to the founders' descendants. The Vanes' second boat appears downriver; Marisol is taken. The emotional beat is corrupted loyalty: Aldous believes protecting the truth justifies anything, and Hazel realizes his brother has become what he hates."
+    },
+    {
+      "n": 4,
+      "title": "Calving",
+      "summary": "Hazel's POV. With the calving season opening the route for hours only, Hazel takes the archive, transmits its contents from the ridge as the ice wall groans apart, and refuses Aldous's plea to flee together. The emotional beat is costly resolution: the truth goes out, the glacier takes the cave and Aldous's certainty with it, and Hazel rows home lighter and emptier than debt ever made him."
+    }
+  ]
+}

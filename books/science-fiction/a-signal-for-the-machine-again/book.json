@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08357",
+  "title": "A Signal for the Machine Again",
+  "author": "M. M. Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Xanthe Sandoval, a terraformer tending a garden meant for people not yet born, has spent three years hauling cargo through contested orbits. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. Now she must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8357
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06085",
+  "title": "When the Postcard Breaks",
+  "author": "Kestrel Montrose",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Freya Reyes, a single parent running the town's only bookshop, has spent twenty years rebuilding a life measured in small safe steps. But when two estranged names appear on the same impossibly stubborn orchard deed, she discovers that staying invisible was never really an option. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6085
+  }
+}

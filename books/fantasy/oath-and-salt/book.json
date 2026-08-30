@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01100",
+  "title": "Oath and Salt",
+  "author": "Orsen Halloran",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Zephyrine Blackwood, a royal food-taster building immunity one dish at a time, has spent five years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1100
+  }
+}

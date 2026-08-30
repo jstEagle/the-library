@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08348",
+  "title": "Paloma and the Horizon",
+  "author": "Jude Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Casper Blackwood, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. But when a ship returns from deep space with everyone aboard aged backward, she discovers that staying invisible was never really an option. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8348
+  }
+}

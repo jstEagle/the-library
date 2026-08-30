@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03308",
+  "title": "The Pale Room",
+  "author": "Cyrus Delacroix",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ansel Montrose, a twin who came home to bury the wrong sibling, keeps the lights on and the doors counted. But when the excavation crew unearths a door, sealed from the inside, they discover that staying invisible was never really an option. Now they must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3308
+  }
+}

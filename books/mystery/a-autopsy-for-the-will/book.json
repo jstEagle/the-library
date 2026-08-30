@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05187",
+  "title": "A Autopsy for the Will",
+  "author": "E. M. Lockridge",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Hazel Ashgrove, an insurance investigator with a photographic memory, thought they had seen every way a life can end. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5187
+  }
+}

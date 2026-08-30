@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02982",
+  "title": "Lena and the Compass",
+  "author": "A. M. Halloran",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Rosalind Hartwell, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, he discovers that staying invisible was never really an option. To get through this, he must choose which family member gets the last berth before the ice breaks on the river.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2982
+  }
+}

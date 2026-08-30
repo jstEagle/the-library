@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04556",
+  "title": "Language and Undertow",
+  "author": "Jonah Yarrow",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ansel Galloway, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. To get through this, he must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4556
+  }
+}

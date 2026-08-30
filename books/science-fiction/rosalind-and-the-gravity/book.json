@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07797",
+  "title": "Rosalind and the Gravity",
+  "author": "Xanthe Okonkwo",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Odile Kavanagh, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before the fleet's truce expires.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7797
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04136",
+  "title": "Sebastian and the Inventory",
+  "author": "C. M. Reyes",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Edmund Iversen, a night librarian in a city that sleeps less every year, moves through the days like a tenant, not an owner. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4136
+  }
+}

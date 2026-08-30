@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06448",
+  "title": "The Songbook of the Old Mill House",
+  "author": "N. M. Eriksen",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Kestrel Pemberton, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "identity",
+    "belonging",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6448
+  }
+}

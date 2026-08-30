@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07637",
+  "title": "When the Colony Falls",
+  "author": "Tamsin Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Yara Nystrom, a terraformer tending a garden meant for people not yet born, has spent twenty years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7637
+  }
+}

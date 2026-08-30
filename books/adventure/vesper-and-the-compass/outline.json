@@ -1,0 +1,59 @@
+{
+  "title": "Vesper and the Compass",
+  "slug": "adventure/vesper-and-the-compass",
+  "model": "stealth/ox-alpha",
+  "premise": "Xanthe Blackwood, captain of the riverboat Vesper, has spent a decade dodging the memory of the night his mentor drowned and the compass he inherited from her went silent. When rival captain Odile Marchetti hires the Vesper to salvage a wreck in monsoon-flooded waters, Xanthe realizes the job is bait: the wreck holds the ledger proving Odile's family stole their fortune from his mentor's. With a leaking hull, a stowaway engineer named Wren who becomes the family he never chose, and the compass finally stirring back to life, Xanthe must choose between revenge and the truth. In the end he salvages not gold but the ledger itself, exposes Odile before the river towns, and claims his inheritance: the Vesper, her crew, and a name no longer hidden.",
+  "about_author": "Q. M. Almeida is the pen name of a former barge hand turned storyteller who spent seven years working inland waterways across three continents. Their fiction draws on river lore, salvage culture, and the quiet ethics of people who live by the water's moods.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Sandbar's Mood",
+      "summary": "Xanthe's POV. The Vesper runs cargo through low-season shallows while Xanthe navigates by instinct and an old brass compass that hasn't pointed true since his mentor Mara drowned. A debt collector boards at Kettle Landing, reminding him what he owes. Emotional beat: weary competence masking grief; establish the river as both home and prison."
+    },
+    {
+      "n": 2,
+      "title": "An Offer from Odile",
+      "summary": "Xanthe's POV. Odile Marchetti, glamorous and dangerous, offers triple rates to salvage a wreck upriver before monsoon locks the channel. Xanthe recognizes the coordinates as the stretch of river where Mara died, a run they swore off together years ago. He refuses; she mentions his debt. Emotional beat: dread dressed as temptation."
+    },
+    {
+      "n": 3,
+      "title": "The Stowaway",
+      "summary": "Wren's POV. Wren, a young engineer fleeing a shipyard that sold her apprenticeship papers, hides aboard the Vesper and is discovered mid-river. She fixes a failing pump in exchange for passage. Xanthe, against his own rules, lets her stay. Emotional beat: reluctant warmth cracking open a closed life."
+    },
+    {
+      "n": 4,
+      "title": "Sworn-Off Water",
+      "summary": "Xanthe's POV. Needing the money as the debt tightens, Xanthe takes Odile's contract after all. The crew grumbles; the first mate, old Sal, warns him some wrecks are graves, not prizes. First sight of the flooded gorge where Mara's boat went down. Emotional beat: guilt steering the helm now, not greed."
+    },
+    {
+      "n": 5,
+      "title": "What the Compass Wants",
+      "summary": "Wren's POV. During a night anchorage, Wren finds the compass and notices it trembles toward the gorge, not north. She repairs it with a salvaged bearing ring and it steadies, pointing at something specific underwater. Xanthe catches her and, shaken, admits the compass was Mara's and stopped the night she died. Emotional beat: two loners sharing a secret."
+    },
+    {
+      "n": 6,
+      "title": "Monsoon Rising",
+      "summary": "Xanthe's POV. The storm arrives early. Salvage begins in driving rain; divers bring up crates of coin but also a sealed iron box stamped with Mara's initials. Odile's crew grows hostile, clearly under orders to take the box and leave the Vesper behind. The Vesper takes hull damage on a submerged snag. Emotional bet: trust eroding as the river turns violent."
+    },
+    {
+      "n": 7,
+      "title": "Betrayal at Anchor",
+      "summary": "Wren's POV. Odile's men cut the Vesper loose at night to drown in the flood rather than share the find. Wren wakes Xanthe; Sal is injured defending the wheelhouse. They survive by running the rapids on instinct and the repaired compass, which guides them through channels no chart shows. Emotional beat: terror transformed into fierce loyalty; found family forged in crisis."
+    },
+    {
+      "n": 8,
+      "title": "Mara's Ledger",
+      "summary": "Xanthe's POV. In the iron box: Mara's ledger proving the Marchetti fortune was built on stolen salvage rights and her murdered partner. Xanthe realizes Odile didn't hire him for the wreck; she hired him to confirm the evidence existed and sink it with him. The compass, he understands now, was always pointing him here. Emotional beat: rage tempered into resolve."
+    },
+    {
+      "n": 9,
+      "title": "The Gorge in Flood",
+      "summary": "Xanthe's POV, climax. Odile's boat blocks the only exit below the gorge. Rather than fight, Xanthe runs the impossible channel the compass revealed, using the flood itself as cover, while Wren keeps the wounded engine alive. They surface behind Odile, disable her rudder, and take her crew's surrender without killing anyone. Emotional beat: mastery earned, mercy chosen over vengeance."
+    },
+    {
+      "n": 10,
+      "title": "Inheritance",
+      "summary": "Alternating POVs. Downriver, the ledger goes to the river towns' council; the Marchettis' licenses are revoked and Mara's name restored to the charts. Odile departs on foot, diminished. Xanthe pays his debt, signs Wren on as permanent engineer, and lets the compass rest in its case at last, its work done. Emotional beat: quiet arrival home; the Vesper sails on with a full crew and a clear name."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03124",
+  "title": "The Regiment of Vilna",
+  "author": "Casper Yarrow",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Rosalind Amberdale, a suffragist's driver who reads every letter before delivering it, keeps a low profile and busy hands. Then the bridge — the only road out — closes for the season — and he is pulled straight into the middle of it. Now he must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3124
+  }
+}

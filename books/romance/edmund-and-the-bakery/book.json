@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06152",
+  "title": "Edmund and the Bakery",
+  "author": "August Galloway",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Dominic Okonkwo, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. To get through this, they must forgive the person in the mirror first before the festival ends.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6152
+  }
+}

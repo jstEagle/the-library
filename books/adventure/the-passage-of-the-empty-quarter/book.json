@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00161",
+  "title": "The Passage of the Empty Quarter",
+  "author": "Wren Vasquez",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Odile Amberdale, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. Then an old rival hires the crew for the one job that was sworn off long ago — and she is pulled straight into the middle of it. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 161
+  }
+}

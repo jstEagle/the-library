@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09784",
+  "title": "Kestrel and the Playlist",
+  "author": "Edmund Halloran",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Edmund Thackeray, a coder whose anonymous account knows too much, is fine. Everything is fine. Obviously.. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. To get through this, he must tell the truth even if it costs the friendship before the last game of the season.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9784
+  }
+}

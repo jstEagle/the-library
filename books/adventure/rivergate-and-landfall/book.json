@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00265",
+  "title": "Rivergate and Landfall",
+  "author": "Yara Almeida",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Sable Sterling, an archaeologist's estranged child and better digger, keeps moving because stopping costs more. Then an old rival hires the crew for the one job that was sworn off long ago — and he is pulled straight into the middle of it. Now he must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 265
+  }
+}

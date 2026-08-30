@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05895",
+  "title": "When the Inheritance Turns Again",
+  "author": "I. M. Vane",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Felix Winterbourne, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5895
+  }
+}

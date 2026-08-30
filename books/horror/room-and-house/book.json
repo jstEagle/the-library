@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03299",
+  "title": "Room and House",
+  "author": "Noor Lockridge",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sable Vane, a radio host taking calls from listeners who died last week, has spent fifteen years telling themselves the noises have explanations. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. To get through this, they must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "identity",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3299
+  }
+}

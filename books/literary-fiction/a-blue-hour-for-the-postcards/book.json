@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04629",
+  "title": "A Blue Hour for the Postcards",
+  "author": "Paloma Vasquez",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ivo Sandoval, a translator losing a childhood language one borrowed word at a time, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. To get through this, he must say goodbye properly, at last, out loud before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4629
+  }
+}

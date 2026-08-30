@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04659",
+  "title": "Gideon and the Aftermath",
+  "author": "Felix Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Zephyrine Thornbury, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, they discover that staying invisible was never really an option. Now they must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4659
+  }
+}

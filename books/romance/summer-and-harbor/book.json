@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06106",
+  "title": "Summer and Harbor",
+  "author": "Oscar Fairweather",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Orsen Underhill, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and she is pulled straight into the middle of it. To get through this, she must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6106
+  }
+}

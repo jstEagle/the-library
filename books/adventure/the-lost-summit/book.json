@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00324",
+  "title": "The Lost Summit",
+  "author": "Oscar Dunmore",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Beatrix Dunmore, a storm chaser who owes money to dangerous optimists, carries a compass, a debt, and very little else. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the concession permits expire.",
+  "themes": [
+    "belonging",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 324
+  }
+}

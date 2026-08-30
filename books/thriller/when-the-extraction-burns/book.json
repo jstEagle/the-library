@@ -1,0 +1,21 @@
+{
+  "id": "THR-08599",
+  "title": "When the Extraction Burns",
+  "author": "Ulyana Winterbourne",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Felix Lockridge, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. To get through this, she must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8599
+  }
+}

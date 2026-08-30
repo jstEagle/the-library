@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06223",
+  "title": "When the Tide Wakes",
+  "author": "Theo Eastwick",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Sable Ravensworth, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6223
+  }
+}

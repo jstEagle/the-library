@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06515",
+  "title": "Letters and Harbor",
+  "author": "Tamsin Winterbourne",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Cyrus Marchetti, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. Then a lost letter surfaces, postmarked eleven years ago — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6515
+  }
+}

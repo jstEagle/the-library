@@ -1,0 +1,21 @@
+{
+  "id": "THR-09437",
+  "title": "The Cipher of Tashkent Revisited",
+  "author": "Rosalind Okonkwo",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Marguerite Pemberton, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9437
+  }
+}

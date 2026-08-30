@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01182",
+  "title": "When the Oath Wakes",
+  "author": "Gideon Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Paloma Zhou, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1182
+  }
+}

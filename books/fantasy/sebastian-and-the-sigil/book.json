@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01242",
+  "title": "Sebastian and the Sigil",
+  "author": "Isandro Fairweather",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Jude Underhill, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1242
+  }
+}

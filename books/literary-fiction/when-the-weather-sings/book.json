@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04147",
+  "title": "When the Weather Sings",
+  "author": "Ada Galloway",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.8,
+  "blurb": "Xanthe Fairweather, a letter-writer sending postcards to an address that burned down years ago, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, they discover that staying invisible was never really an option. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4147
+  }
+}

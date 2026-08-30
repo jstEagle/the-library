@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09951",
+  "title": "Rafael and the Detention",
+  "author": "Ada Delacroix",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Lior Iversen, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. But when a best friend goes missing, leaving only a set of keys behind, she discovers that staying invisible was never really an option. Now she must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9951
+  }
+}

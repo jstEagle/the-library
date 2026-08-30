@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04418",
+  "title": "The Borrowed Postcards",
+  "author": "Mara Iversen",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Okafor, an heir cataloging a parent's silence after the funeral, has spent twelve years practicing the art of almost saying it. But when a song on the radio is one that was written and never recorded, she discovers that staying invisible was never really an option. To get through this, she must translate the untranslatable sentence and live with it before the house sale closes.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4418
+  }
+}

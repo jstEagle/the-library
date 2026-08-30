@@ -1,0 +1,21 @@
+{
+  "id": "THR-08486",
+  "title": "When the Ghost Wakes",
+  "author": "Silas Almeida",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Wren Eastwick, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. To get through this, he must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8486
+  }
+}

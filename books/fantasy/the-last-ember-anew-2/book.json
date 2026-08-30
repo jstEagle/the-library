@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01973",
+  "title": "The Last Ember Anew",
+  "author": "Theo Vasquez",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Freya Ishikawa, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1973
+  }
+}

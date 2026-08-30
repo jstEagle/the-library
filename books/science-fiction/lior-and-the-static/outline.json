@@ -1,0 +1,59 @@
+{
+  "title": "Lior and the Static",
+  "slug": "science-fiction/lior-and-the-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Ines Hartwell, sole navigator of the derelict freighter Lior, has spent six years ferrying supplies to Meridian Colony while secretly logging its slow collapse from a plague the corporate charter refuses to acknowledge. When she discovers her dead brother's name on the manifest of a ship that never launched—alongside two hundred colonists slated for 'selective revival'—she realizes the company plans to wake only the genetically useful half of the sleepers and let the rest die as accounting losses. Ines allies with colony doctor Sefa Okonkwo and a disgraced auditor hiding aboard to hijack the revival sequence itself, broadcasting the manifest and forcing an open vote among the frozen. The novel ends with Ines surrendering herself to a tribunal she summoned into existence, trusting that justice outside the law can still be made lawful by witnesses.",
+  "about_author": "Gideon Ashgrove is the pen name of a former maritime radio operator who spent a decade listening to ships that never answered back. They write science fiction about people who keep records no one asked them to keep.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Hold",
+      "summary": "Ines's POV. Establishing life aboard the Lior: routine supply runs to dying Meridian, the hum of two hundred cryopods she was never authorized to question. She records the colony's decline in a private log, counting empty windows in the settlement below. Emotional beat: loneliness disguised as duty."
+    },
+    {
+      "n": 2,
+      "title": "Manifest Ghosts",
+      "summary": "Ines's POV. Auditing cargo for a routine inspection, Ines finds the Lior listed on a flight record for a voyage it never made—and her brother Tomas, dead eleven years, named among the sleepers. She confronts the station AI, which stonewalls with bureaucratic calm. Emotional beat: grief weaponized into suspicion."
+    },
+    {
+      "n": 3,
+      "title": "What the Doctor Kept",
+      "summary": "Sefa Okonkwo's POV. On Meridian, Sefa treats the plague the charter calls 'seasonal attrition,' hiding case files inside children's vaccination records. She notices supply drops have grown selective—medicine arriving only for certain family lines. Emotional beat: quiet fury at being managed."
+    },
+    {
+      "n": 4,
+      "title": "The Stowaway Auditor",
+      "summary": "Ines's POV. Ines discovers Dario Voss, a fired corporate auditor, living off recycled air in her hold. He reveals the 'selective revival' protocol: half the pods are flagged non-essential, their power rerouted to keep the rest viable. Tomas's name is on the essential list; most of Meridian is not. Emotional beat: horror arriving through paperwork."
+    },
+    {
+      "n": 5,
+      "title": "Sixty Days of Air",
+      "summary": "Alternating POV. Ines and Sefa make contact over a smuggled channel and realize the revival window closes in sixty days, when the Lior's reactor will no longer sustain all pods. Dario warns that any tampering voids their legal personhood under charter law. Emotional beat: the clock starting."
+    },
+    {
+      "n": 6,
+      "title": "Tomas, Awake",
+      "summary": "Ines's POV. Risking everything, Ines wakes one pod early: her brother, alive and disoriented, carrying encrypted memories of the original launch conspiracy—he was the auditor who flagged the manifest fraud before he 'died.' Emotional beat: reunion shadowed by betrayal; even her grief was curated."
+    },
+    {
+      "n": 7,
+      "title": "The Vote Among the Frozen",
+      "summary": "Sefa's POV. Sefa broadcasts the manifest to every pod's display, proposing the sleepers themselves choose who wakes. The company cuts the colony's comms; Sefa relays votes by hand across the settlement, house to house, in the dark. Emotional beat: democracy as an act of physical courage."
+    },
+    {
+      "n": 8,
+      "title": "Boarding Party",
+      "summary": "Dario's POV. Corporate enforcers board the Lior to seize the revival controls. Dario sacrifices his own escape pod to jam their docking clamps, buying Ines time to reach the reactor core, and is taken into custody. Emotional beat: redemption purchased at the price of invisibility he'd chosen."
+    },
+    {
+      "n": 9,
+      "title": "Which Half Wakes",
+      "summary": "Ines's POV, climax. At the console, Ines holds the override: wake the essential list and save Tomas, or run the open vote and risk everyone. She routes power to all pods at minimum viability and transmits the full manifest, logs, and vote tally to every relay in range—making the crime public before the tribunal can bury it. Emotional beat: choosing witness over savior."
+    },
+    {
+      "n": 10,
+      "title": "Testimony",
+      "summary": "Ines's POV, resolution. Months later, pods open one by one under independent oversight; the colony begins again with more mouths than the charter allowed and fewer lies than it ever had. Ines stands trial for hijacking, with Sefa and two hundred revived witnesses testifying on her behalf. Emotional beat: justice becoming lawful because someone refused to stay invisible."
+    }
+  ]
+}

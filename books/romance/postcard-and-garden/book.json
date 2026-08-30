@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06553",
+  "title": "Postcard and Garden",
+  "author": "Ines Kavanagh",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Voss, a single parent running the town's only bookshop, believes second chances are for people with better timing. But when a fake date to survive a family reunion feels too real by dessert, she discovers that staying invisible was never really an option. Now she must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6553
+  }
+}

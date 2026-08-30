@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02313",
+  "title": "When the Clock Burns",
+  "author": "Beatrix Zhou",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Odile Eastwick, a typeface cutter's daughter in a print shop on the eve of a revolution, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ice breaks on the river.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2313
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02472",
+  "title": "The Typewriter of the Cape Route",
+  "author": "Theo Ishikawa",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Elodie Zhou, an apprentice clockmaker summoned to repair the observatory's master clock, believes history happens to other people, elsewhere. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and they are pulled straight into the middle of it. To get through this, they must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2472
+  }
+}

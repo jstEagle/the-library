@@ -1,0 +1,59 @@
+{
+  "title": "The Deep Cipher",
+  "slug": "thriller/the-deep-cipher",
+  "model": "stealth/ox-alpha",
+  "premise": "Ansel Oyelaran, a financial-crimes investigator haunted by a raid that went wrong, is pulled back into the field when a dead colleague's voiceprint unlocks a hidden server in Lagos containing proof that a multinational laundering network is protected by officials in three governments. Pursued by an assassin who erases witnesses, Ansel races to move the evidence across a border before a checkpoint shift change buries it forever. Betrayed by the mentor who orchestrated the original incident, Ansel must choose between exposing the truth and surviving it. In the end, they release the files publicly at devastating personal cost, finding belonging not in the institution that failed them but among the strangers who helped carry the truth out.",
+  "about_author": "F. M. Montrose is the pen name of a former compliance analyst who spent a decade tracing money through shell companies across three continents before turning to fiction. They write from a coastal town where the fog, they insist, is excellent for plotting.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Clean Money",
+      "summary": "Ansel's POV. Two years after a botched raid left a colleague dead, Ansel grinds through white-collar cases in London, insomniac and hollowed out, when a routine audit flags a transaction pattern too clean to be innocent. The emotional beat is numbness cracking open — the first hint that the past isn't finished with them."
+    },
+    {
+      "n": 2,
+      "title": "The Voiceprint",
+      "summary": "Ansel's POV. A dead colleague's voiceprint unlocks a server in Lagos, and Ansel hears their own voice — recorded without consent — as one of the access keys. Realizing someone inside the agency built this trapdoor, Ansel downloads the ledger and goes dark. The beat: fear sharpening into purpose."
+    },
+    {
+      "n": 3,
+      "title": "Three Flags",
+      "summary": "Alternating POV between Ansel and Inspector Adaeze Nwosu of the EFCC, who discovers the same server has been flagged by British, Nigerian, and American intelligence simultaneously. Both realize the file everyone wants doesn't just document crime — it names protectors. The beat: the vertigo of realizing no authority is safe to trust."
+    },
+    {
+      "n": 4,
+      "title": "The Man Who Erases",
+      "summary": "Assassin Kofi Mensah's POV, cold and procedural, as he closes out two loose ends connected to the server and is assigned a third: Ansel Oyelaran. Through his eyes we see the network's reach and its casual cruelty. The beat: dread established — the hunter's calm against Ansel's rising panic."
+    },
+    {
+      "n": 5,
+      "title": "What the Ledger Buys",
+      "summary": "Ansel's POV. Hiding in Lagos, Ansel decodes the ledger with help from Tunde, a hacker who runs a cybercafé front, and finds the thread leading back to Director Hale — Ansel's mentor and the architect of the fatal raid. The beat: betrayal as grief; the past reassembling into a shape Ansel refused to see."
+    },
+    {
+      "n": 6,
+      "title": "Checkpoint",
+      "summary": "Adaeze's POV. She confronts Ansel, torn between her duty to arrest a fugitive and the evidence that her own superiors are compromised. She chooses, provisionally, to help — offering a route north through a land border whose checkpoint shifts change at dawn. The beat: fragile alliance, the first taste of belonging since the incident."
+    },
+    {
+      "n": 7,
+      "title": "Night Convoy",
+      "summary": "Split POV. Ansel, Tunde, and Adaeze move the encrypted files by night convoy while Mensah tracks them through a bought border official. A near-miss at a fuel stop costs them their vehicle and nearly Tunde. The beat: terror and loyalty braided together — survival now depends on strangers."
+    },
+    {
+      "n": 8,
+      "title": "Hale's Offer",
+      "summary": "Ansel's POV. Cornered at a safehouse, Ansel faces Hale, who offers absolution, promotion, and the erasure of the incident from every record — if Ansel hands over the ledger and lets the network stand. He reveals the raid was his design all along. The beat: temptation at its most seductive; power offered as mercy."
+    },
+    {
+      "n": 9,
+      "title": "Shift Change",
+      "summary": "Climax, split POV. At the border checkpoint as the shift changes, Ansel triggers a public release of the ledger rather than carrying it through, forcing Mensah to choose between his contract and a crowd of witnesses; Adaeze arrests the bought officials as governments scramble. Hale is exposed mid-escape. The beat: sacrifice converting survival into something worth surviving for."
+    },
+    {
+      "n": 10,
+      "title": "After the Truth",
+      "summary": "Ansel's POV, weeks later. Inquiries open in three capitals; Hale awaits trial; Mensah has vanished, leaving behind a single untraceable message. Ansel sleeps through the night for the first time in two years, then wakes early — not from nightmares but to meet Tunde and Adaeze for breakfast. The beat: quiet resolution; belonging earned, not granted."
+    }
+  ]
+}

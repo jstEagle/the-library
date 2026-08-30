@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06462",
+  "title": "A Tide for the Postcard",
+  "author": "Emrys Eastwick",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Emrys Coldharbour, a cellist recovering from one catastrophic final performance, has spent five years rebuilding a life measured in small safe steps. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6462
+  }
+}

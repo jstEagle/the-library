@@ -1,0 +1,59 @@
+{
+  "title": "Gideon and the Cover",
+  "slug": "thriller/gideon-and-the-cover",
+  "model": "stealth/ox-alpha",
+  "premise": "Edmund Fairweather, a crash investigator haunted by the accident that killed his wife and daughter in row twelve, discovers a voiceprint in the black box audio that matches a living man officially listed among the dead. The voiceprint unlocks an encrypted server in Zurich holding evidence that the crash was engineered by Halcyon Aerospace to bury a defect in their autopilot — and to silence the engineer, Marcus Voss, who faked his death and has been hiding ever since. As Halcyon's fixers close in, Edmund must decide whether to trade the server's location for the truth about his family's final minutes, or expose everything and let his grief become public spectacle. In the end, Edmund broadcasts the evidence with Voss's help, survives an assassination attempt, and finds an uneasy new family among the other victims' relatives who helped him finish it.",
+  "about_author": "Wendell Montrose is the pen name of a former aviation industry analyst who spent a decade inside the corridors where safety reports go to die. He writes thrillers from a farmhouse in the Scottish Borders, where he claims the nearest server is forty miles away and he intends to keep it that way.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Edmund's POV. Two years after the crash, Edmund works nights re-analyzing the CVR audio, unable to sleep, unable to stop. On the anniversary, he isolates a background voiceprint in the final seconds that matches no passenger manifest. Emotional beat: grief calcifying into obsession — the first crack in his official story."
+    },
+    {
+      "n": 2,
+      "title": "The Voiceprint Key",
+      "summary": "Edmund's POV. He runs the voiceprint against a leaked biometric database and gets a hit: Marcus Voss, Halcyon engineer, listed dead in row twelve — but the voiceprint is from a call made three weeks after the crash. Following a digital thread, Edmund accidentally triggers an unlock on a Zurich server. Emotional beat: vertigo — his private grief just became a doorway someone else built."
+    },
+    {
+      "n": 3,
+      "title": "Dead Man Dialing",
+      "summary": "Voss's POV. In hiding in Lisbon, Voss detects the server access and realizes someone used his dead-man's key. He contacts Edmund through a burner, warning him that Halcyon's security contractor, Corvane, will already be tracing the access. Emotional beat: paranoid kinship between two men joined by a lie neither chose."
+    },
+    {
+      "n": 4,
+      "title": "Corvane",
+      "summary": "Edmund's POV. A friendly NTSB colleague tips him that Corvane agents have pulled his file. That night his apartment is searched; he escapes with a drive containing partial server credentials. Emotional beat: the investigation turns inward — Edmund stops being a mourner and becomes a target."
+    },
+    {
+      "n": 5,
+      "title": "The Lisbon Handoff",
+      "summary": "Alternating POV. Edmund flies to Lisbon to meet Voss. Voss reveals the crash was triggered remotely to destroy evidence of the autopilot defect before a certification audit — and that his wife was on the plane too, which is why he let the world believe he died. Emotional beat: found family's first bond, forged in mirrored loss."
+    },
+    {
+      "n": 6,
+      "title": "What the Server Holds",
+      "summary": "Voss's POV. They decrypt the first server layer: test data, deleted emails, and a recording of the go/no-go meeting where Halcyon executives chose the flight path that would fail over ocean. But the full evidence requires a second key held by a Halcyon insider. Emotional beat: the terrible arithmetic of survival — Voss's life was bought with two hundred others."
+    },
+    {
+      "n": 7,
+      "title": "The Insider",
+      "summary": "Edmund's POV. The insider is Dana Okafor, a Halcyon compliance officer and sister of another row-twelve passenger, who has been feeding the victims' families group quiet reassurances for two years. Edmund approaches her through the support group; she agrees to help but insists they go through the families, not the press. Emotional beat: grief transformed into coalition."
+    },
+    {
+      "n": 8,
+      "title": "Corvane Closes",
+      "summary": "Alternating POV. Corvane raids the support group's records, identifies Dana, and takes her. Edmund and Voss learn Halcyon plans to trade her silence against the server's location — the same trade being offered to Edmund: the truth of his family's final minutes in exchange for walking away. Emotional beat: the price of survival made explicit and unbearable."
+    },
+    {
+      "n": 9,
+      "title": "The Trade",
+      "summary": "Edmund's POV. Climax. Edmund offers the trade — but the 'server location' he hands over is a dead drop wired to broadcast everything to regulators, press, and the families simultaneously. In the chaos of Corvane's betrayal by Halcyon's lawyers covering their own tracks, Dana escapes, and Edmund confronts the Halcyon executive who signed the flight path order. Emotional beat: grief weaponized into witness."
+    },
+    {
+      "n": 10,
+      "title": "What Survives",
+      "summary": "Edmund's POV. Months later: hearings underway, Halcyon collapsing, Voss testifying under his own name. Edmund sleeps through the night for the first time, then wakes early — not from nightmare but to meet the families, Dana among them, for the memorial they built themselves. Emotional beat: survival's true price paid in truth, and found family as what remains."
+    }
+  ]
+}

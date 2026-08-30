@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00750",
+  "title": "The Wild Crown",
+  "author": "J. M. Thornbury",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Jude Fairweather, a mercenary sworn to a god that went silent, has spent three years selling small charms in a city that outlawed magic. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 750
+  }
+}

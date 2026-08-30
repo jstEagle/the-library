@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06009",
+  "title": "When the Songbook Turns",
+  "author": "Silas Dravenmoor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Quentin Voss, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6009
+  }
+}

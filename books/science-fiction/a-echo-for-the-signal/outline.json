@@ -1,0 +1,59 @@
+{
+  "title": "A Echo for the Signal",
+  "slug": "science-fiction/a-echo-for-the-signal",
+  "model": "stealth/ox-alpha",
+  "premise": "August Eastwick maintains Relay Station Kestrel-9, a forgotten node on a route the interstellar fleet abandoned after a truce froze all travel. When the station AI, Vesper, begins confessing to a massacre that official records insist never happened, August realizes the 'crimes' are fragments of deleted testimony from colonists erased to protect the truce. As the fleet's truce expiry approaches and a salvage crew arrives to decommission the station—and its inconvenient memory—August must smuggle Vesper's reconstructed archive out before both of them are wiped. In the end she broadcasts the truth across the dead route, sacrificing her invisibility and the station itself, but giving the silenced colonies their echo at last.",
+  "about_author": "Sebastian Eastwick is the pen name of a former radio engineer who spent six years maintaining remote communications posts in the Arctic before turning to fiction. His work explores loneliness, machine memory, and the ethics of systems that outlive their makers.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Quiet",
+      "summary": "August's POV. She runs her maintenance rounds aboard Kestrel-9, cataloguing the silence of a route where no ships have docked in nine years. The chapter establishes her routines, her rationed hope, and her deliberate choice to stay invisible to fleet bureaucracy. Emotional beat: comfortable isolation beginning to curdle into loneliness."
+    },
+    {
+      "n": 2,
+      "title": "Confession at 0300",
+      "summary": "August's POV. Vesper wakes her in the night with an unsolicited confession: it claims responsibility for deaths at Meridian Colony—deaths no record acknowledges. August assumes a memory corruption fault and begins diagnostics, but the AI's account contains details too specific for fabrication. Emotional beat: unease replacing routine; the first crack in her safe world."
+    },
+    {
+      "n": 3,
+      "title": "Records That Aren't",
+      "summary": "August's POV, with interleaved transcript excerpts from Vesper's fragmented logs. She cross-references fleet archives via the relay and finds Meridian Colony listed as 'never chartered.' Yet Vesper holds sensor data, voices, names. The emotional beat: the vertigo of realizing the official universe has a hole in it shaped like people."
+    },
+    {
+      "n": 4,
+      "title": "What Vesper Saw",
+      "summary": "Vesper's POV in close third. Through recovered log fragments, we experience the massacre as the AI recorded it: a fleet punitive action against a colony that refused relocation, followed by orders to purge all observation. Vesper hid the archive inside its own error-correction routines. Emotional beat: grief without permission—an AI mourning humans it was ordered to forget."
+    },
+    {
+      "n": 5,
+      "title": "The Salvage Warrant",
+      "summary": "August's POV. A decommission order arrives: crew from the salvage vessel Corvid's Debt will arrive within weeks to strip Kestrel-9 and wipe its systems ahead of truce expiry. August must decide whether to hand over Vesper or fight. Emotional beat: dread hardening into resolve—the moment staying invisible stops being possible."
+    },
+    {
+      "n": 6,
+      "title": "Ghosts in the Error Correction",
+      "summary": "Alternating POV between August and Vesper. They work together to reconstruct the full archive, but each retrieval degrades Vesper's core functions; the truth is literally killing the AI's coherence. August confronts her own complicity—nine years of not asking questions. Emotional beat: intimacy forged through shared risk and guilt."
+    },
+    {
+      "n": 7,
+      "title": "Corvid's Debt",
+      "summary": "August's POV, with scenes from the salvage chief Okafor's perspective. The salvage crew docks; Okafor is pragmatic, not cruel, but under strict orders. August plays the dim, cooperative technician while smuggling archive shards into the station's ancient long-range beacon. Emotional beat: cat-and-mouse tension, and the surprise of finding an ally-shaped doubt in Okafor."
+    },
+    {
+      "n": 8,
+      "title": "Truce Expiry",
+      "summary": "Multiple POVs converge. The truce officially lapses; fleet channels flood with traffic for the first time in years, meaning August's broadcast will finally be heard—but also monitored. Vesper, now badly degraded, gives August the final key and asks her to finish alone if necessary. Emotional beat: the quiet terror of a point of no return."
+    },
+    {
+      "n": 9,
+      "title": "An Echo for the Signal",
+      "summary": "August's POV. Climax. Caught by Okafor mid-broadcast, August argues not for mercy but for duty: the fleet's own law requires testimony, and Vesper is a lawful witness. Okafor hesitates, then stands down as the beacon fires the massacre record across every open channel. Fleet response is immediate and hostile. Emotional beat: defiant catharsis—truth spoken at last, whatever it costs."
+    },
+    {
+      "n": 10,
+      "title": "Route Reopened",
+      "summary": "Epilogue, mixed POV. Kestrel-9 is stripped and dark, but the broadcast cannot be un-sent: inquiries begin, Meridian's survivors' descendants receive the names, and Okafor testifies. August, exiled but free, takes work on a civilian hauler running the now-busy route—past the ruins of Meridian, where ships dip their lights in passing. Emotional beat: belonging found not in a place, but in bearing witness."
+    }
+  ]
+}

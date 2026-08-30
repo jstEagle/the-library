@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01314",
+  "title": "Oscar and the Spire",
+  "author": "Ines Thornbury",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Paloma Underhill, a mercenary sworn to a god that went silent, keeps the ledgers of a guild that trades in impossible things. But when the old gods begin answering prayers again, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1314
+  }
+}

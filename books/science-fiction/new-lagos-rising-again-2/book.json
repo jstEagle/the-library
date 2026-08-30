@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08342",
+  "title": "New Lagos Rising Again",
+  "author": "Silas Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Felix Thackeray, a starship navigator haunted by the backups sleeping in the hold, has spent five years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8342
+  }
+}

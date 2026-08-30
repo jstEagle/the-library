@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01814",
+  "title": "Lior and the Hollow",
+  "author": "Quentin Underhill",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Casper Joubert, a beast-speaker hiding a forbidden gift, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "found family",
+    "identity",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1814
+  }
+}

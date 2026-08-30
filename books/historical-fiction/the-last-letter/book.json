@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02373",
+  "title": "The Last Letter",
+  "author": "Silas Okafor",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ines Iversen, a code-carrying courier on the last diplomatic mission of a doomed republic, keeps a low profile and busy hands. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. To get through this, they must finish the work while the workshop still stands before the armistice is signed — or isn't.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2373
+  }
+}

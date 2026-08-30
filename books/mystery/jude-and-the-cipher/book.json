@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05526",
+  "title": "Jude and the Cipher",
+  "author": "Yara Vane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Juniper Vasquez, a small-town coroner who knows every grave by name, has spent five years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5526
+  }
+}

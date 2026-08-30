@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01621",
+  "title": "A Ember for the Crown",
+  "author": "Emrys Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jude Ravensworth, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1621
+  }
+}

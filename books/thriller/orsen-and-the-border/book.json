@@ -1,0 +1,21 @@
+{
+  "id": "THR-09275",
+  "title": "Orsen and the Border",
+  "author": "J. M. Ishikawa",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Oscar Brightwater, a fixer for an embassy that doesn't officially exist, has spent twelve years following rules that keep getting rewritten. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. To get through this, they must stop an attack scheduled to look like an accident before the extraction flight leaves at dawn.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9275
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03021",
+  "title": "Petra and the Atlas",
+  "author": "Freya Nystrom",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Paloma Delacroix, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. But when a sealed letter names the family in a plot no one wants a part of, they discover that staying invisible was never really an option. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the century turns.",
+  "themes": [
+    "memory",
+    "identity",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3021
+  }
+}

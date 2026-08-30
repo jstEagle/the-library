@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06380",
+  "title": "The Vow of Junebug Creek",
+  "author": "Jude Villalobos",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ines Marchetti, a pastry chef whose café is three missed payments from gone, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the vineyard's first harvest comes in.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6380
+  }
+}

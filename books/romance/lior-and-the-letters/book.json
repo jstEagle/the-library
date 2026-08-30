@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06844",
+  "title": "Lior and the Letters",
+  "author": "Oscar Hartwell",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Paloma Marchetti, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. But when a snowstorm strands two rivals with the best mistake of their twenties, she discovers that staying invisible was never really an option. To get through this, she must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6844
+  }
+}

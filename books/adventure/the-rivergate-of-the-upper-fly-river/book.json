@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00440",
+  "title": "The Rivergate of the Upper Fly River",
+  "author": "Ines Vasquez",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 3.5,
+  "blurb": "Yara Vasquez, a railroad engineer with a map of closed lines, keeps moving because stopping costs more. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. To get through this, she must bring the expedition home without telling anyone what it found before the monsoon makes landfall.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 440
+  }
+}

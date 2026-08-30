@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00791",
+  "title": "A Wolf for the Crown",
+  "author": "Xanthe Montrose",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Petra Brightwater, a bone-carver who hears the dead, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 791
+  }
+}

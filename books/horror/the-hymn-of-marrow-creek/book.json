@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03593",
+  "title": "The Hymn of Marrow Creek",
+  "author": "Ines Okafor",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Juniper Eastwick, a twin who came home to bury the wrong sibling, has spent fifteen years telling themselves the noises have explanations. Then the excavation crew unearths a door, sealed from the inside — and she is pulled straight into the middle of it. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3593
+  }
+}

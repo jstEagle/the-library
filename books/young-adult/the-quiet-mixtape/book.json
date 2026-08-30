@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09944",
+  "title": "The Quiet Mixtape",
+  "author": "Sebastian Crane",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Ulyana Winterbourne, a scholarship student at an academy with too many secrets, has spent twenty years being so careful it hurts. But when the college essay prompt asks one honest question nobody can stop answering, she discovers that staying invisible was never really an option. Now she must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9944
+  }
+}

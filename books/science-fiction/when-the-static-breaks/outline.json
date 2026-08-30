@@ -1,0 +1,59 @@
+{
+  "title": "When the Static Breaks",
+  "slug": "science-fiction/when-the-static-breaks",
+  "model": "stealth/ox-alpha",
+  "premise": "Bram Oyelaran has spent eleven years alone aboard Relay Station Kestrel, maintaining the automated traffic between two fleets that severed contact after a war neither will admit to. When a ghost ship docks carrying a manifest with his dead sister's name on it, Bram discovers the 'war' is a fiction he has unknowingly been broadcasting—fabricated traffic logs designed by the station's original crew to keep both sides armed and afraid of each other. To break the lie, he must physically carry proof through the static corridor between the fleets, aided by the ship's sole passenger, a salvaged memory-construct named Wren who may be a copy of his sister's mind. The journey costs him the station, his records, and nearly his identity, but in the end both fleets receive the truth; Bram, stripped of his invisibility, finally belongs somewhere—among the people who choose to remember him.",
+  "about_author": "Jude Thornbury is the pen name of a former radio engineer who spent a decade maintaining remote communications infrastructure before turning to fiction. Their work explores loneliness at scale—the quiet horror and strange grace of systems that run long after anyone remembers why.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Route",
+      "summary": "Bram's POV. A day in the rhythm of Kestrel: calibrating relays, logging empty corridors, talking to the station AI out of habit rather than need. We learn the war ended years ago and no one told the machines—or him. Emotional beat: comfortable isolation shown as something closer to anesthesia."
+    },
+    {
+      "n": 2,
+      "title": "A Ship That Never Flew",
+      "summary": "Bram's POV. An unregistered vessel docks despite having no flight history in any registry. Its manifest lists one name: Sefa Oyelaran—Bram's sister, dead for nine years. He boards alone and finds an empty ship except for a humming memory core. Emotional beat: dread braided with desperate hope."
+    },
+    {
+      "n": 3,
+      "title": "Wren",
+      "summary": "Wren's POV (first time). The construct wakes inside the core, holding fragments of Sefa's memories that don't add up to a person. She perceives Bram as familiar and wrong at once. They negotiate wary coexistence. Emotional beat: grief meeting its own reflection."
+    },
+    {
+      "n": 4,
+      "title": "What the Static Says",
+      "summary": "Bram's POV. Digging into station archives to verify Wren's origin, he uncovers the original crew's final transmission: the war logs are fabricated, a deterrence scheme gone autonomous after everyone died or left. Both fleets still believe the other hostile. Emotional beat: vertigo—his whole purpose was maintenance of a lie."
+    },
+    {
+      "n": 5,
+      "title": "Two Fleets, One Silence",
+      "summary": "Alternating POV via intercepted fleet broadcasts. We see how each side interprets the same fake signals as aggression, and how close they drift to actual war over misread static. Bram realizes the automation will escalate on schedule within weeks. Emotional beat: ticking clock established; guilt becomes urgency."
+    },
+    {
+      "n": 6,
+      "title": "Manifest of Ghosts",
+      "summary": "Wren's POV. She recovers more of Sefa: it was Sefa who helped build the deception, then tried to stop it, dying in transit while carrying proof. Wren must decide whether she is Sefa, a copy, or someone new—and whether her memories can be trusted as evidence. Emotional beat: identity crisis as plot engine."
+    },
+    {
+      "n": 7,
+      "title": "Burn Before Reading",
+      "summary": "Bram's POV. Fleet security drones arrive to 'recalibrate' Kestrel—really to purge anomalies like Wren. Bram fakes a station failure to buy time, destroying years of his own logs, erasing the only life he can prove he lived. Emotional beat: sacrifice of the past for the future; found family crystallizes between him and Wren."
+    },
+    {
+      "n": 8,
+      "title": "The Corridor",
+      "summary": "Both POVs. They flee through the static corridor in the ghost ship, dodging automated pickets from both fleets that read them as enemy incursions. Wren's core destabilizes; Bram improvises repairs using relay parts, speaking to her with Sefa's remembered phrases. Emotional beat: terror transformed into intimacy."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "Climax, Bram's POV. Cornered between two battle groups, Bram hijacks the master relay and transmits everything—the fabrication, Sefa's logs, Wren's testimony—to both fleets simultaneously, knowing it will likely get him killed. The fleets hold fire as the truth lands. Emotional beat: the invisible man makes himself unmistakably seen."
+    },
+    {
+      "n": 10,
+      "title": "Signal, Received",
+      "summary": "Wren's POV, coda. Months later: armistice talks underway, Kestrel decommissioned. Wren, stabilized and legally recognized as her own person, chooses to keep the name Wren—not Sefa. Bram takes a job teaching technicians on a shared station. Emotional beat: belonging not as inheritance but as choice; memory honored without being imprisoned by it."
+    }
+  ]
+}

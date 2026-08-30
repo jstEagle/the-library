@@ -1,0 +1,21 @@
+{
+  "id": "THR-08464",
+  "title": "The Loose Border",
+  "author": "I. M. Okafor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Ulyana Nakamura, a financial-crimes investigator drowning in clean money, has spent ten years following rules that keep getting rewritten. But when every record of a flight vanishes while it's still in the air, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8464
+  }
+}

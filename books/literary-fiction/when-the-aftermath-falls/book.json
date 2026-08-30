@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04514",
+  "title": "When the Aftermath Falls",
+  "author": "Theo Iversen",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Zephyrine Crane, a night librarian in a city that sleeps less every year, keeps a careful inventory of everything unsaid. But when a childhood home goes up for auction, they discover that staying invisible was never really an option. To get through this, they must forgive the stranger in the old photographs before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4514
+  }
+}

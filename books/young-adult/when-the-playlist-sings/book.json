@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09720",
+  "title": "When the Playlist Sings",
+  "author": "Quentin Whitlock",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Elodie Galloway, a coder whose anonymous account knows too much, has spent ten years being so careful it hurts. But when grandma's recipe box contains directions that aren't for food, she discovers that staying invisible was never really an option. To get through this, she must decide who to be when the labels come off before prom.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9720
+  }
+}

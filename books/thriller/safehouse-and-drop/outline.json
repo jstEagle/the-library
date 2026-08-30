@@ -1,0 +1,29 @@
+{
+  "title": "Safehouse and Drop",
+  "slug": "thriller/safehouse-and-drop",
+  "model": "stealth/ox-alpha",
+  "premise": "Ulyana Hartwell, a crash investigator whose family died in row twelve, discovers the accident was a live test of a voice-cloning network trained on stolen grief recordings — including her own late husband's. Following a voiceprint unlock to a server farm abroad, she infiltrates the operation with help from a defected engineer and his ragtag crew of test subjects who've become her found family. In a race against the border checkpoint shift change, she burns the training archive, exposing the network and reclaiming her own voice as inheritance rather than loss.",
+  "about_author": "Silas Ashgrove is the pen name of a former aviation safety analyst who spent a decade reconstructing black-box audio before turning to fiction. They write from a farmhouse where, they insist, every phone call is recorded by no one.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Ulyana's POV. Two years after the crash, Ulyana replays the recovered cabin audio nightly until she hears something impossible: her husband's voice saying words he never spoke. Tracing the anomaly to a data broker's leak, she realizes victims' voices were harvested as training material. The emotional beat is grief curdling into purpose — she stops mourning and starts investigating."
+    },
+    {
+      "n": 2,
+      "title": "The Voiceprint",
+      "summary": "Ulyana's POV, with interludes from Marek, a guilt-ridden engineer inside the network. Her husband's cloned voiceprint unlocks a dead-drop server in Riga, pulling her overseas. Marek, disgusted by what he built, defects and offers her shelter among former test subjects — strangers bound by stolen voices who adopt her without ceremony. Beat: wary trust becoming tentative belonging."
+    },
+    {
+      "n": 3,
+      "title": "Checkpoint Hours",
+      "summary": "Alternating Ulyana and Marek POVs. The crew plans to breach the server farm and burn the training archive before the 3 a.m. checkpoint shift change, when new biometric scanners go live. A betrayal within the group forces them to move early; Ulyana must choose between the archive and Marek's capture. Beat: terror sharpened by loyalty — she finally has people worth losing."
+    },
+    {
+      "n": 4,
+      "title": "What the Dead Would Say",
+      "summary": "Ulyana's POV. Inside the burning facility, Ulyana confronts the network's architect, who offers her a perfect reconstruction of her family's voices. She refuses, destroys the master model, and escapes across the border in the shift-change gap with Marek and the crew. Epilogue: she sleeps through the night for the first time, her own voice — not theirs — carrying forward. Beat: release and chosen inheritance."
+    }
+  ]
+}

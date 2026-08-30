@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00361",
+  "title": "The Monsoon of Mount Kessler",
+  "author": "Ulyana Joubert",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Jonah Sterling, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and he is pulled straight into the middle of it. To get through this, he must beat the salvage fleet to the wreck by six tides before the monsoon makes landfall.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 361
+  }
+}

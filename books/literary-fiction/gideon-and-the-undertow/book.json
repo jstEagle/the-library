@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04430",
+  "title": "Gideon and the Undertow",
+  "author": "Ada Thornbury",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Jonah Ravensworth, a letter-writer sending postcards to an address that burned down years ago, keeps a careful inventory of everything unsaid. But when a childhood home goes up for auction, they discover that staying invisible was never really an option. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4430
+  }
+}

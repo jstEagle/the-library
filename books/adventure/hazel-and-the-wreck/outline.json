@@ -1,0 +1,59 @@
+{
+  "title": "Hazel and the Wreck",
+  "slug": "adventure/hazel-and-the-wreck",
+  "model": "stealth/ox-alpha",
+  "premise": "Salvage diver Sebastian Hartwell is hired to strip a WWII-era wreck off the coast of a remote archipelago, but the navy's silence about the ship and a dying prospector's map traded for a promise reveal the wreck holds more than scrap: a sealed strongroom of gold and documents that could expose who really survived that night seven years ago, when Sebastian's own father vanished in these waters. Pursued by a salvage syndicate and racing the monsoon with a leaking boat, Sebastian and a local fisherwoman named Amara must dive the flooded compartments one last time before the dry season ends. In the climax, Sebastian finds his father's final logbook among the gold and chooses to sink the treasure rather than trade it for the truth's price. The book ends with Sebastian surfacing empty-handed but finally measuring life in days instead of miles, keeping only the promise he made.",
+  "about_author": "E. M. Montrose is the pen name of a former maritime surveyor who spent a decade charting wrecks across Southeast Asia before turning to fiction. They write adventure stories where the sea keeps better records than any government.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Miles, Not Years",
+      "summary": "Sebastian's POV. Working a routine salvage job, Sebastian measures his life in nautical miles since his father's disappearance seven years ago. A navy liaison warns him off a restricted wreck site. Emotional beat: restless grief disguised as professionalism."
+    },
+    {
+      "n": 2,
+      "title": "The Prospector's Bargain",
+      "summary": "Sebastian's POV. A dying prospector named Okonkwo trades Sebastian a hand-drawn map for a promise: recover what's in the strongroom and burn what can't be carried. He dies by morning. Emotional beat: an unwanted inheritance of obligation."
+    },
+    {
+      "n": 3,
+      "title": "Amara",
+      "summary": "Amara's POV. Fisherman-turned-boat-pilot Amara agrees to take Sebastian to the wreck for money she desperately needs, hiding that her own brother was lost on a similar run. Emotional beat: two strangers negotiating trust over shared loss."
+    },
+    {
+      "n": 4,
+      "title": "The Wreck the Navy Won't Discuss",
+      "summary": "Sebastian's POV. First dive reveals the wreck is deliberately scuttled, not sunk, and the strongroom door bears his family's shipping company mark. A syndicate boat shadows them. Emotional beat: dread hardening into resolve."
+    },
+    {
+      "n": 5,
+      "title": "Monsoon Warning",
+      "summary": "Amara's POV. Storm season arrives early; their hull takes damage from debris, and they shelter in a cove where Amara reveals her brother's connection to the wreck. Emotional beat: vulnerability exchanged for alliance."
+    },
+    {
+      "n": 6,
+      "title": "The Strongroom",
+      "summary": "Sebastian's POV. A dangerous penetration dive through flooded corridors reaches the strongroom: gold bars and a waterproof logbook bearing his father's handwriting. The syndicate divers arrive above. Emotional beat: wonder curdling into fear."
+    },
+    {
+      "n": 7,
+      "title": "What Survived",
+      "summary": "Amara's POV. Trapped by the syndicate's blockade, they read the logbook: Sebastian's father survived the sinking, hid the cargo, and died protecting it from the syndicate's founder. Emotional beat: grief transformed into fury."
+    },
+    {
+      "n": 8,
+      "title": "The Price of Survival",
+      "summary": "Sebastian's POV. The syndicate offers Sebastian the truth and wealth in exchange for the logbook's silence. Cornered between his father's fate and his own survival, he pretends to bargain while planning the last dive. Emotional beat: moral reckoning."
+    },
+    {
+      "n": 9,
+      "title": "Last Dive Before Dry Season",
+      "summary": "Alternating POVs. During the storm's eye, Sebastian and Amara dive together, rig the strongroom to collapse into deep water, and barely escape the syndicate's boarding attempt as the monsoon returns full force. Emotional beat: desperate, breathless climax."
+    },
+    {
+      "n": 10,
+      "title": "Days Instead of Miles",
+      "summary": "Shared POV. The syndicate retreats; the navy quietly closes its file. Sebastian keeps his promise, burning what couldn't be carried, and stays a season in Amara's village. Emotional beat: release — a life measured in days at last."
+    }
+  ]
+}

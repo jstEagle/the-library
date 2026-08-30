@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08053",
+  "title": "Juniper and the Terminal",
+  "author": "E. M. Sandoval",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Coral Quintana, a clone who inherited the original's murder case, maintains the beacon nobody remembers commissioning. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8053
+  }
+}

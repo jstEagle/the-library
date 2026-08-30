@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02830",
+  "title": "Wendell and the Atlas",
+  "author": "Casper Iversen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Felix Kavanagh, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. But when the army requisitions the town and the ledger with all the names, they discover that staying invisible was never really an option. To get through this, they must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2830
+  }
+}

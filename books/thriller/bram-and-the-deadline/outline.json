@@ -1,0 +1,59 @@
+{
+  "title": "Bram and the Deadline",
+  "slug": "thriller/bram-and-the-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Financial-crimes investigator Theo Nakamura has spent fifteen years laundering her own past into a spotless life, until a calendar invite arrives from Marcus Vane—her handler, dead for three years. Following the invitation into a decommissioned data center, she learns Vane faked his death to protect a ledger implicating the very agency that trained her, and that his death was staged by the man now running it, Director Aldous Reeve. Hunted through one long night by Reeve's cleaners, Theo must decide whether to sell the ledger to a rival syndicate for a guaranteed escape flight at dawn or trust Vane's ragged network of exiled analysts—the found family she never let herself have. She chooses the family, burns the ledger publicly rather than trade it, and boards the dawn flight not as a fugitive but as the woman who ended Reeve's empire.",
+  "about_author": "Gideon Blackwood is the pen name of a former compliance officer who spent a decade inside the gray machinery of international finance before trading it for fiction. He writes thrillers about people who discover that the systems they served were never designed to protect them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Invitation",
+      "summary": "Theo Nakamura's POV. Theo audits clean money for a firm that launders dirtier things, her life a fortress of routine. Then a meeting invite pings from Marcus Vane's account—the handler who died three years ago. The location: a shuttered data center, tomorrow, 11 p.m. Emotional beat: dread cracking open a carefully sealed life; she goes anyway."
+    },
+    {
+      "n": 2,
+      "title": "Dead Men Keep Appointments",
+      "summary": "Theo's POV. In the data center's cold aisles, Vane appears—alive, gaunt, terrified. He reveals a ledger of payments routing through her own old cases straight to Director Aldous Reeve, and warns that opening the invite flagged her location. Emotional beat: vertigo; fifteen years of invisibility collapsing in ten minutes as sirens rise outside."
+    },
+    {
+      "n": 3,
+      "title": "Cleaners",
+      "summary": "Alternating Theo and Vane POV. Reeve's cleaners breach the building; Vane splits the ledger's decryption key between them and they scatter through maintenance tunnels. Theo watches a cleaner execute a colleague without hesitation. Emotional beat: survival instinct igniting; she stops being an auditor and becomes prey with a plan."
+    },
+    {
+      "n": 4,
+      "title": "The Market for Secrets",
+      "summary": "Theo's POV, hiding in a dockside safehouse. A rival syndicate's broker contacts her: they'll buy the key and guarantee seats on a dawn extraction flight to Lisbon. Meanwhile Vane's scattered network of exiled analysts reaches out—people like her, burned by the agency. Emotional beat: temptation versus belonging; the flight is real, and so is the loneliness it would seal in."
+    },
+    {
+      "n": 5,
+      "title": "Fifteen Years of Rules",
+      "summary": "Theo's POV with flashbacks. We learn how Vane recruited her at twenty-three, how the rules he taught her kept her alive, and how his 'death' broke her faith in everything. She tests the broker's offer against Vane's network and finds the syndicate's flight has a history of one-way passengers. Emotional beat: grief metabolizing into resolve."
+    },
+    {
+      "n": 6,
+      "title": "Reeve Makes Contact",
+      "summary": "Alternating Theo and Reeve POV. Reeve calls her personally—courteous, reasonable, offering full reinstatement and immunity if she delivers Vane and the key. His charm is worse than threats; he genuinely believes corruption is just order done efficiently. Emotional beat: cold recognition that power always offers you a comfortable seat on the sinking ship."
+    },
+    {
+      "n": 7,
+      "title": "The Network Assembles",
+      "summary": "Ensemble POV chapter. Vane's exiles converge: a disgraced forensic accountant, a hacker who faked her own drowning, a former cleaner who defected. They plan to decrypt and broadcast the ledger before dawn, using Theo's old audit access as the entry point. Emotional beat: cautious warmth; strangers becoming a unit, each carrying the same scar."
+    },
+    {
+      "n": 8,
+      "title": "Betrayal at the Exchange Point",
+      "summary": "Theo's POV. The mid-exchange meeting with the broker is a trap orchestrated by a mole in Vane's network—one of the exiles sold them out for reinstatement. Two are captured; Theo barely escapes with the key shard, hunted across the container yards. Emotional beat: fury and heartbreak; even found families can be bought, but hers refuses to stay bought."
+    },
+    {
+      "n": 9,
+      "title": "Dawn Is a Deadline",
+      "summary": "Theo and Vane POV, climax. With hours left, they infiltrate the agency's data hub; Theo uses her fifteen years of insider knowledge to route the decrypted ledger to every regulator, journalist, and court simultaneously. Reeve corners them personally; Vane takes a bullet meant for her, surviving, as the broadcasts go live worldwide. Emotional beat: the price of survival paid in blood and truth, finally worth it."
+    },
+    {
+      "n": 10,
+      "title": "Flight 407 to Lisbon",
+      "summary": "Theo's POV, resolution. Reeve is arrested mid-escape by his own former cleaners; the mole turns state's evidence. At the airfield, the extraction flight still waits—and Theo realizes she no longer needs it to run from anything. She boards anyway, Vane beside her, the network already planning what comes next. Emotional beat: quiet, earned peace; invisibility traded for connection, survival redefined as living."
+    }
+  ]
+}

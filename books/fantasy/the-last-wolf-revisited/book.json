@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02231",
+  "title": "The Last Wolf Revisited",
+  "author": "Ines Vane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mara Almeida, the last oath-bound swordspeaker, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2231
+  }
+}

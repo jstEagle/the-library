@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07960",
+  "title": "Felix and the Gravity",
+  "author": "Casper Villalobos",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Mara Dravenmoor, a xenolinguist who can no longer dream in human languages, maintains the beacon nobody remembers commissioning. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7960
+  }
+}

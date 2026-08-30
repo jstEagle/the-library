@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04870",
+  "title": "The Empty Autopsy",
+  "author": "Silas Brightwater",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Bram Vane, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. Then a client pays in advance to prove a murder hasn't happened — yet — and they are pulled straight into the middle of it. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4870
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08181",
+  "title": "The Archive of Sector Nine Again",
+  "author": "Casper Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Quentin Vane, a decommissioned war android paying off its debts, has spent ten years hauling cargo through contested orbits. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8181
+  }
+}

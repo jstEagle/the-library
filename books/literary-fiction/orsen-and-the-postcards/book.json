@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04643",
+  "title": "Orsen and the Postcards",
+  "author": "Rosalind Ashgrove",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Quentin Dravenmoor, a translator losing a childhood language one borrowed word at a time, has spent twelve years practicing the art of almost saying it. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. To get through this, she must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4643
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08453",
+  "title": "Safehouse and Asset",
+  "author": "V. M. Galloway",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Vesper Quintana, a whistle-blower living under four names, has spent five years following rules that keep getting rewritten. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8453
+  }
+}

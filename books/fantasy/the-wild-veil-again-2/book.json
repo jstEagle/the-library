@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02264",
+  "title": "The Wild Veil Again",
+  "author": "Theo Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Lena Whitlock, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2264
+  }
+}

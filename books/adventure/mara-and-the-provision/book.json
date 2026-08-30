@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00687",
+  "title": "Mara and the Provision",
+  "author": "Rosalind Kavanagh",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Noor Thornbury, a railroad engineer with a map of closed lines, carries a compass, a debt, and very little else. Then the river gives up a chest stamped with a dead nation's seal — and she is pulled straight into the middle of it. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 687
+  }
+}

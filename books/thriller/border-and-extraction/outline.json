@@ -1,0 +1,119 @@
+{
+  "title": "Border and Extraction",
+  "slug": "thriller/border-and-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Mara Whitlock, a burned-out fixer for a deniable embassy operation, is pulled back into the field when her own voiceprint unlocks a server in Zurich containing proof that her agency brokered an arms deal disguised as humanitarian aid. Racing to authenticate and leak the files before Frankfurt markets open, she is hunted by an assassin named Kessler who once saved her life, while three governments maneuver to bury the evidence. Betrayed by her own handler and sheltered by a ragtag network of exiles she comes to call family, Mara must choose between duty and truth. In the end she releases the files at dawn, survives Kessler's final gambit by refusing to kill him, and walks away from the service — alive, disavowed, and finally able to sleep.",
+  "about_author": "Tamsin Underhill is the pen name of a former policy analyst who spent six years working near the edges of diplomatic backchannels before turning to fiction. She writes thrillers about ordinary people trapped inside extraordinary machinery, from a farmhouse in the Welsh borders.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Hour Before Dawn",
+      "summary": "Mara's POV. Insomnia-ridden Mara works a routine document extraction in Vienna, revealing her precision and her fraying nerves through small errors she alone notices. A flashback hints at 'the incident' without naming it. Emotional beat: competence as armor over grief."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "Mara's POV. A dead colleague's voice sample unlocks a Zurich server addressed to her biometric signature. The files reference Operation LANTERN — aid convoys that never carried aid. Emotional beat: dread curdling into obsession; the past knocking."
+    },
+    {
+      "n": 3,
+      "title": "The Embassy That Isn't",
+      "summary": "Handler POV (Devereux). Inside the off-book embassy, Devereux learns of the unlock and orders quiet containment, torn between protecting Mara and protecting the mission. Emotional beat: institutional loyalty beginning to rot from within."
+    },
+    {
+      "n": 4,
+      "title": "Kessler Calls First",
+      "summary": "Assassin POV. Kessler, ordered to retrieve the server key, contacts Mara instead — warning her, testing her. Their shared history surfaces: he pulled her out of 'the incident.' Emotional beat: love against duty, stated as threat."
+    },
+    {
+      "n": 5,
+      "title": "Zurich, One Night Standoff",
+      "summary": "Mara's POV. She flies to Zurich, copies the archive in a bank vault while Kessler watches from across the street and lets her walk. Emotional beat: the first debt repaid; trust as a loaded weapon."
+    },
+    {
+      "n": 6,
+      "title": "Found Family, Assembled",
+      "summary": "Ensemble POV rotation. Mara calls in favors: forger Odile, hacker Jun, driver Tomas — exiles bound by old debts. They argue over whether to run or fight. Emotional beat: reluctant family forming around a kitchen table and bad coffee."
+    },
+    {
+      "n": 7,
+      "title": "Three Governments, One Lie",
+      "summary": "Devereux POV. Devereux briefs liaison officers from three capitals; each wants the story buried differently. We see the machinery closing around Mara. Emotional beat: claustrophobia; the walls are people."
+    },
+    {
+      "n": 8,
+      "title": "The Convoy Ledger",
+      "summary": "Jun's POV. The team decrypts the ledger proving weapons moved under aid flags, with signatures reaching Devereux's desk. Jun hesitates — exposing it exposes them all. Emotional beat: fear vs. conscience inside the found family."
+    },
+    {
+      "n": 9,
+      "title": "Safehouse Burning",
+      "summary": "Tomas's POV. A second retrieval team hits their Lyon safehouse; they escape through smoke with the drive but lose their communications kit and nearly lose Odile. Emotional beat: the price of survival made literal and physical."
+    },
+    {
+      "n": 10,
+      "title": "What Devereux Knew",
+      "summary": "Devereux POV. Flashback chapter: Devereux signed off on LANTERN believing it was leverage, not arms. Now covering it up to protect careers including Mara's. Emotional beat: guilt rationalized into duty."
+    },
+    {
+      "n": 11,
+      "title": "The Journalist Who Waited",
+      "summary": "Mara's POV. In Brussels she meets investigative reporter Ansel Roos, the only outlet that won't trade the story away. He demands verification she can't give yet. Emotional beat: hope arriving wrapped in skepticism."
+    },
+    {
+      "n": 12,
+      "title": "Kessler's Orders Change",
+      "summary": "Kessler POV. His new directive: no retrieval — termination. He stalls, requesting one more chance at the drive. Emotional beat: a professional man discovering his line in the sand."
+    },
+    {
+      "n": 13,
+      "title": "Frankfurt Countdown Begins",
+      "summary": "Ensemble POV. With 36 hours to market open, the team plans simultaneous release: files to Roos, a mirror to two regulators, timed to make suppression impossible. Emotional beat: purpose replacing panic; the found family becomes a crew."
+    },
+    {
+      "n": 14,
+      "title": "The Trap in the Mirror",
+      "summary": "Jun's POV. Jun discovers the mirror site route was leaked — someone inside fed the governments their plan. Suspicion fractures the group. Emotional beat: betrayal paranoia poisoning trust."
+    },
+    {
+      "n": 15,
+      "title": "Odile's Confession",
+      "summary": "Odile's POV. Odile admits she was turned months ago with threats against her daughter; she offers herself as bait to fix it. Emotional beat: sacrifice offered, forgiveness demanded, family tested to breaking."
+    },
+    {
+      "n": 16,
+      "title": "Interception on the Rhine",
+      "summary": "Tomas's POV. Using Odile's bait, the team ambushes the interception convoy and recovers their comms — but Devereux appears in person, begging Mara to stand down with genuine desperation. Emotional beat: duty and love colliding face to face."
+    },
+    {
+      "n": 17,
+      "title": "The Incident, Named",
+      "summary": "Mara's POV. Full flashback: the botched extraction where Mara's hesitation killed two colleagues — and where Kessler disobeyed orders to save her. Her insomnia finally has a name. Emotional beat: grief integrated; the armor comes off."
+    },
+    {
+      "n": 18,
+      "title": "Night Before Frankfurt",
+      "summary": "Dual POV, Mara and Kessler. A midnight meeting on a bridge: Kessler warns her the kill order is absolute, then gives her the one gap in the surveillance net. Emotional beat: love against duty resolved into choice."
+    },
+    {
+      "n": 19,
+      "title": "Markets Open",
+      "summary": "Ensemble POV, real-time tension. At 7:00 a.m. CET the files go live; regulators freeze related trades; Roos publishes. Governments scramble; Devereux resigns rather than deny it. Emotional beat: catharsis — the truth lands like weather, undeniable."
+    },
+    {
+      "n": 20,
+      "title": "Kessler's Last Gambit",
+      "summary": "Kessler POV. Ordered to clean up loose ends, Kessler corners Mara — and instead burns his own agency file, handing her the last names. Wounded by his own handlers' response team, he tells her to run. Emotional beat: redemption purchased at cost."
+    },
+    {
+      "n": 21,
+      "title": "Disavowed",
+      "summary": "Mara's POV. Hearings, leaks, fallout: three officials resign, the program dissolves, and Mara is formally erased from every record — which is exactly what she asks for. Emotional beat: freedom that looks like loss."
+    },
+    {
+      "n": 22,
+      "title": "Sleeping Through the Night",
+      "summary": "Mara's POV, epilogue. Months later, at Odile's rebuilt farmhouse, the scattered family gathers; Kessler arrives unannounced, alive, carrying bread instead of a weapon. Mara sleeps until morning. Emotional beat: survival transformed into home."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00033",
+  "title": "When the Horizon Falls",
+  "author": "Lena Fairweather",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jude Lockridge, a riverboat captain who knows every sandbar's mood, has spent five years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. To get through this, she must beat the salvage fleet to the wreck by six tides before the dry season ends.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 33
+  }
+}

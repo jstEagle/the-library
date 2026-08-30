@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00318",
+  "title": "The Trail of the Sepik Basin",
+  "author": "Juniper Blackwood",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Cyrus Sterling, a salvage diver working a wreck the navy won't discuss, has spent three years measuring life in miles rather than years. Then the river gives up a chest stamped with a dead nation's seal — and she is pulled straight into the middle of it. Now she must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 318
+  }
+}

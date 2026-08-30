@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04439",
+  "title": "The Distant Blue Hour",
+  "author": "Sebastian Crane",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Cyrus Vane, a letter-writer sending postcards to an address that burned down years ago, keeps a careful inventory of everything unsaid. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4439
+  }
+}

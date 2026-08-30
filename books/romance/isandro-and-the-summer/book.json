@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06959",
+  "title": "Isandro and the Summer",
+  "author": "Silas Dravenmoor",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Ulyana Fairweather, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "memory",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6959
+  }
+}

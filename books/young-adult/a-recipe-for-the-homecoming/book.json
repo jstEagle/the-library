@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09851",
+  "title": "A Recipe for the Homecoming",
+  "author": "Oscar Kavanagh",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ines Okonkwo, the new kid at a school built over something old, stays under the radar: head down, grades up, locker shut. Then a group chat starts predicting things that haven't happened yet — and she is pulled straight into the middle of it. To get through this, she must save the tradition that made the town before graduation.",
+  "themes": [
+    "found family",
+    "memory",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9851
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03372",
+  "title": "The Bell of the Ninth Floor",
+  "author": "P. M. Villalobos",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Wendell Sterling, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. But when all the photographs from grandma's house now include an extra chair, she discovers that staying invisible was never really an option. To get through this, she must get the family out ahead of the count before the harvest moon rises.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3372
+  }
+}

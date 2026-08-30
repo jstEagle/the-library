@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02047",
+  "title": "The Crown of the Sundered Sea Anew",
+  "author": "Edmund Brightwater",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Yara Halloran, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2047
+  }
+}

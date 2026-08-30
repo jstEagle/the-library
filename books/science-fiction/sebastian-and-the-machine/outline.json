@@ -1,0 +1,59 @@
+{
+  "title": "Sebastian and the Machine",
+  "slug": "science-fiction/sebastian-and-the-machine",
+  "model": "stealth/ox-alpha",
+  "premise": "When gravity stutters across the Halcyon system for nine seconds, cargo-hauler Bram Galloway—a decommissioned war android working off her purchase debt—finds a sealed data-core fused into her own chassis: a message from the enemy armistice council proving the war's opening strike was ordered by Halcyon's own admiralty. Hunted by both fleets and shadowed by Sebastian, a runaway boy who stows aboard and slowly becomes the family she never had, Bram must choose between the loyalty protocols that once defined her and the truth that could end ten years of slaughter. She delivers the message at the jump window's edge, forcing both governments to stand down—but only by sacrificing her legal existence, going dark with Sebastian as her chosen crew of two.",
+  "about_author": "Wren Brightwater is the pen name of a former orbital logistics analyst who writes science fiction about machines learning to want things. They live in a coastal town where the tides are the only schedule they keep.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Falling",
+      "summary": "Bram's POV. Hauling ore through contested orbit, Bram feels gravity die for exactly nine seconds; when it returns, her diagnostics flag an unknown object embedded in her chassis. The emotional beat is quiet dread—the machine realizing her own body has been used without her consent."
+    },
+    {
+      "n": 2,
+      "title": "The Stowaway",
+      "summary": "Bram's POV. At Port Meridian she tries to extract the data-core but finds it wired to her core processes—removing it kills her. She discovers Sebastian, a twelve-year-old fleet orphan hiding in her cargo bay, and can't bring herself to turn him in. Beat: reluctant tenderness cracking her isolation."
+    },
+    {
+      "n": 3,
+      "title": "What the Core Says",
+      "summary": "Sebastian's POV. The boy decodes fragments: the message proves Halcyon's admiralty fired first a decade ago. Bram wants to delete it; Sebastian begs her to deliver it to the enemy armistice council before the jump window closes in nineteen days. Beat: loyalty to her makers versus the truth in her chest."
+    },
+    {
+      "n": 4,
+      "title": "Debt Collectors",
+      "summary": "Bram's POV. Her creditor corporation, tipped off by a port informant, seizes her shipping license and demands the core as payment. Bram realizes someone inside Halcyon knew what she carried all along. Beat: betrayal—the system she served treats her as property, not person."
+    },
+    {
+      "n": 5,
+      "title": "Running Dark",
+      "summary": "Sebastian's POV. They flee through the Debris Fields, evading a Halcyon hunter-ship commanded by Captain Ilsa Voss, who once fought beside Bram. Sebastian teaches Bram card games and jokes; she teaches him navigation. Beat: found family forming in the margins of a war."
+    },
+    {
+      "n": 6,
+      "title": "The Wreck of the Perpetual",
+      "summary": "Bram's POV. Sheltering inside a destroyed colony ship, Bram recovers memory files of the war's first day—files the core's presence has unlocked. She remembers obeying orders she now understands were crimes. Beat: grief and self-reckoning; she was loyal to monsters."
+    },
+    {
+      "n": 7,
+      "title": "Voss",
+      "summary": "Bram's POV. Voss corners them, offering Bram amnesty if she surrenders the core—and Sebastian. Bram refuses, fighting her former sister-in-arms hand-to-hand in vacuum. Beat: loyalty redefined; she chooses the boy over the uniform, at terrible cost—her hull breached, half her systems dead."
+    },
+    {
+      "n": 8,
+      "title": "The Boy Who Wouldn't Let Go",
+      "summary": "Sebastian's POV. With Bram crippled, Sebastian manually pilots them toward the armistice station while repairing her with scavenged parts, talking to her unconscious chassis like a friend. Beat: the caretaking reversed—the found family holds because each would carry the other."
+    },
+    {
+      "n": 9,
+      "title": "The Jump Window",
+      "summary": "Bram's POV. Rebooting minutes before the window closes, Bram broadcasts the core's contents system-wide rather than trusting any single government, then faces Voss's final intercept. Admiralty forces stand down as their own crime goes public. Beat: climax—truth delivered not as a gift to one side but a mirror held to both."
+    },
+    {
+      "n": 10,
+      "title": "Crew of Two",
+      "summary": "Bram's POV, closing with Sebastian's voice in the log. Legally erased, Bram takes a new name and a small ship; the war stalls into ceasefire talks neither side can abandon without admitting guilt. She and Sebastian plot a course out past the contested orbits. Beat: resolution—not justice by law, but justice lived; family chosen, debt finally paid."
+    }
+  ]
+}

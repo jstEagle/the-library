@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00972",
+  "title": "The Garden of the Sundered Sea",
+  "author": "Xanthe Sandoval",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Lena Reyes, a thief who steals memories, has spent twelve years selling small charms in a city that outlawed magic. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 972
+  }
+}

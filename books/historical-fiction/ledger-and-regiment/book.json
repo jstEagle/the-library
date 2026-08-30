@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02488",
+  "title": "Ledger and Regiment",
+  "author": "Wendell Pemberton",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Hazel Hartwell, a mapmaker's apprentice finishing the atlas the master died for, measures the world in what can be carried when the orders come. Then a sealed letter names the family in a plot no one wants a part of — and she is pulled straight into the middle of it. To get through this, she must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "belonging",
+    "identity",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2488
+  }
+}

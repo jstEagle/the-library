@@ -1,0 +1,21 @@
+{
+  "id": "THR-09073",
+  "title": "Silas and the Contact",
+  "author": "Isandro Fairweather",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Wren Sandoval, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. Now she must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9073
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01874",
+  "title": "When the Hollow Wakes Again",
+  "author": "Orsen Sterling",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Kestrel Kavanagh, a thief who steals memories, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1874
+  }
+}

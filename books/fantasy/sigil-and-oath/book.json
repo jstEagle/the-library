@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00946",
+  "title": "Sigil and Oath",
+  "author": "Theo Crane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Lior Marchetti, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 946
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03455",
+  "title": "Smile and Room",
+  "author": "Gideon Dravenmoor",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Marguerite Oyelaran, the new teacher at a school with a missing-class problem, keeps the lights on and the doors counted. But when every mirror in the house starts reflecting the room one second late, they discover that staying invisible was never really an option. Now they must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3455
+  }
+}

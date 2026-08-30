@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04339",
+  "title": "When the Aftermath Sings",
+  "author": "Cyrus Whitlock",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Bram Quintana, a former prodigy returning to the conservatory as a janitor, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, they discover that staying invisible was never really an option. To get through this, they must say goodbye properly, at last, out loud before the demolition date arrives.",
+  "themes": [
+    "belonging",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4339
+  }
+}

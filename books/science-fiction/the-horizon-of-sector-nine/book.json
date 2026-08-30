@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07129",
+  "title": "The Horizon of Sector Nine",
+  "author": "Ivo Sandoval",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Juniper Yarrow, a xenolinguist who can no longer dream in human languages, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7129
+  }
+}

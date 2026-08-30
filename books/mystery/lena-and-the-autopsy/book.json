@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05623",
+  "title": "Lena and the Autopsy",
+  "author": "Paloma Fairweather",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Freya Villalobos, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. Then the town's beloved founder is exhumed and the coffin is empty — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5623
+  }
+}

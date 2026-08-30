@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04462",
+  "title": "Weather and Interior",
+  "author": "Quentin Marchetti",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Mirabel Amberdale, a night librarian in a city that sleeps less every year, has spent twenty years practicing the art of almost saying it. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4462
+  }
+}

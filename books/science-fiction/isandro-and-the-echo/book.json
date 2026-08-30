@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08100",
+  "title": "Isandro and the Echo",
+  "author": "Juniper Zhou",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Gideon Nystrom, a xenolinguist who can no longer dream in human languages, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. To get through this, they must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8100
+  }
+}

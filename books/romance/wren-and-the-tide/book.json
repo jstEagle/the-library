@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06337",
+  "title": "Wren and the Tide",
+  "author": "Ivo Underhill",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Mara Blackwood, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6337
+  }
+}

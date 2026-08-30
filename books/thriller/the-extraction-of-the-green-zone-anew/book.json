@@ -1,0 +1,21 @@
+{
+  "id": "THR-09171",
+  "title": "The Extraction of the Green Zone Anew",
+  "author": "Dominic Galloway",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wendell Zhou, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9171
+  }
+}

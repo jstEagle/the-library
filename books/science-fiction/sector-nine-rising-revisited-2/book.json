@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08282",
+  "title": "Sector Nine Rising Revisited",
+  "author": "Paloma Nakamura",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Marguerite Marchetti, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. To get through this, he must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8282
+  }
+}

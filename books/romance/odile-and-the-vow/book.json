@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06921",
+  "title": "Odile and the Vow",
+  "author": "Kestrel Thornbury",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Ines Crane, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. But when the person behind a decade of letters moves in next door, he discovers that staying invisible was never really an option. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6921
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01859",
+  "title": "Yara and the Salt",
+  "author": "Lior Hartwell",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Orsen Kavanagh, a beast-speaker hiding a forbidden gift, has spent twenty years selling small charms in a city that outlawed magic. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1859
+  }
+}

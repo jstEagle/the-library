@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03804",
+  "title": "Ivo and the Portrait",
+  "author": "Tamsin Thornbury",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Xanthe Eriksen, a twin who came home to bury the wrong sibling, has spent seven years telling themselves the noises have explanations. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. To get through this, he must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "belonging",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3804
+  }
+}

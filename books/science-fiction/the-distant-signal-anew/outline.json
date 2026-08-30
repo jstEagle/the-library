@@ -1,0 +1,59 @@
+{
+  "title": "The Distant Signal Anew",
+  "slug": "science-fiction/the-distant-signal-anew",
+  "model": "stealth/ox-alpha",
+  "premise": "Zephyrine Almeida, the last human technician aboard relay station Vesper-9, has spent eleven years maintaining a communications network whose member worlds have gone silent one by one. When a distress signal arrives in Kessari — a language extinct since the Meridian Purge two centuries ago — he discovers the signal is being actively erased from every archive in the network. Following its source to the dead world of Anthe, Zephyrine uncovers evidence of a massacre that the ruling Concordat has rewritten out of history, and finds a surviving community of Kessari descendants hiding in the ruins, led by the signal's sender, Ione. As Concordat enforcers close in and his own memories begin to be edited through the station's neural uplink, Zephyrine must choose between restoring his erased past and broadcasting the truth that will make him an enemy of every remaining world. He sacrifices his memories of home to carry the Kessari testimony to the last free transmitter, ending the silence and giving the survivors a voice — though he no longer remembers why it mattered to him.",
+  "about_author": "B. M. Joubert is the pen name of a former radio engineer who spent a decade maintaining remote transmission arrays across three continents before turning to fiction. They write quiet, melancholy science fiction about people who keep the lights on at the edge of things.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Route",
+      "summary": "POV Zephyrine. Establishes daily life on Vesper-9: calibrating antennas for worlds that stopped answering years ago, talking to the station AI, Maren, as his only companion. A routine diagnostic reveals a faint anomaly buried in background noise. Emotional beat: loneliness worn smooth into habit, and the first flicker of something breaking the routine."
+    },
+    {
+      "n": 2,
+      "title": "A Language With No Speakers",
+      "summary": "POV Zephyrine. The anomaly resolves into a repeating distress call in Kessari, which Zephyrine recognizes from his grandmother's forbidden lullabies. He queries the central archive: Kessari is listed as extinct, and the signal's origin coordinates return 'no such world.' Emotional beat: wonder curdling into unease as the archive contradicts his own memory."
+    },
+    {
+      "n": 3,
+      "title": "What the Archive Forgets",
+      "summary": "POV Zephyrine. Digging deeper, he finds the record of Anthe has been scrubbed — shipping manifests, census data, even star charts altered. Maren warns him that querying flagged records triggers Concordat audits. That night, his neural uplink delivers a maintenance notice: a memory audit is scheduled. Emotional beat: paranoia taking root; the past itself feels unsafe."
+    },
+    {
+      "n": 4,
+      "title": "The Audit",
+      "summary": "POV Zephyrine, intercut with fragments of his childhood on a colony world he can no longer name. The audit strips a week of his recent memories; he wakes with gaps and a note in his own handwriting he doesn't remember writing: 'Anthe is real.' Emotional beat: violation and grief for losses he cannot name, resolve hardening into defiance."
+    },
+    {
+      "n": 5,
+      "title": "Descent to Anthe",
+      "summary": "POV Zephyrine. He falsifies a maintenance route and takes the long-range skiff to Anthe's coordinates, running silent. The planet appears barren until he detects heat signatures beneath a collapsed city. He is captured by scavengers who speak accented Kessari. Emotional beat: terror giving way to the shock of hearing a dead language alive in human mouths."
+    },
+    {
+      "n": 6,
+      "title": "The Ones Who Stayed",
+      "summary": "POV alternating Zephyrine and Ione. Below the ruins lives a hidden community descended from massacre survivors. Ione, the signal's sender, explains the Meridian Purge: the Concordat annihilated the Kessari and rewrote history so thoroughly that even the victims' descendants doubt their own stories. Emotional beat: belonging — Zephyrine hears his grandmother's lullaby sung by strangers."
+    },
+    {
+      "n": 7,
+      "title": "Testimony in Ash",
+      "summary": "POV Ione. The community's elders reveal physical proof: mass graves, pre-Purge recordings, genetic records. But transmitting it requires the last unfiltered relay — Vesper-9 itself — and Ione's people know sending the signal will bring enforcers down on them all. Zephyrine volunteers to carry the testimony back. Emotional beat: love kindling between Zephyrine and Ione against the knowledge that duty may separate them."
+    },
+    {
+      "n": 8,
+      "title": "Enforcers",
+      "summary": "POV Zephyrine. Returning to Vesper-9, he finds a Concordat audit team already aboard, dissecting Maren and hunting the source of the 'corrupted' signal. He hides the testimony inside the station's oldest backup lattice, then triggers a decoy broadcast to draw the enforcers away. Emotional beat: cat-and-mouse dread; betrayal of the institution that raised him."
+    },
+    {
+      "n": 9,
+      "title": "The Broadcast",
+      "summary": "POV Zephyrine and Ione. Cornered in the transmitter core, Zephyrine realizes the final uplink requires a human mind to carry the testimony — and the transfer will overwrite his own memories, including Ione and everything he's learned. Ione begs him not to. He does it anyway, and the truth floods every open channel in the network. Emotional beat: climax — sacrifice framed as an act of love, grief and triumph fused."
+    },
+    {
+      "n": 10,
+      "title": "Signal Received",
+      "summary": "POV Ione, months later. Worlds that had been silent for decades begin answering the broadcast; the Concordat fractures under the weight of recovered testimony. Ione arrives at Vesper-9 to find Zephyrine alive but a stranger to her — holding a recording she made for him, explaining who he was and what he chose. He presses play. Emotional beat: bittersweet resolution — memory lost, belonging found anew."
+    }
+  ]
+}

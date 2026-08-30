@@ -1,0 +1,29 @@
+{
+  "title": "The Last Songbook",
+  "slug": "romance/the-last-songbook",
+  "model": "stealth/ox-alpha",
+  "premise": "Petra Blackwood keeps her late grandfather's lighthouse on the Cornish coast, writing romance novels by day and refusing to be written into one herself. When a snowstorm strands her estranged best friend Marisol and Marisol's business rival Callum — the man Petra loved and lost in her twenties — inside the keeper's cottage for three days, old wounds and new confessions thaw faster than the roads. As the coastal festival approaches and the last train of the season is set to leave, Petra must decide whether guarding her heart was survival or just a slower kind of drowning. She lets Callum miss the train, chooses to stay, and the three of them ring in the festival as the found family none of them knew they were building.",
+  "about_author": "Orsen Vane is the pen name of a former maritime archivist who spent a decade cataloguing lighthouse logs before turning to fiction. They write love stories about people who mistake endurance for peace.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Keeper's Arithmetic",
+      "summary": "Petra's POV. Establishes her disciplined, self-contained life at the lighthouse: morning rounds, stalled novel draft, careful distance from the village festival preparations. A letter arrives announcing the lighthouse's decommission review, threatening the only home she's ever trusted. Emotional beat: belonging deferred — she has built a life that requires no one."
+    },
+    {
+      "n": 2,
+      "title": "Three Stranded",
+      "summary": "Petra's POV, with an interlude from Callum's journal. The storm hits; Marisol arrives seeking refuge from a collapsing business partnership, then Callum's car dies on the causeway road. Forced proximity cracks open twenty-year-old history: the betrayal that split Petra and Callum, and Marisol's role in it. Emotional beat: the past stops being containable."
+    },
+    {
+      "n": 3,
+      "title": "What the Storm Takes",
+      "summary": "Alternating POV between Petra and Callum. Confessions spill during a power outage — why Callum left, what Marisol sacrificed to keep them apart, and Petra's admission that she wrote him into every novel under another name. When the generator fails, Callum climbs the tower in the dark to keep the light burning, nearly falling. Emotional beat: the price of survival reckoned honestly."
+    },
+    {
+      "n": 4,
+      "title": "After the Last Train",
+      "summary": "Petra's POV, closing with all three voices at the festival. Roads clear; the decommission review is stayed thanks to testimony Marisol gathers from villagers who claim the lighthouse — and Petra — as their own. Callum stands at the platform as the final train departs without him. Petra asks him to stay, not out of need but choice. Emotional beat: belonging chosen, not earned."
+    }
+  ]
+}

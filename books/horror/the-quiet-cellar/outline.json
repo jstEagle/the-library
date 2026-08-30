@@ -1,0 +1,59 @@
+{
+  "title": "The Quiet Cellar",
+  "slug": "horror/the-quiet-cellar",
+  "model": "stealth/ox-alpha",
+  "premise": "Ansel Dravenmoor, a hospice nurse at Hollowmere House, dismisses the backwards counting he hears from the dying as auditory hallucination — until the overnight sleep recordings reveal a second voice beneath the residents' breathing, answering questions no one asked aloud. As the last living founder's heir arrives to sign papers dissolving the house, Ansel discovers the founders bound something in the cellar with a ritual left deliberately unfinished, sustained for a century by the deaths of the dying. To survive and free the residents, Ansel must complete the founders' ritual himself, but doing so requires him to surrender his own name to the thing below — and to betray the one person who trusted him with the truth. In the end, the house empties, the voice goes silent, and Ansel walks out alive but unnamed, remembered by no one.",
+  "about_author": "O. M. Joubert is the pen name of a former night-shift caregiver who spent six years in residential care facilities before turning to writing. Their work draws on the hushed rituals of end-of-life care, exploring what institutions ask people to forget in order to keep functioning.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Counting Ward",
+      "summary": "Ansel's POV. Introduces Hollowmere House and its dying residents, each counting down in their final days — never up, always backward. Ansel documents it clinically as a neurological curiosity, refusing every supernatural explanation offered by the aging staff. Emotional beat: controlled skepticism masking an old grief he refuses to examine."
+    },
+    {
+      "n": 2,
+      "title": "Static Between Breaths",
+      "summary": "Ansel's POV. Reviewing overnight sleep-study audio for a resident's chart, he hears a second voice beneath the breathing — low, patient, asking questions. The resident answers in her sleep. Ansel tells himself it's cross-channel bleed from another room. Emotional beat: the first hairline crack in his disbelief."
+    },
+    {
+      "n": 3,
+      "title": "Questions No One Asked",
+      "summary": "Ansel's POV. He begins recording deliberately; the voice asks about names, debts, and doors. A resident dies mid-countdown at zero, and the voice says 'received.' Ansel finds a founder's ledger hidden in the records room describing a cellar rite left 'deliberately incomplete.' Emotional beat: dread replacing curiosity."
+    },
+    {
+      "n": 4,
+      "title": "The Heir Arrives",
+      "summary": "Maren Voss's POV. The last founder's descendant comes to sign dissolution papers, brisk and pragmatic, wanting the house sold and her family's shame buried. She notices Ansel's questions about the cellar and warns him off with genuine fear she can't explain. Emotional beat: two skeptics circling the same wound."
+    },
+    {
+      "n": 5,
+      "title": "What the Founders Owed",
+      "summary": "Ansel's POV. Deciphering the ledger: the founders bargained with something beneath the house for prosperity, paying in the named dead, and built the hospice above it as a feeding mechanism. The ritual was left unfinished so the debt could never be closed — or forgiven. Emotional beat: horror of institutional complicity."
+    },
+    {
+      "n": 6,
+      "title": "Maren's Confession",
+      "summary": "Maren's POV. Maren reveals her grandmother's letters: the founders intended someone to finish the rite and seal the thing away, but finishing requires the finisher's true name given freely. Her family has dodged the duty for four generations. She begs Ansel to let the house die quietly instead. Emotional beat: loyalty versus truth made explicit between them."
+    },
+    {
+      "n": 7,
+      "title": "Zero",
+      "summary": "Ansel's POV. The oldest resident reaches the end of her count; the voice grows loud enough that waking staff hear it. Residents begin counting in daylight. Maren signs the dissolution papers under pressure from lawyers, and the moment ink dries, the cellar door unlocks itself. Emotional beat: point of no return."
+    },
+    {
+      "n": 8,
+      "title": "The Unfinished Room",
+      "summary": "Alternating POVs. Ansel descends into the cellar against Maren's pleas and finds the ritual circle, century-old and waiting, its final line blank. The voice speaks to him directly now, offering survival in exchange for walking away. Emotional beat: temptation rendered intimate — the price of survival is simply leaving others to pay it."
+    },
+    {
+      "n": 9,
+      "title": "A Name Given Freely",
+      "summary": "Ansel's POV, climax. With the residents evacuating and the house groaning around them, Ansel completes the rite, speaking his own name into the blank line as the offering. The voice takes it; the binding seals; the thing below is closed out rather than fed. Maren holds the circle's outer mark while he does it. Emotional beat: sacrifice chosen over complicity."
+    },
+    {
+      "n": 10,
+      "title": "No One Remembers",
+      "summary": "Maren's POV, resolution. The house stands empty and ordinary; staff and records show no nurse named Ansel Dravenmoor ever worked there. Only Maren, bound by what she witnessed, carries his memory — and cannot say his name aloud without hearing the cellar answer. Emotional beat: bittersweet cost; truth survived, but loyalty is all that remains of the man who paid for it."
+    }
+  ]
+}

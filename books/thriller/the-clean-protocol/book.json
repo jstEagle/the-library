@@ -1,0 +1,21 @@
+{
+  "id": "THR-08404",
+  "title": "The Clean Protocol",
+  "author": "Lena Sandoval",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Lior Halloran, a financial-crimes investigator drowning in clean money, has spent seven years following rules that keep getting rewritten. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the border checkpoint shifts change.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8404
+  }
+}

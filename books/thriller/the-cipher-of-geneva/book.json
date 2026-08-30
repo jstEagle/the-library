@@ -1,0 +1,21 @@
+{
+  "id": "THR-09035",
+  "title": "The Cipher of Geneva",
+  "author": "Marguerite Dravenmoor",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Rosalind Winterbourne, a crash investigator whose family died in row twelve, has spent five years following rules that keep getting rewritten. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9035
+  }
+}

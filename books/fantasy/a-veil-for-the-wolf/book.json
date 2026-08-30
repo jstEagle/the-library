@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01246",
+  "title": "A Veil for the Wolf",
+  "author": "J. M. Crane",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Oscar Reyes, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1246
+  }
+}

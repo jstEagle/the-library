@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01981",
+  "title": "Sable and the Wolf",
+  "author": "W. M. Joubert",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Marguerite Whitlock, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1981
+  }
+}

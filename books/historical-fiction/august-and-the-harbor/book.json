@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02410",
+  "title": "August and the Harbor",
+  "author": "Paloma Eriksen",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Ansel Amberdale, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. Then the census taker asks one question too many — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the armistice is signed — or isn't.",
+  "themes": [
+    "memory",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2410
+  }
+}

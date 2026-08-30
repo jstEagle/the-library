@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03994",
+  "title": "Edmund and the Bell",
+  "author": "Mara Thornbury",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Gideon Vasquez, an urban explorer mapping tunnels that aren't on any survey, keeps the lights on and the doors counted. Then the childhood imaginary friend is waiting on the porch, unchanged — and they are pulled straight into the middle of it. To get through this, they must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3994
+  }
+}

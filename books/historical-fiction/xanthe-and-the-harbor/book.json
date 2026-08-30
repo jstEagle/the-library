@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02517",
+  "title": "Xanthe and the Harbor",
+  "author": "Vesper Thackeray",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Mara Marchetti, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent ten years learning which silences keep people safe. But when the census taker asks one question too many, they discover that staying invisible was never really an option. To get through this, they must smuggle the evidence past three checkpoints before the ship sails on the morning tide.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2517
+  }
+}

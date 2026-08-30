@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00138",
+  "title": "When the Provision Burns",
+  "author": "Petra Delacroix",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Coral Underhill, an archaeologist's estranged child and better digger, has spent twenty years measuring life in miles rather than years. But when the tide reveals a cave that legends charge admission to, he discovers that staying invisible was never really an option. Now he must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 138
+  }
+}

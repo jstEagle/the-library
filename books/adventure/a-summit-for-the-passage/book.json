@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00665",
+  "title": "A Summit for the Passage",
+  "author": "Paloma Whitlock",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Sebastian Fairweather, a salvage diver working a wreck the navy won't discuss, has spent three years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and he is pulled straight into the middle of it. To get through this, he must follow a river upstream to its forbidden source before the dry season ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 665
+  }
+}

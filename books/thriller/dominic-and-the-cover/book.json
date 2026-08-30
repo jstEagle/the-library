@@ -1,0 +1,21 @@
+{
+  "id": "THR-09239",
+  "title": "Dominic and the Cover",
+  "author": "Ansel Villalobos",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Orsen Marchetti, a financial-crimes investigator drowning in clean money, has spent twenty years following rules that keep getting rewritten. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9239
+  }
+}

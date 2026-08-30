@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00430",
+  "title": "Summit and Escarpment",
+  "author": "O. M. Sterling",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Silas Sterling, a railroad engineer with a map of closed lines, knows the wilderness forgives nothing and forgets less. But when the tide reveals a cave that legends charge admission to, she discovers that staying invisible was never really an option. Now she must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 430
+  }
+}

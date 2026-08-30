@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05983",
+  "title": "The Unexpected Letters",
+  "author": "Bram Kavanagh",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "August Eriksen, a wedding planner who doesn't believe in weddings anymore, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and she is pulled straight into the middle of it. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5983
+  }
+}

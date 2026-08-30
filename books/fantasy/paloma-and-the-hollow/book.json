@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01544",
+  "title": "Paloma and the Hollow",
+  "author": "Dominic Sterling",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Odile Brightwater, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. To get through this, they must steal back a soul sold to the court beneath the mountain before the last dragon-fire gutters out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1544
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01022",
+  "title": "Oscar and the Sigil",
+  "author": "Dominic Winterbourne",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Hazel Voss, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1022
+  }
+}

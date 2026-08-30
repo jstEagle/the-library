@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08003",
+  "title": "Mirabel and the Archive",
+  "author": "Lior Nystrom",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ansel Montrose, a decommissioned war android paying off its debts, has spent three years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. To get through this, she must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8003
+  }
+}

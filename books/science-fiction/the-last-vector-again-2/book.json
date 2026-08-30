@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08295",
+  "title": "The Last Vector Again",
+  "author": "Isandro Okonkwo",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Lior Montrose, a clone who inherited the original's murder case, has spent twelve years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8295
+  }
+}

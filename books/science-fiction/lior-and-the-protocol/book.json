@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07849",
+  "title": "Lior and the Protocol",
+  "author": "Kestrel Underhill",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ulyana Oyelaran, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. To get through this, they must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7849
+  }
+}

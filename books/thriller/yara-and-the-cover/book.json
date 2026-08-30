@@ -1,0 +1,21 @@
+{
+  "id": "THR-09237",
+  "title": "Yara and the Cover",
+  "author": "Paloma Sandoval",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Vesper Amberdale, a hostage negotiator with one failure still on the board, has spent ten years following rules that keep getting rewritten. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. To get through this, they must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9237
+  }
+}

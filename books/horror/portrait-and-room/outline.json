@@ -1,0 +1,29 @@
+{
+  "title": "Portrait and Room",
+  "slug": "horror/portrait-and-room",
+  "model": "stealth/ox-alpha",
+  "premise": "Folklorist Mara Iversen returns to her grandmother's house to catalogue a dying village's songs, only to find that every photograph taken there now contains an extra chair — and, increasingly, the man who sits in it. He is Aldous Wren, taken by the village in 1974 as payment for the well that kept them alive through the drought, and he has been waiting in the pictures ever since. As Mara records the forbidden verses, she realizes the songs are instructions: the well refills at the solstice, and whatever is owed must be returned or replaced. To free him, Mara must give back what the village took — but the price is a life freely given, and the villagers, led by her own mother, intend it to be hers. In the end Mara returns the stolen ledger of names to the well herself, trading her place in the photographs for his freedom; Aldous walks out of the picture frame into an empty room, and the last photograph shows only one chair, occupied.",
+  "about_author": "Astrid Thornbury is the pen name of a former archivist who spent a decade cataloguing oral histories in coastal farming communities before turning to fiction. They write horror about inheritance, debt, and the things families agree not to remember.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Extra Chair",
+      "summary": "Mara's POV. Arriving at the decaying house to record the village's 'unsingable' songs, Mara notices every old photograph now includes a wooden chair that wasn't there before — and a blurred figure seated in it. The villagers refuse to be recorded twice and flinch at the word 'well.' Emotional beat: unease curdling into obsession as Mara realizes the figure appears closer in each newer photo."
+    },
+    {
+      "n": 2,
+      "title": "What Was Taken in 1974",
+      "summary": "Alternating POV between Mara and Aldous-in-the-photographs. Digging through grandma's locked chest, Mara finds a ledger of names and a newspaper clipping about a man who vanished during the drought. Aldous, aware inside the images, begins speaking to her through arranged objects. Emotional beat: horrified tenderness — two lonely people reaching across the surface of a picture."
+    },
+    {
+      "n": 3,
+      "title": "The Well Refills",
+      "summary": "Mara's POV, with the village chorus as antagonist. Confronted by her mother and the elders, Mara learns the truth: the songs are contracts, the chair is an invitation, and the solstice approaches when the well will demand a replacement for Aldous. They lock her in with the photographs. Emotional beat: betrayal and resolve — love against duty, as duty demands her sacrifice."
+    },
+    {
+      "n": 4,
+      "title": "Return What Was Given",
+      "summary": "Mara's POV, climax and resolution. On solstice night Mara breaks out, carries the ledger to the well, and reads the stolen names aloud, returning the village's theft to itself. The well accepts the debt instead of a body; Aldous steps out of the final photograph as it burns. Emotional beat: grief transfigured — survival finally paid for, and a single chair left standing in an empty room."
+    }
+  ]
+}

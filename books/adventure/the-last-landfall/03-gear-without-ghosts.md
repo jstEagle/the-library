@@ -1,0 +1,69 @@
+## 3. Gear Without Ghosts
+
+The markers began at the third milepost past Kessel Junction, and Wendell almost missed them because he had trained himself to miss things.
+
+That was the discipline of his life now: the practiced blindness of a man who could not afford to see too much. Three years on the closed lines had taught him to read a landscape the way other men read a newspaper—quickly, for the items that concerned him, skipping the rest. A fresh tire track in the mud at the edge of a service road. A new padlock on an old gatehouse. A smell of woodsmoke where no one ought to be living. He catalogued these the way he'd once catalogued rail defects—hairline cracks in a bridge girder, a wheel flat singing against the rail—and he moved around them the way water moves around stone, without comment, without memory.
+
+But the survey markers were painted in a white that seemed to glow against the wet green of the riverbank, and they were spaced with such regularity that they pulled the eye along like stitches in a seam. Small iron stakes driven into the clay, each crowned with a daub of paint not yet weathered, not yet chipped. Beside them, stenciled in the same white on the flat faces of boulders and old pilings: a code he recognized from his surveying days. *Bench mark. Elevation established.* And beneath it, a date from six weeks past.
+
+Six weeks. The paint should have been dull by then, softened by rain, freckled with algae this close to the water. It wasn't. Someone had been back. Someone was maintaining these marks as though the survey were still alive—as though the men and women who drove those stakes might come walking down the bank any morning with their instruments and their thermoses and their easy voices, ready to work another day.
+
+Wendell stood at the third marker for a long time, one hand resting on the cold iron, and felt the particular unease of a man whose instincts have begun to disagree with one another. Every survival sense he owned said *walk away*. Fresh paint meant activity; activity meant people; people meant questions, and questions meant names, and names were the one currency he had spent three years refusing to carry. But something else in him—the engineer, the part that had once loved these rivers and rails for what they *were* rather than what they could be used for—wanted to follow the line upriver and see where it went. Surveys didn't lie. Whatever a survey found, it found honestly, and then men came along afterward and decided what to do with the truth. He knew all about that second part. He'd been ruined by it.
+
+He told himself he was only going as far as the next bend. He was lying, and he knew it, but he had learned that a man alone too long has to let himself tell small lies or go mad from honesty.
+
+* * *
+
+The river narrowed as he walked, folding itself between shoulders of black slate, and the markers kept pace on the eastern bank, patient as fence posts. By midday the country had gone wilder—no more rail spurs, no more cuttings, just the old cart road drowned in brush and the water running fast and brown with the early monsoon rains that had been threatening all week. Wendell moved the way he always moved when he was somewhere he shouldn't be: off the skyline, in the shade line, stopping every few hundred yards to listen with his whole body, the way he'd once listened for the strain in a trestle under load.
+
+He heard the camp before he saw it—or rather, he heard the absence of it. No voices. No clink of cookware. No generator drone, no radio chatter. Survey camps were never quiet; they hummed like hives. This stretch of riverbank had the specific silence of a place recently emptied, and Wendell crouched behind a fallen alder for ten full minutes, watching, before he let himself believe it.
+
+The camp sat on a gravel shelf above the high-water line, tucked against the cliff where the river made its bend. Two large wall tents, guy-lines still taut, flys buttoned down against rain. A mess fly strung between poles over a folding table. Crates stacked and stenciled. A tripod standing naked under a tarp, its instrument case beside it—wrapped, buckled, dry under its oilcloth. A clothesline with shirts still pinned to it, beaded with rain.
+
+Wendell came into the camp the way you enter a church you're not sure is consecrated: quietly, hat in hand without quite knowing why.
+
+It was the kettle that undid him.
+
+It sat on the little brass burner at the end of the mess table, and when he laid two fingers against its flank, it was warm. Not sun-warm—the day was gray, the light flat, the gravel cold underfoot. Warm the way a kettle is warm twenty minutes after someone has stepped away from it, meaning to come right back. There was a tin mug beside it, half-full of tea gone cool and skinning over. On the table, a plate with the heel of a loaf, a knife laid across it, a jar of pickle open with its lid set neatly upside-down beside it. A paperback novel facedown, spine cracked, holding someone's page. A man's wristwatch, wound and running, hung from the tent pole where he'd taken it off to wash.
+
+Mid-meal. The whole camp was paused mid-meal, mid-morning, mid-life—a snapshot of ordinary work interrupted so completely that even the interruption had been tidied away. Because that was the thing, the thing that crawled up the back of Wendell's neck and settled there like a hand: nothing was scattered. Nothing was torn. If raiders had hit this camp, there would have been the grammar of raiding—chests dumped, papers strewn, a chair knocked sideways, blood or at least the fear-smell of it soaked into the canvas. Instead everything was *put away*. Instruments wrapped and cased. Boots lined under the tents' inner flaps. A ledger closed and squared on the map table, weighted with a stone. Four bedrolls rolled tight as sausages.
+
+Four. He counted twice. Four men's worth of kit, four mugs, four places at the table—and not one body, not one track leading out.
+
+That was the part he circled the camp three times trying to disprove. The ground was river clay and gravel, soft enough after the rains to hold the print of anything heavier than a heron. His own boots left dark crescents everywhere he stepped; he watched them fill slowly with seep-water behind him. But leaving the camp—inland toward the cart road, downbank toward the water, upstream, downstream—there was nothing. No boot prints but older ones, days old, ghosted and half-collapsed, all pointing *in*. No drag marks. No boat wake written on the mud at the waterline. The two survey boats were gone from their mooring stakes, but the stakes showed no sign of haste, no snapped lines, no churned bank. It was as if four people had finished their tea, folded themselves up like the instruments, and been carried off in a crate marked with a stencil.
+
+Wendell had seen men disappear before. In the years of his disgrace he'd known men who owed the wrong people money, men who got on a night freight and simply never arrived anywhere again. There was always a residue. Always something left behind—a burned shack, a weeping wife, a rumor moving up the line ahead of you like weather. What frightened him here was the *cleanliness*. Somebody had erased these people carefully, thoroughly, with the same patience a good surveyor brings to a benchmark. And careful erasure, in Wendell's experience, was never the work of bandits or drunks. It was the work of institutions. Institutions with trucks, lawyers, ledgers, and time.
+
+He thought about the stationmaster in Kessel Junction, the old man's voice dropping as he'd leaned across the ticket counter. *Men in gray trucks. Asking after an engineer who knows the closed lines.* Wendell had put it down to coincidence then—his name drifting through the valley's gossip like silt through slack water. Standing in this tidy, terrible camp, he stopped believing in coincidence. Gray trucks did not ask questions for their health. And surveys—government surveys, with fresh-painted benchmarks maintained weeks after the surveyors vanished—were exactly the kind of thing that certain men paid to make disappear.
+
+Because he couldn't help himself, because the engineer in him was a curse that outlived every other part of a man, he looked at the ledger.
+
+He didn't open it. That mattered to him, later, though he couldn't have said why at the time—some superstition about not stealing from the dead or the nearly-dead, some instinct that whatever was written in that book was already being hunted and he wanted no part of the hunt. He only looked at the cover through the gap where the stone weight didn't press it down. *Hydrographic Survey — Upper Vane Reach. Water Rights Delineation.* Government letterhead, embossed. And beneath the title, in pencil, in a small precise hand: *Voss.*
+
+Water rights. Wendell turned the phrase over like a stone found in a coal seam, out of place and therefore telling. Rail surveys he understood. Bridge surveys, grade surveys, drainage. But a crew of four spending a season on a remote reach of river, establishing benchmarks and delineating *water rights*—that wasn't science. That was ammunition. Somewhere upstream or downstream, somebody's claim to water was about to get confirmed or destroyed by what these four people wrote in their books, and somebody with money had decided which answer they preferred.
+
+The rain started while he stood there, fine and needling, ticking against the tarp over the tripod. It broke the spell enough for him to move. He made himself walk the perimeter one last time, professional, thorough, checking the things a checking-man checks: the latrine trench (undisturbed), the fuel cache (full cans, sealed), the flagging tape rolls (neat in their box). At the downstream tent he found the personal effects nobody had bothered to take—too small to matter to whoever had done this, or deliberately left as theater. A pipe. A photograph of a woman and two children on a pier, curling with damp. A woman's hairbrush with long dark hairs in it.
+
+And at the very edge of the gravel shelf, half-tucked under the mess fly's windward stake, a field notebook lying in a puddle of rainwater, swollen fat as a drowned bird.
+
+Wendell crouched over it for a long moment without touching it. The cover was government stock, the same series as the ledger, corner-stamped and numbered. The water had gotten into it; he could see the pages bloated, the ink at the exposed edges beginning to bloom and feather, a week of someone's careful observations dissolving back into gray cloud. Whoever owned it would want it. Whoever erased the owner would want it more. Every sensible circuit in Wendell's brain fired at once: *leave it, leave it, you came for nothing and you take nothing, that's the rule, that's how you've stayed alive.*
+
+But he thought of the kettle. Twenty minutes warm. Meaning to come right back.
+
+He thought of the photograph on the pier, the children squinting into a sun that belonged to some other, kinder summer. Somebody was going to spend the rest of their life waiting for those four people to come home, and the waiting would never end properly, because there would be no body, no word, no grave—just a hole shaped like four lives, papered over by men in gray trucks.
+
+And he thought—I'm the only person in this valley who knows they existed. The thought arrived quietly, without drama, the way the worst thoughts do. If he walked away, the camp would burn or rot or be carried off crate by crate, and the record of these people would shrink until it was nothing but a clerk's line in some file: *survey concluded, results unavailable.* He had spent three years making himself invisible, and here was the price of it, suddenly itemized: invisibility meant that when you saw a crime, you could always choose not to have seen it.
+
+Wendell Underhill picked up the notebook, shook the water from it as gently as if it were a wounded bird, and put it inside his coat, against his chest, where his own heartbeat could keep it company. It was the first thing he had stolen in three years, and it did not feel like theft. It felt like salvage. It felt like witness.
+
+Then he did the rest of it properly, because habits keep a man alive. He wiped down the kettle handle and the mug where he'd touched them, using his sleeve. He stepped backward along his own boot prints for the first thirty yards, an old trick, pointless really against anyone competent but worth the minutes it cost. He chose his route out along the slate scree where prints wouldn't hold, and he took one last look back at the camp from the tree line.
+
+The rain was filling his footprints. By morning there would be no proof he had ever stood among the tents and the taut guy-lines and the running wristwatch. The valley would forget him the way it had forgotten the four surveyors—smoothly, efficiently, without a trace.
+
+Except that he was carrying the trace. It lay against his ribs, swollen with river water, bleeding its ink into the dark, and it weighed more than any cargo he had ever hauled on any line he'd ever run.
+
+He turned upriver, away from Kessel Junction, away from the gray trucks and the closed lines, and had gone perhaps half a mile through the dripping alders when he stopped, head lifted, listening with his whole body the way he always listened.
+
+Downstream, faint beneath the rain, somewhere back along the bank he had just quit: a sound. Small. Rhythmic. Almost nothing—the kind of sound a man three years invisible trains himself to dismiss, because nine times in ten it's only water working a snag, or a bird, or his own pulse in his ears.
+
+But this was the tenth time. And the tenth time, Wendell knew with a certainty that settled into his bones colder than the rain, was the sound of someone breathing who was trying very hard not to be heard.

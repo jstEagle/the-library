@@ -1,0 +1,119 @@
+{
+  "title": "Sable and the Border",
+  "slug": "thriller/sable-and-the-border",
+  "model": "stealth/ox-alpha",
+  "premise": "Yara Vasquez, a crash investigator whose family died in row twelve of Flight 4471, has spent six years hiding behind a false name and a polished lie. When a routine voiceprint test unlocks a black-market server in Lisbon, he learns the crash was engineered to bury a data-encryption patent his late wife co-authored, and that her voice is still alive inside it. Hunted by an assassin working for the patent's new owners and stonewalled by three governments complicit in the cover-up, Yara smuggles the evidence across borders with help from a disgraced journalist, Nadia Okafor, with whom he falls in love against every instinct for solitude. In the end Yara chooses truth over safety: he broadcasts the server's contents at a summit in Geneva, survives the assassin's last attempt by refusing to run, and finally lets go of row twelve—grieving his family not as a wound he hides but as a reason he stands.",
+  "about_author": "Cyrus Vane is the pen name of a former aviation-safety analyst who spent a decade writing incident reports before turning to fiction. He lives near a regional airport, where he claims the sound of takeoffs helps him think.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Yara's POV. Six years after losing his wife and daughter on Flight 4471, Yara works crash investigations under a false name, keeping a packed go-bag by the door. A new assignment echoes his old life too closely. Emotional beat: controlled grief cracking at the edges."
+    },
+    {
+      "n": 2,
+      "title": "The Voiceprint",
+      "summary": "Yara's POV. During a forensic audio analysis, a calibration phrase triggers an encrypted server handshake in Lisbon—the voiceprint matches his dead wife, Elena. He tells no one. Emotional beat: disbelief curdling into obsession."
+    },
+    {
+      "n": 3,
+      "title": "Go-Bag",
+      "summary": "Nadia Okafor's POV. A disgraced investigative journalist receives an anonymous tip about Flight 4471 and starts pulling records, unaware she's being watched. Emotional beat: hungry redemption-seeking, the thrill of a story that might matter again."
+    },
+    {
+      "n": 4,
+      "title": "Lisbon Static",
+      "summary": "Yara's POV. Yara flies to Lisbon off-book and accesses the server: Elena's research notes, a patent filing, and a countdown timer set to purge everything in nineteen days. Emotional beat: awe turning to dread as purpose arrives."
+    },
+    {
+      "n": 5,
+      "title": "The Man Who Waits",
+      "summary": "Assassin Corvin Hale's POV. Hale is contracted to retrieve or destroy the server and eliminate anyone who touches it. He studies Yara's file and finds the lie beneath the false name. Emotional beat: cold professional patience, first flicker of curiosity."
+    },
+    {
+      "n": 6,
+      "title": "Three Governments",
+      "summary": "Nadia's POV. Nadia maps the cover-up: aviation authorities in three countries signed off on a falsified cause report. She realizes her anonymous tipster must be close to the wreckage. Emotional beat: righteous anger tempered by fear of what she's uncovered."
+    },
+    {
+      "n": 7,
+      "title": "Elena's Voice",
+      "summary": "Yara's POV. Deep in the server, Yara finds Elena's recorded messages—made while she suspected the patent was being weaponized. Hearing her voice again breaks him open. Emotional beat: grief transformed into resolve; love as inheritance."
+    },
+    {
+      "n": 8,
+      "title": "Interception",
+      "summary": "Hale's POV. Hale intercepts Yara in Porto but lets him go, wanting to see what he does next—a deviation from protocol that unsettles his handlers. Emotional beat: the assassin's detachment beginning to erode."
+    },
+    {
+      "n": 9,
+      "title": "The Journalist's Bargain",
+      "summary": "Nadia's POV. Nadia tracks Yara down and offers partnership: her contacts and press credentials for access to the evidence. Yara refuses, then relents when she proves she already knows about row twelve. Emotional beat: two guarded people negotiating trust."
+    },
+    {
+      "n": 10,
+      "title": "Border One: Portugal",
+      "summary": "Yara and Nadia alternate POV. They copy the server onto physical drives and slip out of Lisbon ahead of a coordinated sweep, aided by a sympathetic air-traffic controller. Emotional beat: fugitive adrenaline, first real intimacy between them."
+    },
+    {
+      "n": 11,
+      "title": "What the Patent Buys",
+      "summary": "Nadia's POV. Nadia decodes the patent's significance: encryption tech that could expose—or enable—mass surveillance, worth billions to its new owners, Meridian Group. Emotional beat: understanding the true scale of the corruption."
+    },
+    {
+      "n": 12,
+      "title": "Corvin's Doubt",
+      "summary": "Hale's POV. Ordered to kill rather than capture, Hale reviews Elena's recordings as part of target profiling and recognizes a whistleblower, not a criminal. He delays the kill order. Emotional beat: conscience arriving uninvited."
+    },
+    {
+      "n": 13,
+      "title": "Border Two: The Pyrenees",
+      "summary": "Yara's POV. A mountain crossing goes wrong; their driver is killed, the drives nearly lost, and Yara saves Nadia from a fall. Emotional beat: love confessed in extremis, immediately complicated by duty to the mission."
+    },
+    {
+      "n": 14,
+      "title": "Geneva Gambit",
+      "summary": "Nadia's POV. They reach Geneva, where a global aviation-safety summit offers a deadline: the purge timer ends during the conference. Nadia lines up a broadcast partner; officials quietly warn her off. Emotional beat: hope sharpening into strategy."
+    },
+    {
+      "n": 15,
+      "title": "The Purge Timer",
+      "summary": "Yara's POV. Meridian accelerates the timeline—remote wipe attempts begin. Yara realizes the servers were never the point; the drives are now the only copy. Emotional beat: terror of irreplaceability, the weight of carrying the dead."
+    },
+    {
+      "n": 16,
+      "title": "Compromised",
+      "summary": "Alternating POV. A leak exposes their safehouse; they scatter, and Nadia is captured by Meridian security. Yara must choose rescue over delivery. Emotional beat: love against duty made literal and brutal."
+    },
+    {
+      "n": 17,
+      "title": "Trade",
+      "summary": "Hale's POV. Hale is ordered to execute Nadia; instead he engineers her release, burning his career and making himself Meridian's next target. Emotional beat: the assassin choosing a side, at cost."
+    },
+    {
+      "n": 18,
+      "title": "Summit Eve",
+      "summary": "Yara's POV. On the eve of the summit, Yara records his own testimony—naming names, including his own false identity—and prepares to walk into the hall knowing he may not walk out. Emotional beat: calm acceptance, grief finally integrated."
+    },
+    {
+      "n": 19,
+      "title": "Broadcast",
+      "summary": "Alternating POV. Inside the summit, Yara hijacks the feed and plays Elena's recordings and the evidence live worldwide; Hale holds off Meridian's extraction team long enough for the upload to complete. Emotional beat: climax—truth breaking through at maximum cost."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath",
+      "summary": "Nadia's POV. Governments scramble, Meridian executives are arrested, and the falsified crash report is reopened. Nadia publishes the full investigation, restoring her name. Emotional beat: vindication shadowed by exhaustion."
+    },
+    {
+      "n": 21,
+      "title": "What Hale Left",
+      "summary": "Yara's POV. Hale, wounded and hunted, disappears—but leaves Yara the last piece: proof of which official ordered the original sabotage. Yara passes it to prosecutors and lets the man vanish. Emotional beat: mercy as closure."
+    },
+    {
+      "n": 22,
+      "title": "Unpacked",
+      "summary": "Yara's POV. Months later, Yara unpacks the go-bag for the first time in six years, visits the rebuilt memorial wall, and reads Elena's final message without flinching. He and Nadia begin again, visible at last. Emotional beat: resolution—inheritance honored, love chosen, power answered."
+    }
+  ]
+}

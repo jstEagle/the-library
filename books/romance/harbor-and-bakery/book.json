@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06097",
+  "title": "Harbor and Bakery",
+  "author": "J. M. Sandoval",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Vesper Lockridge, a pastry chef whose café is three missed payments from gone, has spent fifteen years rebuilding a life measured in small safe steps. But when a fake date to survive a family reunion feels too real by dessert, she discovers that staying invisible was never really an option. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "belonging",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6097
+  }
+}

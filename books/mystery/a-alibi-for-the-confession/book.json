@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05547",
+  "title": "A Alibi for the Confession",
+  "author": "Mara Crane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Felix Sandoval, an estate lawyer reading a will that shouldn't exist, has spent fifteen years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, she discovers that staying invisible was never really an option. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5547
+  }
+}

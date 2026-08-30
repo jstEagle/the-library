@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06834",
+  "title": "Hazel and the Promise",
+  "author": "Tamsin Sandoval",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Sebastian Blackwood, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. To get through this, they must let someone stay after the last train leaves before the vineyard's first harvest comes in.",
+  "themes": [
+    "memory",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6834
+  }
+}

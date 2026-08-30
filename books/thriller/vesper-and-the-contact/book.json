@@ -1,0 +1,21 @@
+{
+  "id": "THR-08405",
+  "title": "Vesper and the Contact",
+  "author": "Marguerite Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Cyrus Kavanagh, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8405
+  }
+}

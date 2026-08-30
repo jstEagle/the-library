@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04092",
+  "title": "Anderlecht Rising",
+  "author": "Jonah Iversen",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Lena Nakamura, an heir cataloging a parent's silence after the funeral, moves through the days like a tenant, not an owner. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. Now they must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4092
+  }
+}

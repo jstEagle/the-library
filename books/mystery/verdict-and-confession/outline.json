@@ -1,0 +1,59 @@
+{
+  "title": "Verdict and Confession",
+  "slug": "mystery/verdict-and-confession",
+  "model": "stealth/ox-alpha",
+  "premise": "Isandro Kavanagh, a night-shift dispatcher with a reputation for closing impossible cases, is hired to find Marisol Vane, a lighthouse keeper's daughter who vanished from the coastal town of Greyharbor. The case turns strange when Isandro discovers Marisol's diary contains entries written after her disappearance—entries that describe Isandro's own investigation with unsettling accuracy. As they follow the diary's trail through a tangled inheritance dispute over the Vane estate, Isandro realizes the killer is someone with access to the original missing-persons file: either the grieving heir, the family solicitor, or the police inspector who first closed the case. In the climax at the tide-flattened causeway, Isandro traps the killer—the inspector, who murdered Marisol to conceal that she'd discovered he falsified evidence in her father's death—and forces a confession recorded on the diary's final blank pages. The tide gives up what it took, and Isandro chooses truth over the loyalty of an old friend who helped cover it up.",
+  "about_author": "Coral Joubert spent a decade working harbor-town night shifts before turning to crime fiction, and her novels are known for their salt-bleached atmospheres and investigators who prefer the margins. She lives within earshot of a foghorn and writes only after dark.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Last Fare Logged",
+      "summary": "Isandro's POV. A routine night dispatching taxis is interrupted when Odile Vane hires them to find her sister Marisol, missing eleven days from the Greyharbor lighthouse cottage. Isandro pulls the last fare record—a cab Marisol never boarded. The emotional beat is wary curiosity: Isandro takes cases they can close, and this one already smells like it won't close clean."
+    },
+    {
+      "n": 2,
+      "title": "Eleven Days of Silence",
+      "summary": "Isandro's POV. Searching the lighthouse cottage, Isandro finds Marisol's diary, its entries stopping the day she vanished—until Isandro notices faint indentations on later blank pages. A neighbor mentions a rowboat seen the night she disappeared. The beat is creeping unease: the cottage feels staged, tidied by hands that wanted it read a certain way."
+    },
+    {
+      "n": 3,
+      "title": "Entries After the End",
+      "summary": "Isandro's POV, intercut with diary fragments. Using pencil shading, Isandro recovers post-disappearance entries—one describing 'the dispatcher asking questions' before Isandro had told anyone they'd taken the case. The beat is cold fear: whoever writes this diary is watching, and knows the file better than Isandro does."
+    },
+    {
+      "n": 4,
+      "title": "The Vane Inheritance",
+      "summary": "Isandro's POV. At the reading of the will, Isandro meets the suspects: heir Theo Vane, drowning in debt; solicitor Bram Quill, executor and keeper of secrets; and Inspector Halden Reeve, who closed the father's death as accidental years ago. Marisol contested the will. The beat is suspicion layered on charm—everyone grieves a little too correctly."
+    },
+    {
+      "n": 5,
+      "title": "What the Tide Keeps",
+      "summary": "Isandro's POV. Low tide exposes the causeway flats; Isandro finds Marisol's coat weighted with chain, but no body. A new diary entry appears in Isandro's own car: 'You're closer than the inspector ever was.' The beat is violation and resolve—this is no longer a case; it's a correspondence with a killer."
+    },
+    {
+      "n": 6,
+      "title": "Loyalty's Old Debt",
+      "summary": "Isandro's POV with flashback. Isandro confronts Sergeant Nell Okafor, an old friend who worked the original file, and learns Reeve pressured the team to rule the father's death accidental. Nell begs Isandro to let it lie. The beat is love against duty: the truth may cost Isandro the one friendship that survived their invisible life."
+    },
+    {
+      "n": 7,
+      "title": "Three Versions of One Night",
+      "summary": "Alternating POVs—Theo, Bram, and Reeve each recount the night Marisol vanished, each account quietly contradicting the others and the diary. Isandro realizes the killer isn't just lying; they're editing reality using details only the case file contains. The beat is tightening dread as the suspect pool narrows to those who touched the file."
+    },
+    {
+      "n": 8,
+      "title": "The Trap Written Backwards",
+      "summary": "Isandro's POV. Feeding a false detail into the investigation, Isandro waits for it to surface in the diary's next entry—it does, word for word, pointing to someone inside the station house. Isandro sets a meeting at the lighthouse, alone, recording everything. The beat is controlled fury: the hunter has finally chosen the ground."
+    },
+    {
+      "n": 9,
+      "title": "Causeway",
+      "summary": "Isandro's POV, then Reeve's. At the rising tide, Isandro springs the trap: Reeve killed Marisol when she found proof he'd falsified her father's death, and has been writing the diary to control the narrative. He comes for Isandro; Nell arrives, badge drawn, forced to choose. The beat is violent clarity—duty wins, barely, as the confession spills onto the diary's final pages."
+    },
+    {
+      "n": 10,
+      "title": "Verdict and Confession",
+      "summary": "Isandro's POV, weeks later. The tide gives up Marisol's body; Reeve confesses fully; the inheritance passes to Odile, who keeps the light burning. Isandro gives Nell the choice to testify, and she does—at the cost of their friendship, or perhaps saving what remains of it. The beat is bittersweet closure: some truths cost everything, and Isandro closes the case anyway."
+    }
+  ]
+}

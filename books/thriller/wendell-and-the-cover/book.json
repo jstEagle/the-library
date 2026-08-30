@@ -1,0 +1,21 @@
+{
+  "id": "THR-09243",
+  "title": "Wendell and the Cover",
+  "author": "Wendell Coldharbour",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Beatrix Coldharbour, a whistle-blower living under four names, has spent twenty years following rules that keep getting rewritten. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and she is pulled straight into the middle of it. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9243
+  }
+}

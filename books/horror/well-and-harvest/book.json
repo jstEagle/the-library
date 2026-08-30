@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03415",
+  "title": "Well and Harvest",
+  "author": "Dominic Villalobos",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Freya Amberdale, a hospice nurse who hears the dying count backwards, documents everything, because documentation is a kind of prayer. But when the village's church bell rings although the bell was melted down in 1911, he discovers that staying invisible was never really an option. To get through this, he must get the family out ahead of the count before the last resident signs the papers.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3415
+  }
+}

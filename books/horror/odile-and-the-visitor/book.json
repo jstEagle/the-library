@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03267",
+  "title": "Odile and the Visitor",
+  "author": "Quentin Joubert",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Beatrix Reyes, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. But when all the photographs from grandma's house now include an extra chair, she discovers that staying invisible was never really an option. Now she must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3267
+  }
+}

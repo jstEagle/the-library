@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07500",
+  "title": "A Gravity for the Signal",
+  "author": "Zephyrine Oyelaran",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ulyana Galloway, the last human technician on an automated relay station, has spent twenty years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, she discovers that staying invisible was never really an option. Now she must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7500
+  }
+}

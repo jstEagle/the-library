@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05893",
+  "title": "The Last Alibi Revisited",
+  "author": "Coral Sandoval",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Ivo Okafor, an insurance investigator with a photographic memory, thought they had seen every way a life can end. Then a body turns up dressed in clothes stolen from the witness's own closet — and he is pulled straight into the middle of it. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5893
+  }
+}

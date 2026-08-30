@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01120",
+  "title": "A Oath for the Sigil",
+  "author": "Quentin Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Sebastian Reyes, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. To get through this, they must find the door out of a country that no longer exists before the usurper's armies reach the free cities.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1120
+  }
+}

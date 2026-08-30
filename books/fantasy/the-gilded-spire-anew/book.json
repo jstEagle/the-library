@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01991",
+  "title": "The Gilded Spire Anew",
+  "author": "Xanthe Ravensworth",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Coral Winterbourne, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1991
+  }
+}

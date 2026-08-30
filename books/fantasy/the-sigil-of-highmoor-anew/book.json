@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02144",
+  "title": "The Sigil of Highmoor Anew",
+  "author": "Casper Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Wren Okafor, the keeper of a gate that should stay shut, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2144
+  }
+}

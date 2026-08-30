@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08274",
+  "title": "Astrid and the Signal",
+  "author": "Elodie Villalobos",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Cyrus Crane, an insurance investigator of impossible accidents, has spent seven years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8274
+  }
+}

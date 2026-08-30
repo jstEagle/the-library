@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05846",
+  "title": "Hazel and the Alibi",
+  "author": "Lena Eastwick",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Beatrix Dravenmoor, a hotel concierge who notices everything, has spent fifteen years keeping the town's secrets filed and alphabetized. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. To get through this, she must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5846
+  }
+}

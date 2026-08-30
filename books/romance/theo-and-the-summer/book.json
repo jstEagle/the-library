@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06980",
+  "title": "Theo and the Summer",
+  "author": "E. M. Eriksen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Freya Vane, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and he is pulled straight into the middle of it. Now he must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6980
+  }
+}

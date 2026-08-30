@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05038",
+  "title": "Cipher and Verdict",
+  "author": "Coral Dunmore",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Tamsin Villalobos, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. To get through this, they must untangle alibis woven thirty years ago before the statute expires.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5038
+  }
+}

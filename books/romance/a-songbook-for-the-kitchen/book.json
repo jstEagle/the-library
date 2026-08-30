@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06239",
+  "title": "A Songbook for the Kitchen",
+  "author": "Kestrel Villalobos",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Gideon Zhou, a single parent running the town's only bookshop, believes second chances are for people with better timing. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. To get through this, she must forgive the person in the mirror first before the festival ends.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6239
+  }
+}

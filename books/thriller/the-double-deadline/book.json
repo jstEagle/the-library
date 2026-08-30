@@ -1,0 +1,21 @@
+{
+  "id": "THR-08964",
+  "title": "The Double Deadline",
+  "author": "A. M. Oyelaran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Gideon Voss, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8964
+  }
+}

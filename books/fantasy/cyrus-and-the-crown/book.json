@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01322",
+  "title": "Cyrus and the Crown",
+  "author": "Gideon Ashgrove",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Quentin Sterling, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1322
+  }
+}

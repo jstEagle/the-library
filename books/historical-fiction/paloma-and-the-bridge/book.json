@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02785",
+  "title": "Paloma and the Bridge",
+  "author": "Ulyana Amberdale",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Jonah Yarrow, an apprentice clockmaker summoned to repair the observatory's master clock, believes history happens to other people, elsewhere. But when a child is left at the door with instructions to forget the face, they discover that staying invisible was never really an option. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ice breaks on the river.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2785
+  }
+}

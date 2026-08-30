@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07178",
+  "title": "A Vector for the Orbit",
+  "author": "Z. M. Brightwater",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Theo Almeida, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and she is pulled straight into the middle of it. To get through this, she must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7178
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09110",
+  "title": "A Contact for the Drop",
+  "author": "Silas Voss",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Felix Joubert, a whistle-blower living under four names, has spent ten years following rules that keep getting rewritten. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9110
+  }
+}

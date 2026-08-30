@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06392",
+  "title": "The Small Summer",
+  "author": "Oscar Dunmore",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Sebastian Dravenmoor, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6392
+  }
+}

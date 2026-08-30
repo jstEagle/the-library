@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00490",
+  "title": "Noor and the Escarpment",
+  "author": "Ines Lockridge",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Marguerite Villalobos, an archaeologist's estranged child and better digger, knows the wilderness forgives nothing and forgets less. Then an expedition upriver stops answering the radio — and they are pulled straight into the middle of it. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 490
+  }
+}

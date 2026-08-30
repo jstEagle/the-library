@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01904",
+  "title": "The Last Sigil Revisited",
+  "author": "B. M. Blackwood",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.6,
+  "blurb": "Paloma Hartwell, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1904
+  }
+}

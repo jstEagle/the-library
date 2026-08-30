@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04938",
+  "title": "Witness and Will",
+  "author": "Sebastian Ishikawa",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Yara Eriksen, a hotel concierge who notices everything, has spent seven years keeping the town's secrets filed and alphabetized. But when the town's beloved founder is exhumed and the coffin is empty, he discovers that staying invisible was never really an option. To get through this, he must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4938
+  }
+}

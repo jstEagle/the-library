@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05348",
+  "title": "Edmund and the Will",
+  "author": "Kestrel Nystrom",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Tamsin Marchetti, an estate lawyer reading a will that shouldn't exist, has spent five years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5348
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01244",
+  "title": "Isandro and the Wolf",
+  "author": "Marguerite Vasquez",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Beatrix Winterbourne, a bone-carver who hears the dead, has spent twenty years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1244
+  }
+}

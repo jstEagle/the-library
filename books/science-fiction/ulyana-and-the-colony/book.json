@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07943",
+  "title": "Ulyana and the Colony",
+  "author": "Quentin Dunmore",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Silas Okonkwo, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7943
+  }
+}

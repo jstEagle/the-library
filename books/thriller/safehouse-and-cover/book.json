@@ -1,0 +1,21 @@
+{
+  "id": "THR-08630",
+  "title": "Safehouse and Cover",
+  "author": "Lior Crane",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Tamsin Eriksen, a burnt analyst bounced from three agencies, hasn't slept through the night since the incident. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and she is pulled straight into the middle of it. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8630
+  }
+}

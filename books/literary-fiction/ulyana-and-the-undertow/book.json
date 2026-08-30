@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04423",
+  "title": "Ulyana and the Undertow",
+  "author": "Xanthe Voss",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Zephyrine Eriksen, a restaurant critic who has forgotten how food tastes, has spent three years practicing the art of almost saying it. Then a childhood home goes up for auction — and he is pulled straight into the middle of it. To get through this, he must translate the untranslatable sentence and live with it before the house sale closes.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4423
+  }
+}

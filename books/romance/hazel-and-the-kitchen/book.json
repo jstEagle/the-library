@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06785",
+  "title": "Hazel and the Kitchen",
+  "author": "Kestrel Blackwood",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Mara Vane, a ghostwriter secretly penning a rival's memoirs, has spent twelve years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6785
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03009",
+  "title": "Ulyana and the Atlas",
+  "author": "Emrys Hartwell",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Casper Ravensworth, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. Then the census taker asks one question too many — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "found family",
+    "memory",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3009
+  }
+}

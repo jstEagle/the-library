@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04448",
+  "title": "Vesper and the Radiators",
+  "author": "Jude Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Orsen Halloran, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. Then a box of undelivered letters surfaces behind a wardrobe — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the house sale closes.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4448
+  }
+}

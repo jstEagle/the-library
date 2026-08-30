@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00176",
+  "title": "The Leeward Horizon",
+  "author": "Wendell Halloran",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Yara Sandoval, a riverboat captain who knows every sandbar's mood, knows the wilderness forgives nothing and forgets less. Then the river gives up a chest stamped with a dead nation's seal — and they are pulled straight into the middle of it. To get through this, they must beat the salvage fleet to the wreck by six tides before the dry season ends.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 176
+  }
+}

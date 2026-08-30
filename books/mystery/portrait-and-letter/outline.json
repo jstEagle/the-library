@@ -1,0 +1,59 @@
+{
+  "title": "Portrait and Letter",
+  "slug": "mystery/portrait-and-letter",
+  "model": "stealth/ox-alpha",
+  "premise": "Felix Nakamura, the meticulous archivist of St. Aldhelm's Cathedral, has spent years cataloguing the cathedral's sealed crypt and cultivating a life of careful anonymity. When a drowned stranger washes up at the tideline wearing clothes stolen from Felix's own closet, the police fix on Felix as either victim or suspect, forcing them into the open for the first time. As Felix investigates, they realize the killer is someone who once had access to the archive itself—someone who knows exactly which records were destroyed in the 1974 fire and which were merely hidden. The trail leads to a decades-old cover-up of a death in the crypt, protected by men Felix's late mentor trusted. In the end, Felix must choose between preserving their mentor's reputation and exposing the truth: they bait the killer with a forged ledger entry, and justice arrives not by law but by confession recorded and released. The tide gives up what it took—a second body, the original victim—and with it, Felix's old invisible life is gone for good.",
+  "about_author": "Silas Ishikawa is the pen name of a former parish archivist who spent eleven years cataloguing ecclesiastical records on the English coast before turning to fiction. Their novels are known for labyrinthine institutional secrets and protagonists who prefer documents to people.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Tide Keeps Accounts",
+      "summary": "Felix's POV. Opening on Felix's ordered world of ledgers, dust, and deliberate anonymity, interrupted by a police knock: a body at the tideline wearing Felix's own missing coat and scarf. Shock curdles into professional curiosity. Emotional beat: the violation of being seen."
+    },
+    {
+      "n": 2,
+      "title": "Clothes That Fit a Stranger",
+      "summary": "Felix's POV. Under Detective Inspector Wrenn's skeptical eye, Felix identifies the clothes as theirs—stolen from the vestry drying room—and notices details the police miss: the corpse's hands are ink-stained like an archivist's. Emotional beat: fear sharpening into resolve; Felix decides to investigate rather than be investigated."
+    },
+    {
+      "n": 3,
+      "title": "What Burned in Seventy-Four",
+      "summary": "Felix's POV, with a flashback to mentor Canon Ainsley's lessons. Felix searches the archive for the fire-damaged crypt records and finds a gap too clean to be accidental—pages excised, not burned. Someone with archival training preceded them. Emotional beat: the first vertigo of realizing the enemy speaks their language."
+    },
+    {
+      "n": 4,
+      "title": "The Witness Who Wore Nothing Missing",
+      "summary": "Alternating POV: Wrenn's investigation chapters begin. Wrenn interviews verger Tom Brackley, whose alibi is oddly rehearsed, and discovers the dead man checked into a hotel under a name from the 1974 parish register. Emotional beat: Wrenn's growing suspicion that Felix is hiding something larger than theft."
+    },
+    {
+      "n": 5,
+      "title": "A Letter in Ainsley's Hand",
+      "summary": "Felix's POV. Hidden inside a mislabeled music folio, Felix finds an unsent letter from Ainsley confessing he witnessed something in the crypt in 1974 and chose silence over truth. Emotional beat: grief and betrayal—the loyalty theme crystallizes; Felix's faith in their mentor cracks."
+    },
+    {
+      "n": 6,
+      "title": "The Second Drowning",
+      "summary": "Wrenn's POV. A second death: Brackley found in the flooded crypt stairwell, staged to look accidental, holding a page from the burned records. Wrenn realizes the killer is closing loose ends faster than the inquiry can open them—and that both victims connect to the '74 file. Emotional beat: dread accelerating."
+    },
+    {
+      "n": 7,
+      "title": "Everyone Who Kept the Keys",
+      "summary": "Felix's POV. Felix compiles a private suspect list: everyone with historical access to the archive across fifty years, narrowing to three—including beloved retired sub-deacon Edgar Voss, who taught Felix lock-craft. Emotional beat: the cost of suspicion; loyalty vs. truth becomes personal."
+    },
+    {
+      "n": 8,
+      "title": "The Trap Written in Lead",
+      "summary": "Felix's POV. Knowing the killer reads the archive, Felix plants a forged ledger entry implying the complete 1974 evidence is hidden in the crypt's lead-lined ossuary chest, then stakes out the crypt through a night of rising tide. Emotional beat: cold courage; Felix weaponizes invisibility at last."
+    },
+    {
+      "n": 9,
+      "title": "Confession at Low Water",
+      "summary": "Climax, alternating POV. Voss comes for the chest; Felix confronts him, recorder running. Voss confesses: in 1974 he killed a young organist who threatened to expose financial abuse, and Ainsley helped bury it—literally. When Voss turns violent, Wrenn, tipped by Felix's anonymous note, intervenes. Emotional beat: truth won, but at the price of every comfortable lie."
+    },
+    {
+      "n": 10,
+      "title": "Portrait of the Archivist",
+      "summary": "Felix's POV. Weeks later: Voss awaits trial, the recording released despite church pressure, and the tide yields the organist's remains, finally named and mourned. Felix hangs a small portrait of Ainsley beside the corrected record—honoring the man while condemning the choice. Emotional beat: quiet, hard-won peace; identity chosen, not hidden."
+    }
+  ]
+}

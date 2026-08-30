@@ -1,0 +1,21 @@
+{
+  "id": "THR-08476",
+  "title": "The Live Ghost",
+  "author": "Mara Ravensworth",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Casper Marchetti, a private security contractor guarding clients nobody trusts, has spent fifteen years following rules that keep getting rewritten. But when a dead handler sends a meeting invitation for tomorrow, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8476
+  }
+}

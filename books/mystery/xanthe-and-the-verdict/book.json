@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05917",
+  "title": "Xanthe and the Verdict",
+  "author": "Zephyrine Montrose",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Emrys Voss, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5917
+  }
+}

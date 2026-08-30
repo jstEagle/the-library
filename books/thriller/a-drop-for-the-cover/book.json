@@ -1,0 +1,21 @@
+{
+  "id": "THR-08875",
+  "title": "A Drop for the Cover",
+  "author": "Astrid Vasquez",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Gideon Reyes, a hostage negotiator with one failure still on the board, works cases no one wants attributed. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8875
+  }
+}

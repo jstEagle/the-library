@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06931",
+  "title": "Xanthe and the Summer",
+  "author": "Marguerite Oyelaran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Tamsin Amberdale, a single parent running the town's only bookshop, has spent twelve years rebuilding a life measured in small safe steps. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6931
+  }
+}

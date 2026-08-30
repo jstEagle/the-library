@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08159",
+  "title": "Silas and the Echo",
+  "author": "Jude Delacroix",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Zephyrine Thackeray, a pilot bonded to an AI that lies, has spent seven years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. Now she must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8159
+  }
+}

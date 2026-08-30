@@ -1,0 +1,29 @@
+{
+  "title": "Alibi and Witness",
+  "slug": "mystery/alibi-and-witness",
+  "model": "stealth/ox-alpha",
+  "premise": "Felix Thackeray, a retired detective whose failing bookshop is their last anchor to the world, receives two letters the same morning: one from a dying stranger confessing to a murder committed thirty years ago, and one, unsigned, promising that 'the ledger will tell you who really paid.' The confession names Felix's late partner as an accessory, and as Felix decodes a purchase ledger hidden in the shop's own stock records, they uncover a found family of orphans the victim secretly supported — and a living heir whose inheritance was stolen by the killer. At the anniversary dinner where the town honors the 'beloved' deceased, Felix confronts the murderer with the decoded ledger; justice comes not through arrest but through public truth and the heir reclaiming what was taken, while Felix finds in the orphans' circle a family of their own.",
+  "about_author": "Felix Okafor is a former court clerk turned novelist who writes mysteries about ordinary people forced into extraordinary moral corners. They live above a secondhand bookshop and insist every plot twist was first tested on their reading group.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Two Envelopes, One Morning",
+      "summary": "Felix Thackeray opens the shop to find twin letters: a deathbed confession naming their late partner in a decades-old murder, and an anonymous note pointing to 'the ledger.' POV: Felix. The emotional beat is reluctant awakening — grief for the partner colliding with the itch of an old detective's curiosity, pulling them back into a case everyone else wants buried."
+    },
+    {
+      "n": 2,
+      "title": "The Ledger in Plain Sight",
+      "summary": "Felix cross-references the confession against the shop's dusty purchase ledgers and discovers coded entries funding five orphans over thirty years — the victim's secret found family. POV: Felix, with flashbacks to the partner. The beat deepens: suspicion curdles into betrayal as Felix realizes the partner knew, and one orphan, now grown, warns Felix to stop digging."
+    },
+    {
+      "n": 3,
+      "title": "Anniversary Dinner",
+      "summary": "Invited to the town's gala honoring the murdered man, Felix decodes the final entry revealing the killer: the executor who stole the inheritance and silenced the victim. POV shifts briefly to the eldest orphan, Mara, watching Felix work. Tension peaks as the killer realizes Felix knows, and the dinner becomes a trap set in both directions."
+    },
+    {
+      "n": 4,
+      "title": "What the Glass Reflects",
+      "summary": "At the toast, Felix publicly reads the decoded ledger; the executor breaks, confessing before witnesses, and the stolen estate passes to Mara and the orphans' circle. No arrest — the man's ruin is social and legal exposure he cannot survive. POV: Felix. Resolution lands on quiet warmth: the orphans adopt Felix, and the bookshop reopens with new partners."
+    }
+  ]
+}

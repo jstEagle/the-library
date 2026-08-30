@@ -1,0 +1,21 @@
+{
+  "id": "THR-09105",
+  "title": "Oscar and the Contact",
+  "author": "Kestrel Coldharbour",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Freya Brightwater, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9105
+  }
+}

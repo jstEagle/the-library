@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00822",
+  "title": "When the Garden Falls",
+  "author": "Yara Crane",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Sebastian Kavanagh, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. To get through this, he must steal back a soul sold to the court beneath the mountain before the long winter finishes falling.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 822
+  }
+}

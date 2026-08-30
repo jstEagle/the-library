@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00525",
+  "title": "The Leeward Monsoon",
+  "author": "Ivo Brightwater",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Odile Dravenmoor, a salvage diver working a wreck the navy won't discuss, keeps moving because stopping costs more. Then the river gives up a chest stamped with a dead nation's seal — and they are pulled straight into the middle of it. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 525
+  }
+}

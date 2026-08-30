@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00074",
+  "title": "The Last Landfall",
+  "author": "Rafael Kavanagh",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Wendell Underhill, a railroad engineer with a map of closed lines, keeps moving because stopping costs more. But when a government survey team vanishes, leaving gear and no tracks, they discover that staying invisible was never really an option. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the dry season ends.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 74
+  }
+}

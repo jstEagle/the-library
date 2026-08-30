@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02853",
+  "title": "Compass and Regiment",
+  "author": "Quentin Yarrow",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Sable Sterling, a mapmaker's apprentice finishing the atlas the master died for, has spent ten years learning which silences keep people safe. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. To get through this, they must finish the work while the workshop still stands before the century turns.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2853
+  }
+}

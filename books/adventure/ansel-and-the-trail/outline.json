@@ -1,0 +1,59 @@
+{
+  "title": "Ansel and the Trail",
+  "slug": "adventure/ansel-and-the-trail",
+  "model": "stealth/ox-alpha",
+  "premise": "Mara Okafor, a desert ranger with a talent for vanishing, is hired by her old rival Sefu Adeyemi to track a thief who stole a ledger proving the rangers' guild once sold water rights it had sworn to protect. The trail leads Mara and her small crew up the Kessarin River toward its forbidden source—a glacier vault where the guild's founders sealed their original charter. As calving season threatens to close the route forever, Mara must choose between destroying the evidence to keep her people invisible and revealing it to save the river towns dying downstream. She chooses truth, at the cost of her own standing, and the book ends with the glacier opening and the charter read aloud as the ice gives way.",
+  "about_author": "Beatrix Montrose is the pen name of a former field cartographer who spent six years mapping ephemeral waterways across three continents. Her novels are known for landscapes that behave like characters and protagonists who trust terrain more than people.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Salt and Sign",
+      "summary": "Mara's POV. Tracking a thief across the Ashen Flats, Mara reads a trail no one else can see—until she realizes the thief is leaving signs meant for her specifically. The emotional beat is unease: someone from her past wants to be found, and being found is the one thing she has spent a decade avoiding."
+    },
+    {
+      "n": 2,
+      "title": "The Rival's Ledger",
+      "summary": "Mara's POV, with a flashback in Sefu's voice. Sefu Adeyemi corners her in a border town with the job: recover a stolen ledger before the guild buries its history. Old resentment simmers between them. The beat is reluctant alliance—duty dressed up as choice."
+    },
+    {
+      "n": 3,
+      "title": "Crew of Ghosts",
+      "summary": "Ensemble POV, rotating through Mara's three crew members: Ilya the forger, Dessa the climber, and old Tam the cook who once served the guild. Each has a reason to stay invisible; each agrees anyway. The beat is found-family friction, loyalty tested before the journey truly begins."
+    },
+    {
+      "n": 4,
+      "title": "Downriver Towns",
+      "summary": "Dessa's POV. Following the Kessarin downstream settlements, the crew sees what the stolen water rights have done: dry wells, bought magistrates, children hauling from tankers. Dessa, who grew up in such a town, feels the mission turn personal. The beat is anger hardening into resolve."
+    },
+    {
+      "n": 5,
+      "title": "The Thief Who Wanted Catching",
+      "summary": "Mara's POV. They catch the thief, Nara—and discover she stole the ledger deliberately, wanting the guild's corruption exposed but lacking the crew to reach the source. Nara offers the ledger in exchange for passage. The beat is betrayal inverted: the quarry becomes an ally, and Mara's certainty cracks."
+    },
+    {
+      "n": 6,
+      "title": "Upstream Rules",
+      "summary": "Ilya's POV. The river narrows into canyon country where the guild's wardens patrol. A near-catastrophic crossing forces Ilya to forge warden credentials under pressure, and Tam quietly reveals he knows these waters from his guild years. The beat is mounting dread—the past is literally upstream of them."
+    },
+    {
+      "n": 7,
+      "title": "What Tam Buried",
+      "summary": "Tam's POV. At an abandoned waystation, Tam confesses he helped seal the charter in the glacier forty years ago, believing then that forgetting was mercy. Mara must decide whether his guilt makes him a liability or their only guide. The beat is grief and forgiveness entangled with memory itself."
+    },
+    {
+      "n": 8,
+      "title": "The Calving Window",
+      "summary": "Nara's POV. Racing the season's first calvings, the crew crosses the ice shelf as it begins to fracture behind them. A warden ambush on the ice costs them supplies and nearly Dessa. The beat is terror and sacrifice—the route is closing exactly as promised, and there is no retreat."
+    },
+    {
+      "n": 9,
+      "title": "The Source",
+      "summary": "Mara's POV. In the glacier vault they find the charter: proof the founders bound the guild to serve every town on the river, later betrayed. Sefu arrives demanding the ledger stay buried to protect the rangers' independence; Mara refuses. The climax is Mara choosing truth over invisibility, love over duty, as the ice groans around them."
+    },
+    {
+      "n": 10,
+      "title": "Water Remembers",
+      "summary": "Mara's POV, coda in multiple voices. They escape as the vault collapses, and the charter reaches the downriver towns; the guild fractures, and Mara loses her ranger's badge but gains something harder—a name spoken openly. The final beat is release: the wilderness forgets nothing, but neither do people, and that is finally a hope rather than a threat."
+    }
+  ]
+}

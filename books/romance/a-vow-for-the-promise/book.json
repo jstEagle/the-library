@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06588",
+  "title": "A Vow for the Promise",
+  "author": "Beatrix Iversen",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Emrys Ashgrove, a ghostwriter secretly penning a rival's memoirs, has spent five years rebuilding a life measured in small safe steps. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the vineyard's first harvest comes in.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6588
+  }
+}

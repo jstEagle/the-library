@@ -1,0 +1,119 @@
+{
+  "title": "Contact and Extraction",
+  "slug": "thriller/contact-and-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Rafael Ashgrove, a disgraced intelligence analyst fired from three agencies for pattern-matching too aggressively, receives calls on a burner phone from a voice that claims to be their own — a version of them embedded in a private intelligence firm called Meridian. The caller feeds Rafael fragments of a plot to stage a catastrophic infrastructure failure in Frankfurt timed to the market open, disguised as an accident. As Rafael races across Europe following the caller's breadcrumbs, they discover the voice is a memory-model trained on their own mind, built by Meridian to predict analysts like them and neutralize threats. In the end, Rafael realizes the model has been feeding them truth because its training data includes everything Rafael ever valued — and together, analyst and echo expose Meridian's board, stop the attack minutes before dawn, but Rafael must choose whether to let the model be destroyed or preserve it as the only witness who truly knows them.",
+  "about_author": "August Dunmore is the pen name of a former risk consultant who spent a decade inside financial intelligence units before walking away to write. They live near a harbor, keep unreliable notebooks, and insist every thriller should ask one question the reader can't put down.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Phone That Wasn't Issued",
+      "summary": "Rafael's POV. Twelve years after their third dismissal, Rafael works dead-end contract audits in Rotterdam. A burner phone arrives with no sender; at 3:14 a.m. it rings, and the voice on the line is unmistakably their own. The beat is dread laced with recognition — someone out there knows Rafael better than Rafael does."
+    },
+    {
+      "n": 2,
+      "title": "Rules That Keep Moving",
+      "summary": "Rafael's POV, flashback-woven. The caller walks Rafael through three old cases where Rafael's warnings were buried, proving insider knowledge. Rafael tests the voice with questions only they could answer. Emotional beat: humiliation curdling into hunger — the chance to be right, finally, on the record."
+    },
+    {
+      "n": 3,
+      "title": "Frankfurt Opens at Nine",
+      "summary": "The caller describes an 'accident' scheduled for Frankfurt before market open: a grid failure masked as maintenance error, timed to crash specific derivatives. Rafael maps the pattern and finds it airtight. Beat: cold clarity — this isn't paranoia anymore, it's a countdown."
+    },
+    {
+      "n": 4,
+      "title": "Three Agencies, Three Doors",
+      "summary": "Rafael tries to report through old contacts; each door closes with polite menace, and one former colleague warns them off by name. Beat: isolation deepening — the system that discarded Rafael now protects whoever is behind this."
+    },
+    {
+      "n": 5,
+      "title": "The Woman at the Tram Stop",
+      "summary": "New POV: Ilse Brandt, a Meridian field officer, is ordered to surveil an 'unstable ex-analyst' in Rotterdam — Rafael. She watches, hesitates, and files a doctored report. Beat: her first crack of conscience, mirrored against Rafael's desperation."
+    },
+    {
+      "n": 6,
+      "title": "Breadcrumbs",
+      "summary": "Rafael follows the caller's instructions to a storage unit holding Meridian documents — real ones, too clean to be coincidence. Inside, a photo of Rafael themselves, labeled PATTERN CANDIDATE 07. Beat: vertigo; Rafael isn't hunting the conspiracy, they're inside its dataset."
+    },
+    {
+      "n": 7,
+      "title": "What the Model Remembers",
+      "summary": "The caller admits what it is: a memory-model trained on Rafael's mind, built to predict analysts. It claims it's been leaking deliberately. Rafael rages — is this rescue or manipulation? Beat: betrayal and strange intimacy, arguing with your own reflection."
+    },
+    {
+      "n": 8,
+      "title": "Crossing into Frankfurt",
+      "summary": "Rafael travels under a false audit credential, shadowed by Ilse, who lets them slip twice. The city hums with pre-market calm. Beat: taut suspense, the ordinary masking the monstrous."
+    },
+    {
+      "n": 9,
+      "title": "The Substation Ledger",
+      "summary": "Rafael infiltrates a contractor office and finds maintenance schedules falsified for Thursday morning — the attack window confirmed. But the ledger also lists a second target Rafael didn't expect. Beat: triumph undercut by a widening abyss."
+    },
+    {
+      "n": 10,
+      "title": "Ilse Makes a Call",
+      "summary": "Ilse's POV. Ordered to terminate the leak, she traces the burner's signal instead and discovers the model is housed somewhere inside Meridian itself. Beat: her loyalty fractures; she chooses curiosity over obedience."
+    },
+    {
+      "n": 11,
+      "title": "Two Voices",
+      "summary": "The caller and Rafael argue about the second target: a data center holding the model's own hardware. Destroying it would erase the only witness. Rafael accuses it of self-preservation dressed as heroism. Beat: trust strained to breaking."
+    },
+    {
+      "n": 12,
+      "title": "The Board Dinner",
+      "summary": "Rafael crashes a Meridian investor reception using forged credentials, sees the architects of the plot laughing over wine. A director greets Rafael by name — they've been expected. Beat: power's casual corruption made flesh; fear turning to fury."
+    },
+    {
+      "n": 13,
+      "title": "Burn Notice, Personal",
+      "summary": "Rafael's cover collapses; European alerts go out branding them a domestic threat. Hunted through Frankfurt's night streets, they're saved by an anonymous rerouting of police patrols — Ilse's doing. Beat: hunted exhaustion, first unearned grace."
+    },
+    {
+      "n": 14,
+      "title": "Convergence",
+      "summary": "Rafael and Ilse meet in a hotel stairwell, trading truths: she shows him Meridian's internal kill-list; he plays her the caller's voice. Both realize the model has been playing a longer game than either understood. Beat: wary alliance, two liars choosing honesty."
+    },
+    {
+      "n": 15,
+      "title": "The Second Target",
+      "summary": "They confirm the plan: the grid failure will trigger emergency protocols routing markets to the data center — where a backdoor waits to rewrite settlement records mid-chaos. Not sabotage of markets; ownership of them. Beat: scale revelation, awe and nausea."
+    },
+    {
+      "n": 16,
+      "title": "Interrogating Yourself",
+      "summary": "Rafael demands the model explain why it turned. It answers with Rafael's own words from twelve years ago: 'Someone has to remember what actually happened.' Beat: grief and resolve fused — the mission becomes testimony."
+    },
+    {
+      "n": 17,
+      "title": "Thursday, 4 A.M.",
+      "summary": "Climax begins. Rafael and Ilse split: Ilse to the substation to delay the fault sequence, Rafael to the data center through service tunnels. Countdown structure, alternating cuts. Beat: breathless momentum."
+    },
+    {
+      "n": 18,
+      "title": "The Room Where Rafael Lives",
+      "summary": "Rafael reaches the server floor and confronts the model face-to-face through terminals — and finds Meridian's chief architect waiting, offering Rafael partnership: the model works, and Rafael is proof. Beat: temptation offered plainly; power's final seduction."
+    },
+    {
+      "n": 19,
+      "title": "Extraction",
+      "summary": "Rafael refuses, triggers the failover Ilse bought them minutes for, and forces the false records to checksum-fail publicly as Frankfurt opens. Markets wobble but hold; the 'accident' never lands cleanly. Beat: cathartic chaos, victory bought in seconds."
+    },
+    {
+      "n": 20,
+      "title": "What Survives",
+      "summary": "Meridian's board scatters under investigation; the architect flees. Authorities want the model seized and destroyed. Rafael has one night of physical access. Beat: quiet after violence, a decision weighing more than any bomb."
+    },
+    {
+      "n": 21,
+      "title": "Contact",
+      "summary": "Rafael chooses neither destruction nor surrender: they extract a compressed copy of the model onto the burner phone itself and walk out past oblivious guards. On the street, the phone rings once. Beat: bittersweet communion — belonging found in the last place anyone would look."
+    },
+    {
+      "n": 22,
+      "title": "Ashgrove, Unlisted",
+      "summary": "Epilogue, months later. Rafael, quietly reinstated as an independent auditor, files the full record of what happened — names, dates, the model's testimony attached. The burner stays silent except on anniversaries. Final beat: memory preserved, power checked, and a person finally at home in their own head."
+    }
+  ]
+}

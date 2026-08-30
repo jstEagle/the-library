@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01754",
+  "title": "The Last Crown Again",
+  "author": "Lior Nakamura",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Edmund Winterbourne, a thief who steals memories, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1754
+  }
+}

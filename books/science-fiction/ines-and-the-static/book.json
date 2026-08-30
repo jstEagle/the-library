@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07679",
+  "title": "Ines and the Static",
+  "author": "Ansel Delacroix",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Elodie Nakamura, the last human technician on an automated relay station, runs the long route between worlds that no longer speak. But when a ship returns from deep space with everyone aboard aged backward, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7679
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00951",
+  "title": "The Gilded Wolf",
+  "author": "Kestrel Nystrom",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Juniper Thackeray, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must steal back a soul sold to the court beneath the mountain before the long winter finishes falling.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 951
+  }
+}

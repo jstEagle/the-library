@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02092",
+  "title": "Caerlum Rising Revisited",
+  "author": "Astrid Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Tamsin Thornbury, a mercenary sworn to a god that went silent, has spent five years selling small charms in a city that outlawed magic. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2092
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09401",
+  "title": "The Double Deadline Anew",
+  "author": "I. M. Kavanagh",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Rosalind Marchetti, a burnt analyst bounced from three agencies, has spent five years following rules that keep getting rewritten. But when every record of a flight vanishes while it's still in the air, he discovers that staying invisible was never really an option. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9401
+  }
+}

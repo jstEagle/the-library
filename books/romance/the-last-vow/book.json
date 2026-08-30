@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05962",
+  "title": "The Last Vow",
+  "author": "Ivo Pemberton",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Beatrix Thornbury, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and he is pulled straight into the middle of it. To get through this, he must risk the whole heart instead of lending pieces before the vineyard's first harvest comes in.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5962
+  }
+}

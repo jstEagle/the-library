@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07494",
+  "title": "The Echo of New Lagos",
+  "author": "August Blackwood",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Odile Zhou, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. To get through this, they must keep a lie alive that holds two fleets apart before the jump window closes.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7494
+  }
+}

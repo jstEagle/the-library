@@ -1,0 +1,21 @@
+{
+  "id": "THR-08730",
+  "title": "The Safehouse of the DMZ",
+  "author": "Ivo Galloway",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Felix Coldharbour, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. But when a voiceprint unlocks a server on another continent, they discover that staying invisible was never really an option. To get through this, they must burn the network that did the training before the summit convenes.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8730
+  }
+}

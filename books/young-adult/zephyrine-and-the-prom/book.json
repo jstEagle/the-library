@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09976",
+  "title": "Zephyrine and the Prom",
+  "author": "Yara Ashgrove",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Freya Pemberton, the new kid at a school built over something old, stays under the radar: head down, grades up, locker shut. Then the teacher pairs nemesis with nemesis for a semester-long project — and they are pulled straight into the middle of it. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9976
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Drop and Extraction",
+  "slug": "thriller/drop-and-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Wren Thackeray, a burned-out private security contractor, receives a call on a burner phone from their presumed-dead mentor, Odile Vance, who reveals that the 'accident' that shattered Wren's team was staged—and a second attack is scheduled for tonight at the Meridian freight terminal, timed to look like industrial failure before a dawn extraction flight carries the perpetrators out of the country. As Wren races to identify the target and the mole inside their own firm, they uncover that Odile faked her death to infiltrate the network, and that the operation's architect is Wren's estranged half-brother, Cass, who inherited their father's smuggling empire. In the terminal's final hour, Wren must choose between saving Odile and stopping the flight; they do both at terrible cost—Cass dies in the sabotage he built, Odile survives but vanishes again, and Wren, finally sleeping through the night, accepts the ragtag crew who stayed as the family they never had.",
+  "about_author": "Marguerite Iversen is a former maritime logistics analyst who spent six years documenting security failures at Northern European ports before turning to fiction. She writes from a converted pilot house in Bergen, where she is known for thrillers that braid procedural precision with questions of belonging.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Unlit Rooms",
+      "summary": "Wren's POV. A routine protection detail for a paranoid client establishes Wren's insomnia, hypervigilance, and the guilt of 'the incident' that killed three teammates. Emotional beat: exhaustion masquerading as competence; Wren is functional but hollowed out."
+    },
+    {
+      "n": 2,
+      "title": "A Number That Shouldn't Ring",
+      "summary": "Wren's POV. At 3:11 a.m., a burner phone hidden in Wren's go-bag rings—a number only one person ever had. The voice is Odile Vance, dead for fourteen months. She says four words: 'Meridian Terminal. Before dawn.' Emotional beat: vertigo; grief cracked open by impossible hope."
+    },
+    {
+      "n": 3,
+      "title": "Fourteen Months of Silence",
+      "summary": "Wren's POV, flashback braided in. Wren investigates how the phone got into their bag while reliving the warehouse fire that killed their team—the incident officially ruled an electrical fault. Emotional beat: suspicion warring with longing; Wren needs Odile to be alive and fears what that would mean."
+    },
+    {
+      "n": 4,
+      "title": "The Firm That Watches Back",
+      "summary": "Wren confronts Halbrook Security's operations chief, Dev Anand, probing whether the company knew about the burner. Dev deflects too smoothly. Wren realizes someone inside the firm may have planted the phone. Emotional beat: paranoia taking root in the one place Wren trusted."
+    },
+    {
+      "n": 5,
+      "title": "Dead Women Don't Dial",
+      "summary": "Odile's POV (first time). Revealed: Odile staged her death to penetrate the network behind the incident, codenamed Extraction. She has been feeding information through cutouts for months, and tonight's call was desperation—her cover is fraying. Emotional beat: loneliness of deep-cover work; she chose Wren because trust had nowhere else to go."
+    },
+    {
+      "n": 6,
+      "title": "Manifest of Ghosts",
+      "summary": "Wren's POV. Following Odile's clues, Wren pulls Meridian Terminal's cargo manifests and finds a shipment of industrial coolant routed through a building slated for demolition—perfect cover for a gas-based attack blamed on infrastructure decay. Emotional beat: cold clarity; purpose returning like blood to a numb limb."
+    },
+    {
+      "n": 7,
+      "title": "Old Crew, New Terms",
+      "summary": "Wren's POV. Wren recruits two survivors of the old team—Sefa, a comms specialist turned locksmith, and Ruiz, medically retired and furious about it. Neither trusts Wren anymore. Emotional beat: shame and repair; asking for help as an act of courage."
+    },
+    {
+      "n": 8,
+      "title": "The Brother in the Ledger",
+      "summary": "Wren's POV. Tracing the shell company behind the shipment, Wren finds a name that stops them cold: Cass Thackeray—the half-brother who inherited their father's smuggling routes and vanished a decade ago. Emotional beat: inheritance as wound; the past refusing to stay buried."
+    },
+    {
+      "n": 9,
+      "title": "What Father Left Us",
+      "summary": "Wren's POV, extended flashback. Childhood with Cass: shared summers, then betrayal when Cass took the father's side after the divorce and disappeared into the family business. Emotional beat: identity fractured between loyalty and self-preservation."
+    },
+    {
+      "n": 10,
+      "title": "Terminal Access",
+      "summary": "Sefa's POV. Sefa clones a terminal employee badge and maps the facility's blind spots, discovering the coolant storage bay sits directly beneath the night-shift dormitory—two hundred workers asleep above the weapon. Emotional beat: dread sharpening into resolve."
+    },
+    {
+      "n": 11,
+      "title": "The Mole's Signature",
+      "summary": "Ruiz's POV. Auditing who accessed the manifests, Ruiz identifies a pattern: every leak traces back to credentials belonging to Wren's own clearance. Someone is framing Wren—or using Wren's identity. Emotional beat: betrayal closing in; the enemy wearing Wren's face."
+    },
+    {
+      "n": 12,
+      "title": "Contact Protocol",
+      "summary": "Odile's POV. Odile arranges a face-to-face with Wren inside a decommissioned lighthouse, but suspects she's being followed. She leaves a dead-drop contingency. Emotional beat: hope shadowed by tradecraft; even reunion must be planned like an ambush."
+    },
+    {
+      "n": 13,
+      "title": "Lighthouse",
+      "summary": "Wren's POV. Wren and Odile reunite—alive, older, changed. Odile explains Extraction: a network selling 'accidents' to governments, with the Meridian strike as a portfolio piece before the principals fly out at dawn. Emotional beat: grief and relief colliding; forgiveness neither can say aloud."
+    },
+    {
+      "n": 14,
+      "title": "Tail Lights",
+      "summary": "Odile's POV. Her fear proves right—they're followed. Odile draws the tail away from Wren and is captured. Wren watches taillights vanish, holding only her last instruction: 'The flight manifest is the map.' Emotional beat: loss repeating itself; Wren refuses to let it."
+    },
+    {
+      "n": 15,
+      "title": "Reading the Manifest",
+      "summary": "Wren's POV. Decoding Odile's phrase, Wren matches the extraction flight's passenger list against Meridian contractors and finds the target: not the workers—the network intends to kill its own low-level operatives, cleaning house before takeoff. Emotional beat: horror at the arithmetic of expendable people."
+    },
+    {
+      "n": 16,
+      "title": "Dev",
+      "summary": "Wren's POV. Confronting Dev Anand with the evidence, Wren learns Dev isn't the mole—he's been blackmailed by it. The real insider is Wren's protégé, Ilsa, who sold them out to buy her brother's freedom from Cass's network. Emotional beat: fury tempered by understanding; betrayal with a human face."
+    },
+    {
+      "n": 17,
+      "title": "Two Hours to Wheels-Up",
+      "summary": "Multiple POVs intercut. The crew converges on Meridian: Sefa into the control systems, Ruiz to evacuate the dormitory under a false fire alarm, Wren toward the private apron where the extraction jet waits. Emotional beat: fear transmuted into choreography; found family moving as one body."
+    },
+    {
+      "n": 18,
+      "title": "Brother, at the Fence Line",
+      "summary": "Wren's POV. On the tarmac, Wren comes face-to-face with Cass, who offers Wren a seat on the plane—inheritance, legacy, absolution. Wren refuses. Cass orders the strike accelerated. Emotional beat: identity chosen over blood; the door closing on the father's empire forever."
+    },
+    {
+      "n": 19,
+      "title": "Sabotage",
+      "summary": "Sefa and Ruiz's POV. They disable the coolant release and cripple the jet's hydraulics, but the network's enforcers close in. Odile, escaping her captors mid-chaos, reaches the hangar as the strike fails and the principals scatter. Emotional beat: victory bought in bruises; nothing clean, everything earned."
+    },
+    {
+      "n": 20,
+      "title": "The Architecture Falls",
+      "summary": "Wren's POV. Cass, trapped by his own accelerated timeline, dies in the collapsing staging bay he designed—refusing Wren's hand one final time. Wren carries the weight out rather than the body. Emotional beat: mourning an enemy who was once a boy sharing a summer; inheritance finally refused."
+    },
+    {
+      "n": 21,
+      "title": "Dawn, Wheels Down",
+      "summary": "Wren's POV. The extraction flight never leaves; authorities sweep the network's remnants as evidence flows from Odile's months of recordings. Odile says goodbye at first light—her war continues elsewhere—but this time she leaves a number that will answer. Emotional beat: release; goodbye without abandonment."
+    },
+    {
+      "n": 22,
+      "title": "Sleeping Through the Night",
+      "summary": "Wren's POV, epilogue. Weeks later: Sefa, Ruiz, Dev, and even Ilsa rebuilding around a kitchen table that doubles as a briefing room. Wren sleeps eight hours and wakes unafraid. The burner phone rests in a drawer, silent, no longer needed. Emotional beat: home as something built, not inherited; the found family holding."
+    }
+  ]
+}

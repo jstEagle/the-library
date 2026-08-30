@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08290",
+  "title": "The Signal of Kepler Reach Again",
+  "author": "Sable Reyes",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Jude Amberdale, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. Then an unfamiliar name shows up on the manifest of a ship that never flew — and she is pulled straight into the middle of it. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8290
+  }
+}

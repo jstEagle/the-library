@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02555",
+  "title": "Bram and the Bridge",
+  "author": "L. M. Hartwell",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Tamsin Ishikawa, an apprentice clockmaker summoned to repair the observatory's master clock, has spent twelve years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2555
+  }
+}

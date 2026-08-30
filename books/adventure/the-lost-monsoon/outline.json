@@ -1,0 +1,209 @@
+{
+  "title": "The Lost Monsoon",
+  "slug": "adventure/the-lost-monsoon",
+  "model": "stealth/ox-alpha",
+  "premise": "August Nystrom, a salvage diver drowning in debt, recovers a sealed chest from a river wreck stamped with the crest of a nation that no longer exists. The chest contains a ledger pointing to a sunken treasury — and a name she recognizes as her own missing father's alias. Hunted by a navy salvage fleet and the smugglers who sold her out, August assembles a ragtag crew of castoffs who become the family she never had. Racing six tides to reach the wreck first, she discovers her father faked his death to guard the treasure, forcing her to choose between reclaiming him and saving her new family. In the end she sinks the treasury rather than let it buy more blood, trades the compass for a fresh start, and sails off with the only inheritance that matters: her crew.",
+  "about_author": "Ansel Ishikawa is a former maritime archaeologist turned novelist who spent a decade cataloguing wrecks across Southeast Asian rivers before trading the dive slate for the writing desk. Their fiction blends technical diving detail with stories of people rebuilding themselves from salvage.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Bottom of the Ledger",
+      "summary": "August's POV. Diving a condemned wreck for a creditor, August counts her debts in air tanks and borrowed time. Establishes her isolation, her father's compass as her only keepsake, and the crushing arithmetic of survival."
+    },
+    {
+      "n": 2,
+      "title": "What the River Keeps",
+      "summary": "August's POV. A routine sweep of a restricted stretch turns up a chest bearing the seal of Vessania, a drowned nation erased from maps. She pockets one document before reporting it — the first lie of many."
+    },
+    {
+      "n": 3,
+      "title": "Six Tides",
+      "summary": "August's POV. A naval officer named Corvane arrives asking questions no salvage diver survives answering. August learns the fleet will reach the true wreck in six tides; so will everyone else hunting the chest."
+    },
+    {
+      "n": 4,
+      "title": "The Smuggler's Price",
+      "summary": "August's POV. She brings the document to fence Odile Marchetti, who recognizes the ledger and names its price: partnership or betrayal. August chooses partnership with a woman she doesn't trust."
+    },
+    {
+      "n": 5,
+      "title": "A Crew of Castoffs",
+      "summary": "Multiple POV. August recruits disgraced engineer Tomas Reyes and runaway deckhand Wren, buying loyalty with wages she can't yet pay. The boat feels less empty by nightfall."
+    },
+    {
+      "n": 6,
+      "title": "The Compass Points Wrong",
+      "summary": "August's POV. The ledger's coordinates don't match any chart — but they match the worn engraving inside her father's compass. First hint that her past is stitched into the treasure."
+    },
+    {
+      "n": 7,
+      "title": "Corvane's Offer",
+      "summary": "Corvane's POV. The officer privately offers August immunity for cooperation, revealing the navy believes her father was involved in the Vessian theft decades ago. She refuses and lies again."
+    },
+    {
+      "n": 8,
+      "title": "First Tide",
+      "summary": "Tomas's POV. The crew runs the naval blockade at dusk using a decoy barge. Tomas, terrified of open water since his disgrace, dives anyway — and finds he's braver than his record says."
+    },
+    {
+      "n": 9,
+      "title": "The Drowned Archive",
+      "summary": "August's POV. They locate a flooded archive vault, not the treasury: someone stripped it years ago. Among the silt, a dive tag bearing her father's initials."
+    },
+    {
+      "n": 10,
+      "title": "Odile's Arithmetic",
+      "summary": "Odile's POV. Odile secretly messages the smuggler syndicate about the find, weighing profit against an unexpected fondness for the crew. Her debt is older and darker than August's."
+    },
+    {
+      "n": 11,
+      "title": "Wren's Map",
+      "summary": "Wren's POV. Wren reveals she can read the Vessian script — taught by the orphanage that trafficked her. The ledger decodes into tide tables and a second site beneath the salt marshes."
+    },
+    {
+      "n": 12,
+      "title": "Second Tide",
+      "summary": "August's POV. A storm forces them into a hidden cove where they find another salvager camp — slaughtered weeks ago. Someone is killing rival crews, and it isn't the navy."
+    },
+    {
+      "n": 13,
+      "title": "The Third Man",
+      "summary": "Tomas's POV. Sabotage nearly floods the engine room; they catch a stowaway, a half-drowned courier working for the syndicate. He carries orders with Odile's cipher mark."
+    },
+    {
+      "n": 14,
+      "title": "Confrontation at Anchor",
+      "summary": "August's POV. August confronts Odile, who admits selling their route but insists she kept the wreck's location back. Trust fractures; the crew votes to keep her aboard, chained to usefulness."
+    },
+    {
+      "n": 15,
+      "title": "Third Tide",
+      "summary": "Wren's POV. Decoding deeper, Wren finds the ledger lists divers' names — including 'A. Nystrom,' dated the year her father vanished. Grief and hope collide."
+    },
+    {
+      "n": 16,
+      "title": "The Navy Closes In",
+      "summary": "Corvane's POV. Corvane, pressured by superiors to bury the Vessian affair, realizes his own government wants the crew dead, not arrested. He begins quietly working both sides."
+    },
+    {
+      "n": 17,
+      "title": "Salt Marsh Descent",
+      "summary": "August's POV. The marsh dive: black water, zero visibility, a collapsed shaft. August retrieves a strongbox and nearly drowns when her line is cut — deliberately."
+    },
+    {
+      "n": 18,
+      "title": "Fourth Tide",
+      "summary": "Tomas's POV. The strongbox holds bullion and a photograph of the original dive team — her father among them, alongside a young Odile. Betrayal has roots twenty years deep."
+    },
+    {
+      "n": 19,
+      "title": "Odile's Confession",
+      "summary": "Odile's POV. Odile tells the truth: the original team stole the treasury to fund Vessian refugees; the syndicate killed most of them; she survived by informing. Her guilt made her rich and hollow."
+    },
+    {
+      "n": 20,
+      "title": "The Syndicate Arrives",
+      "summary": "Multiple POV. Syndicate gunboats trap them in the cove. A brutal night skirmish costs them their tender and nearly Wren. August realizes the fleet deadline is now a mercy."
+    },
+    {
+      "n": 21,
+      "title": "Fifth Tide",
+      "summary": "August's POV. Running the gauntlet at slack water, they slip toward the final coordinates — a seamount cave only reachable at the sixth tide. Corvane's patrol boat shadows without firing."
+    },
+    {
+      "n": 22,
+      "title": "The Cave Mouth",
+      "summary": "August's POV. Inside the flooded cavern: the treasury intact, and a liveaboard shack proving someone has lived here for years. Fresh footprints. A kettle still warm."
+    },
+    {
+      "n": 23,
+      "title": "The Man with the Compass",
+      "summary": "August's POV. Her father, Elias Nystrom, alive — the cave's self-appointed warden, guarding the treasure from every faction. Reunion curdles into fury: he let her believe he was dead."
+    },
+    {
+      "n": 24,
+      "title": "Twenty Years Underwater",
+      "summary": "Elias's POV. Elias explains: he stayed to keep the treasury from arming the syndicate, believing distance was protection. August names the cost — a childhood of poverty and grief bought by his silence."
+    },
+    {
+      "n": 25,
+      "title": "The Sixth Tide Begins",
+      "summary": "Multiple POV. Water rises; the cave entrance will close for hours. Outside, syndicate and navy converge. Everyone must choose sides before the tide seals the door."
+    },
+    {
+      "n": 26,
+      "title": "Corvane Breaks Ranks",
+      "summary": "Corvane's POV. Ordered to shell the cave regardless of civilians inside, Corvane refuses, feeding false coordinates to his own fleet. His career dies so the crew might live."
+    },
+    {
+      "n": 27,
+      "title": "The Weight of Gold",
+      "summary": "August's POV. Loading treasure means dooming the escape; leaving it means losing everything they bled for. August proposes the unthinkable: sink it permanently, collapse the cavern."
+    },
+    {
+      "n": 28,
+      "title": "Elias Refuses",
+      "summary": "Elias's POV. Twenty years of guarding make surrender impossible for Elias; he draws on the crew to stop the demolition. Wren talks him down by naming what the gold already cost — including her orphanage."
+    },
+    {
+      "n": 29,
+      "title": "The Standoff",
+      "summary": "August's POV. Syndicate boarding party breaches the cave. Gunfire among the coffers; Odile takes a bullet shielding Wren, paying her oldest debt in the oldest currency."
+    },
+    {
+      "n": 30,
+      "title": "Demolition",
+      "summary": "Tomas's POV. Tomas rigs the charges while the others hold the tunnel. The treasury begins to fall into the deep channel as the tide reaches flood — beauty and ruin in one breath."
+    },
+    {
+      "n": 31,
+      "title": "The Collapse",
+      "summary": "August's POV. The cavern gives way. August goes back for her father against all sense; Elias, choosing her at last over his vigil, barely clears the closing mouth of the cave."
+    },
+    {
+      "n": 32,
+      "title": "Surface",
+      "summary": "Multiple POV. They surface to chaos: syndicate boats fleeing the shockwave, Corvane's ship standing between them and the guns. Odile is dying below decks."
+    },
+    {
+      "n": 33,
+      "title": "Odile's Ledger Closed",
+      "summary": "Odile's POV. Dying, Odile signs over her assets to the crew and asks August for the one thing she can't buy: forgiveness. August gives her something smaller and truer — a place in the story."
+    },
+    {
+      "n": 34,
+      "title": "Corvane's Report",
+      "summary": "Corvane's POV. Corvane files a report declaring the Vessian treasury unrecoverable, destroyed by subsidence. He burns his evidence and his promotion with it, and walks away clean-handed."
+    },
+    {
+      "n": 35,
+      "title": "Debts Paid",
+      "summary": "August's POV. With Odile's bequest, August settles every creditor and buys the boat outright. For the first time she owns her life instead of owing it — and finds the freedom strangely quiet."
+    },
+    {
+      "n": 36,
+      "title": "Father and Daughter",
+      "summary": "Elias's POV. Elias offers to stay, to rebuild what was lost. August tells him love isn't a debt to repay; he must earn a place slowly, starting with honesty. He accepts the terms."
+    },
+    {
+      "n": 37,
+      "title": "The Compass Handed Over",
+      "summary": "August's POV. August gives the compass to Wren — not as inheritance of blood but of choice. Identity, she's learned, is what you build, not what you're issued."
+    },
+    {
+      "n": 38,
+      "title": "New Charter",
+      "summary": "Multiple POV. The crew re-charters the boat for honest wreck documentation work, with Corvane consulting under a false name. Found family formalized in a handshake and bad coffee."
+    },
+    {
+      "n": 39,
+      "title": "What Survives",
+      "summary": "August's POV. Diving a harmless merchant wreck for science, August finds peace in the work itself. The price of survival was everything she hoarded; what remains is everything she chose."
+    },
+    {
+      "n": 40,
+      "title": "The Lost Monsoon",
+      "summary": "August's POV, closing frame. Sailing into the season's first storm by choice rather than desperation, August reflects that monsoons aren't lost — they return. So, she now knows, do people."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Static and Colony",
+  "slug": "science-fiction/static-and-colony",
+  "model": "stealth/ox-alpha",
+  "premise": "Dominic Kavanagh has spent eleven years alone on Relay Station Vesper, tending a beacon whose original purpose was purged from every archive he can access. When gravity across the Kepler-442 system stutters for nine seconds, he traces the anomaly to the beacon itself: it is a countdown trigger, and it has begun counting. The station's dormant systems reveal two cryo-vaults in orbit—one holding the colony's founding generation, the other holding everyone else—and the beacon's activation will wake only one. As Dominic races to hack a choice that was never meant to be his, he discovers recordings of the woman who built the beacon, Dr. Amara Osei, who hid herself among the 'forgotten' vault and left him a message meant for whoever stayed behind. In the end, Dominic sacrifices his own place in either future, rerouting power to crack both vaults open at once, knowing the surge will kill him—dying so that humanity wakes divided but whole, with Amara's final transmission guiding the survivors home.",
+  "about_author": "Ivo Galloway is the pen name of a former satellite ground-station operator who spent six years maintaining equipment no one visited and writing stories during long night shifts. Their fiction blends hard-SF precision with intimate, claustrophobic character studies of people left behind by progress.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Hours",
+      "summary": "POV Dominic. A day-in-the-life establishing chapter: Dominic repairs a coolant line, talks to the station AI VESPER, and performs his ritual maintenance of the beacon whose origin nobody documented. We feel his loneliness as comfort, not torment—he has made peace with being forgotten. Beat: contentment built on denial."
+    },
+    {
+      "n": 2,
+      "title": "Nine Seconds",
+      "summary": "POV Dominic. Gravity across the entire system flickers for exactly nine seconds; Dominic's coffee hangs midair, then everything slams down. Instruments show the pulse originated from his own beacon. VESPER reports a subroutine activating for the first time in forty years: a countdown, destination unknown. Beat: the comfortable world cracks open."
+    },
+    {
+      "n": 3,
+      "title": "What the Beacon Was For",
+      "summary": "POV Dominic. Digging through sealed archives, Dominic finds redacted schematics pointing to two orbital cryo-vaults—Founders' Vault and Commons Vault—each keyed to the beacon's signal. Only one will receive the waking pulse. He realizes his entire posting was a custodian's lie: he was hired to keep the trigger warm. Beat: betrayal by the past."
+    },
+    {
+      "n": 4,
+      "title": "Amara",
+      "summary": "POV Dominic, intercut with recovered video logs. He uncovers logs from Dr. Amara Osei, the beacon's architect, who opposed the one-vault protocol and encrypted her objections inside the station itself. Her voice—wry, furious, alive—becomes his first real companionship in years. Beat: love beginning across time, through a screen."
+    },
+    {
+      "n": 5,
+      "title": "The Custodian's Lie",
+      "summary": "POV Dominic. A supply drone arrives carrying new orders: maintain silence, let the countdown complete. Dominic realizes Command still watches him and that intervening means becoming an enemy of whatever government sleeps above. He drafts a compliance report while secretly planning sabotage. Beat: duty and conscience pull apart."
+    },
+    {
+      "n": 6,
+      "title": "Countdown",
+      "summary": "POV Dominic. With nineteen days left, Dominic attempts to split the beacon's signal between both vaults; each test drains station power he cannot spare. VESPER warns the attempt may kill them both. Amara's logs reveal she voluntarily entered the Commons Vault to share its fate. Beat: resolve hardening into sacrifice."
+    },
+    {
+      "n": 7,
+      "title": "Interference",
+      "summary": "POV Dominic. Command detects his tampering and remotely locks him out of the beacon core. Dominic physically crawls through the station's irradiated spine to reach manual overrides, burning through his radiation exposure limits. Amara's final log surfaces: a message addressed 'to whoever is still awake.' Beat: the body pays for the heart's decision."
+    },
+    {
+      "n": 8,
+      "title": "To Whoever Is Still Awake",
+      "summary": "POV Dominic. Amara's message explains her choice: she believed survival without the many is just inheritance, not continuation. She asks whoever listens not to save her specifically, but to refuse the binary itself. Dominic, half-sick from radiation, commits fully to cracking both vaults despite impossible odds. Beat: love transmuted into conviction."
+    },
+    {
+      "n": 9,
+      "title": "Both or Neither",
+      "summary": "POV Dominic. Climax. On the final day, Dominic reroutes the reactor through the beacon, forcing a dual-pulse that will overload the station. VESPER offers to preserve his consciousness in the relay; he declines, choosing to spend himself completely. The pulse fires—both vaults crack open—as the station goes dark around him. Beat: the price paid in full."
+    },
+    {
+      "n": 10,
+      "title": "Signal Received",
+      "summary": "POV Amara, waking. She emerges into a changed system: both vaults opened, the relay silent, and a final log from a technician named Dominic Kavanagh whose beacon-guided message welcomes humanity back. Grieving and grateful, she leads the awakened toward the dead station to recover his records. Beat: sorrow braided with hope—the story ends where memory begins."
+    }
+  ]
+}

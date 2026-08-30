@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04149",
+  "title": "The Undertow of the reservoir",
+  "author": "U. M. Crane",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Tamsin Marchetti, a translator losing a childhood language one borrowed word at a time, has spent ten years practicing the art of almost saying it. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. Now they must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4149
+  }
+}

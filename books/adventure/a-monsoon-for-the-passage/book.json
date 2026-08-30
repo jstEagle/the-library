@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00631",
+  "title": "A Monsoon for the Passage",
+  "author": "D. M. Lockridge",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Jude Fairweather, a railroad engineer with a map of closed lines, has spent five years measuring life in miles rather than years. But when the river gives up a chest stamped with a dead nation's seal, she discovers that staying invisible was never really an option. Now she must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 631
+  }
+}

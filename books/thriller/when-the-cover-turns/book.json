@@ -1,0 +1,21 @@
+{
+  "id": "THR-08619",
+  "title": "When the Cover Turns",
+  "author": "Freya Eastwick",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Cyrus Montrose, a crash investigator whose family died in row twelve, has spent fifteen years following rules that keep getting rewritten. But when every record of a flight vanishes while it's still in the air, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8619
+  }
+}

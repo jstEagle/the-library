@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00378",
+  "title": "Passage and Summit",
+  "author": "Kestrel Marchetti",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Petra Reyes, a mountain guide blacklisted from two countries, has spent five years measuring life in miles rather than years. Then an expedition upriver stops answering the radio — and he is pulled straight into the middle of it. To get through this, he must follow a river upstream to its forbidden source before the dry season ends.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 378
+  }
+}

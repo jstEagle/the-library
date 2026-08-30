@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00599",
+  "title": "A Escarpment for the Current",
+  "author": "Juniper Underhill",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Theo Reyes, a railroad engineer with a map of closed lines, knows the wilderness forgives nothing and forgets less. Then a dying prospector trades a map for a promise — and he is pulled straight into the middle of it. To get through this, he must follow a river upstream to its forbidden source before the concession permits expire.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 599
+  }
+}

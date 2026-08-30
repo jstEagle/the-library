@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06656",
+  "title": "A Summer for the Postcard",
+  "author": "Sable Amberdale",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Rosalind Pemberton, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. But when two estranged names appear on the same impossibly stubborn orchard deed, they discover that staying invisible was never really an option. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6656
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Jonah and the Debt",
+  "slug": "thriller/jonah-and-the-debt",
+  "model": "stealth/ox-alpha",
+  "premise": "Rafael Brightwater, a disgraced intelligence analyst living off unattributable freelance work, receives a calendar invite from Marcus Vane—the handler who died eight months ago—summoning her to a border town before the checkpoint rotations change. The invitation is bait: Vane's killers, a private debt-recovery syndicate called the Ledger, are using his ghost to flush out whoever holds the encrypted file he hid inside her clearance records years ago. As Rafael unravels the file's contents—a ledger of officials the syndicate owns, including the judge who blacklisted her—she realizes her exile was engineered to keep her as a dead-drop she didn't know she was. In the final hours before the shift change, she trades the ledger to a rival faction in exchange for passage and evidence against the judge, choosing a dangerous new visibility over the invisibility that was never really hers.",
+  "about_author": "Ivo Amberdale is the pen name of a former compliance investigator who spent a decade tracing money across borders before turning to fiction. They write thrillers about people the systems were built to forget.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Invitation from a Dead Man",
+      "summary": "POV Rafael. Broke and deliberately invisible in a coastal rental, Rafael receives a calendar invite from Marcus Vane, her handler who died eight months prior, for a meeting tomorrow at the Kestrel Crossing checkpoint. Her instinct is to delete it; instead she checks the metadata and finds her own old clearance ID embedded in it. Emotional beat: dread curdling into reluctant curiosity—the past has found her address."
+    },
+    {
+      "n": 2,
+      "title": "Three Agencies, No References",
+      "summary": "POV Rafael, with a flashback chapter structure. While packing a go-bag, Rafael reconstructs how she was bounced from three agencies—each dismissal quietly orchestrated, each blacklisting signed by Judge Aldous Merrin. She never questioned the pattern until now. Emotional beat: humiliation reframing as suspicion; the reader learns her exile may have been designed, not earned."
+    },
+    {
+      "n": 3,
+      "title": "Kestrel Crossing",
+      "summary": "POV Rafael. She drives to the border town and watches the meeting point from a distance. No Vane—but two men from the Ledger syndicate wait for whoever answers the invitation, confirming it's a trap built on a dead man's credentials. She photographs them and retreats, but a toll camera has already logged her plate. Emotional beat: cold competence masking fear; she's in the game whether she likes it or not."
+    },
+    {
+      "n": 4,
+      "title": "What Vane Left Inside Her",
+      "summary": "POV Rafael. Digging into her own archived personnel file, Rafael finds an anomaly Vane inserted years ago: a dormant encryption key keyed to her biometric re-verification. She doesn't have the payload—she IS the payload. A burner call warns her: 'The Ledger knows the vault walks.' Emotional beat: violation and vertigo; her identity was someone else's storage device."
+    },
+    {
+      "n": 5,
+      "title": "The Collector",
+      "summary": "POV alternating Rafael / Sera Iqbal, a Ledger 'collector' tasked with recovering the file without damaging its container. Sera is professional, almost sympathetic, and we learn the Ledger sees itself as neutral infrastructure—debt is debt. Sera closes in on Rafael's rental. Emotional beat: the antagonist gains humanity; the hunt becomes personal on both sides."
+    },
+    {
+      "n": 6,
+      "title": "Judge Merrin's Signature",
+      "summary": "POV Rafael. Decrypted partially through an old agency backdoor, the file reveals a fragment: the Ledger's ownership ledger includes Judge Merrin himself—and the note that Rafael's blacklisting was payment on a debt. Her ruin was collateral. Enraged, she stops running and starts planning. Emotional beat: rage transmuted into purpose; justice outside the law becomes her only available justice."
+    },
+    {
+      "n": 7,
+      "title": "A Buyer at the Fish Market",
+      "summary": "POV Rafael. Through a former colleague she contacts Corvus, a rival faction that traffics in leverage rather than violence, and negotiates in a pre-dawn fish market: the full ledger in exchange for clean passage across the border and certified copies of the Merrin evidence. Sera observes the meet from the crowd. Emotional beat: tense agency; Rafael finally acts instead of reacts, but every ally is also a risk."
+    },
+    {
+      "n": 8,
+      "title": "Sera's Offer",
+      "summary": "POV Sera, then Rafael. Cornered in a stairwell, Rafael expects death; instead Sera offers a counter-deal—the Ledger will let her walk if she surrenders the file, because Merrin's exposure would burn half their portfolio too. The syndicate's self-preservation cuts her way. Rafael stalls, sensing the offer expires at the checkpoint shift change. Emotional beat: uneasy truce; enemies discovering shared interests."
+    },
+    {
+      "n": 9,
+      "title": "Shift Change",
+      "summary": "POV Rafael. Climax at Kestrel Crossing as rotations change and both factions converge. Rafael executes a double handoff: a decoy drive to Sera's team, the real ledger to Corvus's courier, while broadcasting the Merrin evidence to three journalists on a delay timer. Shots are fired; she crosses on foot in the confusion of the shift, bleeding but through. Emotional beat: adrenaline and sacrifice—she burns her anonymity permanently to buy the truth daylight."
+    },
+    {
+      "n": 10,
+      "title": "Named",
+      "summary": "POV Rafael, weeks later. The ledger leaks gut the syndicate's official holdings; Merrin resigns under investigation; Rafael's name appears in bylines she once would have fled. Vane's last gift, she realizes, wasn't a trap—it was a test of whether she'd choose to matter. She takes a new case, openly this time. Emotional beat: quiet resolution; inheritance reclaimed, survival priced and paid, justice begun."
+    }
+  ]
+}

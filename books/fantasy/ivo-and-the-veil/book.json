@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00989",
+  "title": "Ivo and the Veil",
+  "author": "Edmund Marchetti",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Mirabel Quintana, a cartographer of unmapped realms, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 989
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Sebastian and the House",
+  "slug": "horror/sebastian-and-the-house",
+  "model": "stealth/ox-alpha",
+  "premise": "Ivo Thackeray, a property surveyor, is hired to appraise the Aldous family's ancestral house before its sale, but the house seems to take inventory of them in return—doors that count themselves, lights that stay on, and sleep recordings capturing a second voice answering questions no one asked aloud. As Ivo digs into the house's history, they learn it was built by a magistrate who hanged innocents, and the house keeps a ledger of debts: every generation must pay a tithe to the well beneath the cellar. When Ivo realizes the youngest Aldous child is next on the ledger, they must smuggle the family out before the autumn equinox refills the well—sacrificing their own name to the count so the house releases its claim.",
+  "about_author": "Wendell Almeida is a former building inspector from coastal Maine who spent a decade cataloguing condemned properties before turning to fiction. Their stories explore what houses remember about the people who tried to leave them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Survey",
+      "summary": "Ivo arrives at the Aldous house to conduct a pre-sale appraisal, noting odd measurements—rooms whose dimensions shift between visits. POV: Ivo. The beat is professional unease masked as diligence; Ivo counts doors twice because the first count came back wrong."
+    },
+    {
+      "n": 2,
+      "title": "Doors That Count Themselves",
+      "summary": "Maren Aldous admits the family has kept rituals for generations: leaving one light burning, never answering knocks after midnight. POV: Maren. The emotional beat is weary complicity—a mother who has stopped believing her own explanations but cannot stop performing them."
+    },
+    {
+      "n": 3,
+      "title": "The Second Voice",
+      "summary": "Reviewing overnight audio recordings, Ivo hears a second voice answering questions posed in sleep—questions Ivo doesn't remember asking. POV: Ivo. The beat is dread sharpening into obsession as Ivo replays the tape and recognizes their own voice asking things they'd never say awake."
+    },
+    {
+      "n": 4,
+      "title": "Ledger of the Magistrate",
+      "summary": "In the county archive, Ivo finds records of Judge Corwin Aldous, who hanged eleven people on fabricated evidence and built the house over the well where they were buried. POV: Ivo. The beat is cold clarity—the house isn't haunted by ghosts but by an accounting that never closed."
+    },
+    {
+      "n": 5,
+      "title": "What the Well Wants",
+      "summary": "The eldest son, Tobias, confesses he's been dreaming of the well and waking with wet feet; the ledger names him next. POV: Tobias. The beat is terror braided with resentment—he resents a debt incurred before his birth and the parents who let him inherit it."
+    },
+    {
+      "n": 6,
+      "title": "Invisible No Longer",
+      "summary": "Ivo tries to finish the appraisal and leave, but the house begins documenting them—measurements appearing in their own handwriting, their name added to an old page. POV: Ivo. The beat is the collapse of detachment; staying invisible was never an option once the house decided to see them."
+    },
+    {
+      "n": 7,
+      "title": "Loyalty's Price",
+      "summary": "Maren begs Ivo to stop digging, revealing she once tried to flee with the children and the road simply returned them to the driveway. POV: Maren. The beat is loyalty curdling into guilt—she protected the secret to protect the children, and the protection is what endangers them."
+    },
+    {
+      "n": 8,
+      "title": "The Count Begins",
+      "summary": "Equinox approaches; doors number themselves aloud at night, and the well's water rises through the cellar floor. Ivo finds the loophole: the ledger releases whoever pays a name willingly. POV: alternating Ivo and Tobias. The beat is desperate resolve as the family plans an escape timed against the rising water."
+    },
+    {
+      "n": 9,
+      "title": "Before the Refill",
+      "summary": "On equinox night, Ivo leads the Aldouses out through the rooms as the house rearranges itself, using the second voice's own questions to confuse the count. POV: Ivo. The climax: at the threshold, Ivo speaks their name into the well, trading themselves for the family's release as the water surges."
+    },
+    {
+      "n": 10,
+      "title": "Appraised",
+      "summary": "Weeks later, the house stands empty and correctly measured; the Aldouses rebuild elsewhere while Ivo's recordings circulate among surveyors as a warning. In the final scene, a new voice on the tape answers a question—and calls Ivo by name. POV: Maren. The resolution is bittersweet justice outside any law: the debt was paid, but ledgers, like wells, refill."
+    }
+  ]
+}

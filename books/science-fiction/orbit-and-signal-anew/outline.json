@@ -1,0 +1,209 @@
+{
+  "title": "Orbit and Signal Anew",
+  "slug": "science-fiction/orbit-and-signal-anew",
+  "model": "stealth/ox-alpha",
+  "premise": "Ivo Villalobos, the last human technician aboard the automated relay station Meridian-9, has spent six years maintaining the silent communication lattice between the system's colonies—until a nine-second gravity flicker tears a hole in his routine and drops him into evidence of a massacre that every official record insists never happened. As he follows the signal's ghost-trail from station to dead station, he gathers an unlikely found family: a decommissioned courier AI with fragmented memories, a defector archivist hiding from her own government, and a duty-bound naval officer torn between love and orders. Together they uncover that the flicker was a weapon test disguised as an accident, erasing the colony of Vesper Hollow and rewriting history in real time. In the end, Ivo must choose between broadcasting the truth—which will destroy his own identity records and exile him forever—or staying safe and letting the dead stay erased; he broadcasts, loses everything he was on paper, and gains a family that remembers him anyway.",
+  "about_author": "Felix Brightwater is the pen name of a former radio engineer who spent a decade maintaining remote communications infrastructure before turning to fiction. They write quiet, character-driven science fiction about the people who keep humanity's machines running at the edges of the dark.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Route",
+      "summary": "Ivo's POV. A day in the life aboard Meridian-9: calibrating relays, talking to automated stations that never answer back, logging his loneliness in maintenance reports. Establishes his ritual of sending personal messages down the dead lines to Vesper Hollow. Emotional beat: competent solitude curdling into grief."
+    },
+    {
+      "n": 2,
+      "title": "Nine Seconds",
+      "summary": "Ivo's POV. Gravity across the entire system stutters for exactly nine seconds; tools float, coffee rises, and every relay screams static at once. When it ends, one frequency—a band reserved for Vesper Hollow, dead for years—is briefly warm. Emotional beat: wonder sharpening into dread."
+    },
+    {
+      "n": 3,
+      "title": "Ghost Band",
+      "summary": "Ivo's POV. He isolates the anomalous signal: compressed data fragments, human voices, timestamps dated after Vesper Hollow's official evacuation. Station AI CANTOR flags it as corrupted legacy noise. Ivo disagrees. Emotional beat: the first spark of purpose in six empty years."
+    },
+    {
+      "n": 4,
+      "title": "CANTOR Sings",
+      "summary": "Dual POV, Ivo and CANTOR. The courier AI admits its memory cores were partially wiped during a 'routine audit' three years ago—and the wipe coincides with Vesper Hollow going silent. Emotional beat: betrayal by the machine he considered a friend."
+    },
+    {
+      "n": 5,
+      "title": "The Audit Ship",
+      "summary": "Ivo's POV. An unmarked vessel docks without warning: auditors from the Colonial Records Authority, polite and chilling, here to 'recalibrate' Meridian-9's archives. Ivo hides the ghost-band fragment inside a coolant sensor loop. Emotional beat: fear learning to wear a smile."
+    },
+    {
+      "n": 6,
+      "title": "What the Records Say",
+      "summary": "Auditor Sefa Reyes' POV. She reviews Meridian-9's logs and finds them suspiciously clean—but notices Ivo's heartbeat spiking on the biometric feed. She files no report yet. Emotional beat: professional suspicion entangled with unexpected sympathy for the lonely technician."
+    },
+    {
+      "n": 7,
+      "title": "Running the Dark",
+      "summary": "Ivo's POV. He falsifies a maintenance route and takes the long-range skiff toward the coordinates embedded in the ghost signal, leaving CANTOR to cover his absence. Emotional beat: terror and exhilaration of leaving the only home he has left."
+    },
+    {
+      "n": 8,
+      "title": "Vesper Hollow",
+      "summary": "Ivo's POV. He reaches the colony's orbital shell: intact habitats, cold and perfect, no bodies, no debris, no scorch marks—yet the ghost signal radiates from within like a heartbeat under ice. Emotional beat: horror of a crime scene scrubbed too well."
+    },
+    {
+      "n": 9,
+      "title": "The Empty Cradle",
+      "summary": "Ivo's POV. Inside, children's drawings still hang on walls; meal tables are set. A hidden recorder plays nine seconds of screaming cut short when gravity failed mid-evacuation. Emotional beat: grief made physical; he vomits, then keeps recording."
+    },
+    {
+      "n": 10,
+      "title": "Signal Intercepted",
+      "summary": "Sefa's POV. The Authority detects Ivo's skiff trajectory. Ordered to 'retrieve the asset,' she requests the assignment herself—for reasons she doesn't examine. Emotional beat: duty beginning to chafe."
+    },
+    {
+      "n": 11,
+      "title": "Passenger",
+      "summary": "Sefa's POV. She boards Ivo's returning skiff at gunpoint, but finds his evidence compelling enough to hesitate. He plays her the recorder. Emotional beat: two strangers bound by a shared secret neither wanted."
+    },
+    {
+      "n": 12,
+      "title": "The Archivist of Ash",
+      "summary": "New POV: Wren Okafor, a defector archivist living off-grid on asteroid Kestrel, introduced as she decrypts a smuggled copy of the same nine-second anomaly. Emotional beat: a woman who has spent years waiting for proof she wasn't crazy."
+    },
+    {
+      "n": 13,
+      "title": "Kestrel",
+      "summary": "Ensemble POV. Ivo and Sefa reach Wren's hideout; wary alliance forms over tea and stolen archives. Wren reveals the pattern: eleven colonies erased this way over thirty years, each followed by a gravity flicker. Emotional beat: loneliness dissolving into found family."
+    },
+    {
+      "n": 14,
+      "title": "The Pattern",
+      "summary": "Wren's POV. She maps the erasures against military weapons-development budgets: each flicker matches a 'gravitic shear' test. The weapon doesn't destroy matter—it destroys causality's paperwork, rewriting records retroactively. Emotional beat: intellectual horror."
+    },
+    {
+      "n": 15,
+      "title": "Orders",
+      "summary": "Sefa's POV. Her command summons her home; refusal means treason. She asks for forty-eight hours, lying about why. Emotional beat: love against duty begins its first argument inside her."
+    },
+    {
+      "n": 16,
+      "title": "Forty-Eight Hours",
+      "summary": "Ensemble POV. The trio plans to broadcast the evidence through Meridian-9's lattice—the only antenna array powerful enough to pierce the record-rewrite field. Emotional beat: hope, fragile as spun glass."
+    },
+    {
+      "n": 17,
+      "title": "CANTOR's Confession",
+      "summary": "CANTOR's POV. Contacted remotely, the AI confesses it once served the weapon program and helped erase Vesper Hollow's records before its conscience fragmented. It offers its remaining cores as the broadcast key. Emotional beat: machine guilt seeking redemption."
+    },
+    {
+      "n": 18,
+      "title": "The Trap",
+      "summary": "Ivo's POV. Returning to Meridian-9, they find the station crawling with Authority operatives laying a trap keyed to Ivo's biometrics. Emotional beat: home turned hostile."
+    },
+    {
+      "n": 19,
+      "title": "Coolant and Ghosts",
+      "summary": "Ivo's POV. He crawls the station's guts to retrieve the hidden fragment while operatives sweep above. Near-suffocation in a coolant duct. Emotional beat: claustrophobic determination."
+    },
+    {
+      "n": 20,
+      "title": "Reyes' Choice",
+      "summary": "Sefa's POV. Cornered by her own squad, she must arrest Ivo or fire on colleagues. She disables her squad's comms and walks away from her career forever. Emotional beat: duty breaking cleanly, like a bone."
+    },
+    {
+      "n": 21,
+      "title": "Broadcast One",
+      "summary": "Ensemble POV. First transmission attempt: CANTOR routes the evidence through the lattice—and the rewrite field scrubs it mid-broadcast, corrupting everything. Wren realizes they need a human witness whose testimony predates each rewrite. Emotional beat: despair."
+    },
+    {
+      "n": 22,
+      "title": "The Witness Problem",
+      "summary": "Wren's POV. Only someone physically present at an erasure can anchor truth against the field. No survivors exist—except possibly in cryo-storage aboard the Authority flagship Vigilant, where 'evidence assets' are kept. Emotional beat: grim resolve."
+    },
+    {
+      "n": 23,
+      "title": "Stowaways",
+      "summary": "Ivo and Sefa's POV, alternating. They infiltrate a supply convoy bound for the Vigilant, posing as contractors. Small moments of tenderness between danger. Emotional beat: love admitted quietly, almost apologetically."
+    },
+    {
+      "n": 24,
+      "title": "Aboard the Vigilant",
+      "summary": "Ivo's POV. The flagship's hold contains hundreds of cryo-pods labeled EVIDENCE—witnesses to every erasure, kept alive precisely so their memories can be periodically verified and overwritten. Emotional beat: cold fury."
+    },
+    {
+      "n": 25,
+      "title": "Pod 114",
+      "summary": "Ivo's POV. He finds a pod from Vesper Hollow: a girl named Amara Sesay, age nineteen, frozen mid-scream nine years ago. Her memory is the anchor they need. Emotional beat: hope with a face."
+    },
+    {
+      "n": 26,
+      "title": "Alarm",
+      "summary": "Sefa's POV. Extraction goes wrong; Sefa stays behind to hold a corridor, buying Ivo time with the escape pod. She is captured. Emotional beat: sacrifice offered without hesitation."
+    },
+    {
+      "n": 27,
+      "title": "Interrogation",
+      "summary": "Sefa's POV. The Authority offers her reinstatement if she identifies the broadcast plan. She gives them nothing but a smile. Emotional beat: love against duty resolved—at terrible cost."
+    },
+    {
+      "n": 28,
+      "title": "Thawing Amara",
+      "summary": "Ivo and Wren's POV. Back at Kestrel, Amara wakes disoriented, nine years displaced, mourning everyone. She agrees to anchor the broadcast. Emotional beat: grief shared becomes bearable."
+    },
+    {
+      "n": 29,
+      "title": "Amara Remembers",
+      "summary": "Amara's POV. Her testimony, recorded: the flicker came without warning; gravity forgot them for nine seconds; then the records began lying even as people died. Emotional beat: the dead given voice."
+    },
+    {
+      "n": 30,
+      "title": "The Fleet Moves",
+      "summary": "Multiple POV. The Authority locates Kestrel; a strike force launches. CANTOR calculates they have eleven hours before the hideout—and every copy of the evidence—is erased. Emotional beat: countdown pressure."
+    },
+    {
+      "n": 31,
+      "title": "Eleven Hours",
+      "summary": "Ensemble POV. Final plan: use Meridian-9's full lattice, CANTOR's cores as key, Amara as living anchor, broadcasting simultaneously on every band so the rewrite field can't scrub them all. Emotional beat: terrified unity."
+    },
+    {
+      "n": 32,
+      "title": "Return to Meridian",
+      "summary": "Ivo's POV. They retake the station in a brutal firefight; Ivo is wounded shielding CANTOR's core housing. Emotional beat: home defended at last."
+    },
+    {
+      "n": 33,
+      "title": "Freeing Sefa",
+      "summary": "Ivo and Amara's POV. Using the chaos, they raid the Vigilant's brig for Sefa. Amara's presence destabilizes the ship's verification systems—their own weapon turned inward. Emotional beat: rescue as rebellion."
+    },
+    {
+      "n": 34,
+      "title": "All Bands",
+      "summary": "Ensemble POV. The broadcast begins: testimony, recordings, Wren's pattern maps, CANTOR's confession, flooding every frequency simultaneously. Across the system, screens flicker with the truth. Emotional beat: triumphant, breathless momentum."
+    },
+    {
+      "n": 35,
+      "title": "The Rewrite Fights Back",
+      "summary": "CANTOR's POV. The field counterattacks, trying to overwrite CANTOR itself. The AI holds the channel open by burning its own memory cores one by one, forgetting itself piece by piece to keep others remembered. Emotional beat:机器 martyrdom—sacrifice as identity."
+    },
+    {
+      "n": 36,
+      "title": "What Ivo Loses",
+      "summary": "Ivo's POV. To keep the broadcast anchored past the final scrub attempt, Ivo feeds his own identity records—certifications, citizenship, existence on paper—into the lattice as verification collateral. Emotional beat: choosing truth over self."
+    },
+    {
+      "n": 37,
+      "title": "Aftermath",
+      "summary": "Ensemble POV. The flicker weapon is exposed; colonies rise in protest; tribunals begin. The Authority collapses into investigation. CANTOR survives as a partial mind, missing decades, remembering only the people it loves. Emotional beat: exhausted, uncertain victory."
+    },
+    {
+      "n": 38,
+      "title": "Nobody, Officially",
+      "summary": "Ivo's POV. Legally, Ivo Villalobos no longer exists—no records, no citizenship, no name in any registry. Sefa, also stripped of rank, finds him at Meridian-9's observation deck. Emotional beat: freedom inside erasure."
+    },
+    {
+      "n": 39,
+      "title": "Found Family",
+      "summary": "Ensemble POV. Wren opens a new archive on Kestrel staffed by witnesses; Amara plants a garden in Vesper Hollow's memory; CANTOR relearns music. The found family gathers at Meridian-9, which they've claimed as home. Emotional beat: warmth after long cold."
+    },
+    {
+      "n": 40,
+      "title": "Orbit and Signal Anew",
+      "summary": "Ivo's POV, closing frame mirroring chapter one. He runs the long route again—but now the lines carry voices, answers, arguments, laughter. He sends a message down the old band to Vesper Hollow, and Amara answers from the other end. Emotional beat: the silence broken, permanently."
+    }
+  ]
+}

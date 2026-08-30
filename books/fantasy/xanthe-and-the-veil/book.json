@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01601",
+  "title": "Xanthe and the Veil",
+  "author": "I. M. Zhou",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Odile Delacroix, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1601
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05353",
+  "title": "The Missing Cipher",
+  "author": "Mirabel Kavanagh",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Wren Marchetti, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5353
+  }
+}

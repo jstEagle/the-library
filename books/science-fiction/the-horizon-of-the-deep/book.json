@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07696",
+  "title": "The Horizon of the Deep",
+  "author": "Sable Crane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "August Crane, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. But when gravity flickers across the entire system for exactly nine seconds, she discovers that staying invisible was never really an option. To get through this, she must prove a massacre happened when every record says otherwise before Earth's last transmission loop ends.",
+  "themes": [
+    "identity",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7696
+  }
+}

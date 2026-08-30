@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02457",
+  "title": "Orsen and the Letter",
+  "author": "Lena Dravenmoor",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Isandro Galloway, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. To get through this, they must get the truth on the record ahead of the victors' historians before the armistice is signed — or isn't.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2457
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01248",
+  "title": "When the Hollow Turns",
+  "author": "Cyrus Oyelaran",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Rosalind Sterling, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1248
+  }
+}

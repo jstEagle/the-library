@@ -1,0 +1,119 @@
+{
+  "title": "Yara and the Safehouse",
+  "slug": "thriller/yara-and-the-safehouse",
+  "model": "stealth/ox-alpha",
+  "premise": "Kestrel Vasquez, a deniable fixer for the Meridian Office—an embassy that exists on no map—is ordered to retrieve a passenger manifest from Flight 447, a charter whose records vanish mid-flight while the plane itself lands carrying one extra person. The extra passenger is Yara Osei, a memory researcher who has smuggled out proof that three governments jointly funded an assassination program disguised as therapeutic trials, and Kestrel's own erased past is in those files. Hunted by a patient assassin named Corvane and betrayed by her own handler, Kestrel must choose between burning the evidence to save herself and delivering it before dawn, when the extraction flight leaves from a decommissioned airfield. She gets the truth out at terrible cost—Yara dies buying her the last hour—and Kestrel walks into the sunrise no longer a fixer but a witness.",
+  "about_author": "Mirabel Halloran is a former aviation logistics analyst who spent six years writing clearance documents for people she never met. She writes thrillers about paperwork as a weapon and lives under a name she chose herself.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Go-Bag",
+      "summary": "Kestrel's POV. We meet her at 3 a.m. in Lisbon, repacking a go-bag she never hopes to use, lying smoothly to her handler Voss over an encrypted line about a routine errand. The emotional beat is controlled loneliness—the polished lie she tells even herself."
+    },
+    {
+      "n": 2,
+      "title": "Flight 447",
+      "summary": "Kestrel's POV. A charter lands; its digital trail evaporates while it's still airborne—manifests, transponder logs, even her own tasking order referencing it. Kestrel realizes she was assigned to a flight that officially never existed. Beat: cold dread beneath professional calm."
+    },
+    {
+      "n": 3,
+      "title": "One Extra Person",
+      "summary": "Yara's POV (first of alternating chapters). Hiding in the airport's staff corridors, Yara recounts smuggling a drive of trial data out of a Geneva clinic, trusting no one. Beat: terror sharpened into purpose; she knows exactly what she's carrying."
+    },
+    {
+      "n": 4,
+      "title": "Deniable",
+      "summary": "Kestrel's POV. Voss orders her to find and neutralize 'the anomaly' from Flight 447—no names, no record. Kestrel recognizes the phrasing of an erasure order and feels the first crack in her loyalty. Beat: duty curdling into suspicion."
+    },
+    {
+      "n": 5,
+      "title": "Corvane",
+      "summary": "Assassin's POV. Corvane arrives in Lisbon with a single photograph and infinite patience, methodically closing escape routes through hotels and transit hubs. Beat: quiet menace; the reader sees the trap assembling before either woman does."
+    },
+    {
+      "n": 6,
+      "title": "Alfama Rain",
+      "summary": "Kestrel and Yara collide by accident in a rain-soaked alley when Kestrel's surveillance op goes wrong. Instead of neutralizing her, Kestrel lies to Voss for the first time. Beat: reluctant recognition—two liars spotting each other's craft."
+    },
+    {
+      "n": 7,
+      "title": "What the Drive Holds",
+      "summary": "Yara's POV. In a safehouse above a shuttered fado bar, Yara shows Kestrel the files: therapeutic memory trials used to manufacture compliant operatives—including a redacted subject whose profile matches Kestrel's missing years. Beat: vertigo; the personal detonates inside the political."
+    },
+    {
+      "n": 8,
+      "title": "The Erased Year",
+      "summary": "Kestrel's POV. Flashbacks fracture as Kestrel tests her own memories against the files and finds seams—a hospital bracelet she can't explain, a face she grieves without knowing why. Beat: grief for a self she was never allowed to keep."
+    },
+    {
+      "n": 9,
+      "title": "Three Governments",
+      "summary": "Voss's POV. The Meridian Office convenes a silent conference with liaison officers from two partner services; all agree the flight and the woman must cease to exist. Beat: institutional banality of evil—decisions made over coffee."
+    },
+    {
+      "n": 10,
+      "title": "Safehouse Rules",
+      "summary": "Dual POV. Days in the safehouse: tradecraft routines, shared cooking, guarded conversation turning real. Kestrel teaches Yara countersurveillance; Yara teaches Kestrel how memory actually works. Beat: love arriving sideways, disguised as logistics."
+    },
+    {
+      "n": 11,
+      "title": "Tail",
+      "summary": "Corvane's POV. Corvane finds the fado bar through a paid informant and watches the safehouse for thirty-six hours, noting patterns. Beat: dread via patience; the reader counts the hours with him."
+    },
+    {
+      "n": 12,
+      "title": "The Handler's Choice",
+      "summary": "Kestrel's POV. Voss confronts Kestrel privately, offering reinstatement if she delivers Yara and the drive by dawn—or becomes the next anomaly. Kestrel realizes Voss may be a victim of the same program. Beat: betrayal and pity entangled."
+    },
+    {
+      "n": 13,
+      "title": "Counterfeit Dawn",
+      "summary": "Yara's POV. Yara proposes a gambit: seed false copies of the drive across the city so any recovered version discredits the others, forcing their hunters to need them alive. Beat: hope engineered like a weapon."
+    },
+    {
+      "n": 14,
+      "title": "Burn Routes",
+      "summary": "Kestrel's POV. Preparations: dead-drops, decoy departures, a forged press credential, and a plan to reach the decommissioned Vale Formoso airfield where a journalist's charter leaves at first light. Beat: taut competence masking fear."
+    },
+    {
+      "n": 15,
+      "title": "The Informant's Price",
+      "summary": "Corvane's POV. Corvane burns his informant after extracting the airfield detail, then tips Voss anonymously—not out of loyalty, but to flush both women into the open. Beat: the hunter playing all sides."
+    },
+    {
+      "n": 16,
+      "title": "Interrogation Light",
+      "summary": "Voss's POV. Voss, ordered to debrief Kestrel, instead quietly passes her the airfield's security rotation—a small treason. Beat: a compromised man choosing, too late, which side of himself to be."
+    },
+    {
+      "n": 17,
+      "title": "Night Move",
+      "summary": "Alternating POVs. The run for the airfield: decoy car, rooftop crossing, a near-miss with a Meridian sweep team. Corvane picks up their true route. Beat: breathless momentum, every plan fraying in real time."
+    },
+    {
+      "n": 18,
+      "title": "Terminal Building",
+      "summary": "Kestrel's POV. Trapped in the derelict terminal, Kestrel faces Corvane alone and discovers he was trained in the same program—one of the files' subjects, sent to erase his own origins. Beat: horror and recognition; the assassin is also a victim."
+    },
+    {
+      "n": 19,
+      "title": "The Hour Before Dawn",
+      "summary": "Yara's POV. With the charter inbound, Yara draws Corvane off with the only leverage left—herself—transmitting the drive's contents to three news desks as she runs. Beat: sacrifice chosen with clear eyes."
+    },
+    {
+      "n": 20,
+      "title": "Extraction",
+      "summary": "Climax. Kestrel's POV. On the runway, Kestrel holds off Corvane long enough for the charter, chooses not to kill him, and boards as Yara falls. The truth is already uploading worldwide. Beat: victory and loss in the same breath."
+    },
+    {
+      "n": 21,
+      "title": "Witness",
+      "summary": "Kestrel's POV. Somewhere over the Atlantic, Kestrel reads her own file to the end, weeping without shame, and drafts a sworn statement under her real, remembered name. Beat: reclamation of memory and self."
+    },
+    {
+      "n": 22,
+      "title": "What Remains",
+      "summary": "Epilogue, dual POV. Months later: the story breaks, the Meridian Office dissolves into scandal, Voss testifies, Corvane disappears into a witness program. Kestrel visits Yara's memorial bench in Lisbon, unpacks the go-bag for good. Beat: mourning braided with peace; survival as testimony."
+    }
+  ]
+}

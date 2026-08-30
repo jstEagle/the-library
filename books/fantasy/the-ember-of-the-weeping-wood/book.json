@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01212",
+  "title": "The Ember of the Weeping Wood",
+  "author": "Noor Okonkwo",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Vesper Marchetti, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1212
+  }
+}

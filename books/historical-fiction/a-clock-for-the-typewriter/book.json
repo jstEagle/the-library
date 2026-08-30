@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02560",
+  "title": "A Clock for the Typewriter",
+  "author": "Zephyrine Thackeray",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Dominic Montrose, a mapmaker's apprentice finishing the atlas the master died for, believes history happens to other people, elsewhere. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, they discover that staying invisible was never really an option. Now they must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2560
+  }
+}

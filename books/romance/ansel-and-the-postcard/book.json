@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06899",
+  "title": "Ansel and the Postcard",
+  "author": "Tamsin Dravenmoor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Cyrus Zhou, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. But when the person behind a decade of letters moves in next door, she discovers that staying invisible was never really an option. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6899
+  }
+}

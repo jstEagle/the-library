@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03532",
+  "title": "Bell and Harvest",
+  "author": "Z. M. Lockridge",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Emrys Dunmore, a hospice nurse who hears the dying count backwards, doesn't believe, has never believed, will not begin believing now. Then the childhood imaginary friend is waiting on the porch, unchanged — and they are pulled straight into the middle of it. To get through this, they must hold out until sunrise with the truth about what was invited in before the frost writes its final pattern.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3532
+  }
+}

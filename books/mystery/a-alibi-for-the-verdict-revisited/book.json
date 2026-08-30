@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05901",
+  "title": "A Alibi for the Verdict Revisited",
+  "author": "Petra Dravenmoor",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Isandro Eriksen, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. But when a client pays in advance to prove a murder hasn't happened — yet, she discovers that staying invisible was never really an option. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5901
+  }
+}

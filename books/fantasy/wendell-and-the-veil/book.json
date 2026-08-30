@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01831",
+  "title": "Wendell and the Veil",
+  "author": "Rafael Joubert",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Mirabel Quintana, a bone-carver who hears the dead, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1831
+  }
+}

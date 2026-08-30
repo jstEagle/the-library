@@ -1,0 +1,59 @@
+{
+  "title": "Gideon and the Parish",
+  "slug": "mystery/gideon-and-the-parish",
+  "model": "stealth/ox-alpha",
+  "premise": "Silas Iversen, a night dispatcher for Gideon's Taxi who has quietly solved every small crime that crossed their switchboard, receives two letters in one envelope: a confession to a murder committed twenty years ago, and a promise that the confessor will kill again unless Silas decodes the parish ledger hidden in the taxi company's old account books. As Silas follows the ledger's coded fares through the town's churches, graveyards, and back rooms, they discover the murders were cover-ups for a charity's stolen funds — and that their own late mother was involved. The killer is Father Anselm Pike, now the town's beloved deacon, who confesses at the ruined chapel; Silas must choose between turning him over and letting the parish keep its peace. In the end, Silas mails the ledger to the newspaper and drives away at dawn, finally taking a case they couldn't close cleanly.",
+  "about_author": "Theo Thornbury is the pen name of a former night-shift worker who spent years listening to a city confess itself over the radio. They write mysteries about people whose jobs put them one phone call away from everyone's secrets.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Two Letters",
+      "summary": "Silas Iversen, working the graveyard shift at Gideon's Taxi, opens an envelope containing a confession to a twenty-year-old murder and a second letter promising more deaths if Silas can't decode 'the ledger' within thirty days. POV: Silas. Emotional beat: cold dread beneath professional calm — for the first time, a case has chosen them instead of the other way around."
+    },
+    {
+      "n": 2,
+      "title": "Fares Paid in Full",
+      "summary": "Silas searches the company's archived account books and finds decades of fares logged with impossible addresses — all pointing to St. Brigid's Parish. Old driver Marta Reyes remembers the night of the original murder: a priest, a rainstorm, a fare never collected. POV: Silas. Emotional beat: the thrill of the hunt curdling as the trail touches people Silas knows."
+    },
+    {
+      "n": 3,
+      "title": "What the Switchboard Hears",
+      "summary": "Interweaving dispatch calls with Silas's investigation, a panicked caller quotes phrases from the confession word-for-word before hanging up. Silas traces the call to a payphone outside the parish hall. POV: Silas, with brief dispatch-log interludes. Emotional beat: paranoia — the killer is watching Silas work, and wants them to succeed."
+    },
+    {
+      "n": 4,
+      "title": "Deacon Pike's Open Door",
+      "summary": "Silas interviews Deacon Anselm Pike under the guise of planning a funeral cortege route. Pike is warm, sharp, and unsettlingly well-informed about Silas's mother, who once cleaned for the parish. POV: Silas. Emotional beat: the seduction of being truly seen by someone dangerous."
+    },
+    {
+      "n": 5,
+      "title": "The Ledger in Plain Sight",
+      "summary": "Silas cracks the code: the fake fares are donations skimmed from the parish building fund, laundered through taxi accounts by Silas's own mother, the company's former bookkeeper. The first victim was her accomplice. POV: Silas. Emotional beat: grief and betrayal — the case is a family inheritance of guilt."
+    },
+    {
+      "n": 6,
+      "title": "Second Letter, Second Body",
+      "summary": "A retired sexton who helped hide the money is found dead in the churchyard, staged like the twenty-year-old killing. Police dismiss it as a fall; Silas knows better and realizes the deadline letter predicted this exactly. POV: Silas. Emotional beat: horror at being complicit-by-foresight — Silas could have warned him."
+    },
+    {
+      "n": 7,
+      "title": "Marta's Silence",
+      "summary": "Silas confronts Marta, who admits she drove Pike away from the scene twenty years ago and has been paid hush money ever since. She begs Silas to let it lie. POV: Marta, shifting the lens outward. Emotional beat: the weight of survival bought with silence — the book's theme made flesh."
+    },
+    {
+      "n": 8,
+      "title": "Thirty Days Down to Three",
+      "summary": "A final letter names its last target: Marta. Silas races to reconstruct the full ledger, discovering the missing page that proves where the money went — into Pike's hands, then into the new community center bearing his name. POV: Silas. Emotional beat: desperate clarity; justice and reputation are about to collide."
+    },
+    {
+      "n": 9,
+      "title": "The Ruined Chapel",
+      "summary": "Silas lures Pike to the derelict chapel with the missing ledger page and records his confession as he explains, almost tenderly, why each death protected the parish's soul. When Pike moves on Silas, Marta arrives and saves them. POV: Silas. Emotional beat: climax — terror, moral vertigo, and the refusal to look away."
+    },
+    {
+      "n": 10,
+      "title": "Last Fare",
+      "summary": "Pike is arrested; the parish turns on Silas for exposing its benefactor, and Marta leaves town rather than testify. Silas mails copies of the ledger to the paper anyway, accepts the cost, and takes one last fare out of town at dawn. POV: Silas. Emotional beat: bittersweet resolution — belonging sacrificed for justice, survival paid in loneliness."
+    }
+  ]
+}

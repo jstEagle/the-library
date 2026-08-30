@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07229",
+  "title": "A Colony for the Machine",
+  "author": "Lior Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Casper Oyelaran, a starship navigator haunted by the backups sleeping in the hold, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. To get through this, they must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7229
+  }
+}

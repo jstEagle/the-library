@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00119",
+  "title": "The Provision of Devil's Throat",
+  "author": "Bram Fairweather",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Emrys Marchetti, a riverboat captain who knows every sandbar's mood, knows the wilderness forgives nothing and forgets less. But when an expedition upriver stops answering the radio, she discovers that staying invisible was never really an option. To get through this, she must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 119
+  }
+}

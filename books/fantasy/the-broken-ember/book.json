@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01378",
+  "title": "The Broken Ember",
+  "author": "Vesper Marchetti",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Ansel Okafor, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1378
+  }
+}

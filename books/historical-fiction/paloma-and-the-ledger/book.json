@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02892",
+  "title": "Paloma and the Ledger",
+  "author": "Felix Thornbury",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Mirabel Vane, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. But when the bridge — the only road out — closes for the season, he discovers that staying invisible was never really an option. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2892
+  }
+}

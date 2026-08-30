@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06365",
+  "title": "Songbook and Letters",
+  "author": "U. M. Iversen",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Quentin Montrose, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. Then two estranged names appear on the same impossibly stubborn orchard deed — and he is pulled straight into the middle of it. To get through this, he must say the sentence that has been rehearsed for a decade before the festival ends.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6365
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09732",
+  "title": "The Mixtape of Maple Street",
+  "author": "K. M. Lockridge",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Theo Amberdale, a debate champion who can't win the argument at home, stays under the radar: head down, grades up, locker shut. Then the teacher pairs nemesis with nemesis for a semester-long project — and they are pulled straight into the middle of it. To get through this, they must tell the truth even if it costs the friendship before the final audition.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9732
+  }
+}

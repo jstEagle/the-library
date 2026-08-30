@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03041",
+  "title": "Lantern and Orchard",
+  "author": "Emrys Okonkwo",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Paloma Eriksen, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. Now he must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3041
+  }
+}

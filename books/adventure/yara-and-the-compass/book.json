@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00017",
+  "title": "Yara and the Compass",
+  "author": "Ivo Ashgrove",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sable Winterbourne, a bush pilot flying medicine and rumors into the interior, keeps moving because stopping costs more. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 17
+  }
+}

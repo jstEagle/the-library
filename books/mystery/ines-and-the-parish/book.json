@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05481",
+  "title": "Ines and the Parish",
+  "author": "Hazel Quintana",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Rosalind Delacroix, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. To get through this, he must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "memory",
+    "found family",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5481
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09657",
+  "title": "The Broken Homecoming",
+  "author": "Hazel Joubert",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Oscar Okafor, a baker's kid who bakes feelings into bread, stays under the radar: head down, grades up, locker shut. Then a group chat starts predicting things that haven't happened yet — and they are pulled straight into the middle of it. Now they must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9657
+  }
+}

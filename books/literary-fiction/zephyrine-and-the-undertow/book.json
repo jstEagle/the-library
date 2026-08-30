@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04764",
+  "title": "Zephyrine and the Undertow",
+  "author": "Sebastian Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Theo Winterbourne, an heir cataloging a parent's silence after the funeral, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. To get through this, they must ask the question the whole family arranged itself around before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4764
+  }
+}

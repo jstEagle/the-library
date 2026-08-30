@@ -1,0 +1,21 @@
+{
+  "id": "THR-09263",
+  "title": "Jude and the Extraction",
+  "author": "Emrys Sandoval",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ulyana Zhou, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. To get through this, he must extract a defector who may be the bait before the extraction flight leaves at dawn.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9263
+  }
+}

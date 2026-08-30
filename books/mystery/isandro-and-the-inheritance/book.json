@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05804",
+  "title": "Isandro and the Inheritance",
+  "author": "Coral Oyelaran",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Oscar Vasquez, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then a body turns up dressed in clothes stolen from the witness's own closet — and they are pulled straight into the middle of it. To get through this, they must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5804
+  }
+}

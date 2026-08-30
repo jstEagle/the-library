@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04525",
+  "title": "Glasshouse and Silence",
+  "author": "Jude Kavanagh",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ansel Galloway, a letter-writer sending postcards to an address that burned down years ago, moves through the days like a tenant, not an owner. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. To get through this, she must forgive the stranger in the old photographs before the mother's memory goes entirely.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4525
+  }
+}

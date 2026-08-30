@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04233",
+  "title": "Weather and Postcards",
+  "author": "Oscar Marchetti",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Edmund Coldharbour, an heir cataloging a parent's silence after the funeral, has perfected the smile that ends conversations. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4233
+  }
+}

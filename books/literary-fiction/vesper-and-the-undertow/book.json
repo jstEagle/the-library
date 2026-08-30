@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04705",
+  "title": "Vesper and the Undertow",
+  "author": "Yara Sterling",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Oscar Thackeray, a letter-writer sending postcards to an address that burned down years ago, has spent twenty years practicing the art of almost saying it. Then a box of undelivered letters surfaces behind a wardrobe — and they are pulled straight into the middle of it. To get through this, they must say goodbye properly, at last, out loud before the demolition date arrives.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4705
+  }
+}

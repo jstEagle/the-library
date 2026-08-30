@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01311",
+  "title": "The Forgotten Crown",
+  "author": "Xanthe Kavanagh",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Vesper Dunmore, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1311
+  }
+}

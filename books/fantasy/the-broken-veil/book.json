@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01021",
+  "title": "The Broken Veil",
+  "author": "Mirabel Joubert",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Sable Amberdale, a thief who steals memories, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1021
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07197",
+  "title": "The Pale Vector",
+  "author": "Silas Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Paloma Zhou, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7197
+  }
+}

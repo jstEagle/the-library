@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08250",
+  "title": "The Cold Vector Anew",
+  "author": "Rosalind Crane",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "August Marchetti, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8250
+  }
+}

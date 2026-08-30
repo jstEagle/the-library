@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00538",
+  "title": "Sable and the Compass",
+  "author": "Orsen Amberdale",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Ulyana Nystrom, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. Then a dying prospector trades a map for a promise — and they are pulled straight into the middle of it. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 538
+  }
+}

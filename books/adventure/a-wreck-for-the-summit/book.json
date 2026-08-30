@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00200",
+  "title": "A Wreck for the Summit",
+  "author": "Paloma Oyelaran",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Petra Zhou, a railroad engineer with a map of closed lines, carries a compass, a debt, and very little else. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. To get through this, they must follow a river upstream to its forbidden source before the dry season ends.",
+  "themes": [
+    "belonging",
+    "found family",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 200
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02103",
+  "title": "Quentin and the Ember",
+  "author": "Astrid Hartwell",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Freya Whitlock, a royal food-taster building immunity one dish at a time, has never left the valley where magic cannot follow. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2103
+  }
+}

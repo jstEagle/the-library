@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09599",
+  "title": "Quentin and the Group Chat",
+  "author": "J. M. Ishikawa",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Theo Kavanagh, a coder whose anonymous account knows too much, is fine. Everything is fine. Obviously.. But when the teacher pairs nemesis with nemesis for a semester-long project, they discover that staying invisible was never really an option. To get through this, they must save the tradition that made the town before the final audition.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9599
+  }
+}

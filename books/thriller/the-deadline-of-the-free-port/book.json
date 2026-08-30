@@ -1,0 +1,21 @@
+{
+  "id": "THR-08763",
+  "title": "The Deadline of the Free Port",
+  "author": "Rosalind Ishikawa",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Dominic Crane, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8763
+  }
+}

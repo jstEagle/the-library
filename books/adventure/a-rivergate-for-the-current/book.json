@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00636",
+  "title": "A Rivergate for the Current",
+  "author": "Silas Okafor",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Felix Underhill, a desert ranger tracking a thief across nothing, carries a compass, a debt, and very little else. Then a government survey team vanishes, leaving gear and no tracks — and she is pulled straight into the middle of it. To get through this, she must cross the range ahead of the snows before the concession permits expire.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 636
+  }
+}

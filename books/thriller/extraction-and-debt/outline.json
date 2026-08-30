@@ -1,0 +1,119 @@
+{
+  "title": "Extraction and Debt",
+  "slug": "thriller/extraction-and-debt",
+  "model": "stealth/ox-alpha",
+  "premise": "Lior Amberdale, a nonbinary private security contractor who has spent a career being nobody's name on any contract, is hired to guard a voiceprint archive that turns out to be the training corpus for a covert influence network operating across three continents. When Lior's own voice unlocks the server, they discover their estranged family sold recordings of them years ago — meaning the network's deepest model is partly built from Lior's grief, rage, and childhood. Hunted by both the network and the intelligence service that funded it, Lior races across borders with a defecting archivist, Nadia, to reach the primary server farm before a checkpoint schedule change seals the route. In the end, Lior burns the archive at the cost of their own recorded past, choosing an unrecorded, unwitnessed life over belonging to anything that owns them.",
+  "about_author": "L. M. Kavanagh is the pen name of a former risk analyst who spent six years writing threat assessments for firms that preferred not to exist in print. They write from a coastal town whose location they decline to confirm.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Client With No Name",
+      "summary": "POV Lior. A routine protection detail in Rotterdam for a client who pays in bearer instruments and never gives a surname. Lior notices the client's phone pings a server in Tbilisi every ninety seconds. Emotional beat: professional detachment beginning to crack into curiosity."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "POV Lior. The client dies of an apparent overdose; his laptop auto-wipes except one folder requiring voice authentication. On impulse, Lior speaks the passphrase aloud — and it opens, because it was keyed to Lior's own voiceprint. Emotional beat: vertigo, the uncanny feeling of hearing yourself used as a key."
+    },
+    {
+      "n": 3,
+      "title": "What the Server Knew",
+      "summary": "POV Lior. Inside: thousands of hours of cloned voices driving a disinformation apparatus, including clips of Lior from childhood — home videos Lior never consented to. The metadata points to a family storage account. Emotional beat: betrayal surfacing under the adrenaline."
+    },
+    {
+      "n": 4,
+      "title": "Amberdale House",
+      "summary": "POV Lior, flashback-heavy. Lior returns to the family estate in Kent, ostensibly for a funeral, actually to confront their brother Tomas about the recordings. Tomas denies everything too smoothly. Emotional beat: the old wound of never belonging in one's own family reopened."
+    },
+    {
+      "n": 5,
+      "title": "Nadia",
+      "summary": "POV Nadia. Introduce the archivist who built the training pipeline and now wants out; she has been leaving breadcrumbs in the model weights hoping someone would find them. She contacts Lior through the dead client's dead-drop protocol. Emotional beat: two people recognizing each other as disposable parts of the same machine."
+    },
+    {
+      "n": 6,
+      "title": "The Contract Nobody Signed",
+      "summary": "POV Lior. Lior's own security firm disavows them; the retainer was bait to place someone with a matching voiceprint near the archive. Their handler, Voss, offers a clean exit if Lior hands over the drive. Emotional beat: realizing even your employer was a mask over the network."
+    },
+    {
+      "n": 7,
+      "title": "Runners in Rotterdam",
+      "summary": "POV Lior. An extraction team comes for Nadia, not Lior — she matters more because she can rebuild what Lior can only unlock. Lior intervenes off-contract, burning their last professional tie. Emotional beat: first deliberate choice of loyalty over survival math."
+    },
+    {
+      "n": 8,
+      "title": "The Long Way Through Prague",
+      "summary": "POV alternating Lior/Nadia. The pair travels overland toward the primary server farm outside Tbilisi, using forged credentials Nadia cached years ago. A cloned voice of Lior calls their mother to flush them out. Emotional beat: intimacy forming between two people who trust nothing else."
+    },
+    {
+      "n": 9,
+      "title": "Tomas Calls",
+      "summary": "POV Lior. Tomas admits he sold the family recordings to cover debts — and reveals the network promised him 'a seat' once Lior was neutralized. He begs Lior to disappear instead of fight. Emotional beat: pity replacing anger; corruption shown as banal inheritance."
+    },
+    {
+      "n": 10,
+      "title": "Checkpoint One",
+      "summary": "POV Nadia. First border crossing nearly fails when facial recognition flags Lior's cloned face traveling ahead of them — the network is saturating borders with synthetic versions of its targets. Emotional beat: paranoia made literal; you cannot prove you are yourself."
+    },
+    {
+      "n": 11,
+      "title": "Voss's Offer",
+      "summary": "POV Lior. Voss intercepts them in Bucharest with a genuine offer: the intelligence service behind the network will give Lior wealth, identity, belonging — everything the Amberdales withheld — if Lior delivers Nadia alive. Emotional beat: temptation framed as acceptance, which is harder to refuse than money."
+    },
+    {
+      "n": 12,
+      "title": "The Weight of Weights",
+      "summary": "POV Nadia. Nadia explains the kill plan: a cascading overwrite seeded through the checkpoint servers' sync cycle, timed to the shift change when human oversight goes dark for eleven minutes. She also confesses she trained the model on her late sister's letters. Emotional beat: guilt shared is not guilt halved, but it is survivable."
+    },
+    {
+      "n": 13,
+      "title": "Black Sea Interlude",
+      "summary": "POV Lior. A stolen day in Constanta before the final push; Lior records a message for no one, just to feel ownership of their own voice again. Voss's surveillance drones pass overhead and, for once, do not stop. Emotional beat: fragile peace, deliberately placed before the fall."
+    },
+    {
+      "n": 14,
+      "title": "Betrayal at the Ferry",
+      "summary": "POV Lior. Tomas appears at the Varna ferry terminal — not to help, but having already sold their route to the network in exchange for his 'seat.' Lior lets him believe it worked and feeds him a false itinerary. Emotional beat: using the family's transactional language against it, and hating how well it fits."
+    },
+    {
+      "n": 15,
+      "title": "Shift Change",
+      "summary": "POV Nadia. They reach the Georgian border as the false itinerary collapses; the real checkpoint shift change moves up two hours. Eleven minutes becomes four. Emotional beat: the plan dying in real time while the decision to proceed hardens."
+    },
+    {
+      "n": 16,
+      "title": "The Farm Above Tbilisi",
+      "summary": "POV Lior. Infiltration of the server facility disguised as a maintenance contractor rotation. Inside, racks hum with millions of synthesized voices, including Lior's, speaking comfort to strangers who think they are loved. Emotional beat: horror at scale — grief industrialized."
+    },
+    {
+      "n": 17,
+      "title": "Voss, Face to Face",
+      "summary": "POV Lior. Voss waits inside, having never needed the ferry tip — the offer was always the trap, testing whether Lior could be recruited like everyone else. Voss makes the pitch one final time: join, and be somebody. Emotional beat: the climax of theme — power offering belonging as a leash."
+    },
+    {
+      "n": 18,
+      "title": "Eleven Minutes",
+      "summary": "POV alternating. Nadia begins the cascade while Lior holds the corridor against Voss's team. The overwrite propagates rack by rack; synthesized voices die mid-sentence, including Lior's childhood self. Emotional beat: violent, exhilarating erasure — arson as self-defense."
+    },
+    {
+      "n": 19,
+      "title": "What Burns",
+      "summary": "POV Lior. Voss, cornered, chooses the network over escape and dies with the servers rather than return empty-handed. Nadia triggers the physical failsafe; the farm burns. Lior drags Nadia out through the smoke. Emotional beat: cost acknowledged — part of Lior's history existed only in those racks."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath, Unwitnessed",
+      "summary": "POV Lior. News reports attribute the fire to a cooling failure. No warrants, no headlines, no credit. Lior realizes anonymity, once a wound, is now armor. Emotional beat: quiet reclamation of a life that belongs to no ledger."
+    },
+    {
+      "n": 21,
+      "title": "Kent, Again",
+      "summary": "POV Lior. Final visit to Amberdale House. Tomas, stripped of his promised seat and facing exposure, asks what Lior will do. Lior leaves without answering, taking only a single unlabeled cassette from the attic — the one recording the network never digitized. Emotional beat: inheritance refused but not destroyed."
+    },
+    {
+      "n": 22,
+      "title": "Extraction",
+      "summary": "POV Lior, closing frame mirroring chapter one. A new client with no name approaches Lior in a Rotterdam café. This time Lior sets the terms, takes payment up front, and walks away from the table first. Emotional beat: belonging finally defined on one's own terms — chosen, temporary, and free."
+    }
+  ]
+}

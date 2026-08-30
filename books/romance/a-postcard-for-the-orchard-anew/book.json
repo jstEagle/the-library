@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06830",
+  "title": "A Postcard for the Orchard Anew",
+  "author": "Ines Zhou",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Marguerite Kavanagh, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. Now she must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6830
+  }
+}

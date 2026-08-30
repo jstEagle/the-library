@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00528",
+  "title": "Sable and the Current",
+  "author": "Ines Sterling",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Yara Okafor, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 528
+  }
+}

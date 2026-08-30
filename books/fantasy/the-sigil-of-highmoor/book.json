@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01361",
+  "title": "The Sigil of Highmoor",
+  "author": "Zephyrine Vasquez",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Dominic Dravenmoor, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1361
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01419",
+  "title": "August and the Garden",
+  "author": "Oscar Delacroix",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Hazel Kavanagh, a cartographer of unmapped realms, has spent twelve years selling small charms in a city that outlawed magic. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1419
+  }
+}

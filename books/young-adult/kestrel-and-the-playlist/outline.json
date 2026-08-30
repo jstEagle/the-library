@@ -1,0 +1,59 @@
+{
+  "title": "Kestrel and the Playlist",
+  "slug": "young-adult/kestrel-and-the-playlist",
+  "model": "stealth/ox-alpha",
+  "premise": "Edmund Thackeray, a seventeen-year-old coder who runs an anonymous account that keeps predicting his school's secrets a little too accurately, finds coded instructions hidden in his late grandmother's recipe box — directions for a memory-preservation program she helped build decades ago. When the school's beloved principal begins using a corrupted version of it to rewrite students' memories and secure her legacy, Edmund must choose between protecting his best friend Kestrel, whose memories are already fraying, and exposing the truth, which means unmasking himself and losing her trust before the last game of the season. In the end he broadcasts the real playlist of their shared memories to the whole school, shattering the principal's control at the cost of his anonymity, and wins back Kestrel not by erasing what he did but by owning it.",
+  "about_author": "Edmund Halloran is a former software engineer from coastal Maine who traded debugging legacy systems for writing stories about the people trapped inside them. He writes young adult fiction in the margins of family life, fueled by diner coffee and his grandmother's indecipherable recipe cards.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Recipe for Disaster",
+      "summary": "POV Edmund. While clearing out his grandmother's kitchen, Edmund finds a recipe card labeled 'Kestrel's Favorite' containing code instead of ingredients. He compiles it on a whim and watches it reconstruct a memory he never recorded. The beat is eerie wonder curdling into dread as he realizes grandma left him a weapon."
+    },
+    {
+      "n": 2,
+      "title": "Anonymous, Obviously",
+      "summary": "POV Edmund. His anonymous account posts another eerily accurate prediction about school, and followers grow suspicious. Meanwhile Principal Voss announces a new 'wellness initiative,' and students report feeling oddly calm. Edmund notices the initiative's logo matches a symbol on grandma's card. Beat: paranoia tightening like a noose."
+    },
+    {
+      "n": 3,
+      "title": "The Girl Who Forgets on Purpose",
+      "summary": "POV Kestrel. Kestrel admits she's been losing chunks of memory — first small things, then entire afternoons with Edmund. She's terrified but also relieved, because one erased afternoon contains something painful between them. Beat: tender, aching intimacy as two friends orbit a secret neither can name."
+    },
+    {
+      "n": 4,
+      "title": "Debugging Grandma",
+      "summary": "POV Edmund. Digging through archives, Edmund learns his grandmother co-authored the Mnemosyne protocol before walking away from it, leaving warnings buried in comments like contraband. He confronts Principal Voss obliquely; she smiles too long. Beat: rising dread as he understands the corruption isn't a bug — it's a feature someone chose."
+    },
+    {
+      "n": 5,
+      "title": "Homecoming, Half-Remembered",
+      "summary": "POV Kestrel. At homecoming, Kestrel watches classmates recite identical happy memories word-for-word, like lyrics from a shared playlist. Her own gaps widen after a meeting with Voss. Edmund nearly tells her everything, then chokes. Beat: loneliness inside a crowd, love unsaid."
+    },
+    {
+      "n": 6,
+      "title": "The Season on the Line",
+      "summary": "POV Edmund. With the final game approaching, Edmund discovers Voss has been editing athletes' memories of losses to keep the town's pride — and funding — intact. His anonymous account gets traced halfway; a friend covers for him at real cost. Beat: guilt compounding, stakes going public."
+    },
+    {
+      "n": 7,
+      "title": "What Kestrel Can't Remember",
+      "summary": "POV Kestrel. Kestrel finds her own name in Voss's edit logs and realizes the painful afternoon Edmund never mentions was deliberately cut — by someone who claimed to protect her. She turns on Edmund, assuming he's involved. Beat: betrayal, sharp and cold, right before the last game."
+    },
+    {
+      "n": 8,
+      "title": "The Last Game of the Season",
+      "summary": "POV Edmund. During the championship game, Voss attempts a mass memory rewrite of the student body to bury a scandal. Edmund infiltrates the server room beneath the gym as the crowd roars above him. Beat: breathless climax, fingers shaking over the keyboard while duty and love collide."
+    },
+    {
+      "n": 9,
+      "title": "Playing It All Back",
+      "summary": "POV Edmund. Instead of deleting the system, Edmund broadcasts every original memory — including his own anonymous identity and the truth about the afternoon Kestrel lost — to every screen in the school. Voss falls; the crowd goes silent. Beat: cathartic exposure, truth as both wound and cure."
+    },
+    {
+      "n": 10,
+      "title": "Encore",
+      "summary": "POV Kestrel, closing with Edmund. Weeks later, Kestrel rebuilds her own memories from the archive and chooses which pain to keep. She finds Edmund at the empty field, playlist in hand, and presses play. Beat: quiet resolution — forgiveness earned, not granted, and love chosen over safety."
+    }
+  ]
+}

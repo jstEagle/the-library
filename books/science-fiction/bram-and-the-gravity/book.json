@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07739",
+  "title": "Bram and the Gravity",
+  "author": "August Eriksen",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Mara Amberdale, a xenolinguist who can no longer dream in human languages, runs the long route between worlds that no longer speak. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7739
+  }
+}

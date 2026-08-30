@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02113",
+  "title": "The Crooked Oath Anew",
+  "author": "Gideon Coldharbour",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Sebastian Winterbourne, a thief who steals memories, has spent seven years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2113
+  }
+}

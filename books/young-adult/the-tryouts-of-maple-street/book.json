@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09615",
+  "title": "The Tryouts of Maple Street",
+  "author": "C. M. Sandoval",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Mirabel Amberdale, the team's statistician who knows the game is rigged, stays under the radar: head down, grades up, locker shut. But when a group chat starts predicting things that haven't happened yet, they discover that staying invisible was never really an option. Now they must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9615
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05148",
+  "title": "Xanthe and the Will",
+  "author": "Zephyrine Brightwater",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Tamsin Almeida, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5148
+  }
+}

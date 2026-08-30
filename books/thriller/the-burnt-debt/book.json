@@ -1,0 +1,21 @@
+{
+  "id": "THR-08402",
+  "title": "The Burnt Debt",
+  "author": "Zephyrine Zhou",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Odile Vane, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the border checkpoint shifts change.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8402
+  }
+}

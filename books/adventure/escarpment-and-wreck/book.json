@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00175",
+  "title": "Escarpment and Wreck",
+  "author": "Beatrix Halloran",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ulyana Fairweather, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 175
+  }
+}

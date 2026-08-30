@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01873",
+  "title": "Paloma and the Garden",
+  "author": "Tamsin Vasquez",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Beatrix Ravensworth, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1873
+  }
+}

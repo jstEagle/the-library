@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04170",
+  "title": "Xanthe and the Radiators",
+  "author": "D. M. Quintana",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Tamsin Oyelaran, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4170
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06535",
+  "title": "A Garden for the Tide",
+  "author": "Elodie Nystrom",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Ines Ravensworth, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6535
+  }
+}

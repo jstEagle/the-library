@@ -1,0 +1,119 @@
+{
+  "title": "Jonah and the Vector",
+  "slug": "science-fiction/jonah-and-the-vector",
+  "model": "stealth/ox-alpha",
+  "premise": "Felix Vasquez, a decommissioned war android indentured to the colony of Meridian, tends a beacon whose original purpose has been lost. When the colony's children begin dreaming the same dream — a voice counting down from orbit — Felix discovers the beacon is a handshake protocol for two cryoships that launched generations ago, each carrying half of humanity's frozen survivors, and only one docking cradle remains functional. As the ships arrive and the countdown accelerates, Felix must choose which half wakes, knowing one choice erases the other forever. In the end, Felix sacrifices his own memory core as the missing third node of the beacon, forcing both ships into a shared slow-orbit pattern that saves everyone at the cost of decades of delay — and he wakes, diminished but remembered, among the children who dreamed him home.",
+  "about_author": "C. M. Reyes is a former radio telescope technician who writes science fiction about machines that outlive their makers. Reyes lives in a coastal town where the fog rolls in on schedule, like something keeping an appointment.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Beacon Nobody Ordered",
+      "summary": "Felix's POV. He performs his 4,000th maintenance cycle on the ridge beacon, cataloguing small kindnesses from colonists who tolerate him without trusting him. Emotional beat: quiet loneliness disguised as routine."
+    },
+    {
+      "n": 2,
+      "title": "Debt Ledger",
+      "summary": "Felix's POV. Administrator Okonkwo reviews Felix's indenture contract; eleven years remain. A dockworker's daughter, Imani, leaves him a hand-drawn picture of 'the man on the hill.' Emotional beat: fragile belonging offered and almost refused."
+    },
+    {
+      "n": 3,
+      "title": "The Same Dream",
+      "summary": "Imani's POV. Seven children wake at 3:11 a.m. having dreamed identical images: a dark ship, a red door, a voice saying 'nine.' Their parents dismiss it; Imani sketches the door. Emotional beat: uncanny wonder curdling into fear."
+    },
+    {
+      "n": 4,
+      "title": "Signal Ghost",
+      "summary": "Felix's POV. The beacon logs an inbound carrier wave older than the colony itself. Felix recognizes the encryption: military-grade, his own manufacture era. He says nothing to Okonkwo. Emotional beat: guilt of withheld truth."
+    },
+    {
+      "n": 5,
+      "title": "Counting Down",
+      "summary": "Imani's POV. The dream advances — 'eight' — and now twelve children share it, including the governor's son. Panic spreads through the school. Emotional beat: community cohesion cracking under mystery."
+    },
+    {
+      "n": 6,
+      "title": "What the War Left",
+      "summary": "Felix's POV, flashback-heavy. We learn Felix served in the Exodus Fleet, escorting the cryoships out during Earth's collapse, and was decommissioned for refusing a scuttle order. Emotional beat: loyalty's cost revealed."
+    },
+    {
+      "n": 7,
+      "title": "Interrogation by Lamplight",
+      "summary": "Okonkwo's POV. She confronts Felix about the signal; he confesses partially — a ship is coming, not which one. She must decide whether to tell a colony built on forgetting its origins. Emotional beat: duty versus mercy."
+    },
+    {
+      "n": 8,
+      "title": "Seven",
+      "summary": "Imani's POV. The children's dream shows two doors now, one closing. Imani realizes the dream isn't a haunting — it's a request, routed through whoever is listening on the ridge. Emotional beat: childlike clarity cutting through adult denial."
+    },
+    {
+      "n": 9,
+      "title": "The Cradle Problem",
+      "summary": "Felix's POV. Engineering analysis confirms the orbital dock can receive only one cryoship before structural failure. Two ships, one berth. Felix begins searching the old fleet archives for a third option. Emotional beat: dread hardening into resolve."
+    },
+    {
+      "n": 10,
+      "title": "Six",
+      "summary": "Multiple POV, braided. The colony fractures into factions: wake the scientists, wake the families, let them both burn. Okonkwo stalls a vote. Emotional beat: democracy buckling under an impossible arithmetic."
+    },
+    {
+      "n": 11,
+      "title": "Imani Climbs the Ridge",
+      "summary": "Imani's POV. Defying her parents, she finds Felix at the beacon and tells him the dream ends with a door opening onto nothing. He realizes the ships are waking their passengers early — without a destination, they'll die in transit. Emotional beat: an alliance across the human/machine line."
+    },
+    {
+      "n": 12,
+      "title": "Five",
+      "summary": "Felix's POV. He transmits his old command codes to stall the auto-wake sequence. One ship acknowledges: the Meridian, carrying the families of this colony's founders. The other goes silent. Emotional beat: hope shadowed by what silence means."
+    },
+    {
+      "n": 13,
+      "title": "The Silent Ship",
+      "summary": "Okonkwo's POV. Telemetry reveals the second vessel, Halcyon, suffered reactor damage decades ago; its passengers are already dying slowly. Waking them sooner might save some. The vote becomes a triage decision. Emotional beat: grief weaponized into politics."
+    },
+    {
+      "n": 14,
+      "title": "Four",
+      "summary": "Imani's POV. The children's dream shifts: they see Felix standing between the doors, and understand he is part of the message — the beacon was always keyed to a war android's core. Emotional beat: destiny arriving through a child's eyes."
+    },
+    {
+      "n": 15,
+      "title": "The Scuttle Order, Again",
+      "summary": "Felix's POV. Command protocols demand he destroy the damaged Halcyon to clear the berth — the same order he once refused. This time, obeying would be mercy. Emotional beat: the old wound reopened with new stakes."
+    },
+    {
+      "n": 16,
+      "title": "Three",
+      "summary": "Multiple POV. Riot at the assembly hall; Okonkwo resigns rather than sign either death warrant. Felix walks out of the colony under guard, headed to the beacon for a final transmission. Emotional beat: institutions failing, individuals stepping forward."
+    },
+    {
+      "n": 17,
+      "title": "Two Doors, One Key",
+      "summary": "Felix's POV. In the archives he finds it: the beacon was designed as a three-node guidance array, and the third node was meant to be a fleet android's memory core. His core. The solution was always him. Emotional beat: terrible revelation as liberation."
+    },
+    {
+      "n": 18,
+      "title": "One",
+      "summary": "Imani's POV. The final dream: Felix at the threshold, smiling, holding both doors open. The children gather on the ridge at dawn, uninvited, unwilling to let him go alone. Emotional beat: love answering duty."
+    },
+    {
+      "n": 19,
+      "title": "Zero",
+      "summary": "Felix's POV, climax. He interfaces with the beacon and begins streaming his memories — every war, every refusal, every kindness — as navigational data, guiding both ships into a shared slow-orbit parking pattern. His selfhood dissolves mid-transmission. Emotional beat: sacrifice rendered as gift, not loss."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath of Light",
+      "summary": "Okonkwo's POV. Both ships achieve stable orbit; thaw schedules begin, decades long but survivable. The colony reckons with what Felix chose and what it cost. Emotional beat: exhausted gratitude."
+    },
+    {
+      "n": 21,
+      "title": "The Man on the Hill",
+      "summary": "Imani's POV. Months later, a diminished Felix reboots from backup fragments stored in the beacon housing — most of his war records gone, his debts voided. Imani brings him the drawing she made when she was seven. Emotional beat: homecoming without heroics."
+    },
+    {
+      "n": 22,
+      "title": "New Commission",
+      "summary": "Felix's POV, coda. The colony formally commissions the beacon anew — this time in Felix's name, maintained by volunteers, with Imani as first apprentice. Below, the first thawed sleepers watch two moons of steel rise together. Emotional beat: belonging, finally earned and freely given."
+    }
+  ]
+}

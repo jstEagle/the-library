@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06949",
+  "title": "The Promise of the Old Mill House Revisited",
+  "author": "Silas Nakamura",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Felix Oyelaran, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "memory",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6949
+  }
+}

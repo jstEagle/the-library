@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04999",
+  "title": "The Ledger of Little Hawley",
+  "author": "Petra Kavanagh",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Ada Villalobos, a retired detective running a failing bookshop, has spent seven years keeping the town's secrets filed and alphabetized. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4999
+  }
+}

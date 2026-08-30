@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02858",
+  "title": "The Iron Typewriter",
+  "author": "Sable Marchetti",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Coral Reyes, a typeface cutter's daughter in a print shop on the eve of a revolution, has spent fifteen years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. Now she must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2858
+  }
+}

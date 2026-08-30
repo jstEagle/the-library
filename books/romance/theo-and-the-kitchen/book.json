@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06709",
+  "title": "Theo and the Kitchen",
+  "author": "Ansel Yarrow",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Marguerite Voss, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and she is pulled straight into the middle of it. To get through this, she must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6709
+  }
+}

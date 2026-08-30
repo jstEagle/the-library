@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05280",
+  "title": "A Letter for the Autopsy",
+  "author": "Mara Crane",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Astrid Hartwell, a retired detective running a failing bookshop, prides themselves on never taking a case they can't close. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. To get through this, she must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "identity",
+    "memory",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5280
+  }
+}

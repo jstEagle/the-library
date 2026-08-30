@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05535",
+  "title": "Freya and the Portrait",
+  "author": "Yara Oyelaran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Mirabel Lockridge, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5535
+  }
+}

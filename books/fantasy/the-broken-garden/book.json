@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01241",
+  "title": "The Broken Garden",
+  "author": "Rafael Sandoval",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Yara Ravensworth, a cartographer of unmapped realms, has spent three years selling small charms in a city that outlawed magic. Then the old gods begin answering prayers again — and he is pulled straight into the middle of it. Now he must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1241
+  }
+}

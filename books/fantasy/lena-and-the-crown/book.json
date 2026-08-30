@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01438",
+  "title": "Lena and the Crown",
+  "author": "Astrid Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Vesper Brightwater, the keeper of a gate that should stay shut, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. To get through this, they must unbind a king from the thing wearing his crown before the long winter finishes falling.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1438
+  }
+}

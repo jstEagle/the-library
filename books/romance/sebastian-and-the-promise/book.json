@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06095",
+  "title": "Sebastian and the Promise",
+  "author": "Zephyrine Sandoval",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Silas Whitlock, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must say the sentence that has been rehearsed for a decade before the vineyard's first harvest comes in.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6095
+  }
+}

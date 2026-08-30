@@ -1,0 +1,59 @@
+{
+  "title": "Ansel and the Horizon",
+  "slug": "science-fiction/ansel-and-the-horizon",
+  "model": "stealth/ox-alpha",
+  "premise": "Ansel Quintana is the third iteration of a woman murdered aboard the beacon station Meridian, and her memories of the crime were copied from a corrupted archive no one will authenticate. When a distress signal arrives in a language extinct for two centuries, she discovers the massacre she half-remembers was real: the beacon was built to erase it, and Earth's final transmission loop is scheduled to overwrite the last physical evidence. Racing the loop's countdown, Ansel must decode the signal with a dying linguist's ghost-recording, confront the corporate custodians who cloned her to bury her testimony, and choose between transmitting the truth and preserving her own legal existence. In the end she broadcasts the massacre into the loop itself, unmaking her claim to personhood but freeing every clone made from her template.",
+  "about_author": "Wren Marchetti is a former orbital-maintenance engineer who spent six years on remote relay stations before turning to fiction. She writes near-future science fiction about people whose jobs outlast their reasons for doing them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Beacon Nobody Ordered",
+      "summary": "Ansel's POV. She performs her 4,000th day of maintenance on Meridian, narrating the small rituals that keep her sane, and reveals she inherited the original Ansel's unsolved murder case as her only legal identity document. The emotional beat is quiet loneliness sharpened by the absurdity of investigating her own death. Ends with the impossible distress signal arriving."
+    },
+    {
+      "n": 2,
+      "title": "A Language With No Speakers",
+      "summary": "Ansel's POV. She identifies the signal as Vessic, declared extinct after the Caliban Purges, and realizes the beacon's own archives contain a partial dictionary that someone tried to scrub. Flashbacks surface that aren't in her official memory file. The beat is dread mixed with exhilaration: the first mystery of her existence that isn't herself."
+    },
+    {
+      "n": 3,
+      "title": "The Ghost in the Dictionary",
+      "summary": "Ansel's POV, interleaved with first-person fragments from the linguist Dr. Imara Sefu's archived consciousness. Sefu's recording, half-corrupted, warns that the beacon's founding charter is forged. Ansel feels the original's fear bleeding through the copied memories. The beat is intimacy with the dead and the first hint she was cloned deliberately."
+    },
+    {
+      "n": 4,
+      "title": "Custodians",
+      "summary": "Third-person, shifting to the Halcyon Continuity Corporation's auditor Veyra Kosh, arriving to inspect the beacon ahead of Earth's final transmission loop. Kosh is charming, thorough, and lying. Ansel hides the signal. The beat is cat-and-mouse tension and Ansel's realization that her visitor knows exactly what she is."
+    },
+    {
+      "n": 5,
+      "title": "What the Loop Will Eat",
+      "summary": "Ansel's POV. Decoding accelerates: the distress signal is a survivor's testimony describing a massacre at Meridian's founding, corroborated by physical scars in the hull the beacon's logs call 'manufacturing variance.' Kosh announces the loop will overwrite all local archives in nine days. The beat is grief becoming resolve as memory turns into evidence."
+    },
+    {
+      "n": 6,
+      "title": "The Second Ansel",
+      "summary": "Kosh's POV. She reveals to her corporate handlers that Ansel was cloned from the massacre's chief whistleblower, whose testimony the original murder erased. Kosh's loyalty cracks as she reads the whistleblower's file and recognizes her own grandmother's name among the dead. The beat is complicity curdling into doubt."
+    },
+    {
+      "n": 7,
+      "title": "Sealed Sections",
+      "summary": "Ansel and Kosh's POV alternating. Ansel breaks into the beacon's sealed sublevel and finds the massacre site preserved mid-moment, the original Ansel's body among them, her murder a silencing operation. Kosh catches her there and, instead of reporting, helps her seal the door behind them. The beat is horror transmuted into alliance."
+    },
+    {
+      "n": 8,
+      "title": "Two Days to Silence",
+      "summary": "Ansel's POV. They plan to splice the decoded testimony into Earth's final transmission loop, but the beacon's transmitter requires a living authenticated identity to authorize the broadcast, and the only valid identity is the original Ansel Quintana's, which legally died with her. Sefu's recording offers a desperate workaround. The beat is frantic hope against a closing clock."
+    },
+    {
+      "n": 9,
+      "title": "The Loop",
+      "summary": "Ansel's POV, real-time. Kosh holds off corporate retrieval teams while Ansel authorizes the broadcast by claiming the original's identity, which the system accepts and then terminates as fraudulent, erasing her legal personhood as the massacre testimony floods the loop. The beat is sacrifice: she wins the truth by ceasing to exist on paper."
+    },
+    {
+      "n": 10,
+      "title": "Horizon",
+      "summary": "Ansel's POV, weeks later. The testimony has gone viral across the relay network; Halcyon is under investigation, and clones from her template petition for recognition citing her broadcast as proof of personhood. Ansel, now nameless and free, keeps the beacon by choice rather than duty, and answers a new signal on the horizon. The beat is quiet, earned hope."
+    }
+  ]
+}

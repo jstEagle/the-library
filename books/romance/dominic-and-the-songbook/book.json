@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06025",
+  "title": "Dominic and the Songbook",
+  "author": "Yara Brightwater",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Gideon Crane, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6025
+  }
+}

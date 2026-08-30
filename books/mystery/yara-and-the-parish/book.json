@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05549",
+  "title": "Yara and the Parish",
+  "author": "Juniper Blackwood",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Sebastian Yarrow, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5549
+  }
+}

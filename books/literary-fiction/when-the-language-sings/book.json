@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04343",
+  "title": "When the Language Sings",
+  "author": "Isandro Eastwick",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Oscar Nystrom, a bridge inspector measuring the marriage in expansion joints, has spent three years practicing the art of almost saying it. Then a childhood home goes up for auction — and he is pulled straight into the middle of it. Now he must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4343
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07163",
+  "title": "Petra and the Orbit",
+  "author": "D. M. Pemberton",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Underhill, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7163
+  }
+}

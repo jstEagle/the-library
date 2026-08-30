@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06012",
+  "title": "Tide and Garden",
+  "author": "Mara Fairweather",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Edmund Coldharbour, a cellist recovering from one catastrophic final performance, has spent twelve years rebuilding a life measured in small safe steps. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6012
+  }
+}

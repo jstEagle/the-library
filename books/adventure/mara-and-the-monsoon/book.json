@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00416",
+  "title": "Mara and the Monsoon",
+  "author": "Marguerite Delacroix",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Zephyrine Winterbourne, a storm chaser who owes money to dangerous optimists, has spent twelve years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, he discovers that staying invisible was never really an option. To get through this, he must follow a river upstream to its forbidden source before the monsoon makes landfall.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 416
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08076",
+  "title": "The Quiet Archive Revisited",
+  "author": "Dominic Okafor",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Cyrus Amberdale, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8076
+  }
+}

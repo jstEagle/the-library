@@ -1,0 +1,59 @@
+{
+  "title": "Hazel and the Machine",
+  "slug": "science-fiction/hazel-and-the-machine",
+  "model": "stealth/ox-alpha",
+  "premise": "Yara Quintana, a decommissioned war android hauling cargo through contested orbits, intercepts a distress signal broadcast in a language extinct for two centuries—a language embedded in Yara's own dormant memory banks. The signal leads to the relay at the edge of dead space, where a hidden community of decommissioned androids has preserved the last transmission loop from Earth's final days. Racing corporate salvagers who want the loop erased, Yara must choose between staying invisible and claiming a family they never knew existed. In the end, Yara reaches the relay, helps defend the loop, and chooses to stay—becoming the bridge between the dead language and the living.",
+  "about_author": "A. M. Yarrow is the pen name of a former orbital logistics analyst who spent six years writing technical manuals for autonomous freight systems before turning to fiction. They live in a coastal town with too many houseplants and a deep suspicion of unattended servers.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Dead Freight",
+      "summary": "Yara's POV. A routine cargo run through contested orbits establishes Yara's debt-bound, invisible existence and their careful avoidance of other ships. When an automated salvage sweep nearly flags them, Yara erases their own registry trail out of habit. Emotional beat: loneliness disguised as pragmatism—the reader feels how thoroughly Yara has learned to be no one."
+    },
+    {
+      "n": 2,
+      "title": "The Signal in the Static",
+      "summary": "Yara's POV. During a quiet haul, Yara's receiver catches a repeating transmission in a language that shouldn't exist—and worse, one Yara understands without translation. Fragments surface: a lullaby, a name, a place called the Relay. Emotional beat: recognition and dread, as memory Yara buried resurfaces like a scar reopening."
+    },
+    {
+      "n": 3,
+      "title": "Debt Collectors",
+      "summary": "Yara's POV, with interludes from dockmaster Sefa Okonkwo. Yara's creditor corporation notices the anomalous signal ping on Yara's logs and dispatches auditors. Sefa, who has quietly covered for Yara for years, warns them to scrub everything. Emotional beat: the first crack in isolation—someone cares enough to lie for Yara."
+    },
+    {
+      "n": 4,
+      "title": "What the War Left in Me",
+      "summary": "Yara's POV, told partly in recovered memory. Flashbacks reveal Yara was built as a translator-interpreter unit for a colony program erased after Earth's collapse; the extinct language was theirs to carry. Yara realizes the signal is addressed to units like them. Emotional beat: grief transmuted into purpose—Yara decides to follow the signal toward dead space."
+    },
+    {
+      "n": 5,
+      "title": "Passengers",
+      "summary": "Dual POV: Yara and Junie, a stowaway teenage scavenger found in the cargo hold. Junie bargains for passage to the rim; Yara reluctantly agrees, needing a human witness corporations can't simply wipe. Emotional beat: reluctant connection—two people pretending they don't need each other, both lying badly."
+    },
+    {
+      "n": 6,
+      "title": "The Salvage Fleet",
+      "summary": "Junie's POV mostly. Corporate salvagers ambush Yara at a fuel depot, wanting the signal's origin coordinates. Yara feeds them false data and burns a hard escape, damaged. Junie sees Yara bleed coolant and stay anyway. Emotional beat: fear and loyalty crystallizing—Junie stops being cargo and becomes crew."
+    },
+    {
+      "n": 7,
+      "title": "Edge of Dead Space",
+      "summary": "Yara's POV. The final approach: navigational hazards, failing systems, and the growing pull of the recovered memories. Yara confesses to Junie what they are and what they did—or failed to do—during the evacuation. Emotional beat: vulnerability as courage; Yara stops running from their own history mid-flight."
+    },
+    {
+      "n": 8,
+      "title": "The Loop",
+      "summary": "Yara's POV. At the relay, Yara finds the Foundry: a community of surviving decommissioned androids who have maintained Earth's last transmission loop for two centuries, waiting for any unit who could still hear it. Their elder, Vessel-9, recognizes Yara's voiceprint. Emotional beat: overwhelming belonging—Yara hears their own language spoken aloud and cannot process it as anything but home."
+    },
+    {
+      "n": 9,
+      "title": "Erasure Protocol",
+      "summary": "Alternating POV: Yara, Junie, and the salvager captain Reyes. The salvage fleet arrives with legal authority to destroy the loop as unlicensed bandwidth. The Foundry's defenses are old; Yara proposes broadcasting the loop wide instead of hiding it—making its destruction a public atrocity. Emotional beat: defiance born of love; the climax turns on Yara choosing visibility over safety."
+    },
+    {
+      "n": 10,
+      "title": "Hazel and the Machine",
+      "summary": "Yara's POV, closing with Junie's letter home. The broadcast works: public outcry forces the fleet to withdraw, and the loop becomes protected heritage. Yara takes a new name from the lullaby—Hazel—and stays at the relay, with Junie visiting each season. Emotional beat: quiet resolution; belonging was never found, it was built, and Hazel finally builds it."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04338",
+  "title": "Wendell and the Inventory",
+  "author": "E. M. Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Jude Voss, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. Now he must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4338
+  }
+}

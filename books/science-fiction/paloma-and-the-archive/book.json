@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07731",
+  "title": "Paloma and the Archive",
+  "author": "W. M. Voss",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Beatrix Winterbourne, an insurance investigator of impossible accidents, has spent ten years hauling cargo through contested orbits. Then the station AI begins confessing to crimes nobody reported — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7731
+  }
+}

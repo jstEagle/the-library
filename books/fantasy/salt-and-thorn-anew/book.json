@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01958",
+  "title": "Salt and Thorn Anew",
+  "author": "Emrys Oyelaran",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Vesper Ashgrove, the last oath-bound swordspeaker, has never left the valley where magic cannot follow. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1958
+  }
+}

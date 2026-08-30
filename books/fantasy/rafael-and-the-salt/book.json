@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01294",
+  "title": "Rafael and the Salt",
+  "author": "August Galloway",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.6,
+  "blurb": "Yara Eriksen, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1294
+  }
+}

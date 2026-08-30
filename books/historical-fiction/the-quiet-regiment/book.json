@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02777",
+  "title": "The Quiet Regiment",
+  "author": "Astrid Hartwell",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Wendell Crane, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, he discovers that staying invisible was never really an option. Now he must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2777
+  }
+}

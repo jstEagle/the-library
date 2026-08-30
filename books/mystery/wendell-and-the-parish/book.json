@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05574",
+  "title": "Wendell and the Parish",
+  "author": "Elodie Thackeray",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wren Coldharbour, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. But when a confession letter arrives postmarked the day after the funeral, she discovers that staying invisible was never really an option. To get through this, she must trap a killer who knows the case file better than the investigators do before the statute expires.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5574
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01019",
+  "title": "August and the Veil",
+  "author": "Coral Sterling",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Oscar Reyes, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. To get through this, they must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1019
+  }
+}

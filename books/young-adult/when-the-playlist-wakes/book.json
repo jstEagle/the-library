@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09978",
+  "title": "When the Playlist Wakes",
+  "author": "Oscar Thornbury",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Orsen Ashgrove, the eldest sibling raising the younger ones while mom works nights, has spent twenty years being so careful it hurts. But when grandma's recipe box contains directions that aren't for food, they discover that staying invisible was never really an option. Now they must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9978
+  }
+}

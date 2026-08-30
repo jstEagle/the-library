@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01325",
+  "title": "Oath and Veil",
+  "author": "Astrid Oyelaran",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Marguerite Voss, a debt-bound temple scribe, has spent three years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1325
+  }
+}

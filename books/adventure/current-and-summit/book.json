@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00015",
+  "title": "Current and Summit",
+  "author": "Ansel Dravenmoor",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ivo Amberdale, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. But when a dying prospector trades a map for a promise, she discovers that staying invisible was never really an option. To get through this, she must bring the expedition home without telling anyone what it found before the dry season ends.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 15
+  }
+}

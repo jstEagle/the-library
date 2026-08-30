@@ -1,0 +1,21 @@
+{
+  "id": "THR-08933",
+  "title": "Marguerite and the Debt",
+  "author": "Sable Oyelaran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.4,
+  "blurb": "Silas Yarrow, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8933
+  }
+}

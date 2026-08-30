@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06069",
+  "title": "A Kitchen for the Postcard",
+  "author": "Petra Eriksen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Felix Lockridge, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. But when the person behind a decade of letters moves in next door, they discover that staying invisible was never really an option. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6069
+  }
+}

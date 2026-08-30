@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02866",
+  "title": "A Typewriter for the Clock",
+  "author": "Freya Sterling",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Felix Eriksen, a widowed lighthouse keeper during the year of the great storms, has spent twenty years learning which silences keep people safe. Then the census taker asks one question too many — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the ice breaks on the river.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2866
+  }
+}

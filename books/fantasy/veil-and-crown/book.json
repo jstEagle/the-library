@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01280",
+  "title": "Veil and Crown",
+  "author": "Edmund Okafor",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Jonah Thornbury, a royal food-taster building immunity one dish at a time, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. To get through this, she must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1280
+  }
+}

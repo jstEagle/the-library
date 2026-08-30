@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01221",
+  "title": "A Thorn for the Wolf",
+  "author": "Wren Kavanagh",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 5.0,
+  "blurb": "Ivo Nystrom, a beast-speaker hiding a forbidden gift, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1221
+  }
+}

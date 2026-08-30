@@ -1,0 +1,21 @@
+{
+  "id": "THR-08548",
+  "title": "A Extraction for the Safehouse",
+  "author": "Zephyrine Okafor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Rafael Blackwood, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8548
+  }
+}

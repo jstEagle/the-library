@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03027",
+  "title": "The Last Ledger Anew",
+  "author": "E. M. Sandoval",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Astrid Marchetti, a typeface cutter's daughter in a print shop on the eve of a revolution, believes history happens to other people, elsewhere. Then the census taker asks one question too many — and they are pulled straight into the middle of it. Now they must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3027
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06502",
+  "title": "Paloma and the Kitchen",
+  "author": "Ulyana Whitlock",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Mara Eastwick, a single parent running the town's only bookshop, has spent seven years rebuilding a life measured in small safe steps. But when the anonymous pen-pal assignment pairs enemies instead of strangers, she discovers that staying invisible was never really an option. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6502
+  }
+}

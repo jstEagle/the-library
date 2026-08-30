@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02671",
+  "title": "Regiment and Bridge",
+  "author": "Rosalind Marchetti",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Orsen Ravensworth, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. But when a child is left at the door with instructions to forget the face, he discovers that staying invisible was never really an option. To get through this, he must choose which family member gets the last berth before the century turns.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2671
+  }
+}

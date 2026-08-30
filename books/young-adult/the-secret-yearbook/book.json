@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09595",
+  "title": "The Secret Yearbook",
+  "author": "Paloma Lockridge",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Jude Sandoval, the eldest sibling raising the younger ones while mom works nights, is fine. Everything is fine. Obviously.. But when a best friend goes missing, leaving only a set of keys behind, they discover that staying invisible was never really an option. To get through this, they must decide who to be when the labels come off before the last game of the season.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9595
+  }
+}

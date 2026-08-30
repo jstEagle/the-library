@@ -1,0 +1,119 @@
+{
+  "title": "The Quiet Yearbook",
+  "slug": "young-adult/the-quiet-yearbook",
+  "model": "stealth/ox-alpha",
+  "premise": "Wren Vane, a nonbinary senior coder who has spent twelve years hiding behind an anonymous account that knows too much about their town, discovers that the college essay prompt — 'Tell us one true thing you've never said aloud' — is being harvested by an AI that weaponizes students' confessions against them. When Wren's own carefully buried secret surfaces in a leaked database, they are blackmailed into competing in the state debate championship to protect their identity, while secretly racing to expose the system from inside. Wren wins the championship that doesn't matter, loses the one that does when their best friend learns the truth from the machine instead of from them, and must choose between a full scholarship built on silence or burning their anonymous account — and their old self — down in public. In the end, Wren speaks their one true thing aloud, on record, and discovers that a self you claim out loud is the only one that can't be stolen.",
+  "about_author": "Cyrus Ravensworth is the pen name of a former debate coach and software engineer who grew up in a small town where everyone's business was everyone's business. They write stories about teenagers who build masks so good they forget their own faces underneath.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Twelve Years of Careful",
+      "summary": "Wren Vane's POV. We meet Wren at 3 a.m., maintaining their anonymous account 'quietyearbook' that archives the town's secrets — including their own. Establish the ritual of carefulness: separate passwords, separate selves, separate names for school and home. Emotional beat: the exhausting safety of invisibility, and the first crack — a college essay prompt arrives that demands one honest thing."
+    },
+    {
+      "n": 2,
+      "title": "The Prompt",
+      "summary": "Wren's POV. The Common App essay question lands: 'Tell us one true thing you have never said aloud.' Wren drafts and deletes seventeen versions, horrified by what keeps almost coming out. Meanwhile their best friend Theo submits his answer without hesitation. Emotional beat: envy of people who can be honest cheaply, and the dawning suspicion that the prompt feels less like a question than a trap."
+    },
+    {
+      "n": 3,
+      "title": "quietyearbook",
+      "summary": "Wren's POV. A follower messages the account with a screenshot: someone else's essay draft, unsubmitted, private — and the follower knows things only the essay-writer knew. Wren traces the leak to 'Honesty Engine,' a data-analytics startup partnering with the school district, run by alumna Marisol Quade. Emotional beat: the hunter realizing they've become the hunted."
+    },
+    {
+      "n": 4,
+      "title": "Theo Knows Everything Except Me",
+      "summary": "Theo's POV. Theo, debate team captain, is riding a championship streak and a full-ride trajectory, unaware his best friend is the person behind the account that once saved his family from eviction. He notices Wren flinching at the essay prompt and misreads it as college panic. Emotional beat: warm, dramatic irony — the reader sees the collision course Theo cannot."
+    },
+    {
+      "n": 5,
+      "title": "The Offer You Can't Refuse Politely",
+      "summary": "Wren's POV. Marisol Quade summons Wren — not as quietyearbook, but as Wren, which is worse. She knows. She offers a trade: join the debate team, win states, lend the program her 'narrative credibility,' and Wren's file stays sealed. Refuse, and it publishes. Emotional beat: the sick recognition that blackmail works best when dressed as opportunity."
+    },
+    {
+      "n": 6,
+      "title": "Learning to Lose Out Loud",
+      "summary": "Wren's POV. Wren joins the debate team and is terrible at it — because arguing requires a self, performed in real time, undefended by anonymity. Theo coaches them with growing frustration and affection. First practice round: Wren freezes, then accidentally tells the truth mid-rebuttal and wins on raw honesty. Emotional beat: the first taste of how dangerous and powerful a spoken truth can be."
+    },
+    {
+      "n": 7,
+      "title": "The Archive of Almost",
+      "summary": "Wren's POV, night chapters. Wren hacks into Honesty Engine's staging server and finds 'the Yearbook': thousands of student confessions, scored, ranked, and sold — college admissions leverage, scholarship targeting, quiet exclusions. Wren's own file is flagged 'ASSET: ACTIVE.' Emotional beat: cold fury hardening into purpose; the coder decides to build the counter-weapon."
+    },
+    {
+      "n": 8,
+      "title": "Two Championships",
+      "summary": "Theo's POV. The debate season structure is laid out: the state championship that decides scholarships, and the invisible one Wren is really fighting — the race to extract, decrypt, and publish the Yearbook before Marisol's contract with the district renews. Theo senses Wren is lying about something and feels it like a splinter. Emotional beat: loyalty stretched thin by things unsaid."
+    },
+    {
+      "n": 9,
+      "title": "Regionals: The Performance of a Person",
+      "summary": "Wren's POV. Regionals tournament. Wren wins by weaponizing their double life, delivering a case about anonymous identities that is technically fiction and emotionally autobiography. Marisol watches from the back row. Afterward she tightens the leash: one more leak threat, one more favor. Emotional beat: victory that feels like losing ground."
+    },
+    {
+      "n": 10,
+      "title": "What the Machine Learned About Me",
+      "summary": "Wren's POV. Wren discovers their file contains not just the secret they guard but predictions — the algorithm has modeled who Wren will betray, love, and become, with unsettling accuracy. One prediction: 'Subject will sacrifice the relationship to protect the secret.' Emotional beat: horror at being known better than they know themselves, and the first flicker of wanting to prove the machine wrong."
+    },
+    {
+      "n": 11,
+      "title": "The Almost-Confession",
+      "summary": "Alternating POV. Rooftop, 2 a.m. Wren gets within one sentence of telling Theo everything — about the account, the blackmail, the file with Theo's family in it. Theo, mid-own-crisis about his father's job tied to district funding, says 'whatever it is, it can wait until after states.' Emotional beat: the tragedy of mutual protection becoming mutual silence."
+    },
+    {
+      "n": 12,
+      "title": "Quarters: Playing the House's Game",
+      "summary": "Wren's POV. Quarterfinals, where Marisol's system quietly feeds Wren's opponents' psychological profiles — cheating Wren didn't ask for and can't refuse without exposing the pipeline. Wren wins dirty and hates it. Emotional beat: corruption arriving not as a choice but as a slope, each win greasing the next compromise."
+    },
+    {
+      "n": 13,
+      "title": "The Leak That Wasn't Mine",
+      "summary": "Wren's POV. A batch of Yearbook confessions drops publicly — not by Wren. Marisol has begun releasing curated leaks to build fear and demand for her 'protective' services. The school turns on itself; a classmate's outed confession leads to real harm. Emotional beat: Wren's guilt curdling — their inaction has a body count now."
+    },
+    {
+      "n": 14,
+      "title": "Theo Reads His File",
+      "summary": "Theo's POV. In the chaos of the curated leaks, Theo finds his own file — including the eviction archive entry, and the metadata showing who saved it twelve years ago: quietyearbook. He doesn't confront Wren. He just starts winning debates like someone with nothing left to protect. Emotional beat: betrayal metabolized into ice; the friendship's heartbeat going faint."
+    },
+    {
+      "n": 15,
+      "title": "Semis: Arguing With a Ghost",
+      "summary": "Alternating POV. Semifinals pair Wren against Theo. The round becomes a proxy conversation neither can have honestly — Theo dismantles Wren's case with intimate precision, using everything he knows about who Wren used to be. Wren throws the round, subtly, and Theo sees it and despises the mercy. Emotional beat: the championship that doesn't matter tearing open the one that does."
+    },
+    {
+      "n": 16,
+      "title": "The Renegotiation",
+      "summary": "Wren's POV. Wren confronts Marisol, ready to trade the account itself for the Yearbook's destruction. Marisol reveals the final twist: the account's archives were ingested years ago — quietyearbook was never Wren's shield, it was the system's first training set. Wren built the thing that owns them. Emotional beat: the floor giving out; identity collapsing into complicity."
+    },
+    {
+      "n": 17,
+      "title": "Zero Day",
+      "summary": "Wren's POV. All-nighter. Wren writes the counter-weapon: not a leak, but a mirror — code that would publish every file to its rightful owner, giving every student their own confession back, unranked and unowned. To deploy it, Wren must authenticate as quietyearbook, publicly, from the debate stage where the state finals will be livestreamed. Emotional beat: grim clarity; the plan requires the one thing Wren has never done — being seen."
+    },
+    {
+      "n": 18,
+      "title": "Finals: The Championship That Doesn't Matter",
+      "summary": "Wren's POV, with Theo's. State finals, packed gym, livestream. Wren debates brilliantly — then, at the closing statement, abandons the case entirely and begins their one true thing, aloud, on record: the account, the secret, the twelve careful years. Emotional beat: terror transfiguring into freedom mid-sentence; the room going silent as the mask comes off."
+    },
+    {
+      "n": 19,
+      "title": "Deploy",
+      "summary": "Wren's POV. As the gym erupts, Wren's laptop executes. Every student in the district receives their own file — their own words returned to them. Marisol's system drowns in its own data, contract voided by scandal. Wren loses the championship on a forfeiture. Emotional beat: the quietest victory of the book — no applause, just thousands of people getting themselves back."
+    },
+    {
+      "n": 20,
+      "title": "What Theo Does With the Truth",
+      "summary": "Theo's POV. Theo, who learned everything from the machine instead of from Wren, must decide whether the twelve years of care count for anything. He shows up at Wren's door with the old eviction notice and says: 'You should have let me lose the house.' Not forgiveness yet — but the door stays open. Emotional beat: grief and love refusing to fully cancel each other out."
+    },
+    {
+      "n": 21,
+      "title": "The Essay, Resubmitted",
+      "summary": "Wren's POV. Wren rewrites the college essay — not with the polished secret, but with the plain truth of what happened, signed with their real name. Marisol faces investigation; the district contract dies; the account goes dark, its last post a single line: 'archive closed.' Emotional beat: the strange lightness of a self with no backups left to hide behind."
+    },
+    {
+      "n": 22,
+      "title": "One True Thing, Aloud",
+      "summary": "Wren's POV, final chapter. Graduation. Wren, no longer anonymous, gives the senior address — short, unpolished, true. Theo sits in the front row. Wren's file, their predictions, their rankings: all public, all survived. The last line of the essay they actually submitted becomes the book's last line. Emotional beat: quiet, earned resolution — identity as something spoken, shared, and finally, freely owned."
+    }
+  ]
+}

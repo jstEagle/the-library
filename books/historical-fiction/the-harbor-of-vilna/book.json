@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02634",
+  "title": "The Harbor of Vilna",
+  "author": "Astrid Yarrow",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Isandro Okonkwo, a typeface cutter's daughter in a print shop on the eve of a revolution, measures the world in what can be carried when the orders come. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. To get through this, they must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2634
+  }
+}

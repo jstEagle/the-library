@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04909",
+  "title": "A Ledger for the Confession",
+  "author": "Wendell Nystrom",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Bram Blackwood, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. But when a confession letter arrives postmarked the day after the funeral, she discovers that staying invisible was never really an option. To get through this, she must untangle alibis woven thirty years ago before the statute expires.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4909
+  }
+}

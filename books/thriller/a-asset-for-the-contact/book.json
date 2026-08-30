@@ -1,0 +1,21 @@
+{
+  "id": "THR-08444",
+  "title": "A Asset for the Contact",
+  "author": "W. M. Marchetti",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "August Okonkwo, an interpreter attached to a peace delegation destined to fail, has spent twenty years following rules that keep getting rewritten. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8444
+  }
+}

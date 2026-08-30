@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05175",
+  "title": "Wren and the Verdict",
+  "author": "Mirabel Zhou",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ivo Iversen, a small-town coroner who knows every grave by name, has spent twenty years keeping the town's secrets filed and alphabetized. But when twin letters arrive: one confessing, one promising more, she discovers that staying invisible was never really an option. Now she must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5175
+  }
+}

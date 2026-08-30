@@ -1,0 +1,21 @@
+{
+  "id": "THR-08987",
+  "title": "Zephyrine and the Deadline",
+  "author": "Paloma Galloway",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Hazel Reyes, a fixer for an embassy that doesn't officially exist, hasn't slept through the night since the incident. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8987
+  }
+}

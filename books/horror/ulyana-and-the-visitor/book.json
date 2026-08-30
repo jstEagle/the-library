@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03782",
+  "title": "Ulyana and the Visitor",
+  "author": "Ines Ashgrove",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Dominic Brightwater, a hospice nurse who hears the dying count backwards, documents everything, because documentation is a kind of prayer. But when every mirror in the house starts reflecting the room one second late, they discover that staying invisible was never really an option. To get through this, they must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "belonging",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3782
+  }
+}

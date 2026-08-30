@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03728",
+  "title": "Isandro and the Room",
+  "author": "Freya Dunmore",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Ada Joubert, a pest controller called to something with fingerprints, has spent seven years telling themselves the noises have explanations. Then the sleep recordings capture a second voice answering questions — and he is pulled straight into the middle of it. To get through this, he must hold out until sunrise with the truth about what was invited in before the frost writes its final pattern.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3728
+  }
+}

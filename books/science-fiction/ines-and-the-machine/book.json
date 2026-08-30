@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08002",
+  "title": "Ines and the Machine",
+  "author": "Orsen Brightwater",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Casper Eastwick, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8002
+  }
+}

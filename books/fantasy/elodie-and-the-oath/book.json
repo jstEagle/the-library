@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00830",
+  "title": "Elodie and the Oath",
+  "author": "Gideon Montrose",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Ansel Thackeray, a thief who steals memories, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 830
+  }
+}

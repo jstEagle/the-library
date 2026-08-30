@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07740",
+  "title": "Ulyana and the Vector",
+  "author": "Silas Okonkwo",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Theo Voss, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7740
+  }
+}

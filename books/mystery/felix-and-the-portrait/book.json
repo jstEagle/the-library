@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05700",
+  "title": "Felix and the Portrait",
+  "author": "Jonah Yarrow",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Silas Amberdale, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. To get through this, they must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5700
+  }
+}

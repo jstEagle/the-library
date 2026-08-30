@@ -1,0 +1,21 @@
+{
+  "id": "THR-09232",
+  "title": "The Cover of Geneva Revisited",
+  "author": "Marguerite Ishikawa",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Orsen Eriksen, a crash investigator whose family died in row twelve, keeps a go-bag packed and a lie polished. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9232
+  }
+}

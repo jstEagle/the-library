@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01390",
+  "title": "The Gilded Thorn",
+  "author": "Oscar Blackwood",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Elodie Oyelaran, a thief who steals memories, has spent three years selling small charms in a city that outlawed magic. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. To get through this, he must find the door out of a country that no longer exists before the usurper's armies reach the free cities.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1390
+  }
+}

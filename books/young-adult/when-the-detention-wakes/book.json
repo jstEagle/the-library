@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09537",
+  "title": "When the Detention Wakes",
+  "author": "Gideon Dravenmoor",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Orsen Underhill, the only out kid in a town of nine hundred, stays under the radar: head down, grades up, locker shut. But when a best friend goes missing, leaving only a set of keys behind, they discover that staying invisible was never really an option. Now they must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9537
+  }
+}

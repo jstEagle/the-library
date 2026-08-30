@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06750",
+  "title": "Promise and Garden",
+  "author": "August Amberdale",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Ivo Voss, a pastry chef whose café is three missed payments from gone, has spent five years rebuilding a life measured in small safe steps. But when a fake date to survive a family reunion feels too real by dessert, she discovers that staying invisible was never really an option. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6750
+  }
+}

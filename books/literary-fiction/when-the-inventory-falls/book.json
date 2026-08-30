@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04524",
+  "title": "When the Inventory Falls",
+  "author": "August Almeida",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Silas Eastwick, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, he discovers that staying invisible was never really an option. Now he must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4524
+  }
+}

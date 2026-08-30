@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03047",
+  "title": "Zephyrine and the Typewriter",
+  "author": "Coral Galloway",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "August Whitlock, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. To get through this, they must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3047
+  }
+}

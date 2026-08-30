@@ -1,0 +1,21 @@
+{
+  "id": "THR-09445",
+  "title": "Wendell and the Drop",
+  "author": "Sable Thornbury",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Silas Galloway, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. To get through this, they must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "belonging",
+    "identity",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9445
+  }
+}

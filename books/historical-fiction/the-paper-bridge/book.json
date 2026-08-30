@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02735",
+  "title": "The Paper Bridge",
+  "author": "Sable Reyes",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Kestrel Ishikawa, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the armistice is signed — or isn't.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2735
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03623",
+  "title": "The Room of the Undercroft",
+  "author": "Paloma Joubert",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Freya Crane, a folklorist recording songs the village refuses to sing twice, doesn't believe, has never believed, will not begin believing now. But when the village's church bell rings although the bell was melted down in 1911, he discovers that staying invisible was never really an option. Now he must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3623
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00903",
+  "title": "A Crown for the Choir",
+  "author": "I. M. Brightwater",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Lena Sandoval, the keeper of a gate that should stay shut, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. To get through this, they must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 903
+  }
+}

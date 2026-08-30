@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00924",
+  "title": "Hazel and the Thorn",
+  "author": "Yara Fairweather",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lena Amberdale, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. But when the border wards fall on the same night the stars go out, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 924
+  }
+}

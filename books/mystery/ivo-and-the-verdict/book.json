@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05599",
+  "title": "Ivo and the Verdict",
+  "author": "Wren Ravensworth",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Astrid Eastwick, a retired detective running a failing bookshop, has spent twelve years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5599
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04660",
+  "title": "The Ordinary Inventory",
+  "author": "Mirabel Dunmore",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Jonah Reyes, a bridge inspector measuring the marriage in expansion joints, has spent five years practicing the art of almost saying it. Then the last speaker of a language asks for one final student — and he is pulled straight into the middle of it. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4660
+  }
+}

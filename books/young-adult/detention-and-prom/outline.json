@@ -1,0 +1,59 @@
+{
+  "title": "Detention and Prom",
+  "slug": "young-adult/detention-and-prom",
+  "model": "stealth/ox-alpha",
+  "premise": "Wendell Thornbury, a seventeen-year-old coder who survived something terrible in middle school by becoming invisible, runs an anonymous account that exposes the rot beneath his small town's beloved Prom tradition. When a group chat called Detention begins posting predictions of disasters that come true, Wendell realizes the chat is tied to the same network he built—and that someone is using it to weaponize his secrets. As the final audition for Prom Court approaches, Wendell must choose between staying safe and saving both the tradition and the girl who saw him first, ending with him surrendering his anonymity to testify, dismantling the corrupt committee that ran Detention, and accepting that being seen is the price of being loved.",
+  "about_author": "Wren Reyes grew up in a town where one night a year mattered more than all the others, and never quite got over it. They write stories about quiet kids who learn that silence has a bill attached.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Everything Is Fine",
+      "summary": "POV Wendell. Wendell navigates senior year as a ghost: perfect grades, zero friends, and a secret anonymous account that's been quietly exposing the Prom Committee's financial fraud. The chapter establishes his survival rules and ends when a group chat he never joined—called Detention—sends him its first message: a prediction that comes true within hours."
+    },
+    {
+      "n": 2,
+      "title": "The Group Chat That Knows",
+      "summary": "POV Wendell. Detention posts again—predicting a fire drill, then a teacher's resignation—each accurate to the minute. Wendell traces the messages and finds they route through servers he recognizes: fragments of code from his own abandoned project. He tells no one, but Priya Nair, the one classmate who talks to him, notices him shaking."
+    },
+    {
+      "n": 3,
+      "title": "Prom Court Rules",
+      "summary": "POV Priya. Priya, running for Prom Court on a platform to reform the tradition, pulls Wendell into her orbit as her tech volunteer. Through her eyes we see the town's worship of Prom and the audition gauntlet candidates endure. She suspects the Committee is rigging votes; she doesn't know Wendell already has proof."
+    },
+    {
+      "n": 4,
+      "title": "Detention Has Attendance",
+      "summary": "POV Wendell. Detention adds new members—popular kids who receive eerily personal 'predictions' about their own futures. One candidate withdraws from Prom Court after a prediction about her family goes public. Wendell realizes someone is feeding the chat real data about real people, and his fingerprints are on the pipeline."
+    },
+    {
+      "n": 5,
+      "title": "The Archive",
+      "summary": "POV Wendell. Digging into the Committee's old servers, Wendell finds decades of records: bribes, fixed auditions, and a cover-up connected to the incident that made him invisible in eighth grade. Detention messages him directly for the first time: 'You built this. We're just using it.' He burns the evidence rather than hand it over."
+    },
+    {
+      "n": 6,
+      "title": "Audition Day",
+      "summary": "POV Priya. Priya's audition becomes a spectacle when Detention leaks embarrassing predictions about every candidate mid-performance—including one about Wendell that outs his anonymous account to the whole gymnasium. Humiliated and furious, Priya confronts him: he knew, and he said nothing."
+    },
+    {
+      "n": 7,
+      "title": "What Survival Cost",
+      "summary": "POV Wendell. Stripped of invisibility, Wendell finally tells Priya the full story—the eighth-grade incident, why he went dark, how his exposure tool became Detention's weapon. She doesn't forgive him immediately, but she offers something better: a plan to turn Detention's own predictive engine against the people running it before the final audition."
+    },
+    {
+      "n": 8,
+      "title": "Counter-Programming",
+      "summary": "POV alternating Wendell/Priya. The pair recruit the withdrawn candidate and a disillusioned Committee insider, racing to trace Detention's operator before the final audition. A trap they set half-works: they unmask a teacher, but discover he's a middleman, and Detention escalates by predicting something catastrophic for prom night itself."
+    },
+    {
+      "n": 9,
+      "title": "Final Audition",
+      "summary": "POV Wendell. At the final audition, Detention triggers its endgame—a staged disaster meant to destroy the tradition and bury the evidence forever. Wendell walks onstage instead of hiding, streams the Committee's archive live, and names names, including his own role in building the machine. The auditorium turns on the true operators as Detention's operator is revealed among them."
+    },
+    {
+      "n": 10,
+      "title": "After the Last Dance",
+      "summary": "POV Priya. In the aftermath, the town reckons with what Prom was built on; a reformed committee forms with Priya at its head and Wendell, no longer anonymous, doing the books in the open. Detention goes silent, its purpose served. At the rescheduled prom, Wendell asks Priya to dance—not because it's tradition, but because he chose to be seen."
+    }
+  ]
+}

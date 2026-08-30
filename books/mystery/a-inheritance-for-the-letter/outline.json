@@ -1,0 +1,29 @@
+{
+  "title": "A Inheritance for the Letter",
+  "slug": "mystery/a-inheritance-for-the-letter",
+  "model": "stealth/ox-alpha",
+  "premise": "Gideon Voss, the famously invisible concierge of the Hotel Meridian, is hired to find a vanished guest, Clara Ives—but Clara's diary keeps being written in her own hand after her disappearance. Following entries that reference hotel rooms, staff rosters, and a ledger of debts hidden in the guest register itself, Gideon realizes Clara staged her vanishing to expose a trafficking ring run by the hotel's beloved owner, who once saved Gideon from the streets and now demands her silence as repayment. In the climax, Gideon trades her hard-won invisibility for testimony, decoding the final diary entry to locate Clara alive in the hotel's sealed east wing; the owner falls, and Gideon—no longer a ghost but a person with a name people know—chooses to stay, finally belonging somewhere she was only ever supposed to pass through.",
+  "about_author": "Theo Dravenmoor spent a decade working night desks in grand European hotels before turning to crime fiction, collecting the small betrayals and quiet kindnesses of transient lives. He writes from a coastal apartment he refuses to photograph, believing every good mystery begins with someone watching the lobby.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Guest Who Checked Out of Herself",
+      "summary": "Gideon's POV. A routine missing-persons favor for a police contact introduces Clara Ives, room 412, gone eleven days without settling her bill. Gideon retrieves Clara's abandoned diary from lost-and-found and notices the handwriting continues three days past the disappearance date. Emotional beat: professional curiosity curdling into unease—the first crack in Gideon's belief that she sees everything."
+    },
+    {
+      "n": 2,
+      "title": "Entries Written by No One",
+      "summary": "Gideon's POV, intercut with diary excerpts. The post-disappearance entries describe hotel life with intimate accuracy—staff gossip, a red umbrella, the owner Mr. Aldous Wren's nightly rounds—suggesting either forgery or a witness hiding inside the building. Cross-referencing the diary against the guest ledger, Gideon finds recurring initials marking rooms where guests vanished quietly over years. Emotional beat: dread, and the first pull between duty to the hotel and duty to the truth."
+    },
+    {
+      "n": 3,
+      "title": "The Ledger in Plain Sight",
+      "summary": "Gideon's POV. Decoding the ledger, she maps the pattern to Wren's 'placement service' moving vulnerable guests out—and discovers Wren knew about her own rescued past all along, his kindness a leash. Confronted privately, Wren offers her promotion and protection if she returns the diary. That night, a new entry appears: 'He knows you're reading.' Emotional beat: betrayal and terror; love and loyalty weaponized against her."
+    },
+    {
+      "n": 4,
+      "title": "Room 412, Occupied",
+      "summary": "Gideon's POV, climax and resolution. The final decoded entry points to the sealed east wing, where Gideon finds Clara alive, self-imprisoned until she had proof. Choosing exposure over safety, Gideon hands the ledger to the police, testifying despite Wren's plea to their shared history. Weeks later, guests greet her by name; Clara checks back in. Emotional beat: grief for the invisible self, then the quiet warmth of belonging on purpose."
+    }
+  ]
+}

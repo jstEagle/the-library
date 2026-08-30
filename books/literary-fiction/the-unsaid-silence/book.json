@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04442",
+  "title": "The Unsaid Silence",
+  "author": "Freya Villalobos",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Edmund Kavanagh, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. Then a song on the radio is one that was written and never recorded — and he is pulled straight into the middle of it. To get through this, he must translate the untranslatable sentence and live with it before the mother's memory goes entirely.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4442
+  }
+}

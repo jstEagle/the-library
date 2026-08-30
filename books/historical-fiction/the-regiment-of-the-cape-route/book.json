@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03050",
+  "title": "The Regiment of the Cape Route",
+  "author": "Lena Lockridge",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Oscar Thornbury, an apprentice clockmaker summoned to repair the observatory's master clock, keeps a low profile and busy hands. But when a child is left at the door with instructions to forget the face, they discover that staying invisible was never really an option. Now they must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3050
+  }
+}

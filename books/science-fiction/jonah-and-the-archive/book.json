@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08023",
+  "title": "Jonah and the Archive",
+  "author": "Juniper Thackeray",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Ivo Joubert, a decommissioned war android paying off its debts, has spent seven years hauling cargo through contested orbits. Then gravity flickers across the entire system for exactly nine seconds — and she is pulled straight into the middle of it. To get through this, she must reach the relay at the edge of dead space, racing the signal before the reactor finishes its countdown.",
+  "themes": [
+    "memory",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8023
+  }
+}

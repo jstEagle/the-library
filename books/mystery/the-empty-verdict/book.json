@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05519",
+  "title": "The Empty Verdict",
+  "author": "Theo Dravenmoor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Bram Hartwell, a retired detective running a failing bookshop, has spent ten years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. To get through this, he must untangle alibis woven thirty years ago before the trial begins.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5519
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06273",
+  "title": "A Summer for the Promise",
+  "author": "Beatrix Joubert",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Ines Zhou, a pastry chef whose café is three missed payments from gone, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. To get through this, they must say the sentence that has been rehearsed for a decade before the last ferry of the season departs.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6273
+  }
+}

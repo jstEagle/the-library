@@ -1,0 +1,21 @@
+{
+  "id": "THR-08841",
+  "title": "A Cipher for the Safehouse",
+  "author": "Tamsin Reyes",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Sebastian Yarrow, a hostage negotiator with one failure still on the board, has spent twelve years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. Now they must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8841
+  }
+}

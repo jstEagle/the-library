@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00970",
+  "title": "August and the Wolf",
+  "author": "I. M. Thackeray",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Casper Blackwood, a thief who steals memories, has spent twelve years selling small charms in a city that outlawed magic. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 970
+  }
+}

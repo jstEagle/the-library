@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03656",
+  "title": "When the Well Sings",
+  "author": "Jonah Ashgrove",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Felix Fairweather, a radio host taking calls from listeners who died last week, doesn't believe, has never believed, will not begin believing now. But when all the photographs from grandma's house now include an extra chair, they discover that staying invisible was never really an option. To get through this, they must finish the ritual the founders started before the frost writes its final pattern.",
+  "themes": [
+    "identity",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3656
+  }
+}

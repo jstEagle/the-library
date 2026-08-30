@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00961",
+  "title": "The Broken Thorn",
+  "author": "Xanthe Sterling",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ulyana Quintana, an exiled storm-caller, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, he discovers that staying invisible was never really an option. To get through this, he must steal back a soul sold to the court beneath the mountain before the moon completes its thirteenth turn.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 961
+  }
+}

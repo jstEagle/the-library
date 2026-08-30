@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05099",
+  "title": "Lior and the Autopsy",
+  "author": "Sable Reyes",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Felix Iversen, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and they are pulled straight into the middle of it. To get through this, they must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5099
+  }
+}

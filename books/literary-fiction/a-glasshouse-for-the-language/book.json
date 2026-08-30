@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04228",
+  "title": "A Glasshouse for the Language",
+  "author": "Vesper Iversen",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Felix Thackeray, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. Then a box of undelivered letters surfaces behind a wardrobe — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4228
+  }
+}

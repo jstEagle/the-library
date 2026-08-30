@@ -1,0 +1,21 @@
+{
+  "id": "THR-08766",
+  "title": "Lior and the Cover",
+  "author": "Ansel Voss",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Freya Zhou, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8766
+  }
+}

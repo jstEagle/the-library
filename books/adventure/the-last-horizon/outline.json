@@ -1,0 +1,59 @@
+{
+  "title": "The Last Horizon",
+  "slug": "adventure/the-last-horizon",
+  "model": "stealth/ox-alpha",
+  "premise": "Noor Zhou, a disgraced mountain guide blacklisted after an expedition disaster she may or may not have caused, is hired off the books to find a government survey team that vanished in the Karakol Range. Following their abandoned gear and impossible tracks, she uncovers that the team found something buried in the ice—a pre-war cache of survey data worth enough to buy every life on the mountain—and that her own past debt is tied to the man who sent the team to die. As the snows close in and rival factions hunt the same prize, Noor must choose between selling the truth for her freedom or destroying it to protect the valley communities below. She burns the cache at the summit pass, trading her last chance at redemption for the survival of people who will never know her name.",
+  "about_author": "F. M. Ravensworth is the pen name of a former expedition logistics coordinator who spent eleven years outfitting high-altitude teams before turning to fiction. They write from a small town at the foot of mountains they no longer climb.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Debt Collector's Map",
+      "summary": "Noor's POV. Working under a false name in a border town, Noor is cornered by Voss, a fixer holding her old debt, who offers erasure of her blacklist in exchange for finding the vanished survey team. Emotional beat: reluctant entrapment—she takes the job knowing it smells like a trap."
+    },
+    {
+      "n": 2,
+      "title": "Gear With No Ghosts",
+      "summary": "Noor's POV. At the base camp she finds the team's tents intact, food untouched, radios dead, and a single boot print ending mid-slope. A dying junior guide, Sefa, whispers about 'the room under the glacier' before losing consciousness. Emotional beat: dread sharpening into obsession."
+    },
+    {
+      "n": 3,
+      "title": "What the Ice Keeps",
+      "summary": "Noor's POV, with flashbacks to the expedition that ruined her. She follows a crevasse line to a fissure glowing with old floodlights—a buried Cold War-era survey station, its records vault sealed. Someone else has been here recently. Emotional beat: awe curdling into fear of being watched."
+    },
+    {
+      "n": 4,
+      "title": "The Second Party",
+      "summary": "Alternating POV: Noor and Ilya, leader of a private security team also hunting the station. Noor spots their tracks and realizes Voss sent multiple teams—the others are expendable witnesses. She saves Ilya's rival scout from a crevasse to gain leverage. Emotional beat: wary alliance over shared suspicion."
+    },
+    {
+      "n": 5,
+      "title": "Blacklist",
+      "summary": "Noor's POV. In a storm shelter, Ilya reveals he knew her old teammate Dario—and that the disaster that blacklisted her was engineered so Voss could claim the station's location from Dario's maps. Her exile was purchased. Emotional beat: rage and grief reframing her entire identity."
+    },
+    {
+      "n": 6,
+      "title": "The Room Under the Glacier",
+      "summary": "Noor's POV. They breach the vault: thousands of pages documenting water rights, mineral seams, and village locations—data that would let any government or company displace the valley communities. Ilya wants to sell it; Noor sees her own erased history in its logic. Emotional beat: moral vertigo."
+    },
+    {
+      "n": 7,
+      "title": "Voss Ascending",
+      "summary": "Ilya's POV. Voss arrives by helicopter with armed men, revealing Ilya was his informant all along. He offers Noor full pardon and wealth if she surrenders the vault key. She stalls as the first blizzard front hits. Emotional beat: temptation offered at the exact moment of maximum exhaustion."
+    },
+    {
+      "n": 8,
+      "title": "Whiteout",
+      "summary": "Noor's POV. The storm traps everyone at the station. Voss's men turn on each other; Ilya, guilt-ridden, gives Noor the key and covers her escape, taking a bullet meant for her. She climbs toward the pass through whiteout using memory alone. Emotional beat: sacrifice and solitary resolve."
+    },
+    {
+      "n": 9,
+      "title": "The Last Horizon",
+      "summary": "Noor's POV. At the summit pass, hunted and frostbitten, she feeds the vault records into the station's incinerator chute as Voss arrives too late. He offers everything one final time; she answers by stepping onto the descent route as the papers burn. Emotional beat: costly, quiet triumph."
+    },
+    {
+      "n": 10,
+      "title": "Snowmelt",
+      "summary": "Noor's POV, months later. Blacklisted still, debt unpaid, she guides villagers through safe passes for food instead of money. Sefa recovers; the valleys remain unclaimed because the data no longer exists. Voss's empire fractures without its prize. Emotional beat: peace bought at the price of everything she wanted back."
+    }
+  ]
+}

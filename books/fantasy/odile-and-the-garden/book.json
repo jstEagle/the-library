@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02058",
+  "title": "Odile and the Garden",
+  "author": "Ansel Quintana",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Odile Villalobos, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2058
+  }
+}

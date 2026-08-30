@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09573",
+  "title": "A Group Chat for the Yearbook",
+  "author": "Juniper Delacroix",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Theo Sandoval, the team's statistician who knows the game is rigged, is fine. Everything is fine. Obviously.. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. Now he must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9573
+  }
+}

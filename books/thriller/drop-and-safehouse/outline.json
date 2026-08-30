@@ -1,0 +1,59 @@
+{
+  "title": "Drop and Safehouse",
+  "slug": "thriller/drop-and-safehouse",
+  "model": "stealth/ox-alpha",
+  "premise": "Quentin Fairweather, a disgraced hostage negotiator haunted by a botched standoff, is pulled back in when a dead colleague's voiceprint unlocks a hidden server containing proof that a Frankfurt banking consortium orchestrated the 'incident' that broke him. Hunted by private security contractors and betrayed by the mentor who trained him, Quentin must decide whether to sell the data to save their own skin or expose it and burn every bridge left. Trading the secret to an insider whistleblower at dawn, Quentin triggers the market collapse that finally brings justice—outside any courtroom—and earns, if not peace, at least the first full night's sleep in three years.",
+  "about_author": "Emrys Thornbury is the pen name of a former crisis-line counselor who spent a decade listening to people talk each other off ledges. They write thrillers about the terrible arithmetic of saving lives, and live quietly somewhere with unreliable cell service.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Voice on Line Two",
+      "summary": "POV: Quentin. Three years after the Marlowe Tower failure, Quentin works nights screening calls for a debt-collection firm, sleeping in shifts. A routine call plays a fragment of audio—the voice of Dana Reyes, the negotiator who died in the incident—reciting a string of numbers before hanging up. Emotional beat: dread reawakened; the past knocking with a specific address."
+    },
+    {
+      "n": 2,
+      "title": "Cold Storage",
+      "summary": "POV: Quentin. Following the numbers to a decommissioned data center outside Rotterdam, Quentin uses a preserved recording of Dana's voice to pass biometric locks and finds an encrypted drive: transaction logs linking the Marlowe gunman's financing to Meridian Concord, a Frankfurt-based consortium. Emotional beat: vertigo of discovery—the 'incident' was purchased, not random."
+    },
+    {
+      "n": 3,
+      "title": "Housekeeping",
+      "summary": "POV: Ilsa Brandt, Meridian's head of security. Brandt learns the Rotterdam server pinged and dispatches contractors, ordering it framed as industrial espionage. She reviews Quentin's file and marks them 'manageable.' Emotional beat: cold institutional menace; we see how power treats people as line items."
+    },
+    {
+      "n": 4,
+      "title": "Old Handler",
+      "summary": "POV: Quentin. Out of options, Quentin contacts Marcus Vey, the retired FBI legend who trained them both, and hands over copies of the logs. Vey seems to believe them—but asks pointed questions about where the originals are kept. Emotional beat: fragile trust; the warmth of being believed for the first time in years."
+    },
+    {
+      "n": 5,
+      "title": "Safehouse Rules",
+      "summary": "POV: Quentin. Vey stashes Quentin in a rural safehouse with a young hacker, Noor, who decrypts the final layer: a schedule showing Meridian will move the slush fund through Frankfurt markets at Friday's open. Contractors hit the house early; Noor and Quentin barely escape. Emotional beat: paranoia sharpening into resolve; loyalty tested under fire."
+    },
+    {
+      "n": 6,
+      "title": "What Dana Knew",
+      "summary": "POV: Quentin, intercut with recovered recordings. Flashback structure reveals Dana had found the same trail and was killed arranging this very handoff—Quentin was meant to inherit it all along. The realization reframes the guilt: the failure wasn't theirs alone. Emotional beat: grief transmuting into purpose."
+    },
+    {
+      "n": 7,
+      "title": "The Price of Quiet",
+      "summary": "POV: Ilsa Brandt. Meridian offers Quentin immunity, money, and erasure of the Marlowe record in exchange for the original drive. Simultaneously, Vey urges Quentin to take it, revealing he's been on Meridian's retainer for years. Emotional beat: corruption laid bare; the seductive logic of selling out dressed as mercy."
+    },
+    {
+      "n": 8,
+      "title": "Frankfurt, 4 A.M.",
+      "summary": "POV: Quentin. Quentin goes to meet Brandt ostensibly to deal, but instead passes the drive to Ansel Roth, a Meridian insider turned regulator informant, while Noor floods the consortium's servers with the logs. Vey tries to stop them; Quentin talks him down using the negotiation skills that once failed. Emotional beat: climax—the negotiator finally wins one, without a gun."
+    },
+    {
+      "n": 9,
+      "title": "Market Open",
+      "summary": "POV: Multiple brief POVs—Brandt, Roth, a trader, Quentin watching screens. As Frankfurt opens, the leaked filings trigger investigations, frozen accounts, and Meridian's unraveling; Brandt resigns rather than fall, Vey turns state's evidence. Emotional beat: cascading consequences; justice arriving sideways, imperfect but real."
+    },
+    {
+      "n": 10,
+      "title": "First Sleep",
+      "summary": "POV: Quentin. Months later, Quentin testifies from behind glass, then visits Dana's grave with the truth finally on record. They decline offers to return to negotiation and instead volunteer on a crisis line, taking a call at 3 a.m. and getting it right. That night, they sleep until morning. Emotional beat: quiet resolution—loyalty to the truth honored, guilt set down."
+    }
+  ]
+}

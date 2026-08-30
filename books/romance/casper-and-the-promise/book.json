@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06053",
+  "title": "Casper and the Promise",
+  "author": "Ada Villalobos",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Vesper Thackeray, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6053
+  }
+}

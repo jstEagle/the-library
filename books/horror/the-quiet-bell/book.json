@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03822",
+  "title": "The Quiet Bell",
+  "author": "Elodie Quintana",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Pemberton, a twin who came home to bury the wrong sibling, keeps the lights on and the doors counted. Then all the photographs from grandma's house now include an extra chair — and she is pulled straight into the middle of it. Now she must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3822
+  }
+}

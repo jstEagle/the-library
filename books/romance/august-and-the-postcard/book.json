@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06955",
+  "title": "August and the Postcard",
+  "author": "Y. M. Dravenmoor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Odile Zhou, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and he is pulled straight into the middle of it. To get through this, he must risk the whole heart instead of lending pieces before the bakery lease runs out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6955
+  }
+}

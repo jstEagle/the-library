@@ -1,0 +1,59 @@
+{
+  "title": "Silas and the Passage",
+  "slug": "adventure/silas-and-the-passage",
+  "model": "stealth/ox-alpha",
+  "premise": "Railroad engineer Dominic Sandoval survives by mapping closed lines and vanishing before anyone asks questions. When the river floods and surrenders a chest bearing the seal of a nation that no longer exists, he becomes the only living man who can read its survey notes — and the only one who knows what lies beneath the pass everyone is fighting to control. Pursued by a former employer who wants the route buried and a ragtag crew who slowly become the family he never allowed himself, Dominic must choose between destroying the truth and carrying it over the range before the snows seal the pass. He crosses, but only by surrendering the map itself, trading his invisibility for a home among the people who refused to abandon him.",
+  "about_author": "Edmund Pemberton is a former surveyor's apprentice who spent a decade walking decommissioned rail grades across three continents before turning to fiction. He writes adventure novels about people who measure the world to avoid being measured by it.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Water Gives Back",
+      "summary": "Third-person limited, Dominic. A spring flood undermines a trestle he was hired to inspect, and the receding water exposes a rusted chest wedged in the riverbed. He opens it against his better judgment and finds survey plates stamped with a seal from a country that dissolved thirty years ago. The beat is dread: he recognizes the handwriting and knows exactly whose it is."
+    },
+    {
+      "n": 2,
+      "title": "A Man Who Owns Nothing",
+      "summary": "Dominic's POV. He burns what he can and packs the plates anyway, telling himself it's curiosity. A telegram arrives from Aldous Vane, the magnate who ruined his last employer, offering a fortune for 'any historical documents recovered from the washout.' The beat is temptation and self-deception: Dominic has always sold things he shouldn't have kept."
+    },
+    {
+      "n": 3,
+      "title": "The Crew at Mile Forty-Seven",
+      "summary": "Third-person limited, rotating briefly to Ilsa, a bridge foreman. Dominic takes a low-paying repair job to hide in plain sight and falls in with a skeleton crew: Ilsa, the superstitious driller Tomas, and runaway apprentice Wren. The beat is warmth he resists; for the first time in years, someone notices when he doesn't eat."
+    },
+    {
+      "n": 4,
+      "title": "What the Plates Show",
+      "summary": "Dominic's POV. Working nights, he reconstructs the old survey and discovers the sealed route doesn't just cross the range — it tunnels through a fault the dead nation's engineers died proving was unstable. Vane's men arrive asking questions. The beat is the first collision of loyalty and truth: telling the crew means endangering them; silence means the tunnel gets built."
+    },
+    {
+      "n": 5,
+      "title": "Vane's Offer",
+      "summary": "Third-person limited, Vane. Vane corners Dominic at a waystation and makes the pitch explicit: sell the plates, and the past stays past. He reveals he knows Dominic's real name and the accident that made him a fugitive. The beat is corruption as seduction — Vane isn't a monster, he's reasonable, and that's worse. Dominic takes the money and keeps the plates."
+    },
+    {
+      "n": 6,
+      "title": "The Dry Season Turns",
+      "summary": "Dominic's POV. Vane's crews begin blasting the pass approach, and an early blast triggers a slide that nearly kills Tomas. Dominic confesses what the plates show to Ilsa and Wren. Instead of turning him in, they decide to carry the evidence over the range to the surveyor's archive in the capital. The beat is found family crystallizing into a shared, dangerous purpose."
+    },
+    {
+      "n": 7,
+      "title": "Up Before the Snows",
+      "summary": "Third-person limited, Wren. The five set out on foot with the plates sewn into Wren's coat, racing the season's first storm. Vane's riders shadow them. A river crossing costs them their supplies and nearly Wren, and Dominic's old instinct — cut loose, travel light, survive alone — wars with the fact that he refuses to leave them. The beat is commitment under pressure."
+    },
+    {
+      "n": 8,
+      "title": "The Fault Line",
+      "summary": "Dominic's POV. Trapped in the old dead nation's unfinished tunnel by the storm, they find the original crew's camp, preserved, and the surveyor's final letter confirming the fault is active. Vane's men catch up; in the standoff, Tomas is shot shielding the plates. The beat is grief and fury, and Dominic realizing Vane will never stop — the truth has to reach the archive, not just outrun one man."
+    },
+    {
+      "n": 9,
+      "title": "The Crossing",
+      "summary": "Third-person limited, Ilsa. The climax: with the pass closing, they trigger a controlled collapse using the dead engineers' own charges, sealing the fault route forever and burying Vane's riders' pursuit — and, Dominic believes, any chance of proving anything. They cross the range in the storm's last hours. The beat is sacrifice: the map is gone, but the people are not."
+    },
+    {
+      "n": 10,
+      "title": "A Man Who Owns Something",
+      "summary": "Dominic's POV. In the capital, the archive proves more than they hoped — the surveyor's letter survived in Wren's coat, and Vane's project dies in committee. Vane, ruined, offers one last bargain; Dominic declines by simply walking away. The crew takes a contract rebuilding a mountain branch line together. The beat is resolution: the man who owned nothing now has a name worth signing."
+    }
+  ]
+}

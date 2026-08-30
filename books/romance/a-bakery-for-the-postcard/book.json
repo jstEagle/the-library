@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06037",
+  "title": "A Bakery for the Postcard",
+  "author": "Marguerite Amberdale",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ulyana Montrose, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. But when a fake date to survive a family reunion feels too real by dessert, they discover that staying invisible was never really an option. To get through this, they must say the sentence that has been rehearsed for a decade before the last ferry of the season departs.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6037
+  }
+}

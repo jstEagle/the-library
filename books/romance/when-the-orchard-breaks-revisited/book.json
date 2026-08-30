@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06866",
+  "title": "When the Orchard Breaks Revisited",
+  "author": "S. M. Vane",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Beatrix Amberdale, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the vineyard's first harvest comes in.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6866
+  }
+}

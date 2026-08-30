@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01236",
+  "title": "Wolf and Sigil",
+  "author": "I. M. Marchetti",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Hazel Voss, the last oath-bound swordspeaker, has spent ten years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1236
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06150",
+  "title": "Gideon and the Songbook",
+  "author": "Jonah Iversen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Ivo Lockridge, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. Then a lost letter surfaces, postmarked eleven years ago — and he is pulled straight into the middle of it. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6150
+  }
+}

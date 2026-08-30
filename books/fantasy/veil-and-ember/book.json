@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01316",
+  "title": "Veil and Ember",
+  "author": "Vesper Vane",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Cyrus Amberdale, a thief who steals memories, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. To get through this, she must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1316
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01744",
+  "title": "Orsen and the Crown Anew",
+  "author": "Gideon Quintana",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Tamsin Ravensworth, a beast-speaker hiding a forbidden gift, has spent three years selling small charms in a city that outlawed magic. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1744
+  }
+}

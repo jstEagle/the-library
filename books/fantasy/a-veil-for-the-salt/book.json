@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01731",
+  "title": "A Veil for the Salt",
+  "author": "Lena Halloran",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Noor Oyelaran, the keeper of a gate that should stay shut, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1731
+  }
+}

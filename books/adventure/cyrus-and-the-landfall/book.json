@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00424",
+  "title": "Cyrus and the Landfall",
+  "author": "D. M. Reyes",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Cyrus Eriksen, a salvage diver working a wreck the navy won't discuss, carries a compass, a debt, and very little else. But when the tide reveals a cave that legends charge admission to, they discover that staying invisible was never really an option. To get through this, they must beat the salvage fleet to the wreck by six tides before the dry season ends.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 424
+  }
+}

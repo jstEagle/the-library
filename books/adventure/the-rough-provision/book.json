@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00034",
+  "title": "The Rough Provision",
+  "author": "Vesper Eriksen",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Tamsin Okonkwo, a mountain guide blacklisted from two countries, carries a compass, a debt, and very little else. Then a government survey team vanishes, leaving gear and no tracks — and they are pulled straight into the middle of it. Now they must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 34
+  }
+}

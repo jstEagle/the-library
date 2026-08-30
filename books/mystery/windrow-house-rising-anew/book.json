@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05797",
+  "title": "Windrow House Rising Anew",
+  "author": "Rosalind Dravenmoor",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Coral Hartwell, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. Then the town's beloved founder is exhumed and the coffin is empty — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "identity",
+    "found family",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5797
+  }
+}

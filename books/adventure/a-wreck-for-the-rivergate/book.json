@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00384",
+  "title": "A Wreck for the Rivergate",
+  "author": "Hazel Dunmore",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Hazel Thornbury, a bush pilot flying medicine and rumors into the interior, carries a compass, a debt, and very little else. But when a dying prospector trades a map for a promise, she discovers that staying invisible was never really an option. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the concession permits expire.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 384
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07805",
+  "title": "Sebastian and the Echo",
+  "author": "Tamsin Nystrom",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Mirabel Thackeray, an insurance investigator of impossible accidents, has spent five years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. To get through this, they must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7805
+  }
+}

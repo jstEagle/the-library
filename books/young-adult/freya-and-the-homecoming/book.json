@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09512",
+  "title": "Freya and the Homecoming",
+  "author": "Ines Delacroix",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Xanthe Nakamura, a coder whose anonymous account knows too much, is fine. Everything is fine. Obviously.. But when the teacher pairs nemesis with nemesis for a semester-long project, she discovers that staying invisible was never really an option. Now she must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9512
+  }
+}

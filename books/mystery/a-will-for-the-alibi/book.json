@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04825",
+  "title": "A Will for the Alibi",
+  "author": "E. M. Lockridge",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Isandro Nystrom, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. To get through this, she must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4825
+  }
+}

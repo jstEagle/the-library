@@ -1,0 +1,21 @@
+{
+  "id": "THR-09348",
+  "title": "Petra and the Ghost",
+  "author": "Mirabel Ravensworth",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Isandro Sandoval, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9348
+  }
+}

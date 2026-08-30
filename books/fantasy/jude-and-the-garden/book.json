@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01732",
+  "title": "Jude and the Garden",
+  "author": "Marguerite Crane",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Quentin Joubert, a thief who steals memories, has spent twenty years selling small charms in a city that outlawed magic. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1732
+  }
+}

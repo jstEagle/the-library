@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08161",
+  "title": "Sector Nine Rising Anew",
+  "author": "O. M. Iversen",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ivo Galloway, a clone who inherited the original's murder case, maintains the beacon nobody remembers commissioning. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. To get through this, they must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8161
+  }
+}

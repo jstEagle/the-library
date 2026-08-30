@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02157",
+  "title": "The Midnight Crown Anew",
+  "author": "Noor Ishikawa",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Vesper Voss, a thief who steals memories, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2157
+  }
+}

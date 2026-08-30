@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01551",
+  "title": "Paloma and the Salt",
+  "author": "Tamsin Fairweather",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ulyana Thackeray, the last oath-bound swordspeaker, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1551
+  }
+}

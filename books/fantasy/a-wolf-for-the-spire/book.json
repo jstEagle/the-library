@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00852",
+  "title": "A Wolf for the Spire",
+  "author": "Jonah Iversen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jude Lockridge, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. To get through this, she must steal back a soul sold to the court beneath the mountain before the moon completes its thirteenth turn.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 852
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01166",
+  "title": "Silas and the Oath",
+  "author": "Isandro Yarrow",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Quentin Blackwood, a debt-bound temple scribe, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1166
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05915",
+  "title": "The Last Ledger Revisited",
+  "author": "Ivo Ashgrove",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Coral Hartwell, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5915
+  }
+}

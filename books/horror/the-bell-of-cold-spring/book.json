@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03374",
+  "title": "The Bell of Cold Spring",
+  "author": "Isandro Reyes",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Paloma Nakamura, a radio host taking calls from listeners who died last week, doesn't believe, has never believed, will not begin believing now. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. Now he must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3374
+  }
+}

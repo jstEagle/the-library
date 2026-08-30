@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02738",
+  "title": "The Borrowed Lantern",
+  "author": "Dominic Crane",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Ulyana Eastwick, a code-carrying courier on the last diplomatic mission of a doomed republic, believes history happens to other people, elsewhere. But when a child is left at the door with instructions to forget the face, they discover that staying invisible was never really an option. Now they must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2738
+  }
+}

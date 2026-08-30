@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06863",
+  "title": "Vesper and the Promise",
+  "author": "Marguerite Iversen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Felix Vasquez, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. To get through this, they must forgive the person in the mirror first before the vineyard's first harvest comes in.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6863
+  }
+}

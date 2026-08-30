@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07363",
+  "title": "Colony and Gravity",
+  "author": "Edmund Zhou",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Hazel Ravensworth, the last human technician on an automated relay station, records the slow death of a colony everyone else forgot. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "belonging",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7363
+  }
+}

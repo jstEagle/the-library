@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07761",
+  "title": "Rafael and the Terminal",
+  "author": "Coral Vasquez",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Sebastian Galloway, a xenolinguist who can no longer dream in human languages, has spent five years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. To get through this, he must reach the relay at the edge of dead space, racing the signal before the reactor finishes its countdown.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7761
+  }
+}

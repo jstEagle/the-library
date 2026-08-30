@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04237",
+  "title": "Dominic and the Glasshouse",
+  "author": "Silas Villalobos",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Ansel Ravensworth, a night librarian in a city that sleeps less every year, moves through the days like a tenant, not an owner. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. To get through this, she must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "identity",
+    "found family",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4237
+  }
+}

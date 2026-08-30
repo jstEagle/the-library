@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03208",
+  "title": "Winter and Choir",
+  "author": "Gideon Ashgrove",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Mirabel Thackeray, a property surveyor appraising a house that appraises back, has spent three years telling themselves the noises have explanations. But when the childhood imaginary friend is waiting on the porch, unchanged, they discover that staying invisible was never really an option. To get through this, they must finish the ritual the founders started before the harvest moon rises.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3208
+  }
+}

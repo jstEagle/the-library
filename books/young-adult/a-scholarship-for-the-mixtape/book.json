@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09938",
+  "title": "A Scholarship for the Mixtape",
+  "author": "Quentin Brightwater",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Silas Halloran, the eldest sibling raising the younger ones while mom works nights, is fine. Everything is fine. Obviously.. But when grandma's recipe box contains directions that aren't for food, she discovers that staying invisible was never really an option. Now she must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9938
+  }
+}

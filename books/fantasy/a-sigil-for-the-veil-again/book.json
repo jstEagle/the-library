@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02214",
+  "title": "A Sigil for the Veil Again",
+  "author": "Mara Yarrow",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Astrid Ishikawa, a royal food-taster building immunity one dish at a time, has spent ten years selling small charms in a city that outlawed magic. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "found family",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2214
+  }
+}

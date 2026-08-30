@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04863",
+  "title": "Cyrus and the Confession",
+  "author": "Edmund Crane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Mirabel Kavanagh, a true-crime podcaster chasing the coldest case on record, has spent twelve years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. To get through this, they must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4863
+  }
+}

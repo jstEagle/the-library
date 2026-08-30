@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04310",
+  "title": "The Slow Language",
+  "author": "Y. M. Nystrom",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Yara Ishikawa, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. Now he must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4310
+  }
+}

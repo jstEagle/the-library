@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05497",
+  "title": "The Inheritance of the Marlowe Estate",
+  "author": "Silas Ravensworth",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Marguerite Iversen, a hotel concierge who notices everything, has spent three years keeping the town's secrets filed and alphabetized. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. To get through this, she must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5497
+  }
+}

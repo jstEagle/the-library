@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09997",
+  "title": "Orsen and the Playlist",
+  "author": "Wendell Thackeray",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Petra Okafor, the new kid at a school built over something old, counts days until graduation like a sentence being served. Then a group chat starts predicting things that haven't happened yet — and he is pulled straight into the middle of it. Now he must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9997
+  }
+}

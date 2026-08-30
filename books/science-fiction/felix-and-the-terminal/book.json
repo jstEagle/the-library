@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08191",
+  "title": "Felix and the Terminal",
+  "author": "Rosalind Brightwater",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Edmund Brightwater, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8191
+  }
+}

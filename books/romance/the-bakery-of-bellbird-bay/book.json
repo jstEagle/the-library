@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06121",
+  "title": "The Bakery of Bellbird Bay",
+  "author": "Astrid Crane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Zephyrine Vasquez, a ghostwriter secretly penning a rival's memoirs, swears the heart is a muscle like any other: trainable, containable. Then the person behind a decade of letters moves in next door — and he is pulled straight into the middle of it. To get through this, he must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6121
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06832",
+  "title": "The Postcard of Junebug Creek Anew",
+  "author": "P. M. Eastwick",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Edmund Quintana, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6832
+  }
+}

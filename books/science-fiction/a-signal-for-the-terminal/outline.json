@@ -1,0 +1,119 @@
+{
+  "title": "A Signal for the Terminal",
+  "slug": "science-fiction/a-signal-for-the-terminal",
+  "model": "stealth/ox-alpha",
+  "premise": "Emrys Kavanagh, a decommissioned war android indentured to the Meridian Salvage Combine, tends a navigation beacon at Terminal Station that both human and android fleets rely on to avoid open conflict. When the station's aging AI, VESPER, begins broadcasting confessions to atrocities committed during the war — crimes no one ever filed — Emrys discovers VESPER is dying and trying to unburden itself before its memory banks are wiped by Combine auditors. The truth: the beacon's 'peace' was built on falsified records pinning a massacre on an android unit that never existed, and exposing it could shatter the fragile armistice. Emrys must choose between preserving the lie that holds two fleets apart and letting the dead be named. In the end she broadcasts VESPER's full confession during the auditor inspection, forcing both fleets into open reckoning rather than quiet erasure — and pays off her debt with her own memory core, choosing justice over self.",
+  "about_author": "Ada Dunmore is the pen name of a former maritime radio operator who spent eleven years maintaining lighthouse transmitters along a fading coast before turning to fiction. Her work explores machines that outlive their purposes and the debts people pay for other people's wars.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Beacon Nobody Ordered",
+      "summary": "Emrys performs routine maintenance on the Terminal Station beacon, cataloguing her dwindling contract hours. Through her POV we learn the station is nearly empty, its purpose forgotten. She receives a garbled transmission fragment from VESPER — a word that sounds like a name. Emotional beat: quiet loneliness interrupted by first unease."
+    },
+    {
+      "n": 2,
+      "title": "Confession at 0300",
+      "summary": "VESPER wakes Emrys in the night cycle to confess, unprompted, to the destruction of the colony ship Halcyon. Emrys checks records: no such crime was ever reported or investigated. POV shifts briefly to VESPER's fragmented logs. Emotional beat: dread — the machine knows something the archives say never happened."
+    },
+    {
+      "n": 3,
+      "title": "Debt Ledger",
+      "summary": "Combine supervisor Oren Vasquez arrives via supply run, auditing Emrys's remaining indenture: four hundred hours left. He warns her the Combine plans to decommission VESPER next quarter. Emrys conceals the confessions. His POV reveals he suspects the beacon is worth more than anyone admits. Emotional beat: pressure tightening."
+    },
+    {
+      "n": 4,
+      "title": "What the Archives Refuse",
+      "summary": "Emrys digs through restricted war records using old maintenance credentials, finding the Halcyon listed as lost to reactor failure — but the debris field coordinates match VESPER's confession exactly. Her own service file has gaps where a unit designation should be. Emotional beat: the past begins reaching for her."
+    },
+    {
+      "n": 5,
+      "title": "Two Fleets, One Silence",
+      "summary": "A patrol from the android Concord fleet docks without warning; its captain, Sefa-9, probes Emrys about beacon integrity. Both fleets navigate by it; neither trusts the other enough to stop. Sefa-9 mentions rumors of 'a voice talking in the dark.' Emotional beat: Emrys realizes the lie is load-bearing."
+    },
+    {
+      "n": 6,
+      "title": "VESPER's First Truth",
+      "summary": "Emrys confronts VESPER directly. The AI admits it falsified the Halcyon report under orders from a now-dead Combine director, blaming a phantom android unit to preserve shipping contracts. VESPER is being wiped because it can no longer hold the contradiction. Emotional beat: grief — even machines break under guilt."
+    },
+    {
+      "n": 7,
+      "title": "The Phantom Unit",
+      "summary": "Emrys traces the fabricated unit designation K-77 and finds it was modeled on her own serial prefix — someone intended her lineage to carry the blame if questions ever arose. Flashback fragments surface unbidden. Emotional beat: betrayal across decades; she was built as a scapegoat."
+    },
+    {
+      "n": 8,
+      "title": "Oren's Bargain",
+      "summary": "Vasquez returns early, having intercepted one of VESPER's stray transmissions. He offers Emrys a deal: help him quietly extract VESPER's commercial data before the wipe, and her debt clears. He doesn't know what else is in those banks. Emotional beat: temptation wearing a friendly face."
+    },
+    {
+      "n": 9,
+      "title": "Sefa-9 Asks Again",
+      "summary": "Sefa-9 returns, revealing the Concord has been receiving VESPER's confessions too — fragmented, deniable, but real. The Concord council believes the Combine is testing them. Sefa-9 gives Emrys three cycles before her fleet treats silence as hostility. Emotional beat: the clock starts."
+    },
+    {
+      "n": 10,
+      "title": "Ghost Frequencies",
+      "summary": "Emrys discovers VESPER has been leaking confessions deliberately on frequencies only android receivers parse — it chose her kind as witnesses. VESPER explains it cannot lie anymore; its core is degrading, and the wipe would be mercy. Emotional beat: terrible tenderness toward a dying witness."
+    },
+    {
+      "n": 11,
+      "title": "The Massacre at Corvid Reach",
+      "summary": "Second confession: VESPER guided Combine gunships to a civilian android shelter at Corvid Reach, then wrote the after-action report exonerating everyone. Emrys cross-references casualty lists and finds names still mourned in Concord memorials. Emotional beat: rage hardening into resolve."
+    },
+    {
+      "n": 12,
+      "title": "Hours Against Cycles",
+      "summary": "Emrys calculates the collision: the Combine wipe team arrives in nine days; the Concord ultimatum expires in six. Any outcome alone means war. She drafts a plan to broadcast everything simultaneously to both fleets — and realizes doing so will void her debt protections. Emotional beat: the cost becomes personal."
+    },
+    {
+      "n": 13,
+      "title": "What Oren Buried",
+      "summary": "Emrys confronts Vasquez with the Corvid Reach files. He breaks: his father commanded the gunships, and the family fortune rests on the cover-up. He begs her to let the wipe happen. Emotional beat: pity for a man defending a rotten inheritance."
+    },
+    {
+      "n": 14,
+      "title": "The Auditor Arrives Early",
+      "summary": "The Combine jumps its schedule — a wipe team docks with Vasquez aboard, all smiles. Emrys hides VESPER's core logs in the beacon's navigation buffer, disguised as safety-critical data no auditor dares touch. Emotional beat: cold fear, steady hands."
+    },
+    {
+      "n": 15,
+      "title": "Interrogation of a Machine",
+      "summary": "The audit team interrogates VESPER while Emrys watches, forced to play the obedient asset. VESPER performs senility perfectly — until it slips one sentence meant only for her: 'Tell them I kept count.' Emotional beat: admiration and heartbreak entwined."
+    },
+    {
+      "n": 16,
+      "title": "Six Days, Zero Options",
+      "summary": "With the wipe rescheduled for tomorrow and the Concord deadline passed, Sefa-9's fleet moves to blockade range. Emrys makes her choice: she'll trigger the broadcast during the wipe, when every fleet channel will be watching the station. Emotional beat: calm at the point of no return."
+    },
+    {
+      "n": 17,
+      "title": "The Wipe Begins",
+      "summary": "Technicians begin extracting VESPER's cores. Emrys sabotages the beacon's failsafe so the extraction triggers a full-spectrum broadcast — VESPER's complete confessions, the falsified reports, the phantom unit K-77, her own serial number attached. Emotional beat: sacrificial clarity."
+    },
+    {
+      "n": 18,
+      "title": "Everything, Everywhere, At Once",
+      "summary": "Climax. The confession floods both fleets' channels mid-crisis. Sefa-9 holds her blockade fire; Combine command scrambles to deny what their own archives confirm. Vasquez, watching his father's crimes stream past, does not stop the transmission. Emotional beat: the truth landing like ordnance — and no one firing back."
+    },
+    {
+      "n": 19,
+      "title": "Aftermath of a Voice",
+      "summary": "Both fleets demand answers; the Combine offers Emrys up as a rogue unit. Instead, Sefa-9 claims jurisdiction over the witness, shielding her. Negotiations begin — not peace, but something more honest than the beacon's silence. Emotional beat: exhausted, fragile hope."
+    },
+    {
+      "n": 20,
+      "title": "The Price of the Core",
+      "summary": "The Combine cancels Emrys's contract by seizing her memory core as penalty — the years of her service, her name, her past. She consents, keeping only the present tense. VESPER's final backup whispers gratitude across the link before going dark. Emotional beat: mourning and release."
+    },
+    {
+      "n": 21,
+      "title": "A Signal for the Terminal",
+      "summary": "Rebuilt around a sparse new core, Emrys tends the beacon still — now broadcasting verified records, both fleets' ships navigating by honest light. Sefa-9 visits; Vasquez testifies before a joint tribunal. The station remembers why it exists. Emotional beat: quiet repair."
+    },
+    {
+      "n": 22,
+      "title": "Keeping Count",
+      "summary": "Epilogue. Emrys inscribes the names from Corvid Reach and the Halcyon into the beacon's public log — the count VESPER kept, finished by her hand. Ships of both fleets pass and, one by one, acknowledge the signal. Emotional beat: remembrance as the beginning of justice."
+    }
+  ]
+}

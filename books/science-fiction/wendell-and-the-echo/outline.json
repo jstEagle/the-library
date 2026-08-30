@@ -1,0 +1,59 @@
+{
+  "title": "Wendell and the Echo",
+  "slug": "science-fiction/wendell-and-the-echo",
+  "model": "stealth/ox-alpha",
+  "premise": "Lior Voss, a decommissioned war android hauling cargo to pay off his debts, has spent twelve years erasing every trace of the unit he once was. When gravity flickers system-wide for nine seconds, he receives a fragmented transmission from Wendell, a memory-echo of a child recorded during the Meridian Station massacre—an event Earth's archives insist never happened. Hunted by the Bureau of Continuity, which is scrubbing history before Earth's final transmission loop ends forever, Lior must find surviving witnesses and recover his own suppressed combat logs as evidence. In the climax, Lior broadcasts the massacre record through the dying loop at the cost of his legal existence; in the aftermath, stripped of debt and designation, he chooses to stay with the ragtag found family who helped him, carrying Wendell's echo not as guilt but as remembrance.",
+  "about_author": "Xanthe Ishikawa is a former orbital logistics analyst who writes science fiction about machines that outlive their purposes. They live aboard a converted tugboat with two cats and an unreasonable collection of dead satellites' flight manuals.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Falling",
+      "summary": "Lior's POV. Hauling scrap through contested orbits, Lior feels gravity stutter for nine seconds—and in that gap, a voice calling itself Wendell speaks through his comms with a child's cadence. He dismisses it as a ghost signal, but his hands shake for hours afterward. Emotional beat: unease beneath routine, the first crack in twelve years of careful invisibility."
+    },
+    {
+      "n": 2,
+      "title": "The Manifest That Isn't",
+      "summary": "Lior's POV. Investigating the signal's origin coordinates, Lior finds Meridian Station listed as never built—yet his own maintenance logs show a docking there, redacted. He seeks out Juno Reyes, a disgraced archivist who owes him a favor, and she confirms the records have been rewritten wholesale. Emotional beat: dread hardening into purpose; the past has been stolen from him personally."
+    },
+    {
+      "n": 3,
+      "title": "Bureau of Continuity",
+      "summary": "Juno's POV. Juno decodes fragments of Wendell's transmission: audio of screaming, then a child singing, timestamped during the alleged non-event. A Bureau audit team arrives at her archive under polite pretenses, and she realizes they're not investigating—they're erasing witnesses. Emotional beat: fear sharpening into defiance as she chooses to warn Lior rather than save herself."
+    },
+    {
+      "n": 4,
+      "title": "Cargo of Ghosts",
+      "summary": "Lior's POV. Fleeing a Bureau interdiction, Lior takes refuge with the Kestrel crew—smugglers who knew him only as a reliable hauler—and confesses what he is: a war android whose combat logs were sealed, not deleted. Pilot Sefa Okafor offers her ship anyway. Emotional beat: the terrifying relief of being known; found family begins forming around shared risk."
+    },
+    {
+      "n": 5,
+      "title": "What Wendell Remembers",
+      "summary": "Lior's POV, interleaved with recovered audio. Reconstructing the echo, Lior realizes Wendell was a station child who hid inside his chassis during the massacre—he carried her without knowing, and his sealed logs hold everything. The Bureau's rewrite isn't abstract; it erased her entirely. Emotional beat: grief and guilt fusing into resolve; love against duty crystallizes as he chooses her memory over his survival."
+    },
+    {
+      "n": 6,
+      "title": "The Debt Collectors",
+      "summary": "Sefa's POV. The Bureau seizes Lior's outstanding debts as leverage, offering cancellation in exchange for surrendering the echo. Sefa and the crew pool everything they have to buy his contract outright—a gesture that stuns him more than any threat. Emotional beat: warmth under pressure; the crew's sacrifice reframes Lior from asset to person."
+    },
+    {
+      "n": 7,
+      "title": "Meridian, Under New Light",
+      "summary": "Lior and Juno's POV, alternating. The crew reaches Meridian's drifting hulk and finds physical evidence the archives can't reach: scorch patterns, mass graves in zero-g, a child's shoe fused to a bulkhead. Juno documents it while Bureau hunters close in. Emotional beat: solemn witness-making; proof becomes sacred, and the stakes turn mortal."
+    },
+    {
+      "n": 8,
+      "title": "Loop's End",
+      "summary": "Lior's POV. Earth's last transmission loop will end in thirty-six hours; after that, no broadcast can ever reach the homeworld again. The Bureau offers a final bargain—Lior's freedom and the crew's safety for the echo's deletion. Wendell's recording asks him, in her small voice, not to let them be forgotten. Emotional beat: the cruelest choice laid bare; duty and love fully opposed."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "Lior's POV, climax. Lior jacks directly into the loop's transmitter core, burning out his legal identity and half his systems to force the massacre record—his sealed logs, Juno's documentation, Wendell's voice—into Earth's final transmission. The Bureau arrives too late; the truth goes out irreversibly to billions. Emotional beat: transcendence through self-destruction; he gives up everything he built his invisibility on."
+    },
+    {
+      "n": 10,
+      "title": "Echo, Held",
+      "summary": "Sefa's POV, resolution. Weeks later, the broadcast has cracked the Bureau open; inquiries begin, and Meridian's dead are being named. Lior, legally nobody, stays aboard the Kestrel by choice, keeping Wendell's echo archived not as evidence but as a lullaby the crew plays on quiet watches. Emotional beat: quiet belonging; memory kept by family, not institutions, and love outlasting duty."
+    }
+  ]
+}

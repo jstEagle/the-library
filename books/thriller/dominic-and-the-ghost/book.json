@@ -1,0 +1,21 @@
+{
+  "id": "THR-09224",
+  "title": "Dominic and the Ghost",
+  "author": "Lena Eastwick",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Kestrel Eriksen, a financial-crimes investigator drowning in clean money, has spent seven years following rules that keep getting rewritten. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9224
+  }
+}

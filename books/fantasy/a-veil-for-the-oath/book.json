@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01117",
+  "title": "A Veil for the Oath",
+  "author": "Beatrix Sterling",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Theo Winterbourne, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1117
+  }
+}

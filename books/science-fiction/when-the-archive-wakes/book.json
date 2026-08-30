@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07509",
+  "title": "When the Archive Wakes",
+  "author": "Tamsin Villalobos",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Zephyrine Yarrow, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7509
+  }
+}

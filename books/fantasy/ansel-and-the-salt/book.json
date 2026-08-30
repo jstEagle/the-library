@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01203",
+  "title": "Ansel and the Salt",
+  "author": "Beatrix Hartwell",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Rosalind Eastwick, the youngest member of a dying guild, has spent twenty years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. To get through this, they must find the door out of a country that no longer exists before the usurper's armies reach the free cities.",
+  "themes": [
+    "memory",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1203
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04150",
+  "title": "The Necessary Aftermath",
+  "author": "Ada Delacroix",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Elodie Eastwick, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4150
+  }
+}

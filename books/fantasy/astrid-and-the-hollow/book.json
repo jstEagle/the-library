@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01955",
+  "title": "Astrid and the Hollow",
+  "author": "Petra Ravensworth",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Kestrel Eastwick, a royal food-taster building immunity one dish at a time, has spent ten years selling small charms in a city that outlawed magic. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1955
+  }
+}

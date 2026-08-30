@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07911",
+  "title": "Marguerite and the Protocol",
+  "author": "Gideon Brightwater",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Sable Underhill, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7911
+  }
+}

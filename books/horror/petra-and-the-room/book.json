@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03466",
+  "title": "Petra and the Room",
+  "author": "Theo Crane",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Odile Ashgrove, a radio host taking calls from listeners who died last week, documents everything, because documentation is a kind of prayer. But when the childhood imaginary friend is waiting on the porch, unchanged, she discovers that staying invisible was never really an option. To get through this, she must learn the song's last verse without singing along before the frost writes its final pattern.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3466
+  }
+}

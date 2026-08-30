@@ -1,0 +1,21 @@
+{
+  "id": "THR-09390",
+  "title": "Cyrus and the Ghost",
+  "author": "Orsen Quintana",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Edmund Ishikawa, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9390
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01206",
+  "title": "August and the Oath",
+  "author": "Rafael Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Freya Thackeray, a royal food-taster building immunity one dish at a time, has spent three years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1206
+  }
+}

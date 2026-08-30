@@ -1,0 +1,21 @@
+{
+  "id": "THR-09131",
+  "title": "The Quiet Ghost",
+  "author": "Jude Dravenmoor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Paloma Montrose, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. But when a voiceprint unlocks a server on another continent, she discovers that staying invisible was never really an option. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9131
+  }
+}

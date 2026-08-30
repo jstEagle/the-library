@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00093",
+  "title": "the Upper Fly River Rising",
+  "author": "Ada Thackeray",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Theo Brightwater, a railroad engineer with a map of closed lines, keeps moving because stopping costs more. Then a government survey team vanishes, leaving gear and no tracks — and they are pulled straight into the middle of it. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the monsoon makes landfall.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 93
+  }
+}

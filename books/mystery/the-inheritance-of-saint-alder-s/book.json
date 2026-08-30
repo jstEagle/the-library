@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04831",
+  "title": "The Inheritance of Saint Alder's",
+  "author": "Bram Crane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Emrys Almeida, an insurance investigator with a photographic memory, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. To get through this, he must untangle alibis woven thirty years ago before the trial begins.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4831
+  }
+}

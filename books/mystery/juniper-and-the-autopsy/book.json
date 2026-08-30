@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05537",
+  "title": "Juniper and the Autopsy",
+  "author": "Rafael Villalobos",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Mirabel Halloran, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5537
+  }
+}

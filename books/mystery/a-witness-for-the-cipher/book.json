@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05330",
+  "title": "A Witness for the Cipher",
+  "author": "Yara Ashgrove",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Elodie Vane, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. To get through this, they must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5330
+  }
+}

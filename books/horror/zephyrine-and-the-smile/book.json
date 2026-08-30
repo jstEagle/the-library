@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03722",
+  "title": "Zephyrine and the Smile",
+  "author": "Paloma Vasquez",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Coral Amberdale, a pest controller called to something with fingerprints, documents everything, because documentation is a kind of prayer. But when the excavation crew unearths a door, sealed from the inside, she discovers that staying invisible was never really an option. Now she must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3722
+  }
+}

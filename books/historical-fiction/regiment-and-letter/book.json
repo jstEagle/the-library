@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02842",
+  "title": "Regiment and Letter",
+  "author": "L. M. Joubert",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Coral Thornbury, an apprentice clockmaker summoned to repair the observatory's master clock, has spent ten years learning which silences keep people safe. Then the census taker asks one question too many — and she is pulled straight into the middle of it. Now she must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2842
+  }
+}

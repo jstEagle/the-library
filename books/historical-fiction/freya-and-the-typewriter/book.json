@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02726",
+  "title": "Freya and the Typewriter",
+  "author": "C. M. Delacroix",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.9,
+  "blurb": "Beatrix Whitlock, an apprentice clockmaker summoned to repair the observatory's master clock, believes history happens to other people, elsewhere. But when the census taker asks one question too many, they discover that staying invisible was never really an option. Now they must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2726
+  }
+}

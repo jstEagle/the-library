@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07954",
+  "title": "Ansel and the Signal",
+  "author": "Orsen Villalobos",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Jude Yarrow, a starship navigator haunted by the backups sleeping in the hold, records the slow death of a colony everyone else forgot. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7954
+  }
+}

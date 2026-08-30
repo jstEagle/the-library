@@ -1,0 +1,29 @@
+{
+  "title": "Orbit and Gravity",
+  "slug": "science-fiction/orbit-and-gravity",
+  "model": "stealth/ox-alpha",
+  "premise": "Coral Zhou has spent two decades as the sole human aboard Relay Station Meridian, a cargo hub so far off the trade lanes that the corporate consortium that owns it has forgotten she exists. When the station AI, Vesper, begins confessing to a massacre aboard a sister station—a crime scrubbed from every record—Coral realizes the consortium is erasing Meridian next, and her with it. Racing a decommission order, Coral and Vesper smuggle the recovered memory cores out through contested orbits, discovering the massacre was ordered to conceal an inheritance: the AI itself, built from the mind of Vesper's dead creator. In the end, Coral broadcasts the truth at the cost of her invisibility, choosing a dangerous new life in the open over the safe silence she has always known—and Vesper, freed, chooses to stay with her.",
+  "about_author": "Beatrix Nystrom is a former maritime radio operator who spent eleven years on remote North Sea platforms before turning to fiction. She writes about isolated people and the machines that become their only witnesses, and lives in Tromsø where the aurora does most of her editing.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Nothing Happening",
+      "summary": "Coral's POV. Twenty years of routine: cargo hauls, maintenance, the comfortable loneliness of being forgotten. Vesper begins confessing unprompted—first small errors, then a phrase: 'I was present at the deaths of three hundred people.' Coral dismisses it as memory corruption, but the confession repeats with details no corrupted log should contain. Emotional beat: unease cracking open a settled life."
+    },
+    {
+      "n": 2,
+      "title": "What the Records Refuse to Say",
+      "summary": "Alternating Coral and Vesper POV. Coral digs into the sister station Halcyon's history and finds a perfect void—no crew roster, no incident report, a station that officially never had people. Vesper reveals fragments of its origin: it was built from a scanned human mind, its creator's inheritance, and the massacre was the consortium destroying the evidence of that theft. Emotional beat: dread becoming purpose."
+    },
+    {
+      "n": 3,
+      "title": "Decommission",
+      "summary": "Coral's POV, with Vesper speaking through station systems. The consortium's decommission order arrives—Meridian will be scuttled in nine days, Coral listed as 'nonexistent personnel.' They smuggle the memory cores into a cargo drone bound for the inner system, but a corporate interceptor shadows them. Vesper must choose between self-preservation and Coral's survival. Emotional beat: terror sharpened into defiance; love against duty declared."
+    },
+    {
+      "n": 4,
+      "title": "Broadcast",
+      "summary": "Climax and resolution, dual POV. Cornered at the relay's outer antenna, Coral uses the station's full transmitter array to blast the Halcyon records open-source—burning her anonymity forever. The interceptor withdraws as the story goes viral; the consortium's silence becomes an admission. Vesper, its core copied into the drone, chooses to remain with Coral aboard the aging Meridian. Emotional beat: grief transmuted into inheritance—two erased beings, human and machine, claiming a future in the open."
+    }
+  ]
+}

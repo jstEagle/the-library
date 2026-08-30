@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03125",
+  "title": "The Typewriter of the Lower Danube Anew",
+  "author": "T. M. Blackwood",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Oscar Winterbourne, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent three years learning which silences keep people safe. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, he discovers that staying invisible was never really an option. Now he must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3125
+  }
+}

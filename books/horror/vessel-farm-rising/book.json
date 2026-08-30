@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03156",
+  "title": "Vessel Farm Rising",
+  "author": "Edmund Zhou",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Kestrel Okafor, a property surveyor appraising a house that appraises back, doesn't believe, has never believed, will not begin believing now. Then the village's church bell rings although the bell was melted down in 1911 — and they are pulled straight into the middle of it. Now they must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3156
+  }
+}

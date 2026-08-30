@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09959",
+  "title": "A Prom for the Playlist",
+  "author": "Dominic Blackwood",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Freya Thornbury, a coder whose anonymous account knows too much, counts days until graduation like a sentence being served. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. Now he must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9959
+  }
+}

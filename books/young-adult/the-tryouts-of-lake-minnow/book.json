@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09909",
+  "title": "The Tryouts of Lake Minnow",
+  "author": "Mirabel Okonkwo",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Jude Underhill, a scholarship student at an academy with too many secrets, has spent twenty years being so careful it hurts. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. To get through this, she must save the tradition that made the town before the last game of the season.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9909
+  }
+}

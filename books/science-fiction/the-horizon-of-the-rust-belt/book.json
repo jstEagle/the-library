@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07754",
+  "title": "The Horizon of the Rust Belt",
+  "author": "Rafael Ishikawa",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Petra Villalobos, a xenolinguist who can no longer dream in human languages, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. To get through this, he must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7754
+  }
+}

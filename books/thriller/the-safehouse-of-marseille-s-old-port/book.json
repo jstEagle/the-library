@@ -1,0 +1,21 @@
+{
+  "id": "THR-08699",
+  "title": "The Safehouse of Marseille's old port",
+  "author": "Edmund Reyes",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Xanthe Montrose, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8699
+  }
+}

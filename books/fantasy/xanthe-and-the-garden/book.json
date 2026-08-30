@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01536",
+  "title": "Xanthe and the Garden",
+  "author": "Marguerite Zhou",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Dominic Dravenmoor, a thief who steals memories, has spent five years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1536
+  }
+}

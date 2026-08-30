@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06869",
+  "title": "Elodie and the Summer",
+  "author": "Odile Villalobos",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Sebastian Almeida, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. To get through this, she must let someone stay after the last train leaves before the vineyard's first harvest comes in.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6869
+  }
+}

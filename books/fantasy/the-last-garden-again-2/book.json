@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02121",
+  "title": "The Last Garden Again",
+  "author": "Ulyana Brightwater",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Mara Villalobos, a beast-speaker hiding a forbidden gift, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2121
+  }
+}

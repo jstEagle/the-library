@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04735",
+  "title": "Sebastian and the Wardrobe",
+  "author": "S. M. Underhill",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Isandro Almeida, a letter-writer sending postcards to an address that burned down years ago, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. To get through this, she must return to the place where the story went wrong before the mother's memory goes entirely.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4735
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08625",
+  "title": "Vesper and the Drop",
+  "author": "Bram Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Mirabel Coldharbour, a burnt analyst bounced from three agencies, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. To get through this, she must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8625
+  }
+}

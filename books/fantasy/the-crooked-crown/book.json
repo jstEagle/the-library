@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01069",
+  "title": "The Crooked Crown",
+  "author": "Rafael Vane",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Wendell Galloway, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1069
+  }
+}

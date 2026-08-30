@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02535",
+  "title": "Mara and the Letter",
+  "author": "C. M. Underhill",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Coral Ashgrove, a widowed lighthouse keeper during the year of the great storms, has spent seven years learning which silences keep people safe. Then the census taker asks one question too many — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the ship sails on the morning tide.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2535
+  }
+}

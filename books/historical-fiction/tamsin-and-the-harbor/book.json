@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03025",
+  "title": "Tamsin and the Harbor",
+  "author": "Ivo Marchetti",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Wendell Pemberton, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, she discovers that staying invisible was never really an option. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3025
+  }
+}

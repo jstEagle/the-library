@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03416",
+  "title": "A Harvest for the Cellar",
+  "author": "Sable Thornbury",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Casper Coldharbour, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. Then the sleep recordings capture a second voice answering questions — and he is pulled straight into the middle of it. To get through this, he must get the family out ahead of the count before the last resident signs the papers.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3416
+  }
+}

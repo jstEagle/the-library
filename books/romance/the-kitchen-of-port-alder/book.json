@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06385",
+  "title": "The Kitchen of Port Alder",
+  "author": "Yara Lockridge",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Silas Okonkwo, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. But when the person behind a decade of letters moves in next door, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6385
+  }
+}

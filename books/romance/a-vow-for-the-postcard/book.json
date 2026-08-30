@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06498",
+  "title": "A Vow for the Postcard",
+  "author": "Mirabel Vasquez",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Paloma Ashgrove, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6498
+  }
+}

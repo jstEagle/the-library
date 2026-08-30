@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01375",
+  "title": "Sable and the Oath",
+  "author": "Jude Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Sebastian Ashgrove, the youngest member of a dying guild, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1375
+  }
+}

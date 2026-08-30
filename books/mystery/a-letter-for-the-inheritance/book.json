@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05482",
+  "title": "A Letter for the Inheritance",
+  "author": "Cyrus Ishikawa",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Yara Okafor, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5482
+  }
+}

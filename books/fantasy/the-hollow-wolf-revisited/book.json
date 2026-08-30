@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01929",
+  "title": "The Hollow Wolf Revisited",
+  "author": "Quentin Quintana",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Xanthe Marchetti, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1929
+  }
+}

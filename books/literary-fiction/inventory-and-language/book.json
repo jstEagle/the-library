@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04356",
+  "title": "Inventory and Language",
+  "author": "Rosalind Joubert",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Zephyrine Blackwood, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. But when a box of undelivered letters surfaces behind a wardrobe, she discovers that staying invisible was never really an option. Now she must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4356
+  }
+}

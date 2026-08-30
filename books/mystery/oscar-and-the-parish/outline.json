@@ -1,0 +1,119 @@
+{
+  "title": "Oscar and the Parish",
+  "slug": "mystery/oscar-and-the-parish",
+  "model": "stealth/ox-alpha",
+  "premise": "When August Yarrow, the reclusive coroner of Hollow Parish, receives a confession letter postmarked one day after a parishioner's funeral, they realize the 'accidental' death is the fourth in a pattern only they have noticed. The letter's author claims to be dying and begs August to expose the truth before the statute of limitations expires—but every clue August uncovers suggests the confessor knows the case files intimately, perhaps better than August does. As August digs into the parish's tangled inheritance disputes and old loyalties, they discover the confessor may be protecting someone, or framing them. In the end, August stages a false exhumation to force the killer's hand, unmasking the beloved parish sexton who killed to secure an inheritance for his dying sister—and August must choose between loyalty to a friend and the truth that finally gives them a place in the community.",
+  "about_author": "Coral Sterling spent a decade as a rural court reporter before turning to fiction, drawing on the quiet secrets of small-town death records. She writes from a farmhouse where, she insists, nothing mysterious has ever happened.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Names",
+      "summary": "August Yarrow catalogs the parish cemetery's graves, establishing their intimate knowledge of the town's dead. POV: August. Emotional beat: solitary competence masking loneliness as the fourth 'accident'—a fall from the church bell tower—is brought to their table."
+    },
+    {
+      "n": 2,
+      "title": "Postmarked Yesterday",
+      "summary": "A day after Edith Marsh's funeral, August receives a handwritten confession claiming Edith was pushed. The postmark date unsettles them: mailed before anyone knew she'd die. POV: August. Emotional beat: dread blooming into purpose—the first case they can't quietly close."
+    },
+    {
+      "n": 3,
+      "title": "Four Accidents",
+      "summary": "August privately reviews three prior deaths ruled accidental—a drowning, a tractor mishap, a house fire—all involving inheritances. POV: August, with flashback fragments. Emotional beat: cold clarity as coincidence collapses into pattern."
+    },
+    {
+      "n": 4,
+      "title": "The Sexton's Kindness",
+      "summary": "Walt Ferris, the parish sexton and August's only friend, helps pull records, offering warmth and small kindnesses. POV: August. Emotional beat: tentative belonging—August lets someone in for the first time in years."
+    },
+    {
+      "n": 5,
+      "title": "What the Sheriff Missed",
+      "summary": "August confronts Sheriff Dane Brody, who bristles at the implication his office missed murders. POV: alternating August/Brody. Emotional beat: friction and grudging alliance; Brody admits the files were 'tidied' by someone above him."
+    },
+    {
+      "n": 6,
+      "title": "The Marsh Inheritance",
+      "summary": "Edith's estate passes to her nephew, but a codicil names the parish itself, contingent on no 'foul play' finding. POV: August. Emotional beat: unease—the church has motive too, and everyone August questions seems rehearsed."
+    },
+    {
+      "n": 7,
+      "title": "Second Letter",
+      "summary": "A second letter arrives with precise details only the coroner's file contains, urging August toward the drowning case. POV: August. Emotional beat: violation—the confessor has been inside August's own records."
+    },
+    {
+      "n": 8,
+      "title": "Night at the Records Office",
+      "summary": "August stakes out the county archive and catches a figure fleeing; the trail leads to a borrowed key traced to the sheriff's department. POV: August. Emotional beat: paranoia tightening—whoever it is wears a trusted face."
+    },
+    {
+      "n": 9,
+      "title": "The Drowned Man's Daughter",
+      "summary": "August interviews Lena Voss, daughter of the drowning victim, who reveals her father feared the sexton's brother-in-law over land deeds. POV: Lena then August. Emotional beat: grief weaponized into testimony; the pattern gains a human face."
+    },
+    {
+      "n": 10,
+      "title": "Statute Clock",
+      "summary": "Brody confirms the oldest case expires in five weeks; after that, truth becomes legally meaningless. POV: Brody. Emotional beat: urgency hardening into resolve as he and August formalize their unlikely partnership."
+    },
+    {
+      "n": 11,
+      "title": "Confession of the Living",
+      "summary": "August traces the letters' paper to stationery sold only at the parish gift shop, narrowing suspects to insiders. POV: August. Emotional beat: betrayal's shadow—every friendly face now suspect, including Walt's."
+    },
+    {
+      "n": 12,
+      "title": "The Fire That Wasn't",
+      "summary": "Reinvestigating the house fire, August finds accelerant evidence suppressed years ago and a witness who recanted under pressure. POV: August, with the witness's fearful account. Emotional beat: anger at how deep the cover-up runs."
+    },
+    {
+      "n": 13,
+      "title": "Walt's Sister",
+      "summary": "August learns Walt's sister is dying and her care depends on money tied to the Marsh codicil. POV: Walt. Emotional beat: sympathy complicating suspicion—motive without proof, love entangled with guilt."
+    },
+    {
+      "n": 14,
+      "title": "Trap Set in Winter Ground",
+      "summary": "August leaks word of an exhumation of the drowned man, betting the confessor-killer will act to stop it. POV: August. Emotional beat: controlled fear—August stops investigating and starts hunting."
+    },
+    {
+      "n": 15,
+      "title": "Grave Disturbance",
+      "summary": "The night before the exhumation, someone breaks into the crypt; August and Brody stake it out and catch a hooded figure who escapes, dropping a page of the original autopsy. POV: August. Emotional beat: confirmation—the killer is protecting the body's secrets."
+    },
+    {
+      "n": 16,
+      "title": "The Page That Lies",
+      "summary": "The dropped autopsy page is a forgery—too accurate, containing an error only the forger would make. August realizes the letters were misdirection all along. POV: August. Emotional beat: humbling reversal—August has been played by someone fluent in their own methods."
+    },
+    {
+      "n": 17,
+      "title": "What Edith Knew",
+      "summary": "In Edith's effects, August finds her diary: she'd discovered the drowning was murder and was silenced. Her final entry names no one but describes hands 'that dig for a living.' POV: August reading aloud. Emotional beat: sorrowful certainty closing around a friend."
+    },
+    {
+      "n": 18,
+      "title": "Confrontation at the Bell Tower",
+      "summary": "August lures Walt to the bell tower where Edith fell; confronted with the diary and forged page, Walt confesses—he killed to fund his sister's care, and wrote the letters hoping August would find a legal loophole to save her. POV: dual August/Walt. Emotional beat: devastating intimacy—truth and loyalty tearing the same wound."
+    },
+    {
+      "n": 19,
+      "title": "The Choice",
+      "summary": "Walt asks August to let the statute expire; his sister has weeks left. August, who once valued invisibility over justice, must decide what kind of coroner to be. POV: August alone through the night. Emotional beat: moral crucible—belonging bought with silence versus truth paid in grief."
+    },
+    {
+      "n": 20,
+      "title": "Testimony",
+      "summary": "August testifies anyway, presenting the full pattern; Walt is arrested but arranges his sister's care through the parish's mercy fund before surrendering. POV: courtroom scenes, August's voice. Emotional beat: costly integrity—justice done without triumph."
+    },
+    {
+      "n": 21,
+      "title": "Every Grave by Name",
+      "summary": "Weeks later, August walks the cemetery, now greeted by name by parishioners who once ignored them. They visit Walt's sister, keeping a quiet promise. POV: August. Emotional beat: bittersweet belonging earned through honesty rather than invisibility."
+    },
+    {
+      "n": 22,
+      "title": "The Fifth Letter",
+      "summary": "A final envelope arrives: not a confession but thanks, unsigned, hinting another old 'accident' in a neighboring parish deserves a second look. POV: August. Emotional beat: open-ended resolve—the invisible coroner steps deliberately toward the next truth."
+    }
+  ]
+}

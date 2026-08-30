@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04429",
+  "title": "Freya and the Silence",
+  "author": "Emrys Sterling",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Sebastian Kavanagh, a translator losing a childhood language one borrowed word at a time, has spent five years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. To get through this, she must forgive the stranger in the old photographs before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4429
+  }
+}

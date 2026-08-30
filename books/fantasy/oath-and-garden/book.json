@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01087",
+  "title": "Oath and Garden",
+  "author": "Theo Ravensworth",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Orsen Hartwell, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1087
+  }
+}

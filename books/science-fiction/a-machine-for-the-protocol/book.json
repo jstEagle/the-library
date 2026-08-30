@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07377",
+  "title": "A Machine for the Protocol",
+  "author": "Theo Zhou",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.5,
+  "blurb": "Oscar Underhill, an insurance investigator of impossible accidents, has spent twelve years hauling cargo through contested orbits. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. To get through this, he must prove a massacre happened when every record says otherwise before Earth's last transmission loop ends.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7377
+  }
+}

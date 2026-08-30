@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00695",
+  "title": "The Salt Monsoon",
+  "author": "Felix Brightwater",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Rosalind Yarrow, a desert ranger tracking a thief across nothing, carries a compass, a debt, and very little else. But when a government survey team vanishes, leaving gear and no tracks, he discovers that staying invisible was never really an option. Now he must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 695
+  }
+}

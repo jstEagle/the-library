@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06100",
+  "title": "The Garden of the Crescent Cove",
+  "author": "Cyrus Eastwick",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "August Nystrom, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6100
+  }
+}

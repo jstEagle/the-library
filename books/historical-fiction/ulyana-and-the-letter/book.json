@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02937",
+  "title": "Ulyana and the Letter",
+  "author": "Oscar Ravensworth",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Hazel Montrose, an apprentice clockmaker summoned to repair the observatory's master clock, measures the world in what can be carried when the orders come. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2937
+  }
+}

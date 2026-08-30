@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07919",
+  "title": "Silas and the Protocol",
+  "author": "Jude Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Edmund Underhill, a pilot bonded to an AI that lies, has spent three years hauling cargo through contested orbits. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7919
+  }
+}

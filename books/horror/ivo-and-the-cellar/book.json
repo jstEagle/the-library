@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03485",
+  "title": "Ivo and the Cellar",
+  "author": "Sebastian Reyes",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Marguerite Halloran, a property surveyor appraising a house that appraises back, has spent twelve years telling themselves the noises have explanations. But when the village's church bell rings although the bell was melted down in 1911, they discover that staying invisible was never really an option. Now they must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3485
+  }
+}

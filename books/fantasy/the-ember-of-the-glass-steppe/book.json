@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00853",
+  "title": "The Ember of the Glass Steppe",
+  "author": "Wren Winterbourne",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ansel Quintana, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "belonging",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 853
+  }
+}

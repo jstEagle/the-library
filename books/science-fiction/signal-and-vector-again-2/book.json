@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08381",
+  "title": "Signal and Vector Again",
+  "author": "D. M. Okafor",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "August Ishikawa, a memory-smuggler running contraband past orbital customs, has spent twelve years hauling cargo through contested orbits. Then an unfamiliar name shows up on the manifest of a ship that never flew — and she is pulled straight into the middle of it. Now she must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8381
+  }
+}

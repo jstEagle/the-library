@@ -1,0 +1,21 @@
+{
+  "id": "THR-08613",
+  "title": "A Debt for the Contact",
+  "author": "A. M. Ravensworth",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Gideon Dunmore, a burnt analyst bounced from three agencies, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8613
+  }
+}

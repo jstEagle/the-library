@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06880",
+  "title": "Yara and the Tide",
+  "author": "Lena Pemberton",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Cyrus Brightwater, a ghostwriter secretly penning a rival's memoirs, swears the heart is a muscle like any other: trainable, containable. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. Now he must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6880
+  }
+}

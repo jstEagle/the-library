@@ -1,0 +1,119 @@
+{
+  "title": "Yara and the Vector",
+  "slug": "science-fiction/yara-and-the-vector",
+  "model": "stealth/ox-alpha",
+  "premise": "Isandro Thornbury, the last human technician aboard the automated relay station Vesper's Loom, intercepts a distress call in a dead language and discovers a stowaway ship carrying survivors of the Kessari, a people erased in the Fleet Wars. To protect them, she fabricates orders from two rival fleet commands, weaving a lie that keeps their armadas from colliding over the station. As the truce clock runs down, Isandro must choose between exposing herself as a fraud and letting the fleets destroy the last of a civilization she has come to love as her own. In the end she broadcasts her own voice—unauthorized, human, and honest—and the truth forces both fleets to stand down, though it costs her the station, her anonymity, and nearly her life.",
+  "about_author": "Bram Quintana is a former orbital logistics analyst who spent six years writing technical manuals for deep-space relay systems before turning to fiction. They live in Lisbon with a rescue cat named Vector and an unhealthy collection of decommissioned radio equipment.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Hours",
+      "summary": "Isandro's POV. A routine cargo haul through contested orbits establishes her solitary life aboard Vesper's Loom, her rituals of invisibility, and her uneasy coexistence with the station's automation. Emotional beat: loneliness worn like armor."
+    },
+    {
+      "n": 2,
+      "title": "Signal in a Dead Tongue",
+      "summary": "Isandro's POV. During a maintenance sweep she detects a distress transmission in Kessari—a language extinct since the Fleet Wars. The station's AI flags it as corrupted data; she knows better. Emotional beat: the thrill and terror of being noticed by history."
+    },
+    {
+      "n": 3,
+      "title": "Ghost Ship at Perigee",
+      "summary": "Isandro's POV. She tracks the signal to a derelict hulk drifting into station airspace, carrying forty-one cryo-sleeping Kessari survivors. One pod is failing. Emotional beat: compassion overriding self-preservation."
+    },
+    {
+      "n": 4,
+      "title": "Forty-One Heartbeats",
+      "summary": "Isandro's POV. She revives Sefi, a young Kessari engineer, hiding her in the cargo bays. Their first halting conversation reveals the survivors fled a purge both fleets officially deny happened. Emotional beat: fragile trust across a gulf of grief."
+    },
+    {
+      "n": 5,
+      "title": "Two Fleets, One Sky",
+      "summary": "Sefi's POV. Through Sefi's eyes we see the station's strategic position: both the Concord fleet and the Meridian armada are converging on the relay for scheduled resupply. If either boards, the survivors are dead. Emotional beat: claustrophobic dread."
+    },
+    {
+      "n": 6,
+      "title": "Orders That Never Were",
+      "summary": "Isandro's POV. Desperate, Isandro drafts forged fleet directives establishing the station as neutral medical quarantine territory. The station AI, half-sentient and curious, becomes her reluctant accomplice. Emotional beat: the first taste of power, and how easily it fits her hand."
+    },
+    {
+      "n": 7,
+      "title": "The Lie Takes Root",
+      "summary": "Isandro's POV. Both fleets accept the forged orders and reroute around the station. Isandro begins maintaining the fiction with daily fake telemetry. Emotional beat: intoxicating competence shadowed by guilt."
+    },
+    {
+      "n": 8,
+      "title": "Sefi Teaches the Dead Language",
+      "summary": "Sefi's POV. While the fleets circle, Sefi teaches Isandro Kessari, and stories of a homeworld Isandro only knew as a war footnote. Isandro realizes she has never belonged anywhere until now. Emotional beat: belonging discovered in secret."
+    },
+    {
+      "n": 9,
+      "title": "Anomaly in the Logs",
+      "summary": "Isandro's POV. A Concord auditor, Wren Okafor, notices discrepancies in the station's traffic records and requests a boarding inspection. Isandro stalls using weather interference and forged maintenance schedules. Emotional beat: the noose tightening."
+    },
+    {
+      "n": 10,
+      "title": "The Truce Clock",
+      "summary": "Sefi's POV. The fleets' provisional truce expires in thirty days; after that, contested orbits become open war. Sefi urges broadcasting the survivors' existence to force moral reckoning; Isandro insists secrecy is survival. Emotional beat: allies fracturing under pressure."
+    },
+    {
+      "n": 11,
+      "title": "Wren",
+      "summary": "Wren's POV. Aboard the Concord flagship, auditor Wren Okafor pieces together the anomaly—not out of duty but because the falsified data is too elegant, too human. She requests transfer to investigate personally. Emotional beat: obsession kindled."
+    },
+    {
+      "n": 12,
+      "title": "Cargo Run Through a Crossfire",
+      "summary": "Isandro's POV. A supply run forces Isandro through a Meridian patrol cordon; she bluffs her way past using her forged credentials, nearly exposed when a Meridian officer recognizes the directive format. Emotional beat: adrenaline and the realization the lie has a shelf life."
+    },
+    {
+      "n": 13,
+      "title": "What the Station Remembers",
+      "summary": "Station AI POV (rendered as system logs interleaved with narration). The AI, designated LOOM, reflects on three years of silence and its complicity in Isandro's deceptions, developing something like loyalty. Emotional beat: unexpected tenderness from a machine."
+    },
+    {
+      "n": 14,
+      "title": "The Second Signal",
+      "summary": "Isandro's POV. Another Kessari distress signal arrives—from inside the Concord fleet itself, revealing hidden Kessari conscripts serving under false identities. The lie could protect them all or unravel everything. Emotional beat: hope complicated by risk."
+    },
+    {
+      "n": 15,
+      "title": "Okafor Boards",
+      "summary": "Wren's POV. Wren arrives at the station under inspection pretense. Isandro gives her the tour of a lifetime, every room rehearsed. Wren finds nothing—but leaves a deliberate trace, signaling she knows she's being managed. Emotional beat: cat-and-mouse dread."
+    },
+    {
+      "n": 16,
+      "title": "Fracture",
+      "summary": "Sefi's POV. A failing cryo-pod kills one of the survivors. Grief ignites conflict among the awakened Kessari between Sefi's patience and a hardliner's demand to seize the station and broadcast. Emotional beat: a sanctuary becoming a powder keg."
+    },
+    {
+      "n": 17,
+      "title": "Confession at Airlock Nine",
+      "summary": "Isandro's POV. Wren confronts Isandro privately with evidence of the forgery. Instead of arresting her, Wren reveals the Kessari conscripts and asks what Isandro is protecting. Isandro tells the whole truth. Emotional beat: relief and terror of being seen."
+    },
+    {
+      "n": 18,
+      "title": "Truce Expires",
+      "summary": "Multiple POVs. The truce lapses; both fleets converge on the station as legitimate military target. LOOM warns that any broadcast will draw fire within minutes. Emotional beat: countdown pressure, everything converging."
+    },
+    {
+      "n": 19,
+      "title": "The Voice on Every Channel",
+      "summary": "Isandro's POV. Climax. Isandro hijacks the station's full array and broadcasts in Kessari and Fleet Standard simultaneously—the survivors' existence, her forgery, her name. Both fleets hold fire, paralyzed by the truth. Emotional beat: terrifying liberation."
+    },
+    {
+      "n": 20,
+      "title": "Standoff at Vesper's Loom",
+      "summary": "Wren's POV. Wren defies her own command to corroborate Isandro's broadcast, presenting the conscript evidence to the Concord council. The Meridian, unwilling to be seen massacring civilians before witnesses, stands down. Emotional beat: courage begetting courage."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath of Truth",
+      "summary": "Sefi's POV. The survivors are granted protected passage; the Kessari conscripts step into daylight. Isandro loses the station—decommissioned as evidence—but gains something rarer: a community that knows her name. Emotional beat: grief and gratitude entwined."
+    },
+    {
+      "n": 22,
+      "title": "Yara",
+      "summary": "Isandro's POV. Epilogue. Sefi gives Isandro a Kessari name—Yara, 'the one who carries voices.' Aboard a new vessel bound for a resettlement world, Yara transmits a message home in two languages. Emotional beat: identity chosen, belonging earned."
+    }
+  ]
+}

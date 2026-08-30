@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04665",
+  "title": "Ivo and the Silence",
+  "author": "Oscar Oyelaran",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ines Yarrow, an heir cataloging a parent's silence after the funeral, has spent three years practicing the art of almost saying it. Then a box of undelivered letters surfaces behind a wardrobe — and they are pulled straight into the middle of it. To get through this, they must say goodbye properly, at last, out loud before the house sale closes.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4665
+  }
+}

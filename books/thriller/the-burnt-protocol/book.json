@@ -1,0 +1,21 @@
+{
+  "id": "THR-08497",
+  "title": "The Burnt Protocol",
+  "author": "Isandro Nystrom",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Casper Halloran, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. To get through this, they must extract a defector who may be the bait before the markets open in Frankfurt.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8497
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04348",
+  "title": "Noor and the Wardrobe",
+  "author": "Sebastian Sandoval",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Xanthe Underhill, a letter-writer sending postcards to an address that burned down years ago, has spent ten years practicing the art of almost saying it. Then the last speaker of a language asks for one final student — and he is pulled straight into the middle of it. To get through this, he must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4348
+  }
+}

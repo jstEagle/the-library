@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05966",
+  "title": "A Kitchen for the Summer",
+  "author": "Vesper Marchetti",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ulyana Vane, a single parent running the town's only bookshop, believes second chances are for people with better timing. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. To get through this, they must say the sentence that has been rehearsed for a decade before the festival ends.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5966
+  }
+}

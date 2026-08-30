@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05141",
+  "title": "A Parish for the Will",
+  "author": "Ivo Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Petra Blackwood, an estate lawyer reading a will that shouldn't exist, has spent twelve years keeping the town's secrets filed and alphabetized. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5141
+  }
+}

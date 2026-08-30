@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09743",
+  "title": "The Secret Scholarship",
+  "author": "Rafael Hartwell",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Kestrel Oyelaran, the team's statistician who knows the game is rigged, has spent twelve years being so careful it hurts. Then a group chat starts predicting things that haven't happened yet — and he is pulled straight into the middle of it. Now he must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9743
+  }
+}

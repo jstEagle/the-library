@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07640",
+  "title": "The Hollow Horizon",
+  "author": "Petra Eriksen",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Paloma Kavanagh, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7640
+  }
+}

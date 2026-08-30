@@ -1,0 +1,21 @@
+{
+  "id": "THR-08457",
+  "title": "A Drop for the Asset",
+  "author": "Elodie Whitlock",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ivo Iversen, a whistle-blower living under four names, hasn't slept through the night since the incident. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and she is pulled straight into the middle of it. To get through this, she must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8457
+  }
+}

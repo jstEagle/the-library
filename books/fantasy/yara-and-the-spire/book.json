@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01882",
+  "title": "Yara and the Spire",
+  "author": "Ines Vasquez",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ulyana Okafor, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1882
+  }
+}

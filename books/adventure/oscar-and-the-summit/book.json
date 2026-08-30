@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00648",
+  "title": "Oscar and the Summit",
+  "author": "Freya Sandoval",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.8,
+  "blurb": "Ada Nystrom, a desert ranger tracking a thief across nothing, carries a compass, a debt, and very little else. But when an expedition upriver stops answering the radio, they discover that staying invisible was never really an option. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 648
+  }
+}

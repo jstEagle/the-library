@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09853",
+  "title": "The Secret Homecoming",
+  "author": "Sebastian Blackwood",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Petra Joubert, the new kid at a school built over something old, is fine. Everything is fine. Obviously.. Then a best friend goes missing, leaving only a set of keys behind — and he is pulled straight into the middle of it. Now he must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9853
+  }
+}

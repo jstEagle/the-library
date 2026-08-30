@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06197",
+  "title": "A Summer for the Letters",
+  "author": "Ines Kavanagh",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ines Thornbury, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6197
+  }
+}

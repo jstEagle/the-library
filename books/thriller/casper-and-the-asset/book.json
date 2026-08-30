@@ -1,0 +1,21 @@
+{
+  "id": "THR-08910",
+  "title": "Casper and the Asset",
+  "author": "Ivo Vasquez",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Rafael Brightwater, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8910
+  }
+}

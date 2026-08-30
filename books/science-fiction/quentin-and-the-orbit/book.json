@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08138",
+  "title": "Quentin and the Orbit",
+  "author": "Coral Hartwell",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Zephyrine Sterling, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. To get through this, he must keep a lie alive that holds two fleets apart before the fleet's truce expires.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8138
+  }
+}

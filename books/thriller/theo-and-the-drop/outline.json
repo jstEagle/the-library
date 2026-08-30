@@ -1,0 +1,119 @@
+{
+  "title": "Theo and the Drop",
+  "slug": "thriller/theo-and-the-drop",
+  "model": "stealth/ox-alpha",
+  "premise": "Sebastian Brightwater, a crash investigator haunted by the death of his family in row twelve, receives a meeting invitation from a handler who died three days ago. The invitation pulls him into a conspiracy: an attack engineered to look like an accident, timed to the border checkpoint shift change, orchestrated by the very agency that once cleared him to investigate. With the help of Mara Voss, the dead handler's estranged daughter, and a ragtag network of whistleblowers who become the family he thought he'd lost, Sebastian races to expose the plot before the shifts change. In the end he must choose between destroying the evidence that could restore his reputation and saving the people who now call him theirs — and he chooses them, burning his old life to stop the attack.",
+  "about_author": "Marguerite Eriksen is a former aviation safety analyst who spent a decade writing incident reports before turning to fiction. She lives near a small regional airfield, where she claims the best plots arrive on delayed flights.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Sebastian's POV. A sleepless night replaying the crash that killed his wife and son in row twelve; he reviews wreckage photos he should have archived years ago. The chapter establishes his guilt, his insomnia, and the hollow routine of his days. Emotional beat: grief as a place he lives rather than visits."
+    },
+    {
+      "n": 2,
+      "title": "The Invitation",
+      "summary": "Sebastian's POV. An email arrives from Handler Ilya Renner — confirmed dead three days ago — scheduling a meeting for tomorrow at 0600 at a decommissioned hangar. Attached is a single file labeled ROW 12. Emotional beat: dread curdling into compulsion; he cannot not go."
+    },
+    {
+      "n": 3,
+      "title": "Hangar Nine",
+      "summary": "Mara's POV. Mara Voss, watching her father's old contacts, intercepts Sebastian at the hangar before whoever killed Renner can. She reveals Renner suspected the crash was staged and left a dead-man's drop. Emotional beat: two strangers bound by suspicion, neither trusting the other."
+    },
+    {
+      "n": 4,
+      "title": "The Drop",
+      "summary": "Alternating POVs. They retrieve Renner's cache: flight data suggesting the row-twelve fire was ignited deliberately, plus a partial schedule referencing 'shift change' at the Kestrel border checkpoint. Emotional beat: grief reframed — if it was murder, someone owes him the truth."
+    },
+    {
+      "n": 5,
+      "title": "Clean Hands",
+      "summary": "Antagonist POV (Director Hale). Hale learns Renner's cache is missing and orders the investigation buried quietly, authorizing surveillance on 'the widower.' Emotional beat: chilling bureaucratic calm; evil as paperwork."
+    },
+    {
+      "n": 6,
+      "title": "Shift Change",
+      "summary": "Sebastian's POV. He decodes the schedule: the attack is set for the night the border checkpoint rotates guards — a window when an 'accident' would go unexamined for hours. Eleven days remain. Emotional beat: the clock starts; insomnia becomes purpose."
+    },
+    {
+      "n": 7,
+      "title": "The Whistle Network",
+      "summary": "Mara's POV. Mara brings Sebastian to Renner's old informants — a disgraced dispatcher, a retired mechanic, a teenage hacker — misfits who become an improvised team. Emotional beat: first warmth; the found family begins to assemble."
+    },
+    {
+      "n": 8,
+      "title": "Tail Lights",
+      "summary": "Sebastian's POV. Realizing they're followed, Sebastian runs a counter-surveillance gambit through the freight yards, losing the tail but confirming Hale's people are close. Emotional beat: fear sharpening into competence."
+    },
+    {
+      "n": 9,
+      "title": "What Renner Knew",
+      "summary": "Mara's POV. Deciphering Renner's notes, Mara confronts the possibility her father was complicit before turning whistleblower. Emotional beat: love against duty — she must decide whether to protect his memory or expose it."
+    },
+    {
+      "n": 10,
+      "title": "The Mechanic's Confession",
+      "summary": "Sebastian's POV. The retired mechanic admits he installed a modified component on the row-twelve aircraft under orders, believing it benign. His testimony links the sabotage chain to a contractor tied to the agency. Emotional beat: shared guilt; forgiveness offered freely."
+    },
+    {
+      "n": 11,
+      "title": "Burn Notice",
+      "summary": "Hale's POV. Hale burns the mechanic's shop and pins it on arson, sending a message. One informant panics and considers selling them out. Emotional beat: the cost of belonging becomes visible."
+    },
+    {
+      "n": 12,
+      "title": "Safehouse",
+      "summary": "Mara's POV. Huddled in a safehouse, the group shares a real meal; Sebastian sleeps two full hours for the first time since the crash. Emotional beat: tenderness amid danger; the found family solidifies."
+    },
+    {
+      "n": 13,
+      "title": "The Traitor's Price",
+      "summary": "Sebastian's POV. The panicked informant sells their location; the safehouse is raided. The hacker covers their escape but is captured. Emotional beat: rage and helplessness; the enemy takes a hostage."
+    },
+    {
+      "n": 14,
+      "title": "Leverage",
+      "summary": "Hale's POV. Hale interrogates the hacker, seeking the cache location, and offers Sebastian a deal through back channels: return the files, get his reputation restored. Emotional beat: temptation framed as mercy."
+    },
+    {
+      "n": 15,
+      "title": "Row Twelve, Reopened",
+      "summary": "Sebastian's POV. Sebastian formally reopens the row-twelve case using the cache data, forcing the agency to respond publicly — buying time but painting a target on everyone. Emotional beat: duty and love collide openly."
+    },
+    {
+      "n": 16,
+      "title": "Exchange at the Yards",
+      "summary": "Mara's POV. A botched prisoner exchange: they recover the hacker but lose the physical cache copy to Hale's team — though the hacker had already seeded backups. Emotional beat: loss that feels like victory; trust proven under fire."
+    },
+    {
+      "n": 17,
+      "title": "Forty Hours",
+      "summary": "Sebastian's POV. With forty hours until shift change, they map the attack: a cargo drone disguised as a charter flight, timed to detonate over the checkpoint. Emotional beat: clarity; every skill each misfit owns finally matters."
+    },
+    {
+      "n": 18,
+      "title": "The Long Night",
+      "summary": "Alternating POVs. The team splits — one to ground the drone, one to leak evidence to press and regulators, one to hold the checkpoint open past shift change. Emotional beat: terror transmuted into resolve."
+    },
+    {
+      "n": 19,
+      "title": "Checkpoint Kestrel",
+      "summary": "Sebastian's POV. Climax part one: Sebastian confronts Hale at the checkpoint as the drone approaches, offering the truth instead of the deal. Hale orders the strike anyway. Emotional beat: love against duty made literal."
+    },
+    {
+      "n": 20,
+      "title": "Grounded",
+      "summary": "Mara's POV. Climax part two: Mara and the mechanic kill the drone's guidance mid-approach; it ditches harmlessly in the marsh as the shift-change window closes and the press leaks land. Hale is arrested by his own security detail. Emotional beat: exhale after held breath."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath",
+      "summary": "Sebastian's POV. Testimony, hearings, and the quiet burial of Renner beside a headstone Mara chose. Sebastian gives the eulogy for the family he didn't know he had. Emotional beat: grief given somewhere new to go."
+    },
+    {
+      "n": 22,
+      "title": "First Light",
+      "summary": "Sebastian's POV, closing with Mara's. Morning at the hangar-turned-workshop; the team debates its next case. Sebastian sleeps through the night and wakes to voices downstairs making coffee. Emotional beat: belonging, earned and chosen."
+    }
+  ]
+}

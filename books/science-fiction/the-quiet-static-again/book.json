@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08246",
+  "title": "The Quiet Static Again",
+  "author": "Marguerite Thornbury",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Astrid Pemberton, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8246
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03897",
+  "title": "A Harvest for the Winter",
+  "author": "Noor Whitlock",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Marguerite Blackwood, a pest controller called to something with fingerprints, has spent ten years telling themselves the noises have explanations. Then all the photographs from grandma's house now include an extra chair — and they are pulled straight into the middle of it. Now they must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3897
+  }
+}

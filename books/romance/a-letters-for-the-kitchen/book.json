@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06418",
+  "title": "A Letters for the Kitchen",
+  "author": "Orsen Reyes",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Astrid Okonkwo, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. But when the anonymous pen-pal assignment pairs enemies instead of strangers, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6418
+  }
+}

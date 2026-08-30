@@ -1,0 +1,21 @@
+{
+  "id": "THR-08974",
+  "title": "August and the Safehouse",
+  "author": "Felix Delacroix",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ada Underhill, a financial-crimes investigator drowning in clean money, has spent five years following rules that keep getting rewritten. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8974
+  }
+}

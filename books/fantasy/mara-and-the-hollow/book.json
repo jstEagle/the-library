@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01893",
+  "title": "Mara and the Hollow",
+  "author": "Rafael Okonkwo",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Bram Quintana, a hedge-witch's runaway apprentice, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1893
+  }
+}

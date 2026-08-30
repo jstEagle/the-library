@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02493",
+  "title": "A Orchard for the Ledger",
+  "author": "R. M. Okafor",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Mara Vane, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. But when a sealed letter names the family in a plot no one wants a part of, they discover that staying invisible was never really an option. To get through this, they must smuggle the evidence past three checkpoints before the ship sails on the morning tide.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2493
+  }
+}

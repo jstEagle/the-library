@@ -1,0 +1,119 @@
+{
+  "title": "Emrys and the Asset",
+  "slug": "thriller/emrys-and-the-asset",
+  "model": "stealth/ox-alpha",
+  "premise": "Emrys Voss, a whistle-blower living under four names since the incident that killed her team, is dragged back into the open when her old voiceprint unlocks a dormant server in Reykjavik containing proof of 'Meridian' — a plot to destroy a hydroelectric dam during the Arctic Energy Summit and frame her for it. Hunted by the private intelligence firm she once exposed and shadowed by Ilya Renner, the firm's defector who may be her only ally or her handler, Emrys must trace the asset — a person, not a weapon — before the summit convenes. In the end she chooses love over duty, exposing Meridian at the cost of her last safe identity, and walks into custody with Ilya beside her rather than run alone again.",
+  "about_author": "Zephyrine Pemberton is the pen name of a former risk analyst who spent a decade writing threat assessments for governments she no longer trusts. She lives somewhere cold, under at least two names herself.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Four Names",
+      "summary": "Emrys's POV. A sleepless night in a rented flat in Porto; we learn her rituals of anonymity and the nightmare of the incident. When an alert pings — her retired voiceprint has authenticated on a server she thought dead — the beat is dread: someone just said her real name aloud."
+    },
+    {
+      "n": 2,
+      "title": "The Voice in the Machine",
+      "summary": "Emrys POV. She traces the authentication to Reykjavik and finds an encrypted archive addressed to her old codename, timestamped hours ago. The beat: vertigo — the past isn't buried, it's broadcasting."
+    },
+    {
+      "n": 3,
+      "title": "Meridian Rising",
+      "summary": "Emrys POV. Inside the archive: schematics of the Skjálfanda dam, summit schedules, and a file labeled ASSET with her own face. Someone plans to make her the scapegoat. Beat: cold clarity replacing panic."
+    },
+    {
+      "n": 4,
+      "title": "Ilya",
+      "summary": "Ilya Renner's POV. The defector watches Emrys's arrival in Reykjavik through a borrowed camera feed, ordered to confirm her location for his employers while composing a warning he shouldn't send. Beat: divided loyalty made flesh."
+    },
+    {
+      "n": 5,
+      "title": "Harbor Lights",
+      "summary": "Emrys POV. First meeting with Ilya in a fish-market café; he claims defection, she tests him with a lie about her route. He catches it. Beat: wary attraction sharpened by mutual suspicion."
+    },
+    {
+      "n": 6,
+      "title": "What the Incident Was",
+      "summary": "Dual flashback chapter, Emrys POV. The night her team died exposing the firm Halcyon Verity — and the order she obeyed that haunts her. Beat: grief reframed as guilt; the reader learns survival was her price."
+    },
+    {
+      "n": 7,
+      "title": "The Asset Is a Person",
+      "summary": "Emrys and Ilya POV alternating. They decode the ASSET file: not malware but a coerced engineer, Dr. Sif Halldórsdóttir, whose family is hostage to her compliance. Beat: the mission acquires a human face."
+    },
+    {
+      "n": 8,
+      "title": "Counter-Surveillance",
+      "summary": "Ilya POV. His handlers grow suspicious; he feeds them a false location for Emrys while she sleeps ten feet away. Beat: the point of no return — he has chosen her over duty without admitting it."
+    },
+    {
+      "n": 9,
+      "title": "Sif's House",
+      "summary": "Emrys POV. They reach Sif's farmhouse; she denies everything until Emrys shows her the file listing her daughter's school. Beat: terror shared becomes alliance; first crack in Meridian's plan."
+    },
+    {
+      "n": 10,
+      "title": "The Summit Guest List",
+      "summary": "Emrys POV. Cross-referencing attendees reveals Meridian's inside man: a deputy security chief named Okafor whom Emrys once trusted. Beat: betrayal compounds — even her allies have aliases."
+    },
+    {
+      "n": 11,
+      "title": "Dead Drop in the Fog",
+      "summary": "Ilya POV. A handoff goes wrong; Halcyon operatives kill the courier and Ilya barely escapes, wounded. Beat: the hunt turns hot, and his cover begins burning."
+    },
+    {
+      "n": 12,
+      "title": "Triage",
+      "summary": "Emrys POV. She patches Ilya's shoulder in a safehouse; between pain and adrenaline they finally speak honestly — about the incident, about what running costs. Beat: love acknowledged but unacted upon; duty still stands between them."
+    },
+    {
+      "n": 13,
+      "title": "Okafor's Offer",
+      "summary": "Okafor's POV. He contacts Emrys directly: surrender quietly, testify falsely, and Sif's family lives. He believes he's saving everyone. Beat: the antagonist revealed as a true believer, not a monster."
+    },
+    {
+      "n": 14,
+      "title": "Seventy-Two Hours",
+      "summary": "Emrys POV. Countdown established: the attack is set for the summit's opening ceremony, disguised as a structural failure. The team splits — Sif to the dam, Ilya to intercept the demolition charges' signal chain. Beat: grim resolve."
+    },
+    {
+      "n": 15,
+      "title": "The Dam at Night",
+      "summary": "Sif's POV. Inside the facility, Sif sabotages from within while pretending compliance, buying hours by corrupting sensor data. Beat: quiet courage; the coerced become the rescuers."
+    },
+    {
+      "n": 16,
+      "title": "Burned",
+      "summary": "Ilya POV. His handlers discover his treachery; an extraction team is dispatched to take him alive — or not. He sends Emrys everything he knows and deletes his escape routes. Beat: sacrifice offered in silence."
+    },
+    {
+      "n": 17,
+      "title": "Signal Chain",
+      "summary": "Emrys POV. Racing through Reykjavik's storm drains to sever the trigger relay, she realizes the backup trigger runs through Okafor's summit badge. Beat: the plan's true shape emerges — the attack needs the summit itself."
+    },
+    {
+      "n": 18,
+      "title": "Opening Ceremony",
+      "summary": "Multi-POV convergence. As dignitaries assemble, Emrys infiltrates the venue using Ilya's stolen credentials; Ilya stalls his own extraction team; Sif holds the dam's failsafe. Beat: all threads pulled taut."
+    },
+    {
+      "n": 19,
+      "title": "The Choice",
+      "summary": "Emrys POV. Confronting Okafor live on the summit floor, she must choose: broadcast the evidence (exposing herself, ending every alias) or trade silence for Sif's family. Beat: climax — she broadcasts, and triggers the failsafe remotely with Sif."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath of Noise",
+      "summary": "Ilya POV. The dam holds; Okafor is arrested; Halcyon's extraction team stands down under sudden legal exposure. Ilya, bleeding and burned, waits to learn if Emrys ran without him. Beat: exhausted hope."
+    },
+    {
+      "n": 21,
+      "title": "One Name Left",
+      "summary": "Emrys POV. Interrogated by Icelandic and EU authorities, she testifies under her real name for the first time in years — and finds it doesn't kill her. Beat: inheritance reclaimed; survival redefined as truth-telling."
+    },
+    {
+      "n": 22,
+      "title": "Emrys and Ilya",
+      "summary": "Emrys POV, closing. Released pending trial, stripped of four names down to one, she meets Ilya at the harbor where they first met. No new identities, no running. Beat: resolution — love chosen openly against every instinct that kept her alive."
+    }
+  ]
+}

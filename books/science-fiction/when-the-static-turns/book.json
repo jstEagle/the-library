@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07092",
+  "title": "When the Static Turns",
+  "author": "Mirabel Oyelaran",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Lena Dravenmoor, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and she is pulled straight into the middle of it. To get through this, she must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "identity",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7092
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09670",
+  "title": "Locker and Recipe",
+  "author": "Mara Delacroix",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Ines Lockridge, the eldest sibling raising the younger ones while mom works nights, stays under the radar: head down, grades up, locker shut. But when the teacher pairs nemesis with nemesis for a semester-long project, they discover that staying invisible was never really an option. To get through this, they must save the tradition that made the town before graduation.",
+  "themes": [
+    "belonging",
+    "memory",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9670
+  }
+}

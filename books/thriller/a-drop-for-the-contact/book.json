@@ -1,0 +1,21 @@
+{
+  "id": "THR-09107",
+  "title": "A Drop for the Contact",
+  "author": "Dominic Okafor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Casper Reyes, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9107
+  }
+}

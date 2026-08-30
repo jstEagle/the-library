@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07218",
+  "title": "The Bright Echo",
+  "author": "Vesper Nystrom",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Marguerite Vasquez, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7218
+  }
+}

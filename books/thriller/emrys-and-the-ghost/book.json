@@ -1,0 +1,21 @@
+{
+  "id": "THR-09100",
+  "title": "Emrys and the Ghost",
+  "author": "Zephyrine Villalobos",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Wren Ravensworth, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. Now they must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9100
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07978",
+  "title": "Ines and the Echo",
+  "author": "Ada Iversen",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Petra Oyelaran, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7978
+  }
+}

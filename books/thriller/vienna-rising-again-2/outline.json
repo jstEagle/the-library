@@ -1,0 +1,29 @@
+{
+  "title": "Vienna Rising Again",
+  "slug": "thriller/vienna-rising-again-2",
+  "model": "stealth/ox-alpha",
+  "premise": "Cyrus Ishikawa, a disgraced hostage negotiator hiding in Vienna after a botched exchange left a colleague dead, receives a call on an unregistered phone from the voice of the man he failed to save. The caller claims to be alive and offers Cyrus a way out: extract Elena Voss, a cryptographer defecting from a shadowy syndicate, before her handlers realize she's bait designed to lure Cyrus back into the open. As Cyrus assembles a makeshift crew of fellow invisible people—a forger, a night-nurse smuggler, and a teenage pickpocket—he realizes the voice is a deepfake deployed by the syndicate's architect, who needs Cyrus's unique negotiating style to legitimize a false extraction. In the dawn climax at Schwechat airfield, Cyrus turns the trap inside out, trading himself for Elena and exposing the architect mid-broadcast, then chooses to stop running, finding in his ragtag crew the family he thought his failure had cost him.",
+  "about_author": "Oscar Iversen is the pen name of a former crisis-line counselor who spent six years listening to people talk their way out of impossible corners. He writes thrillers about ordinary negotiators, moral debt, and the families we build after everything official has abandoned us.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Phone That Shouldn't Ring",
+      "summary": "Cyrus Ishikawa's POV. Two years into self-imposed exile in Vienna, Cyrus works nights scrubbing negotiation transcripts for a security firm, sleeping four hours, waking to replay the incident. A burner phone appears in his mailbox; when it rings, he hears Daniel Reyes—the colleague whose death broke him—offering redemption if he extracts defector Elena Voss by dawn. Emotional beat: dread curdling into desperate hope."
+    },
+    {
+      "n": 2,
+      "title": "A Crew of Ghosts",
+      "summary": "Cyrus's POV, with an interlude from Elena. Cyrus verifies Elena is real but finds inconsistencies in the caller's story. He recruits Marisol, a document forger; Petra, a nurse who moves people through hospital corridors; and Kofi, a sixteen-year-old pickpocket who tails him. Planning the extraction, they bond over shared erasures. Emotional beat: cautious trust forming among people who trust no one."
+    },
+    {
+      "n": 3,
+      "title": "Voice of the Dead",
+      "summary": "Alternating Cyrus and Elena POVs. Mid-extraction, Elena reveals she recognized the voice too—it recruited her defection—and Cyrus discovers it's a synthetic reconstruction: the syndicate's architect, Aldous Wren, engineered the whole operation to force Cyrus to negotiate publicly, lending legitimacy to a decoy flight carrying stolen data. Betrayed but committed, Cyrus must decide whether to abort or hijack Wren's script. Emotional beat: betrayal transformed into resolve."
+    },
+    {
+      "n": 4,
+      "title": "Dawn at Schwechat",
+      "summary": "Cyrus's POV, closing with Kofi's. At the airfield, Cyrus plays Wren's game—negotiating over open channels—then flips it, broadcasting proof of the deepfake and Wren's network to authorities and press monitoring the frequency, offering himself in exchange for Elena's safe boarding. The flight leaves; Cyrus walks out not to arrest but to testimony, his crew waiting. Emotional beat: guilt answered by chosen family, sleep finally coming."
+    }
+  ]
+}

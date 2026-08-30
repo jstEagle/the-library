@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01961",
+  "title": "A Veil for the Thorn Again",
+  "author": "Hazel Pemberton",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Hazel Dunmore, the keeper of a gate that should stay shut, has spent five years selling small charms in a city that outlawed magic. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1961
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06464",
+  "title": "The Impossible Vow",
+  "author": "Ivo Brightwater",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Cyrus Ishikawa, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6464
+  }
+}

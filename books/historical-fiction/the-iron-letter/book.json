@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03088",
+  "title": "The Iron Letter",
+  "author": "Bram Sandoval",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Gideon Dunmore, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. To get through this, they must choose which family member gets the last berth before the ship sails on the morning tide.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3088
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09166",
+  "title": "Ines and the Drop",
+  "author": "M. M. Okonkwo",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Tamsin Kavanagh, a financial-crimes investigator drowning in clean money, has spent ten years following rules that keep getting rewritten. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. Now they must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9166
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08931",
+  "title": "The Safehouse of Vienna",
+  "author": "A. M. Thornbury",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Cyrus Dunmore, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "memory",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8931
+  }
+}

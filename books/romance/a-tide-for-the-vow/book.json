@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06171",
+  "title": "A Tide for the Vow",
+  "author": "Noor Zhou",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Rosalind Dunmore, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6171
+  }
+}

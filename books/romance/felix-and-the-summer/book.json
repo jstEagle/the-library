@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06483",
+  "title": "Felix and the Summer",
+  "author": "Cyrus Okonkwo",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Tamsin Amberdale, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. But when the person behind a decade of letters moves in next door, he discovers that staying invisible was never really an option. Now he must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6483
+  }
+}

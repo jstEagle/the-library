@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05758",
+  "title": "Ansel and the Portrait",
+  "author": "B. M. Yarrow",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Quentin Dravenmoor, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5758
+  }
+}

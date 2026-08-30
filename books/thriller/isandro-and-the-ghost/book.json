@@ -1,0 +1,21 @@
+{
+  "id": "THR-09049",
+  "title": "Isandro and the Ghost",
+  "author": "Casper Joubert",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Zephyrine Ashgrove, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "identity",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9049
+  }
+}

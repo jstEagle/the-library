@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04160",
+  "title": "When the Glasshouse Turns",
+  "author": "Yara Brightwater",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Quentin Vasquez, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. But when the last speaker of a language asks for one final student, she discovers that staying invisible was never really an option. Now she must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4160
+  }
+}

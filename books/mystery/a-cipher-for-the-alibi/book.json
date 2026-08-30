@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05403",
+  "title": "A Cipher for the Alibi",
+  "author": "O. M. Amberdale",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Astrid Okafor, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5403
+  }
+}

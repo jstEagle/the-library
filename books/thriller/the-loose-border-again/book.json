@@ -1,0 +1,21 @@
+{
+  "id": "THR-09331",
+  "title": "The Loose Border Again",
+  "author": "Wendell Sterling",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Odile Nakamura, a whistle-blower living under four names, has spent fifteen years following rules that keep getting rewritten. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9331
+  }
+}

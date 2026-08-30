@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01029",
+  "title": "When the Sigil Burns",
+  "author": "M. M. Vane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Emrys Ishikawa, a debt-bound temple scribe, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1029
+  }
+}

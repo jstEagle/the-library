@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08063",
+  "title": "Cyrus and the Vector",
+  "author": "Noor Ishikawa",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Silas Joubert, the last human technician on an automated relay station, records the slow death of a colony everyone else forgot. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8063
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01239",
+  "title": "Orsen and the Crown",
+  "author": "W. M. Almeida",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Sable Montrose, the youngest member of a dying guild, has spent twelve years selling small charms in a city that outlawed magic. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1239
+  }
+}

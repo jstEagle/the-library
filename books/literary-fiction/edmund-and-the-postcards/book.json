@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04768",
+  "title": "Edmund and the Postcards",
+  "author": "Edmund Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ines Almeida, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. Then a box of undelivered letters surfaces behind a wardrobe — and they are pulled straight into the middle of it. To get through this, they must say goodbye properly, at last, out loud before the demolition date arrives.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4768
+  }
+}

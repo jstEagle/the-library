@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02710",
+  "title": "The Winter Orchard",
+  "author": "A. M. Nystrom",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Beatrix Nystrom, a code-carrying courier on the last diplomatic mission of a doomed republic, keeps a low profile and busy hands. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and she is pulled straight into the middle of it. To get through this, she must keep a promise made in peacetime to someone now declared enemy before the century turns.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2710
+  }
+}

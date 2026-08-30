@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07886",
+  "title": "Theo and the Signal",
+  "author": "Marguerite Quintana",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Orsen Pemberton, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7886
+  }
+}

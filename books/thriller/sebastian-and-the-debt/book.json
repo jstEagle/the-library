@@ -1,0 +1,21 @@
+{
+  "id": "THR-09258",
+  "title": "Sebastian and the Debt",
+  "author": "Emrys Sterling",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Edmund Thornbury, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. To get through this, she must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9258
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08066",
+  "title": "Orsen and the Machine",
+  "author": "Ines Nakamura",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Wren Brightwater, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. But when a ship returns from deep space with everyone aboard aged backward, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8066
+  }
+}

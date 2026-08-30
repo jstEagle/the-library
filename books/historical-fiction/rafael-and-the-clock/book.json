@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02545",
+  "title": "Rafael and the Clock",
+  "author": "Xanthe Dravenmoor",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mara Coldharbour, a mapmaker's apprentice finishing the atlas the master died for, believes history happens to other people, elsewhere. But when the census taker asks one question too many, she discovers that staying invisible was never really an option. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2545
+  }
+}

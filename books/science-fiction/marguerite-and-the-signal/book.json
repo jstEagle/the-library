@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07829",
+  "title": "Marguerite and the Signal",
+  "author": "Wren Dravenmoor",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Xanthe Underhill, a starship navigator haunted by the backups sleeping in the hold, runs the long route between worlds that no longer speak. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7829
+  }
+}

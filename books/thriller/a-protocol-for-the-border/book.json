@@ -1,0 +1,21 @@
+{
+  "id": "THR-08516",
+  "title": "A Protocol for the Border",
+  "author": "Coral Coldharbour",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Marguerite Pemberton, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. But when every record of a flight vanishes while it's still in the air, he discovers that staying invisible was never really an option. To get through this, he must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8516
+  }
+}

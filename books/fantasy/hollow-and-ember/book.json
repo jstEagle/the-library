@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01122",
+  "title": "Hollow and Ember",
+  "author": "Isandro Delacroix",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Ansel Fairweather, the last oath-bound swordspeaker, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. To get through this, she must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "memory",
+    "identity",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1122
+  }
+}

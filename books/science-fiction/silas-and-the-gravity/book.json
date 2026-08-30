@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07053",
+  "title": "Silas and the Gravity",
+  "author": "Isandro Galloway",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ines Brightwater, a clone who inherited the original's murder case, has spent seven years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. To get through this, he must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7053
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00960",
+  "title": "Sigil and Garden",
+  "author": "Rafael Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Edmund Ravensworth, a cartographer of unmapped realms, has spent three years selling small charms in a city that outlawed magic. But when tonight's date appears in a book of prophecies written a century ago, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 960
+  }
+}

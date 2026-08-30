@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00058",
+  "title": "Emrys and the Rivergate",
+  "author": "Sable Blackwood",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Ada Eriksen, an archaeologist's estranged child and better digger, knows the wilderness forgives nothing and forgets less. But when the tide reveals a cave that legends charge admission to, they discover that staying invisible was never really an option. Now they must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 58
+  }
+}

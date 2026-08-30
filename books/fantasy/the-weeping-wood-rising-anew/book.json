@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02158",
+  "title": "the Weeping Wood Rising Anew",
+  "author": "Paloma Okonkwo",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Wendell Yarrow, an exiled storm-caller, has spent three years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2158
+  }
+}

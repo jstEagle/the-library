@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07290",
+  "title": "The Hollow Protocol",
+  "author": "Odile Okonkwo",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Gideon Crane, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7290
+  }
+}

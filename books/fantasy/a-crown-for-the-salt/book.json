@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01532",
+  "title": "A Crown for the Salt",
+  "author": "Paloma Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Edmund Ravensworth, a mercenary sworn to a god that went silent, has spent twenty years selling small charms in a city that outlawed magic. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1532
+  }
+}

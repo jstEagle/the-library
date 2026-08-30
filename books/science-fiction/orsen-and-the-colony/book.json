@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07042",
+  "title": "Orsen and the Colony",
+  "author": "Wendell Hartwell",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ines Sterling, a decommissioned war android paying off its debts, has spent five years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. To get through this, she must reach the relay at the edge of dead space, racing the signal before Earth's last transmission loop ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7042
+  }
+}

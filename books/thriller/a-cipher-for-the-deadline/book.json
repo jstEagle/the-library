@@ -1,0 +1,21 @@
+{
+  "id": "THR-09047",
+  "title": "A Cipher for the Deadline",
+  "author": "Isandro Underhill",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Mara Yarrow, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. But when every record of a flight vanishes while it's still in the air, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the extraction flight leaves at dawn.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9047
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03692",
+  "title": "Ulyana and the Hymn",
+  "author": "Felix Lockridge",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Underhill, a radio host taking calls from listeners who died last week, keeps the lights on and the doors counted. But when the childhood imaginary friend is waiting on the porch, unchanged, he discovers that staying invisible was never really an option. Now he must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3692
+  }
+}

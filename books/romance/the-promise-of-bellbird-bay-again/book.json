@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06974",
+  "title": "The Promise of Bellbird Bay Again",
+  "author": "Lena Sterling",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Cyrus Hartwell, a cellist recovering from one catastrophic final performance, has spent three years rebuilding a life measured in small safe steps. But when two estranged names appear on the same impossibly stubborn orchard deed, she discovers that staying invisible was never really an option. Now she must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6974
+  }
+}

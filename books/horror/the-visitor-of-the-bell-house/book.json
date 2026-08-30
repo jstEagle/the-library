@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03231",
+  "title": "The Visitor of the Bell House",
+  "author": "Noor Vasquez",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Tamsin Pemberton, a twin who came home to bury the wrong sibling, keeps the lights on and the doors counted. But when the childhood imaginary friend is waiting on the porch, unchanged, she discovers that staying invisible was never really an option. Now she must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3231
+  }
+}

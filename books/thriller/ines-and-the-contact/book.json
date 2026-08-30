@@ -1,0 +1,21 @@
+{
+  "id": "THR-08735",
+  "title": "Ines and the Contact",
+  "author": "Marguerite Whitlock",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Noor Kavanagh, a crash investigator whose family died in row twelve, has spent five years following rules that keep getting rewritten. But when a voiceprint unlocks a server on another continent, they discover that staying invisible was never really an option. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8735
+  }
+}

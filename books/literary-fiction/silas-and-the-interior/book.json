@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04324",
+  "title": "Silas and the Interior",
+  "author": "M. M. Fairweather",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Ines Reyes, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4324
+  }
+}

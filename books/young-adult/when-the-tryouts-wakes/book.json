@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09902",
+  "title": "When the Tryouts Wakes",
+  "author": "Mirabel Ishikawa",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ivo Vasquez, the only out kid in a town of nine hundred, counts days until graduation like a sentence being served. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. Now he must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9902
+  }
+}

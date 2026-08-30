@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02705",
+  "title": "Regiment and Harbor",
+  "author": "Orsen Halloran",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Oscar Nakamura, a typeface cutter's daughter in a print shop on the eve of a revolution, believes history happens to other people, elsewhere. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. To get through this, he must finish the work while the workshop still stands before the ship sails on the morning tide.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2705
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05157",
+  "title": "A Autopsy for the Verdict",
+  "author": "Lior Pemberton",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Jonah Okonkwo, an estate lawyer reading a will that shouldn't exist, has spent seven years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. Now she must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5157
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00799",
+  "title": "A Choir for the Thorn",
+  "author": "Rosalind Sandoval",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Isandro Joubert, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 799
+  }
+}

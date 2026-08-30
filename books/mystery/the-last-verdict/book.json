@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04810",
+  "title": "The Last Verdict",
+  "author": "Freya Oyelaran",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Sebastian Winterbourne, a true-crime podcaster chasing the coldest case on record, has spent twenty years keeping the town's secrets filed and alphabetized. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4810
+  }
+}

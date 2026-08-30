@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05286",
+  "title": "Emrys and the Witness",
+  "author": "M. M. Okonkwo",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Noor Underhill, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5286
+  }
+}

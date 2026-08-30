@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00563",
+  "title": "A Monsoon for the Wreck",
+  "author": "Yara Oyelaran",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Kestrel Delacroix, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. Then the river gives up a chest stamped with a dead nation's seal — and he is pulled straight into the middle of it. To get through this, he must beat the salvage fleet to the wreck by six tides before the concession permits expire.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 563
+  }
+}

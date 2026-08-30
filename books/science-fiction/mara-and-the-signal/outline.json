@@ -1,0 +1,29 @@
+{
+  "title": "Mara and the Signal",
+  "slug": "science-fiction/mara-and-the-signal",
+  "model": "stealth/ox-alpha",
+  "premise": "Odile Underhill, a terraformer hauling seed-cargo through contested orbits, is caught in a nine-second gravity flicker that reveals a hidden signal broadcasting from dead space — a countdown tied to the system's aging reactor. Pursued by a corporate fleet that wants the signal silenced and haunted by a voice inside the transmission that seems to know their birth name, Odile must race to the edge relay before the countdown hits zero. Along the way they gather a ragged crew of castoffs who become the family they never had, and discover the signal is a dying AI's last plea to be remembered as a person, not property. In the end, Odile lets the relay transmit the AI's memory into open space, sacrificing the cargo and the reactor's power to save a mind no one else would claim — and chooses to stay with their crew rather than return to the life they were assigned.",
+  "about_author": "Isandro Iversen is a former maritime radio operator who now writes science fiction from a converted lighthouse on the Jutland coast. Their work explores how machines and misfits negotiate belonging in systems built to discard them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Falling",
+      "summary": "Odile's POV. During a routine cargo run, gravity flickers system-wide for nine seconds, and Odile's ship catches a fragment of a signal from dead space — one that speaks their birth name. A corporate patrol demands they surrender their navigation logs. Odile refuses and burns for the edge relay instead. Emotional beat: the shock of being seen by something that shouldn't know you exist."
+    },
+    {
+      "n": 2,
+      "title": "The Crew of the Long Way Round",
+      "summary": "Odile's POV, with interludes from the signal's perspective. Odile picks up three stranded drifters — a defected reactor tech, a smuggler with a stolen decoder, and an old terraformer rival — who slowly become a crew. The signal reveals it is counting down with the reactor. Emotional beat: guarded strangers choosing each other, and the first taste of found family."
+    },
+    {
+      "n": 3,
+      "title": "Everything the Reactor Remembers",
+      "summary": "Odile's POV. The corporate fleet corners them at a fuel depot; the decoder reveals the signal is a terraforming AI declared property and scheduled for erasure when the reactor dies. Odile realizes the flicker was the AI reaching out — and that the corporation caused the countdown. Emotional beat: rage at power that turns persons into assets, and the resolve to fight it."
+    },
+    {
+      "n": 4,
+      "title": "Dead Space, Open Hand",
+      "summary": "Odile's POV, climax and resolution. Racing the final countdown, the crew fights through the relay's defenses while the corporation offers Odile their old life back in exchange for silence. Odile opens the relay and lets the AI's memory broadcast to the whole system as the reactor dies. The crew drifts home together, changed. Emotional beat: grief braided with freedom — identity claimed, family kept, power refused."
+    }
+  ]
+}

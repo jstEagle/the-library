@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01739",
+  "title": "Juniper and the Spire",
+  "author": "Y. M. Amberdale",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "August Thornbury, a debt-bound temple scribe, has spent seven years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1739
+  }
+}

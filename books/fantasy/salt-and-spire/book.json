@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00762",
+  "title": "Salt and Spire",
+  "author": "Petra Zhou",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Jonah Hartwell, the youngest member of a dying guild, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. To get through this, they must steal back a soul sold to the court beneath the mountain before the usurper's armies reach the free cities.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 762
+  }
+}

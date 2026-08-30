@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05164",
+  "title": "A Will for the Witness",
+  "author": "Quentin Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Oscar Dunmore, a true-crime podcaster chasing the coldest case on record, has spent three years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, she discovers that staying invisible was never really an option. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5164
+  }
+}

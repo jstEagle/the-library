@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05271",
+  "title": "Jude and the Portrait",
+  "author": "Freya Dravenmoor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Quentin Dunmore, a hotel concierge who notices everything, has spent twelve years keeping the town's secrets filed and alphabetized. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5271
+  }
+}

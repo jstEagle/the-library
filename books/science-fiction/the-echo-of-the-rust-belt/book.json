@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07304",
+  "title": "The Echo of the Rust Belt",
+  "author": "Dominic Eriksen",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Hazel Reyes, a decommissioned war android paying off its debts, has spent fifteen years hauling cargo through contested orbits. Then gravity flickers across the entire system for exactly nine seconds — and she is pulled straight into the middle of it. To get through this, she must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7304
+  }
+}

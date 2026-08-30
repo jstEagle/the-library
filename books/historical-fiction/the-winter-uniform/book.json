@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02733",
+  "title": "The Winter Uniform",
+  "author": "Xanthe Sandoval",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Ada Halloran, an apprentice clockmaker summoned to repair the observatory's master clock, believes history happens to other people, elsewhere. But when the bridge — the only road out — closes for the season, she discovers that staying invisible was never really an option. To get through this, she must smuggle the evidence past three checkpoints before the ice breaks on the river.",
+  "themes": [
+    "identity",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2733
+  }
+}

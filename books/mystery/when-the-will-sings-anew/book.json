@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05867",
+  "title": "When the Will Sings Anew",
+  "author": "R. M. Ashgrove",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Beatrix Hartwell, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when twin letters arrive: one confessing, one promising more, she discovers that staying invisible was never really an option. Now she must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5867
+  }
+}

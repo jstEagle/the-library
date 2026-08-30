@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09506",
+  "title": "When the Mixtape Burns",
+  "author": "S. M. Okonkwo",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Vesper Oyelaran, the eldest sibling raising the younger ones while mom works nights, has spent ten years being so careful it hurts. Then a group chat starts predicting things that haven't happened yet — and they are pulled straight into the middle of it. To get through this, they must save the tradition that made the town before the last game of the season.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9506
+  }
+}

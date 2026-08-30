@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00814",
+  "title": "The Sigil of the Weeping Wood",
+  "author": "Jonah Halloran",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Isandro Coldharbour, a bone-carver who hears the dead, has spent ten years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 814
+  }
+}

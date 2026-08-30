@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09946",
+  "title": "Mixtape and Playlist",
+  "author": "Oscar Galloway",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Casper Galloway, the only out kid in a town of nine hundred, has spent three years being so careful it hurts. Then a best friend goes missing, leaving only a set of keys behind — and she is pulled straight into the middle of it. To get through this, she must save the tradition that made the town before the final audition.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9946
+  }
+}

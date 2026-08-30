@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05736",
+  "title": "Greywater Bay Rising Revisited",
+  "author": "Astrid Galloway",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Noor Halloran, a hotel concierge who notices everything, has spent fifteen years keeping the town's secrets filed and alphabetized. Then the town's beloved founder is exhumed and the coffin is empty — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5736
+  }
+}

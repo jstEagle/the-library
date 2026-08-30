@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00437",
+  "title": "Lena and the Wreck",
+  "author": "Quentin Zhou",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Hazel Kavanagh, a storm chaser who owes money to dangerous optimists, carries a compass, a debt, and very little else. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. To get through this, she must cross the range ahead of the snows before the concession permits expire.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 437
+  }
+}

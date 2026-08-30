@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06016",
+  "title": "Postcard and Summer",
+  "author": "Odile Voss",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Zephyrine Oyelaran, a ghostwriter secretly penning a rival's memoirs, swears the heart is a muscle like any other: trainable, containable. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6016
+  }
+}

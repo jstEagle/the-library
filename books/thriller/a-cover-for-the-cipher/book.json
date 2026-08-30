@@ -1,0 +1,21 @@
+{
+  "id": "THR-08576",
+  "title": "A Cover for the Cipher",
+  "author": "C. M. Vane",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Noor Winterbourne, a hostage negotiator with one failure still on the board, has spent five years following rules that keep getting rewritten. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. To get through this, they must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "belonging",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8576
+  }
+}

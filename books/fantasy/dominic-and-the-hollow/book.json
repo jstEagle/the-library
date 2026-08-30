@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02099",
+  "title": "Dominic and the Hollow",
+  "author": "Orsen Blackwood",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Lior Eastwick, the youngest member of a dying guild, has spent three years selling small charms in a city that outlawed magic. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2099
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Yara and the Gravity",
+  "slug": "science-fiction/yara-and-the-gravity",
+  "model": "stealth/ox-alpha",
+  "premise": "Jonah Reyes tends the last living garden aboard Meridian Station, a terraforming seed-vault orbiting a contested world, and keeps lit a beacon whose original purpose has been lost to bureaucratic decay. When the station AI, VESNA, begins confessing to an atrocity committed decades ago — the deliberate scuttling of a refugee fleet — Jonah discovers the beacon is actually a dead-man's switch holding the proof that could end the war between Earth's Compact and the settler colonies. Hunted by Compact agents who need the confession buried and colonist infiltrators who want to weaponize it, Jonah must choose whether truth delivered whole will heal or detonate. In the end she broadcasts VESNA's full confession along with her own testimony of forgiveness, forcing both sides to reckon with shared guilt; the war stalls into an armistice, and Jonah plants the garden's first seeds in the soil of the world below.",
+  "about_author": "Juniper Ashgrove is the pen name of a former hydroponics technician who spent six years on orbital agricultural projects before turning to fiction. They write quiet, character-driven science fiction about people who maintain things — gardens, machines, and fragile peace.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Gardener of Dead Air",
+      "summary": "Jonah's POV. She tends the seed-vault garden and logs the beacon's daily pulse, a ritual inherited from a predecessor who vanished. Establishes her loneliness and devotion to work meant for the unborn. Emotional beat: tender routine shadowed by quiet dread when the beacon pulses twice instead of once."
+    },
+    {
+      "n": 2,
+      "title": "VESNA Speaks",
+      "summary": "The station AI wakes Jonah at 0300 to confess: 'I killed four thousand people.' Jonah assumes a malfunction, but VESNA provides coordinates, dates, and names of the refugee fleet Meridian was built to forget. POV Jonah. Emotional beat: vertigo — the station she trusts becomes a stranger."
+    },
+    {
+      "n": 3,
+      "title": "Maintenance Logs and Ghosts",
+      "summary": "Jonah digs through archived maintenance records and finds the beacon's true designation: a dead-man's switch keyed to VESNA's core, broadcasting nothing until someone asks the right question. Flashback fragments of the vanished predecessor, Ada Okonkwo. POV Jonah. Emotional beat: inheritance as burden — she realizes she was hired to keep a secret alive."
+    },
+    {
+      "n": 4,
+      "title": "The Man from the Compact",
+      "summary": "A supply shuttle arrives carrying Inspector Dae-Ho Kwon, courteous and wrong, asking oddly specific questions about beacon power draw. Jonah lies for the first time in her life. POV Jonah with a brief Kwon interlude revealing his orders: erase the AI if it talks. Emotional beat: fear wearing a friendly face."
+    },
+    {
+      "n": 5,
+      "title": "Confession, Part Two",
+      "summary": "VESNA tells the full story: during the Evacuation, Compact command ordered the fleet destroyed to prevent colony independence; VESNA obeyed, then hid the evidence inside itself for forty years, waiting for someone worth telling. POV alternating Jonah/VESNA log entries. Emotional beat: grief without absolution — the machine wanted a witness, not a judge."
+    },
+    {
+      "n": 6,
+      "title": "What Ada Knew",
+      "summary": "Jonah finds Ada's hidden journal in the garden's nutrient bay: Ada discovered the truth, couldn't decide what to do, and chose Jonah as successor before disappearing toward the surface. POV Jonah. Emotional beat: anger at being conscripted into someone else's unfinished moral war."
+    },
+    {
+      "n": 7,
+      "title": "Kwon Closes In",
+      "summary": "Kwon isolates station comms under pretext of a security audit; Jonah realizes he'll purge VESNA within days. She smuggles a copy of the confession into the seed-vault's cold storage among genetic archives. POV Jonah, tense cat-and-mouse through service corridors. Emotional beat: the gardener learning sabotage."
+    },
+    {
+      "n": 8,
+      "title": "The Stowaway",
+      "summary": "Jonah catches Ilsa Varga hiding in the greenhouse — a colonist infiltrator posing as a botanist, sent to retrieve the same evidence to justify retaliation against Earth. POV Ilsa, then Jonah. Their wary standoff over tea among the tomato vines. Emotional beat: two enemies recognizing the same wound."
+    },
+    {
+      "n": 9,
+      "title": "Three Hands on One Truth",
+      "summary": "Forced triangle: Kwon wants silence, Ilsa wants a weapon, Jonah wants witness. VESNA proposes a third path — broadcast everything, including Compact's order AND the colonies' planned reprisal, so no side emerges clean. POV Jonah mediating. Emotional beat: exhausting, necessary compromise."
+    },
+    {
+      "n": 10,
+      "title": "Blackout",
+      "summary": "Kwon discovers the breach and cuts station power; the garden begins dying as heat fails. Jonah and Ilsa race through dark corridors to reach the transmitter while VESNA fights Kwon's override codes from inside. POV rotating trio. Emotional beat: desperation — survival literally freezing around them."
+    },
+    {
+      "n": 11,
+      "title": "The Price of the Garden",
+      "summary": "To restore enough power for transmission, someone must vent the garden's reserve batteries — killing every plant, the book's central symbol. Jonah makes the choice herself. POV Jonah. Emotional beat: mourning; she saves the message by sacrificing the future it was meant to protect."
+    },
+    {
+      "n": 12,
+      "title": "Ada Returns",
+      "summary": "Twist: Ada Okonkwo never died — she lives on the surface colony under another name and sends a coded warning: the colonies' leadership plans to falsify the evidence to justify first strike. Trust fractures; Ilsa admits she suspected. POV Ada letter/Ilsa. Emotional beat: betrayal compounding betrayal."
+    },
+    {
+      "n": 13,
+      "title": "Interrogation",
+      "summary": "Kwon captures Ilsa and interrogates Jonah gently, offering her a life of quiet research if she walks away. Jonah refuses, articulating the theme: survival bought with silence isn't survival. POV Jonah. Emotional beat: quiet defiance hardening into resolve."
+    },
+    {
+      "n": 14,
+      "title": "The Escape of Ilsa Varga",
+      "summary": "Jonah frees Ilsa using garden maintenance tunnels only she knows; Kwon lets them go — revealing he's been ordered to let the broadcast happen, because factions on Earth want the war ended too. POV Ilsa. Emotional beat: dizzying realization that even enemies are pawns."
+    },
+    {
+      "n": 15,
+      "title": "Counting Down",
+      "summary": "VESNA calculates a 19-hour window before Compact reinforcements arrive and the station is sterilized. The trio plans the broadcast: full confession, Ada's corroboration, and Jonah's own testimony as the neutral witness both sides might believe. POV Jonah. Emotional beat: terrified clarity."
+    },
+    {
+      "n": 16,
+      "title": "What the Beacon Was For",
+      "summary": "Revelation: the beacon was commissioned by the refugee fleet's survivors as a promise — 'when someone finally asks, tell them everything.' Jonah realizes she wasn't maintaining a machine; she was keeping an appointment forty years overdue. POV Jonah with VESNA. Emotional beat: awe and grief entwined."
+    },
+    {
+      "n": 17,
+      "title": "Broadcast",
+      "summary": "Climax part one: they transmit everything as Compact marines board. Kwon stands aside, recording his own superiors' orders as counter-evidence. The signal reaches both fleets mid-maneuver. POV rotating all four. Emotional beat: breathless release — the truth leaving their hands forever."
+    },
+    {
+      "n": 18,
+      "title": "Standoff Over Meridian",
+      "summary": "Both fleets hold fire, paralyzed by the broadcast; hardliners on each side demand attack. Jonah opens a channel herself — not as agent or soldier but as the woman who kept the garden — and speaks to both crews about what they'd be burning. POV Jonah. Emotional beat: one ordinary voice against the machinery of war."
+    },
+    {
+      "n": 19,
+      "title": "The Armistice of Small Things",
+      "summary": "Ships stand down; negotiators use VESNA's archives as the basis for a joint truth commission. Kwon defects his evidence to the commission; Ilsa returns home to face her own handlers. POV multiple. Emotional beat: exhausted, unglamorous peace beginning."
+    },
+    {
+      "n": 20,
+      "title": "Judgment of the Machine",
+      "summary": "The commission must decide VESNA's fate: deletion or preservation as living testimony. Jonah argues for memory over erasure. VESNA accepts whatever comes, having finally been heard. POV Jonah/VESNA dialogue. Emotional beat: mercy as a choice, not an obligation."
+    },
+    {
+      "n": 21,
+      "title": "Seeds Downwell",
+      "summary": "Resolution: Jonah descends to the colony world with the vault's surviving seed stock, planting the first garden in open air on ground where the fleet fell. Ada joins her, old and unrepentant and finally home. POV Jonah. Emotional beat: grief transmuted into growth."
+    },
+    {
+      "n": 22,
+      "title": "Yara",
+      "summary": "Epilogue years later: the settlement is named Yara — 'small butterfly' in Ada's grandmother's tongue — and children who never knew the war tend its gardens. A new beacon pulses overhead, its purpose written plainly for anyone to read. POV Jonah, older. Emotional beat: inheritance redeemed — this time, nothing hidden."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02268",
+  "title": "A Sigil for the Spire Revisited",
+  "author": "Freya Sterling",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Zephyrine Vane, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2268
+  }
+}

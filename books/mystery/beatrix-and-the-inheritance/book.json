@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05496",
+  "title": "Beatrix and the Inheritance",
+  "author": "Wren Pemberton",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Quentin Zhou, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then the town's beloved founder is exhumed and the coffin is empty — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5496
+  }
+}

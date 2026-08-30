@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03990",
+  "title": "Lena and the Room",
+  "author": "Juniper Eriksen",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Oscar Ashgrove, a radio host taking calls from listeners who died last week, has spent fifteen years telling themselves the noises have explanations. But when every mirror in the house starts reflecting the room one second late, he discovers that staying invisible was never really an option. To get through this, he must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3990
+  }
+}

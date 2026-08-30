@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00266",
+  "title": "Landfall and Provision",
+  "author": "Paloma Ishikawa",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Astrid Reyes, a mountain guide blacklisted from two countries, knows the wilderness forgives nothing and forgets less. Then a dying prospector trades a map for a promise — and they are pulled straight into the middle of it. Now they must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 266
+  }
+}

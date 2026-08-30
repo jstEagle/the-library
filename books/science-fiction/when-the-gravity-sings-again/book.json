@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08283",
+  "title": "When the Gravity Sings Again",
+  "author": "Wren Villalobos",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ulyana Quintana, the caretaker of Earth's abandoned seed vault, has spent twelve years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. To get through this, he must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8283
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01707",
+  "title": "Coral and the Hollow",
+  "author": "O. M. Crane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Rosalind Okonkwo, a bone-carver who hears the dead, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1707
+  }
+}

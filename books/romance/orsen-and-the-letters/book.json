@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06030",
+  "title": "Orsen and the Letters",
+  "author": "Casper Delacroix",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Juniper Dravenmoor, a cellist recovering from one catastrophic final performance, has spent three years rebuilding a life measured in small safe steps. But when two estranged names appear on the same impossibly stubborn orchard deed, she discovers that staying invisible was never really an option. To get through this, she must say the sentence that has been rehearsed for a decade before the vineyard's first harvest comes in.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6030
+  }
+}

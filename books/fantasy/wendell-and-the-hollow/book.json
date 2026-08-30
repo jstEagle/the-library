@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00740",
+  "title": "Wendell and the Hollow",
+  "author": "Isandro Galloway",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Paloma Sterling, the keeper of a gate that should stay shut, has never left the valley where magic cannot follow. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 740
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01385",
+  "title": "When the Spire Falls",
+  "author": "Ada Delacroix",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Paloma Dravenmoor, a beast-speaker hiding a forbidden gift, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. To get through this, he must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "found family",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1385
+  }
+}

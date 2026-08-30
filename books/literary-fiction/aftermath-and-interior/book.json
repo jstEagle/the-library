@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04219",
+  "title": "Aftermath and Interior",
+  "author": "Yara Halloran",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Elodie Amberdale, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. Then the last speaker of a language asks for one final student — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4219
+  }
+}

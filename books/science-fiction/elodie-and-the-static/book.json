@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07423",
+  "title": "Elodie and the Static",
+  "author": "Wendell Lockridge",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Silas Ishikawa, a xenolinguist who can no longer dream in human languages, maintains the beacon nobody remembers commissioning. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. To get through this, they must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "memory",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7423
+  }
+}

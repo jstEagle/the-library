@@ -1,0 +1,209 @@
+{
+  "title": "Jonah and the Ghost",
+  "slug": "thriller/jonah-and-the-ghost",
+  "model": "stealth/ox-alpha",
+  "premise": "August Ishikawa, a veteran crash investigator haunted by the unexplained death of his family aboard Flight 447 ten years ago, is summoned when a passenger jet's digital existence—manifests, flight plan, black box telemetry—is erased mid-flight while the aircraft is still airborne. Aboard that plane is a whistleblower carrying proof that a covert defense program has been remotely hijacking commercial avionics for a decade, including the flight that killed August's family. Hunted by an assassin codenamed Ghost who erases evidence and witnesses alike, August must smuggle the truth across three jurisdictions with the help of a disgraced air traffic controller and the whistleblower's estranged daughter. In the end, August broadcasts the evidence from the very control tower where his family's last flight was mismanaged, sacrificing his career and nearly his life, forcing public reckoning while accepting that justice outside the law still costs everything.",
+  "about_author": "Sable Eriksen is the pen name of a former aviation safety analyst who spent twelve years reviewing incident reports before turning to fiction. They write thrillers about systems that fail quietly and the people who refuse to look away.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "August Ishikawa's POV. Ten years after losing his wife and daughter on Flight 447, August testifies at yet another safety review where new rules bury old questions. He returns to his apartment of preserved grief and opens the row-twelve seating chart one more time. Emotional beat: disciplined sorrow cracking into doubt."
+    },
+    {
+      "n": 2,
+      "title": "The Vanishing Act",
+      "summary": "August's POV. At the NTSB-style bureau, a live transatlantic flight drops off every radar feed, database, and booking system simultaneously—yet controllers confirm it's still flying. August is assigned because he once flagged similar data anomalies. Emotional beat: professional curiosity sharpening into dread."
+    },
+    {
+      "n": 3,
+      "title": "Still in the Air",
+      "summary": "Alternating POV: Mara Voss, a burned-out air traffic controller in Reykjavik, is the only person who can see the ghost flight on legacy equipment. She calls the bureau; her call is routed to August. Emotional beat: two strangers realizing they're seeing what everyone else denies."
+    },
+    {
+      "n": 4,
+      "title": "Manifest of One",
+      "summary": "August's POV. The airline's records show the aircraft empty except for one listed passenger: Daniel Okafor, a former avionics engineer who died officially two years ago. August pulls Okafor's file and finds redactions stacked like sediment. Emotional beat: the first hard evidence of deliberate erasure."
+    },
+    {
+      "n": 5,
+      "title": "Ghost Protocol",
+      "summary": "Assassin POV (unnamed, 'the Ghost'). A handler orders cleanup of the flight and everyone touching it. We see the assassin work methodically through a data center in Frankfurt, deleting a man's existence. Emotional beat: cold competence hiding a flicker of hesitation."
+    },
+    {
+      "n": 6,
+      "title": "Landing Without a Shadow",
+      "summary": "Mara's POV. The ghost flight lands at Keflavik under emergency cover story. Mara watches ground crew unload a single sealed case and a limping man who shouldn't exist. She photographs it. Emotional beat: courage born of having nothing left to lose."
+    },
+    {
+      "n": 7,
+      "title": "Okafor's Confession",
+      "summary": "August's POV. August flies to Reykjavik and finds Okafor in a harbor hotel—wounded, paranoid, carrying encrypted drives. Okafor reveals Project LATTICE: remote avionics override sold to three governments, active for a decade. Emotional beat: vindication and horror entwined."
+    },
+    {
+      "n": 8,
+      "title": "What Happened to 447",
+      "summary": "Okafor's POV via recorded testimony. He explains that Flight 447—the flight that killed August's family—was a LATTICE field test gone wrong, then buried. August listens twice, hands shaking. Emotional beat: grief recontextualized as crime."
+    },
+    {
+      "n": 9,
+      "title": "First Blood",
+      "summary": "The Ghost's POV. The assassin reaches the harbor hotel minutes after August leaves. Okafor dies; the drives are missing. The Ghost notes August's name. Emotional beat: the hunt formally begins."
+    },
+    {
+      "n": 10,
+      "title": "Three Governments",
+      "summary": "August's POV. August maps the web: American, British, and Icelandic officials all touched LATTICE. His own bureau director signs off on closing the ghost-flight case as a 'data error.' Emotional beat: betrayal by the institutions he served."
+    },
+    {
+      "n": 11,
+      "title": "The Controller's Bargain",
+      "summary": "Mara's POV. Mara offers August her legacy-equipment logs proving the flight existed. In exchange she wants her fired sister's name cleared. August hesitates—he doesn't trust allies anymore. Emotional beat: reluctant trust."
+    },
+    {
+      "n": 12,
+      "title": "Encrypted Inheritance",
+      "summary": "August's POV. The drives are locked to biometric keys Okafor registered—including one belonging to his estranged daughter, Adaeze Okafor, a London journalist. August must find her before the Ghost does. Emotional beat: hope with a deadline."
+    },
+    {
+      "n": 13,
+      "title": "Adaeze",
+      "summary": "Adaeze's POV. In London, Adaeze has spent two years investigating her father's 'death.' August contacts her; she assumes he's bait and tests him with a question only Okafor could answer. Emotional beat: suspicion giving way to shared purpose."
+    },
+    {
+      "n": 14,
+      "title": "Tail Lights",
+      "summary": "The Ghost's POV. The assassin arrives in London, tracing Okafor's financial ghosts. A near-miss in a Tube station convinces Adaeze the threat is real. Emotional beat: paranoia made flesh."
+    },
+    {
+      "n": 15,
+      "title": "The Dead Man's Key",
+      "summary": "August's POV. Using Okafor's recovered fingerprint from the hotel glass, August partially unlocks drive one: maintenance logs showing LATTICE overrides on eleven flights. Eleven crashes explained. Emotional beat: the scale of the lie lands."
+    },
+    {
+      "n": 16,
+      "title": "Safehouse Arithmetic",
+      "summary": "Adaeze's POV. Hiding in a Camden safehouse, Adaeze and August argue method versus speed—she wants to publish, he wants chain-of-custody proof. Their conflict mirrors their wounds: truth vs. procedure. Emotional beat: friction becoming partnership."
+    },
+    {
+      "n": 17,
+      "title": "Interception",
+      "summary": "The Ghost's POV. The assassin intercepts a bureau mole feeding August information, and turns him. Now the Ghost knows the safehouse. Emotional beat: the net tightening silently."
+    },
+    {
+      "n": 18,
+      "title": "Camden Fire",
+      "summary": "August's POV. The safehouse burns; they escape through a neighbor's garden with drive one but lose the logs' physical backups. Mara, remotely monitoring, spots the Ghost's travel pattern. Emotional beat: survival tinged with guilt over the neighbor's injuries."
+    },
+    {
+      "n": 19,
+      "title": "Flight Path to Reykjavik",
+      "summary": "Mara's POV. Mara arranges their extraction to Iceland, using dead controller codes. On the flight, August admits why row twelve matters—not just family, but that he'd signed off the aircraft as compliant weeks before. Emotional beat: confession as release."
+    },
+    {
+      "n": 20,
+      "title": "Drive Two",
+      "summary": "Adaeze's POV. Drive two requires Adaeze's own biometrics—her father planned for her all along. It contains live command credentials for LATTICE itself. Emotional beat: inheriting both the burden and the weapon."
+    },
+    {
+      "n": 21,
+      "title": "The Handler Revealed",
+      "summary": "The Ghost's POV. The assassin meets the handler: a deputy director inside August's own bureau, the man who reassigned him to the ghost-flight case. The Ghost is ordered to make August's death look like grief-driven suicide. Emotional beat: the assassin's mask slips—this order disgusts even them."
+    },
+    {
+      "n": 22,
+      "title": "Tower of Ash",
+      "summary": "August's POV. August realizes the original 447 override was initiated from the Reykjavik tower's auxiliary console—the same room where Mara now works. The past isn't behind them; it's underneath. Emotional beat: vertigo of revelation."
+    },
+    {
+      "n": 23,
+      "title": "Quarantine",
+      "summary": "Mara's POV. Icelandic authorities, tipped by the mole, detain Mara and seal the tower. August and Adaeze watch from a rental car as the building that holds their proof becomes a cage. Emotional beat: cornered resolve."
+    },
+    {
+      "n": 24,
+      "title": "Negotiating with Ghosts",
+      "summary": "The Ghost's POV. Alone in a Keflavik bar, the assassin reviews Okafor's file and finds a memo the handler never saw: LATTICE's architects planned to sell to a fourth buyer—a hostile state. The Ghost begins keeping copies. Emotional beat: loyalty curdling into leverage."
+    },
+    {
+      "n": 25,
+      "title": "The Mole's Confession",
+      "summary": "August's POV. August confronts the mole, who breaks and names the deputy director, providing a partial recording. It's enough to accuse, not enough to convict—and August knows how convictions die. Emotional beat: fury learning patience."
+    },
+    {
+      "n": 26,
+      "title": "Broadcast Window",
+      "summary": "Adaeze's POV. Adaeze identifies a 90-second window during an international aviation summit broadcast when the tower's uplink can't be jammed without visible failure. The plan forms: take the tower, take the console, tell the world. Emotional beat: audacity crystallizing."
+    },
+    {
+      "n": 27,
+      "title": "Storm Front",
+      "summary": "Mara's POV. A North Atlantic storm closes the airport, thinning security—but also threatening the uplink. Mara volunteers to go back inside the tower she was banned from. Emotional beat: returning to the scene of her disgrace."
+    },
+    {
+      "n": 28,
+      "title": "Intrusion",
+      "summary": "August's POV. Under storm cover, August, Adaeze, and Mara breach the tower's service levels. Alarms are masked by weather-system failures—failures LATTICE itself caused. Emotional beat: the conspiracy aiding its own exposure."
+    },
+    {
+      "n": 29,
+      "title": "Ghost in the Tower",
+      "summary": "The Ghost's POV. The assassin arrives not to stop the broadcast but to confront the handler, uploading their kept copies to the same servers. Hunter turning witness. Emotional beat: defection without absolution."
+    },
+    {
+      "n": 30,
+      "title": "Ninety Seconds",
+      "summary": "August's POV. The climax begins: Mara fights the auxiliary console's locks, Adaeze authenticates drive two, August narrates the evidence live onto the summit feed. Countdown tension, intercut failures. Emotional beat: ten years compressed into ninety seconds."
+    },
+    {
+      "n": 31,
+      "title": "Row Twelve, Read Aloud",
+      "summary": "August's POV. Mid-broadcast, August reads the names of 447's victims, including his wife and daughter, as the override logs scroll behind him. Security breaches the door at second eighty-eight. Emotional beat: grief transfigured into testimony."
+    },
+    {
+      "n": 32,
+      "title": "Aftermath of Light",
+      "summary": "Adaeze's POV. The broadcast escapes; global outlets cascade. The deputy director attempts deletion and is arrested on camera. Adaeze watches her father's posthumous vindication trend worldwide. Emotional beat: triumph shadowed by cost."
+    },
+    {
+      "n": 33,
+      "title": "The Assassin's Ledger",
+      "summary": "The Ghost's POV. The assassin delivers their copied archives to journalists anonymously and vanishes—unpunished, unforgiven, no longer owned. Emotional beat: ambiguous grace."
+    },
+    {
+      "n": 34,
+      "title": "Hearings",
+      "summary": "August's POV. Weeks later, August testifies—not as a grieving man this time, but as an expert whose evidence holds. Three governments stall, deflect, and begin, grudgingly, to comply. Emotional beat: justice arriving imperfectly, which is the only way it arrives."
+    },
+    {
+      "n": 35,
+      "title": "What the Rules Are For",
+      "summary": "Mara's POV. Mara is reinstated and asked to help rewrite the protocols she once hid behind. She insists the first rule be: 'A record that can vanish was never safe.' Emotional beat: rebuilding systems with scar tissue."
+    },
+    {
+      "n": 36,
+      "title": "Adaeze's Byline",
+      "summary": "Adaeze's POV. Adaeze publishes the full investigation under her own name and her father's, restoring Daniel Okafor to the public record. She visits his grave with a printed copy. Emotional beat: mourning completed at last."
+    },
+    {
+      "n": 37,
+      "title": "The Empty Chair",
+      "summary": "August's POV. August clears out his apartment, finally retiring the row-twelve chart. He keeps one photograph and nothing else. The bureau offers him his old job; he asks instead to train investigators in noticing anomalies. Emotional beat: identity remade from memory rather than trapped by it."
+    },
+    {
+      "n": 38,
+      "title": "One Year Later",
+      "summary": "Multiple POVs braided. An independent aviation oversight body convenes; LATTICE's remnants surface in a fourth country, but this time watchdogs catch it early. The machinery of vigilance works—because people built it. Emotional beat: earned, fragile optimism."
+    },
+    {
+      "n": 39,
+      "title": "Jonah",
+      "summary": "August's POV. At his family's graves, August tells his daughter's headstone the whole story, beginning to end, the way you tell children stories. He is the man swallowed by the whale who walked out carrying the message. Emotional beat: peace without forgetting."
+    },
+    {
+      "n": 40,
+      "title": "Ghost Signal",
+      "summary": "Epilogue, unnamed POV. Somewhere, a legacy radar screen blinks with an aircraft that exists in no database—and somewhere else, a person who used to be called Ghost smiles at a monitor and picks up a phone. Not every ghost is laid to rest. Emotional beat: a door left deliberately open."
+    }
+  ]
+}

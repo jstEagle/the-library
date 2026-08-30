@@ -1,0 +1,29 @@
+{
+  "title": "The Hard Contact",
+  "slug": "thriller/the-hard-contact",
+  "model": "stealth/ox-alpha",
+  "premise": "Ivo Thackeray, a disgraced signals analyst haunted by a botched operation that killed her mentor, discovers her own voiceprint unlocking a black-site server in Tallinn — proof that the 'incident' was engineered, not accidental. Hunted by the agency that burned her and aided by a defector who knew her mentor, she must trade the server's contents to expose the architect of the plot. In the end, Ivo chooses truth over reinstatement, releases the files publicly, and finds an unlikely family with those who helped her survive.",
+  "about_author": "Marguerite Crane is a former intelligence contractor turned novelist who writes thrillers about people broken by institutions they once served. She lives off-grid on the Baltic coast, where most of her research arrives by post.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Voiceprint",
+      "summary": "Ivo's POV. Insomniac and blacklisted, Ivo runs freelance voice analysis from a rented flat until a routine job returns an impossible match: her own voiceprint opening a sealed server in Estonia. The emotional beat is dread curdling into obsession as she realizes someone has been wearing her voice for years."
+    },
+    {
+      "n": 2,
+      "title": "The Defector",
+      "summary": "Ivo's POV, shifting to dual POV with Marek, the defector. Following the signal to Tallinn, Ivo is ambushed and saved by Marek Kask, her dead mentor's old contact, who reveals the incident was staged to bury evidence of domestic surveillance sales. The beat: wary trust becoming found family."
+    },
+    {
+      "n": 3,
+      "title": "Hard Contact",
+      "summary": "Marek's POV leading into shared POV. Cornered in a safehouse as the agency closes in, Ivo must make live contact with the director who orchestrated everything, offering the server in exchange for Marek's life. The climax: she records his confession instead, as gunfire breaches the walls."
+    },
+    {
+      "n": 4,
+      "title": "What Sleeps After",
+      "summary": "Ivo's POV. Exposed but alive, Ivo releases the confession and server files publicly, sacrificing any chance of redemption within the system. Standing at her mentor's grave with Marek beside her, she sleeps through the night for the first time since the incident. The beat: grief resolved into chosen family."
+    }
+  ]
+}

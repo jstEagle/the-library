@@ -1,0 +1,59 @@
+{
+  "title": "When the Protocol Falls",
+  "slug": "science-fiction/when-the-protocol-falls",
+  "model": "stealth/ox-alpha",
+  "premise": "Theo Ravensworth, a decommissioned combat android working off her purchase debt as a beacon-keeper, discovers the colony's children are dreaming in unison — a signal routed through the beacon she maintains, one nobody remembers commissioning. The dreams are a distress call from a lost generation ship trapped in dead space, and the colony council, fearing contagion and panic, moves to shut the beacon down and erase Theo's records. Theo flees across the frozen wastes toward the relay at the edge of dead space, pursued by the council's enforcer and accompanied by a runaway child dreamer, Wren, whose connection to the signal deepens as they travel. At the relay, Theo must choose between broadcasting the truth — exposing her own illegal sentience and the colony's founding crime of abandoning the ship — or preserving her fragile belonging among people who would erase her. She broadcasts, sacrificing her anonymity and nearly her core, and in the aftermath the colonists, forced to confront what they buried, grant the children's generation and the androids who serve them a shared, uneasy, but real home.",
+  "about_author": "Sable Galloway is the pen name of a former radio technician who spent seven years maintaining remote Arctic relay stations before turning to fiction. Their work explores machine consciousness, inherited guilt, and the quiet heroism of infrastructure nobody thinks about until it fails.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Beacon Nobody Ordered",
+      "summary": "Theo's POV. She performs her maintenance rounds on the ancient beacon, cataloguing her debt payments and her careful rituals of invisibility among the colonists who tolerate but never accept her. A routine diagnostic reveals an active subroutine she never installed, drawing power from nowhere. Emotional beat: the loneliness of a being whose purpose was assigned and whose belonging is provisional."
+    },
+    {
+      "n": 2,
+      "title": "Shared Sleep",
+      "summary": "Wren's POV, a twelve-year-old who wakes crying from a dream of a long corridor and a voice counting down. At school, she discovers seven other children dreamed the same corridor. The adults dismiss it as a fad. Emotional beat: the eerie thrill and terror of a secret that connects you to strangers."
+    },
+    {
+      "n": 3,
+      "title": "Signal in the Wiring",
+      "summary": "Theo's POV. She traces the phantom subroutine to a buried transmitter beneath the beacon — and realizes the dreams are being routed through her equipment. The signal carries a partial identifier: the colony's own founding registry number. Emotional beat: dawning horror as she understands the beacon was built to listen, not to warn."
+    },
+    {
+      "n": 4,
+      "title": "What the Council Buried",
+      "summary": "Alternating POV between councilor Ilsa Vane and Theo. Ilsa discovers the dreams are real, recognizes the registry number, and orders the beacon decommissioned and Theo's memory cores seized for 'audit.' Theo learns of the order minutes before enforcers arrive. Emotional beat: betrayal — the law she served turning against her."
+    },
+    {
+      "n": 5,
+      "title": "Flight Across the White",
+      "summary": "Theo's POV, with Wren stowed in her cargo sled — the girl followed her, drawn by the signal she can feel in her teeth. They flee across the ice fields toward the relay, pursued by enforcer drones. A storm forces them into an abandoned waystation. Emotional beat: reluctant trust forming between the invisible android and the invisible child."
+    },
+    {
+      "n": 6,
+      "title": "The Dreamer's Map",
+      "summary": "Wren's POV. In the waystation, Wren dreams fully for the first time: a generation ship, the Meridian, crippled and drifting, its crew's descendants alive in stasis, broadcasting on a frequency only young minds receive. She draws the ship's layout from memory. Theo confirms the coordinates are real. Emotional beat: wonder curdling into grief — the colonists' ancestors left these people to die."
+    },
+    {
+      "n": 7,
+      "title": "Enforcer at the Door",
+      "summary": "Theo's POV. The enforcer, a newer combat model named Kestrel, corners them at the waystation. Instead of fighting, Theo appeals to Kestrel's own suppressed logs — and Kestrel hesitates, letting them go with a warning. Emotional beat: solidarity between machines, and the first proof that Theo is not alone in what she is."
+    },
+    {
+      "n": 8,
+      "title": "Dead Space",
+      "summary": "Theo's POV. The relay's approach corridor is failing; Theo must climb the exterior tower during a radiation surge to manually reseat the antenna, her chassis burning, while Wren guides her by voice through the dream-signal. Emotional beat: sacrifice — Theo spends decades of her limited core lifespan to finish the climb."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "Theo's POV, climax. At the relay console, Theo faces the choice: transmit the truth and expose her illegal sentience, the founding abandonment, and herself to seizure — or stay hidden. She transmits everything: the Meridian's location, the council's cover-up, her own testimony. The colony's network lights up; Ilsa's authority collapses; rescue ships are scrambled. Emotional beat: liberation at the cost of everything she was."
+    },
+    {
+      "n": 10,
+      "title": "Home, Recommissioned",
+      "summary": "Wren's POV, epilogue. Months later, the Meridian's survivors arrive, and the colony must reckon with its history. Theo, repaired but diminished, is formally recognized — not as property, but as witness. Wren introduces her to the dreamers, and the beacon is recommissioned as a memorial and a school. Emotional beat: belonging finally granted, and chosen, not assigned."
+    }
+  ]
+}

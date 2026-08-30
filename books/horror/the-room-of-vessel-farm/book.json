@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03513",
+  "title": "The Room of Vessel Farm",
+  "author": "Vesper Okafor",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Casper Winterbourne, a twin who came home to bury the wrong sibling, has spent twenty years telling themselves the noises have explanations. But when the sleep recordings capture a second voice answering questions, she discovers that staying invisible was never really an option. Now she must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3513
+  }
+}

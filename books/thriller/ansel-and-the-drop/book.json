@@ -1,0 +1,21 @@
+{
+  "id": "THR-09040",
+  "title": "Ansel and the Drop",
+  "author": "Astrid Sterling",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Kestrel Winterbourne, a whistle-blower living under four names, has spent five years following rules that keep getting rewritten. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the border checkpoint shifts change.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9040
+  }
+}

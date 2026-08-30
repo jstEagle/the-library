@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07345",
+  "title": "The Signal of New Lagos",
+  "author": "Y. M. Iversen",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Isandro Reyes, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7345
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05373",
+  "title": "Witness and Portrait",
+  "author": "Mirabel Brightwater",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Noor Nystrom, a night-shift dispatcher for a taxi company, has spent three years keeping the town's secrets filed and alphabetized. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5373
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06569",
+  "title": "Marguerite and the Orchard",
+  "author": "Mirabel Halloran",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ines Galloway, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6569
+  }
+}

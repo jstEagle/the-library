@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00715",
+  "title": "Spire and Crown",
+  "author": "Theo Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Emrys Whitlock, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. Then the old gods begin answering prayers again — and he is pulled straight into the middle of it. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 715
+  }
+}

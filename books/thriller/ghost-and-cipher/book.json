@@ -1,0 +1,21 @@
+{
+  "id": "THR-09031",
+  "title": "Ghost and Cipher",
+  "author": "Juniper Sterling",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Emrys Ashgrove, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. To get through this, she must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9031
+  }
+}

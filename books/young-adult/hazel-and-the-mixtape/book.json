@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09928",
+  "title": "Hazel and the Mixtape",
+  "author": "Mara Thackeray",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Hazel Vasquez, the team's statistician who knows the game is rigged, counts days until graduation like a sentence being served. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. Now he must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9928
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04451",
+  "title": "The Ordinary Aftermath",
+  "author": "Astrid Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Elodie Winterbourne, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. Then a song on the radio is one that was written and never recorded — and she is pulled straight into the middle of it. Now she must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4451
+  }
+}

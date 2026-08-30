@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01868",
+  "title": "Garden and Spire Again",
+  "author": "Dominic Zhou",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Felix Yarrow, the youngest member of a dying guild, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1868
+  }
+}

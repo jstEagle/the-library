@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04712",
+  "title": "Yara and the Wardrobe",
+  "author": "Odile Oyelaran",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Isandro Kavanagh, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. Then the last speaker of a language asks for one final student — and he is pulled straight into the middle of it. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4712
+  }
+}

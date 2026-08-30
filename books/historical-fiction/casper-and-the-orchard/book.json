@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02315",
+  "title": "Casper and the Orchard",
+  "author": "Ivo Oyelaran",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Vesper Zhou, a widowed lighthouse keeper during the year of the great storms, measures the world in what can be carried when the orders come. Then the bridge — the only road out — closes for the season — and he is pulled straight into the middle of it. Now he must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2315
+  }
+}

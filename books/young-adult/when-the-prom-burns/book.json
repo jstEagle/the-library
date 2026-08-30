@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09775",
+  "title": "When the Prom Burns",
+  "author": "Ansel Marchetti",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Orsen Vane, the eldest sibling raising the younger ones while mom works nights, stays under the radar: head down, grades up, locker shut. Then a best friend goes missing, leaving only a set of keys behind — and they are pulled straight into the middle of it. Now they must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9775
+  }
+}

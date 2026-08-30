@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04555",
+  "title": "When the Undertow Wakes",
+  "author": "Emrys Fairweather",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Marguerite Coldharbour, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4555
+  }
+}

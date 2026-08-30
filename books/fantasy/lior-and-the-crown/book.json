@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01026",
+  "title": "Lior and the Crown",
+  "author": "Emrys Halloran",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Rosalind Vasquez, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1026
+  }
+}

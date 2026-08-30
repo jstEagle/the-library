@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03431",
+  "title": "When the Winter Wakes",
+  "author": "Juniper Iversen",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "August Almeida, a twin who came home to bury the wrong sibling, has spent fifteen years telling themselves the noises have explanations. But when the village's church bell rings although the bell was melted down in 1911, he discovers that staying invisible was never really an option. To get through this, he must learn the song's last verse without singing along before the harvest moon rises.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3431
+  }
+}

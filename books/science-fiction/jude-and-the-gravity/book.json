@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07634",
+  "title": "Jude and the Gravity",
+  "author": "Marguerite Montrose",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jude Fairweather, a clone who inherited the original's murder case, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. Now she must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7634
+  }
+}

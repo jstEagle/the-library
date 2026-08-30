@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07289",
+  "title": "A Colony for the Vector",
+  "author": "Coral Galloway",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Vesper Marchetti, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7289
+  }
+}

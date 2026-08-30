@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05751",
+  "title": "A Letter for the Ledger Revisited",
+  "author": "Beatrix Yarrow",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Isandro Kavanagh, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. To get through this, he must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5751
+  }
+}

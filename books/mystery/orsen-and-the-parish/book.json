@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05739",
+  "title": "Orsen and the Parish",
+  "author": "Gideon Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Paloma Sandoval, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. To get through this, he must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5739
+  }
+}

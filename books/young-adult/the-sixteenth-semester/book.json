@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09804",
+  "title": "The Sixteenth Semester",
+  "author": "Coral Underhill",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Kestrel Nakamura, the eldest sibling raising the younger ones while mom works nights, stays under the radar: head down, grades up, locker shut. Then a group chat starts predicting things that haven't happened yet — and they are pulled straight into the middle of it. To get through this, they must expose what the school board buried before the final audition.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9804
+  }
+}

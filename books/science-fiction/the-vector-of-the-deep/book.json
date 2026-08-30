@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07951",
+  "title": "The Vector of the Deep",
+  "author": "Lena Ashgrove",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Wendell Fairweather, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7951
+  }
+}

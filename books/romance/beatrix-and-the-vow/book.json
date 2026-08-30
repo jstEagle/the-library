@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06873",
+  "title": "Beatrix and the Vow",
+  "author": "Ada Nakamura",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "August Blackwood, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, she discovers that staying invisible was never really an option. To get through this, she must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6873
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07381",
+  "title": "Tamsin and the Protocol",
+  "author": "Beatrix Nakamura",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Freya Galloway, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. To get through this, they must prove a massacre happened when every record says otherwise before Earth's last transmission loop ends.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7381
+  }
+}

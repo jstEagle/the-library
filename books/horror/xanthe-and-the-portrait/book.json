@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03972",
+  "title": "Xanthe and the Portrait",
+  "author": "Ivo Thackeray",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Theo Halloran, a property surveyor appraising a house that appraises back, has spent seven years telling themselves the noises have explanations. But when the sleep recordings capture a second voice answering questions, he discovers that staying invisible was never really an option. To get through this, he must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3972
+  }
+}

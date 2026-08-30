@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05337",
+  "title": "A Autopsy for the Witness",
+  "author": "Xanthe Thackeray",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Yara Vane, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5337
+  }
+}

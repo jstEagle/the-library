@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07771",
+  "title": "Orsen and the Archive",
+  "author": "Kestrel Dravenmoor",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Paloma Crane, an insurance investigator of impossible accidents, maintains the beacon nobody remembers commissioning. Then the station AI begins confessing to crimes nobody reported — and they are pulled straight into the middle of it. To get through this, they must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7771
+  }
+}

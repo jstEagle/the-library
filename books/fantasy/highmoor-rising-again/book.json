@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02061",
+  "title": "Highmoor Rising Again",
+  "author": "Lena Halloran",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Edmund Reyes, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2061
+  }
+}

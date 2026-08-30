@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06063",
+  "title": "Garden and Orchard",
+  "author": "August Ishikawa",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Oscar Eriksen, a vineyard owner who inherited debts instead of grapes, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. Now he must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6063
+  }
+}

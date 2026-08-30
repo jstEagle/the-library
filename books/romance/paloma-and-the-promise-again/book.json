@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06956",
+  "title": "Paloma and the Promise Again",
+  "author": "Jonah Yarrow",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Gideon Okonkwo, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and she is pulled straight into the middle of it. To get through this, she must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6956
+  }
+}

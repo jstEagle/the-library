@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02653",
+  "title": "Odile and the Lantern",
+  "author": "Yara Reyes",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ivo Eastwick, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. To get through this, she must get the truth on the record ahead of the victors' historians before the ice breaks on the river.",
+  "themes": [
+    "memory",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2653
+  }
+}

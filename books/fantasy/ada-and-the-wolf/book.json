@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00864",
+  "title": "Ada and the Wolf",
+  "author": "Edmund Lockridge",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Edmund Quintana, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "memory",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 864
+  }
+}

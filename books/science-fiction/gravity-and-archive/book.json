@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07040",
+  "title": "Gravity and Archive",
+  "author": "Coral Hartwell",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Rosalind Hartwell, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7040
+  }
+}

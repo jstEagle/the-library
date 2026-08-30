@@ -1,0 +1,21 @@
+{
+  "id": "THR-09327",
+  "title": "Ivo and the Safehouse",
+  "author": "Cyrus Sandoval",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Wren Crane, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9327
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08021",
+  "title": "When the Protocol Sings Anew",
+  "author": "Ada Villalobos",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Wendell Nystrom, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. To get through this, they must reach the relay at the edge of dead space, racing the signal before the reactor finishes its countdown.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8021
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04576",
+  "title": "The Borrowed Undertow",
+  "author": "Ada Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Dominic Dunmore, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. Then a childhood home goes up for auction — and he is pulled straight into the middle of it. To get through this, he must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4576
+  }
+}

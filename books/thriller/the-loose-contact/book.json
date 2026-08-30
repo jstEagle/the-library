@@ -1,0 +1,21 @@
+{
+  "id": "THR-08560",
+  "title": "The Loose Contact",
+  "author": "Felix Vane",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Wendell Underhill, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8560
+  }
+}

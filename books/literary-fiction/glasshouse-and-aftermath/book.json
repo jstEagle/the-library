@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04728",
+  "title": "Glasshouse and Aftermath",
+  "author": "Juniper Almeida",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Astrid Voss, a letter-writer sending postcards to an address that burned down years ago, has spent twelve years practicing the art of almost saying it. But when a box of undelivered letters surfaces behind a wardrobe, she discovers that staying invisible was never really an option. Now she must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4728
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06341",
+  "title": "Bakery and Songbook",
+  "author": "G. M. Hartwell",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Lena Iversen, a single parent running the town's only bookshop, believes second chances are for people with better timing. But when the person behind a decade of letters moves in next door, she discovers that staying invisible was never really an option. Now she must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6341
+  }
+}

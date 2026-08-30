@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00009",
+  "title": "A Summit for the Monsoon",
+  "author": "Emrys Vasquez",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Felix Joubert, a bush pilot flying medicine and rumors into the interior, knows the wilderness forgives nothing and forgets less. But when the tide reveals a cave that legends charge admission to, she discovers that staying invisible was never really an option. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "memory",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9
+  }
+}

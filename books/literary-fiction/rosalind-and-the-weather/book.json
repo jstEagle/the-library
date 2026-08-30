@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04521",
+  "title": "Rosalind and the Weather",
+  "author": "Paloma Almeida",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Kestrel Okafor, a former prodigy returning to the conservatory as a janitor, keeps a careful inventory of everything unsaid. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. Now they must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4521
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08124",
+  "title": "Colony and Protocol Again",
+  "author": "Freya Zhou",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Vesper Zhou, a terraformer tending a garden meant for people not yet born, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8124
+  }
+}

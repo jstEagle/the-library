@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05024",
+  "title": "A Witness for the Inheritance",
+  "author": "Ines Ravensworth",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Tamsin Amberdale, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5024
+  }
+}

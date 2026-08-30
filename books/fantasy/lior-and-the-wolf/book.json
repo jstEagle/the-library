@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01580",
+  "title": "Lior and the Wolf",
+  "author": "Juniper Hartwell",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Jonah Thackeray, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. To get through this, she must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1580
+  }
+}

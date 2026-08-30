@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07052",
+  "title": "The Long Protocol",
+  "author": "Astrid Delacroix",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Zephyrine Coldharbour, a starship navigator haunted by the backups sleeping in the hold, has spent ten years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. To get through this, he must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7052
+  }
+}

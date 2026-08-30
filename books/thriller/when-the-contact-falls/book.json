@@ -1,0 +1,21 @@
+{
+  "id": "THR-08882",
+  "title": "When the Contact Falls",
+  "author": "Lena Okonkwo",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Sable Marchetti, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8882
+  }
+}

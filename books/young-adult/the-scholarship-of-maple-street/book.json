@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09887",
+  "title": "The Scholarship of Maple Street",
+  "author": "F. M. Whitlock",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Ines Whitlock, a debate champion who can't win the argument at home, stays under the radar: head down, grades up, locker shut. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, they discover that staying invisible was never really an option. To get through this, they must decide who to be when the labels come off before prom.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9887
+  }
+}

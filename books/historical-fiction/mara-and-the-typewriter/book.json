@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02603",
+  "title": "Mara and the Typewriter",
+  "author": "Beatrix Montrose",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Bram Joubert, a battlefield nurse keeping a ledger of the names officers omit, has spent three years learning which silences keep people safe. But when the census taker asks one question too many, she discovers that staying invisible was never really an option. To get through this, she must get the truth on the record ahead of the victors' historians before the ship sails on the morning tide.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2603
+  }
+}

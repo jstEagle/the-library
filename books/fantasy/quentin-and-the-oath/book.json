@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00719",
+  "title": "Quentin and the Oath",
+  "author": "Cyrus Okafor",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Lena Nakamura, a debt-bound temple scribe, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 719
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02943",
+  "title": "The Iron Bridge",
+  "author": "Juniper Ravensworth",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Paloma Pemberton, a widowed lighthouse keeper during the year of the great storms, keeps a low profile and busy hands. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. To get through this, they must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2943
+  }
+}

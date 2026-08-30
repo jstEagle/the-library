@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02408",
+  "title": "The Ledger of the Palatinate",
+  "author": "Quentin Okafor",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Freya Delacroix, a battlefield nurse keeping a ledger of the names officers omit, keeps a low profile and busy hands. But when the army requisitions the town and the ledger with all the names, she discovers that staying invisible was never really an option. To get through this, she must get the truth on the record ahead of the victors' historians before the century turns.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2408
+  }
+}

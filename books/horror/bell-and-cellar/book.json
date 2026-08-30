@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03690",
+  "title": "Bell and Cellar",
+  "author": "G. M. Reyes",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Winterbourne, a folklorist recording songs the village refuses to sing twice, keeps the lights on and the doors counted. But when the excavation crew unearths a door, sealed from the inside, he discovers that staying invisible was never really an option. Now he must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3690
+  }
+}

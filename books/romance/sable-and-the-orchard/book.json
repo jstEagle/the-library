@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06764",
+  "title": "Sable and the Orchard",
+  "author": "Coral Thackeray",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Gideon Quintana, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. To get through this, they must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6764
+  }
+}

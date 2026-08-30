@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08249",
+  "title": "August and the Static",
+  "author": "V. M. Vasquez",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Dominic Oyelaran, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8249
+  }
+}

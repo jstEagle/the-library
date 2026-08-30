@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09531",
+  "title": "Playlist and Mixtape",
+  "author": "Silas Ishikawa",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ada Crane, a scholarship student at an academy with too many secrets, counts days until graduation like a sentence being served. Then a group chat starts predicting things that haven't happened yet — and they are pulled straight into the middle of it. To get through this, they must decide who to be when the labels come off before prom.",
+  "themes": [
+    "identity",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9531
+  }
+}

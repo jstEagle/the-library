@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06219",
+  "title": "A Garden for the Kitchen",
+  "author": "Odile Hartwell",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Sebastian Joubert, a single parent running the town's only bookshop, believes second chances are for people with better timing. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. To get through this, she must say the sentence that has been rehearsed for a decade before the last ferry of the season departs.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6219
+  }
+}

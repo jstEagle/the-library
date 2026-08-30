@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05562",
+  "title": "Yara and the Autopsy Revisited",
+  "author": "J. M. Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Mara Hartwell, the archivist of a cathedral with a locked crypt, has spent ten years keeping the town's secrets filed and alphabetized. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5562
+  }
+}

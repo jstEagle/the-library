@@ -1,0 +1,21 @@
+{
+  "id": "THR-08448",
+  "title": "Beatrix and the Ghost",
+  "author": "Theo Yarrow",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ulyana Crane, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8448
+  }
+}

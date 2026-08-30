@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09604",
+  "title": "Yara and the Scholarship",
+  "author": "Rafael Delacroix",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Eriksen, the new kid at a school built over something old, has spent twelve years being so careful it hurts. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. Now she must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9604
+  }
+}

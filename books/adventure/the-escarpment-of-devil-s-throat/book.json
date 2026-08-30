@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00102",
+  "title": "The Escarpment of Devil's Throat",
+  "author": "Kestrel Hartwell",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Zephyrine Hartwell, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 102
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01369",
+  "title": "Sable and the Sigil",
+  "author": "Jonah Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Isandro Iversen, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1369
+  }
+}

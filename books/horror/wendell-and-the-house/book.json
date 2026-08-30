@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03688",
+  "title": "Wendell and the House",
+  "author": "Wren Galloway",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Lena Eastwick, an urban explorer mapping tunnels that aren't on any survey, keeps the lights on and the doors counted. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. Now he must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3688
+  }
+}

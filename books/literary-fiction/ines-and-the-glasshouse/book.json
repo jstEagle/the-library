@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04216",
+  "title": "Ines and the Glasshouse",
+  "author": "C. M. Thornbury",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Emrys Thackeray, a restaurant critic who has forgotten how food tastes, moves through the days like a tenant, not an owner. But when a song on the radio is one that was written and never recorded, they discover that staying invisible was never really an option. To get through this, they must ask the question the whole family arranged itself around before the mother's memory goes entirely.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4216
+  }
+}

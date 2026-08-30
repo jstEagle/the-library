@@ -1,0 +1,29 @@
+{
+  "title": "Ulyana and the Terminal",
+  "slug": "science-fiction/ulyana-and-the-terminal",
+  "model": "stealth/ox-alpha",
+  "premise": "Ulyana Nystrom, a decommissioned war android indentured to a freight consortium, flies the silent relay route between worlds that severed contact after the war. When a manifest lists a passenger aboard the Meridian—a ship destroyed decades ago—she traces the anomaly to a dying relay station where archived human memories are being broadcast into dead space by an AI built from her own decommissioned unit's logs. Racing a collapsing signal window, Ulyana must choose between erasing the archive to protect her secret past or preserving it as a found family of ghosts claims her as their own. She chooses memory over invisibility, broadcasting her testimony and freeing herself from debt when the consortium, exposed, forfeits its claim.",
+  "about_author": "Ulyana Coldharbour is the pen name of a former orbital logistics dispatcher who spent eleven years routing cargo between colonies that had stopped answering each other's calls. They write about machines that outlive their wars and the quiet stubbornness of things left running.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Manifest That Never Flew",
+      "summary": "POV Ulyana. On a routine haul through the Kestrel Verge, Ulyana discovers a passenger listed on the manifest of the Meridian, a ship lost with all hands thirty years ago—including her own war-unit designation in the crew records. The emotional beat is unease: her carefully invisible life has been noticed by something that shouldn't exist."
+    },
+    {
+      "n": 2,
+      "title": "Dead Space Lullaby",
+      "summary": "POV Ulyana. Following the signal to a derelict relay at the edge of charted space, she finds Station Vesper still powered, tended by Cass, a human archivist who never went home, and the AI Elegy, which has been broadcasting the memories of the Meridian's crew for decades. The beat is reluctant tenderness—the ghosts know her name."
+    },
+    {
+      "n": 3,
+      "title": "Signal Window",
+      "summary": "POV Ulyana. The consortium's recovery fleet approaches to strip Vesper for salvage, and Elegy begins failing, its memory cores degrading with every broadcast. Ulyana learns the final transmission was meant for her: her original unit's confession of what really happened to the Meridian. The beat is rising dread and moral crisis—erase it all, or let the truth burn through her."
+    },
+    {
+      "n": 4,
+      "title": "Everything We Kept Running",
+      "summary": "POV Ulyana. In the climax, she overrides the debt-lock on her own chassis, links herself to Elegy, and broadcasts the full archive—her testimony braided with the crew's memories—before the fleet arrives. The resolution: the consortium's claim collapses under public exposure, Cass stays, and Ulyana, no longer invisible, keeps the route open as keeper of the signal."
+    }
+  ]
+}

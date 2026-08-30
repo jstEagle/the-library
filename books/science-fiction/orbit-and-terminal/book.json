@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07171",
+  "title": "Orbit and Terminal",
+  "author": "Rosalind Quintana",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Noor Thackeray, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "belonging",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7171
+  }
+}

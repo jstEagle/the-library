@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00584",
+  "title": "A Monsoon for the Rivergate",
+  "author": "Beatrix Vane",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Jude Yarrow, a bush pilot flying medicine and rumors into the interior, knows the wilderness forgives nothing and forgets less. But when an expedition upriver stops answering the radio, they discover that staying invisible was never really an option. To get through this, they must bring the expedition home without telling anyone what it found before the monsoon makes landfall.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 584
+  }
+}

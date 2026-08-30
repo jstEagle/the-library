@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09922",
+  "title": "The Recipe of Route 9",
+  "author": "Ansel Sandoval",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Edmund Zhou, a scholarship student at an academy with too many secrets, counts days until graduation like a sentence being served. But when a best friend goes missing, leaving only a set of keys behind, she discovers that staying invisible was never really an option. To get through this, she must tell the truth even if it costs the friendship before the last game of the season.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9922
+  }
+}

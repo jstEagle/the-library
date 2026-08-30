@@ -1,0 +1,21 @@
+{
+  "id": "THR-08504",
+  "title": "Cover and Debt",
+  "author": "B. M. Quintana",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Sable Kavanagh, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. To get through this, they must burn the network that did the training before the markets open in Frankfurt.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8504
+  }
+}

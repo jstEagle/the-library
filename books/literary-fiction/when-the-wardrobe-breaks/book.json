@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04082",
+  "title": "When the Wardrobe Breaks",
+  "author": "Tamsin Amberdale",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Isandro Ishikawa, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, she discovers that staying invisible was never really an option. To get through this, she must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4082
+  }
+}

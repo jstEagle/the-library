@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07287",
+  "title": "When the Colony Wakes",
+  "author": "Hazel Ishikawa",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Hazel Thackeray, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. To get through this, they must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7287
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01743",
+  "title": "Isandro and the Spire",
+  "author": "O. M. Blackwood",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Dominic Marchetti, a beast-speaker hiding a forbidden gift, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1743
+  }
+}

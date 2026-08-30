@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06124",
+  "title": "A Garden for the Orchard",
+  "author": "Rafael Dravenmoor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ivo Ravensworth, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. But when a lost letter surfaces, postmarked eleven years ago, she discovers that staying invisible was never really an option. To get through this, she must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6124
+  }
+}

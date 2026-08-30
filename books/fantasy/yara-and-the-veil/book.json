@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01152",
+  "title": "Yara and the Veil",
+  "author": "M. M. Thornbury",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Gideon Pemberton, a beast-speaker hiding a forbidden gift, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1152
+  }
+}

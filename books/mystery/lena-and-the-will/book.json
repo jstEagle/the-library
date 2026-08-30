@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05850",
+  "title": "Lena and the Will",
+  "author": "Beatrix Galloway",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Orsen Delacroix, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. To get through this, they must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5850
+  }
+}

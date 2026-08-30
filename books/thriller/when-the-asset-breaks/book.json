@@ -1,0 +1,21 @@
+{
+  "id": "THR-08883",
+  "title": "When the Asset Breaks",
+  "author": "Felix Winterbourne",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Noor Voss, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. To get through this, they must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8883
+  }
+}

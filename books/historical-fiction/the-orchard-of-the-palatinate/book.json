@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02847",
+  "title": "The Orchard of the Palatinate",
+  "author": "Yara Zhou",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Hazel Ravensworth, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. Then a sealed letter names the family in a plot no one wants a part of — and she is pulled straight into the middle of it. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2847
+  }
+}

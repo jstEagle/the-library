@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09591",
+  "title": "When the Mixtape Wakes",
+  "author": "Mirabel Brightwater",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Odile Reyes, a debate champion who can't win the argument at home, stays under the radar: head down, grades up, locker shut. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. Now he must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9591
+  }
+}

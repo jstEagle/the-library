@@ -1,0 +1,21 @@
+{
+  "id": "THR-08980",
+  "title": "The Loose Safehouse",
+  "author": "Cyrus Nystrom",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Silas Eastwick, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. To get through this, she must extract a defector who may be the bait before the markets open in Frankfurt.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8980
+  }
+}

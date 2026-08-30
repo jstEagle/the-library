@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04628",
+  "title": "The Small Aftermath",
+  "author": "Gideon Brightwater",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Marguerite Zhou, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. Then a box of undelivered letters surfaces behind a wardrobe — and they are pulled straight into the middle of it. To get through this, they must translate the untranslatable sentence and live with it before the mother's memory goes entirely.",
+  "themes": [
+    "memory",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4628
+  }
+}

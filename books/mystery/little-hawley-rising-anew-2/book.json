@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05864",
+  "title": "Little Hawley Rising Anew",
+  "author": "Xanthe Blackwood",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Kestrel Thornbury, a retired detective running a failing bookshop, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5864
+  }
+}

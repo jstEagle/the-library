@@ -1,0 +1,21 @@
+{
+  "id": "THR-08537",
+  "title": "The Contact of the DMZ",
+  "author": "Hazel Marchetti",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Hazel Villalobos, a private security contractor guarding clients nobody trusts, has spent three years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and she is pulled straight into the middle of it. To get through this, she must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "found family",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8537
+  }
+}

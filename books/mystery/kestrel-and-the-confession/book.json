@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05293",
+  "title": "Kestrel and the Confession",
+  "author": "Lior Hartwell",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Kestrel Villalobos, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. To get through this, she must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5293
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03691",
+  "title": "Beatrix and the Smile",
+  "author": "Ivo Galloway",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Vesper Crane, a folklorist recording songs the village refuses to sing twice, has spent seven years telling themselves the noises have explanations. But when every mirror in the house starts reflecting the room one second late, she discovers that staying invisible was never really an option. Now she must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3691
+  }
+}

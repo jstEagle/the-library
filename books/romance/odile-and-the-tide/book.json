@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06410",
+  "title": "Odile and the Tide",
+  "author": "Rosalind Iversen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ines Pemberton, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6410
+  }
+}

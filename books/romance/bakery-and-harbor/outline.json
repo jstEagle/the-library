@@ -1,0 +1,29 @@
+{
+  "title": "Bakery and Harbor",
+  "slug": "romance/bakery-and-harbor",
+  "model": "stealth/ox-alpha",
+  "premise": "Hazel Lockridge keeps her late grandfather's lighthouse and writes romance novels under a pen name, hiding behind an anonymous pen-pal program run by the town's struggling literary festival. The festival coordinator, Eli Marsh—the man who once crushed her publishing dreams—turns out to be her assigned correspondent, and neither realizes it at first as their letters grow dangerously honest. When identities are revealed days before the festival, Hazel must choose between a career-saving book deal that requires leaving Harbor's Edge forever and the man who has finally learned to see her clearly. She stays, they co-write the festival's closing reading together, and the lighthouse lamp burns bright over a second chance neither expected to want.",
+  "about_author": "Noor Lockridge is the pseudonym of a former bakery counter clerk who wrote her first novel on receipt paper during slow morning shifts. She lives somewhere coastal, claims the sea edits better than any agent, and refuses to confirm which harbor inspired her stories.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Anonymous Address",
+      "summary": "Hazel's POV. Pressed by her editor for a new manuscript and lonely in the lighthouse, Hazel signs up for the festival's anonymous pen-pal program, writing under her pen name. Her first letter goes out; a sharp, familiar-sounding reply arrives criticizing her published novel. Emotional beat: guarded curiosity masking old wounds."
+    },
+    {
+      "n": 2,
+      "title": "Letters in the Dark",
+      "summary": "Alternating POV with Eli. Eli Marsh, running the festival on a failing budget, unknowingly corresponds with Hazel while clashing with her in person at planning meetings. Their letters grow tender and confessional even as their daytime rivalry sharpens. Emotional beat: dramatic irony tightening—two relationships blooming in opposite directions."
+    },
+    {
+      "n": 3,
+      "title": "What the Tide Returns",
+      "summary": "Hazel's POV, climax. A spilled envelope at the bakery reveals Eli is her pen pal; hours later he discovers she is his anonymous critic-turned-confidant. Confrontation in the lighthouse unearths the truth about the rejected manuscript years ago—he was protecting her from a predatory contract, not betraying her. Emotional beat: fury breaking open into devastating understanding."
+    },
+    {
+      "n": 4,
+      "title": "Festival of Small Lights",
+      "summary": "Eli's POV, resolution. With the festival collapsing and Hazel's big-city offer expiring, Eli publicly reads her letter aloud during the lantern ceremony, choosing truth over the career-saving deal he'd brokered. Hazel declines New York, they announce a co-written novel, and the harbor glows. Emotional beat: loyalty and love chosen over safety, found family gathered below the lit tower."
+    }
+  ]
+}

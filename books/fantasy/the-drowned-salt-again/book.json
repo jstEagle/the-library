@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02067",
+  "title": "The Drowned Salt Again",
+  "author": "P. M. Iversen",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.6,
+  "blurb": "Quentin Kavanagh, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. To get through this, he must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2067
+  }
+}

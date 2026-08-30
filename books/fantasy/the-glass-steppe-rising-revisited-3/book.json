@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02250",
+  "title": "the Glass Steppe Rising Revisited",
+  "author": "B. M. Galloway",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Paloma Reyes, a bone-carver who hears the dead, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2250
+  }
+}

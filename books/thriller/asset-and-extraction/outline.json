@@ -1,0 +1,59 @@
+{
+  "title": "Asset and Extraction",
+  "slug": "thriller/asset-and-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Lena Fairweather, a former compliance analyst turned whistle-blower, has spent three years living under four names after exposing the private military firm Halcyon Extraction's trafficking of disappeared persons. When Flight 347 — carrying a witness who could bury Halcyon — vanishes from every record mid-flight, Lena realizes his old handler has gone rogue and is selling the passenger manifest to the highest bidder. Hunted by both Halcyon's fixers and the federal agent who once betrayed him, Lena must trade the encrypted ledger he swore never to surrender for a seat on the dawn extraction flight, discovering that the 'found family' of fellow ghosts he's assembled is the only thing worth more than his secret. In the end, Lena burns the ledger publicly rather than trade it, sacrifices his escape seat to a stranger's child, and chooses a life in the open — testifying under his real name — over another decade of running.",
+  "about_author": "Lena Eastwick is the pen name of a former financial-crimes investigator who spent a decade inside the institutions she now writes about. She lives off-grid on the Atlantic coast, where she drafts her thrillers longhand and refuses all interviews.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Four Names, One Bag",
+      "summary": "POV: Lena Fairweather, living quietly in Porto as 'Daniel Voss.' We see his rituals: the packed go-bag, the rehearsed cover story, the weekly dead-drop check-in with his old handler Marsh. A small found-family of expat ghosts anchors him — café owner Rui, forger Sable. Emotional beat: brittle calm, the exhaustion of permanent vigilance."
+    },
+    {
+      "n": 2,
+      "title": "The Flight That Never Was",
+      "summary": "POV: Lena. He boards Flight 347 to Lisbon to meet a journalist, then watches the departure board wipe it from existence mid-air — no record, no passengers, no crash. His burner lights up with a message from Marsh: 'They took the whole sky.' Emotional beat: vertigo and dread as the world's systems prove erasable."
+    },
+    {
+      "n": 3,
+      "title": "Manifest of Ghosts",
+      "summary": "POV: alternating Lena and Agent Corrine Vale, the federal investigator who burned him years ago and now suspects Halcyon's hand in 347. Lena decodes a fragment of the flight manifest and finds the name of Amara Diallo, the witness who could end Halcyon. Emotional beat: reluctant alliance forming between two people with betrayal in their shared past."
+    },
+    {
+      "n": 4,
+      "title": "What Sable Knew",
+      "summary": "POV: Lena returns to Porto to find Rui's café ransacked and Sable missing — taken because she forged documents for Flight 347's real passenger list. Among her hidden papers: a partial copy of Halcyon's ledger, the very secret worth killing for. Emotional beat: guilt and grief; the cost of proximity to him lands on his chosen family."
+    },
+    {
+      "n": 5,
+      "title": "The Handler's Price",
+      "summary": "POV: Marsh, revealed as POV antagonist-adjacent. Marsh meets Lena in a Trieste safehouse and admits he's brokering the manifest to Halcyon — not for greed, he claims, but to buy back his own kidnapped daughter. He offers Lena a seat on the dawn extraction if he hands over the full ledger. Emotional beat: corrupted love; power twisting protection into extortion."
+    },
+    {
+      "n": 6,
+      "title": "Vale's Bargain",
+      "summary": "POV: Corrine Vale. She corners Lena with an offer of immunity in exchange for the ledger as evidence — but her superiors are compromised, and she knows handing it up the chain means it disappears like Flight 347 did. First honest conversation between them in years. Emotional beat: justice outside the law begins to look like the only justice available."
+    },
+    {
+      "n": 7,
+      "title": "Ledger of the Disappeared",
+      "summary": "POV: Lena decrypts the ledger fully and finds not just names but coordinates — a holding facility where the vanished are kept alive as leverage, including Marsh's daughter and possibly Sable. The secret stops being his shield and becomes a weapon aimed at everyone. Emotional beat: moral reckoning; the weight of what silence has protected."
+    },
+    {
+      "n": 8,
+      "title": "Ninety Minutes to Dawn",
+      "summary": "POV: rapid alternation, Lena/Vale/Marsh. Lena proposes a three-way trade at the airfield: ledger to Marsh for the daughter's location, testimony to Vale, extraction seat for himself. Halcyon's fixers close in early, forcing the exchange onto the tarmac under gunfire. Emotional beat: adrenaline and clarity — every player showing their true face."
+    },
+    {
+      "n": 9,
+      "title": "The Seat He Gave Away",
+      "summary": "POV: Lena, climax. On the tarmac, Lena discovers a stowaway child among the rescued captives and gives her his extraction seat, broadcasting the ledger to every newsroom and court registry simultaneously as the plane lifts off. Marsh, choosing his daughter over Halcyon, turns his gun on the fixers and takes a bullet. Emotional beat: sacrifice; power defeated not by outmuscling it but by making its secrets worthless."
+    },
+    {
+      "n": 10,
+      "title": "One Name, Spoken Aloud",
+      "summary": "POV: Lena, epilogue six months later. Halcyon is collapsing under prosecution built on Vale's protected testimony; Sable is found alive; Marsh recovers in custody, visiting his daughter through glass. Lena stands before a hearing and says his real name for the first time in years, Rui and Sable watching from the gallery. Emotional beat: resolution — found family intact, justice imperfect but real, and a man finally home in his own name."
+    }
+  ]
+}

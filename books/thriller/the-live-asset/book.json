@@ -1,0 +1,21 @@
+{
+  "id": "THR-09064",
+  "title": "The Live Asset",
+  "author": "Beatrix Montrose",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Beatrix Oyelaran, a whistle-blower living under four names, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9064
+  }
+}

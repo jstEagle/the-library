@@ -1,0 +1,21 @@
+{
+  "id": "THR-09123",
+  "title": "Ines and the Border",
+  "author": "Felix Ishikawa",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Cyrus Zhou, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9123
+  }
+}

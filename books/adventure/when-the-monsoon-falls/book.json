@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00311",
+  "title": "When the Monsoon Falls",
+  "author": "Odile Thackeray",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.8,
+  "blurb": "Wren Thackeray, an archaeologist's estranged child and better digger, has spent seven years measuring life in miles rather than years. But when a government survey team vanishes, leaving gear and no tracks, they discover that staying invisible was never really an option. To get through this, they must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 311
+  }
+}

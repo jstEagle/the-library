@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07240",
+  "title": "The Slow Terminal",
+  "author": "Felix Yarrow",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Rafael Blackwood, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. To get through this, he must keep a lie alive that holds two fleets apart before the fleet's truce expires.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7240
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06682",
+  "title": "The Garden of Junebug Creek Anew",
+  "author": "F. M. Amberdale",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Wendell Zhou, a single parent running the town's only bookshop, believes second chances are for people with better timing. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6682
+  }
+}

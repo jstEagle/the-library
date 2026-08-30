@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02392",
+  "title": "When the Clock Falls",
+  "author": "I. M. Nystrom",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Ulyana Okonkwo, a mapmaker's apprentice finishing the atlas the master died for, believes history happens to other people, elsewhere. But when a sealed letter names the family in a plot no one wants a part of, they discover that staying invisible was never really an option. To get through this, they must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2392
+  }
+}

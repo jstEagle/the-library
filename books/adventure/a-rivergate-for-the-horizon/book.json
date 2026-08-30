@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00238",
+  "title": "A Rivergate for the Horizon",
+  "author": "Paloma Oyelaran",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Marguerite Almeida, a storm chaser who owes money to dangerous optimists, has spent seven years measuring life in miles rather than years. Then an expedition upriver stops answering the radio — and he is pulled straight into the middle of it. To get through this, he must bring the expedition home without telling anyone what it found before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 238
+  }
+}

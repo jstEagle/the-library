@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06044",
+  "title": "The Last Songbook",
+  "author": "Orsen Vane",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Petra Blackwood, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. To get through this, he must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6044
+  }
+}

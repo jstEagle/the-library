@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02251",
+  "title": "A Ember for the Wolf Revisited",
+  "author": "Q. M. Pemberton",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Rafael Fairweather, a cartographer of unmapped realms, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must steal back a soul sold to the court beneath the mountain before the usurper's armies reach the free cities.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2251
+  }
+}

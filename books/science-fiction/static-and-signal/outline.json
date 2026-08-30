@@ -1,0 +1,59 @@
+{
+  "title": "Static and Signal",
+  "slug": "science-fiction/static-and-signal",
+  "model": "stealth/ox-alpha",
+  "premise": "Casper Pemberton has spent a decade as the sole caretaker of Verdance, a terraformed garden world seeded for colonists who may never come, running supply routes between settlements that severed contact after the Silence Accords. When the derelict ship Halcyon returns from deep space with its crew mysteriously aged backward into children, Casper realizes the phenomenon is spreading along the relay network—and that her late mother, a disgraced signal engineer, left encoded warnings inside the very relays Casper maintains. Racing a collapsing signal to the last relay at the edge of dead space, Casper must choose between obeying the Accord enforcers who want the network destroyed and honoring her mother's inheritance: a plan to rebroadcast the signal and reverse the aging before it reaches inhabited worlds. She succeeds at the cost of the relay itself, sending the cure outward while stranding herself in dead space—until the ships of the people she saved arrive to bring her home.",
+  "about_author": "Isandro Reyes is a former radio technician who spent six years maintaining communications towers in remote mountain ranges before turning to fiction. He writes about isolation, inherited obligations, and the strange intimacy of voices carried across great distances.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Route",
+      "summary": "POV Casper. On a routine run between silent colonies, Casper tends Verdance's greenhouse and records messages for future settlers no one expects to arrive. Her solitary rhythm is established—watering schedules, relay maintenance, her mother's old tools. Emotional beat: contentment shadowed by loneliness; she has made peace with being forgotten."
+    },
+    {
+      "n": 2,
+      "title": "Halcyon",
+      "summary": "POV Casper. A distress ping draws her to the derelict Halcyon drifting at the system's edge. Inside she finds thirty crew members transformed into children with no memory of their adult lives, the ship's logs corrupted by an impossible signal signature. Emotional beat: dread and wonder colliding; the first crack in her invisibility."
+    },
+    {
+      "n": 3,
+      "title": "What the Accord Knows",
+      "summary": "POV Casper. Accord enforcer Deputy Wren Sandoval arrives to quarantine the children and seize the ship, revealing this is the third such return. Wren orders Casper to surrender her relay access codes. Emotional beat: suspicion hardening into defiance; Casper recognizes the signal pattern—it matches her mother's engineering hand."
+    },
+    {
+      "n": 4,
+      "title": "Inheritance in Static",
+      "summary": "POV Casper, with flashback fragments. Decoding her mother's hidden layer inside the relay firmware, Casper finds years of buried warnings: the deep-space signal isn't random, it's a message being slowly translated, and the aging is a side effect of something listening back. Emotional beat: grief transmuted into purpose; her mother reached across death to reach her."
+    },
+    {
+      "n": 5,
+      "title": "Children of the Deep",
+      "summary": "POV alternating Casper and Wren. The Halcyon children begin speaking in unison during sleep, reciting coordinates that match the edge of dead space. Wren wants them sedated and shipped to Accord custody; Casper argues they are evidence, not contagion. Emotional beat: moral fracture—the two women forced into reluctant alliance against their own institutions."
+    },
+    {
+      "n": 6,
+      "title": "The Burning of the Beacon",
+      "summary": "POV Wren. Accord command orders all relays in the sector scuttled to sever the signal's path. Wren, ordered to destroy Casper's home relay, instead burns her own career warning Casper to run. Emotional beat: sacrifice; Wren chooses justice outside the law and becomes a fugitive alongside the woman she was sent to arrest."
+    },
+    {
+      "n": 7,
+      "title": "Dead Space",
+      "summary": "POV Casper. The two flee through unmapped void toward the final relay, pursued by Accord cutters, the ship failing, the children's recitations growing more urgent and coherent. Casper admits she's terrified not of dying but of dying before understanding what her mother knew. Emotional beat: intimacy born of shared danger; love arriving without permission."
+    },
+    {
+      "n": 8,
+      "title": "The Relay at the Edge",
+      "summary": "POV Casper. They reach the ancient relay and find her mother's final transmission waiting: the signal is a rescue broadcast from a lost generation ship, and the 'cure' requires someone to manually hold the relay open while it rebroadcasts—a task that will destroy the station and likely its operator. Emotional beat: devastating clarity; duty and love finally point in opposite directions."
+    },
+    {
+      "n": 9,
+      "title": "Signal Fire",
+      "summary": "POV alternating Casper and Wren. As Accord cutters close in, Casper initiates the rebroadcast while Wren holds off the pursuers with falsified clearance codes and sheer nerve. The relay screams the translation across the network; the aging reverses along every connected line. Emotional beat: climax—Casper holding the connection as the station comes apart around her, choosing the unborn over herself."
+    },
+    {
+      "n": 10,
+      "title": "Verdance, Green Again",
+      "summary": "POV Casper. Stranded in a lifepod among the wreckage, Casper is found by the restored crews of a dozen worlds that no longer speak—but now do, together, because of her. The Halcyon children, grown whole again, greet her by name. Back on Verdance, she plants a new seed row beside her mother's tools, Wren at her side. Emotional beat: resolution—inheritance fulfilled, solitude ended, the garden finally waiting for people who are coming."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09451",
+  "title": "The Live Asset Revisited",
+  "author": "Gideon Delacroix",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Petra Dunmore, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. To get through this, he must burn the network that did the training before the summit convenes.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9451
+  }
+}

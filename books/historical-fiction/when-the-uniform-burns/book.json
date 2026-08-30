@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02499",
+  "title": "When the Uniform Burns",
+  "author": "Gideon Whitlock",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Lior Eastwick, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent ten years learning which silences keep people safe. Then the census taker asks one question too many — and they are pulled straight into the middle of it. To get through this, they must choose which family member gets the last berth before the ice breaks on the river.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2499
+  }
+}

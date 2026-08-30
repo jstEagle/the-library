@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07984",
+  "title": "Silas and the Vector",
+  "author": "Kestrel Vasquez",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Orsen Vasquez, the last human technician on an automated relay station, has spent seven years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7984
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06210",
+  "title": "A Orchard for the Kitchen",
+  "author": "Oscar Yarrow",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Wren Vane, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6210
+  }
+}

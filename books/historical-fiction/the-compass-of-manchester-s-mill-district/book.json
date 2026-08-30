@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02561",
+  "title": "The Compass of Manchester's mill district",
+  "author": "Hazel Delacroix",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Mirabel Underhill, a code-carrying courier on the last diplomatic mission of a doomed republic, believes history happens to other people, elsewhere. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and she is pulled straight into the middle of it. To get through this, she must finish the work while the workshop still stands before the ship sails on the morning tide.",
+  "themes": [
+    "identity",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2561
+  }
+}

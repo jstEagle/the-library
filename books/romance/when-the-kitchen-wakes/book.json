@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06600",
+  "title": "When the Kitchen Wakes",
+  "author": "Rosalind Kavanagh",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Elodie Lockridge, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. But when the person behind a decade of letters moves in next door, he discovers that staying invisible was never really an option. Now he must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6600
+  }
+}

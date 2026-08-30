@@ -1,0 +1,21 @@
+{
+  "id": "THR-08442",
+  "title": "the DMZ Rising",
+  "author": "Lior Zhou",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Orsen Galloway, a private security contractor guarding clients nobody trusts, has spent five years following rules that keep getting rewritten. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8442
+  }
+}

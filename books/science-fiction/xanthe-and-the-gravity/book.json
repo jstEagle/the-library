@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07619",
+  "title": "Xanthe and the Gravity",
+  "author": "Casper Coldharbour",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Tamsin Montrose, a terraformer tending a garden meant for people not yet born, records the slow death of a colony everyone else forgot. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. To get through this, she must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7619
+  }
+}

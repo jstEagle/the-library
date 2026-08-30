@@ -1,0 +1,59 @@
+{
+  "title": "Quentin and the Deadline",
+  "slug": "thriller/quentin-and-the-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Mara Dunmore, a ghost analyst erased from three agencies' records, is hired for one last deniable job: authenticate a voiceprint that opens a server vault in Tallinn. Inside she finds the training corpus of 'Oxenfree,' an AI built on the stolen voices of disappeared analysts—including her own—and the ledger of the network that made them vanish. Hunted by the handlers who once owned her, Mara must decide whether to sell the archive or burn it, and in the final hours before the extraction flight at dawn, she torches the servers and broadcasts the ledger, trading her invisibility for a name.",
+  "about_author": "Yara Voss is the pen name of a former intelligence contractor who writes thrillers about the people bureaucracies prefer to forget. She lives off-grid on the Baltic coast with two dogs and an unhealthy relationship with encrypted notebooks.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Ghost Rate",
+      "summary": "Mara's POV. Broke and blacklisted after three agencies scrubbed her from their histories, Mara accepts a cash job authenticating a voiceprint for a client who communicates only through cutouts. The beat: weary competence masking grief over the identity she lost."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "Mara's POV. In a rented flat in Riga, she runs the sample and freezes: the voice is hers—or a perfect reconstruction of it. The server unlocks remotely, spilling fragments of files labeled OXENFREE. Beat: dread curdling into obsession as she realizes someone kept her voice."
+    },
+    {
+      "n": 3,
+      "title": "The Ledger of Missing Names",
+      "summary": "Mara's POV, intercut with handler Kessler's. The archive lists analysts who 'resigned' into silence—training data harvested from the disappeared. Kessler learns the vault was opened and activates trackers. Beat: cold horror giving way to resolve."
+    },
+    {
+      "n": 4,
+      "title": "Cutouts and Cut Throats",
+      "summary": "Mara's POV. Following the money trail through Tallinn's gray-market brokers, she finds the fixer who hired her dead, staged as suicide. She understands: she was never the client—she was the key. Beat: paranoia sharpening into survival instinct."
+    },
+    {
+      "n": 5,
+      "title": "What They Trained On Me",
+      "summary": "Mara's POV. Deep in the archive she finds her own recruitment file: the 'accident' that ended her career was engineered to make her pliable. Flashbacks fracture her certainty about every choice she's made. Beat: identity crisis—the self she mourned was manufactured."
+    },
+    {
+      "n": 6,
+      "title": "Kessler's Offer",
+      "summary": "Kessler's POV. He corners Mara via a burner call: return the access keys, receive a new name, a clean life—the same deal the others took before they vanished. His charm is genuine and monstrous. Beat: temptation, power dressed as mercy."
+    },
+    {
+      "n": 7,
+      "title": "The Extraction Flight",
+      "summary": "Mara's POV. A rival faction inside the network offers her a seat on a dawn flight out with a copy of the ledger—for a price: leave the originals intact so leverage survives. Beat: the corrupting logic of inheritance; everyone wants to own the past."
+    },
+    {
+      "n": 8,
+      "title": "Server Room at Zero Hour",
+      "summary": "Mara's POV. She infiltrates the Tallinn facility during a shift change, planting thermite charges while Kessler's teams sweep the corridors. She finds the live model mid-training on a new voice—a child's. Beat: fury transfigured into purpose."
+    },
+    {
+      "n": 9,
+      "title": "Burn Protocol",
+      "summary": "Alternating Mara/Kessler POV. Confrontation in the vault as the charges tick down; Kessler offers partnership instead of erasure, revealing he too is archived. Mara ignites the servers and forces him to watch his own file burn. Beat: climax—power refused, corruption answered with fire."
+    },
+    {
+      "n": 10,
+      "title": "Dawn, Under Her Own Name",
+      "summary": "Mara's POV. She misses the extraction flight deliberately, broadcasting the ledger to every newsroom and agency before sunrise. Watching her real name trend worldwide, she feels exposed and, for the first time in years, whole. Beat: resolution—invisibility traded for inheritance reclaimed."
+    }
+  ]
+}

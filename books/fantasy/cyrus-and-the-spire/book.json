@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01461",
+  "title": "Cyrus and the Spire",
+  "author": "Ines Sandoval",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ulyana Crane, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. But when tonight's date appears in a book of prophecies written a century ago, he discovers that staying invisible was never really an option. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1461
+  }
+}

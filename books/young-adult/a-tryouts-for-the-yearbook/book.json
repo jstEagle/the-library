@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09904",
+  "title": "A Tryouts for the Yearbook",
+  "author": "Odile Winterbourne",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Theo Ishikawa, a debate champion who can't win the argument at home, stays under the radar: head down, grades up, locker shut. Then a group chat starts predicting things that haven't happened yet — and he is pulled straight into the middle of it. To get through this, he must win the championship that doesn't matter — and the one that does before the final audition.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9904
+  }
+}

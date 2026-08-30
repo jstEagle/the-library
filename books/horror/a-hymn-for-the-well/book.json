@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03166",
+  "title": "A Hymn for the Well",
+  "author": "Jude Ashgrove",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Lena Yarrow, a property surveyor appraising a house that appraises back, documents everything, because documentation is a kind of prayer. Then every mirror in the house starts reflecting the room one second late — and she is pulled straight into the middle of it. To get through this, she must hold out until sunrise with the truth about what was invited in before the harvest moon rises.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3166
+  }
+}

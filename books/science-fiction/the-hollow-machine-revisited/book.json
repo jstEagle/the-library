@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08291",
+  "title": "The Hollow Machine Revisited",
+  "author": "Marguerite Brightwater",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Elodie Eastwick, a pilot bonded to an AI that lies, has spent three years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. To get through this, she must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8291
+  }
+}

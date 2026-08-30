@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00441",
+  "title": "A Landfall for the Current",
+  "author": "Beatrix Nystrom",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Paloma Almeida, a mountain guide blacklisted from two countries, knows the wilderness forgives nothing and forgets less. Then a government survey team vanishes, leaving gear and no tracks — and he is pulled straight into the middle of it. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 441
+  }
+}

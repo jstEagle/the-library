@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05995",
+  "title": "Postcard and Songbook",
+  "author": "Ivo Brightwater",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Juniper Joubert, a pastry chef whose café is three missed payments from gone, keeps love in the past tense where it belongs. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5995
+  }
+}

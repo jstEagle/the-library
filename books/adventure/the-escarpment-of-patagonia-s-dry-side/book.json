@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00272",
+  "title": "The Escarpment of Patagonia's dry side",
+  "author": "Gideon Almeida",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Tamsin Delacroix, a riverboat captain who knows every sandbar's mood, knows the wilderness forgives nothing and forgets less. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. To get through this, she must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 272
+  }
+}

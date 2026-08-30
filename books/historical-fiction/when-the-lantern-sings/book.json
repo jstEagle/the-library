@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02387",
+  "title": "When the Lantern Sings",
+  "author": "Sebastian Vane",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Zhou, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. To get through this, he must choose which family member gets the last berth before the ice breaks on the river.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2387
+  }
+}

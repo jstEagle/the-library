@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06934",
+  "title": "Noor and the Orchard",
+  "author": "Gideon Kavanagh",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Casper Nakamura, a wedding planner who doesn't believe in weddings anymore, has spent three years rebuilding a life measured in small safe steps. Then a snowstorm strands two rivals with the best mistake of their twenties — and they are pulled straight into the middle of it. To get through this, they must forgive the person in the mirror first before the last ferry of the season departs.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6934
+  }
+}

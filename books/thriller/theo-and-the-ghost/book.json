@@ -1,0 +1,21 @@
+{
+  "id": "THR-09346",
+  "title": "Theo and the Ghost",
+  "author": "Gideon Pemberton",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Xanthe Voss, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9346
+  }
+}

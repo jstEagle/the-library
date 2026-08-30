@@ -1,0 +1,29 @@
+{
+  "title": "Cover and Debt",
+  "slug": "thriller/cover-and-debt",
+  "model": "stealth/ox-alpha",
+  "premise": "Sable Kavanagh, a disgraced intelligence analyst, discovers that a voiceprint in an old case file unlocks a server in Zurich containing the training data of a market-manipulating network built by the very agencies that fired them. Hunted by both the network's private enforcers and former colleagues, Sable races to expose the archive before Frankfurt markets open, forcing a choice between the loyalty they still feel toward their old handlers and the truth that will destroy them. In the end, Sable leaks the data publicly, burning their own reputation as cover, and walks away with nothing but the truth — and finally, freedom.",
+  "about_author": "B. M. Quintana is the pen name of a former financial-crimes researcher who spent a decade inside compliance departments before walking away. They write thrillers about people who know exactly how systems fail because they once maintained them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Go-Bag Years",
+      "summary": "Sable's POV. Fired from a third agency and living out of a go-bag, Sable runs a dead-end consulting gig until a routine audit surfaces a voiceprint sample matching their own archived testimony. When they speak the phrase aloud, a dormant server in Zurich pings back. The emotional beat is restless paranoia hardening into purpose: someone left this door open for them specifically."
+    },
+    {
+      "n": 2,
+      "title": "Dead Drop Protocol",
+      "summary": "Alternating POV with Mara Voss, Sable's ex-handler who now works for the network. Sable flies to Zurich under a false identity and finds the server holds years of manipulated trades traced to three agencies' black budgets. Enforcers arrive minutes after Sable copies the archive; a chase through the old town ends with a stranger dying to buy Sable time. The beat: guilt and the first taste of real stakes."
+    },
+    {
+      "n": 3,
+      "title": "Frankfurt Countdown",
+      "summary": "Sable's POV, compressed into one night. Cornered in Frankfurt with hours before markets open, Sable must decrypt the archive while dodging Voss, who offers redemption in exchange for silence — loyalty versus truth made flesh. Sable discovers the network's founder is the mentor who taught them everything. The climax hits as Sable chooses to broadcast the leak live rather than trade it for safety."
+    },
+    {
+      "n": 4,
+      "title": "What the Markets Opened",
+      "summary": "Split POV between Sable and Voss in the aftermath. The leak detonates across European exchanges; investigations ignite, and the mentor resigns in disgrace while Voss testifies to save herself. Sable, officially a criminal and privately free, watches from a Lisbon rooftop as the story breaks. The final beat is quiet catharsis: the lie is burned, the bag stays unpacked, and justice arrived outside the law."
+    }
+  ]
+}

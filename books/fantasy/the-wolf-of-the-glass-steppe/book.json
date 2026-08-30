@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01009",
+  "title": "The Wolf of the Glass Steppe",
+  "author": "Xanthe Delacroix",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Fairweather, a royal food-taster building immunity one dish at a time, has never left the valley where magic cannot follow. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1009
+  }
+}

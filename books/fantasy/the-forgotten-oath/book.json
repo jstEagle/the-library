@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01141",
+  "title": "The Forgotten Oath",
+  "author": "X. M. Almeida",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Sebastian Pemberton, the youngest member of a dying guild, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "belonging",
+    "memory",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1141
+  }
+}

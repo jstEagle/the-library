@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04839",
+  "title": "A Witness for the Verdict",
+  "author": "Wren Nystrom",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Marguerite Winterbourne, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4839
+  }
+}

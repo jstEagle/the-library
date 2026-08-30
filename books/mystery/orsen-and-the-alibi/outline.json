@@ -1,0 +1,59 @@
+{
+  "title": "Orsen and the Alibi",
+  "slug": "mystery/orsen-and-the-alibi",
+  "model": "stealth/ox-alpha",
+  "premise": "Jonah Montrose, the concierge of the Grand Verity Hotel, built their reputation on noticing what guests hide and closing every case quietly. When a confession letter arrives postmarked the day after hotel magnate Aldous Vane's funeral — naming Jonah as its intended recipient — they must trace a coded ledger hidden in the hotel's guest registry to expose the real killer before the statute of limitations expires on the original crime Vane confessed to. The trail implicates the only family Jonah has ever known: the hotel's night staff, who raised them. In the end, Jonah must choose between burying the ledger to protect their found family or publishing it, and they choose a third path — turning the ledger over with testimony that convicts only the guilty, keeping the innocent inside their circle intact but forever changed by the truth.",
+  "about_author": "M. M. Quintana is the pen name of a former night auditor who spent a decade watching hotel lobbies absorb other people's secrets. They write mysteries from a small apartment above a laundromat, where the dryers hum like confessions.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Postmarked the Day After",
+      "summary": "Jonah's POV. A week after hotel magnate Aldous Vane's funeral, a confession letter arrives at the Grand Verity addressed to Jonah — postmarked the day after the death. It names a thirty-year-old crime and promises the proof is 'in plain sight.' Jonah, who never takes a case they can't close, feels the first crack in their certainty. Emotional beat: dread wrapped in professional curiosity."
+    },
+    {
+      "n": 2,
+      "title": "The Registry That Remembers",
+      "summary": "Jonah's POV. Searching Vane's old guest registrations, Jonah finds dates and room numbers that repeat in an impossible pattern — a cipher. They pull in Marta, the elderly night auditor who helped raise them, who goes pale at one name in the ledger. Emotional beat: the warmth of found family shadowed by the first hint that the family itself may be implicated."
+    },
+    {
+      "n": 3,
+      "title": "What the Night Staff Saw",
+      "summary": "Alternating POV between Jonah and Marta. Flashbacks surface: thirty years ago, a guest vanished from room 407 and the case died quietly. Marta admits she altered a registry page back then — but claims she did it to protect someone, not Vane. Emotional beat: loyalty beginning to war with truth."
+    },
+    {
+      "n": 4,
+      "title": "Room 407",
+      "summary": "Jonah's POV. Jonah decodes the ledger's first layer: a running record of payments funneled through the hotel to silence witnesses of the disappearance. The trail points to Vane's business partner, now the hotel's owner, Edmund Hale. But the handwriting on one entry is unmistakably Marta's. Emotional beat: vertigo — the suspect list includes home."
+    },
+    {
+      "n": 5,
+      "title": "The Alibi",
+      "summary": "Hale's POV. Hale produces an airtight alibi for the night of the disappearance, and it checks out — which means either the ledger is a forgery or someone else orchestrated everything. Hale warns Jonah off with a veiled threat about their employment and immigration-adjacent paperwork for the night staff. Emotional beat: power flexing; corruption revealed as systemic, not personal."
+    },
+    {
+      "n": 6,
+      "title": "Statute of Limitations",
+      "summary": "Jonah's POV. A lawyer friend confirms the underlying crime's statute expires in nineteen days. Jonah accelerates, decoding the ledger's second layer — a list of initials matching the night staff roster, past and present. One initials set belongs to Marta. Jonah confronts her; she walks out mid-question. Emotional beat: the investigator's worst fear — the evidence leading to the person they love."
+    },
+    {
+      "n": 7,
+      "title": "The Second Confession",
+      "summary": "Marta's POV. Marta's history unfolds: as a young auditor she witnessed the cover-up and was paid to alter the registry, money she used to quietly support the vanished guest's orphaned daughter. She wrote Vane's confession letter after his deathbed admission, then panicked. Emotional beat: guilt, tenderness, and the revelation that loyalty and deception have been braided together all along."
+    },
+    {
+      "n": 8,
+      "title": "Nineteen Days, Then None",
+      "summary": "Jonah's POV. With the clock running out, Jonah discovers the ledger's final layer: Vane's own initials as the paymaster — but the physical ledger has vanished from the safe. Hale has it, and he's offered it to the police as proof of Marta's guilt, edited. Emotional beat: rising panic; the truth itself is now a hostage."
+    },
+    {
+      "n": 9,
+      "title": "The Lobby at Midnight",
+      "summary": "Alternating POV, Jonah and Marta. Climax: Jonah stages a midnight reconstruction in the lobby, inviting Hale, the police, and the night staff, and uses the hotel's own surveillance archives — which Jonah has quietly maintained for years — to expose Hale's edits and his payments. Hale, cornered, incriminates himself. Marta confesses her alteration openly before he can weaponize it. Emotional beat: catharsis; truth spoken aloud as an act of loyalty, not betrayal."
+    },
+    {
+      "n": 10,
+      "title": "Concierge, Still",
+      "summary": "Jonah's POV. Resolution: Hale is charged, Marta receives a suspended sentence for her decades-old alteration and keeps her pension, and the vanished guest's daughter finally learns the truth. Jonah declines promotion to manager, choosing the concierge desk where they can keep watching over their people. The ledger is archived, unhidden. Emotional beat: quiet peace — truth kept, family kept, both at cost."
+    }
+  ]
+}

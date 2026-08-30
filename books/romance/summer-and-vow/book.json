@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06357",
+  "title": "Summer and Vow",
+  "author": "Edmund Amberdale",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Paloma Brightwater, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6357
+  }
+}

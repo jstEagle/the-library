@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06303",
+  "title": "Promise and Kitchen",
+  "author": "Theo Underhill",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Kestrel Thackeray, a lighthouse keeper's granddaughter and part-time novelist, has spent seven years rebuilding a life measured in small safe steps. But when a snowstorm strands two rivals with the best mistake of their twenties, she discovers that staying invisible was never really an option. To get through this, she must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6303
+  }
+}

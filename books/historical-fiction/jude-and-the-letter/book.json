@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02922",
+  "title": "Jude and the Letter",
+  "author": "Dominic Montrose",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Beatrix Thornbury, a code-carrying courier on the last diplomatic mission of a doomed republic, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. Now they must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2922
+  }
+}

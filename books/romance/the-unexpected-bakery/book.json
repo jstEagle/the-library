@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06436",
+  "title": "The Unexpected Bakery",
+  "author": "L. M. Dravenmoor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Orsen Dunmore, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. Then two estranged names appear on the same impossibly stubborn orchard deed — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6436
+  }
+}

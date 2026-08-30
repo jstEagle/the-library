@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09893",
+  "title": "Ulyana and the Detention",
+  "author": "Casper Whitlock",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Wendell Okonkwo, the team's statistician who knows the game is rigged, has spent fifteen years being so careful it hurts. Then a group chat starts predicting things that haven't happened yet — and she is pulled straight into the middle of it. Now she must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9893
+  }
+}

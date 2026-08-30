@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09660",
+  "title": "Tamsin and the Semester",
+  "author": "Odile Galloway",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Oscar Dunmore, a scholarship student at an academy with too many secrets, counts days until graduation like a sentence being served. But when the college essay prompt asks one honest question nobody can stop answering, he discovers that staying invisible was never really an option. Now he must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9660
+  }
+}

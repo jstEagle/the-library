@@ -1,0 +1,21 @@
+{
+  "id": "THR-08823",
+  "title": "The Loose Debt",
+  "author": "Hazel Kavanagh",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Jude Joubert, a financial-crimes investigator drowning in clean money, has spent three years following rules that keep getting rewritten. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and he is pulled straight into the middle of it. To get through this, he must extract a defector who may be the bait before the extraction flight leaves at dawn.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8823
+  }
+}

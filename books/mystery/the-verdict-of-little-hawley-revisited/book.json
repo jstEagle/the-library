@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05877",
+  "title": "The Verdict of Little Hawley Revisited",
+  "author": "Elodie Ashgrove",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Jonah Iversen, a retired detective running a failing bookshop, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5877
+  }
+}

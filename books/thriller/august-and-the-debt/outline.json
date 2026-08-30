@@ -1,0 +1,29 @@
+{
+  "title": "August and the Debt",
+  "slug": "thriller/august-and-the-debt",
+  "model": "stealth/ox-alpha",
+  "premise": "Vesper Thackeray, a crash investigator haunted by the unexplained death of his family in row twelve, has spent years burying himself in cases airlines refuse to claim. When a routine voiceprint analysis unlocks a server in Lagos, he uncovers a trafficking network that fakes disasters to erase witnesses—including, possibly, the truth about row twelve. Hunted by the network's fixer and betrayed by the colleague who recruited him, Vesper must trade his family's sealed final-seconds recording—the one secret worth killing for—to expose the operation. In the end, justice costs him his anonymity but returns something rarer: proof that his family's deaths meant something.",
+  "about_author": "Lena Oyelaran is a former aviation insurance analyst who spent a decade reviewing claims no one wanted to read twice. She writes thrillers from a coastal town whose name she declines to confirm.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Vesper's POV. Assigned a 'no-attribution' crash off the Canary Islands, Vesper runs standard voiceprint recovery on recovered black-box fragments and gets an impossible match: a dead man's voice, transmitting from Lagos three days after the crash. The beat is quiet dread—his careful invisible life cracking open as he realizes the anomaly mirrors the flight that killed his family."
+    },
+    {
+      "n": 2,
+      "title": "The Server That Answers",
+      "summary": "Alternating Vesper and fixer Adaeze Okonkwo's POVs. Vesper traces the signal to a Lagos data hub holding falsified passenger manifests for eleven 'accidents'—including his family's flight. Adaeze is dispatched to silence him. The emotional beat is vertigo: grief weaponized into purpose, while the reader sees the trap closing from both sides."
+    },
+    {
+      "n": 3,
+      "title": "What the Recording Is Worth",
+      "summary": "Vesper's POV, with a betrayal midpoint. His mentor, Dreyfus, reveals he flagged Vesper's family file years ago—and offers him escape if he surrenders the sealed row-twelve cockpit recording to the network instead of prosecutors. Cornered in a safehouse as Adaeze closes in, Vesper faces the climax: duty to the dead versus survival, love against duty made literal."
+    },
+    {
+      "n": 4,
+      "title": "Attribution",
+      "summary": "Vesper's POV, then a coda in Adaeze's. Vesper broadcasts the recording and manifests publicly, trading his anonymity—and nearly his life—as Adaeze's employers burn the network to save themselves; she lets him live, owing him a debt of her own. The resolution: row twelve is finally attributed, and Vesper, visible at last, chooses to keep investigating what others bury."
+    }
+  ]
+}

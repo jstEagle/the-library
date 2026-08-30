@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04071",
+  "title": "A Interior for the Inventory",
+  "author": "Mirabel Ashgrove",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Quentin Lockridge, an heir cataloging a parent's silence after the funeral, has perfected the smile that ends conversations. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4071
+  }
+}

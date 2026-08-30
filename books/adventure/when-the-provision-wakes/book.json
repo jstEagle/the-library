@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00031",
+  "title": "When the Provision Wakes",
+  "author": "A. M. Hartwell",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Sebastian Villalobos, a storm chaser who owes money to dangerous optimists, knows the wilderness forgives nothing and forgets less. Then an old rival hires the crew for the one job that was sworn off long ago — and they are pulled straight into the middle of it. To get through this, they must beat the salvage fleet to the wreck by six tides before the monsoon makes landfall.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 31
+  }
+}

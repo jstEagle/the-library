@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05996",
+  "title": "A Vow for the Songbook",
+  "author": "Cyrus Sandoval",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Odile Almeida, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the last ferry of the season departs.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5996
+  }
+}

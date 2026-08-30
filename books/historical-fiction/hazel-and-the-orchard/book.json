@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03141",
+  "title": "Hazel and the Orchard",
+  "author": "Isandro Galloway",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jonah Underhill, a battlefield nurse keeping a ledger of the names officers omit, keeps a low profile and busy hands. But when a child is left at the door with instructions to forget the face, he discovers that staying invisible was never really an option. Now he must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3141
+  }
+}

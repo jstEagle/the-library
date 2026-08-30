@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06430",
+  "title": "Vow and Songbook",
+  "author": "Wendell Zhou",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "August Dravenmoor, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6430
+  }
+}

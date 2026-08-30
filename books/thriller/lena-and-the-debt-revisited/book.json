@@ -1,0 +1,21 @@
+{
+  "id": "THR-09408",
+  "title": "Lena and the Debt Revisited",
+  "author": "Wendell Reyes",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Hazel Thackeray, a fixer for an embassy that doesn't officially exist, has spent fifteen years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. To get through this, he must burn the network that did the training before the markets open in Frankfurt.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9408
+  }
+}

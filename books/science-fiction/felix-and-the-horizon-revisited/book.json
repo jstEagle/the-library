@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08068",
+  "title": "Felix and the Horizon Revisited",
+  "author": "Vesper Brightwater",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Wren Eriksen, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. To get through this, he must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8068
+  }
+}

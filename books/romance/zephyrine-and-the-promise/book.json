@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06841",
+  "title": "Zephyrine and the Promise",
+  "author": "Kestrel Okonkwo",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Ansel Joubert, a single parent running the town's only bookshop, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6841
+  }
+}

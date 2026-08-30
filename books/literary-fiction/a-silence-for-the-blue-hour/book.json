@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04185",
+  "title": "A Silence for the Blue Hour",
+  "author": "Edmund Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Marguerite Okonkwo, a translator losing a childhood language one borrowed word at a time, moves through the days like a tenant, not an owner. But when a box of undelivered letters surfaces behind a wardrobe, she discovers that staying invisible was never really an option. To get through this, she must forgive the stranger in the old photographs before the mother's memory goes entirely.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4185
+  }
+}

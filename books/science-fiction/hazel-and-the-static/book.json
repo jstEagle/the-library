@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08293",
+  "title": "Hazel and the Static",
+  "author": "Gideon Underhill",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 5.0,
+  "blurb": "Ulyana Vane, a pilot bonded to an AI that lies, has spent ten years hauling cargo through contested orbits. But when a ship returns from deep space with everyone aboard aged backward, he discovers that staying invisible was never really an option. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8293
+  }
+}

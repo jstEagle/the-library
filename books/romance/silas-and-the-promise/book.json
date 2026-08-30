@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06919",
+  "title": "Silas and the Promise",
+  "author": "Coral Dunmore",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Paloma Okafor, a marine biologist counting turtles instead of heartbreaks, has spent five years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6919
+  }
+}

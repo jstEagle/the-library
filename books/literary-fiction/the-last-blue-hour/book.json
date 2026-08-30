@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04081",
+  "title": "The Last Blue Hour",
+  "author": "Ulyana Fairweather",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Odile Whitlock, a piano tuner who hears the house's history in its radiators, has perfected the smile that ends conversations. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. To get through this, he must translate the untranslatable sentence and live with it before the mother's memory goes entirely.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4081
+  }
+}

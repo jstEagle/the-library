@@ -1,0 +1,21 @@
+{
+  "id": "THR-08787",
+  "title": "Ulyana and the Border",
+  "author": "Mara Nakamura",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Kestrel Halloran, a whistle-blower living under four names, hasn't slept through the night since the incident. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. To get through this, he must extract a defector who may be the bait before the extraction flight leaves at dawn.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8787
+  }
+}

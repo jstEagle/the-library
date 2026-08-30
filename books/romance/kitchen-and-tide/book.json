@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06637",
+  "title": "Kitchen and Tide",
+  "author": "Kestrel Halloran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Emrys Dravenmoor, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. To get through this, she must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6637
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04737",
+  "title": "A Interior for the Weather",
+  "author": "Elodie Vasquez",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Quentin Eastwick, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. To get through this, she must forgive the stranger in the old photographs before the house sale closes.",
+  "themes": [
+    "found family",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4737
+  }
+}

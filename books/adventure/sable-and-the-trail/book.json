@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00196",
+  "title": "Sable and the Trail",
+  "author": "Mirabel Oyelaran",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ulyana Eriksen, a bush pilot flying medicine and rumors into the interior, carries a compass, a debt, and very little else. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the dry season ends.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 196
+  }
+}

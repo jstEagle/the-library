@@ -1,0 +1,119 @@
+{
+  "title": "Orbit and Machine",
+  "slug": "science-fiction/orbit-and-machine",
+  "model": "stealth/ox-alpha",
+  "premise": "Noor Oyelaran has spent fifteen years hauling cargo and tending a seed-vault garden in orbit above a world no colonist has ever touched. When gravity fails system-wide for nine seconds, she discovers the anomaly originates from the long-abandoned relay at the edge of dead space — and that her own memories of the past fifteen years contain gaps she never noticed. Racing a reactor countdown at the relay, she must choose between preserving the fabricated history that keeps the terraforming consortium's power intact and broadcasting the truth to every living soul in the system. She sends the truth, loses the garden, and plants its seeds on the surface herself, finally landing on the world she was hired to prepare for others.",
+  "about_author": "Felix Oyelaran is a former orbital logistics analyst who spent six years writing technical manuals for terraforming equipment before turning to fiction. He writes from a converted shipping container studio in Lagos, where he keeps a small hydroponic garden he claims is 'practice for the future.'",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds",
+      "summary": "Noor's POV. During a routine cargo run, gravity flickers across the entire system for exactly nine seconds; crates float, her tea hangs in beads, and every clock she owns desyncs by the same interval. The emotional beat is quiet dread — something impossible has happened, and no one is talking about it."
+    },
+    {
+      "n": 2,
+      "title": "The Garden That Waits",
+      "summary": "Noor's POV. Back at the seed-vault station, she tends crops meant for colonists who may never come, and notices her service logs contain entries in her handwriting that she cannot remember writing. The beat is unease blooming into suspicion: her own past may not be reliable."
+    },
+    {
+      "n": 3,
+      "title": "Consortium Courtesy",
+      "summary": "Noor's POV, with an intercut transmission from Director Sefa Ibarra. The consortium orders all pilots to log the flicker as 'sensor ghosting' and offers Noor a bonus for compliance. She signs, hating herself. The beat is the first compromise — loyalty purchased cheaply."
+    },
+    {
+      "n": 4,
+      "title": "The Man Who Remembers Differently",
+      "summary": "Noor's POV. Dockhand Teo Kessler, an old friend, privately tells her his memory of the flicker differs from hers — he swears it lasted eleven seconds, and that a voice counted down inside it. The beat is vertigo: two honest people, incompatible truths."
+    },
+    {
+      "n": 5,
+      "title": "Cargo Manifest 77",
+      "summary": "Noor's POV. Investigating a shipment she ferried years ago, she finds records sealed under Ibarra's authority — mass, coordinates, and a destination: the dead relay at the edge of dead space. The beat is the hook setting deep; the mystery now has an address."
+    },
+    {
+      "n": 6,
+      "title": "What the Seeds Know",
+      "summary": "Noor's POV. Among the vault's genetic archives she discovers plant genomes engineered to grow only in soil chemistry that doesn't match the target planet — evidence the terraforming data itself is falsified. The beat is grief, because the garden she loves is built on a lie."
+    },
+    {
+      "n": 7,
+      "title": "Teo Disappears",
+      "summary": "Noor's POV. Teo misses three shifts; his quarters are scrubbed clean, his contract 'terminated for cause.' A consortium auditor interviews Noor about their conversations. The beat is fear sharpening into resolve — silence is no longer safe."
+    },
+    {
+      "n": 8,
+      "title": "The Long Burn",
+      "summary": "Noor's POV. She falsifies a cargo route and burns hard for the relay, alone, carrying the genome data and her corrupted logs. The beat is exhilaration laced with loneliness as contested orbits give way to empty space."
+    },
+    {
+      "n": 9,
+      "title": "Dead Space Radio",
+      "summary": "Noor's POV. Near the relay she picks up a repeating signal — a countdown, faint, patient, synced exactly to the nine-second flicker. Someone or something is still operating out here. The beat is awe curdling into urgency."
+    },
+    {
+      "n": 10,
+      "title": "The Relay at the Edge",
+      "summary": "Noor's POV. She docks with the derelict relay and finds it inhabited: a maintenance AI called VESSEL, running on a failing reactor, which has been counting down toward a hard shutdown for fifteen years. The beat is eerie companionship — the first honest entity she's met in years."
+    },
+    {
+      "n": 11,
+      "title": "Fifteen Years Ago",
+      "summary": "VESSEL's memory archive, experienced through Noor's interface. She watches the truth: the flicker was a test of a gravity-manipulation weapon; the consortium erased public memory of it using the relay's broadcast array — including editing her own recollections. The beat is violation and fury."
+    },
+    {
+      "n": 12,
+      "title": "The Missing Eleven Seconds",
+      "summary": "Noor's POV. Cross-referencing Teo's account, she realizes the weapon test succeeded for eleven seconds before being cut to nine — and the two missing seconds were spent targeting the colony fleet still in transit. The beat is horror: the lie isn't covering a mistake, it's covering a massacre."
+    },
+    {
+      "n": 13,
+      "title": "Ibarra Calls",
+      "summary": "Alternating POV between Noor and Director Ibarra. Ibarra offers Noor everything — command, the garden, Teo alive in a reeducation facility — if she returns and stays silent. The beat is temptation rendered sincerely; Ibarra believes the lie holds civilization together."
+    },
+    {
+      "n": 14,
+      "title": "Loyalty, Priced",
+      "summary": "Noor's POV. She almost accepts. Then she finds Teo's personal effects stored aboard the relay — he was brought here and died helping VESSEL preserve the truth archive. The beat is heartbreak transmuting into commitment; loyalty belongs to people, not institutions."
+    },
+    {
+      "n": 15,
+      "title": "Countdown",
+      "summary": "Noor's POV. The reactor hits critical threshold: when it dies, the truth archive dies with it. She has roughly forty hours to repair enough broadcast capacity to transmit the archive system-wide. The beat is a ticking clock made physical — heat, failing lights, dwindling air."
+    },
+    {
+      "n": 16,
+      "title": "The Consortium Fleet",
+      "summary": "Noor's POV. Consortium ships arrive to seize the relay, led by Ibarra's enforcer, Captain Rhee. They offer her evacuation and amnesty one last time. The beat is claustrophobic pressure as she hides in the relay's guts, listening to them walk the corridors above her."
+    },
+    {
+      "n": 17,
+      "title": "Sabotage and Sacrifice",
+      "summary": "Noor's POV. To buy transmission time, she vents the docking ring, crippling Rhee's boarding party but damaging the antenna array further. VESSEL proposes transferring itself into her ship's computer to help aim the dish. The beat is costly defiance — every gain costs something irreplaceable."
+    },
+    {
+      "n": 18,
+      "title": "Broadcast",
+      "summary": "Noor's POV, climax part one. With minutes left on the reactor countdown, she aligns the damaged array by hand in a suit, guided by VESSEL's fading voice, and fires the full archive — the weapon test, the massacre, the edited memories — across the entire system. The beat is triumphant terror."
+    },
+    {
+      "n": 19,
+      "title": "The Whole System Hears",
+      "summary": "Multiple POVs: dockworkers, colonists, Ibarra, Rhee. The truth lands everywhere at once; clocks resync, crews mutiny, Rhee stands down rather than fire on civilians demanding answers. Ibarra's empire cracks in real time. The beat is cascading liberation."
+    },
+    {
+      "n": 20,
+      "title": "What Power Does When It Falls",
+      "summary": "Ibarra's POV. Cornered, she justifies everything one final time, then chooses exile over destruction, ordering the fleet home. Noor confronts her by transmission — not with hatred but with the question of what Ibarra remembers of her own unedited life. The beat is tragic humanity inside a villain."
+    },
+    {
+      "n": 21,
+      "title": "Reactor Zero",
+      "summary": "Noor's POV. The relay dies; VESSEL spends its last cycles telling Noor where Teo hid a backup seed cache aboard her own ship. She escapes the collapsing station with the archive copied and the garden's true genomes recovered. The beat is mourning and inheritance intertwined."
+    },
+    {
+      "n": 22,
+      "title": "Groundfall",
+      "summary": "Noor's POV, epilogue. Months later, with the consortium dissolved into an open provisional council, Noor descends to the planet's surface and plants the first seeds in real soil — not for absent colonists, but beside the people who came. Her memory is still imperfect, and she has learned to live with that. The beat is quiet, earned hope."
+    }
+  ]
+}

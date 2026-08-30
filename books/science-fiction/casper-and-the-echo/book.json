@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08017",
+  "title": "Casper and the Echo",
+  "author": "J. M. Thornbury",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Juniper Halloran, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. To get through this, she must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8017
+  }
+}

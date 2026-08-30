@@ -1,0 +1,21 @@
+{
+  "id": "THR-08981",
+  "title": "Noor and the Contact",
+  "author": "Gideon Yarrow",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Astrid Amberdale, a whistle-blower living under four names, has spent twenty years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8981
+  }
+}

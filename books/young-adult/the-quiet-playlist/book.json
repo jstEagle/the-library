@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09892",
+  "title": "The Quiet Playlist",
+  "author": "Dominic Delacroix",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Gideon Winterbourne, a scholarship student at an academy with too many secrets, is fine. Everything is fine. Obviously.. But when a group chat starts predicting things that haven't happened yet, he discovers that staying invisible was never really an option. Now he must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9892
+  }
+}

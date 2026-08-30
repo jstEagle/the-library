@@ -1,0 +1,21 @@
+{
+  "id": "THR-08643",
+  "title": "When the Drop Turns",
+  "author": "X. M. Amberdale",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Lena Quintana, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. Now they must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8643
+  }
+}

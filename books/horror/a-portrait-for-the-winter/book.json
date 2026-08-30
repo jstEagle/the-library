@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03346",
+  "title": "A Portrait for the Winter",
+  "author": "Casper Amberdale",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Astrid Dravenmoor, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. Then the childhood imaginary friend is waiting on the porch, unchanged — and she is pulled straight into the middle of it. To get through this, she must finish the ritual the founders started before the well refills.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3346
+  }
+}

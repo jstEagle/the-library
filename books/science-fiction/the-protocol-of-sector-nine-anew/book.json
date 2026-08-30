@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08184",
+  "title": "The Protocol of Sector Nine Anew",
+  "author": "Freya Almeida",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Beatrix Crane, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8184
+  }
+}

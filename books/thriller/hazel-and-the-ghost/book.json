@@ -1,0 +1,21 @@
+{
+  "id": "THR-09443",
+  "title": "Hazel and the Ghost",
+  "author": "Yara Zhou",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Sable Kavanagh, a fixer for an embassy that doesn't officially exist, has spent seven years following rules that keep getting rewritten. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9443
+  }
+}

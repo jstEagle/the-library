@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09785",
+  "title": "Bram and the Group Chat",
+  "author": "C. M. Dravenmoor",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Elodie Halloran, the new kid at a school built over something old, has spent twelve years being so careful it hurts. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. To get through this, she must decide who to be when the labels come off before prom.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9785
+  }
+}

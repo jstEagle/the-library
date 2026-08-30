@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03689",
+  "title": "The Bell of the Undercroft",
+  "author": "Odile Quintana",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Gideon Blackwood, a pest controller called to something with fingerprints, doesn't believe, has never believed, will not begin believing now. Then the sleep recordings capture a second voice answering questions — and she is pulled straight into the middle of it. Now she must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3689
+  }
+}

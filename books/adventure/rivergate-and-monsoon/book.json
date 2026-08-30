@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00194",
+  "title": "Rivergate and Monsoon",
+  "author": "Gideon Vane",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Elodie Galloway, a salvage diver working a wreck the navy won't discuss, knows the wilderness forgives nothing and forgets less. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 194
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08806",
+  "title": "A Contact for the Debt",
+  "author": "Silas Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Quentin Dravenmoor, a private security contractor guarding clients nobody trusts, has spent fifteen years following rules that keep getting rewritten. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8806
+  }
+}

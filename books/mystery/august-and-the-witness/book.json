@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05248",
+  "title": "August and the Witness",
+  "author": "Orsen Eriksen",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Jonah Sandoval, an insurance investigator with a photographic memory, has spent fifteen years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5248
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03491",
+  "title": "Harvest and Room",
+  "author": "Ulyana Fairweather",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Orsen Nystrom, an urban explorer mapping tunnels that aren't on any survey, documents everything, because documentation is a kind of prayer. Then every mirror in the house starts reflecting the room one second late — and they are pulled straight into the middle of it. Now they must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3491
+  }
+}

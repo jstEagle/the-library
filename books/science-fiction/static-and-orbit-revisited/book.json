@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08087",
+  "title": "Static and Orbit Revisited",
+  "author": "P. M. Lockridge",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Rosalind Winterbourne, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. But when an unfamiliar name shows up on the manifest of a ship that never flew, he discovers that staying invisible was never really an option. To get through this, he must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "memory",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8087
+  }
+}

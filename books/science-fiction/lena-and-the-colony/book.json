@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08026",
+  "title": "Lena and the Colony",
+  "author": "Gideon Vasquez",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "August Amberdale, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8026
+  }
+}

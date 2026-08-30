@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01410",
+  "title": "Thorn and Wolf",
+  "author": "D. M. Oyelaran",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Cyrus Zhou, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1410
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04214",
+  "title": "When the Radiators Burns",
+  "author": "Astrid Amberdale",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Juniper Thornbury, a former prodigy returning to the conservatory as a janitor, has spent twenty years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4214
+  }
+}

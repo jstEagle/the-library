@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01382",
+  "title": "The Gilded Ember",
+  "author": "Gideon Sandoval",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Odile Brightwater, a bone-carver who hears the dead, has spent twelve years selling small charms in a city that outlawed magic. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1382
+  }
+}

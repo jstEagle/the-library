@@ -1,0 +1,119 @@
+{
+  "title": "The Unexpected Recipe",
+  "slug": "young-adult/the-unexpected-recipe",
+  "model": "stealth/ox-alpha",
+  "premise": "Wren Galloway, a nineteen-year-old coder hiding behind an anonymous account that has exposed dangerous truths, is dragged into a group chat called The Unexpected Recipe whose members can predict events before they happen. As the predictions turn lethal, Wren discovers the chat's 'recipe' was inherited from a dead whistleblower — and that winning two championships, one public and one secret, is the only way to expose the corporation hunting them all. In the end, Wren sacrifices his anonymity to win both, delivering justice outside the law at the cost of the careful, hidden life he built.",
+  "about_author": "Ansel Whitlock is the pen name of a former competitive programmer who grew up in coastal Oregon and writes about kids who are smarter than the systems meant to protect them. When not writing, Whitlock mentors teen hackathon teams and collects vintage recipe cards found in used books.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Five Years of Being Careful",
+      "summary": "Wren's POV. We meet Wren mid-routine: burner phones, rotating handles, a coded archive of corporate crimes he's leaked anonymously. A near-miss with a data broker reminds him how fragile his safety is. Emotional beat: disciplined loneliness — he's safe because no one knows he exists."
+    },
+    {
+      "n": 2,
+      "title": "The Invitation Nobody Sent",
+      "summary": "Wren's POV. An encrypted group chat appears on his devices, already containing six strangers who each know one true thing about him. Their first message predicts a bridge collapse twelve hours early — and it happens. Emotional beat: vertigo; his invisibility has been seen through."
+    },
+    {
+      "n": 3,
+      "title": "Six Strangers and a Recipe",
+      "summary": "Alternating POV between Wren and Priya, a med student in the chat. They compare notes: each received a fragment of 'the recipe,' an algorithmic inheritance from a dead whistleblower named Odile Voss. Emotional beat: wary alliance forming over shared fear."
+    },
+    {
+      "n": 4,
+      "title": "What the Algorithm Wants",
+      "summary": "Priya's POV. The chat decodes Voss's instructions: predictions require 'ingredients' — data only obtainable through live events, including a regional coding championship Wren qualified for years ago. Emotional beat: dawning horror that the gift is also a trap."
+    },
+    {
+      "n": 5,
+      "title": "The First Prediction That Kills",
+      "summary": "Wren's POV. A chat member, Tomas, follows a prediction to gather evidence and dies in an 'accident.' The survivors realize someone else can read the recipe too. Emotional beat: grief curdling into paranoia."
+    },
+    {
+      "n": 6,
+      "title": "Halcyon Systems",
+      "summary": "New POV: Mara Voss, Odile's sister, a compliance officer at Halcyon Systems, the corporation Odile exposed. Mara finds her sister's old notebooks and realizes the recipe is live again. Emotional beat: conflicted loyalty beginning to crack."
+    },
+    {
+      "n": 7,
+      "title": "Championship That Doesn't Matter",
+      "summary": "Wren's POV. Wren enters the Meridian Coding Open as cover, treating it as a joke — until a prediction embedded in the problem set matches the chat's warnings exactly. Emotional beat: bitter irony turning to focus; the meaningless contest is a message board."
+    },
+    {
+      "n": 8,
+      "title": "The Price of an Ingredient",
+      "summary": "Priya's POV. To complete a prediction, the chat must steal hospital records, forcing Priya to risk her career and betray a mentor. She does it. Emotional beat: the theme lands — survival has a price, and she just paid some of it."
+    },
+    {
+      "n": 9,
+      "title": "Mara Reads the Notebook",
+      "summary": "Mara's POV. Mara decrypts Odile's final entry: the recipe wasn't invented, it was inherited from Halcyon's founders, who used it to bury a lethal drug trial. Emotional beat: horror of inheritance; she chooses to contact the chat anonymously."
+    },
+    {
+      "n": 10,
+      "title": "Trust Exercise",
+      "summary": "Wren's POV. The chat debates whether Mara's message is bait. Wren argues for trust using logic only another careful person would follow. A test prediction confirms her sincerity. Emotional beat: cautious hope; the circle widens."
+    },
+    {
+      "n": 11,
+      "title": "The Second Championship",
+      "summary": "Alternating POV. The chat learns of a hidden competition — Halcyon's internal 'Founders' Trial,' where executives bet on predicted outcomes, including human ones. Winning it means access to the sealed trial archives. Emotional beat: cold fury; the game was always rigged against people like Tomas."
+    },
+    {
+      "n": 12,
+      "title": "Qualifying by Losing",
+      "summary": "Wren's POV. To enter the Founders' Trial, Wren must deliberately place second at the Meridian Open without looking like he threw it. He performs the most controlled failure of his life. Emotional beat: self-erasure as strategy; being careful hurts more than ever."
+    },
+    {
+      "n": 13,
+      "title": "Inside the House of Bets",
+      "summary": "Mara's POV. Using her credentials, Mara walks Wren through Halcyon's glass tower under a false identity. They see the odds board — lives priced in real time. Emotional beat: dread and resolve braided together."
+    },
+    {
+      "n": 14,
+      "title": "A Prediction About Wren",
+      "summary": "Wren's POV. The chat's algorithm outputs a prediction none of them entered: Wren doesn't survive the Trial. Someone inside the chat is feeding it their own ingredients. Emotional beat: betrayal's first sting; suspicion poisons the group."
+    },
+    {
+      "n": 15,
+      "title": "The Mole's Recipe",
+      "summary": "Priya's POV. Priya traces the anomalous inputs to Dev, the chat's oldest member, who made a deal with Halcyon to save his deported family. Confronted, he breaks down. Emotional beat: compassion for a traitor; the price of survival made flesh."
+    },
+    {
+      "n": 16,
+      "title": "Time Already Running Out",
+      "summary": "Mara's POV. Halcyon moves up the Trial date and schedules destruction of the trial archives. The chat has seventy-two hours. Emotional beat: ticking-clock panic compressing every relationship."
+    },
+    {
+      "n": 17,
+      "title": "All In",
+      "summary": "Wren's POV. Wren enters the Founders' Trial under Dev's surrendered credentials, betting everything — including revealing his real identity to Halcyon's watchers. Emotional beat: the careful boy choosing exposure as a weapon."
+    },
+    {
+      "n": 18,
+      "title": "The Championship That Does Matter",
+      "summary": "Wren's POV, high tension. Wren out-predicts Halcyon's own model by feeding it false ingredients with Mara's help, winning the Trial and immediate archive access. Emotional beat: triumph laced with terror as alarms begin to sound."
+    },
+    {
+      "n": 19,
+      "title": "Odile's Ghost",
+      "summary": "Mara's POV. In the archives they find proof of the lethal drug trial and Odile's murder disguised as suicide. Halcyon security closes in; Dev redeems himself by holding the door. Emotional beat: justice finally within reach, paid for in blood."
+    },
+    {
+      "n": 20,
+      "title": "Burn the Careful Life",
+      "summary": "Wren's POV. To publish the evidence credibly, Wren must unmask himself — ending five years of anonymity and painting a target on his back. He streams the archive live. Emotional beat: liberation through surrender; the price accepted."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath, Measured in Days",
+      "summary": "Alternating POV. Halcyon collapses under investigation; Dev's family is spared; Mara testifies. Wren hides briefly, then chooses not to hide anymore. Emotional beat: exhausted, hard-won peace."
+    },
+    {
+      "n": 22,
+      "title": "The Unexpected Recipe",
+      "summary": "Wren's POV, epilogue. Months later, Wren teaches a coding class under his real name. A new encrypted chat pings him with a single line — a fresh ingredient list. He smiles and opens it. Emotional beat: inheritance continues; the cycle, chosen freely this time."
+    }
+  ]
+}

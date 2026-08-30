@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00821",
+  "title": "Spire and Wolf",
+  "author": "Tamsin Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Zephyrine Thornbury, a beast-speaker hiding a forbidden gift, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. To get through this, they must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 821
+  }
+}

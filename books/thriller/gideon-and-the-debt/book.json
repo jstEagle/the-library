@@ -1,0 +1,21 @@
+{
+  "id": "THR-09004",
+  "title": "Gideon and the Debt",
+  "author": "Silas Ravensworth",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Kestrel Montrose, a private security contractor guarding clients nobody trusts, has spent twelve years following rules that keep getting rewritten. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9004
+  }
+}

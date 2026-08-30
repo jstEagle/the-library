@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01186",
+  "title": "Wren and the Veil",
+  "author": "Juniper Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Quentin Eriksen, a thief who steals memories, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1186
+  }
+}

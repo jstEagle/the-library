@@ -1,0 +1,21 @@
+{
+  "id": "THR-08569",
+  "title": "The Cipher of Kowloon",
+  "author": "Astrid Ashgrove",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.4,
+  "blurb": "August Brightwater, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then a voiceprint unlocks a server on another continent — and she is pulled straight into the middle of it. To get through this, she must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8569
+  }
+}

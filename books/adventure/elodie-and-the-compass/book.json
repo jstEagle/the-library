@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00545",
+  "title": "Elodie and the Compass",
+  "author": "W. M. Ravensworth",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jude Fairweather, an archaeologist's estranged child and better digger, knows the wilderness forgives nothing and forgets less. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. To get through this, they must cross the range ahead of the snows before the dry season ends.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 545
+  }
+}

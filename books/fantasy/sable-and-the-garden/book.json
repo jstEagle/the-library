@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01126",
+  "title": "Sable and the Garden",
+  "author": "Rafael Thackeray",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Cyrus Underhill, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. To get through this, he must steal back a soul sold to the court beneath the mountain before the last dragon-fire gutters out.",
+  "themes": [
+    "memory",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1126
+  }
+}

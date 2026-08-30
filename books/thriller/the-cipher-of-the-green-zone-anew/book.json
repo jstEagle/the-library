@@ -1,0 +1,21 @@
+{
+  "id": "THR-09387",
+  "title": "The Cipher of the Green Zone Anew",
+  "author": "S. M. Amberdale",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Cyrus Crane, a burnt analyst bounced from three agencies, works cases no one wants attributed. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. To get through this, he must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9387
+  }
+}

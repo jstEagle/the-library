@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02425",
+  "title": "Lior and the Uniform",
+  "author": "Elodie Fairweather",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Sable Ishikawa, a battlefield nurse keeping a ledger of the names officers omit, believes history happens to other people, elsewhere. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, she discovers that staying invisible was never really an option. To get through this, she must keep a promise made in peacetime to someone now declared enemy before the ice breaks on the river.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2425
+  }
+}

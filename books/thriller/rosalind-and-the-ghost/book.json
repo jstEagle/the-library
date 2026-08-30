@@ -1,0 +1,21 @@
+{
+  "id": "THR-08911",
+  "title": "Rosalind and the Ghost",
+  "author": "Juniper Thackeray",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "August Delacroix, an interpreter attached to a peace delegation destined to fail, has spent three years following rules that keep getting rewritten. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8911
+  }
+}

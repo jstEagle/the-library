@@ -1,0 +1,59 @@
+{
+  "title": "The Lost Horizon",
+  "slug": "adventure/the-lost-horizon",
+  "model": "stealth/ox-alpha",
+  "premise": "Desert ranger Mara Marchetti chases a thief named Idris Vale across the salt flats, only to have the tide expose a cave holding the wreck of the Meridian — a ship that vanished with a fortune and a list of names owed justice. The thief she's hunting is the last living witness to the massacre that orphaned her, and the salvage fleet closing in wants the treasure before anyone can read the manifest. Over six tides, Mara must choose between the debt that made her a ranger and the family she never expected: a cave-dwelling archivist, a disgraced fleet diver, and the thief himself. In the end she sinks the treasure to the sea rather than let it buy silence, trading her badge for a new kind of law kept by the people the wreck remembers.",
+  "about_author": "Marguerite Joubert is the pen name of a former maritime surveyor who spent a decade mapping coastlines from West Africa to the Coral Sea. She writes adventure novels about people who find their families in strange places.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Salt and Debt",
+      "summary": "Mara's POV. Tracking Idris Vale across the salt flats after he robs the ranger station ledger — the ledger holding her own debt record. Flashbacks establish her dead father's name on an old manifest. Emotional beat: grim determination masking grief; she needs this arrest more than justice."
+    },
+    {
+      "n": 2,
+      "title": "The Tide Opens a Door",
+      "summary": "Mara's POV. A freak low tide reveals a cave mouth in the cliffs; pursuing Idris inside, she finds murals, dry bones of the ship Meridian, and an old woman, Odile, who has catalogued the wreck for forty years. Emotional beat: awe cracking open her single-minded pursuit."
+    },
+    {
+      "n": 3,
+      "title": "Six Tides",
+      "summary": "Idris's POV. Cornered, he bargains instead of fleeing: the cave holds the full manifest naming the men who sank the Meridian and murdered its crew — including Mara's father. The salvage fleet arrives at dawn. Emotional beat: reluctant alliance born of shared hunger for truth."
+    },
+    {
+      "n": 4,
+      "title": "The Archivist of Bones",
+      "summary": "Odile's POV. She teaches them the cave's geography and her catalogue system; we learn Odile survived the massacre as a child and stayed to keep the names alive. Emotional beat: found family forming around memory as an act of devotion."
+    },
+    {
+      "n": 5,
+      "title": "First Blood on the Reef",
+      "summary": "Mara's POV. A fleet scout dives the outer reef; Mara sabotages his boat but is recognized by the fleet captain, Brannoch — her former commanding officer, now bought by the consortium that caused the massacre. Emotional beat: betrayal sharpening stakes; no lawful refuge left."
+    },
+    {
+      "n": 6,
+      "title": "What the Ledger Owes",
+      "summary": "Idris's POV. He confesses why he stole the station ledger: it contains proof he was coerced into the original crime as a boy. Mara must weigh his guilt against her own debt-driven life. Emotional beat: forgiveness beginning where vengeance stalls."
+    },
+    {
+      "n": 7,
+      "title": "Third Tide, Rising",
+      "summary": "Odile's POV. The fleet blasts the reef entrance; Odile is injured defending the archive chamber. Mara and Idris move the manifests through flooded passages as the tide turns against them. Emotional beat: terror and tenderness — protecting memory at mortal cost."
+    },
+    {
+      "n": 8,
+      "title": "Brannoch's Bargain",
+      "summary": "Mara's POV. Captured, Mara is offered her old rank and her debt erased if she surrenders the manifest. She sees her father's name among the crew the consortium erased from every record. Emotional beat: the seduction of legitimacy versus the pull of real justice."
+    },
+    {
+      "n": 9,
+      "title": "The Wreck Remembers",
+      "summary": "Multiple POVs converge. Climax: Mara escapes, Idris floods the treasure hold, and Odile broadcasts the manifest names over the fleet's own radio as divers mutiny upon hearing their grandfathers' crimes read aloud. Brannoch's authority collapses. Emotional beat: catharsis — truth as a weapon sharper than gold."
+    },
+    {
+      "n": 10,
+      "title": "A New Kind of Law",
+      "summary": "Mara's POV, epilogue. The treasure lies sunk beneath a protected reef; the consortium faces trials built on the manifest. Mara surrenders her badge, stays with Odile and Idris as the cave becomes a memorial school. Emotional beat: quiet resolution — she came hunting a thief and found a home."
+    }
+  ]
+}

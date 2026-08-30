@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00172",
+  "title": "Rosalind and the Landfall",
+  "author": "Lena Villalobos",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Mirabel Quintana, a salvage diver working a wreck the navy won't discuss, knows the wilderness forgives nothing and forgets less. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 172
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09402",
+  "title": "The Contact of Kowloon Anew",
+  "author": "Dominic Nakamura",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Orsen Whitlock, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. To get through this, he must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9402
+  }
+}

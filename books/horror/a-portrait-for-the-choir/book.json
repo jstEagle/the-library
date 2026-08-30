@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03713",
+  "title": "A Portrait for the Choir",
+  "author": "Xanthe Amberdale",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Lior Voss, a twin who came home to bury the wrong sibling, doesn't believe, has never believed, will not begin believing now. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. Now he must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3713
+  }
+}

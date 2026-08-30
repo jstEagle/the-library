@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06612",
+  "title": "A Letters for the Vow",
+  "author": "Ivo Villalobos",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "August Sandoval, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. But when a snowstorm strands two rivals with the best mistake of their twenties, they discover that staying invisible was never really an option. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6612
+  }
+}

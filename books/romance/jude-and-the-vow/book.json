@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06396",
+  "title": "Jude and the Vow",
+  "author": "August Eastwick",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Odile Brightwater, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6396
+  }
+}

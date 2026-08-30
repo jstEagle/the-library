@@ -1,0 +1,21 @@
+{
+  "id": "THR-09300",
+  "title": "Tamsin and the Extraction",
+  "author": "Wren Ishikawa",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Zephyrine Amberdale, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. But when every record of a flight vanishes while it's still in the air, they discover that staying invisible was never really an option. Now they must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9300
+  }
+}

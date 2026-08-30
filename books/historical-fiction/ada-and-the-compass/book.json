@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02461",
+  "title": "Ada and the Compass",
+  "author": "E. M. Sterling",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Freya Galloway, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, they discover that staying invisible was never really an option. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2461
+  }
+}

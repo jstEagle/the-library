@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00850",
+  "title": "The Crooked Ember",
+  "author": "N. M. Villalobos",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Zephyrine Lockridge, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 850
+  }
+}

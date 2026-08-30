@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06250",
+  "title": "A Bakery for the Tide",
+  "author": "Juniper Winterbourne",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Beatrix Whitlock, a single parent running the town's only bookshop, has spent twelve years rebuilding a life measured in small safe steps. But when the person behind a decade of letters moves in next door, they discover that staying invisible was never really an option. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6250
+  }
+}

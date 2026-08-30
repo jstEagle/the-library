@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06105",
+  "title": "The Harbor of the Crescent Cove",
+  "author": "Petra Eastwick",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Wren Brightwater, a single parent running the town's only bookshop, has spent three years rebuilding a life measured in small safe steps. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the last ferry of the season departs.",
+  "themes": [
+    "found family",
+    "belonging",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6105
+  }
+}

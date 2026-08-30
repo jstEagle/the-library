@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08169",
+  "title": "A Protocol for the Terminal Again",
+  "author": "Mara Fairweather",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ivo Dravenmoor, the last human technician on an automated relay station, has spent fifteen years hauling cargo through contested orbits. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8169
+  }
+}

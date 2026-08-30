@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09641",
+  "title": "A Prom for the Locker",
+  "author": "Astrid Vasquez",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "August Thornbury, the only out kid in a town of nine hundred, is fine. Everything is fine. Obviously.. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and he is pulled straight into the middle of it. Now he must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9641
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05767",
+  "title": "Ashcombe Rising Revisited",
+  "author": "Rafael Ishikawa",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Juniper Vane, an insurance investigator with a photographic memory, thought they had seen every way a life can end. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. To get through this, he must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5767
+  }
+}

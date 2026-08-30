@@ -1,0 +1,21 @@
+{
+  "id": "THR-09444",
+  "title": "Ada and the Border",
+  "author": "M. M. Delacroix",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Tamsin Joubert, a whistle-blower living under four names, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9444
+  }
+}

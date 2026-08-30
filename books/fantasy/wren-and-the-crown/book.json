@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01589",
+  "title": "Wren and the Crown",
+  "author": "Isandro Dunmore",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Jude Hartwell, the youngest member of a dying guild, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1589
+  }
+}

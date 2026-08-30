@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05834",
+  "title": "When the Portrait Turns Revisited",
+  "author": "Hazel Thackeray",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Mirabel Thornbury, an insurance investigator with a photographic memory, has spent twenty years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5834
+  }
+}

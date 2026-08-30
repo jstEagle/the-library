@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02134",
+  "title": "A Veil for the Wolf Anew",
+  "author": "Odile Galloway",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Lena Winterbourne, a cartographer of unmapped realms, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2134
+  }
+}

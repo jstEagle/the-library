@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07816",
+  "title": "A Vector for the Gravity",
+  "author": "Sable Ashgrove",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Felix Joubert, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7816
+  }
+}

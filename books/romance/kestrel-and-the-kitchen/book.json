@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06346",
+  "title": "Kestrel and the Kitchen",
+  "author": "Theo Iversen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Sable Yarrow, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, she discovers that staying invisible was never really an option. To get through this, she must say the sentence that has been rehearsed for a decade before the vineyard's first harvest comes in.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6346
+  }
+}

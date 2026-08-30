@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02147",
+  "title": "The Last Hollow Again",
+  "author": "Z. M. Yarrow",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Wendell Oyelaran, a cartographer of unmapped realms, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2147
+  }
+}

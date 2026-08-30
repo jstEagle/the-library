@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07622",
+  "title": "Colony and Horizon",
+  "author": "Orsen Underhill",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Wendell Yarrow, a terraformer tending a garden meant for people not yet born, has spent twelve years hauling cargo through contested orbits. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7622
+  }
+}

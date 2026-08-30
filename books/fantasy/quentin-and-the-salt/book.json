@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01724",
+  "title": "Quentin and the Salt",
+  "author": "Tamsin Nakamura",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Coral Voss, a beast-speaker hiding a forbidden gift, has spent five years selling small charms in a city that outlawed magic. Then the old gods begin answering prayers again — and he is pulled straight into the middle of it. To get through this, he must steal back a soul sold to the court beneath the mountain before the last dragon-fire gutters out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1724
+  }
+}

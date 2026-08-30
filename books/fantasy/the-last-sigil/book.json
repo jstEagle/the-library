@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00817",
+  "title": "The Last Sigil",
+  "author": "Coral Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Wendell Vane, a thief who steals memories, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 817
+  }
+}

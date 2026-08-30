@@ -1,0 +1,21 @@
+{
+  "id": "THR-09359",
+  "title": "Sable and the Extraction",
+  "author": "Sable Reyes",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Silas Delacroix, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9359
+  }
+}

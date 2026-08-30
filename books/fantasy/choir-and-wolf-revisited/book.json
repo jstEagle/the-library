@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02080",
+  "title": "Choir and Wolf Revisited",
+  "author": "Jude Montrose",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Ivo Quintana, the last oath-bound swordspeaker, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2080
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06692",
+  "title": "Vesper and the Postcard",
+  "author": "Kestrel Yarrow",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Casper Vasquez, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6692
+  }
+}

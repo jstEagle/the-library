@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09982",
+  "title": "A Mixtape for the Scholarship",
+  "author": "Cyrus Galloway",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Lena Villalobos, a scholarship student at an academy with too many secrets, is fine. Everything is fine. Obviously.. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. To get through this, he must win the championship that doesn't matter — and the one that does before graduation.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9982
+  }
+}

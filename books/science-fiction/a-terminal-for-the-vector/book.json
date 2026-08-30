@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07170",
+  "title": "A Terminal for the Vector",
+  "author": "Bram Yarrow",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Elodie Coldharbour, a starship navigator haunted by the backups sleeping in the hold, has spent ten years hauling cargo through contested orbits. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7170
+  }
+}

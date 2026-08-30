@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01611",
+  "title": "Wendell and the Ember",
+  "author": "Hazel Crane",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ivo Delacroix, a debt-bound temple scribe, has spent three years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1611
+  }
+}

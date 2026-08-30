@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02050",
+  "title": "The Last Ember Anew",
+  "author": "Noor Delacroix",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.5,
+  "blurb": "Hazel Nystrom, a hedge-witch's runaway apprentice, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2050
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02755",
+  "title": "Bram and the Clock",
+  "author": "B. M. Okafor",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Theo Fairweather, a battlefield nurse keeping a ledger of the names officers omit, believes history happens to other people, elsewhere. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and he is pulled straight into the middle of it. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2755
+  }
+}

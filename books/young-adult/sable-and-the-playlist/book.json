@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09579",
+  "title": "Sable and the Playlist",
+  "author": "Sebastian Voss",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Tamsin Winterbourne, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. Then the teacher pairs nemesis with nemesis for a semester-long project — and he is pulled straight into the middle of it. Now he must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9579
+  }
+}

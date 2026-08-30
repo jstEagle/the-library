@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02542",
+  "title": "Uniform and Compass",
+  "author": "Ivo Zhou",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ulyana Okafor, a code-carrying courier on the last diplomatic mission of a doomed republic, believes history happens to other people, elsewhere. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2542
+  }
+}

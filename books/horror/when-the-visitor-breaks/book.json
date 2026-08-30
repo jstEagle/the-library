@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03245",
+  "title": "When the Visitor Breaks",
+  "author": "Rafael Coldharbour",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ada Thornbury, a pest controller called to something with fingerprints, has spent ten years telling themselves the noises have explanations. But when the childhood imaginary friend is waiting on the porch, unchanged, he discovers that staying invisible was never really an option. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3245
+  }
+}

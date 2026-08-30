@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02761",
+  "title": "Ada and the Uniform",
+  "author": "Tamsin Delacroix",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Beatrix Fairweather, a suffragist's driver who reads every letter before delivering it, has spent ten years learning which silences keep people safe. But when a sealed letter names the family in a plot no one wants a part of, she discovers that staying invisible was never really an option. To get through this, she must get the truth on the record ahead of the victors' historians before the ship sails on the morning tide.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2761
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07621",
+  "title": "Isandro and the Colony",
+  "author": "Sebastian Ashgrove",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Edmund Ravensworth, a terraformer tending a garden meant for people not yet born, has spent fifteen years hauling cargo through contested orbits. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7621
+  }
+}

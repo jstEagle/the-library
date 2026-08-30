@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06916",
+  "title": "The Slow Letters Anew",
+  "author": "Vesper Reyes",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Kestrel Brightwater, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. To get through this, she must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6916
+  }
+}

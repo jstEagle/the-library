@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01037",
+  "title": "A Oath for the Spire",
+  "author": "Noor Whitlock",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Theo Underhill, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1037
+  }
+}

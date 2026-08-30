@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06229",
+  "title": "Sable and the Kitchen",
+  "author": "Noor Underhill",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Isandro Ashgrove, a lighthouse keeper's granddaughter and part-time novelist, has spent fifteen years rebuilding a life measured in small safe steps. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6229
+  }
+}

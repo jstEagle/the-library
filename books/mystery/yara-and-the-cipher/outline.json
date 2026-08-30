@@ -1,0 +1,119 @@
+{
+  "title": "Yara and the Cipher",
+  "slug": "mystery/yara-and-the-cipher",
+  "model": "stealth/ox-alpha",
+  "premise": "True-crime podcaster Lior Zhou has spent a decade narrating other people's tragedies, so when a murdered woman is found wearing clothes lifted from Lior's own closet, he becomes both suspect and sleuth in the coldest case on record — the thirty-year-old disappearance of his aunt, Yara Zhou. Following a cipher hidden in Yara's old household ledger, Lior discovers she faked her death to escape a criminal syndicate that his own father helped bankroll, and that the syndicate's surviving accountant has been leaving him breadcrumb murders to force the ledger into court. In the climax, Lior decodes the final entry during a blackout at the courthouse, choosing to publish the truth that destroys his father's legacy and nearly his own alibi, and the trial ends with the accountant — not Lior — exposed as the killer of the woman in his clothes. Lior closes the podcast with Yara's own recorded voice, trading his career for the truth he spent his life borrowing from others.",
+  "about_author": "Silas Nystrom is the pseudonym of a former court stenographer who spent fifteen years transcribing testimony in cases that never made the news. They write from a coastal town where the fog rolls in early and the archives stay open late.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Wrong Coat",
+      "summary": "Lior's POV. Recording an episode about cold cases, Lior gets a call: a woman's body found in the harbor wearing his own missing jacket and scarf. The detective, Imara Okafor, treats him as a suspect first, source second. Emotional beat: the uncanny horror of seeing your own life stitched onto a stranger's death."
+    },
+    {
+      "n": 2,
+      "title": "Evidence of Me",
+      "summary": "Lior's POV. Interrogation reveals the victim's fingerprints were wiped and her ID forged — but the clothes are provably his, down to a monogram. His alibi is thin: he was alone, researching. Emotional beat: the vertigo of being the story instead of telling it."
+    },
+    {
+      "n": 3,
+      "title": "Yara's Empty Chair",
+      "summary": "Lior's POV, with flashbacks to childhood. Lior returns to his family's shuttered house and remembers Aunt Yara, who vanished in 1995, the case that made him a podcaster. He finds her old household ledger in a box labeled 'kitchen.' Emotional beat: grief resurfacing as obsession."
+    },
+    {
+      "n": 4,
+      "title": "Numbers That Don't Add Up",
+      "summary": "Lior's POV. The ledger's grocery totals are wrong — deliberately, systematically wrong. He recognizes a substitution pattern from an old episode on prison ciphers. First decoded phrase: 'COUNT THE VISITORS.' Emotional beat: the electric thrill of a puzzle that shouldn't exist."
+    },
+    {
+      "n": 5,
+      "title": "The Accountant's Card",
+      "summary": "Lior's POV. An unsigned sympathy card arrives: a single number matching the next ledger entry, and a date — the trial date. Someone knows he's decoding. Emotional beat: being watched, hunted by a reader."
+    },
+    {
+      "n": 6,
+      "title": "What the Mother Knew",
+      "summary": "Alternating POV: Lior and his mother, Wei. Wei admits Yara called her the night she vanished, saying only 'keep the book, don't read it.' Wei has lied about this for thirty years. Emotional beat: loyalty as a wound passed down."
+    },
+    {
+      "n": 7,
+      "title": "Count the Visitors",
+      "summary": "Lior's POV. The decoded entries list names — visitors to the house in 1995 — including his father, Daniel, and a man later convicted of laundering money for the Verrone syndicate. Emotional beat: the family album turning into a suspect board."
+    },
+    {
+      "n": 8,
+      "title": "Imara's File",
+      "summary": "Imara's POV. The detective privately links the harbor victim to a Verrone accountant, Tomas Reyes, released last year after three decades. She withholds it from Lior while testing his alibi. Emotional beat: professional suspicion warring with respect."
+    },
+    {
+      "n": 9,
+      "title": "Episode Ninety-Seven",
+      "summary": "Lior's POV. Lior airs a deliberately vague episode to flush out whoever is feeding him clues. Within hours, a listener sends a voice memo in a woman's cadence: 'He'll dress you for your funeral too.' Emotional beat: dread wearing the mask of progress."
+    },
+    {
+      "n": 10,
+      "title": "The Dressing Room",
+      "summary": "Imara's POV. Forensics traces the harbor victim's clothes to a donation bin outside Lior's building; security footage shows a slight figure in a wig. The victim is identified as Reyes's former assistant. Emotional beat: the case shifting from Lior-as-killer to Lior-as-target."
+    },
+    {
+      "n": 11,
+      "title": "Father's Ledger Line",
+      "summary": "Lior's POV. Lior confronts Daniel, now frail, who admits he borrowed money from Verrone in 1995 and that Yara — the family bookkeeper — found the accounts. He swears he never saw her again. Emotional beat: inheritance revealed as debt."
+    },
+    {
+      "n": 12,
+      "title": "The Cipher Deepens",
+      "summary": "Lior's POV. Later ledger entries use a second key, tied to dates of family birthdays — Yara built the cipher from love, not fear. It decodes to a location: a storage unit under a false name. Emotional beat: tenderness hidden inside tradecraft."
+    },
+    {
+      "n": 13,
+      "title": "Unit 44",
+      "summary": "Lior's POV, then Imara's. The unit holds tapes, cash, and a legal affidavit Yara never filed — full Verrone accounts. Someone has already been through it; a page is missing. Emotional beat: hope arriving one step behind the enemy."
+    },
+    {
+      "n": 14,
+      "title": "The Missing Page",
+      "summary": "Imara's POV. Imara realizes the harbor victim was Reyes's messenger, killed because she failed to retrieve the ledger from Lior's home. Reyes isn't hiding from the past; he's curating it before trial. Emotional beat: the detective's cold case becoming hot in her hands."
+    },
+    {
+      "n": 15,
+      "title": "House Call",
+      "summary": "Lior's POV. Reyes visits Lior openly, an old man with a young lawyer, offering to 'help' the podcast in exchange for the ledger. He quotes Yara's cipher phrases back at Lior — proof he's read it. Emotional beat: politeness as a blade."
+    },
+    {
+      "n": 16,
+      "title": "Wei's Confession",
+      "summary": "Wei's POV. Wei reveals Yara didn't vanish — she called Wei from a safehouse in 1996 and asked to be left dead. Wei chose family silence over Yara's truth. Emotional beat: loyalty and truth tearing the same heart in opposite directions."
+    },
+    {
+      "n": 17,
+      "title": "The Missing Page Found",
+      "summary": "Lior's POV. Cross-referencing Reyes's card number with the second key, Lior reconstructs the torn page: it names Reyes as the architect of the laundering — and as the man who reported Yara's escape to Verrone. Emotional beat: the puzzle solving itself into a verdict."
+    },
+    {
+      "n": 18,
+      "title": "Subpoena",
+      "summary": "Imara's POV. Imara arrests Reyes for the assistant's murder; his defense demands the ledger, which would expose Yara alive and Wei's lie. Lior must decide: hand it over and burn his family's peace, or suppress it and let a killer walk. Emotional beat: the trial date arriving like a guillotine."
+    },
+    {
+      "n": 19,
+      "title": "Blackout",
+      "summary": "Lior's POV. Courthouse power fails during jury selection; in the dark, Reyes's lawyer offers Lior a deal for the ledger. Lior records the offer — the final cipher entry was 'RECORD EVERYTHING,' and he has. Emotional beat: the trap reversing, quiet and total."
+    },
+    {
+      "n": 20,
+      "title": "The Last Entry",
+      "summary": "Lior's POV. On the stand, Lior plays the recording and submits the decoded ledger, including the affidavit. Reyes unravels; the assistant's murder and the 1995 betrayal collapse into one account. Emotional beat: testimony as exorcism."
+    },
+    {
+      "n": 21,
+      "title": "A Voice from the Safehouse",
+      "summary": "Lior's POV. Among the tapes, Lior finds one addressed to him: Yara alive, explaining her choice — she traded her name to keep the family from paying her debts. He plays it on the final episode. Emotional beat: inheritance redefined as a message, not a burden."
+    },
+    {
+      "n": 22,
+      "title": "Clothes of My Own",
+      "summary": "Lior's POV. Trial over, podcast archived, Lior visits Wei and burns nothing — instead he donates Yara's ledger to the archive, unredacted, and buys himself a new coat. Emotional beat: memory kept by letting it go; truth worn like a garment that finally fits."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00099",
+  "title": "The Wreck of Cape Reckoning",
+  "author": "Vesper Zhou",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Theo Vane, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. But when an expedition upriver stops answering the radio, he discovers that staying invisible was never really an option. To get through this, he must cross the range ahead of the snows before the dry season ends.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 99
+  }
+}

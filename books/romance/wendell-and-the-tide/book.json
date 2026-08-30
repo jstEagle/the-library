@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06265",
+  "title": "Wendell and the Tide",
+  "author": "Rosalind Delacroix",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Gideon Vane, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the vineyard's first harvest comes in.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6265
+  }
+}

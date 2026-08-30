@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05627",
+  "title": "A Autopsy for the Confession",
+  "author": "Oscar Reyes",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Yara Zhou, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5627
+  }
+}

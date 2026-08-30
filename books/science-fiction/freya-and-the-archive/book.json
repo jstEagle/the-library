@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07741",
+  "title": "Freya and the Archive",
+  "author": "Wren Yarrow",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Xanthe Pemberton, a xenolinguist who can no longer dream in human languages, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. To get through this, she must prove a massacre happened when every record says otherwise before the fleet's truce expires.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7741
+  }
+}

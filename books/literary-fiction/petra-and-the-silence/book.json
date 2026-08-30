@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04653",
+  "title": "Petra and the Silence",
+  "author": "Hazel Nystrom",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Rosalind Dravenmoor, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. But when a song on the radio is one that was written and never recorded, he discovers that staying invisible was never really an option. Now he must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4653
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07072",
+  "title": "The Cold Signal",
+  "author": "Edmund Crane",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ivo Quintana, a terraformer tending a garden meant for people not yet born, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and she is pulled straight into the middle of it. To get through this, she must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7072
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09745",
+  "title": "The Group Chat of the water tower",
+  "author": "Wendell Reyes",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Felix Almeida, the new kid at a school built over something old, counts days until graduation like a sentence being served. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, he discovers that staying invisible was never really an option. To get through this, he must tell the truth even if it costs the friendship before prom.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9745
+  }
+}

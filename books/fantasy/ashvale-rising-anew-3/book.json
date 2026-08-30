@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01970",
+  "title": "Ashvale Rising Anew",
+  "author": "A. M. Iversen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Rafael Vasquez, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1970
+  }
+}

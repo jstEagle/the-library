@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01594",
+  "title": "Spire and Garden",
+  "author": "Petra Brightwater",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Wren Iversen, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1594
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04995",
+  "title": "Marguerite and the Cipher",
+  "author": "Emrys Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Isandro Sterling, a retired detective running a failing bookshop, has spent twenty years keeping the town's secrets filed and alphabetized. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4995
+  }
+}

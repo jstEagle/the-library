@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05422",
+  "title": "When the Autopsy Burns",
+  "author": "V. M. Lockridge",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Petra Nakamura, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5422
+  }
+}

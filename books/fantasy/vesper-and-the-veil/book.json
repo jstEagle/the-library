@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01313",
+  "title": "Vesper and the Veil",
+  "author": "Coral Okonkwo",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Wendell Lockridge, a debt-bound temple scribe, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. To get through this, they must unbind a king from the thing wearing his crown before the long winter finishes falling.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1313
+  }
+}

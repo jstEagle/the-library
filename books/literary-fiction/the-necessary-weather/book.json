@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04222",
+  "title": "The Necessary Weather",
+  "author": "Juniper Vane",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Zephyrine Okonkwo, a restaurant critic who has forgotten how food tastes, has spent five years practicing the art of almost saying it. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. To get through this, she must return to the place where the story went wrong before the house sale closes.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4222
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09716",
+  "title": "A Homecoming for the Group Chat",
+  "author": "Tamsin Lockridge",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Lena Dunmore, the eldest sibling raising the younger ones while mom works nights, has spent seven years being so careful it hurts. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, she discovers that staying invisible was never really an option. To get through this, she must decide who to be when the labels come off before prom.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9716
+  }
+}

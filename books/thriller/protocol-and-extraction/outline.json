@@ -1,0 +1,59 @@
+{
+  "title": "Protocol and Extraction",
+  "slug": "thriller/protocol-and-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Emrys Amberdale, a crash investigator who survived the accident that killed their family in row twelve, has spent years hiding behind a fabricated identity—until a voiceprint match unlocks a server in Reykjavik containing evidence that the crash was a test run for something larger. Drawn out of hiding by a former colleague turned whistleblower, Emrys joins a ragtag team of survivors and insiders to stop a staged 'accident' targeting a transatlantic flight carrying witnesses to the original crime. Betrayed from within and hunted by the extraction network that erased the first crash, Emrys must choose between destroying the evidence that could clear their name and using it to save four hundred lives. In the end, Emrys grounds the attack at devastating personal cost, finds a new family among the broken people who stood with them, and finally speaks the truth about row twelve aloud.",
+  "about_author": "Tamsin Brightwater is a former aviation safety analyst who left the industry after a decade of investigating incidents no one wanted explained. She writes thrillers from a coastal cottage, where she keeps a go-bag of her own—packed mostly with notebooks.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "POV: Emrys. Opening on the anniversary of the crash, Emrys performs their meticulous morning ritual: polishing the lie of their new identity, checking the go-bag, visiting the memorial wall where row twelve's names are carved. A routine NTSB consulting call goes wrong when an automated system addresses them by their real name. Emotional beat: grief sharpening into dread—the past has found a door."
+    },
+    {
+      "n": 2,
+      "title": "The Voiceprint",
+      "summary": "POV: Emrys. Tracing the anomaly, Emrys discovers their archived testimony audio was used as a biometric key—and it just unlocked a server in Reykjavik belonging to Meridian Extraction, a private firm that makes disasters look accidental. Someone wanted them found. A encrypted message offers proof of who killed their family—in exchange for coming in person. Emotional beat: the trap dressed as a lifeline."
+    },
+    {
+      "n": 3,
+      "title": "Go-Bag",
+      "summary": "POV: Emrys. Emrys burns their cover identity and flies to Iceland, narrating survival rules learned over seven invisible years. At a Reykjavik safehouse they meet Sefa, the whistleblower—a former Meridian analyst whose sister died on another 'accidental' flight. The server holds flight manifests, including one scheduled departure: Flight 4472, carrying three surviving witnesses from the original crash. Emotional beat: two orphans of the same machine finding each other."
+    },
+    {
+      "n": 4,
+      "title": "Manifest",
+      "summary": "POV: alternating Emrys and Sefa. Deciphering the server, they learn Meridian plans to down 4472 in eleven days and blame a maintenance failure—one Emrys's own past reports could be twisted to support. They recruit Dez, a disgraced air traffic controller, and Ilya, a hacker whose brother vanished after asking questions. Emotional beat: the fragile, defiant birth of a crew."
+    },
+    {
+      "n": 5,
+      "title": "Maintenance Window",
+      "summary": "POV: Dez. Dez infiltrates the airline contractor handling 4472's pre-flight inspection and finds the sabotage already seeded: a sensor batch swapped weeks ago, timed to fail mid-Atlantic. He also finds a familiar signature in the work order—the same technician ID from the original crash. Emotional beat: cold fury; this was never going to be only one plane."
+    },
+    {
+      "n": 6,
+      "title": "The Polished Lie",
+      "summary": "POV: Emrys. Meridian's fixer, Corvane, contacts Emrys directly—not with threats, but with an offer: testify that the original crash was pilot error, and Meridian will let 4472 fly safe. The price is becoming the lie permanently, betraying Sefa's sister and every other name. Emrys stalls, torn between vengeance, safety, and duty. Emotional beat: love against duty, weaponized."
+    },
+    {
+      "n": 7,
+      "title": "Leak",
+      "summary": "POV: Ilya. Racing to expose the plot publicly before Meridian can simply reschedule, Ilya discovers the betrayal: Dez has been feeding Meridian their location since chapter four—his family is being held. Meridian raids the safehouse; Sefa is taken, and the server copy is seized. Only Ilya escapes with a fragment: the attack's trigger protocol. Emotional beat: found family shattered, resolve hardened."
+    },
+    {
+      "n": 8,
+      "title": "Extraction Point",
+      "summary": "POV: Emrys. Emrys trades themselves to Meridian for Sefa, walking into Corvane's shipborne operations center under the pretext of accepting the deal. Inside, they see the full architecture of manufactured accidents across a decade—including row twelve's true cause: a cargo of undeclared lithium cells Meridian itself placed. Emotional beat: grief transmuted into clarity; the enemy finally has a face."
+    },
+    {
+      "n": 9,
+      "title": "Flight 4472",
+      "summary": "POV: alternating Emrys, Ilya, and Dez. With hours before departure, Ilya uses the stolen trigger fragment to reverse the sabotage signal while Dez, confessing his betrayal, talks his way into the tower to hold the flight for a bogus inspection delay. Emrys, captive aboard Corvane's vessel, triggers the facility's own fire-suppression failover to kill the remote uplink. Emotional beat: the climax—every debt called in at once, everyone risking everything."
+    },
+    {
+      "n": 10,
+      "title": "Aftermath Report",
+      "summary": "POV: Emrys. Flight 4472 lands safely; Meridian collapses under the leaked archive Ilya releases, and Corvane is arrested—but the man who signed off on row twelve dies quietly before trial, justice incomplete. Emrys testifies under their real name at last, then stands at the memorial wall with Sefa, Dez, and Ilya beside them. The go-bag stays packed, but by the door, not hidden. Emotional beat: survival's price paid, and a family built from the wreckage."
+    }
+  ]
+}

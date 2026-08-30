@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08070",
+  "title": "Tamsin and the Colony",
+  "author": "Casper Reyes",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Rafael Ashgrove, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. But when a ship returns from deep space with everyone aboard aged backward, he discovers that staying invisible was never really an option. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8070
+  }
+}

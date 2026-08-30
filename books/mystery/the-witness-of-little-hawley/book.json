@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05112",
+  "title": "The Witness of Little Hawley",
+  "author": "E. M. Whitlock",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Tamsin Ravensworth, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5112
+  }
+}

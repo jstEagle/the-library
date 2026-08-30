@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04560",
+  "title": "Jude and the Wardrobe",
+  "author": "Wren Oyelaran",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Casper Almeida, an heir cataloging a parent's silence after the funeral, has spent twenty years practicing the art of almost saying it. Then the last speaker of a language asks for one final student — and they are pulled straight into the middle of it. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4560
+  }
+}

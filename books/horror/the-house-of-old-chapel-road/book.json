@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03277",
+  "title": "The House of Old Chapel Road",
+  "author": "Wren Vasquez",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Juniper Almeida, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. Then all the photographs from grandma's house now include an extra chair — and they are pulled straight into the middle of it. Now they must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3277
+  }
+}

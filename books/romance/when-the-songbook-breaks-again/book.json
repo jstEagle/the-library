@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06894",
+  "title": "When the Songbook Breaks Again",
+  "author": "H. M. Ravensworth",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Ansel Sterling, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and she is pulled straight into the middle of it. Now she must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6894
+  }
+}

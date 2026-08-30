@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03853",
+  "title": "Gideon and the Portrait",
+  "author": "Kestrel Brightwater",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Freya Vane, a twin who came home to bury the wrong sibling, has spent seven years telling themselves the noises have explanations. But when all the photographs from grandma's house now include an extra chair, she discovers that staying invisible was never really an option. Now she must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3853
+  }
+}

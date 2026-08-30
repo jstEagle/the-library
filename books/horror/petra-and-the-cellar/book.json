@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04036",
+  "title": "Petra and the Cellar",
+  "author": "Jonah Nakamura",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Isandro Zhou, a folklorist recording songs the village refuses to sing twice, keeps the lights on and the doors counted. But when the childhood imaginary friend is waiting on the porch, unchanged, he discovers that staying invisible was never really an option. To get through this, he must finish the ritual the founders started before the harvest moon rises.",
+  "themes": [
+    "identity",
+    "memory",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4036
+  }
+}

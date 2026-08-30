@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05683",
+  "title": "Xanthe and the Witness",
+  "author": "Astrid Delacroix",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Rosalind Underhill, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. To get through this, they must close the one case everyone swore was closed for good before the statute expires.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5683
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04899",
+  "title": "The Ledger of Saint Alder's",
+  "author": "Freya Nakamura",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Odile Brightwater, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4899
+  }
+}

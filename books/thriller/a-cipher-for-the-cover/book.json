@@ -1,0 +1,21 @@
+{
+  "id": "THR-08410",
+  "title": "A Cipher for the Cover",
+  "author": "Rafael Montrose",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Rafael Kavanagh, a burnt analyst bounced from three agencies, hasn't slept through the night since the incident. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the border checkpoint shifts change.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8410
+  }
+}

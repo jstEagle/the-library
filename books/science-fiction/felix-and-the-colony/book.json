@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08269",
+  "title": "Felix and the Colony",
+  "author": "Wendell Whitlock",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Orsen Hartwell, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8269
+  }
+}

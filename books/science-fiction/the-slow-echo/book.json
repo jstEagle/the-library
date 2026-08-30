@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07111",
+  "title": "The Slow Echo",
+  "author": "Elodie Vane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ada Underhill, the last human technician on an automated relay station, has spent twelve years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, she discovers that staying invisible was never really an option. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7111
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06114",
+  "title": "Marguerite and the Songbook",
+  "author": "Emrys Blackwood",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Theo Okonkwo, a wedding planner who doesn't believe in weddings anymore, swears the heart is a muscle like any other: trainable, containable. Then a lost letter surfaces, postmarked eleven years ago — and he is pulled straight into the middle of it. To get through this, he must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6114
+  }
+}

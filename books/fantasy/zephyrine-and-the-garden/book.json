@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01187",
+  "title": "Zephyrine and the Garden",
+  "author": "Dominic Sandoval",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "August Galloway, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1187
+  }
+}

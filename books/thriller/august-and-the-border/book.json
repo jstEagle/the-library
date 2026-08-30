@@ -1,0 +1,21 @@
+{
+  "id": "THR-09262",
+  "title": "August and the Border",
+  "author": "N. M. Villalobos",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Tamsin Quintana, a crash investigator whose family died in row twelve, has spent twelve years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. To get through this, they must burn the network that did the training before the border checkpoint shifts change.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9262
+  }
+}

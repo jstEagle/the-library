@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05494",
+  "title": "August and the Cipher",
+  "author": "Odile Zhou",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Mara Zhou, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. But when the town's beloved founder is exhumed and the coffin is empty, he discovers that staying invisible was never really an option. To get through this, he must close the one case everyone swore was closed for good before the tide gives up what it took.",
+  "themes": [
+    "memory",
+    "identity",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5494
+  }
+}

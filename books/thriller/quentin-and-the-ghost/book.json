@@ -1,0 +1,21 @@
+{
+  "id": "THR-09398",
+  "title": "Quentin and the Ghost",
+  "author": "Bram Sterling",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "August Lockridge, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9398
+  }
+}

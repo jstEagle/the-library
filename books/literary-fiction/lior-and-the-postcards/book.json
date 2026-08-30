@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04475",
+  "title": "Lior and the Postcards",
+  "author": "Vesper Nakamura",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Yara Hartwell, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4475
+  }
+}

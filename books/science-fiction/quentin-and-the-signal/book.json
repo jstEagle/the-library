@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08008",
+  "title": "Quentin and the Signal",
+  "author": "August Blackwood",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Ines Blackwood, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8008
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05437",
+  "title": "A Confession for the Will",
+  "author": "Silas Pemberton",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Isandro Yarrow, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. To get through this, they must find the witness everyone swears is dead before the statute expires.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5437
+  }
+}

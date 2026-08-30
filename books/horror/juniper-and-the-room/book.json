@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03882",
+  "title": "Juniper and the Room",
+  "author": "Emrys Crane",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Bram Dunmore, a radio host taking calls from listeners who died last week, documents everything, because documentation is a kind of prayer. Then all the photographs from grandma's house now include an extra chair — and she is pulled straight into the middle of it. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3882
+  }
+}

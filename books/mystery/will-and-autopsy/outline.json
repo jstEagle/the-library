@@ -1,0 +1,59 @@
+{
+  "title": "Will and Autopsy",
+  "slug": "mystery/will-and-autopsy",
+  "model": "stealth/ox-alpha",
+  "premise": "Marguerite Pemberton, coroner of the tidal town of Greywater Bay, receives two letters about a drowning ruled accidental: one confessing to the murder, one promising a second death. As bodies surface with details only someone inside the investigation could know, Marguerite realizes the killer is reconstructing an old case file — his own first autopsy, twenty years ago, when he misidentified a body and buried the wrong name. The killer is the sister of that forgotten dead woman, staging deaths to force the town to finally say her name. In the climax, Marguerite confesses on the record at the inquest, trading his reputation for the truth, and the tide gives up the original evidence that clears both their consciences.",
+  "about_author": "A. M. Pemberton spent a decade as a death investigator in coastal New England before turning to fiction, and their mysteries are known for forensic precision and quiet moral dread. They live in a shingled house above a working harbor, where they keep a ledger of every storm the sea has given something back.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Two Envelopes",
+      "summary": "Marguerite's POV. Between routine autopsies, two letters arrive about the drowned fisherman Danny Voss: one unsigned confession, one promising 'the next will be louder.' The emotional beat is unease — Marguerite recognizes the handwriting style but can't place it, and files the confession away like a secret."
+    },
+    {
+      "n": 2,
+      "title": "The Second Drowning",
+      "summary": "Marguerite's POV. A councilwoman drowns in her bathtub, staged exactly like Danny Voss — down to a detail never released to the press. Detective Ilsa Reyes arrives from the county, sharp and skeptical of the small-town coroner. The beat is dread: the killer knows the case file better than anyone."
+    },
+    {
+      "n": 3,
+      "title": "What the Water Keeps",
+      "summary": "Marguerite's POV, with a flashback thread. Autopsy findings point to a twenty-year-old pattern: victims connected to the unsolved drowning of a girl once labeled 'Jane Doe 4.' Marguerite remembers signing that file as a young deputy coroner. The beat is guilt surfacing like a body."
+    },
+    {
+      "n": 4,
+      "title": "A Third Letter",
+      "summary": "Ilsa Reyes's POV. A letter arrives addressed not to police but to 'the man who signed the paper,' quoting Marguerite's own autopsy notes verbatim. Ilsa begins quietly suspecting him. The beat is paranoia tightening around the protagonist."
+    },
+    {
+      "n": 5,
+      "title": "The Ledger of Names",
+      "summary": "Marguerite's POV. He digs into the old records and finds the Jane Doe was named Ruth Calloway — misidentified because of a clerical error he buried to protect his mentor. The third victim, the retired records clerk, dies before Marguerite can warn her. The beat is complicity made flesh."
+    },
+    {
+      "n": 6,
+      "title": "Sister of the Tide",
+      "summary": "Ilsa's POV. The trail leads to Vera Calloway, Ruth's sister, who vanished from town years ago — but Vera is dead, her ashes scattered at sea. Someone is killing in a dead woman's name. The beat is vertigo: the avenger may be a ghost or a mask."
+    },
+    {
+      "n": 7,
+      "title": "Interrogation by Firelight",
+      "summary": "Alternating POVs. Ilsa confronts Marguerite with the letters' handwriting analysis: it matches his own early case annotations. He realizes the killer studied under him — or stole his files. The beat is betrayal and self-doubt; Marguerite can no longer trust his own memory."
+    },
+    {
+      "n": 8,
+      "title": "Low Tide",
+      "summary": "Marguerite's POV. Following the killer's clues, he finds the original evidence tin buried in the mudflats — and walks into a trap at the old boathouse. Face to face with the killer, revealed as Ruth's childhood friend who loved her, he hears the whole grievance spoken aloud. The beat is terrible recognition."
+    },
+    {
+      "n": 9,
+      "title": "The Inquest",
+      "summary": "Marguerite's POV. Wounded but alive, he chooses confession over cover: at the reopened inquest he testifies to his twenty-year-old error, naming Ruth Calloway publicly for the first time. The killer surrenders rather than let the truth die in a cell. The beat is costly catharsis."
+    },
+    {
+      "n": 10,
+      "title": "Every Grave by Name",
+      "summary": "Marguerite's POV, months later. Stripped of his license but at peace, he carves Ruth's name onto the corrected headstone as the tide comes in. Ilsa leaves him the case file, closed. The final beat is quiet redemption: memory restored, power relinquished, identity honestly owned at last."
+    }
+  ]
+}

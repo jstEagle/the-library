@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04239",
+  "title": "Language and Glasshouse",
+  "author": "Ada Ishikawa",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Sebastian Ashgrove, an heir cataloging a parent's silence after the funeral, moves through the days like a tenant, not an owner. Then the last speaker of a language asks for one final student — and they are pulled straight into the middle of it. To get through this, they must forgive the stranger in the old photographs before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "belonging",
+    "identity",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4239
+  }
+}

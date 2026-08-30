@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09838",
+  "title": "A Semester for the Group Chat",
+  "author": "Tamsin Whitlock",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Wendell Oyelaran, a baker's kid who bakes feelings into bread, has spent twenty years being so careful it hurts. Then a best friend goes missing, leaving only a set of keys behind — and she is pulled straight into the middle of it. Now she must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9838
+  }
+}

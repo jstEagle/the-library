@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04220",
+  "title": "A Blue Hour for the Silence",
+  "author": "Cyrus Eriksen",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Isandro Dunmore, an heir cataloging a parent's silence after the funeral, has spent ten years practicing the art of almost saying it. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. To get through this, she must ask the question the whole family arranged itself around before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4220
+  }
+}

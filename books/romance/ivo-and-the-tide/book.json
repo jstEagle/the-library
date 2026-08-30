@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06537",
+  "title": "Ivo and the Tide",
+  "author": "Juniper Iversen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Beatrix Winterbourne, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6537
+  }
+}

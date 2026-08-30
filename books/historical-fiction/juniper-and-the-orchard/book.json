@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03138",
+  "title": "Juniper and the Orchard",
+  "author": "Cyrus Whitlock",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Freya Coldharbour, an apprentice clockmaker summoned to repair the observatory's master clock, measures the world in what can be carried when the orders come. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, she discovers that staying invisible was never really an option. Now she must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3138
+  }
+}

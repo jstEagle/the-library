@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00147",
+  "title": "When the Landfall Turns",
+  "author": "Wren Halloran",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Wren Galloway, a riverboat captain who knows every sandbar's mood, has spent ten years measuring life in miles rather than years. Then an expedition upriver stops answering the radio — and they are pulled straight into the middle of it. To get through this, they must bring the expedition home without telling anyone what it found before the monsoon makes landfall.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 147
+  }
+}

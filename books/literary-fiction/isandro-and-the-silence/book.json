@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04550",
+  "title": "Isandro and the Silence",
+  "author": "Wendell Sterling",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Lior Ishikawa, a translator losing a childhood language one borrowed word at a time, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must forgive the stranger in the old photographs before the mother's memory goes entirely.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4550
+  }
+}

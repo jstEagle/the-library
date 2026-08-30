@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06628",
+  "title": "The Bakery of Port Alder",
+  "author": "Vesper Iversen",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ines Ravensworth, a wedding planner who doesn't believe in weddings anymore, has spent twelve years rebuilding a life measured in small safe steps. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the festival ends.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6628
+  }
+}

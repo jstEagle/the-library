@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04619",
+  "title": "A Language for the Undertow",
+  "author": "Lena Sandoval",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Lior Villalobos, an heir cataloging a parent's silence after the funeral, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. To get through this, he must forgive the stranger in the old photographs before the house sale closes.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4619
+  }
+}

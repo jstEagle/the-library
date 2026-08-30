@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09829",
+  "title": "When the Recipe Falls",
+  "author": "Marguerite Kavanagh",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Freya Iversen, the eldest sibling raising the younger ones while mom works nights, stays under the radar: head down, grades up, locker shut. Then a group chat starts predicting things that haven't happened yet — and she is pulled straight into the middle of it. Now she must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9829
+  }
+}

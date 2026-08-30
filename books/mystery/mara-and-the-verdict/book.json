@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05545",
+  "title": "Mara and the Verdict",
+  "author": "Lior Voss",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Zephyrine Vasquez, the archivist of a cathedral with a locked crypt, has spent fifteen years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. To get through this, she must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5545
+  }
+}

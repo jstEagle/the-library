@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09705",
+  "title": "The Broken Recipe",
+  "author": "Rafael Whitlock",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Dominic Voss, a scholarship student at an academy with too many secrets, stays under the radar: head down, grades up, locker shut. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and he is pulled straight into the middle of it. To get through this, he must expose what the school board buried before graduation.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9705
+  }
+}

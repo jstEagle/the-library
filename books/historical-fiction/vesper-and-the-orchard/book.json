@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02862",
+  "title": "Vesper and the Orchard",
+  "author": "Z. M. Fairweather",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Petra Zhou, an apprentice clockmaker summoned to repair the observatory's master clock, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2862
+  }
+}

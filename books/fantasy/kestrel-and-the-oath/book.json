@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01593",
+  "title": "Kestrel and the Oath",
+  "author": "Oscar Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Marguerite Ravensworth, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1593
+  }
+}

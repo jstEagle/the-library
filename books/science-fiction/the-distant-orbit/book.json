@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07277",
+  "title": "The Distant Orbit",
+  "author": "Vesper Coldharbour",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Mirabel Reyes, a starship navigator haunted by the backups sleeping in the hold, has spent seven years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. To get through this, she must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7277
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08539",
+  "title": "When the Safehouse Breaks",
+  "author": "Edmund Halloran",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Felix Delacroix, a hostage negotiator with one failure still on the board, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8539
+  }
+}

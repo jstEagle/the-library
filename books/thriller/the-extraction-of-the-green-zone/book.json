@@ -1,0 +1,21 @@
+{
+  "id": "THR-09059",
+  "title": "The Extraction of the Green Zone",
+  "author": "G. M. Whitlock",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Lior Underhill, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and he is pulled straight into the middle of it. To get through this, he must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9059
+  }
+}

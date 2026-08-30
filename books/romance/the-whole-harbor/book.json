@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06206",
+  "title": "The Whole Harbor",
+  "author": "Juniper Fairweather",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Jonah Eastwick, a cellist recovering from one catastrophic final performance, has spent ten years rebuilding a life measured in small safe steps. But when the person behind a decade of letters moves in next door, they discover that staying invisible was never really an option. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6206
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Marguerite and the Cover",
+  "slug": "thriller/marguerite-and-the-cover",
+  "model": "stealth/ox-alpha",
+  "premise": "Yara Coldharbour, a crash investigator haunted by the unexplained death of their family in row twelve of Flight 4471, has spent years hiding behind a polished lie and a packed go-bag. When a voiceprint match unlocks a black server in Zurich, Yara discovers the crash was engineered to silence a whistleblower — and that the defector who can prove it, Marguerite, is being used as bait by the very syndicate that killed row twelve. As Yara extracts Marguerite across three countries, hunted by both the syndicate and their own agency, they must decide whether love for a stranger is worth burning every duty they've ever honored. In the end, Yara trades their own cover identity to expose the truth publicly, saving Marguerite and finally laying row twelve to rest.",
+  "about_author": "Juniper Whitlock is a former aviation safety analyst who left the industry after a case she still won't discuss. She writes thrillers from a coastal town where the fog rolls in early and nobody asks questions.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Yara's POV. On the anniversary of the crash, Yara visits the memorial wall, recites the polished lie about being over it, and checks the go-bag out of habit. A colleague notices the ritual. Emotional beat: grief worn smooth into routine, but a hairline crack showing."
+    },
+    {
+      "n": 2,
+      "title": "The Voiceprint",
+      "summary": "Yara's POV. Running a routine audio analysis on recovered flight recorder fragments, Yara's own archived voiceprint unexpectedly authenticates against an encrypted server pinged from Zurich. Someone built a key from Yara's voice. Emotional beat: unease curdling into obsession."
+    },
+    {
+      "n": 3,
+      "title": "What the Server Knew",
+      "summary": "Yara's POV, brief intercut with an anonymous handler's. The unlocked files reveal Flight 4471 was downed deliberately; a whistleblower named only 'M' had smuggled evidence aboard. Yara realizes the investigation was buried from inside. Emotional beat: vertigo — the lie Yara told themselves collapses."
+    },
+    {
+      "n": 4,
+      "title": "The Go-Bag Decision",
+      "summary": "Yara's POV. Yara reports nothing, packs the bag, and books a flight to Zurich under a false name, telling no one. A terse message arrives: 'We know you opened it.' Emotional beat: cold resolve mixed with terror at becoming what they investigate."
+    },
+    {
+      "n": 5,
+      "title": "Zurich Rain",
+      "summary": "Yara's POV. In Zurich, Yara makes contact through a dead-drop arranged in the files and meets Marguerite — sharp, frightened, and openly skeptical that Yara isn't a trap. Emotional beat: two liars circling each other, neither blinking first."
+    },
+    {
+      "n": 6,
+      "title": "Marguerite's Version",
+      "summary": "Marguerite's POV. Marguerite explains she was a compliance auditor whose evidence implicated Meridian Group; the crash was meant to kill her courier, not her. She stayed hidden for six years. Emotional beat: survivor's guilt mirroring Yara's, the first thread of connection."
+    },
+    {
+      "n": 7,
+      "title": "Tail Lights",
+      "summary": "Yara's POV. Leaving the safehouse, Yara spots surveillance — professional, patient, wrong. They escape through tram tunnels, but Marguerite's contact list is compromised. Emotional beat: adrenaline and the dawning certainty that extraction is now survival."
+    },
+    {
+      "n": 8,
+      "title": "The Handler",
+      "summary": "Handler's POV. Back home, Yara's agency handler, Voss, learns Yara went dark and quietly flags them as an asset gone rogue — while taking a call from someone at Meridian. Emotional beat: institutional betrayal revealed to the reader before the hero."
+    },
+    {
+      "n": 9,
+      "title": "Night Train to Lyon",
+      "summary": "Yara and Marguerite alternate POV. On the night train, Marguerite tests Yara with hard truths about the crash report Yara once signed off on. Yara admits the lie. Emotional beat: confession as intimacy; love beginning against both their wills."
+    },
+    {
+      "n": 10,
+      "title": "Safehouse Burned",
+      "summary": "Yara's POV. Their Lyon safehouse is hit minutes after they leave — someone inside the network is feeding locations. Yara suspects Marguerite; Marguerite suspects Yara. Emotional beat: trust fractured exactly when it matters most."
+    },
+    {
+      "n": 11,
+      "title": "The Bait Question",
+      "summary": "Marguerite's POV. Marguerite confesses she may be bait: Meridian let her survive because she leads to whoever holds the server key — Yara. She offers to walk away to protect them. Emotional beat: love against duty, stated plainly and refused."
+    },
+    {
+      "n": 12,
+      "title": "Voss Arrives",
+      "summary": "Voss's POV, then Yara's. Voss corners Yara in Lyon with an offer: come home, hand over Marguerite, everything forgiven. Yara reads the lie in his eyes and stalls. Emotional beat: duty weaponized; Yara chooses the stranger."
+    },
+    {
+      "n": 13,
+      "title": "Twelve Rows of Evidence",
+      "summary": "Marguerite's POV. Marguerite reveals her full archive — passenger manifests, payment trails — including proof that row twelve was targeted because a second witness sat there: Yara's family member. Emotional beat: devastation transmuted into purpose."
+    },
+    {
+      "n": 14,
+      "title": "Running the Alps",
+      "summary": "Yara's POV. A brutal drive over alpine passes, pursued by Meridian contractors, ends with a crashed car and a wounded Marguerite sheltering in a chapel. Emotional beat: tenderness under fire; Yara binds the wound and stops pretending this is just an extraction."
+    },
+    {
+      "n": 15,
+      "title": "The Mole",
+      "summary": "Yara's POV. Decoding the leak pattern, Yara identifies the mole: not Voss, but Yara's closest colleague, who has been Meridian's ears for a decade. Emotional beat: betrayal upon betrayal; the last safe door closes."
+    },
+    {
+      "n": 16,
+      "title": "Geneva Gambit",
+      "summary": "Yara and Marguerite alternate POV. They split up — Marguerite as visible decoy in Geneva, Yara infiltrating Meridian's data vault to copy the master ledger. Emotional beat: fear sharpened into precision; each trusting the other with their life."
+    },
+    {
+      "n": 17,
+      "title": "Vault Silence",
+      "summary": "Yara's POV. Inside the vault, Yara finds the ledger — and footage proving Voss ordered the original burial of the crash file. Alarms trip. Yara escapes through loading docks as Meridian locks down the city. Emotional beat: triumph poisoned by pursuit."
+    },
+    {
+      "n": 18,
+      "title": "Taken",
+      "summary": "Marguerite's POV. The decoy works too well: Meridian takes Marguerite, and Voss personally supervises, planning to trade her for the ledger. Emotional beat: captivity without despair — Marguerite starts working the room from inside."
+    },
+    {
+      "n": 19,
+      "title": "The Exchange",
+      "summary": "Yara's POV. Meridian proposes a swap at a freight terminal: Marguerite for the ledger. Yara goes, carrying a decoy drive and a plan built on the one thing Meridian can't fake — Yara's voiceprint. Emotional beat: calm on the surface, grief underneath."
+    },
+    {
+      "n": 20,
+      "title": "Terminal Velocity",
+      "summary": "Yara and Marguerite alternate POV. The exchange detonates into chaos: Yara broadcasts the ledger to every press outlet mid-standoff, Voss turns on Meridian to save himself, and Yara pulls Marguerite out through the container maze under gunfire. Emotional beat: climax — love and duty fused into a single act."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath, Public Record",
+      "summary": "Multiple POVs briefly. The ledger breaks open globally; Voss is arrested, Meridian unravels, and the crash is officially reclassified. Yara's colleague-mole flees and is caught at the border. Emotional beat: justice arriving late, imperfect, real."
+    },
+    {
+      "n": 22,
+      "title": "Unpacked",
+      "summary": "Yara's POV. Months later, Yara unpacks the go-bag for good at a small house near the sea, Marguerite's laughter in the next room. At the rebuilt memorial, Yara says the true names aloud. Emotional beat: quiet resolution — the lie retired, love chosen, row twelve finally at rest."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05264",
+  "title": "A Cipher for the Will",
+  "author": "Petra Winterbourne",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Silas Quintana, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. To get through this, they must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "memory",
+    "belonging",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5264
+  }
+}

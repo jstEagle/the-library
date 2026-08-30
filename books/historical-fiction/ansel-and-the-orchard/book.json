@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02995",
+  "title": "Ansel and the Orchard",
+  "author": "Xanthe Iversen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Sebastian Underhill, a code-carrying courier on the last diplomatic mission of a doomed republic, keeps a low profile and busy hands. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, she discovers that staying invisible was never really an option. Now she must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2995
+  }
+}

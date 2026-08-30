@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01024",
+  "title": "The Oath of the Ninefold Court",
+  "author": "Emrys Yarrow",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jonah Kavanagh, a debt-bound temple scribe, has spent twelve years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1024
+  }
+}

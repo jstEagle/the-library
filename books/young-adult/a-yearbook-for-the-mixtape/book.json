@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09757",
+  "title": "A Yearbook for the Mixtape",
+  "author": "Silas Hartwell",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Lior Kavanagh, the eldest sibling raising the younger ones while mom works nights, has spent seven years being so careful it hurts. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, she discovers that staying invisible was never really an option. Now she must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9757
+  }
+}

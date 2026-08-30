@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05606",
+  "title": "Yara and the Will",
+  "author": "Beatrix Brightwater",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Vesper Nakamura, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5606
+  }
+}

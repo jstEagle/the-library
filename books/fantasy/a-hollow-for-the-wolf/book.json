@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00984",
+  "title": "A Hollow for the Wolf",
+  "author": "C. M. Yarrow",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Hazel Blackwood, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 984
+  }
+}

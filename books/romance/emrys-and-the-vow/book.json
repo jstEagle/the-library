@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06533",
+  "title": "Emrys and the Vow",
+  "author": "Yara Voss",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Coral Dravenmoor, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. Then a snowstorm strands two rivals with the best mistake of their twenties — and they are pulled straight into the middle of it. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6533
+  }
+}

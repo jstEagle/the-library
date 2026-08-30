@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09596",
+  "title": "August and the Mixtape",
+  "author": "Oscar Ishikawa",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Yara Quintana, the new kid at a school built over something old, is fine. Everything is fine. Obviously.. But when grandma's recipe box contains directions that aren't for food, she discovers that staying invisible was never really an option. Now she must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9596
+  }
+}

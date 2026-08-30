@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02417",
+  "title": "Lior and the Bridge",
+  "author": "Coral Dravenmoor",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Edmund Thackeray, an apprentice clockmaker summoned to repair the observatory's master clock, has spent ten years learning which silences keep people safe. But when the census taker asks one question too many, she discovers that staying invisible was never really an option. Now she must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2417
+  }
+}

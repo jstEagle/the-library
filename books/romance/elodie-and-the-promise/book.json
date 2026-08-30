@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05985",
+  "title": "Elodie and the Promise",
+  "author": "Zephyrine Sterling",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Sable Voss, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. But when two estranged names appear on the same impossibly stubborn orchard deed, they discover that staying invisible was never really an option. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5985
+  }
+}

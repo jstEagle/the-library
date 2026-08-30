@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04204",
+  "title": "A Inventory for the Wardrobe",
+  "author": "Felix Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ivo Brightwater, a bridge inspector measuring the marriage in expansion joints, has spent ten years practicing the art of almost saying it. Then a box of undelivered letters surfaces behind a wardrobe — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4204
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09201",
+  "title": "Marguerite and the Safehouse",
+  "author": "Freya Winterbourne",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lena Vane, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. To get through this, she must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9201
+  }
+}

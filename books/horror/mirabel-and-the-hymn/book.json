@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03805",
+  "title": "Mirabel and the Hymn",
+  "author": "Astrid Okafor",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Marguerite Iversen, a folklorist recording songs the village refuses to sing twice, doesn't believe, has never believed, will not begin believing now. But when every mirror in the house starts reflecting the room one second late, he discovers that staying invisible was never really an option. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3805
+  }
+}

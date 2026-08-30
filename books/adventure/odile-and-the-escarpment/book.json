@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00649",
+  "title": "Odile and the Escarpment",
+  "author": "Theo Delacroix",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ansel Ravensworth, a desert ranger tracking a thief across nothing, carries a compass, a debt, and very little else. Then the river gives up a chest stamped with a dead nation's seal — and they are pulled straight into the middle of it. To get through this, they must beat the salvage fleet to the wreck by six tides before the dry season ends.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 649
+  }
+}

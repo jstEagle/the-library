@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09796",
+  "title": "The Detention of Maple Street",
+  "author": "Lena Marchetti",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Isandro Galloway, a baker's kid who bakes feelings into bread, stays under the radar: head down, grades up, locker shut. But when a group chat starts predicting things that haven't happened yet, they discover that staying invisible was never really an option. Now they must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9796
+  }
+}

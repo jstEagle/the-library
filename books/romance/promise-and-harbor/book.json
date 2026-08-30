@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06027",
+  "title": "Promise and Harbor",
+  "author": "Xanthe Villalobos",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Wren Montrose, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. But when a fake date to survive a family reunion feels too real by dessert, they discover that staying invisible was never really an option. To get through this, they must say the sentence that has been rehearsed for a decade before the festival ends.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6027
+  }
+}

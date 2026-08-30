@@ -1,0 +1,21 @@
+{
+  "id": "THR-09270",
+  "title": "Emrys and the Deadline",
+  "author": "Ansel Winterbourne",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Paloma Kavanagh, a crash investigator whose family died in row twelve, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "belonging",
+    "identity",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9270
+  }
+}

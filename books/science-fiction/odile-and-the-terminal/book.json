@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07541",
+  "title": "Odile and the Terminal",
+  "author": "Lior Nakamura",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Sable Reyes, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7541
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08644",
+  "title": "A Deadline for the Extraction",
+  "author": "Rafael Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Oscar Voss, a crash investigator whose family died in row twelve, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8644
+  }
+}

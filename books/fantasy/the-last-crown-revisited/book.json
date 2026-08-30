@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02139",
+  "title": "The Last Crown Revisited",
+  "author": "Sable Joubert",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Orsen Zhou, a thief who steals memories, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2139
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03730",
+  "title": "The Kindly Well",
+  "author": "Mara Vane",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Isandro Amberdale, a hospice nurse who hears the dying count backwards, keeps the lights on and the doors counted. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. To get through this, he must hold out until sunrise with the truth about what was invited in before the frost writes its final pattern.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3730
+  }
+}

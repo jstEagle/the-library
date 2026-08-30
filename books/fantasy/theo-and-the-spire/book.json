@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01642",
+  "title": "Theo and the Spire",
+  "author": "Kestrel Sterling",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Lior Nakamura, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "found family",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1642
+  }
+}

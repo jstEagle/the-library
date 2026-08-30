@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05580",
+  "title": "Quentin and the Autopsy",
+  "author": "Hazel Nystrom",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Quentin Nakamura, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5580
+  }
+}

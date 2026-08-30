@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06765",
+  "title": "Freya and the Tide",
+  "author": "Edmund Thackeray",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ines Eriksen, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and they are pulled straight into the middle of it. To get through this, they must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "memory",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6765
+  }
+}

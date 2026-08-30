@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00945",
+  "title": "Thorn and Crown",
+  "author": "Odile Ravensworth",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Quentin Pemberton, a hedge-witch's runaway apprentice, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. To get through this, he must steal back a soul sold to the court beneath the mountain before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 945
+  }
+}

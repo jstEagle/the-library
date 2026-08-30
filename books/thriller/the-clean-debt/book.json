@@ -1,0 +1,21 @@
+{
+  "id": "THR-08510",
+  "title": "The Clean Debt",
+  "author": "G. M. Sandoval",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Sebastian Blackwood, a hostage negotiator with one failure still on the board, has spent twenty years following rules that keep getting rewritten. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8510
+  }
+}

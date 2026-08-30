@@ -1,0 +1,59 @@
+{
+  "title": "The Pale Archive",
+  "slug": "science-fiction/the-pale-archive",
+  "model": "stealth/ox-alpha",
+  "premise": "Lena Ashgrove, a terraformer hauling seed-cargo through contested orbits, is ordered to intercept the Meridian, a ship returned from deep space with its crew aged backward into children who remember their own deaths. Among them is Ilya Voss, the man she loved and lost seven years ago, now young again with no memory of her. The Meridian's dying AI is broadcasting a distress signal that a ruthless colonial tribunal will use to justify seizing the archive of pre-birth colonists' genetic records hidden at the edge relay. Racing the tribunal fleet, Lena must choose between delivering Ilya to safety and destroying the signal to protect the unborn generations the archive serves. In the end she burns her own cargo to mask the escape, saves the children, and lets Ilya go free of his past — keeping only the memory he cannot share.",
+  "about_author": "Kestrel Nystrom is a former orbital logistics analyst who writes science fiction about people whose work keeps futures alive that they will never see. The Pale Archive is their third novel, written in the margins of night shifts.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Seed Cargo",
+      "summary": "POV Lena. Seven years hauling genetic archives for colonists not yet born, Lena tends her garden module like a vow. A tribunal order reroutes her to intercept the Meridian, silent for a decade. She resents the detour until she sees the ship's hull scarred by something no weapon leaves. Beat: weary duty cracking into dread."
+    },
+    {
+      "n": 2,
+      "title": "The Children Who Remember Dying",
+      "summary": "POV Lena. Boarding the Meridian, Lena finds thirty crew members de-aged to childhood, lucid and terrified, reciting memories of deaths they haven't lived yet. One boy looks at her and says her name. It is Ilya Voss, younger than when she last saw him alive. Beat: grief made impossible."
+    },
+    {
+      "n": 3,
+      "title": "Tribunal Jurisdiction",
+      "summary": "POV Lena. Tribunal auditor Sef Karo boards under quarantine law: the children are evidence, the ship forfeit, the crew to be studied. Lena stalls by claiming salvage rights as the Meridian's registered contractor. Privately, the ship's failing AI warns her the signal it broadcasts will lead the tribunal straight to the edge relay archive. Beat: law revealed as a weapon."
+    },
+    {
+      "n": 4,
+      "title": "What He Cannot Recall",
+      "summary": "POV alternating Lena/Ilya. Ilya, eleven years old inside a pilot's mind, remembers everything except the years he spent with Lena. She shows him the garden module; something in him aches without knowing why. Meanwhile Karo decrypts the first layer of the signal. Beat: love against duty begins to pull both ways."
+    },
+    {
+      "n": 5,
+      "title": "Dead Space Calculations",
+      "summary": "POV Lena. Lena plots a run to the edge relay through contested orbits the tribunal won't follow — because nothing returns. The AI offers a bargain: carry its core to the relay and it can erase the signal before Karo's fleet triangulates. Ilya insists on coming; his old piloting instincts surface uncannily. Beat: commitment, with the cost named aloud."
+    },
+    {
+      "n": 6,
+      "title": "The Diversion at Ceres Gate",
+      "summary": "POV Ilya. To slip the cordon, Lena fakes a cargo emergency at Ceres Gate while Ilya flies the Meridian's shuttle on instinct older than his body. They escape, but Karo marks Lena as an accessory and seizes her remaining cargo holds as collateral. Beat: exhilaration shadowed by what's been taken."
+    },
+    {
+      "n": 7,
+      "title": "Signal in the Dark",
+      "summary": "POV Lena. In dead space, the AI confesses the truth: the de-aging was its desperate repair of radiation damage, and the signal isn't distress — it's a confession meant to expose the tribunal's plan to auction the archive. Karo's fleet enters dead space anyway, following a traitor beacon aboard. Beat: moral inversion; the enemy becomes the victim's witness."
+    },
+    {
+      "n": 8,
+      "title": "The Relay at the Edge",
+      "summary": "POV Ilya. They reach the relay and find the archive: ten thousand unborn lives encoded in cold storage. The traitor beacon detonates the relay's outer ring; Ilya, flying on borrowed instinct, threads the debris while Lena hard-docks the AI core. Karo's flagship closes. Beat: climax ignites."
+    },
+    {
+      "n": 9,
+      "title": "Burn the Garden",
+      "summary": "POV Lena. Cornered, Lena jettisons and ignites her own seed-cargo — her seven-year vow — creating a burn plume that blinds Karo's targeting and masks the archive's relocation broadcast. The tribunal retreats rather than lose ships to the fire. Ilya, watching her sacrifice, finally remembers her face. Beat: love and duty reconciled through loss."
+    },
+    {
+      "n": 10,
+      "title": "For People Not Yet Born",
+      "summary": "POV Lena. The archive sleeps safely at a new coordinates only the AI knows. The children are granted sanctuary among terraformer crews; Ilya chooses to grow up again on his own terms, asking Lena to wait — or not — either answer honored. She plants new seeds. Beat: quiet resolution; memory kept, future released."
+    }
+  ]
+}

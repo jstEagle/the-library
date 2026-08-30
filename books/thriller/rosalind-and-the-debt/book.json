@@ -1,0 +1,21 @@
+{
+  "id": "THR-08658",
+  "title": "Rosalind and the Debt",
+  "author": "Wren Fairweather",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Ulyana Voss, an interpreter attached to a peace delegation destined to fail, has spent twenty years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and he is pulled straight into the middle of it. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8658
+  }
+}

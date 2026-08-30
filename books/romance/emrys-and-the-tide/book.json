@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06817",
+  "title": "Emrys and the Tide",
+  "author": "Bram Winterbourne",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Orsen Vane, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. But when the person behind a decade of letters moves in next door, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6817
+  }
+}

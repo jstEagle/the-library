@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03634",
+  "title": "The Bell of Harrow Glen",
+  "author": "Isandro Nystrom",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ivo Eriksen, a folklorist recording songs the village refuses to sing twice, doesn't believe, has never believed, will not begin believing now. Then the excavation crew unearths a door, sealed from the inside — and they are pulled straight into the middle of it. Now they must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3634
+  }
+}

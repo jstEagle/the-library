@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03246",
+  "title": "The Portrait of Harrow Glen",
+  "author": "Sebastian Vane",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Casper Yarrow, a pest controller called to something with fingerprints, has spent fifteen years telling themselves the noises have explanations. Then every mirror in the house starts reflecting the room one second late — and she is pulled straight into the middle of it. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3246
+  }
+}

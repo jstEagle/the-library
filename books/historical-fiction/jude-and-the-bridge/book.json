@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03020",
+  "title": "Jude and the Bridge",
+  "author": "Ansel Sterling",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Silas Ashgrove, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. But when the army requisitions the town and the ledger with all the names, she discovers that staying invisible was never really an option. Now she must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3020
+  }
+}

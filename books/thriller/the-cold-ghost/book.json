@@ -1,0 +1,21 @@
+{
+  "id": "THR-08595",
+  "title": "The Cold Ghost",
+  "author": "Gideon Nakamura",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Odile Ashgrove, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8595
+  }
+}

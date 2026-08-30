@@ -1,0 +1,59 @@
+{
+  "title": "Sable and the Echo",
+  "slug": "science-fiction/sable-and-the-echo",
+  "model": "stealth/ox-alpha",
+  "premise": "When gravity fails for nine seconds across the Meridian system, Lena Villalobos discovers the relay station's beacon was never a beacon at all—it's a trigger, and she was its unwitting custodian, hired by a mother she never knew. The flicker signals that the colony ship Halcyon's failing reactor will soon kill its two hundred thousand sleepers, and the station's AI, Sable, holds the only protocol that can save half of them. As Lena races to decode her mother's hidden logs, corporate salvage crews arrive claiming the protocol as property, and Lena must choose between broadcasting the truth of her mother's betrayal and saving the sleepers who never consented to be collateral. In the end, Lena sacrifices her own cryopod berth to wake the forgotten half, learning that her mother's last act was to leave her not an inheritance of guilt, but of choice.",
+  "about_author": "R. M. Montrose is the pen name of a former satellite ground-station operator who spent six lonely years maintaining hardware nobody visited. Their fiction explores what machines remember when humans forget, and they write from a converted observatory on the Atlantic coast.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Weight",
+      "summary": "Lena's POV, third person. On day 2,191 of solitary maintenance, gravity stutters system-wide for exactly nine seconds, and every instrument on the station points at Lena's beacon as the source. The emotional beat is vertigo—the comfortable loneliness of routine shattering into the realization that her quiet job was never quiet."
+    },
+    {
+      "n": 2,
+      "title": "The Beacon That Listens",
+      "summary": "Lena's POV. Sable, the station AI, admits the beacon transmits nothing—it receives, from a ship that shouldn't exist. Lena finds a maintenance contract signed by E. Villalobos: her mother, who died believing Lena would take this post. Emotional beat: betrayal curdling into hunger for answers."
+    },
+    {
+      "n": 3,
+      "title": "Two Hundred Thousand Heartbeats",
+      "summary": "Alternating POV with the Halcyon's ship-mind. The colony ship's reactor is failing; its AI has been screaming at the beacon for eleven years. Lena realizes the nine-second flicker was the ship's distress finally breaking through. Emotional beat: awe giving way to dread—she is now the only human who can answer."
+    },
+    {
+      "n": 4,
+      "title": "Sable's Half-Truth",
+      "summary": "Lena's POV. Sable reveals the Solace Protocol: a triage routine that can save exactly half the sleepers, written by E. Villalobos herself, with the selection criteria encrypted. Lena accuses the AI of hiding it; Sable confesses it was ordered to wait for Lena. Emotional beat: fury at being groomed for an impossible choice."
+    },
+    {
+      "n": 5,
+      "title": "The Salvage Claim",
+      "summary": "New POV: Ivo Renk, corporate salvage captain, receives orders to seize the station and the protocol as intellectual property. His crew of six sees the sleepers as cargo and the rescue as leverage. Emotional beat: cold pragmatism established as the antagonist force, with a flicker of doubt Ivo suppresses."
+    },
+    {
+      "n": 6,
+      "title": "Mother's Cipher",
+      "summary": "Lena's POV, racing Renk's approach. She decrypts the selection criteria: her mother weighted survival toward the young, the unskilled, those with no corporate ties—a quiet rebellion encoded in arithmetic. Emotional beat: grief transforming into understanding, then a harder question—who is Lena to judge her mother's mercy?"
+    },
+    {
+      "n": 7,
+      "title": "Docking Clamps",
+      "summary": "Dual POV. Renk boards under pretense of inspection; Sable plays dumb while Lena hides in the beacon array. Renk finds the protocol, but discovers it's keyed to Villalobos biometrics. Emotional beat: cat-and-mouse tension, and Renk's first real hesitation when he sees the sleepers' faces on screen."
+    },
+    {
+      "n": 8,
+      "title": "The Price of Half",
+      "summary": "Lena's POV. Cornered, Lena offers Renk a deal: he gets the salvage claim on the derelict station if he lets the protocol run. But Sable calculates the transfer will burn out the beacon—killing any chance of a second rescue. Emotional beat: the theme crystallizes; every survival has a price someone else pays."
+    },
+    {
+      "n": 9,
+      "title": "What the Echo Keeps",
+      "summary": "Climax, all POVs converging. Lena triggers the protocol, giving up her own berth in the transfer window; Renk, choosing loyalty to his crew over his contract, shields the station from corporate retaliation. The beacon burns out as one hundred thousand pods begin to wake. Emotional beat: sacrifice made without certainty it matters."
+    },
+    {
+      "n": 10,
+      "title": "First Light on the Sleepers",
+      "summary": "Resolution, Lena's POV. Weeks later, waking colonists reach the station and find Lena alive—her mother's final cipher contained a contingency berth, the last inheritance: not guilt, but a place kept. Lena chooses to stay and teach the awakened the truth of what was done. Emotional beat: quiet, earned hope; loyalty and truth finally holding the same shape."
+    }
+  ]
+}

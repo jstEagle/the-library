@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00922",
+  "title": "A Veil for the Spire",
+  "author": "Yara Okonkwo",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Zephyrine Dravenmoor, the last oath-bound swordspeaker, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 922
+  }
+}

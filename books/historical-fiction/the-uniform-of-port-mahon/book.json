@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02855",
+  "title": "The Uniform of Port Mahon",
+  "author": "Yara Dravenmoor",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Ada Joubert, a typeface cutter's daughter in a print shop on the eve of a revolution, has spent twenty years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and he is pulled straight into the middle of it. To get through this, he must finish the work while the workshop still stands before the century turns.",
+  "themes": [
+    "found family",
+    "memory",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2855
+  }
+}

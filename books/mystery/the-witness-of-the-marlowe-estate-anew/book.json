@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05829",
+  "title": "The Witness of the Marlowe Estate Anew",
+  "author": "Oscar Iversen",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Edmund Vasquez, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, she discovers that staying invisible was never really an option. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5829
+  }
+}

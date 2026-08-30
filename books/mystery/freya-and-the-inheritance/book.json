@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05685",
+  "title": "Freya and the Inheritance",
+  "author": "Kestrel Ashgrove",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lena Coldharbour, an insurance investigator with a photographic memory, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. To get through this, he must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "memory",
+    "found family",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5685
+  }
+}

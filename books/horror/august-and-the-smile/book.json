@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03748",
+  "title": "August and the Smile",
+  "author": "Casper Almeida",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Freya Oyelaran, the new teacher at a school with a missing-class problem, documents everything, because documentation is a kind of prayer. But when the village's church bell rings although the bell was melted down in 1911, they discover that staying invisible was never really an option. To get through this, they must hold out until sunrise with the truth about what was invited in before the frost writes its final pattern.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3748
+  }
+}

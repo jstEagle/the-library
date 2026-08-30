@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05427",
+  "title": "Alibi and Confession",
+  "author": "Mirabel Okonkwo",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Lena Almeida, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5427
+  }
+}

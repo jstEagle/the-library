@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00436",
+  "title": "When the Current Falls",
+  "author": "Casper Amberdale",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Elodie Montrose, a mountain guide blacklisted from two countries, has spent twenty years measuring life in miles rather than years. Then an old rival hires the crew for the one job that was sworn off long ago — and he is pulled straight into the middle of it. To get through this, he must cross the range ahead of the snows before the monsoon makes landfall.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 436
+  }
+}

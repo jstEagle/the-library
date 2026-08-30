@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01323",
+  "title": "The Wild Garden",
+  "author": "Casper Galloway",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Paloma Vane, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1323
+  }
+}

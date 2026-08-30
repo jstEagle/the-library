@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07753",
+  "title": "A Vector for the Machine",
+  "author": "T. M. Vane",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Xanthe Villalobos, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. Now she must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7753
+  }
+}

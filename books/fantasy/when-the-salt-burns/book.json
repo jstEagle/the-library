@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01086",
+  "title": "When the Salt Burns",
+  "author": "Petra Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Wendell Nystrom, a royal food-taster building immunity one dish at a time, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1086
+  }
+}

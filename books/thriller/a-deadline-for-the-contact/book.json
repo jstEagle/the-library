@@ -1,0 +1,21 @@
+{
+  "id": "THR-08865",
+  "title": "A Deadline for the Contact",
+  "author": "Hazel Zhou",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Rafael Dunmore, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. To get through this, she must extract a defector who may be the bait before the border checkpoint shifts change.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8865
+  }
+}

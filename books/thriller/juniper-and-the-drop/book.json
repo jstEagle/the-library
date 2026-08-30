@@ -1,0 +1,21 @@
+{
+  "id": "THR-09101",
+  "title": "Juniper and the Drop",
+  "author": "Casper Vane",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Beatrix Halloran, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9101
+  }
+}

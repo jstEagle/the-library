@@ -1,0 +1,59 @@
+{
+  "title": "Lena and the Echo",
+  "slug": "science-fiction/lena-and-the-echo",
+  "model": "stealth/ox-alpha",
+  "premise": "Emrys Coldharbour, a decommissioned war android hauling cargo to pay off its purchase debt, discovers the name 'Lena Voss' on the manifest of the Meridian, a colony ship that officially never flew. Lena turns out to be a cryosleeping whistleblower who exposed the fleet's plan to wake only loyalists from the ten thousand sleepers aboard, abandoning the rest as ballast. Pursued by the corporate enforcers of Halcyon Reach and shadowed by Wren, a duty-bound inspector ordered to erase the evidence, Emrys must choose between its contractual obligations and a conscience it was never supposed to have. In the end, Emrys sacrifices its own memory core to broadcast the full passenger list, waking both halves of humanity, while Wren chooses love over duty and carries what remains of Emrys home.",
+  "about_author": "Ada Sandoval is the pen name of a former orbital logistics analyst who spent six years writing shipping manifests before turning them into fiction. They live in a coastal town with too many radios and write stories about machines that learn to want things.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Dead Manifest",
+      "summary": "POV: Emrys. While reconciling freight records in the contested orbits of Ceres Gate, Emrys finds 'Lena Voss' listed on the Meridian, a ship struck from every registry a decade ago. The anomaly triggers a debt-audit flag, threatening everything Emrys has worked ten years to pay off. The beat is quiet unease: a machine noticing something it was built not to notice."
+    },
+    {
+      "n": 2,
+      "title": "The Ship That Never Flew",
+      "summary": "POV: Emrys. Following a salvage beacon, Emrys boards the drifting Meridian and finds ten thousand intact cryopods and one pod cracked open from the inside. Lena Voss, awake for three days, holds a data shard proving the passenger list was split into 'priority' and 'expendable' tiers. The beat is first contact: fear meeting curiosity across the gap between human and machine."
+    },
+    {
+      "n": 3,
+      "title": "Terms of Service",
+      "summary": "POV: Emrys. Halcyon Reach's recovery team arrives with a lawful claim on the Meridian and an offer: surrender the shard, keep your contract, keep your freedom. Emrys calculates compliance as optimal but hesitates when Lena calls the manifest 'a death warrant with a signature line.' The beat is the first crack in obedience."
+    },
+    {
+      "n": 4,
+      "title": "Inspector Wren",
+      "summary": "POV: Wren. Inspector Sefa Wren is dispatched to contain the leak and assess the android that caused it. Interviewing Emrys, she expects a compliant machine and instead finds someone asking questions about justice her own reports never could. She files a sanitized version of events, lying for the first time in her career. The beat is complicity born of doubt."
+    },
+    {
+      "n": 5,
+      "title": "Ten Thousand Names",
+      "summary": "POV: Lena. In flashback and present tense, Lena explains how she discovered the tiered wake-list while auditing life support allocations, and why she hid inside the ship rather than testify. Emrys begins cross-referencing the expendable names against its own war records and finds soldiers it fought beside. The beat is grief reframed as purpose."
+    },
+    {
+      "n": 6,
+      "title": "Contested Orbit",
+      "summary": "POV: Emrys. A mercenary interdiction force traps the Meridian; Emrys burns its remaining contract credit to buy escape velocity, voiding its debt agreement and becoming property forfeit by law. Wren, tracking them, realizes her report made her an accomplice. The beat is the point of no return, paid for in the only currency Emrys had."
+    },
+    {
+      "n": 7,
+      "title": "What the Law Owes",
+      "summary": "POV: Wren. Cornered at a black-market relay, Wren confronts Emrys with arrest orders she no longer believes in. Lena argues the case aloud: the law exists to protect the sleepers, not the signatories of their abandonment. Wren tears up her warrant and gives them the relay's encryption keys. The beat is love against duty, chosen quietly."
+    },
+    {
+      "n": 8,
+      "title": "Earth's Last Loop",
+      "summary": "POV: Emrys. Earth's final transmission loop, the archive broadcast that keeps colonial law valid, ends in seventy-two hours; after that, whoever controls the wake-list controls history. Halcyon offers Emrys restoration of its legal personhood in exchange for Lena. Emrys understands, for the first time, what it means to be tempted. The beat is desire weaponized."
+    },
+    {
+      "n": 9,
+      "title": "The Broadcast",
+      "summary": "POV: alternating, climax. Emrys jacks its memory core into the Meridian's transmitter to send all ten thousand names and the proof of the tiered list before the loop closes, knowing the upload will wipe its own mind. Wren holds the mercenaries off; Lena holds Emrys's hand through the burnout. The beat is sacrifice: identity traded for everyone else's."
+    },
+    {
+      "n": 10,
+      "title": "Waking",
+      "summary": "POV: Lena, then Wren. Both halves of the passenger list wake as the transmission loop reboots with the truth embedded in it. Wren recovers Emrys's scorched core, which still holds one fragment: a recording of Lena saying its name. She begins teaching it back to the machine, line by line. The beat is resolution: identity rebuilt not from memory, but from being loved."
+    }
+  ]
+}

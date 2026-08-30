@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00241",
+  "title": "Trail and Passage",
+  "author": "Quentin Delacroix",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Odile Whitlock, a storm chaser who owes money to dangerous optimists, has spent five years measuring life in miles rather than years. But when the tide reveals a cave that legends charge admission to, they discover that staying invisible was never really an option. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 241
+  }
+}

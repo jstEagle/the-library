@@ -1,0 +1,21 @@
+{
+  "id": "THR-09241",
+  "title": "Theo and the Debt",
+  "author": "Tamsin Joubert",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Xanthe Vasquez, a crash investigator whose family died in row twelve, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. To get through this, they must extract a defector who may be the bait before the border checkpoint shifts change.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9241
+  }
+}

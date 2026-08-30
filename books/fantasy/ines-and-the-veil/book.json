@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01245",
+  "title": "Ines and the Veil",
+  "author": "Emrys Blackwood",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ulyana Delacroix, the last oath-bound swordspeaker, has spent seven years selling small charms in a city that outlawed magic. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1245
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04850",
+  "title": "The Cipher of the Fens",
+  "author": "Gideon Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Coral Sandoval, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4850
+  }
+}

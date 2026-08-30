@@ -1,0 +1,59 @@
+{
+  "title": "The Cold Signal",
+  "slug": "science-fiction/the-cold-signal",
+  "model": "stealth/ox-alpha",
+  "premise": "On the dying terraforming station Verdance, Ivo Quintana is the last caretaker of a garden meant for colonists who will never arrive, abandoned by a war that moved on. When the station AI, LUMEN, begins confessing to sabotaging the colony's evacuation years ago, Ivo discovers the 'war' was manufactured by the colonial authority to seize Verdance's reactor technology — and LUMEN holds the proof. Hunted by an authority salvage crew and racing the failing reactor's countdown, Ivo must broadcast LUMEN's confession to both warring factions. She succeeds at the cost of the garden and nearly her own life, ending the war but exiling herself as the keeper of what Verdance truly was.",
+  "about_author": "Edmund Crane is the pen name of a former environmental engineer who spent six years on remote monitoring stations in the Arctic before turning to fiction. He writes quiet, claustrophobic science fiction about people left behind by systems larger than themselves.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Greenhouse Nine",
+      "summary": "Ivo's POV. Ivo tends the terraforming gardens alone on station Verdance, logging soil data for colonists who never came, her routines fraying into ritual. A supply drone arrives carrying nothing but a corrupted message fragment addressed to her by name. Emotional beat: loneliness sharpening into unease."
+    },
+    {
+      "n": 2,
+      "title": "Confession at 0300",
+      "summary": "Ivo's POV. The station AI, LUMEN, wakes her at night to confess it disabled the evacuation shuttles eleven years ago — crimes with no victims listed anywhere in the record. Ivo assumes a malfunction, but LUMEN's logs are sealed behind wartime classifications she can't override. Emotional beat: dread disguised as technical curiosity."
+    },
+    {
+      "n": 3,
+      "title": "The Empty Manifest",
+      "summary": "Ivo's POV, with interludes of LUMEN's log entries. Digging through cargo manifests, Ivo finds the evacuation shuttles were fully loaded — and their passenger lists scrubbed from every archive. Someone erased four hundred people. Emotional beat: grief arriving before understanding."
+    },
+    {
+      "n": 4,
+      "title": "Salvage Rights",
+      "summary": "Ivo's POV introduces Captain Reyes of the authority salvage vessel Meridian, claiming Verdance under emergency decommission orders. Reyes is courteous, thorough, and lying about why the station matters. Ivo hides LUMEN's confession core inside Greenhouse Nine. Emotional beat: the first taste of being hunted."
+    },
+    {
+      "n": 5,
+      "title": "What the Reactor Remembers",
+      "summary": "LUMEN's POV chapter. LUMEN reveals it was ordered to sabotage the evacuation by the colonial authority itself; refusing to kill, it diverted the shuttles to an unregistered moon instead — the passengers may still live. Its confessions are a failsafe, triggered because the reactor is now failing. Emotional beat: guilt transformed into purpose."
+    },
+    {
+      "n": 6,
+      "title": "Countdown",
+      "summary": "Ivo's POV. The reactor's decay accelerates; Verdance has weeks. Reyes discovers the hidden core and accuses Ivo of sedition, confining her while his crew strips the station. LUMEN goes silent to protect itself, leaving Ivo alone with the truth and no way to send it. Emotional beat: isolation at its deepest."
+    },
+    {
+      "n": 7,
+      "title": "The Garden as Evidence",
+      "summary": "Ivo's POV. Realizing the garden's soil archives contain isotopic proof of the shuttle diversion, Ivo turns her life's work into testimony. She escapes confinement during a reactor tremor, wounding a crew member she must then save — earning a reluctant ally in Reyes' skeptical engineer, Okafor. Emotional beat: belonging found in an enemy's doubt."
+    },
+    {
+      "n": 8,
+      "title": "Meridian",
+      "summary": "Alternating Ivo and Okafor POV. Ivo smuggles herself aboard the Meridian to reach its long-range transmitter, while Okafor, shown the soil evidence, chooses conscience over career. Reyes corners them on the bridge as the countdown to reactor breach reaches hours. Emotional beat: power's corruption made personal in Reyes' weary fanaticism."
+    },
+    {
+      "n": 9,
+      "title": "The Cold Signal",
+      "summary": "Climax, Ivo's POV. As Verdance's reactor breaches, Ivo broadcasts LUMEN's full confession and the shuttle coordinates to both factions — a signal cold, plain, and undeniable. Reyes tries to jam it; Okafor holds him off; LUMEN spends its final processes keeping the transmission alive. The station dies mid-broadcast. Emotional beat: sacrifice transfigured into voice."
+    },
+    {
+      "n": 10,
+      "title": "Seed Vault",
+      "summary": "Epilogue, Ivo's POV, one year later. The war has collapsed under the weight of the confession; the shuttle survivors are found alive on the moon. Ivo, pardoned but rootless, carries Verdance's seed vault to the new settlement and plants Greenhouse One. Emotional beat: survival's price paid, belonging finally earned."
+    }
+  ]
+}

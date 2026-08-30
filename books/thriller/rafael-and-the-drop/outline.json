@@ -1,0 +1,119 @@
+{
+  "title": "Rafael and the Drop",
+  "slug": "thriller/rafael-and-the-drop",
+  "model": "stealth/ox-alpha",
+  "premise": "Sebastian Joubert, a financial-crimes investigator who launders reputations rather than money, is handed a routine file on a private charter that never officially existed. As he traces the vanished flight's paper trail, he discovers the disappearance was deliberate: the plane is carrying a stolen inheritance ledger whose exposure would trigger a coordinated attack disguised as an industrial accident at dawn. Racing a dawn extraction flight and his own fractured memories of the man who trained him, Sebastian must choose between protecting his found family of misfit analysts and letting the record burn. He stops the attack by making the invisible flight visible again — broadcasting its manifest to the world — but loses his mentor's legacy to do it.",
+  "about_author": "A. M. Sandoval spent a decade auditing shipping manifests in port cities before turning to fiction full-time. They write from a houseboat office where every draft begins as a handwritten ledger entry.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Clean Money",
+      "summary": "Sebastian's POV. He scrubs a disgraced hedge fund manager's history for a client who pays in silence, establishing his cynical craft and isolation. The emotional beat: quiet self-contempt masked as professionalism."
+    },
+    {
+      "n": 2,
+      "title": "The File Nobody Signed",
+      "summary": "Sebastian's POV. A courier delivers a case file on charter flight VX-114 with no client name attached. Every document is authentic except the flight itself, which no database admits existed. Beat: unease sharpening into obsession."
+    },
+    {
+      "n": 3,
+      "title": "Ghost Altitude",
+      "summary": "Alternating POV with air-traffic archivist Priya Nair, who confirms the transponder pinged for six hours then evaporated. Sebastian realizes someone erased it mid-flight. Beat: the thrill of a puzzle that shouldn't exist."
+    },
+    {
+      "n": 4,
+      "title": "Inheritance Ledger",
+      "summary": "Priya's POV. She decodes the cargo manifest: not passengers but a digitized ledger of forty years of laundered inheritances, including one bearing Sebastian's late mentor's name. Beat: personal stakes detonate inside professional curiosity."
+    },
+    {
+      "n": 5,
+      "title": "The Man Who Taught Me to Disappear",
+      "summary": "Sebastian's POV, flashback-laced. He revisits his mentor Aurelio's old safehouse and finds it recently occupied — coffee still warm. Beat: grief colliding with the suspicion that Aurelio may be alive."
+    },
+    {
+      "n": 6,
+      "title": "Found Family, Fractured",
+      "summary": "Ensemble POV. Sebastian reluctantly briefs his off-books team: Priya, ex-forensic accountant Dov, and teenage hacker Wren. Old resentments surface; they agree anyway. Beat: reluctant trust rekindled."
+    },
+    {
+      "n": 7,
+      "title": "Paper Burns Upward",
+      "summary": "Dov's POV. Following the ledger's money, the team finds a shell company buying up safety-inspection failures around the Meridian chemical terminal. Beat: dread as pattern becomes plot."
+    },
+    {
+      "n": 8,
+      "title": "Scheduled Accident",
+      "summary": "Wren's POV. She cracks encrypted scheduling files: a 'maintenance event' at Meridian timed for dawn, designed to destroy the ledger's physical backup and hundreds of lives with it. Beat: horror at how tidy evil looks on a calendar."
+    },
+    {
+      "n": 9,
+      "title": "Nobody Wants This Attributed",
+      "summary": "Sebastian's POV. His anonymous client resurfaces, ordering him to stand down — the attack is sanctioned cleanup. Refusal means becoming unpersoned. Beat: defiance born of exhaustion."
+    },
+    {
+      "n": 10,
+      "title": "Six Hours Missing",
+      "summary": "Priya's POV. Reconstructing the vanished flight, she finds it landed at a decommissioned airstrip — and one passenger deplaned alive. Beat: hope with teeth."
+    },
+    {
+      "n": 11,
+      "title": "The Passenger",
+      "summary": "Sebastian's POV. He confronts the survivor: Aurelio's former partner Ilsa, who reveals Aurelio stole the ledger to force its exposure and died getting it airborne. Beat: mourning reframed as inheritance."
+    },
+    {
+      "n": 12,
+      "title": "What We Keep of People",
+      "summary": "Quiet interlude, ensemble POV. The team debates walking away; each shares why they stayed with Sebastian. Beat: found family solidifying into resolve."
+    },
+    {
+      "n": 13,
+      "title": "Counterfeit Dawn",
+      "summary": "Dov's POV. The team maps the attack's fail-safes and finds the extraction flight — the real one — leaves at dawn with the attackers aboard. Stopping the blast means catching the plane. Beat: clock starts ticking audibly."
+    },
+    {
+      "n": 14,
+      "title": "Unpersoned",
+      "summary": "Sebastian's POV. His credentials, accounts, and identity are systematically deleted — the client's answer to his refusal. Beat: terror and liberation in becoming a ghost himself."
+    },
+    {
+      "n": 15,
+      "title": "Ledger of Small Debts",
+      "summary": "Wren's POV. To move unseen, the team uses Aurelio's old tradecraft, which Sebastian half-remembers and Wren reconstructs from fragments. Beat: the dead mentor teaching through them."
+    },
+    {
+      "n": 16,
+      "title": "Meridian Gate",
+      "summary": "Action chapter, alternating POVs. Infiltrating the terminal hours before the 'accident,' they find the sabotage already armed and guarded. Beat: fear transmuted into focus."
+    },
+    {
+      "n": 17,
+      "title": "The Arithmetic of Lives",
+      "summary": "Sebastian's POV. Disarming requires exposing the ledger publicly — burning every innocent named in it along with the guilty. Beat: the cost of truth weighed in real names."
+    },
+    {
+      "n": 18,
+      "title": "Broadcast",
+      "summary": "Climax part one, Priya's POV. They hijack the terminal's emergency system to transmit the manifest and the sabotage evidence to every screen in the region. Beat: exhilaration curdling as guards converge."
+    },
+    {
+      "n": 19,
+      "title": "Dawn Extraction",
+      "summary": "Climax part two, Sebastian's POV. He races the extraction jet on the runway, forces it down with the airfield's own fire systems, and faces the client — who turns out to be the heir whose inheritance the ledger exposes. Beat: fury and clarity."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath of Light",
+      "summary": "Ensemble POV. The attack fails; investigations bloom; the team scatters into official custody and anonymity. Sebastian watches the sunrise over Meridian, unharmed and unemployed. Beat: hollow relief."
+    },
+    {
+      "n": 21,
+      "title": "Everything Aurelio Left Me",
+      "summary": "Sebastian's POV. Sorting Aurelio's effects, he finds a letter naming him heir — not to money, but to the obligation of memory: keep true records. Beat: grief resolving into purpose."
+    },
+    {
+      "n": 22,
+      "title": "Rafael and the Drop",
+      "summary": "Final chapter, Sebastian's POV. Months later, running a tiny records-integrity nonprofit with Priya, Dov, and Wren, he takes a new case: a single dropped document about a boy named Rafael. Beat: quiet hope — the work continues."
+    }
+  ]
+}

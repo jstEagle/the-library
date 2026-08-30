@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03099",
+  "title": "A Typewriter for the Uniform",
+  "author": "S. M. Marchetti",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Oscar Thornbury, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent ten years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. Now they must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3099
+  }
+}

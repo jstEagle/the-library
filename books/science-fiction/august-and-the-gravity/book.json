@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07256",
+  "title": "August and the Gravity",
+  "author": "Rosalind Fairweather",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Felix Crane, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. Then an unfamiliar name shows up on the manifest of a ship that never flew — and she is pulled straight into the middle of it. To get through this, she must keep a lie alive that holds two fleets apart before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7256
+  }
+}

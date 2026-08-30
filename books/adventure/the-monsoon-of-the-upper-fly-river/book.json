@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00439",
+  "title": "The Monsoon of the Upper Fly River",
+  "author": "Ines Vasquez",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Astrid Yarrow, a desert ranger tracking a thief across nothing, carries a compass, a debt, and very little else. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. Now they must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 439
+  }
+}

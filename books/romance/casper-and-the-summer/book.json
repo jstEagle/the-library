@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06444",
+  "title": "Casper and the Summer",
+  "author": "Orsen Vane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Edmund Galloway, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6444
+  }
+}

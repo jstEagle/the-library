@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07347",
+  "title": "A Gravity for the Horizon",
+  "author": "Mara Lockridge",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Sebastian Nakamura, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. To get through this, she must keep a lie alive that holds two fleets apart before the jump window closes.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7347
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06402",
+  "title": "Kitchen and Postcard",
+  "author": "Rafael Eastwick",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Marguerite Crane, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "found family",
+    "identity",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6402
+  }
+}

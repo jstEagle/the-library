@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06041",
+  "title": "The Songbook of the Crescent Cove",
+  "author": "O. M. Sandoval",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Wren Voss, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. But when the person behind a decade of letters moves in next door, they discover that staying invisible was never really an option. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6041
+  }
+}

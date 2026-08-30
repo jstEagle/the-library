@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06284",
+  "title": "The Letters of Port Alder",
+  "author": "Quentin Ravensworth",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Edmund Sterling, a single parent running the town's only bookshop, has spent twelve years rebuilding a life measured in small safe steps. But when a lost letter surfaces, postmarked eleven years ago, she discovers that staying invisible was never really an option. Now she must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6284
+  }
+}

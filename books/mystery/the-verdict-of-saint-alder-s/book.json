@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05036",
+  "title": "The Verdict of Saint Alder's",
+  "author": "Ivo Pemberton",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Vesper Dunmore, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5036
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08788",
+  "title": "A Safehouse for the Ghost",
+  "author": "Ines Sterling",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Mirabel Galloway, a crash investigator whose family died in row twelve, works cases no one wants attributed. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8788
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03129",
+  "title": "Clock and Harbor",
+  "author": "Ulyana Nystrom",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Theo Nystrom, a typeface cutter's daughter in a print shop on the eve of a revolution, has spent five years learning which silences keep people safe. But when a child is left at the door with instructions to forget the face, he discovers that staying invisible was never really an option. To get through this, he must finish the work while the workshop still stands before the armistice is signed — or isn't.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3129
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07763",
+  "title": "Wendell and the Archive",
+  "author": "Beatrix Okonkwo",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Ada Nakamura, a starship navigator haunted by the backups sleeping in the hold, runs the long route between worlds that no longer speak. But when a ship returns from deep space with everyone aboard aged backward, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7763
+  }
+}

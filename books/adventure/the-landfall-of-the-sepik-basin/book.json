@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00235",
+  "title": "The Landfall of the Sepik Basin",
+  "author": "Noor Oyelaran",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Dominic Montrose, a railroad engineer with a map of closed lines, knows the wilderness forgives nothing and forgets less. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 235
+  }
+}

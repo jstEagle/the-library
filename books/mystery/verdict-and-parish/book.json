@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05215",
+  "title": "Verdict and Parish",
+  "author": "O. M. Lockridge",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Felix Kavanagh, an estate lawyer reading a will that shouldn't exist, has spent fifteen years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5215
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08608",
+  "title": "When the Contact Burns",
+  "author": "Cyrus Ravensworth",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Juniper Ravensworth, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. Then a voiceprint unlocks a server on another continent — and he is pulled straight into the middle of it. To get through this, he must extract a defector who may be the bait before the markets open in Frankfurt.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8608
+  }
+}

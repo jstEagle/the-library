@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01752",
+  "title": "Ulyana and the Oath",
+  "author": "Orsen Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Edmund Galloway, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1752
+  }
+}

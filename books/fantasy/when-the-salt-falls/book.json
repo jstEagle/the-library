@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00756",
+  "title": "When the Salt Falls",
+  "author": "Xanthe Ishikawa",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Zephyrine Vasquez, the youngest member of a dying guild, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 756
+  }
+}

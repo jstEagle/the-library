@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06733",
+  "title": "Rosalind and the Postcard",
+  "author": "T. M. Halloran",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Freya Ishikawa, a wedding planner who doesn't believe in weddings anymore, has spent seven years rebuilding a life measured in small safe steps. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. To get through this, he must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "belonging",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6733
+  }
+}

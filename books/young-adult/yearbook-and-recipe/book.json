@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09653",
+  "title": "Yearbook and Recipe",
+  "author": "Jonah Thornbury",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Rosalind Sterling, a coder whose anonymous account knows too much, stays under the radar: head down, grades up, locker shut. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and he is pulled straight into the middle of it. To get through this, he must expose what the school board buried before the last game of the season.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9653
+  }
+}

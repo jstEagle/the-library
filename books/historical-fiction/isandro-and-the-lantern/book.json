@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03029",
+  "title": "Isandro and the Lantern",
+  "author": "Wendell Montrose",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Rosalind Amberdale, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. But when a child is left at the door with instructions to forget the face, he discovers that staying invisible was never really an option. To get through this, he must choose which family member gets the last berth before the ice breaks on the river.",
+  "themes": [
+    "belonging",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3029
+  }
+}

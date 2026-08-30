@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08095",
+  "title": "The Signal of Sector Nine Revisited",
+  "author": "Kestrel Marchetti",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Jude Marchetti, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. To get through this, he must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8095
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06654",
+  "title": "Summer and Bakery",
+  "author": "Xanthe Kavanagh",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "August Ashgrove, a pastry chef whose café is three missed payments from gone, has spent fifteen years rebuilding a life measured in small safe steps. But when a snowstorm strands two rivals with the best mistake of their twenties, they discover that staying invisible was never really an option. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6654
+  }
+}

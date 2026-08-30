@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02786",
+  "title": "Edmund and the Harbor",
+  "author": "Lior Underhill",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Sable Underhill, a widowed lighthouse keeper during the year of the great storms, believes history happens to other people, elsewhere. But when a child is left at the door with instructions to forget the face, he discovers that staying invisible was never really an option. To get through this, he must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2786
+  }
+}

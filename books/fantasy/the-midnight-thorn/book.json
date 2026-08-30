@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00966",
+  "title": "The Midnight Thorn",
+  "author": "Rafael Oyelaran",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ivo Kavanagh, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. To get through this, he must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 966
+  }
+}

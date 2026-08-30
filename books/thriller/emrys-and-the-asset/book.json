@@ -1,0 +1,21 @@
+{
+  "id": "THR-09231",
+  "title": "Emrys and the Asset",
+  "author": "Zephyrine Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Emrys Voss, a whistle-blower living under four names, hasn't slept through the night since the incident. Then a voiceprint unlocks a server on another continent — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9231
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07613",
+  "title": "Signal and Orbit",
+  "author": "Ada Pemberton",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Marguerite Sandoval, a xenolinguist who can no longer dream in human languages, maintains the beacon nobody remembers commissioning. Then gravity flickers across the entire system for exactly nine seconds — and she is pulled straight into the middle of it. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7613
+  }
+}

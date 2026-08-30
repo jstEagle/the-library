@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03448",
+  "title": "The Wrong Hymn",
+  "author": "E. M. Okafor",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Rafael Winterbourne, a twin who came home to bury the wrong sibling, documents everything, because documentation is a kind of prayer. Then every mirror in the house starts reflecting the room one second late — and he is pulled straight into the middle of it. Now he must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3448
+  }
+}

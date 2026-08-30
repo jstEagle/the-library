@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05633",
+  "title": "Theo and the Alibi",
+  "author": "Odile Amberdale",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Paloma Lockridge, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. To get through this, they must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5633
+  }
+}

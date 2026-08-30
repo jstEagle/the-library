@@ -1,0 +1,21 @@
+{
+  "id": "THR-09097",
+  "title": "Petra and the Deadline",
+  "author": "Tamsin Underhill",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Kestrel Vasquez, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. To get through this, they must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "found family",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9097
+  }
+}

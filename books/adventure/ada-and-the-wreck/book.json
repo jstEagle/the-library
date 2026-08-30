@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00174",
+  "title": "Ada and the Wreck",
+  "author": "M. M. Pemberton",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Lior Oyelaran, a riverboat captain who knows every sandbar's mood, has spent ten years measuring life in miles rather than years. But when an expedition upriver stops answering the radio, they discover that staying invisible was never really an option. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 174
+  }
+}

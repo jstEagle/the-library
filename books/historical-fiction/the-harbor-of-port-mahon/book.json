@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02816",
+  "title": "The Harbor of Port Mahon",
+  "author": "Felix Joubert",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Tamsin Crane, an apprentice clockmaker summoned to repair the observatory's master clock, measures the world in what can be carried when the orders come. But when the army requisitions the town and the ledger with all the names, they discover that staying invisible was never really an option. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2816
+  }
+}

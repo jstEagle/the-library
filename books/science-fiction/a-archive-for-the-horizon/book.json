@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07261",
+  "title": "A Archive for the Horizon",
+  "author": "Zephyrine Sandoval",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Juniper Zhou, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. To get through this, he must reach the relay at the edge of dead space, racing the signal before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7261
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05516",
+  "title": "Juniper and the Witness",
+  "author": "Lior Marchetti",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Theo Zhou, a hotel concierge who notices everything, has spent twenty years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5516
+  }
+}

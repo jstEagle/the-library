@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07095",
+  "title": "The Gravity of Sector Nine",
+  "author": "Felix Crane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Tamsin Villalobos, a terraformer tending a garden meant for people not yet born, has spent fifteen years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. To get through this, they must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7095
+  }
+}

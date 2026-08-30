@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05651",
+  "title": "When the Ledger Burns Anew",
+  "author": "Emrys Eastwick",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Rafael Sterling, an estate lawyer reading a will that shouldn't exist, has spent twelve years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the statute expires.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5651
+  }
+}

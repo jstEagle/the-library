@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03600",
+  "title": "Smile and Choir",
+  "author": "Lior Delacroix",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Wren Lockridge, a hospice nurse who hears the dying count backwards, keeps the lights on and the doors counted. But when every mirror in the house starts reflecting the room one second late, she discovers that staying invisible was never really an option. Now she must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3600
+  }
+}

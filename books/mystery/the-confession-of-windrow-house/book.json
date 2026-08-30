@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04996",
+  "title": "The Confession of Windrow House",
+  "author": "August Ravensworth",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Sable Brightwater, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. To get through this, they must decode a ledger hidden in plain sight before the trial begins.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4996
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03985",
+  "title": "Rafael and the Harvest",
+  "author": "Felix Okonkwo",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Yara Voss, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. Then all the photographs from grandma's house now include an extra chair — and she is pulled straight into the middle of it. To get through this, she must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3985
+  }
+}

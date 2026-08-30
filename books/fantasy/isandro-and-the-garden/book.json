@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02078",
+  "title": "Isandro and the Garden",
+  "author": "S. M. Joubert",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Wendell Thornbury, the youngest member of a dying guild, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2078
+  }
+}

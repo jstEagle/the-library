@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06730",
+  "title": "Bram and the Promise",
+  "author": "Lior Okonkwo",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Dominic Oyelaran, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6730
+  }
+}

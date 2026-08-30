@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06910",
+  "title": "Lior and the Bakery",
+  "author": "Silas Thornbury",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Astrid Dravenmoor, a single parent running the town's only bookshop, has spent three years rebuilding a life measured in small safe steps. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6910
+  }
+}

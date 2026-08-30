@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03729",
+  "title": "The Quiet Cellar",
+  "author": "O. M. Joubert",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ansel Dravenmoor, a hospice nurse who hears the dying count backwards, doesn't believe, has never believed, will not begin believing now. Then the sleep recordings capture a second voice answering questions — and he is pulled straight into the middle of it. To get through this, he must finish the ritual the founders started before the last resident signs the papers.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3729
+  }
+}

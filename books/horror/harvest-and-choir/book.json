@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03796",
+  "title": "Harvest and Choir",
+  "author": "Zephyrine Eastwick",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Ada Whitlock, a pest controller called to something with fingerprints, keeps the lights on and the doors counted. Then all the photographs from grandma's house now include an extra chair — and they are pulled straight into the middle of it. Now they must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3796
+  }
+}

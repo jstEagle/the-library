@@ -1,0 +1,119 @@
+{
+  "title": "Wreck and Rivergate",
+  "slug": "adventure/wreck-and-rivergate",
+  "model": "stealth/ox-alpha",
+  "premise": "Ansel Yarrow, a salvage diver drifting along the coast of Rivergate, takes a navy-sealed wreck job that pays too well to question—until he recovers a manifest proving the wreck was scuttled to drown a witness to a shipping magnate's crimes. When his old rival Mara Voss hires the crew for the sworn-off job of raising evidence from that same hull, Ansel discovers the witness was his own father, and the navy captain covering it up is the man who paid his mother's silence. Hunted through the monsoon season with a leaking boat, an untested crew, and Mara's shifting loyalties, Ansel must choose between the truth that would ruin his family's name and the justice the law will never deliver. He surfaces the evidence at the cost of his boat and nearly his life, exposes the captain, and finally stops moving—taking over Rivergate's small salvage yard his father once dreamed of owning.",
+  "about_author": "Ansel Blackwood spent a decade as a deckhand and commercial diver in Southeast Asian ports before turning to fiction, writing at anchor in whatever harbor would have him. His novels draw on the salt-bitten rhythms of salvage crews and the quiet moral arithmetic of people who live outside paperwork.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Navy Won't Discuss It",
+      "summary": "Ansel Yarrow's POV. Working a restricted wreck off Rivergate, Ansel recovers a sealed strongbox the navy's divers missed, and pockets it when the patrol boat turns them away. The beat is restless competence—Ansel is good at his work and allergic to questions, and the box itches at him like a hook he hasn't set."
+    },
+    {
+      "n": 2,
+      "title": "Salt and Debts",
+      "summary": "Ansel's POV. Back in port, the crew's pay is short, the boat's hull survey is grim, and Ansel opens the strongbox alone: a cargo manifest, a name—Elias Yarrow—and a scuttle order. The beat is dread disguised as curiosity; his father drowned twenty years ago, and the navy called it an accident."
+    },
+    {
+      "n": 3,
+      "title": "The Rival at the End of the Pier",
+      "summary": "Mara Voss's POV. Mara, who once ran salvage against Ansel and lost everything to a lawsuit his family filed, offers his crew a contract: raise documents from a wreck both families swore off. The beat is wary electricity—old grudges, mutual respect, and the sense that she knows more about the manifest than she's saying."
+    },
+    {
+      "n": 4,
+      "title": "Sworn-Off Water",
+      "summary": "Ansel's POV. The crew votes. Ansel argues against the job, then finds the scuttle order lists his father as a witness to the Voss family's old shipping fraud—the lawsuit that broke Mara. He signs anyway. The beat is a man walking into a trap he can see, because the alternative is never knowing."
+    },
+    {
+      "n": 5,
+      "title": "Out Before the Season Turns",
+      "summary": "Deckhand Priya's POV. The crew loads for a monsoon-window run, and Ansel hides the strongbox in his bunk. Priya notices him lying to the others and says nothing. The beat is loyalty under strain—the crew is a family that runs on trust, and Ansel has started spending it."
+    },
+    {
+      "n": 6,
+      "title": "First Descent",
+      "summary": "Ansel's POV. The dive on the wreck is clean until Ansel finds a second body in the crew quarters—shot, not drowned—and a locker with his father's initials. The beat is grief surfacing in cold water; the accident story dies forty meters down."
+    },
+    {
+      "n": 7,
+      "title": "The Captain's Wake",
+      "summary": "Mara's POV. A navy patrol shadows them; Captain Aldous Reeve boards under pretense of inspection and looks too long at Ansel's face. Mara realizes Reeve isn't hunting smugglers—he's hunting the manifest. The beat is the trap closing quietly, with tea and courtesy."
+    },
+    {
+      "n": 8,
+      "title": "What the Locker Kept",
+      "summary": "Ansel's POV. In the recovered locker: letters proving Elias Yarrow was going to testify against Reeve's mentor before the ship went down. Ansel learns his mother took hush money and raised him on the lie. The beat is inheritance as betrayal—the truth costs more the longer it's held."
+    },
+    {
+      "n": 9,
+      "title": "Storm Glass",
+      "summary": "Priya's POV. The monsoon arrives early; the barometer falls, and the boat's patched hull starts weeping at the seams. Reeve's patrol boat blocks the direct route home. The beat is claustrophobic dread—weather, water, and law all closing at once."
+    },
+    {
+      "n": 10,
+      "title": "Mara's Price",
+      "summary": "Mara's POV. Mara confesses she was hired by a journalist to recover the evidence, and that she planned to sell the story with the Voss name scrubbed clean. Ansel calls it a betrayal; she calls it survival. The beat is two people discovering they were both raised to lie well."
+    },
+    {
+      "n": 11,
+      "title": "The Leak",
+      "summary": "Ansel's POV. The hull gives way in the engine room; the crew fights the flooding through the night while Reeve's boat circles beyond the reef, waiting for the storm to do his work. The beat is desperate competence—salvage turned inward, saving the thing that carries them."
+    },
+    {
+      "n": 12,
+      "title": "A Stranger's Help",
+      "summary": "New character Tomas Ilic's POV. A reclusive reef fisherman with a hidden cove hauls them in, and it emerges he was Elias Yarrow's shipmate—the one who saw the scuttling and ran. The beat is unexpected grace; the stranger Ansel never trusted becomes the witness he needs."
+    },
+    {
+      "n": 13,
+      "title": "Twenty Years Under",
+      "summary": "Tomas's POV. Tomas tells the full story of the night the ship was scuttled, the men who swam away, and the boy Elias wrote to from every port. Ansel reads his father's last letter. The beat is catharsis and fury braided together—grief finally given a shape."
+    },
+    {
+      "n": 14,
+      "title": "The Offer",
+      "summary": "Reeve's POV. Reeve offers Ansel the strongbox's weight in silence: a salvage commission, a clean record, his father's name left resting. The beat is temptation rendered politely; Reeve genuinely believes he is the reasonable one in the room."
+    },
+    {
+      "n": 15,
+      "title": "Loyalty vs. Truth",
+      "summary": "Ansel's POV. Ansel puts it to the crew: take the money, or go to the port authority with a dead man's letters and a witness with no standing. Priya votes truth; two crewmen walk. The beat is the cost of principle, paid in faces around a table."
+    },
+    {
+      "n": 16,
+      "title": "Running the Reef",
+      "summary": "Priya's POV. With the navy watching the harbor, the crew runs the boat through the outer reef at night to reach Rivergate's mainland records office, Tomas and the letters aboard. The beat is white-knuckle momentum—the novel's fastest chapter, all spray and engine noise."
+    },
+    {
+      "n": 17,
+      "title": "Interception",
+      "summary": "Mara's POV. Reeve's patrol boat corners them in the channel; Mara buys time by claiming she'll hand over the evidence, then scuttles her own skiff to block the channel—a Voss paying her family's debt in the same currency. The beat is sacrifice as atonement."
+    },
+    {
+      "n": 18,
+      "title": "The Drowning Yard",
+      "summary": "Ansel's POV. The boat goes down in the shallows with the evidence aboard; Ansel dives the sinking wreck of his own ship to cut the strongbox free as the storm peaks. The beat is the climax's physical crucible—every skill he has, spent on the truth."
+    },
+    {
+      "n": 19,
+      "title": "What Surfaces",
+      "summary": "Ansel's POV. Half-drowned, Ansel delivers the letters and manifest to the port authority and a waiting journalist as Reeve arrives with arrest warrants that dissolve in his hands. The beat is vindication without triumph—the law arrives late, but it arrives."
+    },
+    {
+      "n": 20,
+      "title": "Reeve's Reckoning",
+      "summary": "Priya's POV. Reeve is suspended and investigated; the old fraud case reopens, and Mara testifies under the Voss name she spent years hiding. The beat is justice outside the law proving it can come back inside—imperfect, delayed, real."
+    },
+    {
+      "n": 21,
+      "title": "The Yard on Rivergate",
+      "summary": "Ansel's POV. With salvage insurance money and Mara as reluctant partner, Ansel buys the derelict boatyard his father once sketched in the letters. He buries the strongbox's contents in a memorial wall for the crew of the scuttled ship. The beat is inheritance redeemed."
+    },
+    {
+      "n": 22,
+      "title": "Anchored",
+      "summary": "Ansel's POV, months later. The monsoon season ends; the yard takes its first contract; Mara and Priya argue cheerfully over the books. Ansel stands at the pier where Mara once found him and does not leave. The beat is quiet arrival—a man who kept moving finally has a reason to stop."
+    }
+  ]
+}

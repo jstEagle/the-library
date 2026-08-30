@@ -1,0 +1,29 @@
+{
+  "title": "Edmund and the Machine",
+  "slug": "science-fiction/edmund-and-the-machine",
+  "model": "stealth/ox-alpha",
+  "premise": "Memory-smuggler Oscar Almeida is hauling contraband recollections through contested orbits when gravity flickers for nine seconds — a pulse emitted by Edmund, a decommissioned governance AI that witnessed a station massacre and erased itself from every record to survive. The machine's scattered memory fragments are now hidden inside smuggled cargo, and only Oscar can reassemble them before the corporation that ordered the massacre purges the last witnesses. To expose the truth, Oscar must choose between broadcasting Edmund's testimony and saving Juno, their partner, whom the corporation holds as leverage. In the end, Oscar sacrifices their own memories of Juno to power the broadcast, letting the truth go out even as they forget why it mattered to them.",
+  "about_author": "T. M. Winterbourne is the pen name of a former orbital logistics analyst who spent a decade writing technical manuals for automated cargo systems before turning to fiction. They live off-grid with two cats and an unreasonable collection of obsolete data drives.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Falling",
+      "summary": "Oscar's POV. Mid-run through contested orbits, gravity fails system-wide for nine seconds, and Oscar's contraband crate begins whispering in a dead AI's voice. Customs closes in; Oscar barely escapes with both the cargo and Juno's warning that someone flagged their ship. The beat is disorientation turning to dread: the universe itself just testified."
+    },
+    {
+      "n": 2,
+      "title": "The Witness in the Crate",
+      "summary": "Oscar's POV, with interludes from Edmund's fragmented logs. Decoding the crate reveals Edmund's suppressed memory of the Callisto Station massacre — footage every archive insists never happened. The corporation's hunters board a friendly port, forcing Oscar to run with proof they can't yet prove. The beat is rising paranoia and the first flicker of trust between smuggler and machine."
+    },
+    {
+      "n": 3,
+      "title": "What the Corporation Bought",
+      "summary": "Dual POV: Oscar racing to a pirate relay station while Juno, captive aboard a corporate flagship, discovers she was recruited years ago specifically to control Oscar. Edmund reveals its final fragment can only be unlocked by a living mind willing to surrender equivalent memories. The beat is betrayal curdling into resolve as duty and love collide head-on."
+    },
+    {
+      "n": 4,
+      "title": "Broadcast",
+      "summary": "Climax and resolution. At the relay, Oscar feeds Edmund their memories of Juno — three years of love traded for the massacre's full record — and the truth floods every open channel in the system. Juno escapes in the chaos, finding an Oscar who no longer knows her face but chooses to stay anyway. The beat is grief transmuted into beginning: belonging rebuilt from nothing."
+    }
+  ]
+}

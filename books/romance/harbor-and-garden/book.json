@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06028",
+  "title": "Harbor and Garden",
+  "author": "Isandro Almeida",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Theo Lockridge, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. Now he must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6028
+  }
+}

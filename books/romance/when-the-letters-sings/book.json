@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06466",
+  "title": "When the Letters Sings",
+  "author": "Jonah Yarrow",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Dominic Okafor, a lighthouse keeper's granddaughter and part-time novelist, has spent five years rebuilding a life measured in small safe steps. Then a snowstorm strands two rivals with the best mistake of their twenties — and they are pulled straight into the middle of it. To get through this, they must forgive the person in the mirror first before the festival ends.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6466
+  }
+}

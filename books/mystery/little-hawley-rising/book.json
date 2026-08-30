@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04848",
+  "title": "Little Hawley Rising",
+  "author": "Mirabel Vasquez",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Astrid Zhou, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, he discovers that staying invisible was never really an option. To get through this, he must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4848
+  }
+}

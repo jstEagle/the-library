@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09999",
+  "title": "The Sixteenth Recipe",
+  "author": "Oscar Eriksen",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Orsen Whitlock, a baker's kid who bakes feelings into bread, counts days until graduation like a sentence being served. Then a group chat starts predicting things that haven't happened yet — and they are pulled straight into the middle of it. To get through this, they must save the tradition that made the town before prom.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9999
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09779",
+  "title": "A Tryouts for the Mixtape",
+  "author": "Petra Okafor",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Rosalind Whitlock, a scholarship student at an academy with too many secrets, stays under the radar: head down, grades up, locker shut. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. Now he must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9779
+  }
+}

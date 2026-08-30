@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06257",
+  "title": "The Quiet Promise",
+  "author": "Emrys Crane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Silas Halloran, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, they discover that staying invisible was never really an option. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6257
+  }
+}

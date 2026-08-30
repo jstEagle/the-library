@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00949",
+  "title": "Coral and the Ember",
+  "author": "Casper Winterbourne",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Casper Eriksen, a beast-speaker hiding a forbidden gift, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 949
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07004",
+  "title": "Marguerite and the Static",
+  "author": "Oscar Amberdale",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Bram Amberdale, a xenolinguist who can no longer dream in human languages, has spent twelve years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7004
+  }
+}

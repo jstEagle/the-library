@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03226",
+  "title": "Well and Room",
+  "author": "Emrys Ravensworth",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Marguerite Galloway, a folklorist recording songs the village refuses to sing twice, has spent three years telling themselves the noises have explanations. But when the childhood imaginary friend is waiting on the porch, unchanged, they discover that staying invisible was never really an option. To get through this, they must get the family out ahead of the count before the well refills.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3226
+  }
+}

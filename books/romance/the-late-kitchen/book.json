@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06080",
+  "title": "The Late Kitchen",
+  "author": "Lior Quintana",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Ivo Fairweather, a single parent running the town's only bookshop, believes second chances are for people with better timing. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6080
+  }
+}

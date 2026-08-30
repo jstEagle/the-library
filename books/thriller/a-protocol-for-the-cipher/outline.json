@@ -1,0 +1,29 @@
+{
+  "title": "A Protocol for the Cipher",
+  "slug": "thriller/a-protocol-for-the-cipher",
+  "model": "stealth/ox-alpha",
+  "premise": "Tamsin Reyes, a deniable fixer for the Meridian Group—a diplomatic front that exists on no ledger—receives a debt notice for a favor she never performed, signed with her dead mentor's cipher. Following it leads to Vessna Kolar, a cryptographer defecting from a hostile intelligence service who claims Tamsin's mentor sold her out before his death. As Tamsin extracts Vessna across three borders, she realizes the extraction is bait: Meridian is using them both to flush out a mole inside its own ranks—her mentor's true killer. In the end, Tamsin chooses truth over loyalty, burning her own cover to expose the mole, and escapes with Vessna into a life that will never be invisible again.",
+  "about_author": "Theo Eastwick spent a decade in logistics for organizations he still cannot name, writing fiction on long-haul flights between postings. He lives under no particular roof and answers mail only when it arrives by cipher.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Favor That Never Happened",
+      "summary": "Tamsin's POV. A courier delivers a debt notice referencing a favor Tamsin never performed, encoded in her dead mentor Aldous Wren's private cipher. When she decodes it, it names Vessna Kolar and a rendezvous in Trieste. The emotional beat: grief rekindled—the past she buried is knocking, and someone knows exactly how to reach her."
+    },
+    {
+      "n": 2,
+      "title": "Interest Owed",
+      "summary": "Alternating POV: Tamsin meets Vessna, who insists Wren promised her extraction before he died—and that he was betrayed from inside Meridian. Mid-meeting, shooters arrive; Tamsin improvises an escape, realizing Meridian may have sent them. The beat: wary alliance—two strangers bound by a dead man's promise neither can verify."
+    },
+    {
+      "n": 3,
+      "title": "The Long Way Out",
+      "summary": "Vessna's POV during the overland extraction through Slovenia as Meridian burns their safehouses behind them. Vessna reveals the cipher's full message: Wren named his killer, but the page is half-destroyed. Tamsin realizes the extraction itself is engineered bait to make the mole move. The beat: trust forged under fire, love flickering against professional instinct."
+    },
+    {
+      "n": 4,
+      "title": "A Protocol for the Cipher",
+      "summary": "Tamsin's POV at the handoff point in Genoa, where Meridian's director awaits—and where Tamsin springs Wren's final protocol, broadcasting the decoded file to every station simultaneously. The mole, Director Hale, is exposed; Tamsin torches her own cover to do it. She and Vessna walk away unattributed at last. The beat: costly resolution—truth chosen over duty, love over invisibility."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03968",
+  "title": "Mirabel and the Portrait",
+  "author": "Silas Thornbury",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Emrys Winterbourne, a hospice nurse who hears the dying count backwards, has spent twenty years telling themselves the noises have explanations. But when the excavation crew unearths a door, sealed from the inside, they discover that staying invisible was never really an option. To get through this, they must return what was taken in 1974 before the well refills.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3968
+  }
+}

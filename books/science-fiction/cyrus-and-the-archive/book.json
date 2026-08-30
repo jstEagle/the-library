@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07789",
+  "title": "Cyrus and the Archive",
+  "author": "Ansel Galloway",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Sebastian Joubert, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. But when an unfamiliar name shows up on the manifest of a ship that never flew, they discover that staying invisible was never really an option. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7789
+  }
+}

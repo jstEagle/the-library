@@ -1,0 +1,21 @@
+{
+  "id": "THR-09347",
+  "title": "Casper and the Cover",
+  "author": "R. M. Fairweather",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Sable Ravensworth, a burnt analyst bounced from three agencies, has spent ten years following rules that keep getting rewritten. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and she is pulled straight into the middle of it. To get through this, she must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9347
+  }
+}

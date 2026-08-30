@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03368",
+  "title": "The Wrong Well",
+  "author": "Rafael Zhou",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Kestrel Nakamura, a pest controller called to something with fingerprints, doesn't believe, has never believed, will not begin believing now. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. Now he must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3368
+  }
+}

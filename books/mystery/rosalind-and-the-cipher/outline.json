@@ -1,0 +1,29 @@
+{
+  "title": "Rosalind and the Cipher",
+  "slug": "mystery/rosalind-and-the-cipher",
+  "model": "stealth/ox-alpha",
+  "premise": "Oscar Voss, an insurance investigator whose photographic memory has kept her professionally invisible and personally isolated, receives two letters after a coastal drowning claim: one confessing to murder, the other promising that 'the tide will give back what it took.' Following the cipher hidden in the victim's shipping ledger, Oscar uncovers a decades-old inheritance fraud that stole a family estate from its rightful heirs—people who, she slowly realizes, include herself. When the confessor is found dead and the letters' sender turns out to be her long-lost half-sister testing whether Oscar will fight or stay invisible, Oscar must choose between burying the evidence for a quiet life and exposing a crime that will cost her career. She decodes the ledger's final entry as the tide recedes, revealing the original will, and hands it to the police—claiming justice outside the law's timetable but finally belonging to something larger than herself.",
+  "about_author": "Elodie Ishikawa is a former marine insurance clerk who spent ten years reading other people's losses before writing them. She lives in a fog-bound harbor town where she keeps her own ledgers, though none of them are ciphers—probably.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Two Envelopes, One Hand",
+      "summary": "Oscar Voss closes a routine drowning claim on shipping magnate Aldous Crane, disturbed by details only her memory catches: a ledger page photographed twice, a tide chart circled in red. Days later, twin letters arrive—one confessing to Crane's murder, one promising 'more when the tide gives it back.' Same handwriting. Same paper. Oscar's POV; the beat is unease curdling into compulsion, the first crack in her practiced invisibility."
+    },
+    {
+      "n": 2,
+      "title": "The Ledger in Plain Sight",
+      "summary": "Following the confession's numeric clues, Oscar discovers Crane's shipping ledger conceals a cipher keyed to tide tables, encoding transfers from a 1970s estate sale—the Harrow property, sold under fraudulent circumstances after a fire killed its owners. A survivor child was never accounted for. Oscar's POV; the emotional beat is recognition turning to dread as the survivor's birthdate matches her own orphanage records too closely for coincidence."
+    },
+    {
+      "n": 3,
+      "title": "What the Tide Took Back",
+      "summary": "The letter-writer is found drowned at the tideline before Oscar can make contact, and the firm orders her off the case—someone inside is watching. Decoding the final entries alone at night, Oscar confirms the Harrow heir survived, was smuggled into care, and became Oscar herself; the writer was her half-sister, raised by the fraudsters' accomplice, testing whether Oscar would fight. Climax: confronted by the firm's corrupt senior partner on the flats at low tide, Oscar uses her perfect memory of the ledger to force his recorded confession. Her POV; the beat is terror transfigured into fury."
+    },
+    {
+      "n": 4,
+      "title": "Belonging to the Record",
+      "summary": "In the aftermath, Oscar surrenders the decoded will and her testimony, accepting suspension and professional exile as the estate case reopens publicly. Her half-sister, alive and hiding, leaves a third letter—not a cipher this time, just an address and a name. Oscar goes. Final POV shift to both sisters sharing a scene; the resolution's beat is quiet restitution: justice delivered outside the law's schedule, an inheritance reclaimed, and invisibility exchanged, at last, for belonging."
+    }
+  ]
+}

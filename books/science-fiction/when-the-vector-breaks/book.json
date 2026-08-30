@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07369",
+  "title": "When the Vector Breaks",
+  "author": "Beatrix Villalobos",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Oscar Marchetti, an insurance investigator of impossible accidents, maintains the beacon nobody remembers commissioning. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the reactor finishes its countdown.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7369
+  }
+}

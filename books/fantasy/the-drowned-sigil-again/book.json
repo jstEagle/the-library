@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01769",
+  "title": "The Drowned Sigil Again",
+  "author": "Quentin Ashgrove",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ines Sandoval, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1769
+  }
+}

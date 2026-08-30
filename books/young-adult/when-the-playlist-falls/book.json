@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09749",
+  "title": "When the Playlist Falls",
+  "author": "Elodie Ravensworth",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Beatrix Galloway, a debate champion who can't win the argument at home, has spent three years being so careful it hurts. Then a best friend goes missing, leaving only a set of keys behind — and he is pulled straight into the middle of it. To get through this, he must save the tradition that made the town before prom.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9749
+  }
+}

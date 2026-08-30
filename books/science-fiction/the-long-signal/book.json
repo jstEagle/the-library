@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07608",
+  "title": "The Long Signal",
+  "author": "Lior Oyelaran",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ulyana Lockridge, a starship navigator haunted by the backups sleeping in the hold, has spent seven years hauling cargo through contested orbits. Then the station AI begins confessing to crimes nobody reported — and she is pulled straight into the middle of it. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7608
+  }
+}

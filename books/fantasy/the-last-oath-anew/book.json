@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02063",
+  "title": "The Last Oath Anew",
+  "author": "Kestrel Voss",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Felix Yarrow, the last oath-bound swordspeaker, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. Now she must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2063
+  }
+}

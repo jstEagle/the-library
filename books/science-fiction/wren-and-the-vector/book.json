@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08146",
+  "title": "Wren and the Vector",
+  "author": "Isandro Vasquez",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "August Montrose, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. To get through this, they must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8146
+  }
+}

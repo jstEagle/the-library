@@ -1,0 +1,21 @@
+{
+  "id": "THR-08493",
+  "title": "Debt and Cover",
+  "author": "Lena Eastwick",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Xanthe Amberdale, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8493
+  }
+}

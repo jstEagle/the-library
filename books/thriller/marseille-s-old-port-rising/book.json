@@ -1,0 +1,21 @@
+{
+  "id": "THR-08455",
+  "title": "Marseille's old port Rising",
+  "author": "Petra Winterbourne",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Quentin Villalobos, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. To get through this, she must extract a defector who may be the bait before the extraction flight leaves at dawn.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8455
+  }
+}

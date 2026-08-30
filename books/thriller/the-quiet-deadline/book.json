@@ -1,0 +1,21 @@
+{
+  "id": "THR-08600",
+  "title": "The Quiet Deadline",
+  "author": "M. M. Okafor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Zephyrine Nystrom, a crash investigator whose family died in row twelve, works cases no one wants attributed. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. To get through this, he must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8600
+  }
+}

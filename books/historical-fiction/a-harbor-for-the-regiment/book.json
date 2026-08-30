@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02629",
+  "title": "A Harbor for the Regiment",
+  "author": "Wendell Dravenmoor",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Beatrix Pemberton, a typeface cutter's daughter in a print shop on the eve of a revolution, measures the world in what can be carried when the orders come. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. Now he must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2629
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09352",
+  "title": "Cyrus and the Border",
+  "author": "U. M. Dunmore",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Isandro Villalobos, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. To get through this, he must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9352
+  }
+}

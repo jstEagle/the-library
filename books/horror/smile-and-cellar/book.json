@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03808",
+  "title": "Smile and Cellar",
+  "author": "Dominic Fairweather",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Edmund Voss, a folklorist recording songs the village refuses to sing twice, doesn't believe, has never believed, will not begin believing now. But when the village's church bell rings although the bell was melted down in 1911, he discovers that staying invisible was never really an option. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3808
+  }
+}

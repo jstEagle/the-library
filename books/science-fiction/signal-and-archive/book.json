@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07443",
+  "title": "Signal and Archive",
+  "author": "Odile Brightwater",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Gideon Iversen, a xenolinguist who can no longer dream in human languages, has spent twelve years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7443
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08936",
+  "title": "Ulyana and the Ghost",
+  "author": "Petra Coldharbour",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Zephyrine Zhou, a fixer for an embassy that doesn't officially exist, has spent seven years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8936
+  }
+}

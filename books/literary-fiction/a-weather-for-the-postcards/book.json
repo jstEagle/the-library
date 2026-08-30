@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04209",
+  "title": "A Weather for the Postcards",
+  "author": "Casper Sandoval",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Silas Ravensworth, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4209
+  }
+}

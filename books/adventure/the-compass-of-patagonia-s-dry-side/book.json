@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00444",
+  "title": "The Compass of Patagonia's dry side",
+  "author": "A. M. Thackeray",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Wendell Whitlock, a mountain guide blacklisted from two countries, has spent fifteen years measuring life in miles rather than years. Then the tide reveals a cave that legends charge admission to — and she is pulled straight into the middle of it. To get through this, she must cross the range ahead of the snows before the dry season ends.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 444
+  }
+}

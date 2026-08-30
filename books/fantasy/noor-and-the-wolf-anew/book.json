@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01983",
+  "title": "Noor and the Wolf Anew",
+  "author": "August Iversen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Yara Eriksen, an exiled storm-caller, has spent twenty years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1983
+  }
+}

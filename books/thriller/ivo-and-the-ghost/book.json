@@ -1,0 +1,21 @@
+{
+  "id": "THR-08653",
+  "title": "Ivo and the Ghost",
+  "author": "Hazel Lockridge",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Vesper Dunmore, a crash investigator whose family died in row twelve, has spent five years following rules that keep getting rewritten. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. To get through this, he must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "belonging",
+    "identity",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8653
+  }
+}

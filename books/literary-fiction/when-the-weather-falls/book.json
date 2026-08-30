@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04097",
+  "title": "When the Weather Falls",
+  "author": "Juniper Dravenmoor",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Wren Brightwater, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4097
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06947",
+  "title": "Ulyana and the Songbook",
+  "author": "Ansel Reyes",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ivo Thornbury, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. But when the person behind a decade of letters moves in next door, they discover that staying invisible was never really an option. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6947
+  }
+}

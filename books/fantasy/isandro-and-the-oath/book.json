@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01258",
+  "title": "Isandro and the Oath",
+  "author": "Ada Halloran",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Odile Sandoval, the youngest member of a dying guild, has spent three years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1258
+  }
+}

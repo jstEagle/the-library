@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06424",
+  "title": "Vow and Postcard",
+  "author": "Freya Ashgrove",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Elodie Halloran, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and she is pulled straight into the middle of it. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6424
+  }
+}

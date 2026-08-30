@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04403",
+  "title": "Undertow and Language",
+  "author": "O. M. Thackeray",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Xanthe Yarrow, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. Then a stranger at the funeral knows the family by a name nobody uses — and he is pulled straight into the middle of it. Now he must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4403
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08487",
+  "title": "The Live Contact",
+  "author": "Y. M. Ashgrove",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Beatrix Ravensworth, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8487
+  }
+}

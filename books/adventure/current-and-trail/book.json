@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00100",
+  "title": "Current and Trail",
+  "author": "Ines Nystrom",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Astrid Hartwell, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 100
+  }
+}

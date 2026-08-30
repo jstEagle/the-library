@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01636",
+  "title": "Zephyrine and the Hollow",
+  "author": "Petra Thackeray",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Casper Ashgrove, the keeper of a gate that should stay shut, has spent three years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1636
+  }
+}

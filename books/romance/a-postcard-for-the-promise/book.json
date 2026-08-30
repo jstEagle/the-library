@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06724",
+  "title": "A Postcard for the Promise",
+  "author": "Cyrus Vasquez",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Noor Delacroix, a ghostwriter secretly penning a rival's memoirs, swears the heart is a muscle like any other: trainable, containable. But when the person behind a decade of letters moves in next door, she discovers that staying invisible was never really an option. To get through this, she must say the sentence that has been rehearsed for a decade before the vineyard's first harvest comes in.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6724
+  }
+}

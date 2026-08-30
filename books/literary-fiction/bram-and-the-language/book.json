@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04574",
+  "title": "Bram and the Language",
+  "author": "Orsen Dravenmoor",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Emrys Eriksen, a restaurant critic who has forgotten how food tastes, moves through the days like a tenant, not an owner. But when a childhood home goes up for auction, she discovers that staying invisible was never really an option. Now she must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4574
+  }
+}

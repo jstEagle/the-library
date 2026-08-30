@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06556",
+  "title": "Sebastian and the Postcard",
+  "author": "Juniper Ishikawa",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Rafael Sandoval, a pastry chef whose café is three missed payments from gone, keeps love in the past tense where it belongs. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and she is pulled straight into the middle of it. To get through this, she must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6556
+  }
+}

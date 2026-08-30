@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09916",
+  "title": "The Fake Semester",
+  "author": "Rosalind Reyes",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Tamsin Amberdale, a scholarship student at an academy with too many secrets, has spent twenty years being so careful it hurts. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and he is pulled straight into the middle of it. To get through this, he must decide who to be when the labels come off before the final audition.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9916
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04049",
+  "title": "The Endless Harvest",
+  "author": "Elodie Thornbury",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Paloma Zhou, a folklorist recording songs the village refuses to sing twice, doesn't believe, has never believed, will not begin believing now. Then the excavation crew unearths a door, sealed from the inside — and they are pulled straight into the middle of it. Now they must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4049
+  }
+}

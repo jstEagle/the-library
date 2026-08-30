@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07082",
+  "title": "A Signal for the Echo",
+  "author": "K. M. Zhou",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Dominic Quintana, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7082
+  }
+}

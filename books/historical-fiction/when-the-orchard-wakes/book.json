@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02803",
+  "title": "When the Orchard Wakes",
+  "author": "Bram Vasquez",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ada Eriksen, a battlefield nurse keeping a ledger of the names officers omit, has spent twenty years learning which silences keep people safe. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, she discovers that staying invisible was never really an option. To get through this, she must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2803
+  }
+}

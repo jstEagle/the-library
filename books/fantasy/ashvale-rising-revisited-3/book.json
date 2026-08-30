@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02112",
+  "title": "Ashvale Rising Revisited",
+  "author": "Juniper Whitlock",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Isandro Iversen, a bone-carver who hears the dead, has spent seven years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. To get through this, he must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "identity",
+    "memory",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2112
+  }
+}

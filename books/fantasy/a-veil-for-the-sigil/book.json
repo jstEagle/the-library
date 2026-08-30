@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01430",
+  "title": "A Veil for the Sigil",
+  "author": "Rafael Iversen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Isandro Voss, a cartographer of unmapped realms, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1430
+  }
+}

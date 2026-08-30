@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09622",
+  "title": "Noor and the Playlist",
+  "author": "Yara Ishikawa",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Oscar Delacroix, the team's statistician who knows the game is rigged, stays under the radar: head down, grades up, locker shut. Then a best friend goes missing, leaving only a set of keys behind — and they are pulled straight into the middle of it. Now they must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9622
+  }
+}

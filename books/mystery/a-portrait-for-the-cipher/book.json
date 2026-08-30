@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04821",
+  "title": "A Portrait for the Cipher",
+  "author": "Quentin Eastwick",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Quentin Ashgrove, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. Then the town's beloved founder is exhumed and the coffin is empty — and he is pulled straight into the middle of it. To get through this, he must decode a ledger hidden in plain sight before the trial begins.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4821
+  }
+}

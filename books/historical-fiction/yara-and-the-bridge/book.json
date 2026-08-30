@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02447",
+  "title": "Yara and the Bridge",
+  "author": "Theo Okonkwo",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Ivo Voss, a pearl diver's child indentured to a trading company, has spent ten years learning which silences keep people safe. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. To get through this, he must choose which family member gets the last berth before the century turns.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2447
+  }
+}

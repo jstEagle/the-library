@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02340",
+  "title": "The Borrowed Uniform",
+  "author": "Felix Delacroix",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Lior Crane, a typeface cutter's daughter in a print shop on the eve of a revolution, has spent seven years learning which silences keep people safe. But when the army requisitions the town and the ledger with all the names, they discover that staying invisible was never really an option. Now they must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2340
+  }
+}

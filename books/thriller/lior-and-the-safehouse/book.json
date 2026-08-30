@@ -1,0 +1,21 @@
+{
+  "id": "THR-08818",
+  "title": "Lior and the Safehouse",
+  "author": "Dominic Okonkwo",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Sebastian Coldharbour, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. To get through this, he must burn the network that did the training before the markets open in Frankfurt.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8818
+  }
+}

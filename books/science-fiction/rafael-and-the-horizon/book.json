@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08101",
+  "title": "Rafael and the Horizon",
+  "author": "Zephyrine Nystrom",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Yara Amberdale, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. To get through this, they must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8101
+  }
+}

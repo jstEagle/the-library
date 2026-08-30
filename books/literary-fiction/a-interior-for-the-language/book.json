@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04596",
+  "title": "A Interior for the Language",
+  "author": "Wendell Reyes",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Lena Yarrow, a letter-writer sending postcards to an address that burned down years ago, has perfected the smile that ends conversations. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. Now she must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4596
+  }
+}

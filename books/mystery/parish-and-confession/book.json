@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05257",
+  "title": "Parish and Confession",
+  "author": "Ivo Hartwell",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Kestrel Reyes, a hotel concierge who notices everything, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, she discovers that staying invisible was never really an option. To get through this, she must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5257
+  }
+}

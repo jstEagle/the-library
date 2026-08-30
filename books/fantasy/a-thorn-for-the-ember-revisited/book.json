@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01918",
+  "title": "A Thorn for the Ember Revisited",
+  "author": "I. M. Blackwood",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Petra Okonkwo, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1918
+  }
+}

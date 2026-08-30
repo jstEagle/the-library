@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05723",
+  "title": "Kestrel and the Portrait",
+  "author": "Gideon Whitlock",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Vesper Joubert, a true-crime podcaster chasing the coldest case on record, has spent five years keeping the town's secrets filed and alphabetized. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5723
+  }
+}

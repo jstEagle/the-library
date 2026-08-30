@@ -1,0 +1,59 @@
+{
+  "title": "Kestrel and the Drop",
+  "slug": "thriller/kestrel-and-the-drop",
+  "model": "stealth/ox-alpha",
+  "premise": "Elodie Oyelaran, a meticulous financial-crimes investigator who has spent two decades erasing their own paper trail, is pulled back into the field when a routine voiceprint authentication unlocks a dormant server in Lagos containing evidence of a coordinated 'accident' scheduled to destroy a coastal desalination plant. The server's encryption key is Elodie's own voice from a recording they have no memory of making, forcing them to confront a buried past identity and the handler who erased it. As they race across three countries tracing laundered money that flows impossibly clean, Elodie discovers the attack is a cover for rewriting the financial records of thousands of people—including their own. In the end, Elodie chooses exposure over invisibility, broadcasting the truth at the cost of the anonymous life they built, and finally belonging to something larger than their own secrecy.",
+  "about_author": "Freya Joubert is a former compliance auditor who spent eleven years in Johannesburg and Lisbon before turning to fiction full-time. Her thrillers are known for their forensic attention to money movement and their quietly fierce characters who live in the gaps between identities.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Clean Hands",
+      "summary": "Elodie's POV. A routine audit of a shell company in Rotterdam reveals money so perfectly laundered it feels like a signature—someone showing off. That night, an old colleague sends a voiceprint file that unlocks a server Elodie didn't know existed, keyed to their own voice. Emotional beat: the unease of competence curdling into dread."
+    },
+    {
+      "n": 2,
+      "title": "The Server Remembers",
+      "summary": "Elodie's POV. Inside the Lagos-hosted server: schematics of the Okunrin Bay desalination plant, a countdown timestamped nine days out, and audio of Elodie's voice reading coordinates they don't recognize. Flashbacks fracture in—salt air, a woman's laugh, a name that isn't theirs. Emotional beat: vertigo as memory and record disagree."
+    },
+    {
+      "n": 3,
+      "title": "Nine Days of Water",
+      "summary": "Alternating with plant engineer Tomi Adeyemi's POV, who notices pressure anomalies being logged as 'maintenance.' Elodie arrives in Lagos under a false passport and realizes their forged documents were pre-emptively registered years ago—someone prepared this cover long ago. Emotional beat: hunted and hunter collapsing into one person."
+    },
+    {
+      "n": 4,
+      "title": "Handler",
+      "summary": "Elodie's POV. They trace the server's maintenance payments to a private security firm and come face-to-face with Marcus Vane, the intelligence officer who recruited them twenty years ago and supposedly died in 2009. Vane claims he's protecting Elodie; the evidence says otherwise. Emotional beat: betrayal wearing a familiar face."
+    },
+    {
+      "n": 5,
+      "title": "Ledger of Ghosts",
+      "summary": "Tomi's POV deepens as she pulls the plant's financial records and finds her own employment history altered—dates shifted, a degree she never earned inserted. She contacts the investigator whose number keeps appearing in audit notes. Emotional beat: the terror of discovering your identity is editable."
+    },
+    {
+      "n": 6,
+      "title": "The Drop",
+      "summary": "Elodie's POV. Following the money through a crypto mixer called Kestrel, they find the attack isn't sabotage-for-hire—it's a records purge, timed so the plant's destruction destroys the digital ledgers proving thousands of people's true histories, including Elodie's original identity. Emotional beat: grief for a self they can't retrieve."
+    },
+    {
+      "n": 7,
+      "title": "Salt and Static",
+      "summary": "Elodie and Tomi meet, wary allies comparing corrupted records. Together they decode the countdown: not nine days but six—the server clock was a decoy. Vane intercepts them; a tense standoff reveals he built the purge to bury his own crimes, using Elodie's voiceprint as the untraceable key. Emotional beat: fury sharpening into resolve."
+    },
+    {
+      "n": 8,
+      "title": "What the Voice Knows",
+      "summary": "Elodie's POV. To stop the purge they must re-authenticate—but the system will accept only the voice from the recording, the person Elodie was before erasure. Reconstructing that self means surrendering every alias, every safe house, everything. Emotional beat: the cost of belonging measured against the comfort of hiding."
+    },
+    {
+      "n": 9,
+      "title": "Okunrin Bay",
+      "summary": "Climax, dual POV. At the plant, Elodie authenticates under their birth name while Tomi manually floods the purge queue with duplicate records, jamming the overwrite. Vane triggers the physical sabotage early; Elodie broadcasts the ledger archive publicly mid-explosion, making the truth too widespread to erase. Vane is arrested; the plant survives, scarred. Emotional beat: sacrifice transfigured into witness."
+    },
+    {
+      "n": 10,
+      "title": "Kestrel, Landing",
+      "summary": "Epilogue, Elodie's POV. Weeks later, Elodie lives openly under their real name for the first time in twenty years, testifying before an inquiry, receiving letters from people whose histories were restored. Tomi visits; something like friendship takes root. The final image: a kestrel hovering over the bay, holding still by moving. Emotional beat: quiet, hard-won belonging."
+    }
+  ]
+}

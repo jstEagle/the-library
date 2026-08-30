@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05914",
+  "title": "When the Autopsy Burns Revisited",
+  "author": "Odile Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Wren Okafor, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "identity",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5914
+  }
+}

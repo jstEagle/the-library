@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09645",
+  "title": "Homecoming and Locker",
+  "author": "Jude Quintana",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Rosalind Winterbourne, a coder whose anonymous account knows too much, counts days until graduation like a sentence being served. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. To get through this, he must decide who to be when the labels come off before the final audition.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9645
+  }
+}

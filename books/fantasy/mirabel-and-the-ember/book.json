@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01834",
+  "title": "Mirabel and the Ember",
+  "author": "Petra Vane",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.8,
+  "blurb": "Vesper Thackeray, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1834
+  }
+}

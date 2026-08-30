@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09597",
+  "title": "The Scholarship of Lake Minnow",
+  "author": "Xanthe Brightwater",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Ada Okafor, the new kid at a school built over something old, has spent seven years being so careful it hurts. But when the teacher pairs nemesis with nemesis for a semester-long project, he discovers that staying invisible was never really an option. Now he must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9597
+  }
+}

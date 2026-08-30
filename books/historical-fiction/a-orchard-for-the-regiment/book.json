@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02363",
+  "title": "A Orchard for the Regiment",
+  "author": "Xanthe Ravensworth",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Rosalind Zhou, a mapmaker's apprentice finishing the atlas the master died for, believes history happens to other people, elsewhere. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. Now they must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2363
+  }
+}

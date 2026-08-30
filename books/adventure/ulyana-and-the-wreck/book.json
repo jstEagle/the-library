@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00057",
+  "title": "Ulyana and the Wreck",
+  "author": "Odile Kavanagh",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Ulyana Iversen, a bush pilot flying medicine and rumors into the interior, knows the wilderness forgives nothing and forgets less. Then an old rival hires the crew for the one job that was sworn off long ago — and she is pulled straight into the middle of it. Now she must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 57
+  }
+}

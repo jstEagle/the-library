@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06222",
+  "title": "When the Promise Sings",
+  "author": "Vesper Vane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ansel Underhill, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6222
+  }
+}

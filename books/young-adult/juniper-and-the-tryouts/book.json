@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09719",
+  "title": "Juniper and the Tryouts",
+  "author": "Ada Hartwell",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Mara Thornbury, the only out kid in a town of nine hundred, is fine. Everything is fine. Obviously.. Then a best friend goes missing, leaving only a set of keys behind — and he is pulled straight into the middle of it. To get through this, he must decide who to be when the labels come off before the last game of the season.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9719
+  }
+}

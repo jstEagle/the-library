@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02073",
+  "title": "The Last Garden Revisited",
+  "author": "S. M. Whitlock",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Ansel Vane, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2073
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02164",
+  "title": "the Glass Steppe Rising Anew",
+  "author": "August Zhou",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Isandro Zhou, the keeper of a gate that should stay shut, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2164
+  }
+}

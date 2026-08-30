@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04089",
+  "title": "the coast road Rising",
+  "author": "E. M. Blackwood",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Beatrix Pemberton, a former prodigy returning to the conservatory as a janitor, has perfected the smile that ends conversations. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. To get through this, they must ask the question the whole family arranged itself around before the demolition date arrives.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4089
+  }
+}

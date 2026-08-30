@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00520",
+  "title": "The Salt Provision",
+  "author": "Xanthe Nakamura",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Ulyana Okonkwo, a storm chaser who owes money to dangerous optimists, has spent twelve years measuring life in miles rather than years. But when an expedition upriver stops answering the radio, she discovers that staying invisible was never really an option. To get through this, she must follow a river upstream to its forbidden source before the monsoon makes landfall.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 520
+  }
+}

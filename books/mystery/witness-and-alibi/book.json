@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05296",
+  "title": "Witness and Alibi",
+  "author": "Ulyana Montrose",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "August Eriksen, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5296
+  }
+}

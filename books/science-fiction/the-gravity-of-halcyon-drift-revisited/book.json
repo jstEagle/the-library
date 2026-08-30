@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08059",
+  "title": "The Gravity of Halcyon Drift Revisited",
+  "author": "Mara Kavanagh",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Edmund Zhou, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8059
+  }
+}

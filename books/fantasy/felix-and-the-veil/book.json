@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01545",
+  "title": "Felix and the Veil",
+  "author": "Edmund Reyes",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Wren Nystrom, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1545
+  }
+}

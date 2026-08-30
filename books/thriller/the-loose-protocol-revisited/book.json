@@ -1,0 +1,21 @@
+{
+  "id": "THR-09434",
+  "title": "The Loose Protocol Revisited",
+  "author": "Odile Underhill",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ansel Almeida, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "found family",
+    "identity",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9434
+  }
+}

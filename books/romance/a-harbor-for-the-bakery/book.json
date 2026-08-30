@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06573",
+  "title": "A Harbor for the Bakery",
+  "author": "Oscar Nystrom",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Juniper Vasquez, a vineyard owner who inherited debts instead of grapes, has spent three years rebuilding a life measured in small safe steps. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. To get through this, they must risk the whole heart instead of lending pieces before the bakery lease runs out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6573
+  }
+}

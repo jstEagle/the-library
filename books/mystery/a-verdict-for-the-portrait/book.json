@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05115",
+  "title": "A Verdict for the Portrait",
+  "author": "Elodie Underhill",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Noor Lockridge, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. But when a confession letter arrives postmarked the day after the funeral, she discovers that staying invisible was never really an option. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5115
+  }
+}

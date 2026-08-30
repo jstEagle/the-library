@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00336",
+  "title": "Sable and the Horizon",
+  "author": "Ivo Coldharbour",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Emrys Okonkwo, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. To get through this, she must bring the expedition home without telling anyone what it found before the dry season ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 336
+  }
+}

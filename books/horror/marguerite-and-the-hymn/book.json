@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03370",
+  "title": "Marguerite and the Hymn",
+  "author": "August Vane",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Lena Delacroix, a folklorist recording songs the village refuses to sing twice, has spent twelve years telling themselves the noises have explanations. But when every mirror in the house starts reflecting the room one second late, she discovers that staying invisible was never really an option. Now she must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3370
+  }
+}

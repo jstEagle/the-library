@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04323",
+  "title": "Vesper and the Silence",
+  "author": "Sable Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Ada Halloran, a night librarian in a city that sleeps less every year, has spent five years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must ask the question the whole family arranged itself around before the mother's memory goes entirely.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4323
+  }
+}

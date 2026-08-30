@@ -1,0 +1,21 @@
+{
+  "id": "THR-08847",
+  "title": "Marguerite and the Deadline",
+  "author": "Cyrus Galloway",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Yara Whitlock, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. But when every record of a flight vanishes while it's still in the air, they discover that staying invisible was never really an option. To get through this, they must burn the network that did the training before the summit convenes.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8847
+  }
+}

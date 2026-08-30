@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01913",
+  "title": "The Wild Crown Anew",
+  "author": "Sebastian Blackwood",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Yara Villalobos, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1913
+  }
+}

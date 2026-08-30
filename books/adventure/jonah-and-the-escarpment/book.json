@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00620",
+  "title": "Jonah and the Escarpment",
+  "author": "Coral Galloway",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Cyrus Sandoval, a bush pilot flying medicine and rumors into the interior, has spent three years measuring life in miles rather than years. Then an old rival hires the crew for the one job that was sworn off long ago — and she is pulled straight into the middle of it. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 620
+  }
+}

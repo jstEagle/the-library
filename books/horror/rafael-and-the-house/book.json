@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03883",
+  "title": "Rafael and the House",
+  "author": "Rafael Ishikawa",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Wren Sandoval, a pest controller called to something with fingerprints, documents everything, because documentation is a kind of prayer. Then every mirror in the house starts reflecting the room one second late — and they are pulled straight into the middle of it. Now they must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3883
+  }
+}

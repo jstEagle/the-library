@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03313",
+  "title": "The Patient Hymn",
+  "author": "Elodie Hartwell",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Beatrix Galloway, a property surveyor appraising a house that appraises back, doesn't believe, has never believed, will not begin believing now. Then the village's church bell rings although the bell was melted down in 1911 — and they are pulled straight into the middle of it. Now they must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3313
+  }
+}

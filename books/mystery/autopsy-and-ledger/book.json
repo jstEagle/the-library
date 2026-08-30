@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05504",
+  "title": "Autopsy and Ledger",
+  "author": "O. M. Villalobos",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jonah Nakamura, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. To get through this, he must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5504
+  }
+}

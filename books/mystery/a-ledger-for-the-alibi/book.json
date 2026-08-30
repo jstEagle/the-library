@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05467",
+  "title": "A Ledger for the Alibi",
+  "author": "T. M. Eriksen",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Sterling, a retired detective running a failing bookshop, thought they had seen every way a life can end. Then the town's beloved founder is exhumed and the coffin is empty — and she is pulled straight into the middle of it. To get through this, she must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5467
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03934",
+  "title": "Petra and the Bell",
+  "author": "Wren Halloran",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Noor Whitlock, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. Then every mirror in the house starts reflecting the room one second late — and she is pulled straight into the middle of it. To get through this, she must finish the ritual the founders started before the well refills.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3934
+  }
+}

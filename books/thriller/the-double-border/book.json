@@ -1,0 +1,21 @@
+{
+  "id": "THR-08429",
+  "title": "The Double Border",
+  "author": "Jude Kavanagh",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Oscar Eastwick, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, they discover that staying invisible was never really an option. Now they must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8429
+  }
+}

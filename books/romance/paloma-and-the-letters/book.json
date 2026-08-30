@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06794",
+  "title": "Paloma and the Letters",
+  "author": "L. M. Ashgrove",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Coral Brightwater, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and she is pulled straight into the middle of it. To get through this, she must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6794
+  }
+}

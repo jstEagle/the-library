@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06589",
+  "title": "Ada and the Kitchen",
+  "author": "Noor Okonkwo",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Quentin Joubert, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6589
+  }
+}

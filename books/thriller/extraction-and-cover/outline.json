@@ -1,0 +1,119 @@
+{
+  "title": "Extraction and Cover",
+  "slug": "thriller/extraction-and-cover",
+  "model": "stealth/ox-alpha",
+  "premise": "August Sterling, a financial-crimes investigator who launders reputations for the powerful, receives calls on a burner phone from a voice they buried years ago: their former partner, presumed dead in a cartel-linked money trail. The caller, Elena Voss, is alive and trapped inside a laundering network August's own testimony helped build, and she needs the one thing August swore never to give up — the ledger proving who inside the Treasury sanctioned it. As August trades secrets with a ghost, they assemble an unlikely crew of exiles and whistleblowers, culminating in a midnight extraction from a Cayman data vault that forces August to choose between legal redemption and justice outside the law. In the end, the ledger goes public through the found family August built rather than the institutions that failed them both, and August walks away clean of everything except the truth.",
+  "about_author": "Paloma Hartwell spent a decade as a compliance analyst before trading spreadsheets for suspense, writing thrillers about the people who move money for people who move mountains. She lives off-grid-ish in coastal Maine with two rescue dogs and an unhealthy familiarity with offshore banking law.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Clean Money",
+      "summary": "August's POV. We meet them mid-case, scrubbing a hedge fund's reputation while their own life quietly rots — empty apartment, estranged sister, a career built on making dirty things look respectable. Emotional beat: hollow competence, the ache of being very good at something you hate."
+    },
+    {
+      "n": 2,
+      "title": "The Number That Shouldn't Exist",
+      "summary": "August's POV. A burner phone arrives in interoffice mail with no sender. When it rings, the voice is Elena Voss — dead three years, officially. She says one sentence: 'You built the cage I'm in.' Emotional beat: vertigo, grief cracking open into disbelief."
+    },
+    {
+      "n": 3,
+      "title": "Dead Air",
+      "summary": "August's POV. August verifies Elena's death certificate, then breaks protocol and answers the second call. Elena gives proof-of-life details only the real Elena could know, plus a deadline: nine days before she's moved somewhere unrecoverable. Emotional beat: terror disguised as procedure."
+    },
+    {
+      "n": 4,
+      "title": "What August Buried",
+      "summary": "Flashback chapter, Elena's POV (written as recovered memory/letters). Three years earlier: the operation that went wrong, the testimony August gave, the moment Elena chose to disappear rather than be disappeared. Emotional beat: betrayal reframed — August wasn't a traitor; they were a weapon."
+    },
+    {
+      "n": 5,
+      "title": "Nine Days",
+      "summary": "August's POV. August maps the network Elena described and finds it matches files they personally sealed. First contact with Dez Okafor, a disgraced forensic accountant who owes August a favor and hates owing it. Emotional beat: the first brick of found family, laid grudgingly."
+    },
+    {
+      "n": 6,
+      "title": "The Treasury Man",
+      "summary": "Alternating POV, mostly antagonist Marcus Hale, deputy general counsel at Treasury, whose signature is on the sanction Elena exposed. He learns someone is asking old questions and starts pulling threads. Emotional beat: cold, patient menace — the villain who files paperwork."
+    },
+    {
+      "n": 7,
+      "title": "Ghost Protocol",
+      "summary": "August's POV. August and Elena negotiate over encrypted line: the ledger exists, but Elena won't say where until August commits to extraction, not just exposure. August lies to their own agency for the first time. Emotional beat: crossing the line and noticing it doesn't burn."
+    },
+    {
+      "n": 8,
+      "title": "Dez's Ledger",
+      "summary": "Dez's POV. Dez reconstructs the money trail and finds a second beneficiary nobody expected — a charity August's sister works for. Personal stakes detonate. Emotional beat: dread arriving through family."
+    },
+    {
+      "n": 9,
+      "title": "Sister",
+      "summary": "August's POV. Awkward dinner with sister Nora; August can't warn her without exposing everything. Hale's investigators photograph the meeting. Emotional beat: love as liability, silence as protection that feels like betrayal."
+    },
+    {
+      "n": 10,
+      "title": "The Safehouse Rules",
+      "summary": "Ensemble POV rotation. The crew assembles in a rented house outside Baltimore: August, Dez, Priya Raman (ex-NSA signals), and Tommy Vance (a fixer who owes Elena). Rules are set, trust tested. Emotional beat: found family forming under pressure, banter over fear."
+    },
+    {
+      "n": 11,
+      "title": "Hale Closes In",
+      "summary": "Hale's POV. Hale identifies the safehouse via a compromised courier and chooses not to raid — instead he leaks August's name to the cartel side of the network, outsourcing the kill. Emotional beat: horror of a villain who never touches the gun."
+    },
+    {
+      "n": 12,
+      "title": "First Blood",
+      "summary": "Tommy's POV. A cartel crew hits the safehouse early; the crew scatters, Tommy takes a bullet covering the retreat, Priya's comms kit burns. They survive by minutes. Emotional beat: the price of survival made literal; guilt distributed evenly."
+    },
+    {
+      "n": 13,
+      "title": "Hospital Hours",
+      "summary": "Priya's POV. Tommy in surgery; Priya decrypts a fragment salvaged from the burned kit revealing the vault location: a private data facility on Grand Cayman. Elena confirms it — day six. Emotional beat: exhaustion, resolve hardening into something like faith."
+    },
+    {
+      "n": 14,
+      "title": "The Offer",
+      "summary": "August's POV. Hale makes direct contact: full immunity, career restored, Nora protected — if August hands over Elena and forgets the ledger. August asks for one night to decide. Emotional beat: temptation rendered honestly; the old life whispering."
+    },
+    {
+      "n": 15,
+      "title": "What Worth Killing For",
+      "summary": "Elena's POV (live, finally face-to-face via video). Elena tells August why she stayed hidden: coming back meant the ledger would die in a courtroom. She asks not for rescue but for witness. Emotional beat: forgiveness offered without conditions; August weeps for the first time in years."
+    },
+    {
+      "n": 16,
+      "title": "Refusal",
+      "summary": "August's POV. August declines Hale's offer and burns their own cover, mailing partial ledger pages to three journalists as insurance. The agency suspends them; Nora stops returning calls. Emotional beat: point of no return, grief and liberation in the same breath."
+    },
+    {
+      "n": 17,
+      "title": "Island of Ledgers",
+      "summary": "Tommy's POV, recovering but mobile. Recon of the Cayman facility: biometric layers, a maintenance window of eleven minutes during generator testing. The plan crystallizes — get in, pull Elena's archive, get out. Emotional beat: competence as communion; the crew finally moving as one."
+    },
+    {
+      "n": 18,
+      "title": "Eleven Minutes",
+      "summary": "August's POV. The infiltration: Priya spoofs credentials, Dez cracks the archive, Tommy holds the door. Everything goes wrong at minute eight when Hale's people arrive simultaneously — he tipped the cartel after all. Emotional beat: white-knuckle momentum."
+    },
+    {
+      "n": 19,
+      "title": "Extraction",
+      "summary": "Split POV, rapid cuts. Elena walks out of the building herself, having engineered her own transfer to Cayman days earlier — the deadline was bait to draw Hale's evidence out with her. Gunfire, a boat, Tommy wounded again. Emotional beat: the trap reverses; hope with shrapnel in it."
+    },
+    {
+      "n": 20,
+      "title": "The Public Square",
+      "summary": "Dez's POV. From a safehouse in Portugal, the crew releases the full ledger through the journalists. Markets shake, arrests begin, Hale resigns and is indicted within the week. Elena surrenders voluntarily to prosecutors — on her terms, with August's testimony behind her. Emotional beat: justice outside the law handing the law its own conscience back."
+    },
+    {
+      "n": 21,
+      "title": "Cover",
+      "summary": "August's POV. Aftermath: August takes a plea for obstruction, serves fourteen months, and finds it strangely restful. Nora visits. Dez writes weekly. The found family holds across distance and bars. Emotional beat: the price paid, counted, and accepted."
+    },
+    {
+      "n": 22,
+      "title": "A Familiar Ringtone",
+      "summary": "August's POV, epilogue. Out and unemployable, August runs a small consultancy helping whistleblowers survive their own courage. A burner phone arrives in the mail. It rings. August smiles, and answers. Emotional beat: sequel-ready warmth — survival as a practice, not an ending."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03617",
+  "title": "When the House Breaks",
+  "author": "Vesper Montrose",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Silas Ashgrove, a folklorist recording songs the village refuses to sing twice, has spent fifteen years telling themselves the noises have explanations. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3617
+  }
+}

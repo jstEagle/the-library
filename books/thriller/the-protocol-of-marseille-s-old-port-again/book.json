@@ -1,0 +1,21 @@
+{
+  "id": "THR-09425",
+  "title": "The Protocol of Marseille's old port Again",
+  "author": "Cyrus Blackwood",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Isandro Galloway, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. But when a voiceprint unlocks a server on another continent, they discover that staying invisible was never really an option. To get through this, they must extract a defector who may be the bait before the extraction flight leaves at dawn.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9425
+  }
+}

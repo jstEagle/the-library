@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06118",
+  "title": "A Tide for the Summer",
+  "author": "Coral Delacroix",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Sable Thackeray, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6118
+  }
+}

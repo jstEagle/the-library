@@ -1,0 +1,21 @@
+{
+  "id": "THR-08783",
+  "title": "Protocol and Cipher",
+  "author": "August Whitlock",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Emrys Brightwater, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8783
+  }
+}

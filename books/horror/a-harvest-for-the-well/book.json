@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03659",
+  "title": "A Harvest for the Well",
+  "author": "U. M. Oyelaran",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Mirabel Montrose, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. But when all the photographs from grandma's house now include an extra chair, she discovers that staying invisible was never really an option. Now she must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3659
+  }
+}

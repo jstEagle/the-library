@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00231",
+  "title": "Lior and the Wreck",
+  "author": "Sebastian Whitlock",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Elodie Delacroix, a mountain guide blacklisted from two countries, carries a compass, a debt, and very little else. Then a dying prospector trades a map for a promise — and they are pulled straight into the middle of it. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 231
+  }
+}

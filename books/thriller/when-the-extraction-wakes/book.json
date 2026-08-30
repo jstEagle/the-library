@@ -1,0 +1,21 @@
+{
+  "id": "THR-08525",
+  "title": "When the Extraction Wakes",
+  "author": "August Iversen",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Vesper Galloway, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8525
+  }
+}

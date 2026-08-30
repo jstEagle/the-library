@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00536",
+  "title": "The Broken Wreck",
+  "author": "Isandro Amberdale",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Emrys Thackeray, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. Then the river gives up a chest stamped with a dead nation's seal — and he is pulled straight into the middle of it. To get through this, he must beat the salvage fleet to the wreck by six tides before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 536
+  }
+}

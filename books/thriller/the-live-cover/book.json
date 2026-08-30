@@ -1,0 +1,21 @@
+{
+  "id": "THR-08810",
+  "title": "The Live Cover",
+  "author": "Lena Montrose",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ada Ashgrove, a fixer for an embassy that doesn't officially exist, hasn't slept through the night since the incident. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. To get through this, she must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8810
+  }
+}

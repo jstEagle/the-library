@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03584",
+  "title": "Sebastian and the Well",
+  "author": "Petra Ashgrove",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Tamsin Ravensworth, a twin who came home to bury the wrong sibling, has spent fifteen years telling themselves the noises have explanations. But when the sleep recordings capture a second voice answering questions, they discover that staying invisible was never really an option. Now they must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3584
+  }
+}

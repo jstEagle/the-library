@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03363",
+  "title": "The Sleeping Cellar",
+  "author": "Petra Eastwick",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Ada Dunmore, a pest controller called to something with fingerprints, keeps the lights on and the doors counted. Then the village's church bell rings although the bell was melted down in 1911 — and he is pulled straight into the middle of it. Now he must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3363
+  }
+}

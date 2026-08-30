@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01134",
+  "title": "When the Sigil Wakes",
+  "author": "Mirabel Ashgrove",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Paloma Brightwater, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1134
+  }
+}

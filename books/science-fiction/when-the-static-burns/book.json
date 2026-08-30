@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07265",
+  "title": "When the Static Burns",
+  "author": "Wren Halloran",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Coral Villalobos, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7265
+  }
+}

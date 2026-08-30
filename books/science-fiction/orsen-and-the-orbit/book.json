@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07672",
+  "title": "Orsen and the Orbit",
+  "author": "August Dunmore",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Wren Kavanagh, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7672
+  }
+}

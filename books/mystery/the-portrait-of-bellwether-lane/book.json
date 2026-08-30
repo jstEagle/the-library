@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04815",
+  "title": "The Portrait of Bellwether Lane",
+  "author": "Bram Zhou",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Cyrus Ishikawa, an insurance investigator with a photographic memory, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. To get through this, they must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4815
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05933",
+  "title": "The Last Ledger Revisited",
+  "author": "Jonah Winterbourne",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Bram Voss, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. To get through this, they must decode a ledger hidden in plain sight before the trial begins.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5933
+  }
+}

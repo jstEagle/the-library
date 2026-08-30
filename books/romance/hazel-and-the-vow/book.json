@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06549",
+  "title": "Hazel and the Vow",
+  "author": "Dominic Pemberton",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Coral Halloran, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. To get through this, she must forgive the person in the mirror first before the festival ends.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6549
+  }
+}

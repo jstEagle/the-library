@@ -1,0 +1,59 @@
+{
+  "title": "The Cipher of Greywater Bay",
+  "slug": "mystery/the-cipher-of-greywater-bay",
+  "model": "stealth/ox-alpha",
+  "premise": "True-crime podcaster Marguerite Thackeray has quietly solved three deaths the police of Greywater Bay ruled accidental, and her latest episode names a suspect: the town's founding family, the Harrows. When a drowned man washes up wearing clothes stolen from her own closet, clutching a page from a century-old shipping ledger written in cipher, the killer is clearly sending her a message — or framing her. Decoding the ledger with the help of the victim's estranged brother, Marguerite uncovers that the Harrow fortune was built on smuggled human cargo and that each 'accident' silenced someone who could read it. In the end she exposes the last living Harrow — the beloved town archivist who has been her anonymous source all along — in a broadcast that forces Greywater Bay to reckon with what its inheritance truly cost.",
+  "about_author": "Petra Brightwater is a former maritime archivist who spent a decade cataloguing coastal shipping records before turning to crime fiction. She lives in a converted lighthouse keeper's cottage on the Atlantic seaboard, where she writes mysteries inspired by real ledgers and unsolved drownings.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Coldest Case",
+      "summary": "Marguerite's POV. She records the finale of her podcast season, naming the Harrow family in three decades-old 'accidental' deaths, while resisting pressure from the station to soften the claims. An anonymous listener email arrives containing a single line of ciphered text. Emotional beat: triumphant certainty shadowed by the first flicker of dread."
+    },
+    {
+      "n": 2,
+      "title": "A Body in Borrowed Clothes",
+      "summary": "Marguerite's POV. Police call her at dawn: a man found at Greywater Bay wears her missing cardigan and scarf. The victim, Elias Vann, holds a torn ledger page. Detective Okafor, once hostile, now half-believes her. Emotional beat: violation and vertigo — the story has turned around to hunt her."
+    },
+    {
+      "n": 3,
+      "title": "The Archivist's Smile",
+      "summary": "Marguerite's POV. She visits the Harrow Historical Society, where charming archivist Cornelius Harrow offers full access to the family papers — too readily. She notices a gap in the 1890s shipping ledgers matching her cipher page. Emotional beat: seductive courtesy concealing menace."
+    },
+    {
+      "n": 4,
+      "title": "Elias's Brother",
+      "summary": "Alternating POV: Jonah Vann, a locksmith newly arrived in town, grieving and suspicious of the podcaster he blames for his brother's death. He confronts Marguerite; they discover both received ciphered emails from the same anonymous sender. Emotional beat: antagonism cracking into uneasy alliance."
+    },
+    {
+      "n": 5,
+      "title": "What the Ledger Hides",
+      "summary": "Marguerite's POV. Using Elias's notes, they crack the cipher's key: initials mapped to tide tables. The ledger records ships listed as timber that carried people — and payments initialed by every Harrow generation. Emotional beat: horror of inheritance, history repeating as murder."
+    },
+    {
+      "n": 6,
+      "title": "The Third Accident",
+      "summary": "Jonah's POV. A near-fatal brake failure on the coastal road convinces them the killer is active. Jonah realizes his brother hadn't been researching the past — Elias was blackmailing someone present-day. Emotional beat: fear sharpening into resolve, guilt over doubting Elias."
+    },
+    {
+      "n": 7,
+      "title": "Anonymous",
+      "summary": "Marguerite's POV. Tracing the ciphered emails through library terminals, she narrows the sender to someone with keys to the archive. Her producer urges her to drop the story; her apartment is searched while she's out. Emotional beat: isolation — trusting no one, not even her own instincts about allies."
+    },
+    {
+      "n": 8,
+      "title": "The Tide Table Trap",
+      "summary": "Jonah's POV. The anonymous sender requests a midnight meeting at the old cannery. It's an ambush meant to frame Jonah for Elias's murder; Marguerite, following the tide-table logic, arrives in time to record the setup. Emotional beat: terror transmuted into proof — the trap becomes evidence."
+    },
+    {
+      "n": 9,
+      "title": "The Last Harrow",
+      "summary": "Marguerite's POV. Confronting Cornelius in the archive after hours, she plays back the recording and reveals the decoded ledger: he killed to bury the family's founding crime and protect his identity as her helpful 'anonymous source.' He confesses with chilling pride in the Harrow name. Emotional beat: climax — power's corruption laid bare."
+    },
+    {
+      "n": 10,
+      "title": "Inheritance",
+      "summary": "Marguerite's POV, epilogue weeks later. The broadcast airs; arrests follow; the town splits between grief and gratitude. Jonah donates Elias's research to a truth-and-reconciliation exhibit, and Marguerite ends her podcast not with a case closed but a question: what will the next generation do with what they inherit? Emotional beat: hard-won resolution, forward-looking hope."
+    }
+  ]
+}

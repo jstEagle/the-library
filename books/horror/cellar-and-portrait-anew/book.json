@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04018",
+  "title": "Cellar and Portrait Anew",
+  "author": "Ulyana Thackeray",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Zephyrine Eastwick, a property surveyor appraising a house that appraises back, doesn't believe, has never believed, will not begin believing now. But when the excavation crew unearths a door, sealed from the inside, they discover that staying invisible was never really an option. To get through this, they must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4018
+  }
+}

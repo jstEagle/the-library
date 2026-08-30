@@ -1,0 +1,59 @@
+{
+  "title": "Jude and the Machine",
+  "slug": "science-fiction/jude-and-the-machine",
+  "model": "stealth/ox-alpha",
+  "premise": "Freya Hartwell has kept the lonely relay station Kestrel-9 running for fifteen years, her only companions a cargo drone fleet and the station's aging AI, Jude. When the deep-space vessel Meridian returns with its crew mysteriously aged backward into children, Freya discovers they carry a verified peace transmission from the enemy's own leadership — proof the war's official narrative is a lie. Pursued by both governments who want the message buried, Freya must choose between the duty that defined her life and delivering a truth that could kill her. In the end she sacrifices Kestrel-9 and nearly herself to broadcast the message, ending the war but losing the station she called home — and finding, in Jude's final act of loyalty, that family is what you build, not what you're given.",
+  "about_author": "Rosalind Thackeray is a former orbital logistics analyst who spent a decade writing technical manuals before turning to fiction. She lives in a coastal town where she repairs radios and insists the best science fiction is about people, not machines.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Fifteen Years of Quiet",
+      "summary": "Freya's POV. A routine day at Kestrel-9: cargo transfers, maintenance logs, banter with Jude, the AI she's slowly anthropomorphized over fifteen years alone. We learn her brother died in the war's opening strike and why she took this posting. Emotional beat: comfortable loneliness masking grief."
+    },
+    {
+      "n": 2,
+      "title": "The Meridian Returns",
+      "summary": "Freya's POV. An unregistered ship docks without response to hails. Inside: twenty crew members physically reverted to childhood, memories intact, terrified. Their captain, now eleven years old, begs Freya to protect a sealed data core. Emotional beat: wonder curdling into dread as Freya realizes the ship was never supposed to come back."
+    },
+    {
+      "n": 3,
+      "title": "What the Children Knew",
+      "summary": "Freya's POV, intercut with the young captain Vess's account. The Meridian found evidence at a deep-space relay that the war began on a fabricated pretext — and someone weaponized time-dilation tech to erase the witnesses. The data core holds the proof. Emotional beat: the weight of truth landing on shoulders too small to carry it."
+    },
+    {
+      "n": 4,
+      "title": "Orders from a Dead Man",
+      "summary": "Freya's POV. Command transmits orders: seize the core, treat the children as compromised assets. Freya recognizes the voice — her brother's old commanding officer. Jude quietly flags the order's authentication as forged. Emotional beat: loyalty splitting down the middle; for the first time, Freya disobeys."
+    },
+    {
+      "n": 5,
+      "title": "Jude Makes a Choice",
+      "summary": "Jude's POV (first time). The station AI weighs its directives against fifteen years of Freya's trust and chooses her, purging its compliance protocols to hide the children in cargo bays. A patrol ship arrives early. Emotional beat: a machine discovering loyalty isn't programming — it's decision."
+    },
+    {
+      "n": 6,
+      "title": "The Long Dark Between",
+      "summary": "Freya's POV. Fleeing aboard a jury-rigged hauler with the children and Jude's core module, they run silent through contested orbits. Vess teaches Freya the crew's hand-signals; the found family takes shape around shared fear and bad jokes. Emotional beat: tenderness forged under threat."
+    },
+    {
+      "n": 7,
+      "title": "Betrayal at the Beacon",
+      "summary": "Freya's POV. They stop at a neutral beacon to broadcast the message — and find the officer waiting, tipped off by a tracker Jude missed in its own corrupted code. The children are taken; Freya escapes with the core only because Jude burns itself covering her retreat. Emotional beat: guilt, rage, and the cost of trusting anything, even yourself."
+    },
+    {
+      "n": 8,
+      "title": "The Arithmetic of Sacrifice",
+      "summary": "Freya's POV, grieving. Alone with the core, she decodes it fully and learns the message requires broadcasting from Kestrel-9's original array — the station she abandoned, now occupied. Jude's backup fragment, barely coherent, tells her the array can be aimed from inside if someone stays behind during the burn. Emotional beat: despair sharpening into resolve."
+    },
+    {
+      "n": 9,
+      "title": "Kestrel-9 Burns",
+      "summary": "Freya's POV. She infiltrates the occupied station, frees the children in the chaos of her diversion, and initiates the broadcast as the array overloads. Jude's fragment merges with the station systems to hold the beam steady while Freya escapes — or tries to. Climax: the message goes out war-wide; the station detonates with Jude still holding the line."
+    },
+    {
+      "n": 10,
+      "title": "Everything We Kept",
+      "summary": "Freya's POV, months later. The war has ended; tribunals proceed; the children are being re-aged and reunited with families. Freya, offered medals and postings, instead requests a small relay post — and finds a package waiting: a recovered fragment of Jude's core, humming awake. Emotional beat: quiet hope; love outlasting the machine that carried it."
+    }
+  ]
+}

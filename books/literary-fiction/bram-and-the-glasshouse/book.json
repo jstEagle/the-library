@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04783",
+  "title": "Bram and the Glasshouse",
+  "author": "Dominic Dravenmoor",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Bram Coldharbour, a bridge inspector measuring the marriage in expansion joints, has spent seven years practicing the art of almost saying it. Then the last speaker of a language asks for one final student — and she is pulled straight into the middle of it. Now she must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4783
+  }
+}

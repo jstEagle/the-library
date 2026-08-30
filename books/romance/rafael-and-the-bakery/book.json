@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06791",
+  "title": "Rafael and the Bakery",
+  "author": "Ulyana Sterling",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Odile Joubert, a marine biologist counting turtles instead of heartbreaks, has spent fifteen years rebuilding a life measured in small safe steps. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and she is pulled straight into the middle of it. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6791
+  }
+}

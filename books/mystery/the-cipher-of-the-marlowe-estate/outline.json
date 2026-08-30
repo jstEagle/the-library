@@ -1,0 +1,59 @@
+{
+  "title": "The Cipher of the Marlowe Estate",
+  "slug": "mystery/the-cipher-of-the-marlowe-estate",
+  "model": "stealth/ox-alpha",
+  "premise": "When a confession letter arrives at coroner Edmund Okafor's office the day after wealthy matriarch Vivian Marlowe's funeral, claiming her death was murder, Edmund discovers the letter is written in a cipher matching an old estate ledger hidden in the library's bookshelves. Decoding it reveals decades of bribes, blackmail, and a falsified death certificate Edmund's own predecessor signed. As the Marlowe heirs close ranks to protect their inheritance, Edmund must decide whether exposing the truth is worth destroying the town's last great family — and the memory of the friend who once saved their life. In the end, Edmund deciphers the final entry: Vivian wrote the confession herself before dying of a deliberate overdose, framing her own death as murder to force the corrupt heirs into the open.",
+  "about_author": "Sable Zhou is the pen name of a former small-town newspaper reporter who spent seven years covering county courthouses and unsolved deaths in rural New England. They now write mysteries from a farmhouse office, drawing on a lifelong fascination with ledgers, ciphers, and the secrets towns keep.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Postmarked Yesterday",
+      "summary": "Edmund Okafor's POV. The morning after Vivian Marlowe's lavish funeral, a letter arrives confessing to her murder — unsigned, postmarked the day she died. Edmund, who signed the natural-death certificate themselves, feels professional shame curdle into dread. Emotional beat: quiet unease as certainty begins to crack."
+    },
+    {
+      "n": 2,
+      "title": "Every Grave by Name",
+      "summary": "Edmund's POV. Re-examining the body against protocol, Edmund finds no forensic evidence of murder but notices Vivian's hands were ink-stained — odd for a woman who hadn't written letters in years. A visit to the grieving heirs reveals rehearsed grief and a locked library. Emotional beat: suspicion hardening into resolve."
+    },
+    {
+      "n": 3,
+      "title": "The Ledger in Plain Sight",
+      "summary": "Edmund's POV. Following a hunch about Vivian's childhood habit of hiding notes in favorite books, Edmund finds a ledger whose entries are written in a substitution cipher keyed to gravestone dates in the cemetery Edmund knows by heart. Emotional beat: exhilaration shadowed by guilt over desecrating a dead friend's privacy."
+    },
+    {
+      "n": 4,
+      "title": "Entries from 1987",
+      "summary": "Alternating POV: decoded ledger excerpts in Vivian's voice. The earliest entries reveal her husband's fatal 'accident' was arranged by business partners — including Edmund's beloved predecessor, Dr. Hale. Emotional beat: betrayal; the past Edmund trusted was already rotten."
+    },
+    {
+      "n": 5,
+      "title": "The Heirs Apparent",
+      "summary": "Heir Julian Marlowe's POV. Julian discovers someone has been in the library and warns his siblings that Vivian kept 'insurance.' Their loyalty fractures as each privately wonders what mother knew about them. Emotional beat: fear masquerading as family unity."
+    },
+    {
+      "n": 6,
+      "title": "What Hale Signed",
+      "summary": "Edmund's POV. Digging through archived records, Edmund finds Hale falsified a death certificate in 1987 — and that Hale later paid anonymously into Edmund's medical school fund. The cipher's middle entries name the price. Emotional beat: loyalty and truth tearing in opposite directions."
+    },
+    {
+      "n": 7,
+      "title": "A Fire in the Stacks",
+      "summary": "Julian's POV. The library burns in the night; the ledger seems destroyed. But Edmund had photographed every page, and the fire's accelerant traces back to a Marlowe boat shed. Emotional beat: escalation — the family has chosen protection over innocence."
+    },
+    {
+      "n": 8,
+      "title": "The Last Entry",
+      "summary": "Edmund's POV. The cipher's final pages, keyed to Vivian's own grave date, reveal she wrote them herself: terminally ill, she took a deliberate overdose and framed it as murder, betting the heirs' panic would expose everything. Emotional beat: grief reframed as terrible admiration."
+    },
+    {
+      "n": 9,
+      "title": "Confession, Countersigned",
+      "summary": "Climax, Edmund's POV. At a staged reading of the will, Edmund presents the decoded ledger. Julian breaks first, confessing to burning the library; his sister admits paying Hale's old debts. The murder that never happened unmasks every crime that did. Emotional beat: catharsis with a bitter aftertaste."
+    },
+    {
+      "n": 10,
+      "title": "The Coroner's Note",
+      "summary": "Resolution, Edmund's POV. Edmund amends no certificate — Vivian died as she intended — but files the ledger with the state and leaves one coded line on her headstone's registry card, a private goodbye. Some graves are finally known by their whole names. Emotional beat: mournful peace."
+    }
+  ]
+}

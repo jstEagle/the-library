@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06479",
+  "title": "A Summer for the Vow",
+  "author": "Rosalind Ishikawa",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Theo Amberdale, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6479
+  }
+}

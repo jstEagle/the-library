@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02667",
+  "title": "Bridge and Atlas",
+  "author": "Hazel Ishikawa",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Casper Oyelaran, a typeface cutter's daughter in a print shop on the eve of a revolution, measures the world in what can be carried when the orders come. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and they are pulled straight into the middle of it. Now they must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2667
+  }
+}

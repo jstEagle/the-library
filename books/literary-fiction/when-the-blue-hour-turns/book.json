@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04161",
+  "title": "When the Blue Hour Turns",
+  "author": "Odile Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ansel Ishikawa, a former prodigy returning to the conservatory as a janitor, has perfected the smile that ends conversations. Then a box of undelivered letters surfaces behind a wardrobe — and they are pulled straight into the middle of it. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4161
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05626",
+  "title": "Mara and the Cipher",
+  "author": "Coral Delacroix",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Sebastian Amberdale, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. To get through this, they must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5626
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00764",
+  "title": "Vesper and the Ember",
+  "author": "X. M. Okafor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "August Ravensworth, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 764
+  }
+}

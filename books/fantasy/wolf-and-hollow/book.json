@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01358",
+  "title": "Wolf and Hollow",
+  "author": "Cyrus Sterling",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.5,
+  "blurb": "Edmund Ishikawa, a debt-bound temple scribe, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1358
+  }
+}

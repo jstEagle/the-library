@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05725",
+  "title": "Juniper and the Ledger",
+  "author": "Kestrel Okafor",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Beatrix Dunmore, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. To get through this, they must untangle alibis woven thirty years ago before the statute expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5725
+  }
+}

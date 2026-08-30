@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08327",
+  "title": "Echo and Machine Anew",
+  "author": "Ivo Ishikawa",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Ulyana Marchetti, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. To get through this, he must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8327
+  }
+}

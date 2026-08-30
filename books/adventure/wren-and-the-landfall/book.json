@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00405",
+  "title": "Wren and the Landfall",
+  "author": "Quentin Villalobos",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Beatrix Nakamura, an archaeologist's estranged child and better digger, knows the wilderness forgives nothing and forgets less. But when an old rival hires the crew for the one job that was sworn off long ago, they discover that staying invisible was never really an option. To get through this, they must beat the salvage fleet to the wreck by six tides before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 405
+  }
+}

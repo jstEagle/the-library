@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05421",
+  "title": "Juniper and the Will",
+  "author": "O. M. Almeida",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Tamsin Lockridge, a hotel concierge who notices everything, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. To get through this, she must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5421
+  }
+}

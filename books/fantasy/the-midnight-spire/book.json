@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00771",
+  "title": "The Midnight Spire",
+  "author": "Noor Iversen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Oscar Voss, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. To get through this, she must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 771
+  }
+}

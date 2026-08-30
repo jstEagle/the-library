@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06558",
+  "title": "Orchard and Vow",
+  "author": "Ansel Voss",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Mirabel Eastwick, a pastry chef whose café is three missed payments from gone, has spent fifteen years rebuilding a life measured in small safe steps. But when a lost letter surfaces, postmarked eleven years ago, she discovers that staying invisible was never really an option. To get through this, she must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6558
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06072",
+  "title": "The Second Harbor",
+  "author": "Wren Iversen",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Astrid Lockridge, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6072
+  }
+}

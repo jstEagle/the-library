@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08297",
+  "title": "Sable and the Gravity",
+  "author": "Marguerite Pemberton",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Bram Nystrom, a pilot bonded to an AI that lies, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8297
+  }
+}

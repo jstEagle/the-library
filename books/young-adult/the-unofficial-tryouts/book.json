@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09580",
+  "title": "The Unofficial Tryouts",
+  "author": "L. M. Nakamura",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Orsen Nystrom, the team's statistician who knows the game is rigged, counts days until graduation like a sentence being served. But when a best friend goes missing, leaving only a set of keys behind, they discover that staying invisible was never really an option. Now they must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9580
+  }
+}

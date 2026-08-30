@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07447",
+  "title": "Machine and Protocol",
+  "author": "Theo Eastwick",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Lena Galloway, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7447
+  }
+}

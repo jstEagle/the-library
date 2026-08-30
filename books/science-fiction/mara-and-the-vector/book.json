@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07698",
+  "title": "Mara and the Vector",
+  "author": "C. M. Oyelaran",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Lena Nakamura, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. But when a ship returns from deep space with everyone aboard aged backward, she discovers that staying invisible was never really an option. To get through this, she must deliver a message that will end the war — or start it before the fleet's truce expires.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7698
+  }
+}

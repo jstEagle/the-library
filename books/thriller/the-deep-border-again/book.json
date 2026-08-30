@@ -1,0 +1,21 @@
+{
+  "id": "THR-09469",
+  "title": "The Deep Border Again",
+  "author": "Isandro Delacroix",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Xanthe Zhou, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. To get through this, he must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9469
+  }
+}

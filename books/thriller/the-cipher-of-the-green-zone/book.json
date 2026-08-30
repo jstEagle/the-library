@@ -1,0 +1,21 @@
+{
+  "id": "THR-08662",
+  "title": "The Cipher of the Green Zone",
+  "author": "August Joubert",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Jonah Thackeray, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. Then a voiceprint unlocks a server on another continent — and he is pulled straight into the middle of it. To get through this, he must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8662
+  }
+}

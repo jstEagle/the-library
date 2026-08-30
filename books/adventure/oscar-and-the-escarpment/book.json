@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00467",
+  "title": "Oscar and the Escarpment",
+  "author": "Orsen Winterbourne",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Noor Crane, a railroad engineer with a map of closed lines, carries a compass, a debt, and very little else. Then an expedition upriver stops answering the radio — and they are pulled straight into the middle of it. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 467
+  }
+}

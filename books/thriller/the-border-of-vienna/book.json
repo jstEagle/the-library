@@ -1,0 +1,21 @@
+{
+  "id": "THR-09033",
+  "title": "The Border of Vienna",
+  "author": "Felix Montrose",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Marguerite Winterbourne, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9033
+  }
+}

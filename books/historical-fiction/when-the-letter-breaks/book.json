@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02371",
+  "title": "When the Letter Breaks",
+  "author": "Coral Montrose",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Beatrix Winterbourne, an apprentice clockmaker summoned to repair the observatory's master clock, believes history happens to other people, elsewhere. But when the army requisitions the town and the ledger with all the names, she discovers that staying invisible was never really an option. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2371
+  }
+}

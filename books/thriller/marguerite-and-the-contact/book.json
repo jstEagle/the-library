@@ -1,0 +1,21 @@
+{
+  "id": "THR-09227",
+  "title": "Marguerite and the Contact",
+  "author": "Jonah Kavanagh",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Xanthe Vasquez, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. To get through this, she must burn the network that did the training before the border checkpoint shifts change.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9227
+  }
+}

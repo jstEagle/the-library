@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06363",
+  "title": "Quentin and the Songbook",
+  "author": "Mirabel Oyelaran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Quentin Lockridge, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6363
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04877",
+  "title": "The Borrowed Confession",
+  "author": "Jude Underhill",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Yara Thornbury, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, she discovers that staying invisible was never really an option. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4877
+  }
+}

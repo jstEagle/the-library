@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01340",
+  "title": "A Wolf for the Thorn",
+  "author": "Marguerite Thackeray",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Coral Zhou, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1340
+  }
+}

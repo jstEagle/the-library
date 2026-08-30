@@ -1,0 +1,21 @@
+{
+  "id": "THR-09246",
+  "title": "Jude and the Contact",
+  "author": "Theo Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ines Ishikawa, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9246
+  }
+}

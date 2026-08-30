@@ -1,0 +1,21 @@
+{
+  "id": "THR-09208",
+  "title": "Edmund and the Deadline",
+  "author": "August Coldharbour",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Isandro Nystrom, a burnt analyst bounced from three agencies, hasn't slept through the night since the incident. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9208
+  }
+}

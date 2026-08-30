@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06763",
+  "title": "Edmund and the Letters",
+  "author": "Sable Oyelaran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Quentin Nakamura, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. But when a fake date to survive a family reunion feels too real by dessert, she discovers that staying invisible was never really an option. Now she must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6763
+  }
+}

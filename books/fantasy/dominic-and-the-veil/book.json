@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01627",
+  "title": "Dominic and the Veil",
+  "author": "Casper Yarrow",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Yara Joubert, a thief who steals memories, has spent three years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1627
+  }
+}

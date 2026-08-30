@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07884",
+  "title": "Ulyana and the Horizon",
+  "author": "Noor Oyelaran",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Sable Amberdale, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "found family",
+    "memory",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7884
+  }
+}

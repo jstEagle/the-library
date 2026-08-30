@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04278",
+  "title": "Oscar and the Glasshouse",
+  "author": "Ulyana Vane",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Ivo Pemberton, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. Now he must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4278
+  }
+}

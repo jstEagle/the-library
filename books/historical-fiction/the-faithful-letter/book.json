@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02598",
+  "title": "The Faithful Letter",
+  "author": "Rosalind Iversen",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Noor Nakamura, a battlefield nurse keeping a ledger of the names officers omit, believes history happens to other people, elsewhere. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. Now they must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2598
+  }
+}

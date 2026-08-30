@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04587",
+  "title": "The Slow Weather",
+  "author": "Astrid Delacroix",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ulyana Ishikawa, a former prodigy returning to the conservatory as a janitor, has perfected the smile that ends conversations. Then the last speaker of a language asks for one final student — and she is pulled straight into the middle of it. To get through this, she must forgive the stranger in the old photographs before the mother's memory goes entirely.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4587
+  }
+}

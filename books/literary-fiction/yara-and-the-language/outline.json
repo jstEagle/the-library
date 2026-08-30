@@ -1,0 +1,59 @@
+{
+  "title": "Yara and the Language",
+  "slug": "literary-fiction/yara-and-the-language",
+  "model": "stealth/ox-alpha",
+  "premise": "Ansel Amberdale has spent three years writing postcards to his late mother at an address that no longer exists, a ritual that lets him grieve without ever saying the word. At her belated memorial, a stranger named Odile greets the family as 'the Vasquez-Amberdales,' a name from a marriage and a scandal Ansel's mother buried, and reveals she was once the other daughter in that household. As Ansel chases the truth of what his mother fled—and what she took with her—he must choose between protecting her silence and claiming an inheritance of memory he never knew was his. The novel ends with Ansel riding the final bus along the old route before it is permanently rerouted, standing in front of the burned lot, and speaking his goodbye aloud to the empty address for the first time.",
+  "about_author": "Yara Okafor is a former court interpreter who grew up between Lagos and Manchester, and whose fiction examines how families keep secrets in the gaps between languages. She writes at kitchen tables in other people's houses, collecting the stories strangers tell when they think no one is keeping record.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Poste Restante",
+      "summary": "Ansel's POV. We meet him mid-ritual: buying postcards, writing to his dead mother at 14 Corben Lane, mailing them to nowhere. His sister Priya calls about the delayed memorial service; he deflects. Emotional beat: tenderness disguised as routine, grief managed like paperwork."
+    },
+    {
+      "n": 2,
+      "title": "The Stranger Who Knew",
+      "summary": "Ansel's POV. At the sparse funeral tea, a woman named Odile embraces Priya using the name 'Vasquez-Amberdale.' Ansel confronts her; she says only, 'Ask your mother why we stopped being sisters,' and leaves a brass key on the table. Beat: the ground tilts; the tidy grief cracks open."
+    },
+    {
+      "n": 3,
+      "title": "What the House Kept",
+      "summary": "Priya's POV. Priya remembers their mother burning papers in the garden the year before she died, and finds the key fits a locker at the old neighborhood's condemned station. She hides this from Ansel, resentful of his postcard piety. Beat: sibling friction; two griefs that cannot recognize each other."
+    },
+    {
+      "n": 4,
+      "title": "Corben Lane, Before",
+      "summary": "Ansel's POV, interleaved with his mother's unsent letters found in the locker: fragments of a household where she worked as a live-in letter-writer for an illiterate matriarch, and where a fire took everything one winter night. Beat: seduction of the past; Ansel realizes his postcards were addressed to a life he never knew."
+    },
+    {
+      "n": 5,
+      "title": "Odile's Version",
+      "summary": "Odile's POV. She tells Ansel her side: the matriarch's will named their mother heir, the family called it theft, the fire followed. She doesn't accuse—she asks Ansel to help her petition the city to preserve the burned lot before the bus reroute erases access to it entirely. Beat: justice outside the law takes shape as a small civic fight."
+    },
+    {
+      "n": 6,
+      "title": "The Inheritance Question",
+      "summary": "Priya's POV. Priya discovers the will itself in the locker—a genuine document naming their mother sole heir—and must decide whether exposing it vindicates or destroys the woman they mourned. She and Ansel clash violently over whether truth honors the dead or betrays them. Beat: midpoint rupture; the siblings stop speaking."
+    },
+    {
+      "n": 7,
+      "title": "Letters to the Living",
+      "summary": "Ansel's POV. He stops writing postcards and instead writes letters to the living: Odile, Priya, even the city council. Each reply forces a confession of his own—the postcards were also addressed to himself. Beat: quiet turning point; grief begins converting into action."
+    },
+    {
+      "n": 8,
+      "title": "The Hearing",
+      "summary": "Odile's POV. The preservation hearing goes badly; the council cites the fire's 'unresolved circumstances' and a hostile cousin of the old household appears, threatening litigation and dredging up the theft accusation publicly. Odile falters; Ansel stands and speaks his mother's name aloud for the first time. Beat: climax of the public plot; private stakes ignite."
+    },
+    {
+      "n": 9,
+      "title": "What We Say Out Loud",
+      "summary": "Ansel's POV. Aftermath: the cousin withdraws when Priya produces the will and a letter proving the matriarch freely chose their mother. The lot is granted a memorial marker, not preservation—but it's enough. Priya and Ansel reconcile over the locker's contents. Beat: catharsis; justice arrives imperfect but real."
+    },
+    {
+      "n": 10,
+      "title": "The Last Bus",
+      "summary": "Ansel's POV. On the final day before the route is rerouted, Ansel rides the last bus to Corben Lane with Priya and Odile, stands before the burned lot now bearing its small plaque, and delivers the goodbye he has written a hundred times and never spoken. He mails one last postcard—to himself, at his own address. Beat: resolution; ownership of memory, at last."
+    }
+  ]
+}

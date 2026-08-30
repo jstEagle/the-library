@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09740",
+  "title": "The Secret Locker",
+  "author": "P. M. Yarrow",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Tamsin Sandoval, a scholarship student at an academy with too many secrets, stays under the radar: head down, grades up, locker shut. Then a group chat starts predicting things that haven't happened yet — and she is pulled straight into the middle of it. To get through this, she must win the championship that doesn't matter — and the one that does before prom.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9740
+  }
+}

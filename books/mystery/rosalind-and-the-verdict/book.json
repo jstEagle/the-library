@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05727",
+  "title": "Rosalind and the Verdict",
+  "author": "Lena Okonkwo",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Coral Joubert, the archivist of a cathedral with a locked crypt, has spent ten years keeping the town's secrets filed and alphabetized. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5727
+  }
+}

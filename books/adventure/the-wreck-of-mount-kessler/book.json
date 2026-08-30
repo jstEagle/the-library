@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00236",
+  "title": "The Wreck of Mount Kessler",
+  "author": "Gideon Thornbury",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Gideon Vasquez, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, he discovers that staying invisible was never really an option. Now he must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 236
+  }
+}

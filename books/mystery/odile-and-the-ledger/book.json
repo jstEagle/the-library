@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05731",
+  "title": "Odile and the Ledger",
+  "author": "Mara Oyelaran",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Lior Almeida, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. To get through this, they must find the witness everyone swears is dead before the statute expires.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5731
+  }
+}

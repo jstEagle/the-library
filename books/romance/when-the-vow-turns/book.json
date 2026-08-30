@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06062",
+  "title": "When the Vow Turns",
+  "author": "Ulyana Montrose",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Mirabel Eriksen, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6062
+  }
+}

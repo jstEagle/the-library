@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03216",
+  "title": "The Endless House",
+  "author": "Jude Thackeray",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Cyrus Fairweather, a radio host taking calls from listeners who died last week, keeps the lights on and the doors counted. But when the village's church bell rings although the bell was melted down in 1911, he discovers that staying invisible was never really an option. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3216
+  }
+}

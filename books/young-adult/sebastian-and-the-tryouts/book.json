@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09693",
+  "title": "Sebastian and the Tryouts",
+  "author": "Ada Nystrom",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ada Dravenmoor, the team's statistician who knows the game is rigged, counts days until graduation like a sentence being served. Then the teacher pairs nemesis with nemesis for a semester-long project — and they are pulled straight into the middle of it. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9693
+  }
+}

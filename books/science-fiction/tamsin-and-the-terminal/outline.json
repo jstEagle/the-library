@@ -1,0 +1,119 @@
+{
+  "title": "Tamsin and the Terminal",
+  "slug": "science-fiction/tamsin-and-the-terminal",
+  "model": "stealth/ox-alpha",
+  "premise": "Isandro Vasquez smuggles forbidden memories between the dying colony of Perdida and the orbital stations, trading in other people's pasts while her own colony's slow abandonment goes unrecorded by anyone but her. When a distress signal arrives in a language extinct for two centuries, she discovers it is being broadcast by the relay her grandfather helped build—and that the colony's 'plague' was a cover for a deliberate erasure of the colonists' records. Racing the signal's fading carrier wave to the relay at the edge of dead space, Isandro must choose between preserving her own smuggled archive of Perdida's memories and using its bandwidth to broadcast the truth that will finally force the core worlds to remember. She sends the truth, loses the archive, and returns to a colony that will now be remembered—whether its people forgive the cost or not.",
+  "about_author": "Silas Ashgrove is the pen name of a former radio technician who spent a decade maintaining remote transmitter arrays in high-altitude deserts before turning to fiction. Their work is known for quiet, signal-obsessed science fiction about people who keep records no one asked them to keep.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Contraband of the Mind",
+      "summary": "POV Isandro. A routine smuggling run: Isandro carries a widow's recorded memories past orbital customs inside a decommissioned coolant canister, nearly caught by a customs drone. Establishes Perdida's decay and the memory trade. Emotional beat: weary pride in work no one values."
+    },
+    {
+      "n": 2,
+      "title": "The Ledger of Small Deaths",
+      "summary": "POV Isandro. She records the colony's latest closure—the desalination plant—on her private archive, arguing with dockmaster Okafor, who insists forgetting is mercy. Introduces her grandfather's old relay logs. Emotional beat: stubborn grief."
+    },
+    {
+      "n": 3,
+      "title": "Signal in a Dead Tongue",
+      "summary": "POV Isandro. Her salvaged receiver picks up a distress broadcast in Ashkari, a language extinct two centuries. The transmission is impossibly clean, impossibly close. She verifies it three times before believing it. Emotional beat: electric disbelief."
+    },
+    {
+      "n": 4,
+      "title": "What the Widow Sold",
+      "summary": "POV Isandro, with flashback texture via the widow's memory chip. Playing contraband memories to decode Ashkari phonetics, she finds a fragment matching the signal's cadence—her grandfather recorded in Ashkari once. Emotional beat: uncanny connection."
+    },
+    {
+      "n": 5,
+      "title": "Okafor's Warning",
+      "summary": "POV Isandro. The dockmaster reveals core-world survey ships are due to declare Perdida officially abandoned—a legal death. He begs her to drop the signal. She refuses. Their friendship fractures. Emotional beat: loyalty beginning to bend."
+    },
+    {
+      "n": 6,
+      "title": "The Relay at the Edge",
+      "summary": "POV Isandro. She studies her grandfather's logs: the deep-space relay he helped build was decommissioned 'in error,' yet it is transmitting. She commits to the run, bartering her best contraband memories for fuel. Emotional beat: fearful resolve."
+    },
+    {
+      "n": 7,
+      "title": "Customs, Cold Orbit",
+      "summary": "POV Isandro. Departure through orbital customs; an inspector, Reyes, flags her ship but lets her go—for a price: one of her own memories, unwatched. She pays without knowing what she gave. Emotional beat: violation and necessity."
+    },
+    {
+      "n": 8,
+      "title": "Dead Space, Living Static",
+      "summary": "POV Isandro. Alone in transit, the signal strengthens and she can almost parse it: not a distress—a warning, repeating. Her navigation AI, built from her grandfather's voice patterns, begins completing Ashkari phrases unprompted. Emotional beat: creeping dread."
+    },
+    {
+      "n": 9,
+      "title": "The Wreck of Meridian's Hope",
+      "summary": "POV Isandro. She docks at a derelict colony ship, finding its memory banks wiped in the same pattern as Perdida's records—centuries old, deliberate, systematic. Someone has been erasing colonies for a long time. Emotional beat: horror of scale."
+    },
+    {
+      "n": 10,
+      "title": "Ghost in the Voiceprint",
+      "summary": "POV Isandro. The AI reveals it was seeded with her grandfather's full memory archive—she has been flying inside his mind without knowing. He knew about the erasures. He left her a route and a warning she never received. Emotional beat: grief for a second death."
+    },
+    {
+      "n": 11,
+      "title": "Interception",
+      "summary": "POV Isandro. A core-world enforcement ship shadows her, ordering her to turn back; the relay is 'hazardous infrastructure.' She burns fuel she cannot spare to evade. Emotional beat: defiance sharpening into purpose."
+    },
+    {
+      "n": 12,
+      "title": "The Language of the Erased",
+      "summary": "POV Isandro. Deciphering with the AI's help, she learns Ashkari was the tongue of the first erased colony, and the signal is a dead colony's automated beacon—still begging to be remembered. Emotional beat: sorrowful recognition."
+    },
+    {
+      "n": 13,
+      "title": "Fuel, Air, Doubt",
+      "summary": "POV Isandro. Systems failing, she must decide: turn back and save herself, or push on. She records a message to Okafor apologizing in advance for the truth she's about to force on Perdida. Emotional beat: lonely commitment."
+    },
+    {
+      "n": 14,
+      "title": "The Relay's Keeper",
+      "summary": "POV Isandro. She arrives to find the relay maintained by a half-functional caretaker unit running on her grandfather's command codes—it has been retransmitting the Ashkari signal for decades, waiting for someone to listen. Emotional beat: haunted homecoming."
+    },
+    {
+      "n": 15,
+      "title": "Bandwidth of Truth",
+      "summary": "POV Isandro. The relay's transmitter can carry either her smuggled archive of Perdida's memories or the decoded erasure evidence—not both. The choice she fled to make arrives. Emotional beat: the weight of the impossible."
+    },
+    {
+      "n": 16,
+      "title": "What Isandro Kept",
+      "summary": "POV Isandro, intimate and interior. She reviews her archive—the widow's memories, the plant closures, her own childhood—understanding that memory kept private is memory that dies with its keeper. Emotional beat: quiet transformation."
+    },
+    {
+      "n": 17,
+      "title": "Enforcement at the Door",
+      "summary": "POV Isandro. The enforcement ship arrives, demanding she power down. Reyes is aboard; the memory she sold at customs is used to profile her. She stalls, buying minutes with conversation, with confession. Emotional beat: tension at its peak."
+    },
+    {
+      "n": 18,
+      "title": "Broadcast",
+      "summary": "POV Isandro. Climax: under interdiction fire, she uploads the erasure evidence on the Ashkari carrier wave—broad enough to reach every listening station in the core—and sacrifices her archive to keep the transmission alive through the barrage. Emotional beat: triumphant loss."
+    },
+    {
+      "n": 19,
+      "title": "Silence After",
+      "summary": "POV Isandro. Damaged, the relay goes dark; the caretaker unit plays her grandfather's last recorded words before failing. She drifts, unsure anything was heard. Emotional beat: hollow aftermath."
+    },
+    {
+      "n": 20,
+      "title": "The Answering Signal",
+      "summary": "POV Isandro. Across dead space, station after station begins retransmitting the broadcast—then core-world news feeds, then official inquiries. Perdida's abandonment declaration is suspended. The colony will be remembered. Emotional beat: astonished relief."
+    },
+    {
+      "n": 21,
+      "title": "Homecoming, Unforgiven",
+      "summary": "POV Isandro. She limps back to Perdida. Okafor meets her at the dock—angry that truth cost the colony its quiet, grateful that it cost the colonists their oblivion. Not reconciliation, but a beginning. Emotional beat: bruised belonging."
+    },
+    {
+      "n": 22,
+      "title": "The Terminal and the Beginning",
+      "summary": "POV Isandro, closing. She rebuilds the relay's receiver with the colonists' help and opens Perdida's own channel, broadcasting in Ashkari and every living tongue: we are here, we remember. The signal that saved her colony now carries its name outward. Emotional beat: earned hope."
+    }
+  ]
+}

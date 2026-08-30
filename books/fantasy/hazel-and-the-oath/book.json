@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01337",
+  "title": "Hazel and the Oath",
+  "author": "Petra Hartwell",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Sebastian Okafor, an exiled storm-caller, has spent twelve years selling small charms in a city that outlawed magic. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1337
+  }
+}

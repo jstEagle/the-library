@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06646",
+  "title": "The Songbook of Port Alder",
+  "author": "Isandro Thornbury",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Cyrus Brightwater, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6646
+  }
+}

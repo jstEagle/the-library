@@ -1,0 +1,21 @@
+{
+  "id": "THR-09488",
+  "title": "Geneva Rising Again",
+  "author": "Isandro Yarrow",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Emrys Dunmore, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. To get through this, he must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9488
+  }
+}

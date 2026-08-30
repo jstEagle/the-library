@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05477",
+  "title": "Paloma and the Witness",
+  "author": "Xanthe Dunmore",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Rafael Montrose, an insurance investigator with a photographic memory, has spent seven years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5477
+  }
+}

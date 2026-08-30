@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00777",
+  "title": "When the Choir Burns",
+  "author": "Silas Voss",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Quentin Vane, a thief who steals memories, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 777
+  }
+}

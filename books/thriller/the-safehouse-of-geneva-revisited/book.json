@@ -1,0 +1,21 @@
+{
+  "id": "THR-09458",
+  "title": "The Safehouse of Geneva Revisited",
+  "author": "Bram Winterbourne",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Edmund Reyes, a financial-crimes investigator drowning in clean money, has spent three years following rules that keep getting rewritten. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9458
+  }
+}

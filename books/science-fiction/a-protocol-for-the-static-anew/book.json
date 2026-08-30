@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08082",
+  "title": "A Protocol for the Static Anew",
+  "author": "Freya Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Kestrel Dunmore, the last human technician on an automated relay station, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. To get through this, she must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8082
+  }
+}

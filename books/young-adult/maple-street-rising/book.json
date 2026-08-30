@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09534",
+  "title": "Maple Street Rising",
+  "author": "Lena Underhill",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Emrys Ravensworth, the new kid at a school built over something old, is fine. Everything is fine. Obviously.. Then the teacher pairs nemesis with nemesis for a semester-long project — and she is pulled straight into the middle of it. Now she must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9534
+  }
+}

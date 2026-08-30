@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07133",
+  "title": "A Static for the Terminal",
+  "author": "Sable Delacroix",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Petra Okonkwo, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. To get through this, he must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7133
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01987",
+  "title": "Ada and the Hollow",
+  "author": "C. M. Okafor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Orsen Crane, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1987
+  }
+}

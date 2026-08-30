@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09819",
+  "title": "A Semester for the Prom",
+  "author": "Coral Pemberton",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Vesper Okafor, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. But when a best friend goes missing, leaving only a set of keys behind, she discovers that staying invisible was never really an option. Now she must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9819
+  }
+}

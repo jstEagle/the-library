@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00150",
+  "title": "When the Trail Falls",
+  "author": "Zephyrine Ashgrove",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.9,
+  "blurb": "Elodie Delacroix, an archaeologist's estranged child and better digger, knows the wilderness forgives nothing and forgets less. Then an expedition upriver stops answering the radio — and he is pulled straight into the middle of it. Now he must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 150
+  }
+}

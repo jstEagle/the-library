@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00348",
+  "title": "Xanthe and the Compass",
+  "author": "Theo Voss",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Silas Pemberton, a bush pilot flying medicine and rumors into the interior, knows the wilderness forgives nothing and forgets less. But when a government survey team vanishes, leaving gear and no tracks, they discover that staying invisible was never really an option. To get through this, they must follow a river upstream to its forbidden source before the monsoon makes landfall.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 348
+  }
+}

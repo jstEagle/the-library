@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03772",
+  "title": "The Hungry Hymn",
+  "author": "Marguerite Galloway",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Isandro Lockridge, a twin who came home to bury the wrong sibling, keeps the lights on and the doors counted. But when the village's church bell rings although the bell was melted down in 1911, he discovers that staying invisible was never really an option. To get through this, he must finish the ritual the founders started before the last resident signs the papers.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3772
+  }
+}

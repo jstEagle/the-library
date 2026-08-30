@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04668",
+  "title": "The Necessary Undertow",
+  "author": "Ines Thackeray",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "August Winterbourne, a bridge inspector measuring the marriage in expansion joints, has spent seven years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4668
+  }
+}

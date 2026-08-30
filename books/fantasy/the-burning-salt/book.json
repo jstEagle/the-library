@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01366",
+  "title": "The Burning Salt",
+  "author": "Jude Almeida",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Juniper Whitlock, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. Then the old gods begin answering prayers again — and he is pulled straight into the middle of it. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1366
+  }
+}

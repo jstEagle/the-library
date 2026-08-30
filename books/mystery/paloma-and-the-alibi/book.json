@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05657",
+  "title": "Paloma and the Alibi",
+  "author": "A. M. Reyes",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Astrid Ishikawa, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. Then a client pays in advance to prove a murder hasn't happened — yet — and they are pulled straight into the middle of it. To get through this, they must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5657
+  }
+}

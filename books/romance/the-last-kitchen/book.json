@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05951",
+  "title": "The Last Kitchen",
+  "author": "Marguerite Joubert",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Lena Zhou, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5951
+  }
+}

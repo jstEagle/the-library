@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07749",
+  "title": "August and the Vector",
+  "author": "Juniper Okonkwo",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Lena Nystrom, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. To get through this, she must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7749
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01909",
+  "title": "Marguerite and the Garden",
+  "author": "Xanthe Vasquez",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ulyana Winterbourne, a bone-carver who hears the dead, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1909
+  }
+}

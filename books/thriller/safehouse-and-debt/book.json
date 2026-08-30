@@ -1,0 +1,21 @@
+{
+  "id": "THR-08764",
+  "title": "Safehouse and Debt",
+  "author": "Ines Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Mirabel Sandoval, a burnt analyst bounced from three agencies, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8764
+  }
+}

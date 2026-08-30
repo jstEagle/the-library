@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06310",
+  "title": "The Whole Promise",
+  "author": "Kestrel Okafor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lior Yarrow, a pastry chef whose café is three missed payments from gone, has spent ten years rebuilding a life measured in small safe steps. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. To get through this, she must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6310
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08229",
+  "title": "When the Signal Turns Again",
+  "author": "Emrys Dravenmoor",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.4,
+  "blurb": "Wren Fairweather, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8229
+  }
+}

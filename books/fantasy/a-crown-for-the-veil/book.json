@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01435",
+  "title": "A Crown for the Veil",
+  "author": "Sable Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Mara Joubert, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1435
+  }
+}

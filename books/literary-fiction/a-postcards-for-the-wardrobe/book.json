@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04163",
+  "title": "A Postcards for the Wardrobe",
+  "author": "Lena Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Lior Crane, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. To get through this, they must forgive the stranger in the old photographs before the mother's memory goes entirely.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4163
+  }
+}

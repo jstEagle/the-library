@@ -1,0 +1,21 @@
+{
+  "id": "THR-08543",
+  "title": "A Protocol for the Safehouse",
+  "author": "Bram Nystrom",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Jude Thornbury, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. To get through this, they must extract a defector who may be the bait before the border checkpoint shifts change.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8543
+  }
+}

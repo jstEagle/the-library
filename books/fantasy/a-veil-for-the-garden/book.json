@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00896",
+  "title": "A Veil for the Garden",
+  "author": "Sable Ashgrove",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Sable Brightwater, the last oath-bound swordspeaker, has spent twelve years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 896
+  }
+}

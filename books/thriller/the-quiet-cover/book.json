@@ -1,0 +1,21 @@
+{
+  "id": "THR-08748",
+  "title": "The Quiet Cover",
+  "author": "Rafael Brightwater",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Casper Whitlock, a crash investigator whose family died in row twelve, has spent twelve years following rules that keep getting rewritten. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8748
+  }
+}

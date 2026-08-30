@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00385",
+  "title": "A Landfall for the Horizon",
+  "author": "Dominic Hartwell",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Rosalind Marchetti, a desert ranger tracking a thief across nothing, carries a compass, a debt, and very little else. Then a government survey team vanishes, leaving gear and no tracks — and she is pulled straight into the middle of it. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 385
+  }
+}

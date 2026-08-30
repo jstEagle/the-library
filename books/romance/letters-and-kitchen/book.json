@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06694",
+  "title": "Letters and Kitchen",
+  "author": "Kestrel Thackeray",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Sebastian Amberdale, a vineyard owner who inherited debts instead of grapes, swears the heart is a muscle like any other: trainable, containable. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6694
+  }
+}

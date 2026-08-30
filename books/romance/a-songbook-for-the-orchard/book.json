@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06164",
+  "title": "A Songbook for the Orchard",
+  "author": "O. M. Okafor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Coral Hartwell, a pastry chef whose café is three missed payments from gone, keeps love in the past tense where it belongs. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6164
+  }
+}

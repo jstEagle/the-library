@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05233",
+  "title": "The Witness of Saint Alder's",
+  "author": "Rosalind Reyes",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ulyana Thornbury, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5233
+  }
+}

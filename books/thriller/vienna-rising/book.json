@@ -1,0 +1,21 @@
+{
+  "id": "THR-08431",
+  "title": "Vienna Rising",
+  "author": "Wren Halloran",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Oscar Montrose, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8431
+  }
+}

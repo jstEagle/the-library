@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07564",
+  "title": "Theo and the Orbit",
+  "author": "T. M. Dunmore",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Astrid Nakamura, a pilot bonded to an AI that lies, has spent fifteen years hauling cargo through contested orbits. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. To get through this, he must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7564
+  }
+}

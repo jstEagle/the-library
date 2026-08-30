@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02585",
+  "title": "Typewriter and Compass",
+  "author": "Zephyrine Zhou",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Felix Ashgrove, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. Then the census taker asks one question too many — and they are pulled straight into the middle of it. To get through this, they must get the truth on the record ahead of the victors' historians before the ship sails on the morning tide.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2585
+  }
+}

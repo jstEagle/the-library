@@ -1,0 +1,209 @@
+{
+  "title": "The Quiet Archive",
+  "slug": "science-fiction/the-quiet-archive",
+  "model": "stealth/ox-alpha",
+  "premise": "Silas Quintana has spent twenty years investigating the colony's 'impossible accidents'—deaths the insurance consortium quietly pays out on—and tending a beacon on the dead moon of Vesper Hollow that no record says anyone commissioned. When the colony's children begin sharing an identical dream of a voice counting down from the stars, Silas realizes the beacon isn't a relic; it's a cage, broadcasting a suppression field that keeps something in dead space from noticing them. The accidents were the field's leaks, and the children's dream is the signal finally getting through. Silas, a skeptical teenage dreamer named Ilsa Reyes, and the disgraced engineer who built the beacon race a stolen hauler to the relay at the edge of dead space to answer the signal before the jump window closes—choosing to reveal the colony's location rather than let the suppression field burn out and kill every child on Vesper Hollow. They answer it, the jump window closes with them on the far side, and the colony survives not by staying invisible but by finally being seen.",
+  "about_author": "Bram Vasquez is the pen name of a former maritime insurance adjuster who spent eleven years writing denial letters before turning to fiction about the claims no one wants to file. They live near a decommissioned lighthouse and insist the resemblance to their work is coincidental.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Actuarial Grace",
+      "summary": "Silas Quintana closes his three-hundredth impossible-accident file—a farmer crushed by a harvester that had been switched off for a decade. POV: Silas. Emotional beat: weary competence masking a man who has stopped asking why the deaths cluster near the beacon he maintains."
+    },
+    {
+      "n": 2,
+      "title": "The Beacon Nobody Ordered",
+      "summary": "Silas performs his quarterly maintenance on the beacon and finds fresh scorch marks on a transmitter that has no power source. POV: Silas. Emotional beat: the first crack in his certainty that his quiet duty is harmless."
+    },
+    {
+      "n": 3,
+      "title": "Children of the Same Dream",
+      "summary": "Ilsa Reyes, fourteen, wakes with her entire classroom reciting the same countdown in their sleep: a voice from dead space. POV: Ilsa. Emotional beat: wonder curdling into fear as adults refuse to listen."
+    },
+    {
+      "n": 4,
+      "title": "Denied Claims",
+      "summary": "Silas cross-references accident sites against the children's dream reports and finds a perfect ring around the beacon. POV: Silas. Emotional beat: cold horror as the pattern resolves—the accidents are the field's pressure valves."
+    },
+    {
+      "n": 5,
+      "title": "The Engineer in Exile",
+      "summary": "Silas tracks down Odile Marchetti, the colony's disgraced founding engineer, living drunk in a shipping container. She built the beacon. POV: Silas. Emotional beat: reluctant alliance born of shared guilt."
+    },
+    {
+      "n": 6,
+      "title": "What the Field Hides",
+      "summary": "Odile confesses: the beacon suppresses emissions to hide the colony from something she saw during first survey, something that answers signals. POV: Odile (flashback). Emotional beat: terror transmitted across twenty years."
+    },
+    {
+      "n": 7,
+      "title": "Counting Down in Class",
+      "summary": "Ilsa organizes the dreamers, mapping their shared visions: a relay station at the edge of dead space, a jump window, a door that opens twice a century. POV: Ilsa. Emotional beat: defiant purpose in a girl the colony dismisses."
+    },
+    {
+      "n": 8,
+      "title": "The Consortium Arrives",
+      "summary": "Insurance consortium auditor Prentiss Vance lands unannounced, asking pointed questions about the accident cluster and the beacon's power draw. POV: Silas. Emotional beat: the quiet life officially over."
+    },
+    {
+      "n": 9,
+      "title": "A Death That Wasn't",
+      "summary": "A dreamer child survives an 'impossible' fall—the first ever. The field is failing faster than Odile predicted. POV: Ilsa. Emotional beat: hope and dread entangled."
+    },
+    {
+      "n": 10,
+      "title": "Silas's Ledger",
+      "summary": "Silas rereads twenty years of files and realizes he signed off on cover-ups that protected the field, making him complicit in every death. POV: Silas. Emotional beat: guilt as engine."
+    },
+    {
+      "n": 11,
+      "title": "Odile's Bargain",
+      "summary": "Vance offers Odile reinstatement if she helps him decommission the beacon for salvage value. She pretends to consider. POV: Odile. Emotional beat: loyalty tested against old wounds."
+    },
+    {
+      "n": 12,
+      "title": "The Dream Deepens",
+      "summary": "The shared dream changes: the voice now speaks names. It says Ilsa's. POV: Ilsa. Emotional beat: intimacy with the unknown—being called, not hunted."
+    },
+    {
+      "n": 13,
+      "title": "Sabotage",
+      "summary": "Someone drains the beacon's reserve capacitors. Silas suspects Vance; Vance suspects Silas; the real saboteur is a colony councilman who wants the salvage money. POV: Silas. Emotional beat: paranoia fracturing the town."
+    },
+    {
+      "n": 14,
+      "title": "Council of Denial",
+      "summary": "The colony council votes to sell the beacon rather than fund a relay expedition. Silas's testimony is dismissed as insurance-fraud paranoia. POV: Silas. Emotional beat: betrayal by the people he protected."
+    },
+    {
+      "n": 15,
+      "title": "Ilsa Runs",
+      "summary": "Ilsa steals the dreamers' evidence and goes to Odile, forcing the expedition into motion without permission. POV: Ilsa. Emotional beat: the cost of being the only one willing to act."
+    },
+    {
+      "n": 16,
+      "title": "Stolen Light",
+      "summary": "Silas, Odile, and Ilsa hijack the hauler Meridian's Grace from the consortium yard with Vance locked in the cargo bay. POV: Silas. Emotional beat: exhilaration and no return."
+    },
+    {
+      "n": 17,
+      "title": "The Long Dark",
+      "summary": "First days in dead space: no beacons, no traffic, silence so total the ship's hum becomes a companion. POV: Ilsa. Emotional beat: awe and smallness."
+    },
+    {
+      "n": 18,
+      "title": "Vance's Version",
+      "summary": "Vance, released under guard, argues the colony should stay hidden at any cost—including the children. He's not wrong enough to dismiss. POV: Vance. Emotional beat: the antagonist's reasonable face."
+    },
+    {
+      "n": 19,
+      "title": "Odile's Confession, Continued",
+      "summary": "Odile admits the first survey team answered a signal once. Four of five crew came back changed; the fifth didn't come back at all. POV: Odile. Emotional beat: the wound behind the beacon."
+    },
+    {
+      "n": 20,
+      "title": "Interference",
+      "summary": "The suppression field, failing behind them, sends a final surge that fries the Meridian's long-range comms. They are truly alone. POV: Silas. Emotional beat: isolation as crucible."
+    },
+    {
+      "n": 21,
+      "title": "The Dreamers' Chorus",
+      "summary": "Back on the colony, every child under fifteen falls into a coma-like shared dream. The parents riot; the council begs the stars for help. POV: Ilsa's mother, Amara. Emotional beat: a town's love weaponized into panic."
+    },
+    {
+      "n": 22,
+      "title": "Mutiny Math",
+      "summary": "Vance calculates they can't reach the relay and return before the jump window. He argues turning back. Silas refuses. The crew splits. POV: Silas. Emotional beat: duty and love pulling opposite directions."
+    },
+    {
+      "n": 23,
+      "title": "What Ilsa Knows",
+      "summary": "Ilsa reveals the dream showed her the relay's approach corridor—a path no survey charted. She's been navigating by dream. POV: Ilsa. Emotional beat: faith as navigation."
+    },
+    {
+      "n": 24,
+      "title": "Graveyard Drift",
+      "summary": "They pass a debris field of ships that answered signals before them—centuries of them. Odile recognizes a hull from the first survey era. POV: Odile. Emotional beat: dread made physical."
+    },
+    {
+      "n": 25,
+      "title": "The Voice, Direct",
+      "summary": "The signal reaches them unmediated: the voice speaks through the ship's dead comms, and it is patient, and it is sad. POV: Silas. Emotional beat: terror softening into grief."
+    },
+    {
+      "n": 26,
+      "title": "Vance's Choice",
+      "summary": "Vance attempts to seize the ship, then stops—because the voice speaks to him too, using the name of his drowned daughter. He stands down. POV: Vance. Emotional beat: the antagonist broken open."
+    },
+    {
+      "n": 27,
+      "title": "Relay at the Rim",
+      "summary": "They reach the relay: an ancient structure older than the colony, still warm, still waiting, its receiver pointed at Vesper Hollow like an eye. POV: Ilsa. Emotional beat: arrival as vertigo."
+    },
+    {
+      "n": 28,
+      "title": "The Window Opens",
+      "summary": "The jump window begins—ninety hours, no extensions. The relay's controls are dream-language; only the children's shared vocabulary can operate them. POV: Ilsa. Emotional beat: the dismissed children are the only key."
+    },
+    {
+      "n": 29,
+      "title": "Silas's Answer",
+      "summary": "Silas must compose the colony's first outgoing transmission in twenty years—effectively signing its death warrant if the voice is hostile. He writes it like a claim report: honest, itemized, unflinching. POV: Silas. Emotional beat: truth as the only currency left."
+    },
+    {
+      "n": 30,
+      "title": "The Reply",
+      "summary": "The voice answers: it isn't a predator. It's a lighthouse keeper for dead civilizations, and the suppression field was built by the first survey team to hide from their own guilt. POV: Odile. Emotional beat: the reveal that inverts everything."
+    },
+    {
+      "n": 31,
+      "title": "What the Field Was For",
+      "summary": "The beacon was never hiding the colony from the voice—it was hiding the colony from the debris field's automated scavengers, and it is about to fail completely. The choice to answer was never a choice. POV: Silas. Emotional beat: relief and fury in the same breath."
+    },
+    {
+      "n": 32,
+      "title": "Ninety Hours",
+      "summary": "The relay can broadcast a protection covenant—but only if the colony's children wake and affirm it, and they can't wake until the signal reaches them. The Meridian must race home and back. Impossible math. POV: Ilsa. Emotional beat: hope with a deadline."
+    },
+    {
+      "n": 33,
+      "title": "Split Course",
+      "summary": "Odile stays at the relay to hold the window; Silas and Ilsa run for the colony; Vance volunteers for the suicide leg through the debris field as escort decoy. POV: Vance. Emotional beat: redemption priced honestly."
+    },
+    {
+      "n": 34,
+      "title": "Through the Scavengers",
+      "summary": "Vance's decoy run through the debris field—automated scavengers stripping his ship piece by piece as he broadcasts the covenant signal ahead of the Meridian. POV: Vance. Emotional beat: sacrifice without sentimentality."
+    },
+    {
+      "n": 35,
+      "title": "Waking",
+      "summary": "The covenant signal reaches Vesper Hollow. The children wake mid-sentence, finishing each other's dreams aloud, and the colony hears its own children speak the truth of the last twenty years. POV: Amara. Emotional beat: grief and gratitude colliding."
+    },
+    {
+      "n": 36,
+      "title": "The Affirmation",
+      "summary": "The children, awake, affirm the covenant through the beacon's failing transmitter as it dies mid-broadcast—and the relay catches the last syllable with seconds to spare. POV: Ilsa. Emotional beat: the whole town holding one breath."
+    },
+    {
+      "n": 37,
+      "title": "Window Closing",
+      "summary": "The Meridian burns back to the relay as the jump window collapses. Odile, out of air, seals herself in the relay core to keep it transmitting the final handshake. POV: Odile. Emotional beat: the engineer's last calculation."
+    },
+    {
+      "n": 38,
+      "title": "The Jump",
+      "summary": "Silas and Ilsa jump through the closing window with the covenant sealed—the colony visible, protected, and no longer alone in the dark. Odile's voice rides the relay's carrier wave, singing the first survey's lost song. POV: Silas. Emotional beat: triumph braided with mourning."
+    },
+    {
+      "n": 39,
+      "title": "Claims Adjusted",
+      "summary": "Silas returns to a transformed colony, files his final insurance report—the truth, unredacted—and resigns. The consortium's cover of the accident cluster unravels publicly; Vance, half a ship, testifies. POV: Silas. Emotional beat: accountability as peace."
+    },
+    {
+      "n": 40,
+      "title": "The New Beacon",
+      "summary": "One year later, the colony builds a new beacon—not to hide, but to answer. Ilsa, now the relay's first apprentice keeper, and Silas light it together as the children's dream returns, no longer a warning: a welcome. POV: Ilsa. Emotional beat: visibility as homecoming."
+    }
+  ]
+}

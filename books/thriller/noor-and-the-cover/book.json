@@ -1,0 +1,21 @@
+{
+  "id": "THR-09269",
+  "title": "Noor and the Cover",
+  "author": "S. M. Ishikawa",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Xanthe Delacroix, a burnt analyst bounced from three agencies, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9269
+  }
+}

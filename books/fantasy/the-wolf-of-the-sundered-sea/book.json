@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00913",
+  "title": "The Wolf of the Sundered Sea",
+  "author": "August Dunmore",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Sable Galloway, a cartographer of unmapped realms, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 913
+  }
+}

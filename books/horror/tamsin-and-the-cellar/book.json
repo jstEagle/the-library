@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03926",
+  "title": "Tamsin and the Cellar",
+  "author": "Juniper Okafor",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Ansel Nystrom, a twin who came home to bury the wrong sibling, has spent twenty years telling themselves the noises have explanations. But when the village's church bell rings although the bell was melted down in 1911, he discovers that staying invisible was never really an option. To get through this, he must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3926
+  }
+}

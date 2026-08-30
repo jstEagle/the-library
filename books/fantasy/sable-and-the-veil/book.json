@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01142",
+  "title": "Sable and the Veil",
+  "author": "Ada Nakamura",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Juniper Brightwater, the last oath-bound swordspeaker, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1142
+  }
+}

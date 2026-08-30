@@ -1,0 +1,119 @@
+{
+  "title": "The Last Playlist",
+  "slug": "young-adult/the-last-playlist",
+  "model": "stealth/ox-alpha",
+  "premise": "Kestrel Villalobos, a nonbinary coder who hides behind an anonymous account that exposes their elite prep school's darkest secrets, discovers coded instructions hidden in their late grandmother's recipe box—directions to a dormant surveillance network their grandmother helped build for the school's founders. As Kestrel deciphers the network, they realize someone else is using it to manipulate students, and their own anonymous identity is the prime suspect. Torn between loyalty to the friend who protected them and the truth about who's really pulling the strings, Kestrel must go public with both their identity and the evidence, dismantling the network in a final broadcast that costs them their anonymity but wins them a community that sees them fully.",
+  "about_author": "Mirabel Villalobos is a former software engineer turned novelist who writes stories about queer kids who refuse to shrink. She lives in Tucson with an unruly desert garden and a recipe box of her own.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Head Down, Grades Up",
+      "summary": "Kestrel's POV. We meet Kestrel navigating Ashford Prep's social hierarchy while secretly running @ashfordleaks, an anonymous account exposing bullying and cover-ups. A near-miss when a teacher almost catches them posting establishes the stakes: exposure means expulsion and worse. Emotional beat: the exhausting comfort of invisibility."
+    },
+    {
+      "n": 2,
+      "title": "The Recipe Box",
+      "summary": "Kestrel's POV, at home helping pack up grandma Rosa's belongings after her funeral. Inside her battered recipe box, among index cards for mole and tamales, Kestrel finds cards written in cipher—coordinates, frequencies, references to 'the Founders' Ledger.' Emotional beat: grief interrupted by a jolt of mystery."
+    },
+    {
+      "n": 3,
+      "title": "Ciphertext and Cumin",
+      "summary": "Kestrel's POV. Late-night decoding reveals the cards are instructions for accessing a hidden server network wired through the school itself, built decades ago. Grandma Rosa was one of its architects. Emotional beat: wonder curdling into unease—who built this, and why did she hide it from everyone?"
+    },
+    {
+      "n": 4,
+      "title": "The Friend Who Kept the Secret",
+      "summary": "Dee's POV. Dee Okafor, Kestrel's only friend and the sole person who knows about @ashfordleaks, covers for Kestrel during a locker search. Through Dee we see how much Kestrel's secrecy costs the people who love them. Emotional beat: loyalty as both shelter and cage."
+    },
+    {
+      "n": 5,
+      "title": "Someone Else Is Listening",
+      "summary": "Kestrel's POV. Testing the network's access points, Kestrel finds recent activity—someone has been using grandma's system to monitor students, plant rumors, and engineer a cheating scandal that destroyed a scholarship kid last year. Emotional beat: horror; the inheritance is a weapon already in use."
+    },
+    {
+      "n": 6,
+      "title": "Labels",
+      "summary": "Kestrel's POV. At school, headmaster Whitlock announces a new 'digital integrity' initiative—a manhunt for @ashfordleaks. Meanwhile Kestrel endures misgendering in the hallway, underscoring how labels are assigned by others. Emotional beat: the double bind of being unseen and being targeted."
+    },
+    {
+      "n": 7,
+      "title": "The Founders' Ledger",
+      "summary": "Kestrel and Dee's POV alternating. Following the recipe cards' coordinates, they locate a maintenance tunnel beneath the library and the physical hub of the network. They find the Founders' Ledger: Rosa and three other students built it in 1974 to expose the school's discrimination—their own act of rebellion. Emotional beat: awe and kinship across generations."
+    },
+    {
+      "n": 8,
+      "title": "What Rosa Never Said",
+      "summary": "Kestrel's POV, reading Rosa's letters stored with the ledger. Rosa was expelled when the network was discovered; her co-founder, Charles Ashford III, betrayed the group and took credit for shutting it down—his family's name is on the school. Emotional beat: righteous anger, and the first hint that Whitlock answers to the Ashford family still."
+    },
+    {
+      "n": 9,
+      "title": "Prime Suspect",
+      "summary": "Kestrel's POV. The administration traces a post to Kestrel's dorm wing; Dee's brother becomes collateral damage when his device is confiscated. Kestrel wants to confess; Dee begs them not to, insisting loyalty means staying quiet until they have proof of who's really behind the network's abuse. Emotional beat: the first real fracture between them."
+    },
+    {
+      "n": 10,
+      "title": "The Ghost in the Network",
+      "summary": "Kestrel's POV, technical sleuthing. By tracing login patterns, Kestrel narrows the intruder to someone with faculty-level access—and finds a deleted account named after one of Rosa's betrayed friends. Someone connected to the original four is still inside. Emotional beat: paranoia sharpening into focus."
+    },
+    {
+      "n": 11,
+      "title": "Homecoming Trap",
+      "summary": "Dee's POV. During homecoming week, an anonymous tip lures Kestrel to the archive room where security waits—but the tip also contains a warning in Rosa's cipher: 'They know what you found.' Whoever the ghost is, they're protecting Kestrel even while hiding. Emotional beat: whiplash between threat and strange guardianship."
+    },
+    {
+      "n": 12,
+      "title": "The Price of Proof",
+      "summary": "Kestrel's POV. To access the network's full logs, Kestrel must use credentials tied to Rosa's name—meaning any trace will point straight at the Villalobos family. They do it anyway and discover the logs were scrubbed by someone with board-level authority. Emotional beat: sacrifice without payoff; the walls closing in."
+    },
+    {
+      "n": 13,
+      "title": "Whitlock's Offer",
+      "summary": "Whitlock's POV. The headmaster privately confronts Kestrel—not with expulsion, but an offer: help identify the 'real' hacker (a scapegoat), and the school will protect them. He reveals he knows about Rosa's involvement and implies the family's legacy depends on silence. Emotional beat: corruption wearing a kindly face."
+    },
+    {
+      "n": 14,
+      "title": "Broken Trust",
+      "summary": "Dee's POV. Dee learns Kestrel met with Whitlock and assumes betrayal; Kestrel can't explain without revealing how deep the conspiracy runs. Their friendship ruptures publicly, which the ghost's handler exploits—Dee's brother is suspended based on planted evidence. Emotional beat: loneliness at the lowest point."
+    },
+    {
+      "n": 15,
+      "title": "The Fourth Card",
+      "summary": "Kestrel's POV. Re-reading the recipe box, Kestrel finds a card hidden in the false bottom: Rosa's confession that she kept a dead-man's-switch copy of everything, address unknown, keyed to a phrase only her granddaughter would know. Emotional beat: a grandmother's love encoded as a lifeline."
+    },
+    {
+      "n": 16,
+      "title": "Mole and Memory",
+      "summary": "Kestrel's POV, cooking Rosa's mole recipe with their mother. The passphrase turns out to be the recipe itself—the switch unlocks with the exact sequence of ingredients spoken aloud. Inside: unscrubbed logs naming the current operator. Emotional beat: grief transmuted into resolve."
+    },
+    {
+      "n": 17,
+      "title": "The Name Behind the Curtain",
+      "summary": "Kestrel's POV. The logs reveal the operator: Charles Ashford III himself, now 68 and chair of the board, using the network his former friend built to keep the school 'pure'—controlling admissions, burying scandals, destroying threats. And the guardian ghost? Whitlock's assistant, Ms. Ibarra, Rosa's mentee. Emotional beat: the scale of the corruption finally visible."
+    },
+    {
+      "n": 18,
+      "title": "Allies in the Dark",
+      "summary": "Multiple POVs. Kestrel comes clean to Dee with everything; Ms. Ibarra surfaces to offer testimony but warns that going public means Kestrel loses everything—college recommendations, safety, anonymity. Dee chooses to stand with Kestrel this time. Emotional beat: reconciliation and the terrifying weight of choice."
+    },
+    {
+      "n": 19,
+      "title": "Twenty-Two Minutes",
+      "summary": "Kestrel's POV. The plan: hijack the network during the board's anniversary gala and broadcast the ledger, the logs, and the truth to every screen on campus before Ashford's people can cut the feed. They get twenty-two minutes. Emotional beat: breathless preparation, fear embraced rather than fled."
+    },
+    {
+      "n": 20,
+      "title": "The Broadcast",
+      "summary": "Kestrel's POV, climax. Mid-broadcast, Ashford cuts power; Kestrel reroutes through the tunnel hub as security closes in, narrating the Founders' story live—including Rosa's expulsion and their own name. Students flood the tunnels, physically blocking security. The files land everywhere before the feed dies. Emotional beat: triumphant exposure at personal cost."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath",
+      "summary": "Alternating POVs. Ashford resigns under board pressure; Whitlock is suspended pending investigation; the scholarship kid is reinstated. Kestrel faces disciplinary hearings but walks in openly, no longer hiding—classmates who once ignored them now know their name and use it correctly. Emotional beat: the cost counted, and worth it."
+    },
+    {
+      "n": 22,
+      "title": "New Recipes",
+      "summary": "Kestrel's POV, epilogue months later. Kestrel and Dee rebuild @ashfordleaks as an open student collective—no more lone anonymity, shared accountability instead. Kestrel adds a new card to grandma's recipe box: instructions not for hiding, but for building something together. Emotional beat: belonging chosen, not just survived."
+    }
+  ]
+}

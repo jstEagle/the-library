@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05229",
+  "title": "A Will for the Ledger",
+  "author": "Emrys Underhill",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Gideon Yarrow, an insurance investigator with a photographic memory, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5229
+  }
+}

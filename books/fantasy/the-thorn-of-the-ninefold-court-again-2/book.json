@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02206",
+  "title": "The Thorn of the Ninefold Court Again",
+  "author": "Freya Vasquez",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Wren Voss, the last oath-bound swordspeaker, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. To get through this, he must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2206
+  }
+}

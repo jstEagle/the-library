@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08367",
+  "title": "The Last Machine Again",
+  "author": "Jude Pemberton",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.9,
+  "blurb": "Odile Pemberton, a starship navigator haunted by the backups sleeping in the hold, runs the long route between worlds that no longer speak. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "memory",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8367
+  }
+}

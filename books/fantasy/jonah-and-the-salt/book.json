@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01633",
+  "title": "Jonah and the Salt",
+  "author": "Felix Almeida",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Oscar Thackeray, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1633
+  }
+}

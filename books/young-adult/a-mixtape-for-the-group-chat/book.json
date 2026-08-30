@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09945",
+  "title": "A Mixtape for the Group Chat",
+  "author": "Yara Coldharbour",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "August Underhill, the only out kid in a town of nine hundred, stays under the radar: head down, grades up, locker shut. But when the college essay prompt asks one honest question nobody can stop answering, they discover that staying invisible was never really an option. Now they must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9945
+  }
+}

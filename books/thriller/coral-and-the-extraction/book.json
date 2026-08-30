@@ -1,0 +1,21 @@
+{
+  "id": "THR-09386",
+  "title": "Coral and the Extraction",
+  "author": "Lena Fairweather",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Oscar Nakamura, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9386
+  }
+}

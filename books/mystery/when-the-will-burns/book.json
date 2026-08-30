@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04923",
+  "title": "When the Will Burns",
+  "author": "Jonah Pemberton",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Quentin Vasquez, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. But when a confession letter arrives postmarked the day after the funeral, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the statute expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4923
+  }
+}

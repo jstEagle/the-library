@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03754",
+  "title": "Rosalind and the House",
+  "author": "Marguerite Sandoval",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jude Ravensworth, a property surveyor appraising a house that appraises back, documents everything, because documentation is a kind of prayer. Then every mirror in the house starts reflecting the room one second late — and he is pulled straight into the middle of it. To get through this, he must finish the ritual the founders started before the last resident signs the papers.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3754
+  }
+}

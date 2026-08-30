@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00327",
+  "title": "Summit and Current",
+  "author": "Jonah Blackwood",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Ada Montrose, a storm chaser who owes money to dangerous optimists, knows the wilderness forgives nothing and forgets less. But when an expedition upriver stops answering the radio, she discovers that staying invisible was never really an option. To get through this, she must cross the range ahead of the snows before the dry season ends.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 327
+  }
+}

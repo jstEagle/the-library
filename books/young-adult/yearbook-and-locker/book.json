@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09818",
+  "title": "Yearbook and Locker",
+  "author": "X. M. Voss",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Hazel Kavanagh, a scholarship student at an academy with too many secrets, is fine. Everything is fine. Obviously.. Then the college essay prompt asks one honest question nobody can stop answering — and he is pulled straight into the middle of it. Now he must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9818
+  }
+}

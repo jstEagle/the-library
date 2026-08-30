@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06049",
+  "title": "The Tide of Maple Hollow",
+  "author": "Astrid Dunmore",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Gideon Fairweather, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. But when two estranged names appear on the same impossibly stubborn orchard deed, they discover that staying invisible was never really an option. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6049
+  }
+}

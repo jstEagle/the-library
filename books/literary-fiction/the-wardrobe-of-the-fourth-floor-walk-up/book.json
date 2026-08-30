@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04378",
+  "title": "The Wardrobe of the fourth floor walk-up",
+  "author": "P. M. Delacroix",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Oscar Joubert, a former prodigy returning to the conservatory as a janitor, has perfected the smile that ends conversations. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must forgive the stranger in the old photographs before the house sale closes.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4378
+  }
+}

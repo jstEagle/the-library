@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00940",
+  "title": "Choir and Wolf",
+  "author": "Dominic Thackeray",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Vesper Amberdale, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the long winter finishes falling.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 940
+  }
+}

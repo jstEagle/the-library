@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08153",
+  "title": "New Lagos Rising Anew",
+  "author": "Casper Marchetti",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Emrys Galloway, a xenolinguist who can no longer dream in human languages, runs the long route between worlds that no longer speak. But when a ship returns from deep space with everyone aboard aged backward, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "belonging",
+    "memory",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8153
+  }
+}

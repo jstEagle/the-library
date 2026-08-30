@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01200",
+  "title": "Cyrus and the Garden",
+  "author": "Vesper Blackwood",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Amberdale, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. To get through this, they must steal back a soul sold to the court beneath the mountain before the usurper's armies reach the free cities.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1200
+  }
+}

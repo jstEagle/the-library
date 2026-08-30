@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09695",
+  "title": "The Last Homecoming",
+  "author": "Odile Thackeray",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Rosalind Underhill, the eldest sibling raising the younger ones while mom works nights, counts days until graduation like a sentence being served. But when a best friend goes missing, leaving only a set of keys behind, she discovers that staying invisible was never really an option. To get through this, she must tell the truth even if it costs the friendship before the last game of the season.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9695
+  }
+}

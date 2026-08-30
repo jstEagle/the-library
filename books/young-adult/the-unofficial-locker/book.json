@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09908",
+  "title": "The Unofficial Locker",
+  "author": "Ulyana Amberdale",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ines Marchetti, a baker's kid who bakes feelings into bread, has spent twenty years being so careful it hurts. Then a group chat starts predicting things that haven't happened yet — and he is pulled straight into the middle of it. To get through this, he must win the championship that doesn't matter — and the one that does before the last game of the season.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9908
+  }
+}

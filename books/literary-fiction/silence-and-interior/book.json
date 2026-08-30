@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04636",
+  "title": "Silence and Interior",
+  "author": "Dominic Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Rafael Kavanagh, a night librarian in a city that sleeps less every year, moves through the days like a tenant, not an owner. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4636
+  }
+}

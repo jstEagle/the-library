@@ -1,0 +1,21 @@
+{
+  "id": "THR-08819",
+  "title": "The Asset of Geneva",
+  "author": "Silas Pemberton",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Zephyrine Thornbury, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. To get through this, he must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8819
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06818",
+  "title": "The Bakery of Bellbird Bay Again",
+  "author": "Freya Underhill",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Freya Oyelaran, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6818
+  }
+}

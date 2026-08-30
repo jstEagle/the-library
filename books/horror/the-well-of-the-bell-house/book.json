@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03708",
+  "title": "The Well of the Bell House",
+  "author": "Odile Zhou",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Dominic Dunmore, a hospice nurse who hears the dying count backwards, doesn't believe, has never believed, will not begin believing now. Then the village's church bell rings although the bell was melted down in 1911 — and he is pulled straight into the middle of it. To get through this, he must finish the ritual the founders started before the harvest moon rises.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3708
+  }
+}

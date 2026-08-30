@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05956",
+  "title": "The Postcard of Rosewater Lane",
+  "author": "Zephyrine Vasquez",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Vesper Thornbury, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. To get through this, she must let someone stay after the last train leaves before the vineyard's first harvest comes in.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5956
+  }
+}

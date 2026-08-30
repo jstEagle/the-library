@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07058",
+  "title": "The Gravity of the Deep",
+  "author": "Beatrix Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Elodie Iversen, a pilot bonded to an AI that lies, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7058
+  }
+}

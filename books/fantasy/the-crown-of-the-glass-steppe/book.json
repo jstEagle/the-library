@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01114",
+  "title": "The Crown of the Glass Steppe",
+  "author": "Zephyrine Almeida",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "August Okafor, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. To get through this, she must unbind a king from the thing wearing his crown before the long winter finishes falling.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1114
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06757",
+  "title": "Quentin and the Letters",
+  "author": "Sebastian Crane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Cyrus Ishikawa, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6757
+  }
+}

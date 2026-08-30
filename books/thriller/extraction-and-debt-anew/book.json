@@ -1,0 +1,21 @@
+{
+  "id": "THR-09393",
+  "title": "Extraction and Debt Anew",
+  "author": "Wren Ishikawa",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Isandro Halloran, a financial-crimes investigator drowning in clean money, has spent five years following rules that keep getting rewritten. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. To get through this, they must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9393
+  }
+}

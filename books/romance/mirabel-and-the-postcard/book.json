@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06795",
+  "title": "Mirabel and the Postcard",
+  "author": "Wendell Lockridge",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Theo Quintana, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6795
+  }
+}

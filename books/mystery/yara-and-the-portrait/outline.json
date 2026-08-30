@@ -1,0 +1,119 @@
+{
+  "title": "Yara and the Portrait",
+  "slug": "mystery/yara-and-the-portrait",
+  "model": "stealth/ox-alpha",
+  "premise": "Noor Voss, a night-shift dispatcher who has quietly solved three deaths the police ruled accidental, receives a confession letter postmarked the day after the fourth victim's funeral — a letter that proves the writer knows both the crime and Noor's secret habit of investigating it. As Noor traces the letter through the taxi company's own dispatch logs, they realize the killer is someone inside their small circle, someone using Noor's methods as a blueprint. The trail leads to a hidden portrait of the victims painted years ago by a disgraced artist whose patrons included the city's most powerful families. In the end, Noor baits the killer with a forged fifth portrait sitting, survives an ambush in the taxi depot, and exposes the killer — but must choose between loyalty to the friend who shielded them and the truth that will destroy the friend's family name.",
+  "about_author": "Yara Nystrom is the pen name of a former municipal records clerk who spent a decade reading other people's paperwork and never quite stopped wondering about the gaps in it. They write mysteries at night, in the same hours they once spent listening to strangers' voices over a radio.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Frequency",
+      "summary": "Noor's POV. A night shift at Meridian Taxi's dispatch desk: mundane calls, one odd pickup near the harbor, and the news that dockworker Elias Brandt has died in what police call a fall. Noor notices the timeline doesn't fit the radio traffic. Emotional beat: the loneliness of being the person who sees patterns no one asked them to see."
+    },
+    {
+      "n": 2,
+      "title": "Three Accidents",
+      "summary": "Flashback woven into present: how Noor previously unraveled three 'accidents' anonymously, mailing anonymous tips to a skeptical detective, Inspector Halvard Renn. Now Renn calls the depot asking questions about Brandt. Noor's POV; beat of dread — visibility approaching like weather on the horizon."
+    },
+    {
+      "n": 3,
+      "title": "Postmarked Yesterday",
+      "summary": "A cream envelope arrives at Noor's apartment, postmarked the day after Brandt's funeral. Inside: a full confession to Brandt's murder, written in elegant hand, addressed to 'the dispatcher.' It references details never made public. Noor's POV; beat of violation — someone has been watching them solve crimes."
+    },
+    {
+      "n": 4,
+      "title": "The Fourth Portrait",
+      "summary": "The letter mentions 'the fourth portrait,' a phrase Noor can't place. Researching the victims, Noor finds all four sat for paintings decades ago by artist Ilse Marqvist, whose studio burned and whose patron list reads like the city's elite. Noor's POV; beat of fascination curdling into obsession."
+    },
+    {
+      "n": 5,
+      "title": "Dispatch Logs and Ghosts",
+      "summary": "Noor pulls the depot's old logs and finds a cab was dispatched to each victim's address within an hour of every death — logged under a driver ID that shouldn't exist. Whose POV alternates with brief third-person glimpses of someone else reading the same logs. Beat: the hunter realizes they are also prey."
+    },
+    {
+      "n": 6,
+      "title": "Inspector Renn's Patience",
+      "summary": "Renn summons Noor, having connected the anonymous tips across all four cases. He doesn't accuse; he offers partnership and subtly reveals he knows more about Noor than Noor knew. Noor's POV; beat of uneasy alliance — two people who distrust everyone learning to half-trust each other."
+    },
+    {
+      "n": 7,
+      "title": "Marqvist's Daughter",
+      "summary": "Noor tracks down Astrid Marqvist, the painter's estranged daughter, now a restorer at the city archive. She confirms her mother painted five portraits before the fire — four identified, one missing. Astrid's guarded grief hints she knows who commissioned them. Alternating POV introduces Astrid's perspective; beat of shared damage."
+    },
+    {
+      "n": 8,
+      "title": "The Patron List",
+      "summary": "The commission ledger surfaces: the portraits were paid for by the Vinterhal Foundation, chaired by shipping magnate Corin Vinterhal — whose late wife was the first 'accident' victim's sister-in-law. Power begins to take shape behind the deaths. Noor's POV; beat of vertigo as the case scales upward."
+    },
+    {
+      "n": 9,
+      "title": "Someone in the Depot",
+      "summary": "Noor's locker is searched, their log printouts gone. A colleague, warm-hearted dispatcher Sef Aldana, covers for them without being asked — too readily. Suspicion blooms inside the only place Noor felt safe. Noor's POV; beat of paranoia turning inward on friendship."
+    },
+    {
+      "n": 10,
+      "title": "Second Letter",
+      "summary": "Another letter arrives: praise for Noor's progress, plus a photograph of Noor's own apartment window taken from across the street. The writer proposes a game — find the fifth portrait before the next death. Noor's POV; beat of terror weaponized into compulsion."
+    },
+    {
+      "n": 11,
+      "title": "The Burned Studio",
+      "summary": "Noor and Astrid search the ruins of Marqvist's studio and find a hidden flue where canvases were stored. Ash residue, a brass hook shaped for five frames, and a child's drawing of six figures — five seated, one standing apart. Astrid's POV; beat of inherited guilt surfacing."
+    },
+    {
+      "n": 12,
+      "title": "Renn's Cold Case Wall",
+      "summary": "Renn shows Noor his private wall: the three earlier accidents, red string, and a name he's chased for twenty years — Corin Vinterhal's fixer, Dagny Ruud, who signed the phantom driver ID. But Ruud has an alibi for every date. Noor's POV; beat of frustration — the pattern fits a person who cannot be there."
+    },
+    {
+      "n": 13,
+      "title": "Sef's Secret",
+      "summary": "Noor confronts Sef, who admits he recognized the letters' handwriting years ago: it matches the depot's beloved retired manager, Wenche Holm, who trained them all — and who was Marqvist's closest friend. Sef begs Noor to let it go. Noor's POV; beat of loyalty versus truth crystallizing into a real choice."
+    },
+    {
+      "n": 14,
+      "title": "Wenche's Parlor",
+      "summary": "Noor visits Wenche Holm, now frail and charming, surrounded by restored furniture. On the wall hangs a landscape — beneath which X-rays would show paint. Wenche speaks in fond riddles about loyalty, service, and cleaning up after powerful people. Noor's POV; beat of horror wrapped in hospitality."
+    },
+    {
+      "n": 15,
+      "title": "The Fifth Sitting",
+      "summary": "Astrid decodes her mother's final sketchbook: the fifth portrait was of a sixth person — the one who arranged everything, whom Marqvist refused to finish painting. The unfinished canvas is the killer's motive: proof of identity. Astrid's POV; beat of understanding the crime as erasure."
+    },
+    {
+      "n": 16,
+      "title": "Deadline Call",
+      "summary": "A call comes through dispatch from an unlisted number: Wenche's voice, giving Noor until dawn to stop looking, or the fifth portrait burns with a witness attached. Noor realizes the witness is Astrid. Noor's POV; beat of fear transmuted into resolve — invisibility is no longer protection."
+    },
+    {
+      "n": 17,
+      "title": "Setting the Trap",
+      "summary": "Noor forges a letter claiming the fifth portrait has been found and will be handed to a buyer at the depot at 3 a.m., then loops in Renn off the books. Sef, torn, agrees to run the fake dispatch that will lure Wenche's accomplice. Noor's POV; beat of agency reclaimed — the watcher becomes the bait."
+    },
+    {
+      "n": 18,
+      "title": "3 A.M.",
+      "summary": "The trap springs wrong: not Wenche but Dagny Ruud arrives, armed, revealing Wenche orchestrated everything while Ruud executed — including the alibis, built from dispatch logs Wenche herself designed. A chase through idle cabs. Renn intervenes; Ruud is taken. Noor's POV; beat of chaos nearly costing everything."
+    },
+    {
+      "n": 19,
+      "title": "Confession, Corrected",
+      "summary": "Confronted, Wenche confesses with terrible calm: the powerful men in the portraits destroyed her friend Ilse, drove her to suicide, and the 'accidents' were Wenche's long arithmetic of justice. The fifth portrait is Ilse's likeness of Wenche herself — the one who stood apart. Wenche's POV interlude; beat of chilling sympathy for a murderer."
+    },
+    {
+      "n": 20,
+      "title": "What Loyalty Costs",
+      "summary": "Sef is implicated for covering dispatch anomalies and faces charges unless Noor testifies that Wenche manipulated him. Noor must decide whether truth or loyalty wins. They tell Renn the whole truth, including their own vigilante history, trading exposure for Sef's leniency. Noor's POV; beat of sacrifice — becoming visible at last."
+    },
+    {
+      "n": 21,
+      "title": "The Unfinished Face",
+      "summary": "At the archive, Astrid completes her mother's final portrait: not the killer, but the victims, restored and named. The exhibition forces the Vinterhal Foundation's records open; Corin Vinterhal resigns under investigation. Justice arrives sideways, imperfectly. Astrid's POV; beat of mourning transformed into testimony."
+    },
+    {
+      "n": 22,
+      "title": "Day Shift",
+      "summary": "Weeks later, Noor takes a day-shift job training new dispatchers, no longer hiding. Renn sends a single line: 'Next time, call first.' A last letter arrives — blank except for a small painted eye — and Noor smiles, files it as evidence, and goes back to work. Noor's POV; beat of hard-won peace, watchful but no longer alone."
+    }
+  ]
+}

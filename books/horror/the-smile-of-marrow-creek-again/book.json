@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04002",
+  "title": "The Smile of Marrow Creek Again",
+  "author": "Lena Voss",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Freya Reyes, a property surveyor appraising a house that appraises back, doesn't believe, has never believed, will not begin believing now. But when the village's church bell rings although the bell was melted down in 1911, he discovers that staying invisible was never really an option. To get through this, he must finish the ritual the founders started before the last resident signs the papers.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4002
+  }
+}

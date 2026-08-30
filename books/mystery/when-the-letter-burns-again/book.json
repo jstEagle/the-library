@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05799",
+  "title": "When the Letter Burns Again",
+  "author": "Beatrix Zhou",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Rosalind Yarrow, an insurance investigator with a photographic memory, has spent five years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5799
+  }
+}

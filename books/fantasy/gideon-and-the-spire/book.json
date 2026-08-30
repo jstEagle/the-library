@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01666",
+  "title": "Gideon and the Spire",
+  "author": "Kestrel Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Theo Iversen, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1666
+  }
+}

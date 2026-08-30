@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06680",
+  "title": "Oscar and the Songbook",
+  "author": "Y. M. Ashgrove",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Lena Eriksen, a vineyard owner who inherited debts instead of grapes, swears the heart is a muscle like any other: trainable, containable. Then a fake date to survive a family reunion feels too real by dessert — and she is pulled straight into the middle of it. To get through this, she must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6680
+  }
+}

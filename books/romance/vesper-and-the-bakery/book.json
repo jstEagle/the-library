@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06613",
+  "title": "Vesper and the Bakery",
+  "author": "Zephyrine Sterling",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Felix Dunmore, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. Then two estranged names appear on the same impossibly stubborn orchard deed — and she is pulled straight into the middle of it. Now she must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6613
+  }
+}

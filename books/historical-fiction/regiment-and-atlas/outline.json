@@ -1,0 +1,59 @@
+{
+  "title": "Regiment and Atlas",
+  "slug": "historical-fiction/regiment-and-atlas",
+  "model": "stealth/ox-alpha",
+  "premise": "In the border city of Vellmark, nine years after a war that officially never ended, mapmaker's apprentice Yara Sterling completes the atlas her master died protecting — an atlas whose true borders could reignite the conflict or finally end it. When census taker Elias Voss arrives asking one question too many about a village that appears on no official map, he is drawn into Yara's world of deliberate silences, forged documents, and a promise she made in peacetime to a man now declared enemy of the state. Together they must decide whether to deliver the atlas to the armistice commission and expose the corruption that prolonged the war, knowing justice outside the law may cost them everything. The novel ends with the armistice signed over Yara's atlas — truth entered into record at last — while Elias burns his own name from the census rolls, choosing loyalty to a person over loyalty to the state.",
+  "about_author": "Oscar Marchetti is the pen name of a former archivist who spent a decade cataloguing disputed border surveys before turning to fiction. He writes historical novels about the people history forgets to count.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Question Too Many",
+      "summary": "Elias Voss, a meticulous census taker, interviews the residents of Vellmark's mapmakers' quarter and notices Yara Sterling's household lists one person fewer than the tax rolls suggest. His POV establishes his faith in records as instruments of fairness. The emotional beat is quiet unease — a small discrepancy that will not leave him alone."
+    },
+    {
+      "n": 2,
+      "title": "What the Master Died For",
+      "summary": "Yara's POV opens ten years earlier through memory: her master's midnight arrest, the atlas hidden beneath the floorboards, and the promise she made to a wounded soldier named Dain Corvath to see the true maps delivered 'when there is peace to deliver them to.' The beat is grief braided with resolve."
+    },
+    {
+      "n": 3,
+      "title": "A Village Unmapped",
+      "summary": "Elias returns with follow-up questions and discovers the missing person: Dain Corvath, listed in old peacetime registers, now declared an enemy combatant under a decree no one can produce. Yara deflects with practiced skill, but Elias leaves more suspicious than convinced. Beat: two careful people circling each other."
+    },
+    {
+      "n": 4,
+      "title": "The Commissioner's Ink",
+      "summary": "Elias investigates the armistice commission and finds its records contradict the survey dates in every archive he trusts. Meanwhile Yara realizes someone else has been searching for the atlas — men with commissioner's seals. Beat: dread, as both realize the state itself is lying."
+    },
+    {
+      "n": 5,
+      "title": "Dain at the Door",
+      "summary": "Dain Corvath arrives in Vellmark, half-starved, demanding the promise be kept before the armistice is signed — or quietly never signed. Yara must hide him while deciding whether he is a patriot or a pawn. Beat: loyalty strained by fear; the past standing in her kitchen."
+    },
+    {
+      "n": 6,
+      "title": "Silences That Keep People Safe",
+      "summary": "Yara teaches Elias which silences protect people, showing him the forged marginalia her master used to smuggle truth inside official maps. Elias, shaken, falsifies his first census entry to shield Dain. Beat: his crisis of conscience — the moment the law stops being justice in his hands."
+    },
+    {
+      "n": 7,
+      "title": "The Raid on Cartwright Lane",
+      "summary": "Commission agents raid the quarter hunting the atlas; Yara's neighbor is taken in her place, and Dain barely escapes through the flooded cellars. Elias witnesses the brutality he has been paperwork for. Beat: guilt curdling into anger; no more neutral ground."
+    },
+    {
+      "n": 8,
+      "title": "Bargaining with the Armistice",
+      "summary": "Yara negotiates with a conflicted commission clerk: the atlas in exchange for Dain's amnesty and the prisoner's release. But she discovers the clerk intends to redact the very pages that prove the war was prolonged deliberately. Beat: betrayal — power corrupting even the well-meaning."
+    },
+    {
+      "n": 9,
+      "title": "The Reading of the Maps",
+      "summary": "Climax. At the armistice session, Yara publicly reads the atlas's true borders aloud while Elias enters the suppressed village and its dead into the official record, daring the commissioners to strike it. Dain surrenders himself to force the issue. Beat: truth spoken to power at maximum personal cost."
+    },
+    {
+      "n": 10,
+      "title": "Signed, or Isn't",
+      "summary": "Resolution. The armistice is signed with the atlas appended as annex — imperfect, contested, but real. Dain accepts exile instead of execution; the neighbor goes free. Elias erases his own name from the rolls and joins Yara mapping what officials refuse to see. Beat: weary, hard-won hope."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09747",
+  "title": "A Mixtape for the Prom",
+  "author": "Jude Galloway",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Yara Kavanagh, a coder whose anonymous account knows too much, stays under the radar: head down, grades up, locker shut. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. To get through this, he must expose what the school board buried before the last game of the season.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9747
+  }
+}

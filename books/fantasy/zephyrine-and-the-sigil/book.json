@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00725",
+  "title": "Zephyrine and the Sigil",
+  "author": "Ines Ishikawa",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Xanthe Sandoval, a hedge-witch's runaway apprentice, has spent twelve years selling small charms in a city that outlawed magic. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 725
+  }
+}

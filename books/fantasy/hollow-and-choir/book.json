@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01061",
+  "title": "Hollow and Choir",
+  "author": "Ines Almeida",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Xanthe Thornbury, a hedge-witch's runaway apprentice, has spent twenty years selling small charms in a city that outlawed magic. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. To get through this, she must steal back a soul sold to the court beneath the mountain before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1061
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04246",
+  "title": "Astrid and the Weather",
+  "author": "Ansel Villalobos",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 3.6,
+  "blurb": "Lena Montrose, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. Then a box of undelivered letters surfaces behind a wardrobe — and he is pulled straight into the middle of it. To get through this, he must translate the untranslatable sentence and live with it before the mother's memory goes entirely.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4246
+  }
+}

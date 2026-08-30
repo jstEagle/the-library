@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01778",
+  "title": "Kestrel and the Ember",
+  "author": "Ines Halloran",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Bram Ashgrove, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "identity",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1778
+  }
+}

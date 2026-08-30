@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06493",
+  "title": "Casper and the Songbook",
+  "author": "Quentin Eastwick",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Elodie Thackeray, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6493
+  }
+}

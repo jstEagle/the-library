@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06189",
+  "title": "Postcard and Bakery",
+  "author": "Gideon Brightwater",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Petra Marchetti, a pastry chef whose café is three missed payments from gone, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6189
+  }
+}

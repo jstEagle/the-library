@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09606",
+  "title": "Beatrix and the Prom",
+  "author": "Odile Sterling",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ulyana Montrose, the only out kid in a town of nine hundred, counts days until graduation like a sentence being served. But when the teacher pairs nemesis with nemesis for a semester-long project, he discovers that staying invisible was never really an option. Now he must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9606
+  }
+}

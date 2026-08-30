@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02339",
+  "title": "The Winter Letter",
+  "author": "Bram Iversen",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Xanthe Underhill, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent seven years learning which silences keep people safe. But when the army requisitions the town and the ledger with all the names, she discovers that staying invisible was never really an option. To get through this, she must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2339
+  }
+}

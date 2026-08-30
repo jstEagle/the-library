@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00522",
+  "title": "The Salt Wreck",
+  "author": "Beatrix Marchetti",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Mirabel Iversen, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 522
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08154",
+  "title": "Emrys and the Terminal",
+  "author": "Vesper Almeida",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Rafael Reyes, a xenolinguist who can no longer dream in human languages, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. To get through this, she must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8154
+  }
+}

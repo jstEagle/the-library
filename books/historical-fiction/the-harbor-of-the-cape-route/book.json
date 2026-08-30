@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02455",
+  "title": "The Harbor of the Cape Route",
+  "author": "Ivo Oyelaran",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ulyana Almeida, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent twenty years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2455
+  }
+}

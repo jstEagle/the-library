@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01367",
+  "title": "The Hollow of Highmoor",
+  "author": "L. M. Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ada Sterling, the youngest member of a dying guild, has spent twenty years selling small charms in a city that outlawed magic. But when tonight's date appears in a book of prophecies written a century ago, he discovers that staying invisible was never really an option. To get through this, he must steal back a soul sold to the court beneath the mountain before the moon completes its thirteenth turn.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1367
+  }
+}

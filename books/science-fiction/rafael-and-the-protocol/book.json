@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07239",
+  "title": "Rafael and the Protocol",
+  "author": "Freya Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Freya Sandoval, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. Then an unfamiliar name shows up on the manifest of a ship that never flew — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "belonging",
+    "found family",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7239
+  }
+}

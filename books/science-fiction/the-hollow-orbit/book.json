@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07395",
+  "title": "The Hollow Orbit",
+  "author": "Oscar Reyes",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Orsen Thornbury, a xenolinguist who can no longer dream in human languages, has spent twenty years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7395
+  }
+}

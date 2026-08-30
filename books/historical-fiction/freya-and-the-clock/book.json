@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03034",
+  "title": "Freya and the Clock",
+  "author": "Yara Vane",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Jonah Vasquez, a battlefield nurse keeping a ledger of the names officers omit, believes history happens to other people, elsewhere. But when a child is left at the door with instructions to forget the face, she discovers that staying invisible was never really an option. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3034
+  }
+}

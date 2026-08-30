@@ -1,0 +1,119 @@
+{
+  "title": "The Homecoming of Maple Street",
+  "slug": "young-adult/the-homecoming-of-maple-street",
+  "model": "stealth/ox-alpha",
+  "premise": "Bram Yarrow, a seventeen-year-old coder hiding behind an anonymous account that predicts school events with eerie accuracy, is paired with his nemesis, Priya Chandrasekaran, for a semester project on Maple Street's forgotten history. As they digitize the town archive, Bram discovers the account's uncanny knowledge comes from a dead older brother's unfinished code he inherited without understanding it, and that the 'championship' the algorithm keeps counting down to isn't robotics or debate but a deadline: the archive's records will be permanently sealed and the street's last landmark demolished unless their project wins the state history fair. Racing his brother's failing servers and his own grief, Bram must choose between staying anonymous and standing publicly behind the truth, and in the finale he de-anonymizes himself at the fair, the project wins, the landmark is saved, and Bram finally claims both his identity and his inheritance.",
+  "about_author": "Odile Sandoval grew up on a street that no longer exists, in a town that renamed itself twice before she turned ten. She writes about the places and people we inherit without being asked, and lives with an aging server she refuses to shut down.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Countdown",
+      "summary": "Bram's POV. He narrates his life in days-until-graduation while his anonymous account, @mapleoracle, posts another impossibly accurate prediction about the school. He insists he's just a coder keeping his head down, but the account is growing a following, and a local reporter has started asking who's behind it. Emotional beat: numb detachment cracking at the edges."
+    },
+    {
+      "n": 2,
+      "title": "The Pairing",
+      "summary": "Priya's POV. Ms. Okafor announces the semester project: document one street's living history for the state fair, in pairs. Priya, the debate champion who once humiliated Bram publicly, is assigned to Bram. Both protest; neither wins. Emotional beat: furious reluctance masking curiosity."
+    },
+    {
+      "n": 3,
+      "title": "Terms of Engagement",
+      "summary": "Bram's POV. He and Priya negotiate a cold truce with a shared document and a no-talking rule, dividing Maple Street's archive between them. Bram quietly runs his brother's old scripts against the archive files and gets his first impossible result: the code predicts which records will be 'red-flagged' for sealing. Emotional beat: unease disguised as triumph."
+    },
+    {
+      "n": 4,
+      "title": "The House That Remembers",
+      "summary": "Priya's POV. Fieldwork begins at the Hollis House, the street's last original landmark, slated for demolition in spring. Priya interviews its last resident, Mrs. Hollis, who mistakes Priya for someone named June. Priya is shaken by how much of the street's memory lives in one failing mind. Emotional beat: tenderness she didn't plan for."
+    },
+    {
+      "n": 5,
+      "title": "Ghost in the Archive",
+      "summary": "Bram's POV. Digging into the code's provenance, Bram finds his dead brother Theo's username buried in the comments — Theo built the predictive engine before he died, and it's been learning from Bram's uploads ever since. He tells no one. Emotional beat: grief resurfacing as guilt."
+    },
+    {
+      "n": 6,
+      "title": "Rivals, Adjacent",
+      "summary": "Priya's POV. A late-night work session in the library breaks the no-talking rule; Priya admits she needs the state fair win for a scholarship, and that her family expects her to be unbeatable at everything. She catches Bram lying about why he flinches whenever Theo's name comes up. Emotional beat: first real conversation, first real crack in the armor."
+    },
+    {
+      "n": 7,
+      "title": "What the Oracle Knew",
+      "summary": "Bram's POV. @mapleoracle predicts the school's championship robotics result before the qualifiers, and it's right again. The reporter publishes a profile speculating the account is 'someone with access to something they shouldn't have.' Bram realizes the algorithm has been ingesting sealed municipal records. Emotional beat: fear that his inheritance is stolen property."
+    },
+    {
+      "n": 8,
+      "title": "Red Flags",
+      "summary": "Priya's POV. Priya discovers dozens of archive files marked for permanent sealing — including everything about the Hollis House and a 1998 fire the town never explained. She confronts Bram, who denies knowing anything, and the truce shatters. Emotional beat: betrayal, and the sting of being lied to by someone she was starting to trust."
+    },
+    {
+      "n": 9,
+      "title": "The Fire of '98",
+      "summary": "Bram's POV. Alone, Bram decrypts a sealed file and learns the fire that killed Theo wasn't an accident — it was set to destroy evidence of a land deal that now justifies the demolition. The algorithm wasn't predicting the future; it was excavating the past. Emotional beat: horror reorganizing into purpose."
+    },
+    {
+      "n": 10,
+      "title": "Two Championships",
+      "summary": "Priya's POV. Priya qualifies for the state debate championship the same weekend as the history fair, and her coach forces her to choose. Bram, trying to apologize with facts instead of words, shows her the decrypted file. Emotional beat: the choice between the win that matters to everyone else and the one that matters."
+    },
+    {
+      "n": 11,
+      "title": "Allies",
+      "summary": "Bram's POV. Bram and Priya formally re-team, this time as co-conspirators. They map the cover-up: a developer, a councilman, and a sealed archive all pointing at the Hollis House lot. Mrs. Hollis gives them June's real identity — a girl who died in the fire, whose records were erased. Emotional beat: righteous, fragile hope."
+    },
+    {
+      "n": 12,
+      "title": "The Account Speaks",
+      "summary": "Priya's POV. Someone leaks that @mapleoracle has accessed sealed records; the school threatens expulsion and the reporter circles closer. Priya realizes the only way to protect Bram is for the account to publish everything at once — and she starts drafting the thread without telling him. Emotional beat: loyalty becoming its own kind of risk."
+    },
+    {
+      "n": 13,
+      "title": "Server Failure",
+      "summary": "Bram's POV. Theo's aging server begins dying, corrupting the archive copies. Bram races to migrate the data while Priya covers for his absences. Mid-crisis he confesses everything: Theo, the fire, the account, the lie. Emotional beat: the relief and terror of being fully known."
+    },
+    {
+      "n": 14,
+      "title": "What Priya Carries",
+      "summary": "Priya's POV. Priya reveals her own inheritance: her grandmother's deportation file, sealed in the same municipal system, which is why she became a debater — to win arguments that reopen closed records. The project stops being about a grade. Emotional beat: two griefs recognizing each other."
+    },
+    {
+      "n": 15,
+      "title": "Interruptions",
+      "summary": "Bram's POV. The councilman's lawyer sends a cease-and-desist; Ms. Okafor, sympathetic but bound by rules, warns them their project may be disqualified. Theo's server fails completely, and the only surviving copy of the evidence is on a single drive in Bram's backpack. Emotional beat: everything narrowing to one fragile point."
+    },
+    {
+      "n": 16,
+      "title": "The Thread",
+      "summary": "Priya's POV. Against Bram's wishes, Priya publishes the thread from @mapleoracle, framing it as the archive speaking for itself. The town erupts; the demolition gets a temporary stay pending review; the reporter identifies Bram within hours. Emotional beat: the account's anonymity dying so the truth can live."
+    },
+    {
+      "n": 17,
+      "title": "Named",
+      "summary": "Bram's POV. Outed at school, Bram faces suspension and the developer's lawyers, but Mrs. Hollis publicly names him and Priya as the street's rememberers, and classmates who followed @mapleoracle for years rally behind him. Emotional beat: the terrifying, exhilarating weight of being a person instead of a handle."
+    },
+    {
+      "n": 18,
+      "title": "State of Evidence",
+      "summary": "Priya's POV. Days before the fair, the school moves to disqualify their project on a technicality. Priya does what she does best: she argues, formally appealing with the same forensic rigor she'd bring to a debate round, and wins the right to present. Emotional beat: every skill she resented finally meaning something."
+    },
+    {
+      "n": 19,
+      "title": "The Fair",
+      "summary": "Bram's POV. At the state history fair, Bram presents the Maple Street project — the fire, June, the land deal — with Priya beside him and Mrs. Hollis in the front row. The judges deliberate; the developer's representatives watch from the back. Emotional beat: the countdown reaching zero, and Bram no longer counting."
+    },
+    {
+      "n": 20,
+      "title": "What the Judges Said",
+      "summary": "Priya's POV. The project wins, but the real verdict comes after: the state opens an inquiry into the sealed records, the demolition permit is revoked, and the Hollis House is landmarked. Bram's suspension is overturned. Priya, who skipped her debate championship, discovers she doesn't regret it. Emotional beat: victory that feels like relief, not glory."
+    },
+    {
+      "n": 21,
+      "title": "Inheritance",
+      "summary": "Bram's POV. Bram rebuilds Theo's server from scratch, rewriting the code in his own style with his own name in the comments, and retires @mapleoracle with a final post signing it: Bram Yarrow, Theo's brother. He and Priya walk Maple Street together as the landmark lights come on. Emotional beat: grief becoming legacy."
+    },
+    {
+      "n": 22,
+      "title": "The Homecoming of Maple Street",
+      "summary": "Priya's POV, epilogue. One year later: the street's restored archive opens to the public with June's name restored, Priya headed to study law, Bram publishing under his real name. Mrs. Hollis, in the archive's first visitor book, writes a single line: 'Now the street can remember us back.' Emotional beat: quiet, earned belonging."
+    }
+  ]
+}

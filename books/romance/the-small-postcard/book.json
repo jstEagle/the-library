@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06499",
+  "title": "The Small Postcard",
+  "author": "Xanthe Underhill",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Rosalind Thornbury, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. But when a fake date to survive a family reunion feels too real by dessert, she discovers that staying invisible was never really an option. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6499
+  }
+}

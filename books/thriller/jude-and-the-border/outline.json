@@ -1,0 +1,59 @@
+{
+  "title": "Jude and the Border",
+  "slug": "thriller/jude-and-the-border",
+  "model": "stealth/ox-alpha",
+  "premise": "Coral Blackwood, a crash investigator haunted by the unexplained loss of his family in row twelve, discovers that a voiceprint recovered from the wreckage unlocks a hidden server in Frankfurt — one belonging to a predictive-markets network that engineers disasters to train its models. As he follows the data trail, he realizes his own grief was curated: the crash that killed his family was a training event. With the help of a disillusioned insider named Jude, Coral must expose and burn the network before Frankfurt's markets open at 9:00 a.m., choosing truth over the loyalty the system demands. In the end he destroys the server but learns the network has already seeded copies elsewhere — and he chooses to keep hunting rather than grieve.",
+  "about_author": "Coral Coldharbour is the pen name of a former aviation-safety analyst who spent a decade writing incident reports no one read. They now write thrillers about systems that fail quietly, from a house with too many radios.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "POV Coral. Five years after the crash, Coral reopens the file on a quiet anniversary and notices the black-box timeline has been amended — again. The emotional beat is grief sharpening into suspicion as he realizes someone keeps rewriting the record of his family's death."
+    },
+    {
+      "n": 2,
+      "title": "The Voiceprint",
+      "summary": "POV Coral. A recovered audio fragment contains a voiceprint that authenticates against an encrypted server pinged from Frankfurt. Coral breaks protocol to trace it, feeling for the first time alive since the funeral. Beat: transgression — rules were his armor; now he steps outside them."
+    },
+    {
+      "n": 3,
+      "title": "Jude",
+      "summary": "POV alternating Coral/Jude. In Frankfurt, Jude — a mid-level analyst inside the network — detects Coral's intrusion and is ordered to handle him. Instead she hesitates. Beat: Jude's first crack of doubt; two strangers orbiting the same secret from opposite sides."
+    },
+    {
+      "n": 4,
+      "title": "Training Data",
+      "summary": "POV Coral. Following the server's shadow archives, Coral finds other 'training events' — engineered tragedies feeding a market-prediction model. His crash is listed among them, timestamped before it happened. Beat: horror and vertigo; his grief was curriculum."
+    },
+    {
+      "n": 5,
+      "title": "Handlers",
+      "summary": "POV Jude. Jude's superiors assign her to recruit or discredit Coral, weaponizing his investigation file against him. She meets him under pretense and gives him a real clue instead. Beat: love against duty begins — her betrayal of the network feels like loyalty to something true."
+    },
+    {
+      "n": 6,
+      "title": "The Rewritten Man",
+      "summary": "POV Coral. The network erodes Coral's credibility: forged records suggest he falsified his own crash report. Colleagues turn away; his access dies. Beat: isolation and despair — the system doesn't kill dissenters, it rewrites them."
+    },
+    {
+      "n": 7,
+      "title": "Ninety Minutes",
+      "summary": "POV both. Jude reveals the network pre-positions trades minutes before each engineered event; the next window opens when Frankfurt markets do, at 9:00 a.m. tomorrow. Beat: urgency ignites — they have one night, one plan, and no institutional ally left."
+    },
+    {
+      "n": 8,
+      "title": "Coldharbour Protocol",
+      "summary": "POV Jude. Inside headquarters, Jude uses her own voiceprint to open the core while Coral infiltrates physically. She is caught by her mentor, who offers her promotion if she surrenders Coral. Beat: the loyalty-vs-truth theme crystallizes; she chooses truth and triggers the lockdown herself."
+    },
+    {
+      "n": 9,
+      "title": "Frankfurt Opens",
+      "summary": "POV Coral. In the server vault as markets open, Coral faces the network's director, who argues the model saves more lives than its staged disasters cost. Coral purges the core anyway as the clock strikes nine. Beat: climax — moral cost acknowledged, choice made; the burn goes through."
+    },
+    {
+      "n": 10,
+      "title": "After the Burn",
+      "summary": "POV Coral. Weeks later, Coral and Jude, fugitives, find a fragment of the archive mirrored on a server in another hemisphere. Instead of breaking, Coral books the flight. Beat: resolution with resolve — grief transformed into purpose; the hunt continues together."
+    }
+  ]
+}

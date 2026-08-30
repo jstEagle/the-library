@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00529",
+  "title": "The Trail of Mount Kessler",
+  "author": "Vesper Sterling",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Jude Joubert, a salvage diver working a wreck the navy won't discuss, has spent fifteen years measuring life in miles rather than years. Then an old rival hires the crew for the one job that was sworn off long ago — and she is pulled straight into the middle of it. Now she must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 529
+  }
+}

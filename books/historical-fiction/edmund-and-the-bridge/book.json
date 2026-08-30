@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03024",
+  "title": "Edmund and the Bridge",
+  "author": "Sable Villalobos",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Odile Brightwater, a widowed lighthouse keeper during the year of the great storms, keeps a low profile and busy hands. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the ice breaks on the river.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3024
+  }
+}

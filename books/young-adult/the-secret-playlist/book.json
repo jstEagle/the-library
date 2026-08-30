@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09583",
+  "title": "The Secret Playlist",
+  "author": "Astrid Kavanagh",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Hazel Marchetti, a baker's kid who bakes feelings into bread, stays under the radar: head down, grades up, locker shut. But when a group chat starts predicting things that haven't happened yet, they discover that staying invisible was never really an option. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9583
+  }
+}

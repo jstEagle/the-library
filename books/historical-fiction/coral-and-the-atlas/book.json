@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03003",
+  "title": "Coral and the Atlas",
+  "author": "Oscar Eriksen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Zephyrine Joubert, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. Now they must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3003
+  }
+}

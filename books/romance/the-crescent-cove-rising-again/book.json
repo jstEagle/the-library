@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06940",
+  "title": "the Crescent Cove Rising Again",
+  "author": "Casper Pemberton",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Coral Thornbury, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. To get through this, she must forgive the person in the mirror first before the last ferry of the season departs.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6940
+  }
+}

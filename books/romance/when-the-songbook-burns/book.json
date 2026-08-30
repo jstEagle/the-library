@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06405",
+  "title": "When the Songbook Burns",
+  "author": "Orsen Ashgrove",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Lior Zhou, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the bakery lease runs out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6405
+  }
+}

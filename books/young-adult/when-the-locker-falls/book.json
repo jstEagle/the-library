@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09638",
+  "title": "When the Locker Falls",
+  "author": "Sebastian Lockridge",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Coral Hartwell, the only out kid in a town of nine hundred, has spent seven years being so careful it hurts. Then the teacher pairs nemesis with nemesis for a semester-long project — and they are pulled straight into the middle of it. Now they must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9638
+  }
+}

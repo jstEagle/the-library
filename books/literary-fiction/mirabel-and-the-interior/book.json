@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04609",
+  "title": "Mirabel and the Interior",
+  "author": "Paloma Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Cyrus Montrose, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, she discovers that staying invisible was never really an option. To get through this, she must ask the question the whole family arranged itself around before the mother's memory goes entirely.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4609
+  }
+}

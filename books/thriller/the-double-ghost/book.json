@@ -1,0 +1,21 @@
+{
+  "id": "THR-08430",
+  "title": "The Double Ghost",
+  "author": "Freya Ashgrove",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Lena Coldharbour, a crash investigator whose family died in row twelve, has spent twenty years following rules that keep getting rewritten. Then the safe house is listed for sale — with photos of the inside — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8430
+  }
+}

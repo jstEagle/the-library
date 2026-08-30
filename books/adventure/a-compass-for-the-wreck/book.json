@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00521",
+  "title": "A Compass for the Wreck",
+  "author": "Freya Thornbury",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Theo Marchetti, a salvage diver working a wreck the navy won't discuss, knows the wilderness forgives nothing and forgets less. Then a dying prospector trades a map for a promise — and he is pulled straight into the middle of it. To get through this, he must follow a river upstream to its forbidden source before the concession permits expire.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 521
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Juniper and the Confession",
+  "slug": "mystery/juniper-and-the-confession",
+  "model": "stealth/ox-alpha",
+  "premise": "Estate lawyer Ivo Okafor, who has quietly solved three deaths the police ruled accidental, is hired by a nervous client to prove that her uncle, shipping magnate Edmund Voss, will NOT be murdered at his upcoming anniversary dinner. Ivo and his found family of misfits—archivist Wren, retired coroner Dr. Sable, and teenage hacker Pip—discover a coded ledger hidden in the Voss estate's library proving Edmund has been laundering money for a criminal syndicate, and that the syndicate plans to kill him and frame his niece. As the anniversary dinner approaches, Ivo must decode the ledger, expose the syndicate, and protect both Edmund and his client. The story ends with the syndicate dismantled through evidence delivered to a journalist rather than police, Edmund alive but ruined, and Ivo's found family finally stepping out of the shadows together.",
+  "about_author": "Juniper Thornbury spent fifteen years as a probate clerk in coastal New England before turning to fiction, where she witnessed enough contested wills to fuel a lifetime of mysteries. She writes from a converted boathouse, accompanied by an opinionated cat named Probate.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Will That Shouldn't Exist",
+      "summary": "Ivo Okafor reviews a probate file from a closed case and finds a codicil dated after the testator's death—a signature that proves someone forged documents to bury a murder. His POV establishes his methodical mind and loneliness. Emotional beat: quiet satisfaction of pattern recognition shadowed by isolation."
+    },
+    {
+      "n": 2,
+      "title": "Payment in Advance",
+      "summary": "A frightened woman, Clara Voss, hires Ivo with an unusual request: prove her uncle Edmund will not be murdered at his anniversary dinner in three weeks. She pays double, upfront. Ivo's POV; he accepts despite the absurdity. Emotional beat: intrigue mixed with unease—the case assumes a crime that hasn't happened yet."
+    },
+    {
+      "n": 3,
+      "title": "The House on Graywater Point",
+      "summary": "Ivo visits the Voss estate under pretext of updating Edmund's will, cataloguing staff, heirs, and security. Wren's POV as she infiltrates as a hired archivist. They identify four suspects: the business partner, the nurse, the estranged son, and the family lawyer. Emotional beat: creeping dread beneath genteel surfaces."
+    },
+    {
+      "n": 4,
+      "title": "Three Accidents, One Hand",
+      "summary": "Flashback chapter: Ivo recounts how he solved three prior 'accidental' deaths, each tied to estates he handled. Dr. Sable's POV reviewing old autopsy notes confirms his suspicions were right each time. Emotional beat: vindication entangled with guilt over staying silent while killers walked free."
+    },
+    {
+      "n": 5,
+      "title": "The Ledger in Plain Sight",
+      "summary": "Wren discovers the library's decorative leather volumes are numbered in a sequence that doesn't match any publishing record—a cipher keyed to shelf positions. Pip's POV cracking the first layer remotely reveals entries of payments routed through shell companies. Emotional beat: exhilaration of discovery curdling into fear of what it means."
+    },
+    {
+      "n": 6,
+      "title": "What Edmund Knew",
+      "summary": "Ivo confronts Edmund obliquely during a will revision session; the old man deflects but lets slip he fears 'the partners.' Ivo realizes Edmund knows he's a target and is preparing his affairs accordingly. Ivo's POV. Emotional beat: reluctant respect for a compromised man facing death with dignity."
+    },
+    {
+      "n": 7,
+      "title": "Clara's Inheritance",
+      "summary": "Digging into Clara's finances, Ivo learns she's Edmund's illegitimate niece, recently acknowledged—and the primary beneficiary if Edmund dies before rewriting his will. Someone may be using her as a patsy. Wren's POV. Emotional beat: suspicion of their own client, then protective resolve."
+    },
+    {
+      "n": 8,
+      "title": "The Nurse Who Wasn't",
+      "summary": "Pip uncovers that Edmund's live-in nurse, Marta, has no verifiable history before five years ago—her identity was manufactured. Surveillance footage shows her photographing documents. Pip's POV. Emotional beat: triumph of the hunt shadowed by how deep the conspiracy runs."
+    },
+    {
+      "n": 9,
+      "title": "Anniversary Preparations",
+      "summary": "Invitations go out; the guest list includes all four suspects plus an unfamiliar man listed as a 'wine consultant.' Ivo attends a pre-dinner party, mapping sightlines and poison vectors. Ivo's POV. Emotional beat: claustrophobic tension as the clock ticks down and every courtesy feels like a threat."
+    },
+    {
+      "n": 10,
+      "title": "Decoding the Deeper Layer",
+      "summary": "Wren and Pip crack the ledger's second cipher: initials matching a syndicate known as the Meridian Group, which has bought judges, cops, and coroners across three states. Going to police means tipping the syndicate. Wren's POV. Emotional beat: despair at institutional rot hardening into commitment to justice outside the law."
+    },
+    {
+      "n": 11,
+      "title": "Sable's Warning",
+      "summary": "Dr. Sable identifies the likely murder method from kitchen supply orders—insulin substitution, nearly undetectable. She warns Ivo that whoever arranged it has medical access: Marta, or someone using her. Sable's POV. Emotional beat: clinical calm masking fury at medicine weaponized."
+    },
+    {
+      "n": 12,
+      "title": "The Estranged Son Returns",
+      "summary": "Edmund's son Daniel arrives unexpectedly, ostensibly reconciled. Ivo observes father and son clashing privately; Daniel threatens to sell his shares to 'people who'll actually value them'—the Meridian Group. Ivo's POV. Emotional beat: pity for a son weaponized by greed he barely understands."
+    },
+    {
+      "n": 13,
+      "title": "Betrayal in the Archive",
+      "summary": "Someone searches Wren's workspace; the decoy ledger copy she planted is stolen, meaning the enemy now believes they have the real one. The team realizes they're being played—and that the thief had access only Wren should control. Wren's POV. Emotional beat: violation and self-doubt fracturing the team's trust."
+    },
+    {
+      "n": 14,
+      "title": "The Mole Among Us",
+      "summary": "Ivo methodically tests his own circle and discovers the leak isn't human: Pip's encrypted channel was compromised via a firmware backdoor planted months ago. The syndicate has been listening since the beginning. Pip's POV. Emotional beat: shame transformed into fierce determination to turn surveillance into a trap."
+    },
+    {
+      "n": 15,
+      "title": "Feeding the Enemy",
+      "summary": "The team feeds false information through the compromised channel: the 'real' ledger places incriminating evidence in Clara's safe, framing her exactly as the syndicate planned—but on the team's schedule. Ivo's POV. Emotional beat: cold clarity of turning prey into bait."
+    },
+    {
+      "n": 16,
+      "title": "The Night Before",
+      "summary": "On the eve of the dinner, Edmund privately asks Ivo whether he'll be alive tomorrow. Ivo, unable to lie, tells him the truth and offers him a choice: flee, or help spring the trap. Edmund chooses to stay and face them. Ivo's POV. Emotional beat: unexpected intimacy between lawyer and client, two men choosing courage."
+    },
+    {
+      "n": 17,
+      "title": "The Anniversary Dinner",
+      "summary": "The dinner unfolds in alternating close POVs—Ivo watching Marta, Wren watching the wine consultant, Sable monitoring Edmund's glass. The poisoned insulin swap happens precisely as predicted; Sable intercepts and substitutes a harmless saline vial. Emotional beat: excruciating suspense held taut by ritual politeness."
+    },
+    {
+      "n": 18,
+      "title": "Glasses Raised",
+      "summary": "Edmund rises to toast, and instead of collapsing, announces he has rewritten his will and dissolved the partnership. The syndicate's man moves to silence everyone; Ivo triggers the lockdown he installed, sealing the room. Climactic confrontation. Ivo's POV. Emotional beat: terror and triumph fused as the trap springs shut."
+    },
+    {
+      "n": 19,
+      "title": "Confession at Gunpoint",
+      "summary": "Trapped, the syndicate's fixer confesses to three prior murders—the very accidents Ivo solved—believing he's negotiating leverage. Every word is recorded and streamed to journalist Dana Reyes and a backup server. Marta breaks and implicates the Meridian board. Multiple POVs. Emotional beat: cathartic reckoning as hidden truths surface."
+    },
+    {
+      "n": 20,
+      "title": "Justice Outside the Law",
+      "summary": "Police arrive to find everything documented, but the syndicate's bought officers attempt to bury the case; Reyes publishes anyway, forcing federal intervention. The team watches institutions finally move—because citizens forced them. Sable's POV. Emotional beat: wary hope that justice delayed can still arrive."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath at Graywater Point",
+      "summary": "Weeks later: Edmund, ruined but alive, signs his final will leaving Graywater Point to Clara—and quietly funds Ivo's work. Daniel faces charges but begins cooperating. The team gathers in the library where the ledger hid. Wren's POV. Emotional beat: grief for what was lost, gratitude for what was built."
+    },
+    {
+      "n": 22,
+      "title": "Juniper and the Confession",
+      "summary": "Ivo files the closed case among his others and finds a new envelope on his desk: another impossible will, another quiet wrong to right—but this time the whole team is waiting when he looks up. Final chapter, Ivo's POV closing into collective resolution. Emotional beat: solitude ended; the invisible detective visible at last, surrounded by family."
+    }
+  ]
+}

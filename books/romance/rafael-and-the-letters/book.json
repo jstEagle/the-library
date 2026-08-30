@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06679",
+  "title": "Rafael and the Letters",
+  "author": "Theo Yarrow",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Mirabel Okonkwo, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. To get through this, they must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6679
+  }
+}

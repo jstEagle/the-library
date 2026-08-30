@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03232",
+  "title": "When the Harvest Burns",
+  "author": "Vesper Vasquez",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Orsen Halloran, a pest controller called to something with fingerprints, has spent twelve years telling themselves the noises have explanations. But when all the photographs from grandma's house now include an extra chair, they discover that staying invisible was never really an option. To get through this, they must finish the ritual the founders started before the well refills.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3232
+  }
+}

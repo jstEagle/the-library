@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06942",
+  "title": "The Bakery of Bellbird Bay Anew",
+  "author": "Elodie Brightwater",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Juniper Nakamura, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6942
+  }
+}

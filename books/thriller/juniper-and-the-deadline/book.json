@@ -1,0 +1,21 @@
+{
+  "id": "THR-08863",
+  "title": "Juniper and the Deadline",
+  "author": "Zephyrine Vasquez",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Beatrix Whitlock, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. To get through this, he must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8863
+  }
+}

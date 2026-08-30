@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01788",
+  "title": "Astrid and the Choir",
+  "author": "Kestrel Thornbury",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "August Blackwood, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1788
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08312",
+  "title": "Horizon and Terminal Again",
+  "author": "Freya Vane",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Jude Reyes, a starship navigator haunted by the backups sleeping in the hold, records the slow death of a colony everyone else forgot. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8312
+  }
+}

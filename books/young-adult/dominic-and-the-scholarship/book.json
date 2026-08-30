@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09933",
+  "title": "Dominic and the Scholarship",
+  "author": "Silas Sterling",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Marguerite Eriksen, the eldest sibling raising the younger ones while mom works nights, stays under the radar: head down, grades up, locker shut. But when a group chat starts predicting things that haven't happened yet, she discovers that staying invisible was never really an option. To get through this, she must win the championship that doesn't matter — and the one that does before the final audition.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9933
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04540",
+  "title": "A Weather for the Interior",
+  "author": "Quentin Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Mara Vane, a former prodigy returning to the conservatory as a janitor, has perfected the smile that ends conversations. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4540
+  }
+}

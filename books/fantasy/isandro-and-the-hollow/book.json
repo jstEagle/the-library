@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00868",
+  "title": "Isandro and the Hollow",
+  "author": "Zephyrine Nakamura",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Hazel Sandoval, a cartographer of unmapped realms, has spent three years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 868
+  }
+}

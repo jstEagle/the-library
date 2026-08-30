@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06022",
+  "title": "Garden and Summer",
+  "author": "Vesper Blackwood",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Gideon Hartwell, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. To get through this, they must say the sentence that has been rehearsed for a decade before the vineyard's first harvest comes in.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6022
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02276",
+  "title": "The Last Ember Anew",
+  "author": "Hazel Sandoval",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jude Ashgrove, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2276
+  }
+}

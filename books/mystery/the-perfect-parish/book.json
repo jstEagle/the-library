@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05548",
+  "title": "The Perfect Parish",
+  "author": "Bram Whitlock",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ines Eriksen, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. To get through this, she must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5548
+  }
+}

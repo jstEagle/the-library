@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08279",
+  "title": "The Pale Signal Anew",
+  "author": "Petra Reyes",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Beatrix Vane, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8279
+  }
+}

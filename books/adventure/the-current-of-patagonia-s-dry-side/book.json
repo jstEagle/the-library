@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00162",
+  "title": "The Current of Patagonia's dry side",
+  "author": "Theo Whitlock",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Casper Underhill, a storm chaser who owes money to dangerous optimists, has spent twelve years measuring life in miles rather than years. But when a government survey team vanishes, leaving gear and no tracks, he discovers that staying invisible was never really an option. Now he must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 162
+  }
+}

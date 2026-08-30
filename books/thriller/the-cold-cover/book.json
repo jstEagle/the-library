@@ -1,0 +1,21 @@
+{
+  "id": "THR-08761",
+  "title": "The Cold Cover",
+  "author": "J. M. Underhill",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Jonah Joubert, a burnt analyst bounced from three agencies, works cases no one wants attributed. But when every record of a flight vanishes while it's still in the air, they discover that staying invisible was never really an option. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8761
+  }
+}

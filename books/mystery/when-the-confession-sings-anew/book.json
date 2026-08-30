@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05920",
+  "title": "When the Confession Sings Anew",
+  "author": "Marguerite Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Vesper Vane, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. To get through this, they must untangle alibis woven thirty years ago before the trial begins.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5920
+  }
+}

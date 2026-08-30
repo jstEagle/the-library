@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02096",
+  "title": "When the Hollow Sings Anew",
+  "author": "A. M. Montrose",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Lena Underhill, a thief who steals memories, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2096
+  }
+}

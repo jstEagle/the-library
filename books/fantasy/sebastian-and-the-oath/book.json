@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01806",
+  "title": "Sebastian and the Oath",
+  "author": "Cyrus Ravensworth",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Quentin Dravenmoor, the last oath-bound swordspeaker, has spent ten years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1806
+  }
+}

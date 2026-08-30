@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02403",
+  "title": "The Faithful Typewriter",
+  "author": "Rosalind Ashgrove",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Juniper Voss, a battlefield nurse keeping a ledger of the names officers omit, keeps a low profile and busy hands. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. To get through this, she must keep a promise made in peacetime to someone now declared enemy before the armistice is signed — or isn't.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2403
+  }
+}

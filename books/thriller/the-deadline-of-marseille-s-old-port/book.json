@@ -1,0 +1,21 @@
+{
+  "id": "THR-08536",
+  "title": "The Deadline of Marseille's old port",
+  "author": "V. M. Yarrow",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Astrid Underhill, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when a voiceprint unlocks a server on another continent, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8536
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01658",
+  "title": "Lena and the Salt",
+  "author": "H. M. Marchetti",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Emrys Dunmore, the last oath-bound swordspeaker, has spent three years selling small charms in a city that outlawed magic. Then the old gods begin answering prayers again — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1658
+  }
+}

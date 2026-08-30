@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00422",
+  "title": "Theo and the Horizon",
+  "author": "Ines Okonkwo",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Rosalind Vane, a riverboat captain who knows every sandbar's mood, has spent three years measuring life in miles rather than years. Then an old rival hires the crew for the one job that was sworn off long ago — and he is pulled straight into the middle of it. Now he must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 422
+  }
+}

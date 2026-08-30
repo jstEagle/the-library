@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06379",
+  "title": "The Late Promise",
+  "author": "Astrid Underhill",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Bram Okonkwo, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "identity",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6379
+  }
+}

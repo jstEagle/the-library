@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06969",
+  "title": "A Orchard for the Vow Again",
+  "author": "Hazel Delacroix",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Edmund Thornbury, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. To get through this, he must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6969
+  }
+}

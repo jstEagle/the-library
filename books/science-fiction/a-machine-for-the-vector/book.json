@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07531",
+  "title": "A Machine for the Vector",
+  "author": "Juniper Eastwick",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Zhou, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and she is pulled straight into the middle of it. Now she must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7531
+  }
+}

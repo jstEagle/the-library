@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04911",
+  "title": "A Alibi for the Will",
+  "author": "Lior Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Oscar Halloran, a hotel concierge who notices everything, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4911
+  }
+}

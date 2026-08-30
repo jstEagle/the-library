@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07456",
+  "title": "The Long Horizon",
+  "author": "P. M. Zhou",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Vesper Kavanagh, a starship navigator haunted by the backups sleeping in the hold, records the slow death of a colony everyone else forgot. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. To get through this, he must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7456
+  }
+}

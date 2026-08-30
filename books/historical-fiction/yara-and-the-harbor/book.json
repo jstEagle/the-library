@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02475",
+  "title": "Yara and the Harbor",
+  "author": "Lena Sandoval",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Dominic Ravensworth, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent twenty years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2475
+  }
+}

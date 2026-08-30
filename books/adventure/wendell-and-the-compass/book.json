@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00025",
+  "title": "Wendell and the Compass",
+  "author": "Tamsin Marchetti",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Lena Thornbury, a bush pilot flying medicine and rumors into the interior, keeps moving because stopping costs more. Then an old rival hires the crew for the one job that was sworn off long ago — and they are pulled straight into the middle of it. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 25
+  }
+}

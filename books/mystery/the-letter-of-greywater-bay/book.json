@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04852",
+  "title": "The Letter of Greywater Bay",
+  "author": "Wren Sandoval",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Jonah Quintana, an insurance investigator with a photographic memory, has spent seven years keeping the town's secrets filed and alphabetized. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. Now she must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4852
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01223",
+  "title": "The Ember of Highmoor",
+  "author": "Y. M. Ashgrove",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Zephyrine Whitlock, a cartographer of unmapped realms, has spent fifteen years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1223
+  }
+}

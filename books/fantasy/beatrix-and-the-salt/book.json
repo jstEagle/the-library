@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00993",
+  "title": "Beatrix and the Salt",
+  "author": "Quentin Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "August Winterbourne, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. To get through this, they must steal back a soul sold to the court beneath the mountain before the long winter finishes falling.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 993
+  }
+}

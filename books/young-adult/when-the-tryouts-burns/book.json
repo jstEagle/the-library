@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09646",
+  "title": "When the Tryouts Burns",
+  "author": "Mara Yarrow",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Quentin Coldharbour, a baker's kid who bakes feelings into bread, has spent ten years being so careful it hurts. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, she discovers that staying invisible was never really an option. Now she must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9646
+  }
+}

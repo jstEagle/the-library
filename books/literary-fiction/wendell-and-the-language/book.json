@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04617",
+  "title": "Wendell and the Language",
+  "author": "Elodie Fairweather",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Lior Ravensworth, a former prodigy returning to the conservatory as a janitor, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, he discovers that staying invisible was never really an option. To get through this, he must forgive the stranger in the old photographs before the mother's memory goes entirely.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4617
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model": "stealth/ox-alpha",
+  "app_title": "The Library",
+  "max_concurrent_requests": 32,
+  "retries": 6,
+  "outline_temperature": 0.9,
+  "chapter_temperature": 0.8,
+  "reasoning_effort": "low",
+  "request_timeout_seconds": 480,
+  "length_presets": {
+    "short-story": { "chapters": 4, "words_per_chapter": 1200 },
+    "novella":     { "chapters": 10, "words_per_chapter": 1600 },
+    "novel":       { "chapters": 22, "words_per_chapter": 2400 },
+    "epic":        { "chapters": 40, "words_per_chapter": 2600 }
+  }
+}

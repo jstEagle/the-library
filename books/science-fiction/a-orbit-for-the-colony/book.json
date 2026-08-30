@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07214",
+  "title": "A Orbit for the Colony",
+  "author": "Rosalind Hartwell",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Rosalind Okonkwo, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before the fleet's truce expires.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7214
+  }
+}

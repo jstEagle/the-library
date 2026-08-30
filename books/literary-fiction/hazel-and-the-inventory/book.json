@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04571",
+  "title": "Hazel and the Inventory",
+  "author": "Silas Fairweather",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Juniper Delacroix, an heir cataloging a parent's silence after the funeral, moves through the days like a tenant, not an owner. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the mother's memory goes entirely.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4571
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07264",
+  "title": "When the Protocol Wakes",
+  "author": "Juniper Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Lior Nystrom, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. To get through this, they must reach the relay at the edge of dead space, racing the signal before the reactor finishes its countdown.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7264
+  }
+}

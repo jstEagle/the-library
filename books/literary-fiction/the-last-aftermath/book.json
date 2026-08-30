@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04151",
+  "title": "The Last Aftermath",
+  "author": "Casper Sterling",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "August Coldharbour, a former prodigy returning to the conservatory as a janitor, keeps a careful inventory of everything unsaid. But when the last speaker of a language asks for one final student, she discovers that staying invisible was never really an option. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4151
+  }
+}

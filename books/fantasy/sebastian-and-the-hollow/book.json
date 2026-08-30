@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01078",
+  "title": "Sebastian and the Hollow",
+  "author": "Freya Vasquez",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Gideon Delacroix, a thief who steals memories, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1078
+  }
+}

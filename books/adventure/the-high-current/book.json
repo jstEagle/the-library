@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00677",
+  "title": "The High Current",
+  "author": "I. M. Okafor",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Quentin Coldharbour, a bush pilot flying medicine and rumors into the interior, has spent seven years measuring life in miles rather than years. But when the tide reveals a cave that legends charge admission to, they discover that staying invisible was never really an option. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 677
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03057",
+  "title": "A Compass for the Orchard",
+  "author": "August Villalobos",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Dominic Marchetti, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. But when the bridge — the only road out — closes for the season, she discovers that staying invisible was never really an option. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3057
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05151",
+  "title": "When the Autopsy Turns",
+  "author": "Ivo Vasquez",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Beatrix Okonkwo, a retired detective running a failing bookshop, has spent twenty years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5151
+  }
+}

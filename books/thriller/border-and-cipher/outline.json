@@ -1,0 +1,119 @@
+{
+  "title": "Border and Cipher",
+  "slug": "thriller/border-and-cipher",
+  "model": "stealth/ox-alpha",
+  "premise": "Vesper Amberdale, a private security contractor who ghosted out of the intelligence world after a botched extraction in Riga, receives a calendar invite from Marcus Hale—the handler who died six months ago—summoning them to Frankfurt before markets open. The invitation is bait and lifeline both: someone has resurrected Hale's encrypted dead-drop network, and inside it sits the ledger proving Vesper's old employer orchestrated the incident that broke them. Hunted by the firm's cleaners and shadowed by Ilsa Reiner, a Bundesbank analyst whose loyalties are as compromised as her charm is disarming, Vesper must decide whether to burn the ledger for freedom or publish it and burn everyone who became their accidental family. In the end, Vesper trades the ledger's location to the cleaners to save Ilsa and their ragtag crew, then leaks a single decrypted page at market open—enough to topple the employer without dooming the people they love—and finally sleeps through the night.",
+  "about_author": "Odile Pemberton is the pen name of a former risk analyst who spent a decade drafting threat assessments for clients she was never allowed to name. She writes thrillers from a canal house in Amsterdam, where she insists the fog does most of the plotting.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Invitation from a Dead Man",
+      "summary": "Vesper's POV. Working a dull protection detail in Rotterdam, Vesper receives a calendar invite from Marcus Hale—dead six months—for 8:00 a.m. tomorrow in Frankfurt. Panic masquerading as professionalism; the first crack in their carefully maintained invisibility."
+    },
+    {
+      "n": 2,
+      "title": "Sleep Is a Country I Left",
+      "summary": "Vesper's POV, flashback-woven. Unable to sleep, Vesper audits their own security and finds traces of Hale's cipher in the invitation's metadata—his authentic hand. Emotional beat: grief weaponized into dread, and the decision to go."
+    },
+    {
+      "n": 3,
+      "title": "Frankfurt Before Dawn",
+      "summary": "Vesper's POV. A pre-dawn meeting point yields not Hale but a courier: a teenage girl, Nell, carrying Hale's dead-drop key and a warning that the cleaners are already in the city. Beat: reluctant responsibility for a stranger."
+    },
+    {
+      "n": 4,
+      "title": "The Analyst Who Shouldn't Care",
+      "summary": "Ilsa's POV. Bundesbank analyst Ilsa Reiner notices anomalous pre-market orders tied to Vesper's old employer and starts pulling threads she was told to leave alone. Beat: curiosity curdling into danger."
+    },
+    {
+      "n": 5,
+      "title": "Cleaners at the Kaiserhof",
+      "summary": "Vesper's POV. Ambushed at their hotel by the firm's cleaning crew, Vesper escapes with Nell through service corridors, realizing the invite was also a trap to flush them out. Beat: hunted, adrenaline, protectiveness hardening."
+    },
+    {
+      "n": 6,
+      "title": "What Hale Buried in Riga",
+      "summary": "Vesper's POV, deep flashback. The incident: the extraction that failed, the client who died, the order Vesper obeyed and can't forgive. Beat: shame exposed—the secret worth killing for is Vesper's own complicity."
+    },
+    {
+      "n": 7,
+      "title": "Two Liars at a Café Table",
+      "summary": "Alternating POV. Ilsa confronts Vesper with the anomalous orders; each recognizes the other's tradecraft. An uneasy alliance forms over bad coffee. Beat: wary attraction, two professionals lying beautifully."
+    },
+    {
+      "n": 8,
+      "title": "The Dead-Drop Network Lives",
+      "summary": "Vesper's POV. Following Hale's cipher, Vesper discovers his drop network still active—someone is feeding it new material. Inside: partial pages of the Ledger, implicating the firm's director, Aurel Vance. Beat: hope with teeth."
+    },
+    {
+      "n": 9,
+      "title": "Nell Knows More Than She Says",
+      "summary": "Nell's POV. The courier reveals she was Hale's protégée in his off-books life and that he anticipated his own death. Beat: found family forming around shared abandonment."
+    },
+    {
+      "n": 10,
+      "title": "Markets Open in Fourteen Hours",
+      "summary": "Ilsa's POV. Ilsa maps the financial scheme: Vance is using the Ledger's secrets to position for a catastrophic short before Frankfurt opens. Deadline crystallizes. Beat: duty pulling her toward reporting it all."
+    },
+    {
+      "n": 11,
+      "title": "The Safehouse of Strangers",
+      "summary": "Vesper's POV. The trio holes up with Tomas, Vesper's estranged former teammate, now running a shabby bar. Old wounds, grudging shelter. Beat: the fragile architecture of chosen family under one roof."
+    },
+    {
+      "n": 12,
+      "title": "Aurel Vance Sends Flowers",
+      "summary": "Vesper's POV. Vance makes contact—not with threats but an offer: full pardon and a clean identity in exchange for the Ledger. He knows about Ilsa. Beat: temptation dressed as mercy."
+    },
+    {
+      "n": 13,
+      "title": "Interrogating a Memory",
+      "summary": "Vesper's POV. Decrypting more of Hale's cache, Vesper learns Hale recorded the truth of Riga—including evidence that would exonerate Vesper partially, condemn them partially. Beat: refusing comfortable lies about oneself."
+    },
+    {
+      "n": 14,
+      "title": "Ilsa Crosses Her Own Line",
+      "summary": "Ilsa's POV. Ordered by her superiors to stand down, Ilsa instead copies the transaction files and goes dark, choosing Vesper over the institution. Beat: love against duty, decided in a stairwell."
+    },
+    {
+      "n": 15,
+      "title": "Tomas Pays the Toll",
+      "summary": "Vesper's POV. Cleaners hit the safehouse; Tomas holds the door so the others escape and doesn't make it out. Beat: grief as the price of belonging; rage sharpened into resolve."
+    },
+    {
+      "n": 16,
+      "title": "The Trade",
+      "summary": "Alternating POV. Vance captures Nell and offers the exchange: Nell for the Ledger's location. Vesper agrees, planning deception; Ilsa argues publishing is the only moral path. Beat: the couple fractures over what survival costs."
+    },
+    {
+      "n": 17,
+      "title": "Handoff at the Hauptwache",
+      "summary": "Vesper's POV. The public-square exchange goes sideways—Vance never intended to trade, and Vesper burns their escape plan to get Nell out alive, surrendering the Ledger's true location. Beat: sacrifice without guarantee."
+    },
+    {
+      "n": 18,
+      "title": "Cipher in the Ashes",
+      "summary": "Nell's POV. Nell reveals Hale taught her a final layer of the cipher: a duplicate of the Ledger's key page hidden where only someone who loved him would look. Beat: the dead man's last gift; family beyond death."
+    },
+    {
+      "n": 19,
+      "title": "Eight Fifty-Two A.M.",
+      "summary": "Vesper and Ilsa's POV, interleaved. With minutes before markets open, they race Vance's men to release the decrypted page publicly while Ilsa triggers the regulatory alarm from inside. Beat: climax—everything converges on a timestamp."
+    },
+    {
+      "n": 20,
+      "title": "The Page That Moved Markets",
+      "summary": "Multiple POVs. The leak lands; Vance's positions collapse, his board abandons him, and the cleaners are ordered to erase themselves instead. Vance is taken quietly by authorities he can't buy. Beat: catharsis, chaos becoming justice."
+    },
+    {
+      "n": 21,
+      "title": "What We Kept",
+      "summary": "Vesper's POV. Aftermath: testimony negotiated, names cleared imperfectly, Tomas mourned properly. Vesper and Ilsa choose each other without guarantees. Beat: tenderness after violence; memory integrated rather than fled."
+    },
+    {
+      "n": 22,
+      "title": "Border and Cipher",
+      "summary": "Vesper's POV, quiet coda. Months later, Vesper sleeps through the night in a small flat above Ilsa's; Nell visits with postcards; a new encrypted message arrives—and Vesper lets it wait until morning. Beat: peace as the final act of courage."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06452",
+  "title": "Mara and the Songbook",
+  "author": "Odile Winterbourne",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Kestrel Coldharbour, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6452
+  }
+}

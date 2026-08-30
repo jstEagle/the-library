@@ -1,0 +1,21 @@
+{
+  "id": "THR-08640",
+  "title": "A Safehouse for the Contact",
+  "author": "Bram Voss",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Gideon Delacroix, a crash investigator whose family died in row twelve, works cases no one wants attributed. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. To get through this, he must stop an attack scheduled to look like an accident before the extraction flight leaves at dawn.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8640
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05048",
+  "title": "The Borrowed Parish",
+  "author": "Edmund Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Oscar Dunmore, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5048
+  }
+}

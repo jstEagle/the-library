@@ -1,0 +1,21 @@
+{
+  "id": "THR-08872",
+  "title": "Zephyrine and the Asset",
+  "author": "Odile Coldharbour",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Casper Nystrom, a burnt analyst bounced from three agencies, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8872
+  }
+}

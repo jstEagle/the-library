@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04631",
+  "title": "A Interior for the Silence",
+  "author": "Lena Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Dominic Quintana, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. To get through this, they must ask the question the whole family arranged itself around before the demolition date arrives.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4631
+  }
+}

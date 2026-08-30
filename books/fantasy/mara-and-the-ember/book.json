@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01512",
+  "title": "Mara and the Ember",
+  "author": "E. M. Pemberton",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Edmund Nystrom, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1512
+  }
+}

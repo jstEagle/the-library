@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02863",
+  "title": "A Compass for the Uniform",
+  "author": "Mara Thornbury",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ivo Brightwater, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, they discover that staying invisible was never really an option. To get through this, they must smuggle the evidence past three checkpoints before the ship sails on the morning tide.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2863
+  }
+}

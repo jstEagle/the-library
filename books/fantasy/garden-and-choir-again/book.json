@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01527",
+  "title": "Garden and Choir Again",
+  "author": "Marguerite Brightwater",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Astrid Halloran, the youngest member of a dying guild, has spent three years selling small charms in a city that outlawed magic. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1527
+  }
+}

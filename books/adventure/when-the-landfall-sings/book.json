@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00055",
+  "title": "When the Landfall Sings",
+  "author": "Zephyrine Villalobos",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Casper Galloway, a mountain guide blacklisted from two countries, carries a compass, a debt, and very little else. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 55
+  }
+}

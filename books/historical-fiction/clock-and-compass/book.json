@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02449",
+  "title": "Clock and Compass",
+  "author": "Kestrel Joubert",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Mara Montrose, a battlefield nurse keeping a ledger of the names officers omit, keeps a low profile and busy hands. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, they discover that staying invisible was never really an option. To get through this, they must smuggle the evidence past three checkpoints before the ice breaks on the river.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2449
+  }
+}

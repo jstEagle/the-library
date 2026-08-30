@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07284",
+  "title": "The Echo of Station Meridian",
+  "author": "Ada Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Ada Halloran, the last human technician on an automated relay station, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7284
+  }
+}

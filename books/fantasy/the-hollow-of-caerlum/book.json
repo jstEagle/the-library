@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01578",
+  "title": "The Hollow of Caerlum",
+  "author": "Rosalind Sterling",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Emrys Marchetti, an exiled storm-caller, has never left the valley where magic cannot follow. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1578
+  }
+}

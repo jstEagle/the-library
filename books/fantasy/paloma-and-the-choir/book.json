@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01054",
+  "title": "Paloma and the Choir",
+  "author": "Xanthe Montrose",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ada Brightwater, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. To get through this, they must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1054
+  }
+}

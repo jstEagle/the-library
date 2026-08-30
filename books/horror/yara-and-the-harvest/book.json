@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03764",
+  "title": "Yara and the Harvest",
+  "author": "Ulyana Ishikawa",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Mara Ashgrove, an urban explorer mapping tunnels that aren't on any survey, has spent seven years telling themselves the noises have explanations. Then every mirror in the house starts reflecting the room one second late — and he is pulled straight into the middle of it. To get through this, he must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3764
+  }
+}

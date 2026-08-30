@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07258",
+  "title": "Edmund and the Vector",
+  "author": "B. M. Coldharbour",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Theo Delacroix, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7258
+  }
+}

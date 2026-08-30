@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08318",
+  "title": "A Static for the Terminal Anew",
+  "author": "A. M. Blackwood",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Isandro Winterbourne, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. To get through this, he must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8318
+  }
+}

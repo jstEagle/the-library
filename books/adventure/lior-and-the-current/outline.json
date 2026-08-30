@@ -1,0 +1,119 @@
+{
+  "title": "Lior and the Current",
+  "slug": "adventure/lior-and-the-current",
+  "model": "stealth/ox-alpha",
+  "premise": "August Sandoval, a storm chaser deep in debt to the Meridian Syndicate—a lending outfit that calls itself 'a community of optimists'—takes one last paid job: resupplying and retrieving an upriver survey expedition whose radio has gone silent. He finds the camp abandoned except for Lior Vassek, a young cartographer who knows why the team vanished: they discovered the concession's water rights were built on falsified permits, and someone silenced them for it. Hunted by the Syndicate's collectors ahead of them and the early snows behind, August and Lior must cross the range with the evidence before the permits expire and the fraud becomes permanent law. In the end, August chooses truth over the debt-forgiveness he was promised, testifying at the land hearing as the first snow falls—and finds that belonging was never something he could outrun or buy.",
+  "about_author": "August Blackwood is the pen name of a former river guide who spent a decade running expeditions through remote mountain watersheds before turning to fiction. They write adventure stories about people who measure their lives in landscapes rather than ledgers.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Miles, Not Years",
+      "summary": "August's POV. We meet him mid-chase, logging a supercell in the plains while dodging calls from the Meridian Syndicate about his debt. Establish his philosophy of constant motion and his estrangement from any fixed home. Emotional beat: restless avoidance dressed up as freedom."
+    },
+    {
+      "n": 2,
+      "title": "The Optimists' Ledger",
+      "summary": "August's POV. A Syndicate collector, Delia Marsh, offers him a deal: retrieve the silent Kestrel River survey team and his debt is forgiven. The job smells wrong—twelve days of radio silence, no search mounted. Emotional beat: desperation making a bad bargain feel like rescue."
+    },
+    {
+      "n": 3,
+      "title": "Upstream of Nowhere",
+      "summary": "August's POV. He travels upriver by boat and trail, following the survey's marked waypoints, finding signs of a hurried departure: gear left, a torn map, fresh boot prints heading toward the range. Emotional beat: unease sharpening into dread."
+    },
+    {
+      "n": 4,
+      "title": "The Empty Camp",
+      "summary": "August's POV. He reaches the main survey camp—ransacked, radios smashed, one member missing entirely. Then he finds Lior Vassek hiding in a cache cave, half-starved, refusing to say what happened. Emotional beat: suspicion between strangers forced together."
+    },
+    {
+      "n": 5,
+      "title": "What Lior Saw",
+      "summary": "Lior's POV. Flashback woven through present dialogue: the team found that the concession's water permits were backdated over indigenous claims using forged surveys—their own supervisor signed off under pressure. When the lead cartographer objected, men came at night. Emotional beat: guilt of the survivor who ran."
+    },
+    {
+      "n": 6,
+      "title": "Two Sets of Hunters",
+      "summary": "August's POV. Delia radios in: the Syndicate wants Lior and any documents 'recovered,' not rescued. August realizes he wasn't hired to save anyone—he was hired to bury it. He lies to Delia and keeps moving. Emotional beat: the first crack in his transactional worldview."
+    },
+    {
+      "n": 7,
+      "title": "The Permit Clock",
+      "summary": "Lior's POV. They calculate the timeline: the fraudulent permits finalize when the concession expires in nineteen days; after that, the falsified record becomes unchallengeable legal fact. The only counter-evidence is the original field ledger, hidden somewhere in the high camps. Emotional beat: hope with a deadline attached."
+    },
+    {
+      "n": 8,
+      "title": "The Range Ahead",
+      "summary": "August's POV. They begin the crossing—switchbacks, a rope bridge gone rotten, weather turning early. August teaches Lior to read storms; Lior teaches August to read maps like stories. Emotional beat: trust forming through competence and shared labor."
+    },
+    {
+      "n": 9,
+      "title": "Delia on the Trail",
+      "summary": "Delia's POV (first shift away from the duo). She tracks them with two collectors, genuinely liking August and hating her orders. Her own history with the Syndicate surfaces: she once believed the optimism pitch too. Emotional beat: loyalty to an institution curdling into doubt."
+    },
+    {
+      "n": 10,
+      "title": "The High Camp Ledger",
+      "summary": "August's POV. At the upper survey station they find the original field ledger confirming the forged permits—but also the missing surveyor, Renn Okafor, alive, injured, and paranoid, convinced they're Syndicate. Emotional beat: proof gained, but now a third fragile life to carry."
+    },
+    {
+      "n": 11,
+      "title": "Renn's Bargain",
+      "summary": "Renn's POV. He explains the full conspiracy: the Syndicate financed the concession itself; forgiving August's debt was meant to buy his silence. Renn wants to destroy the ledger rather than risk it being seized. Emotional beat: the argument between destroying truth and delivering it."
+    },
+    {
+      "n": 12,
+      "title": "Whiteout",
+      "summary": "August's POV. An early blizzard traps them in a crevasse shelter for two days. Starvation forces honesty: August confesses the debt deal; Lior admits abandoning the team; Renn admits signing one false page himself. Emotional beat: confession as survival—loyalty rebuilt on flaws, not virtues."
+    },
+    {
+      "n": 13,
+      "title": "The Collector's Offer",
+      "summary": "Delia's POV. She catches up during the storm's tail and corners them alone. Off the record, she warns them: the Syndicate's order changed from recovery to elimination. She gives them a day's head start—an act she can't take back. Emotional beat: justice chosen outside the law that employs her."
+    },
+    {
+      "n": 14,
+      "title": "The Crossing at Saddleback",
+      "summary": "August's POV. The cruelest stretch: a high saddle pass closing with snow, Renn unable to move fast. They rig a litter, burn precious hours, and Delia's head start evaporates. Emotional beat: sacrifice measured in minutes, each mile bought with pain."
+    },
+    {
+      "n": 15,
+      "title": "Betrayal at the Treeline",
+      "summary": "Lior's POV. A Syndicate scout posing as a ranger offers medical evacuation for Renn if the ledger is handed over. Renn nearly takes it; Lior exposes the trap by recognizing the man from the night raid. A violent scramble; they escape downhill but lose most supplies. Emotional beat: betrayal confirming that some loyalties can't be negotiated."
+    },
+    {
+      "n": 16,
+      "title": "River of No Permits",
+      "summary": "August's POV. They reach the lower river as the thaw-swollen water blocks the trail—ironic, since water rights started everything. August, the storm reader, finds a window between flood pulses and runs the rapids on a raft of survey poles. Emotional beat: mastery reclaimed; the man who fled stillness now steering straight through danger."
+    },
+    {
+      "n": 17,
+      "title": "Delia's Choice",
+      "summary": "Delia's POV. Ordered to intercept at the landing, she instead arrests her own partner-collector for the elimination order and radios the Syndicate's board that she has 'the documents and witnesses in protective custody.' Emotional beat: a career burned down to its honest core."
+    },
+    {
+      "n": 18,
+      "title": "The Hearing at Harrow Bend",
+      "summary": "Multiple POVs braided. The regional land commission convenes as the permit expiry nears; the Syndicate's lawyers arrive in force. August, Lior, and Renn present the ledger, testimony, and Delia's evidence. Emotional beat: the quiet terror of speaking truth into a room built for lies."
+    },
+    {
+      "n": 19,
+      "title": "What the Storm Washed Out",
+      "summary": "August's POV. Climax. The Syndicate produces a forged confession implicating Lior; the room wavers until August does the unthinkable—he surrenders the debt forgiveness, admitting he was hired to bury the evidence, dismantling his own credibility to validate theirs. The commission voids the permits. Emotional beat: truth costing everything it was supposed to protect, and being worth it."
+    },
+    {
+      "n": 20,
+      "title": "Snowfall on Settled Ground",
+      "summary": "Lior's POV. Aftermath: the concession revoked, an investigation opened, Renn recovering, Delia facing her own reckoning with quiet dignity. Lior asks August what he'll do now that the debt is void anyway. Emotional beat: the strange lightness of a future with no terms attached."
+    },
+    {
+      "n": 21,
+      "title": "The Current Turns",
+      "summary": "August's POV. He drives away from Harrow Bend out of habit, then stops at the county line, engine idling in falling snow. He turns around—not because anywhere is safe, but because for the first time, somewhere is his. Emotional beat: belonging chosen, not stumbled into."
+    },
+    {
+      "n": 22,
+      "title": "Lior and the Current",
+      "summary": "Lior's POV, epilogue. Spring: Lior begins remapping the watershed honestly, and August signs on as guide—the man who measured life in miles now measuring it in seasons, alongside someone who draws the world as it should be. Final beat: the current carries forward, and this time they go with it, not against it."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08952",
+  "title": "Cyrus and the Cover",
+  "author": "Orsen Oyelaran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Sebastian Nystrom, a financial-crimes investigator drowning in clean money, has spent twenty years following rules that keep getting rewritten. But when every record of a flight vanishes while it's still in the air, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8952
+  }
+}

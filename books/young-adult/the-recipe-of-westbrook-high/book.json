@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09754",
+  "title": "The Recipe of Westbrook High",
+  "author": "Rosalind Ravensworth",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Wren Underhill, the only out kid in a town of nine hundred, stays under the radar: head down, grades up, locker shut. But when a group chat starts predicting things that haven't happened yet, he discovers that staying invisible was never really an option. To get through this, he must decide who to be when the labels come off before the last game of the season.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9754
+  }
+}

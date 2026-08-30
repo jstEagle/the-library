@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04570",
+  "title": "The Weather of the old quarter",
+  "author": "Lena Delacroix",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Jonah Underhill, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. To get through this, they must forgive the stranger in the old photographs before the demolition date arrives.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4570
+  }
+}

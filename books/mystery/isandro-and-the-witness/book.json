@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05647",
+  "title": "Isandro and the Witness",
+  "author": "D. M. Villalobos",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Rosalind Vasquez, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. Then the town's beloved founder is exhumed and the coffin is empty — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5647
+  }
+}

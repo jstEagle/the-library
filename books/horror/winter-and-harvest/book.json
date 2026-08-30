@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03536",
+  "title": "Winter and Harvest",
+  "author": "Quentin Ishikawa",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Mirabel Blackwood, a radio host taking calls from listeners who died last week, doesn't believe, has never believed, will not begin believing now. Then the sleep recordings capture a second voice answering questions — and she is pulled straight into the middle of it. To get through this, she must return what was taken in 1974 before the well refills.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3536
+  }
+}

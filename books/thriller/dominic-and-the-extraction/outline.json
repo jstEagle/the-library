@@ -1,0 +1,119 @@
+{
+  "title": "Dominic and the Extraction",
+  "slug": "thriller/dominic-and-the-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Hartwell, a veteran air crash investigator haunted by the deaths of her family in row twelve, discovers that the 'incident' was no accident: a private intelligence firm called Vantage used the flight as a live test of an AI-driven targeting system, and her dead daughter's voiceprint is the key that unlocks their hidden training servers in Lisbon. When a whistleblower inside Vantage—Dominic Reyes, the engineer who trained the model—contacts her through that same voiceprint, the two form an uneasy alliance to expose and burn the network before Vantage's remaining assets are deployed on a second, larger 'test.' Hunted across Lisbon, Zurich, and London, Ada and Dominic must choose between destroying the evidence that could convict Vantage and preserving the last digital echo of her daughter's voice. In the end, Ada sacrifices the echo, the network falls, and Dominic—arrested but alive—gives testimony that finally lets Ada sleep through the night.",
+  "about_author": "Lena Crane is a former aviation safety analyst turned novelist who writes thrillers about the human cost hidden inside technical systems. She lives on the Atlantic coast, where she still refuses to fly red-eyes.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Ada's POV. Two years after the crash, Ada works cold cases at the Transportation Safety Board, sleeping in her office more than her apartment. The anniversary of the incident brings a panic attack in the evidence archive, where she notices an anomaly in the flight data recorder she was never cleared to see. Emotional beat: grief sharpening into suspicion."
+    },
+    {
+      "n": 2,
+      "title": "The Voiceprint",
+      "summary": "Ada's POV. Running an unauthorized spectral analysis, Ada finds a synthetic voice layered into the cockpit audio—a voice built from samples of her daughter Mia. Following the signal's routing, she pings a server in Lisbon, and something on the other end answers back. Emotional beat: horror curdling into resolve."
+    },
+    {
+      "n": 3,
+      "title": "The Man Who Trained It",
+      "summary": "Dominic's POV. In Lisbon, engineer Dominic Reyes watches the unauthorized ping hit Vantage's sealed training cluster and realizes his dead colleague's failsafe has activated. He knows the flight was a test. Knowing his employer will kill to keep it quiet, he decides to reach Ada first. Emotional beat: guilt becoming a plan."
+    },
+    {
+      "n": 4,
+      "title": "Contact",
+      "summary": "Ada's POV. A voice that sounds like Mia calls Ada's burner and tells her to get out of her apartment—minutes before Vantage cleaners arrive. The voice gives her a flight to Lisbon and a name: Dominic Reyes. Ada boards, leaving her old life behind. Emotional beat: terror and the first spark of trust."
+    },
+    {
+      "n": 5,
+      "title": "Lisbon, Rain",
+      "summary": "Alternating POVs. Ada and Dominic meet in a rain-soaked tram station, each half-convinced the other is bait. Dominic shows her a fragment of the training data: the flight was targeted by an algorithm Vantage sold as 'predictive threat assessment.' Emotional beat: two strangers choosing each other over safety."
+    },
+    {
+      "n": 6,
+      "title": "What the Model Learned",
+      "summary": "Dominic's POV. Dominic explains the architecture: Vantage's AI learned to kill by training on real events, and the crash was its graduation exercise. To prove it, they need the immutable training logs on the Lisbon cluster—logs that also contain Mia's voiceprint, the last recording of her. Emotional beat: the moral fault line is drawn."
+    },
+    {
+      "n": 7,
+      "title": "The Cleaner",
+      "summary": "Ada's POV. Vantage's lead operative, Ilse Varga, closes in; a safehouse contact is murdered, and Ada realizes the voiceprint that protects her also marks her. She and Dominic split the mission: she'll pull the logs, he'll plant the burn. Emotional beat: found family forming under fire."
+    },
+    {
+      "n": 8,
+      "title": "Zurich Ledger",
+      "summary": "Dominic's POV. In Zurich, Dominic confronts his former mentor, Vantage co-founder Anselm Roth, hoping for a confession and getting a threat instead: Roth reveals the second test is scheduled in nine days, over a crowded corridor in Southeast Asia. Emotional beat: duty versus conscience, and conscience losing ground to a deadline."
+    },
+    {
+      "n": 9,
+      "title": "The Echo",
+      "summary": "Ada's POV. Alone in a Lisbon safehouse, Ada accesses the voiceprint archive and hears Mia—laughing, mid-sentence, forever nine years old. She can copy it. She doesn't. Emotional beat: the book's central temptation, held and set down."
+    },
+    {
+      "n": 10,
+      "title": "Burn Protocol",
+      "summary": "Dominic's POV. Dominic builds the logic bomb that will corrupt every model checkpoint Vantage owns, but it requires physical access to the Lisbon cluster during a maintenance window—forty minutes, four days from now, the same night Varga expects him to deliver Ada. Emotional beat: the trap he must walk into willingly."
+    },
+    {
+      "n": 11,
+      "title": "Ilse",
+      "summary": "Ilse's POV. A rare chapter inside the antagonist's head: Varga, a true believer who sees the tests as triage that saves more lives than they take, prepares the second operation and studies Ada's file. She understands grief; she simply thinks it's a currency like any other. Emotional beat: chilling empathy."
+    },
+    {
+      "n": 12,
+      "title": "Nine Days",
+      "summary": "Alternating POVs. Ada and Dominic go dark in a fishing village on the Costa da Caparica, planning the infiltration and, without meaning to, building a life—cooking, arguing, sleeping in shifts. For one evening, the mission recedes. Emotional beat: love arriving exactly when it's most dangerous."
+    },
+    {
+      "n": 13,
+      "title": "The Turn",
+      "summary": "Ada's POV. Ada discovers Dominic's original employment contract: he designed the voiceprint harvesting that pulled Mia's voice from a family video uploaded years ago. Her trust shatters. She walks out with the access keys and doesn't look back. Emotional beat: betrayal as the true midpoint collapse."
+    },
+    {
+      "n": 14,
+      "title": "Alone Against the Clock",
+      "summary": "Dominic's POV. Stripped of Ada and the keys, Dominic improvises with a compromised backdoor while Roth accelerates the second test to five days. Varga offers Dominic reinstatement—full absolution, one small delivery: Ada's location. Emotional beat: the price of survival made explicit."
+    },
+    {
+      "n": 15,
+      "title": "The Delivery",
+      "summary": "Ilse's POV. Varga takes the meeting, but Dominic's 'delivery' is a poisoned data packet that begins quietly corrupting Vantage's operational models. Varga knows instantly, and now the hunt is personal. Emotional beat: defiance as self-destruction, chosen anyway."
+    },
+    {
+      "n": 16,
+      "title": "Reckoning",
+      "summary": "Ada's POV. Ada, hiding in London with an investigative journalist, listens to the raw training logs and hears Dominic's voice in the early sessions—objecting, documenting, sabotaging from the inside for two years. Her rage finds a floor. She calls him. Emotional beat: forgiveness as an investigative conclusion, not a feeling."
+    },
+    {
+      "n": 17,
+      "title": "The Window",
+      "summary": "Alternating POVs. Reunited, they hit the Lisbon cluster during the maintenance window. Ada fights through the server floor while Dominic arms the burn; Varga's team arrives early. Ada must choose: complete the burn or pull the full evidentiary logs first. She does both, barely, as alarms flood the building. Emotional beat: the climax's opening gambit—everything risked at once."
+    },
+    {
+      "n": 18,
+      "title": "Firewall",
+      "summary": "Dominic's POV. Cornered on the roof, Dominic holds the door against Varga's team while the logic bomb propagates. He offers Varga the one thing she can't refute: her own model's projected body count for the second test. She hesitates—and that hesitation costs Vantage the network. Emotional beat: words as weapons; conviction cracking."
+    },
+    {
+      "n": 19,
+      "title": "The Second Test",
+      "summary": "Ada's POV. The burn succeeds but the second operation is already airborne, now flying blind without Vantage's targeting. Ada uses her investigator's credentials and the salvaged logs to force an emergency ground stop from the outside—row twelve's ghost saving a sky full of strangers. Emotional beat: grief transmuted into protection."
+    },
+    {
+      "n": 20,
+      "title": "Arrest",
+      "summary": "Dominic's POV. Portuguese and Europol agents, tipped by the journalist's package, take Roth into custody at a Zurich gala; Varga vanishes with a single drive. Dominic surrenders himself voluntarily, trading his freedom for the testimony that makes the case unbreakable. Emotional beat: duty fulfilled at personal cost."
+    },
+    {
+      "n": 21,
+      "title": "What Remains",
+      "summary": "Ada's POV. Months later, Ada testifies at the hearing and declines the offer to have Mia's voiceprint restored from a forensic backup—some echoes should stay buried. Varga is still out there, and Ada knows it, and she files that knowledge away for another day. Emotional beat: mourning that no longer consumes."
+    },
+    {
+      "n": 22,
+      "title": "Full Night",
+      "summary": "Ada and Dominic, alternating. Dominic, released pending trial, arrives unannounced at Ada's door with coffee and no agenda. They sit on the porch as the sun comes up. That night, Ada sleeps through until morning—for the first time since row twelve. Emotional beat: survival's price paid, and found family holding the line."
+    }
+  ]
+}

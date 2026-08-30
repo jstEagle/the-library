@@ -1,0 +1,119 @@
+{
+  "title": "Asset and Cipher",
+  "slug": "thriller/asset-and-cipher",
+  "model": "stealth/ox-alpha",
+  "premise": "Freya Villalobos, a former data-forensics analyst turned whistle-blower, has spent seven years hiding under four identities since she exposed a covert surveillance program that got her mentor killed. When an encrypted server in Lisbon unlocks to her voiceprint—a voiceprint she never recorded—she learns her dead mentor left her an 'inheritance': proof that the program never died, it was privatized and sold to three governments. Pursued by an assassin who seems to know her old names better than she does, Freya races across Europe to deliver the archive before a treaty summit legalizes the program permanently. In the end, she discovers the assassin is her mentor's daughter, raised by the very agency they meant to destroy, and Freya must choose between destroying the evidence to save the girl or publishing it and losing the last piece of her old life.",
+  "about_author": "Marguerite Quintana is a former archivist who spent a decade cataloguing declassified government files before turning to fiction. She writes from a farmhouse in northern Portugal, where she claims the best plot twists arrive during power outages.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Four Names, No Sleep",
+      "summary": "Freya's POV. Living as 'Ingrid Halvorsen' in Bergen, Freya describes her ritualized insomnia and the rules that keep her invisible: no photos, no voice calls, no patterns. A routine grocery run goes wrong when a stranger hums a song only her mother sang. Emotional beat: dread reawakening—the past tapping on glass."
+    },
+    {
+      "n": 2,
+      "title": "The Voice That Wasn't Hers",
+      "summary": "Freya's POV. An anonymous email contains a sound file: her own voice speaking a passphrase she has never said aloud. Following embedded coordinates, she finds a dead-drop phone that remotely unlocks a server rack in Lisbon. Emotional beat: vertigo—someone can manufacture her identity, which means her invisibility was always an illusion."
+    },
+    {
+      "n": 3,
+      "title": "Lisbon, Off the Books",
+      "summary": "Freya's POV. She flies to Lisbon using cash and a fifth name, casing the server facility housed inside a defunct oceanographic institute. She finds the rack but needs biometric confirmation—her actual voice, spoken into a machine that will log it forever. Emotional beat: the first willing risk; choosing curiosity over safety."
+    },
+    {
+      "n": 4,
+      "title": "The Inheritance Protocol",
+      "summary": "Freya's POV. The server opens to reveal 'The Inheritance': her mentor Tomás Rebello's posthumous archive proving the banned surveillance program was privatized and licensed to three governments. A countdown timer begins—forty days until the Lisbon Treaty ratifies it all. Emotional beat: grief fused with purpose."
+    },
+    {
+      "n": 5,
+      "title": "The Man Who Knew Her Names",
+      "summary": "Assassin's POV (unnamed). A meticulous professional reviews four dossiers—Freya's four lives—and notes his client wants the archive destroyed and the courier 'retired quietly.' He prefers clean work but senses this job is personal for someone above him. Emotional beat: cold competence shadowed by unease."
+    },
+    {
+      "n": 6,
+      "title": "Safehouse Arithmetic",
+      "summary": "Freya's POV. Hiding in a hostel attic, Freya copies fragments of the archive to analog media—microfilm, printed cipher keys—knowing digital copies can be traced. She decodes Tomás's first cipher layer and finds a name: 'M.R., Lisbon.' Emotional beat: fragile hope that she isn't alone."
+    },
+    {
+      "n": 7,
+      "title": "Contact",
+      "summary": "Freya's POV. 'M.R.' turns out to be Marta Rebello, Tomás's estranged daughter, now a compliance lawyer—unwittingly employed by one of the program's shell companies. Their first meeting is hostile; Marta believes her father abandoned her, not that he died a whistle-blower. Emotional beat: two kinds of orphanhood colliding."
+    },
+    {
+      "n": 8,
+      "title": "The Tailor of Tallinn",
+      "summary": "Assassin's POV. He traces the server access to Lisbon and interrogates a fixer who sold Freya her travel documents. The fixer's ledger reveals a fifth alias. The assassin begins to admire the quarry's discipline—and suspects his client is lying about what the archive contains. Emotional beat: professional respect curdling into doubt."
+    },
+    {
+      "n": 9,
+      "title": "What Tomás Buried",
+      "summary": "Marta's POV. Reluctantly decoding her father's second cipher layer with Freya, Marta finds home videos hidden in file headers: birthdays, a piano recital, an apology recorded the night he died. Marta's loyalty to her employer cracks against the truth of her father's sacrifice. Emotional beat: inherited grief becoming inherited duty."
+    },
+    {
+      "n": 10,
+      "title": "Three Governments, One Signature",
+      "summary": "Freya's POV. The decoded files map the program's licensing chain: defense ministries in three nations, laundered through a summit-bound treaty annex. Publishing means exposing herself to every intelligence service at once. Freya drafts a contingency letter to Marta—in case she doesn't survive. Emotional beat: the weight of testimony."
+    },
+    {
+      "n": 11,
+      "title": "Night Train to Berlin",
+      "summary": "Dual POV. Freya and Marta move the archive by rail while the assassin boards the same train, closing in compartment by compartment. A near-miss in the dining car forces them to abandon their luggage—and half their copies. Emotional beat: terror sharpening trust between the two women."
+    },
+    {
+      "n": 12,
+      "title": "The Client's Face",
+      "summary": "Assassin's POV. Summoned to a secure video call, the assassin finally sees his client: a deputy director whose agency trained him decades ago. He realizes the 'retirement' clause in his contract applies to him too—he knows too much. Emotional beat: the hunter discovering he is also prey."
+    },
+    {
+      "n": 13,
+      "title": "Berlin Dead Drop",
+      "summary": "Freya's POV. A journalist contact agrees to verify the archive but demands source attribution, which Freya cannot give without ending her anonymity forever. The meeting is compromised; they escape through a U-Bahn tunnel, but the journalist is detained. Emotional beat: guilt—the cost of dragging others into her war."
+    },
+    {
+      "n": 14,
+      "title": "Cipher of the Fourth Name",
+      "summary": "Marta's POV. The final cipher layer requires something Freya doesn't have: a memory only Tomás shared with someone he trusted completely. Marta realizes it's keyed to a childhood game her father played with her—not Freya. For the first time, Marta is essential. Emotional beat: inheritance passing to the daughter."
+    },
+    {
+      "n": 15,
+      "title": "The Assassin's Mercy",
+      "summary": "Assassin's POV. Cornering Freya alone in a safehouse, he has a clear shot—but asks instead why she did it. Her answer about sleepless nights mirrors his own. He lets her go and burns his contract, knowing his client will send someone worse. Emotional beat: a killer choosing conscience over craft."
+    },
+    {
+      "n": 16,
+      "title": "Summit Eve",
+      "summary": "Freya's POV. With thirty-six hours to the treaty vote, the decrypted archive reveals its last secret: live-feed access codes still active in all three countries. Evidence alone won't stop ratification—they need a public demonstration. Freya plans the impossible: broadcasting truth into the summit itself. Emotional beat: fear transmuted into resolve."
+    },
+    {
+      "n": 17,
+      "title": "The Replacement",
+      "summary": "Antagonist's POV (deputy director). The client dispatches a younger, crueler operative and orders total containment of the summit. We see the machinery of institutional loyalty—people who know the truth and sign off anyway. Emotional beat: banality of complicity."
+    },
+    {
+      "n": 18,
+      "title": "Forty Floors of Glass",
+      "summary": "Freya and Marta's POV, alternating. Infiltrating the summit tower through service infrastructure, they reach the broadcast control room as the replacement assassin closes in. Marta uses her employee credentials—one last act of loyalty to a corrupt employer turned weapon against it. Emotional beat: breathless convergence."
+    },
+    {
+      "n": 19,
+      "title": "Broadcast",
+      "summary": "Freya's POV. On the summit floor's screens, the archive plays: intercepted feeds, Tomás's final recording, the licensing signatures. Delegates scatter; cameras roll; the treaty collapses in real time. The replacement assassin enters—and the original assassin steps between him and Freya. Emotional beat: catharsis at maximum volume."
+    },
+    {
+      "n": 20,
+      "title": "What It Costs",
+      "summary": "Marta's POV. In the aftermath, the original assassin is wounded shielding them; the deputy director is arrested, but the system that produced him remains intact. Marta holds her father's archive and understands she inherited not just his secrets but his sentence: you can't unknow what you know. Emotional beat: victory laced with mourning."
+    },
+    {
+      "n": 21,
+      "title": "A Fifth Name",
+      "summary": "Freya's POV. Offered protection, asylum, even reinstatement, Freya declines all of it. She testifies openly under her real name—her first, buried so long it feels like fiction—then walks out into unsecured daylight. Sleep, for the first time in seven years, comes easily. Emotional beat: reclaiming the self she traded away."
+    },
+    {
+      "n": 22,
+      "title": "Asset and Cipher",
+      "summary": "Epilogue, split POV. One year later: Marta runs a foundation archiving whistle-blower testimony; the assassin, recovered and anonymous, sends an unsigned postcard to Lisbon. Freya, teaching data ethics under her own name, receives a sound file—her own voice, saying 'thank you.' Some inheritances keep giving. Emotional beat: quiet, earned peace with an open door."
+    }
+  ]
+}

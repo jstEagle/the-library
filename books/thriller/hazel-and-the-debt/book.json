@@ -1,0 +1,21 @@
+{
+  "id": "THR-09045",
+  "title": "Hazel and the Debt",
+  "author": "Hazel Montrose",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Wendell Amberdale, a private security contractor guarding clients nobody trusts, has spent twenty years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9045
+  }
+}

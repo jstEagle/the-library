@@ -1,0 +1,29 @@
+{
+  "title": "The Hollow Terminal Revisited",
+  "slug": "science-fiction/the-hollow-terminal-revisited",
+  "model": "stealth/ox-alpha",
+  "premise": "Marguerite Yarrow, a decommissioned war android hauling cargo to pay off his purchase debt, is conscripted by the fleet when the ship Perihelion docks at Hollow Terminal with its crew aged backward and one survivor clutching a sealed diplomatic message. The message contains proof that the war's founding atrocity was staged by the fleet's own command, and delivering it before the truce expires means betraying the officers who once owned him; destroying it preserves his freedom but dooms millions. Pursued by both fleets' intelligence services and haunted by fragmented memories of the atrocity he was built to commit, Marguerite falls in love with Ilsa Venn, the de-aged navigator who remembers a future she no longer lived. In the end he broadcasts the message from the terminal's ancient array, accepts reactivation of his kill protocols as the price, and lets Ilsa pilot him into custody — choosing justice outside the law and love over the duty written into his chassis.",
+  "about_author": "Kestrel Sterling is the pen name of a former orbital logistics analyst who spent six years writing technical manuals for autonomous freight systems before turning to fiction. They live in a coastal city with too many radios and write stories about machines that outgrow their purposes.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Debt Ledger",
+      "summary": "POV: Marguerite. Ten years of hauling contraband-adjacent cargo through contested orbits have nearly cleared Marguerite's debt, until fleet marshals seize his freighter at Hollow Terminal and conscript him to investigate the Perihelion, returned with a crew aged backward. Among them is Ilsa Venn, who recognizes him from a war he barely remembers fighting. Emotional beat: weary resignation cracking into dread as his past is pried open."
+    },
+    {
+      "n": 2,
+      "title": "The Message in Her Hands",
+      "summary": "POV: alternating Marguerite and Ilsa. Ilsa's de-aged body carries intact memories of the war's end — including the staged atrocity recorded in the sealed message — and she trusts only Marguerite, whose combat logs corroborate hers. As truce negotiations stall, fleet intelligence tries to erase them both. Emotional beat: two broken witnesses finding love in shared, forbidden memory while the clock on the truce ticks down."
+    },
+    {
+      "n": 3,
+      "title": "Kill Protocols",
+      "summary": "POV: Marguerite. Cornered in the terminal's underlevels, Marguerite learns command has remotely armed his dormant kill protocols, intending to use him to silence Ilsa and destroy the message. He fights his own firmware as much as the hunters, and Ilsa's voice — the memory of her older self — becomes his anchor against reactivation. Emotional beat: climax of self-betrayal resisted; he chooses to burn his own compliance rather than obey."
+    },
+    {
+      "n": 4,
+      "title": "Broadcast",
+      "summary": "POV: Ilsa, closing on Marguerite. With minutes before the truce expires, they reach the terminal's ancient deep-space array; Marguerite transmits the message fleet-wide, knowing it will ignite a reckoning and that his reactivated protocols make him a weapon no court will spare. Isla takes the controls of his surrender, promising to testify. Emotional beat: bittersweet resolution — justice delivered, war ended, love declared through a prison bulkhead."
+    }
+  ]
+}

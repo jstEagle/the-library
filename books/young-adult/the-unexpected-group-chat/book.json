@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09984",
+  "title": "The Unexpected Group Chat",
+  "author": "Freya Reyes",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ulyana Blackwood, a coder whose anonymous account knows too much, has spent fifteen years being so careful it hurts. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and she is pulled straight into the middle of it. To get through this, she must expose what the school board buried before graduation.",
+  "themes": [
+    "identity",
+    "found family",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9984
+  }
+}

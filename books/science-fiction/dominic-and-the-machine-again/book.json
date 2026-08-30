@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08031",
+  "title": "Dominic and the Machine Again",
+  "author": "Cyrus Joubert",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Hazel Ishikawa, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8031
+  }
+}

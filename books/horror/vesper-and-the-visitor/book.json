@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03929",
+  "title": "Vesper and the Visitor",
+  "author": "Cyrus Voss",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Isandro Vasquez, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. Then the excavation crew unearths a door, sealed from the inside — and she is pulled straight into the middle of it. Now she must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3929
+  }
+}

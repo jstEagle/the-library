@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03528",
+  "title": "The House of the Bell House",
+  "author": "Tamsin Quintana",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ada Nakamura, the new teacher at a school with a missing-class problem, doesn't believe, has never believed, will not begin believing now. But when the excavation crew unearths a door, sealed from the inside, he discovers that staying invisible was never really an option. Now he must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3528
+  }
+}

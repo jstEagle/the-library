@@ -1,0 +1,21 @@
+{
+  "id": "THR-09368",
+  "title": "Yara and the Cipher Again",
+  "author": "I. M. Joubert",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ansel Joubert, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. Now she must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9368
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07168",
+  "title": "Vector and Terminal",
+  "author": "Orsen Okonkwo",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Vesper Okonkwo, a pilot bonded to an AI that lies, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. To get through this, they must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "identity",
+    "belonging",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7168
+  }
+}

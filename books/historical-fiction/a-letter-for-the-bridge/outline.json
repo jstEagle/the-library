@@ -1,0 +1,29 @@
+{
+  "title": "A Letter for the Bridge",
+  "slug": "historical-fiction/a-letter-for-the-bridge",
+  "model": "stealth/ox-alpha",
+  "premise": "In 1911 England, Silas Amberdale, a former battlefield nurse from the Boer War, has spent twelve years quietly recording in a hidden ledger the soldiers' names and deaths that decorated officers erased to protect reputations and pensions. When a census taker notices discrepancies in Silas's own history, an investigation begins that threatens not only Silas but the widow of a colonel whose honor depends on the lies. Silas must smuggle the ledger past three checkpoints in a single night to deliver it to a parliamentary reformer before the records office burns it as 'surplus documentation.' He succeeds, but at the cost of his anonymity: the final chapter finds him testifying under his own name at last, discovering that belonging begins where invisibility ends.",
+  "about_author": "Zephyrine Dravenmoor is the pen name of a former archivist who spent a decade cataloguing military correspondence in provincial record offices. They write historical fiction about the people history filed under 'miscellaneous.'",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Question Too Many",
+      "summary": "Silas's POV. During the 1911 census, a persistent enumerator notices that Silas's stated age doesn't match his Boer War discharge papers, and lingers over questions about his 'occupation.' That night Silas opens the ledger he's kept for twelve years—the names of men whose deaths officers omitted. Emotional beat: the fragile comfort of secrecy beginning to crack."
+    },
+    {
+      "n": 2,
+      "title": "What the Widow Knows",
+      "summary": "Alternating POV with Colonel's widow Edith Marchmont, who has built her livelihood on her dead husband's decorated honor. She learns the records office has flagged Silas and realizes the ledger could ruin her—or vindicate the men. Silas visits her under a pretense; she recognizes the ledger's existence but not its contents. Emotional beat: two people bound by the same lie, neither yet willing to name it."
+    },
+    {
+      "n": 3,
+      "title": "Three Checkpoints",
+      "summary": "Silas's POV. The records office orders the 'surplus' documents destroyed; Silas learns the ledger's duplicates are among them. He sews pages into his coat and travels through the night—railway inspectors, a suspicious garrison checkpoint, and finally Edith herself standing at the last gate. The climax: she reads one name, her husband's batman, and steps aside. Emotional beat: loyalty and truth colliding, and Edith choosing truth."
+    },
+    {
+      "n": 4,
+      "title": "A Name Spoken Aloud",
+      "summary": "Edith's POV closing into Silas's. The reformer receives the ledger; testimony follows. Silas, called to speak, hesitates at the threshold of the hearing room—then gives his full name and rank. Edith publicly corroborates the batman's death, surrendering her pension. The final scene: the two of them at the bridge the ledger was named for, no longer hiding. Emotional beat: grief transmuted into belonging."
+    }
+  ]
+}

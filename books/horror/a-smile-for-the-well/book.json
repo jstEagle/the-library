@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03842",
+  "title": "A Smile for the Well",
+  "author": "Mirabel Vane",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Dominic Winterbourne, a property surveyor appraising a house that appraises back, has spent ten years telling themselves the noises have explanations. But when the childhood imaginary friend is waiting on the porch, unchanged, she discovers that staying invisible was never really an option. To get through this, she must finish the ritual the founders started before the frost writes its final pattern.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3842
+  }
+}

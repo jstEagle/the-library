@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09640",
+  "title": "Orsen and the Mixtape",
+  "author": "Vesper Montrose",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Lena Brightwater, the eldest sibling raising the younger ones while mom works nights, stays under the radar: head down, grades up, locker shut. Then a best friend goes missing, leaving only a set of keys behind — and he is pulled straight into the middle of it. To get through this, he must tell the truth even if it costs the friendship before the final audition.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9640
+  }
+}

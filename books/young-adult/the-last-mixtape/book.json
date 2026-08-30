@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09545",
+  "title": "The Last Mixtape",
+  "author": "Rafael Underhill",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Beatrix Eastwick, a baker's kid who bakes feelings into bread, has spent ten years being so careful it hurts. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. Now he must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9545
+  }
+}

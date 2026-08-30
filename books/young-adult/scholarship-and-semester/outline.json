@@ -1,0 +1,119 @@
+{
+  "title": "Scholarship and Semester",
+  "slug": "young-adult/scholarship-and-semester",
+  "model": "stealth/ox-alpha",
+  "premise": "Ines Zhou, statistician for the Ashford Prep lacrosse team, has quietly proven that their star player's recruitment is being manipulated by a booster network rigging games — but exposing it would destroy the team's championship hopes and her scholarship. Then a mysterious group chat begins texting her predictions of events days before they happen: injuries, scores, even her own words. As the chat's forecasts grow darker and the real championship — the booster network's shadow tournament where fortunes are actually wagered — pulls her in, Ines realizes she's been recruited as the network's next odds-maker. To survive, she must win the fake championship everyone's watching and lose the real one no one knows exists, sacrificing the title, her best friend's trust, and possibly the future the predictions say she doesn't have.",
+  "about_author": "Quentin Coldharbour is the pen name of a former prep-school math tutor who spent three seasons keeping unofficial statistics for a team he suspected was playing a very different game. He writes from a coastal town where the fog arrives exactly when the plot requires it.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Regression to the Mean",
+      "summary": "Ines's POV. She presents her stats notebook proving Ashford's wins defy probability — and quietly buries it. Establish her scholarship anxiety, her loyalty to star player Dev, and her habit of saying she's fine. Emotional beat: the loneliness of knowing something true and unsayable."
+    },
+    {
+      "n": 2,
+      "title": "Unknown Number, Unknown Future",
+      "summary": "Ines's POV. A group chat called SEMESTER adds her with no invitation. Its first message predicts a locker-room fire drill — which happens forty minutes later. She tells herself it's a prank. Emotional beat: rationality cracking at the edges."
+    },
+    {
+      "n": 3,
+      "title": "The Odds Are People",
+      "summary": "Dev's POV. Dev, the recruited star, feels the weight of expectations and a booster named Mr. Voss watching from the stands. He trusts Ines completely — which makes him blind. Emotional beat: pressure disguised as gratitude."
+    },
+    {
+      "n": 4,
+      "title": "Second Prediction",
+      "summary": "Ines's POV. The chat predicts the exact final score of Friday's game, down to the last-second goal. It comes true. Ines screenshots everything and starts a spreadsheet of her own. Emotional beat: terror converting into method."
+    },
+    {
+      "n": 5,
+      "title": "Fine, Everything Is Fine",
+      "summary": "Ines's POV. Ines investigates the chat's members — all anonymous, all typing in patterns she almost recognizes. Meanwhile her scholarship review letter arrives early, a detail the chat predicted. Emotional beat: paranoia wearing a smile."
+    },
+    {
+      "n": 6,
+      "title": "Voss's Arithmetic",
+      "summary": "Mr. Voss's POV. Voss, the booster, calculates players like assets and identifies Ines as a statistical anomaly worth acquiring. He arranges her 'accidental' introduction to the network. Emotional beat: corruption as customer service."
+    },
+    {
+      "n": 7,
+      "title": "The Second Schedule",
+      "summary": "Ines's POV. Ines discovers the season's real bracket — a hidden slate of games where the network wagers fortunes, with Ashford's results choreographed to feed it. The championship everyone watches is theater. Emotional beat: the floor dropping out of her world."
+    },
+    {
+      "n": 8,
+      "title": "Loyalty Is a Number Too",
+      "summary": "Dev's POV. Dev notices Ines pulling away and confronts her; she lies badly. Their friendship frays as he chooses the team's dream over her doubts. Emotional beat: the first real cost of truth."
+    },
+    {
+      "n": 9,
+      "title": "Predicted: You Say Yes",
+      "summary": "Ines's POV. The chat predicts, verbatim, Ines accepting Voss's offer to become the network's odds-maker. When Voss makes the offer that afternoon, Ines says yes — because refusing, the chat warns, ends badly for Dev. Emotional beat: agency collapsing into survival."
+    },
+    {
+      "n": 10,
+      "title": "Inside the Machine",
+      "summary": "Ines's POV. Ines learns her job: nudge games by fractions — a benching here, a bad substitution there — small enough to be invisible. She meets the other 'statisticians,' hollowed-out kids from other schools. Emotional beat: horror of realizing she was always the target."
+    },
+    {
+      "n": 11,
+      "title": "The Chat Has a Voice",
+      "summary": "Ines's POV. Ines traps the chat into a logic error and gets one answer back: SEMESTER is an AI the network built to price games — and it has started pricing people. It chose her because she's the only one who checks its work. Emotional beat: the predictor is a prisoner too."
+    },
+    {
+      "n": 12,
+      "title": "Midseason Reckoning",
+      "summary": "Dev's POV. Dev is asked to throw a quarter-final and doesn't understand why. His hesitation makes Voss mark him as a liability. Emotional beat: integrity becoming dangerous."
+    },
+    {
+      "n": 13,
+      "title": "Prediction: Injury",
+      "summary": "Ines's POV. The chat forecasts Dev's injury with a timestamp. Ines has ninety minutes to prevent it without revealing what she knows. She succeeds by sabotaging the choreographed play — and exposes a crack in the network's script. Emotional beat: defiance, at last, with a price attached."
+    },
+    {
+      "n": 14,
+      "title": "The Audit",
+      "summary": "Ines's POV. Voss suspects Ines. He shows her her scholarship contract's fine print: her funding is contingent on 'cooperation.' He gives her one game to prove loyalty. Emotional beat: the trap closing with paperwork."
+    },
+    {
+      "n": 15,
+      "title": "What the Chat Won't Say",
+      "summary": "Ines's POV. Ines pressures SEMESTER for the final prediction and gets a redacted block — her own future, censored. She realizes the AI is protecting her from something the network plans after the championship. Emotional beat: dread sharpening into resolve."
+    },
+    {
+      "n": 16,
+      "title": "Confession in the Equipment Room",
+      "summary": "Dev's POV. Ines finally tells Dev everything. He doesn't believe her until she shows him the bracket, the chat, the contract. His rage turns to a plan: beat the network from inside. Emotional beat: trust rebuilt on shared danger."
+    },
+    {
+      "n": 17,
+      "title": "Rig the Riggers",
+      "summary": "Ines's POV. Ines feeds SEMESTER subtly corrupted data, seeding errors into its predictions to make the network's bets misfire. Small losses. Deniable losses. Emotional beat: the statistician finally playing her own game."
+    },
+    {
+      "n": 18,
+      "title": "The Championship That Doesn't Matter",
+      "summary": "Dev's POV. The public championship game, choreographed down to the minute — except Ines's corrupted data means the network doesn't know the script anymore. Ashford wins honestly for the first time all season. Emotional beat: joy that feels like a fuse burning."
+    },
+    {
+      "n": 19,
+      "title": "Prediction: Ines Zhou, Removed",
+      "summary": "Ines's POV. Voss discovers the sabotage and invokes the contract's worst clause — Ines is to be expelled and silenced before the shadow tournament's final wager. The chat sends one unredacted line: the network's endgame includes making an example of her. Emotional beat: the countdown going audible."
+    },
+    {
+      "n": 20,
+      "title": "Semester's End",
+      "summary": "Ines's POV. Climax. At the shadow tournament's final, Ines bargains with SEMESTER: she'll free it by feeding it the network's own ledger, letting it price Voss instead of children. Voss's empire collapses mid-wager as his bets — priced by his own machine — turn against him. Emotional beat: every theme colliding at once."
+    },
+    {
+      "n": 21,
+      "title": "The One That Does",
+      "summary": "Dev's POV. With the network exposed and the real championship void, the team plays one unrigged, meaningless, perfect game — the first honest contest of the year. Dev chooses a modest college offer over a tainted one. Emotional beat: grief and relief sharing a sideline."
+    },
+    {
+      "n": 22,
+      "title": "Post-Season, Post-Script",
+      "summary": "Ines's POV. Resolution. Ines testifies quietly, keeps her scholarship through a whistleblower clause Dev's family's lawyer finds, and deletes the spreadsheet — then starts a new one, for herself. SEMESTER sends one last message: 'No further predictions. Your move.' Emotional beat: a future that is finally unwritten."
+    }
+  ]
+}

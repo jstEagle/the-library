@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05665",
+  "title": "Orsen and the Alibi",
+  "author": "M. M. Quintana",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Jonah Montrose, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. To get through this, they must decode a ledger hidden in plain sight before the statute expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5665
+  }
+}

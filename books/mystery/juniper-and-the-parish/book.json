@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05743",
+  "title": "Juniper and the Parish",
+  "author": "W. M. Fairweather",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Rafael Nakamura, an estate lawyer reading a will that shouldn't exist, has spent fifteen years keeping the town's secrets filed and alphabetized. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. To get through this, they must untangle alibis woven thirty years ago before the statute expires.",
+  "themes": [
+    "memory",
+    "identity",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5743
+  }
+}

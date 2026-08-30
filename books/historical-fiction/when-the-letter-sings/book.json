@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02556",
+  "title": "When the Letter Sings",
+  "author": "Marguerite Vasquez",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Paloma Underhill, a pearl diver's child indentured to a trading company, has spent seven years learning which silences keep people safe. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and she is pulled straight into the middle of it. To get through this, she must keep a promise made in peacetime to someone now declared enemy before the century turns.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2556
+  }
+}

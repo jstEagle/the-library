@@ -1,0 +1,21 @@
+{
+  "id": "THR-09043",
+  "title": "Deadline and Ghost",
+  "author": "Edmund Vasquez",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Mirabel Whitlock, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9043
+  }
+}

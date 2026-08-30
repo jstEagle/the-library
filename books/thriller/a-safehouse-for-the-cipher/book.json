@@ -1,0 +1,21 @@
+{
+  "id": "THR-08701",
+  "title": "A Safehouse for the Cipher",
+  "author": "Cyrus Brightwater",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Orsen Nakamura, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8701
+  }
+}

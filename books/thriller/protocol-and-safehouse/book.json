@@ -1,0 +1,21 @@
+{
+  "id": "THR-08773",
+  "title": "Protocol and Safehouse",
+  "author": "Edmund Lockridge",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ada Zhou, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. But when a voiceprint unlocks a server on another continent, she discovers that staying invisible was never really an option. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8773
+  }
+}

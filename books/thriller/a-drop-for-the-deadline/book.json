@@ -1,0 +1,21 @@
+{
+  "id": "THR-08549",
+  "title": "A Drop for the Deadline",
+  "author": "Kestrel Voss",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Elodie Villalobos, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8549
+  }
+}

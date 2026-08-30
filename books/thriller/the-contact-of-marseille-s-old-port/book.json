@@ -1,0 +1,21 @@
+{
+  "id": "THR-08897",
+  "title": "The Contact of Marseille's old port",
+  "author": "Lena Ravensworth",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Xanthe Reyes, a private security contractor guarding clients nobody trusts, has spent seven years following rules that keep getting rewritten. But when a voiceprint unlocks a server on another continent, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "identity",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8897
+  }
+}

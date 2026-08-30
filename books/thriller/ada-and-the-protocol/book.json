@@ -1,0 +1,21 @@
+{
+  "id": "THR-09008",
+  "title": "Ada and the Protocol",
+  "author": "Ivo Vasquez",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ulyana Sandoval, a private security contractor guarding clients nobody trusts, has spent five years following rules that keep getting rewritten. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "found family",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9008
+  }
+}

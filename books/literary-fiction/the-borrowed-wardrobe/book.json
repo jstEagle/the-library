@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04594",
+  "title": "The Borrowed Wardrobe",
+  "author": "J. M. Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Coral Thackeray, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. But when the last speaker of a language asks for one final student, he discovers that staying invisible was never really an option. To get through this, he must say goodbye properly, at last, out loud before the mother's memory goes entirely.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4594
+  }
+}

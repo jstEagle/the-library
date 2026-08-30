@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02358",
+  "title": "Clock and Typewriter",
+  "author": "Xanthe Oyelaran",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Odile Whitlock, a pearl diver's child indentured to a trading company, measures the world in what can be carried when the orders come. But when a child is left at the door with instructions to forget the face, she discovers that staying invisible was never really an option. To get through this, she must choose which family member gets the last berth before the armistice is signed — or isn't.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2358
+  }
+}

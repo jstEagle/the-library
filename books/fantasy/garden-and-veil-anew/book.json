@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02145",
+  "title": "Garden and Veil Anew",
+  "author": "Juniper Joubert",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.6,
+  "blurb": "Emrys Ashgrove, an exiled storm-caller, has spent twenty years selling small charms in a city that outlawed magic. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2145
+  }
+}

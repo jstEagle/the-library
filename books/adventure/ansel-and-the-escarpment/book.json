@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00409",
+  "title": "Ansel and the Escarpment",
+  "author": "Edmund Zhou",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Isandro Marchetti, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. But when an expedition upriver stops answering the radio, they discover that staying invisible was never really an option. To get through this, they must cross the range ahead of the snows before the concession permits expire.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 409
+  }
+}

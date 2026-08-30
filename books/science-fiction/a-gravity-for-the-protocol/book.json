@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07558",
+  "title": "A Gravity for the Protocol",
+  "author": "Sable Brightwater",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Mirabel Thackeray, a pilot bonded to an AI that lies, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7558
+  }
+}

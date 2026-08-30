@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04608",
+  "title": "Silence and Blue Hour",
+  "author": "Wendell Blackwood",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Sable Blackwood, a night librarian in a city that sleeps less every year, moves through the days like a tenant, not an owner. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. To get through this, he must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4608
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08689",
+  "title": "The Drop of Tashkent",
+  "author": "Orsen Okafor",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Ines Oyelaran, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. To get through this, they must burn the network that did the training before the border checkpoint shifts change.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8689
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08488",
+  "title": "The Border of the Green Zone",
+  "author": "Freya Sandoval",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ada Okonkwo, a financial-crimes investigator drowning in clean money, has spent three years following rules that keep getting rewritten. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8488
+  }
+}

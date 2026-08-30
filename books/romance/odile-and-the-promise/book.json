@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06766",
+  "title": "Odile and the Promise",
+  "author": "Jonah Ishikawa",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wendell Coldharbour, a cellist recovering from one catastrophic final performance, has spent five years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. To get through this, they must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6766
+  }
+}

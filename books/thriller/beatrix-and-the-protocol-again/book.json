@@ -1,0 +1,21 @@
+{
+  "id": "THR-09417",
+  "title": "Beatrix and the Protocol Again",
+  "author": "Cyrus Almeida",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Edmund Dunmore, a crash investigator whose family died in row twelve, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. To get through this, they must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9417
+  }
+}

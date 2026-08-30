@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07974",
+  "title": "Yara and the Terminal",
+  "author": "Ines Fairweather",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Freya Villalobos, the last human technician on an automated relay station, has spent fifteen years hauling cargo through contested orbits. But when an unfamiliar name shows up on the manifest of a ship that never flew, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7974
+  }
+}

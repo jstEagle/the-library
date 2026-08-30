@@ -1,0 +1,16 @@
+# Astrid and the Tide
+
+**by Wren Nystrom**
+
+> Vesper Vasquez, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the last ferry of the season departs.
+
+---
+Rating: **** 3.5/5  |  Genre: Romance  |  Length: 22 chapters
+
+---
+
+## About the author
+
+Wren Nystrom is a former orchestral librarian who grew up on ferry schedules and salt air in the northern isles. They write quiet romances about people who mistake discipline for safety.
+
+*Generated with AI as part of The Library.*

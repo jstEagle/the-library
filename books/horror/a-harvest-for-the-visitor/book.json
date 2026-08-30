@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03514",
+  "title": "A Harvest for the Visitor",
+  "author": "Jonah Quintana",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Cyrus Yarrow, a hospice nurse who hears the dying count backwards, has spent ten years telling themselves the noises have explanations. Then the excavation crew unearths a door, sealed from the inside — and they are pulled straight into the middle of it. To get through this, they must learn the song's last verse without singing along before the well refills.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3514
+  }
+}

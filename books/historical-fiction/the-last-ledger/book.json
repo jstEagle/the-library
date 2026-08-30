@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02441",
+  "title": "The Last Ledger",
+  "author": "Xanthe Oyelaran",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Wendell Okonkwo, an apprentice clockmaker summoned to repair the observatory's master clock, has spent five years learning which silences keep people safe. Then the census taker asks one question too many — and he is pulled straight into the middle of it. Now he must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2441
+  }
+}

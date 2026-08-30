@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07659",
+  "title": "Cyrus and the Static",
+  "author": "Sable Dravenmoor",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Mirabel Vasquez, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. To get through this, they must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7659
+  }
+}

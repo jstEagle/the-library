@@ -1,0 +1,21 @@
+{
+  "id": "THR-08651",
+  "title": "The Cover of Tashkent",
+  "author": "Orsen Nakamura",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Gideon Thornbury, a crash investigator whose family died in row twelve, has spent twelve years following rules that keep getting rewritten. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8651
+  }
+}

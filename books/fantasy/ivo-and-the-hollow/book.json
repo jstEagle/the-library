@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01479",
+  "title": "Ivo and the Hollow",
+  "author": "Kestrel Almeida",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Marguerite Ishikawa, a hedge-witch's runaway apprentice, has spent seven years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1479
+  }
+}

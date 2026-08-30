@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07666",
+  "title": "Astrid and the Static",
+  "author": "Lena Joubert",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Ada Eriksen, the last human technician on an automated relay station, has spent twenty years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, she discovers that staying invisible was never really an option. Now she must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7666
+  }
+}

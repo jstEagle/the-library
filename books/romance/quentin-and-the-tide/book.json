@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06774",
+  "title": "Quentin and the Tide",
+  "author": "Juniper Fairweather",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Wren Crane, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6774
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Ledger and Autopsy",
+  "slug": "mystery/ledger-and-autopsy",
+  "model": "stealth/ox-alpha",
+  "premise": "Hazel Eriksen, the reclusive coroner of Graywater Hollow, receives two letters on the same morning: one confessing to a murder that never appeared in any ledger, and one promising a fortune if Hazel can find 'the second book.' The confession is signed by Hazel's presumed-dead mother, whose body Hazel themselves certified twenty years ago. Following entries hidden in the town's burial records, Hazel uncovers a decades-long scheme of falsified deaths and stolen inheritances run by the family that owns half the county. In the end, Hazel must choose between publishing the truth—which destroys their oldest friend and first love, Deputy Mara Voss, whose father orchestrated it all—and burning the ledger as her mother's final letter begs. Hazel chooses truth, but delivers it in a way that spares Mara, closing the case at the cost of their own invisibility and their last chance at love.",
+  "about_author": "August Coldharbour is the pen name of a former rural registrar who spent eleven years cataloguing vital records in coastal New England before turning to fiction. They write mysteries about paper trails, small towns, and the people who keep both.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Two Envelopes",
+      "summary": "Hazel Eriksen's POV. On an ordinary Tuesday, Hazel opens the morning mail to find twin letters: a murder confession signed with their mother's name, and an unsigned promise of payment for locating 'the second book.' The emotional beat is quiet vertigo—the first crack in a life built on order."
+    },
+    {
+      "n": 2,
+      "title": "The Grave I Signed",
+      "summary": "Hazel's POV. Hazel returns to the cemetery plot they certified for their mother in 2004 and finds the headstone blank beneath the moss. Flashbacks establish Hazel's childhood of secrets and their vow to close every case. Beat: grief resurfacing as professional dread."
+    },
+    {
+      "n": 3,
+      "title": "Deputy Voss",
+      "summary": "Hazel's POV, with a Mara interlude. Hazel brings the confession to Sheriff's Deputy Mara Voss, their first love, who dismisses it as a crank letter—but Hazel notices Mara flinch at the name Hollis. Beat: old tenderness tangled with new suspicion."
+    },
+    {
+      "n": 4,
+      "title": "Every Grave by Name",
+      "summary": "Hazel's POV. Walking the cemetery rows, Hazel realizes the burial register skips numbers—seven plots purchased but never filled. The ledger begins to take shape: deaths recorded, bodies absent. Beat: the thrill of a pattern emerging from stillness."
+    },
+    {
+      "n": 5,
+      "title": "The Hollis Account",
+      "summary": "Mara Voss's POV. Mara privately reviews her late father Aldous's effects and finds a key labeled only 'H.' She hides it rather than report it, torn between loyalty to his memory and duty to the badge. Beat: complicity beginning in silence."
+    },
+    {
+      "n": 6,
+      "title": "A Body That Won't Stay Buried",
+      "summary": "Hazel's POV. A fresh death arrives: Wendell Pruitt, town archivist, found dead in the records annex the night after requesting microfilm. Hazel performs the autopsy and finds poison disguised as cardiac failure. Beat: the mystery turns lethal and personal."
+    },
+    {
+      "n": 7,
+      "title": "Microfilm and Ash",
+      "summary": "Hazel's POV. The film Wendell ordered is gone; only a scorched envelope remains, addressed to Hazel. Inside, half a page of numbers matching the missing grave plots. Beat: urgency—someone is erasing the trail faster than Hazel can follow it."
+    },
+    {
+      "n": 8,
+      "title": "The Second Book",
+      "summary": "Hazel's POV. Deciphering the numbers against the county tax rolls, Hazel locates the Hollis family's shuttered cannery, where a hidden strongroom once stored payrolls. Beat: dread and resolve as the confession's geography becomes real."
+    },
+    {
+      "n": 9,
+      "title": "What Mother Left",
+      "summary": "Hazel's POV, deep flashback chapter. Reconstructing 2004: Hazel's mother, Ruth, worked as the Hollises' bookkeeper and faked her own death to escape them—or so the confession claims. Beat: Hazel's foundational memory of loss rewritten as betrayal or sacrifice, still unclear."
+    },
+    {
+      "n": 10,
+      "title": "Cannery Dark",
+      "summary": "Hazel's POV. Breaking into the cannery at night, Hazel finds the strongroom emptied except for a single ledger page nailed to the wall—a message: 'Ask the deputy.' Beat: fear sharpening into certainty that Mara is entangled."
+    },
+    {
+      "n": 11,
+      "title": "Confrontation at the Diner",
+      "summary": "Alternating Hazel/Mara POV. Hazel lays out the evidence over coffee; Mara admits her father kept books for the Hollises but swears she knew nothing. Each reads the other's face for lies. Beat: love against duty made explicit, neither willing to yield."
+    },
+    {
+      "n": 12,
+      "title": "The Confession's Twin",
+      "summary": "Hazel's POV. Handwriting analysis suggests the confession was written recently, by someone elderly—and a second letter arrives, this one promising 'more' if Hazel stops digging, postmarked from a hospice two towns over. Beat: hope and threat braided together."
+    },
+    {
+      "n": 13,
+      "title": "Room 114",
+      "summary": "Hazel's POV. At the hospice, Hazel finds a dying woman claiming to be Ruth Eriksen—alive, unrepentant, and terrified. She reveals the scheme: the Hollises laundered inheritances through staged deaths, and she kept the true ledger. Beat: reunion poisoned by twenty years of lies."
+    },
+    {
+      "n": 14,
+      "title": "Mother's Arithmetic",
+      "summary": "Ruth's POV. Ruth recounts how she became the Hollises' bookkeeper, discovered the fraud, and chose disappearance over testimony to protect young Hazel. She hid the real ledger where no auditor would look. Beat: maternal love revealed as its own kind of cowardice and courage."
+    },
+    {
+      "n": 15,
+      "title": "Where No Auditor Looks",
+      "summary": "Hazel's POV. Ruth's riddle points to the cemetery itself: the ledger is bound in the funeral home's embalming records, microfilmed under Wendell's name. But when Hazel retrieves it, someone has already been there. Beat: racing a shadow that knows every move."
+    },
+    {
+      "n": 16,
+      "title": "The Empty Chair",
+      "summary": "Mara's POV. Mara discovers her father's key opens the hospice safe-deposit box—Ruth's insurance policy—and realizes Aldous hunted Ruth for years. She must decide whether to warn Hazel or protect the family name. Beat: loyalty cracking down the middle."
+    },
+    {
+      "n": 17,
+      "title": "Wendell's Last Entry",
+      "summary": "Hazel's POV. Among Wendell's effects, Hazel finds his notes naming his killer's silhouette: someone wearing a sheriff's uniform. The prime suspect becomes Sheriff Dane Hollis himself. Beat: the case pivots from inheritance to murder most institutional."
+    },
+    {
+      "n": 18,
+      "title": "Ledger and Autopsy",
+      "summary": "Hazel's POV. Cross-referencing the recovered ledger pages with twenty years of Hazel's own autopsy reports, Hazel proves seven 'natural deaths' were murders—all signed off, some by Hazel's predecessors, one coerced from Ruth. Beat: horror at how long the truth sat in plain sight."
+    },
+    {
+      "n": 19,
+      "title": "The Offer",
+      "summary": "Sheriff Dane Hollis's POV. Dane offers Hazel the thing they've always wanted—guaranteed anonymity, funding, Ruth quietly moved somewhere safe—in exchange for the ledger and silence. He invokes Mara's future. Beat: temptation rendered almost reasonable."
+    },
+    {
+      "n": 20,
+      "title": "What We Owe the Dead",
+      "summary": "Alternating Hazel/Mara POV. Hazel tells Mara everything; Mara, weeping, surrenders her father's key and chooses the badge over blood. Together they plan to trap Dane into confessing on record. Beat: love acknowledged precisely as it is set aside for duty."
+    },
+    {
+      "n": 21,
+      "title": "Closing the Case",
+      "summary": "Hazel's POV. Climax at the cannery: Dane, cornered, tries to burn the reconstructed ledger; Mara arrests him at gunpoint while Hazel preserves the evidence, reading Wendell's findings aloud as the flames die. Beat: catharsis—truth spoken plainly in the place it was buried."
+    },
+    {
+      "n": 22,
+      "title": "Headstone, Inscribed",
+      "summary": "Hazel's POV, epilogue. Months later: Dane convicted, Ruth testifying from her hospice bed, and Hazel carving their mother's real name into the long-blank stone. Mara stands beside them—not lovers again, but honest. Beat: peace earned at the price of invisibility, gladly paid."
+    }
+  ]
+}

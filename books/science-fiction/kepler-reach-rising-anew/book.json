@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07914",
+  "title": "Kepler Reach Rising Anew",
+  "author": "Quentin Ashgrove",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Casper Thackeray, the last human technician on an automated relay station, runs the long route between worlds that no longer speak. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7914
+  }
+}

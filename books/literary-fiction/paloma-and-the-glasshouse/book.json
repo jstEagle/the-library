@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04787",
+  "title": "Paloma and the Glasshouse",
+  "author": "O. M. Sandoval",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Rosalind Pemberton, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. But when a childhood home goes up for auction, he discovers that staying invisible was never really an option. To get through this, he must forgive the stranger in the old photographs before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4787
+  }
+}

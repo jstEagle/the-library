@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01862",
+  "title": "Astrid and the Sigil",
+  "author": "Ada Brightwater",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Sable Marchetti, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1862
+  }
+}

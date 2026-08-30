@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07093",
+  "title": "Static and Vector",
+  "author": "Lena Blackwood",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Theo Almeida, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7093
+  }
+}

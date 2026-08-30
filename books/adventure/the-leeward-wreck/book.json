@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00454",
+  "title": "The Leeward Wreck",
+  "author": "Kestrel Villalobos",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Tamsin Brightwater, a storm chaser who owes money to dangerous optimists, knows the wilderness forgives nothing and forgets less. But when the tide reveals a cave that legends charge admission to, he discovers that staying invisible was never really an option. To get through this, he must cross the range ahead of the snows before the dry season ends.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 454
+  }
+}

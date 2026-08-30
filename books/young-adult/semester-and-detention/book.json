@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09736",
+  "title": "Semester and Detention",
+  "author": "Wren Eriksen",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Zephyrine Sandoval, a scholarship student at an academy with too many secrets, counts days until graduation like a sentence being served. Then the teacher pairs nemesis with nemesis for a semester-long project — and he is pulled straight into the middle of it. Now he must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9736
+  }
+}

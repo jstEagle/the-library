@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03463",
+  "title": "Sebastian and the Bell",
+  "author": "Wren Montrose",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Coral Villalobos, a radio host taking calls from listeners who died last week, has spent seven years telling themselves the noises have explanations. But when the sleep recordings capture a second voice answering questions, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the well refills.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3463
+  }
+}

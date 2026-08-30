@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01048",
+  "title": "Bram and the Wolf",
+  "author": "Jonah Whitlock",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Rafael Underhill, a mercenary sworn to a god that went silent, keeps the ledgers of a guild that trades in impossible things. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. To get through this, she must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "memory",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1048
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00414",
+  "title": "Vesper and the Monsoon",
+  "author": "Isandro Nakamura",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Jonah Coldharbour, a salvage diver working a wreck the navy won't discuss, carries a compass, a debt, and very little else. Then the river gives up a chest stamped with a dead nation's seal — and they are pulled straight into the middle of it. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 414
+  }
+}

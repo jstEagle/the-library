@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04546",
+  "title": "Glasshouse and Radiators",
+  "author": "Wren Yarrow",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Marguerite Blackwood, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. Now they must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4546
+  }
+}

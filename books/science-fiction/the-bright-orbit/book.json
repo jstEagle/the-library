@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07462",
+  "title": "The Bright Orbit",
+  "author": "Xanthe Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Freya Thackeray, a terraformer tending a garden meant for people not yet born, has spent fifteen years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7462
+  }
+}

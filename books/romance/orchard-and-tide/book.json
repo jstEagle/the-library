@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06593",
+  "title": "Orchard and Tide",
+  "author": "Juniper Dunmore",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.8,
+  "blurb": "Bram Nystrom, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6593
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02356",
+  "title": "A Ledger for the Atlas",
+  "author": "Gideon Villalobos",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ansel Iversen, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. Now she must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2356
+  }
+}

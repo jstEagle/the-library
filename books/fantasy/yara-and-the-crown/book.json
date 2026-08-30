@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01687",
+  "title": "Yara and the Crown",
+  "author": "Ivo Hartwell",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Bram Almeida, the keeper of a gate that should stay shut, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1687
+  }
+}

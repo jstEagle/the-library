@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04050",
+  "title": "The Pale Smile Again",
+  "author": "Theo Thornbury",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Bram Okonkwo, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. But when the sleep recordings capture a second voice answering questions, he discovers that staying invisible was never really an option. Now he must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4050
+  }
+}

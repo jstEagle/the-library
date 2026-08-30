@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05807",
+  "title": "The Borrowed Verdict Again",
+  "author": "Coral Nystrom",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Coral Ravensworth, an insurance investigator with a photographic memory, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. To get through this, they must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5807
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09501",
+  "title": "The Semester of the quarry",
+  "author": "Odile Nystrom",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Felix Montrose, the only out kid in a town of nine hundred, stays under the radar: head down, grades up, locker shut. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. To get through this, she must tell the truth even if it costs the friendship before graduation.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9501
+  }
+}

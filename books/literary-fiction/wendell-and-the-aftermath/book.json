@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04789",
+  "title": "Wendell and the Aftermath",
+  "author": "A. M. Dunmore",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mara Kavanagh, a letter-writer sending postcards to an address that burned down years ago, has perfected the smile that ends conversations. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. To get through this, she must say goodbye properly, at last, out loud before the house sale closes.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4789
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03952",
+  "title": "The Smile of Old Chapel Road Again",
+  "author": "Wren Amberdale",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Isandro Dravenmoor, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. Then the excavation crew unearths a door, sealed from the inside — and she is pulled straight into the middle of it. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3952
+  }
+}

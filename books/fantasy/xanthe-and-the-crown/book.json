@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01830",
+  "title": "Xanthe and the Crown",
+  "author": "Lior Dravenmoor",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Isandro Halloran, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. To get through this, they must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1830
+  }
+}

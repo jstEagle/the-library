@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04638",
+  "title": "The Blue Hour of the old quarter",
+  "author": "Kestrel Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 5.0,
+  "blurb": "Ivo Halloran, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4638
+  }
+}

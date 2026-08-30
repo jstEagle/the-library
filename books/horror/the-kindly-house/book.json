@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03918",
+  "title": "The Kindly House",
+  "author": "Z. M. Joubert",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Lior Winterbourne, a folklorist recording songs the village refuses to sing twice, doesn't believe, has never believed, will not begin believing now. Then the excavation crew unearths a door, sealed from the inside — and he is pulled straight into the middle of it. To get through this, he must finish the ritual the founders started before the harvest moon rises.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3918
+  }
+}

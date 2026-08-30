@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01960",
+  "title": "Gideon and the Wolf",
+  "author": "Xanthe Villalobos",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Gideon Winterbourne, a mercenary sworn to a god that went silent, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must steal back a soul sold to the court beneath the mountain before the moon completes its thirteenth turn.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1960
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08621",
+  "title": "Safehouse and Protocol",
+  "author": "Silas Nystrom",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Xanthe Iversen, a crash investigator whose family died in row twelve, has spent seven years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8621
+  }
+}

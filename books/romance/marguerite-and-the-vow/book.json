@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06803",
+  "title": "Marguerite and the Vow",
+  "author": "Jonah Ashgrove",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Silas Thackeray, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and she is pulled straight into the middle of it. Now she must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6803
+  }
+}

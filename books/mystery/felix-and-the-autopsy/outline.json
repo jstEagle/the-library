@@ -1,0 +1,59 @@
+{
+  "title": "Felix and the Autopsy",
+  "slug": "mystery/felix-and-the-autopsy",
+  "model": "stealth/ox-alpha",
+  "premise": "Retired detective Lior Reyes, hiding from a corrupt former department behind the counter of a failing bookshop, is paid a suspiciously large retainer by a nervous stranger to prove that a murder has not yet happened — a murder predicted in chilling detail. As Lior investigates, they realize the 'client' is the intended victim, and the killer is someone who once worked beside them, someone who knows every trick in the old case files because he wrote half of them. The statute of limitations on Lior's own buried crime expires in ten days, and the killer is using it as leverage: help him commit the perfect murder, or be exposed. In the end, Lior chooses truth over survival, springing a trap that saves the victim and forces their own confession into the open — trading invisibility for justice.",
+  "about_author": "Juniper Brightwater is the pen name of a former small-town court reporter who spent fifteen years transcribing other people's worst days before turning them into fiction. They write mysteries about ordinary people forced to choose between safety and conscience, and live quietly near the coast with an ill-tempered cat named Verdict.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Paid in Full",
+      "summary": "Lior's POV. A gaunt stranger named Elias Vann walks into Brightwater Books and pays three months' rent in cash to hire Lior — not as a bookseller, but as the detective they used to be. His request: prove a murder hasn't happened yet. Lior refuses, but pockets the money out of desperation. Emotional beat: shame disguised as pragmatism."
+    },
+    {
+      "n": 2,
+      "title": "The File That Shouldn't Exist",
+      "summary": "Lior's POV. Unable to sleep, Lior researches Vann's claim and finds a sealed case file describing a murder scheduled for Friday — with details only an insider could know. The file bears Lior's own retired badge number as consulting reference. Emotional beat: cold dread; the past has found the shop's address."
+    },
+    {
+      "n": 3,
+      "title": "Ten Days",
+      "summary": "Lior's POV. Lior tracks down Vann and confronts him; Vann admits he is the predicted victim and begs for protection off the record, fearing police corruption. Lior counts the days until both the murder date and the statute expiring on their own old crime. Emotional beat: reluctant commitment, the trap closing."
+    },
+    {
+      "n": 4,
+      "title": "Ghost of the Fourth Floor",
+      "summary": "Vann's POV. Vann reveals his history: he was a records clerk who discovered discrepancies in a decade-old case — one involving Lior. He hints he knows what Lior did to survive back then. Emotional beat: betrayal; the client may be bait, not prey."
+    },
+    {
+      "n": 5,
+      "title": "Someone Who Reads Backwards",
+      "summary": "Lior's POV. Following the file's methodology, Lior realizes the killer reconstructs crimes from archived case notes — meaning the murderer has access to evidence rooms or old colleagues. A former partner, Detective Marsh, resurfaces asking oddly precise questions. Emotional beat: paranoia sharpening into focus."
+    },
+    {
+      "n": 6,
+      "title": "The Price of Silence",
+      "summary": "Marsh's POV. Marsh privately offers Lior a deal: let Vann die, and the old file disappears forever. He frames it as mercy — Lior's survival purchased with a stranger's life. Emotional beat: temptation rendered almost reasonable; loyalty to oneself versus truth."
+    },
+    {
+      "n": 7,
+      "title": "What the Bookshop Knew",
+      "summary": "Lior's POV. Decoding marginalia Vann left in a shop book, Lior discovers the real target isn't Vann at all — Vann engineered everything to flush out the killer and force Lior to choose. The murder date moves up. Emotional beat: fury and clarity; the game was never hidden."
+    },
+    {
+      "n": 8,
+      "title": "Statute of Limitations",
+      "summary": "Lior's POV. With hours left, Lior sets a trap using the killer's own case-file logic, feeding false details through Marsh. The statute expires at midnight — confession now means ruin. Lior writes the confession anyway and seals it. Emotional beat: resolve; choosing justice over the exit door."
+    },
+    {
+      "n": 9,
+      "title": "The Autopsy of Felix Crane",
+      "summary": "Climax, alternating POVs. The trap springs in the archive basement: the killer is revealed to be the long-dead case's surviving accomplice, Felix Crane, presumed dead for years — his autopsy file forged by Marsh. Violence flares; Vann takes a wound shielding Lior; Marsh is arrested when the sealed confession surfaces. Emotional beat: catharsis through exposure."
+    },
+    {
+      "n": 10,
+      "title": "Shelf Life",
+      "summary": "Lior's POV, weeks later. Lior testifies, loses the badge-adjacent anonymity they guarded for years, and finds the bookshop busier than ever — customers drawn by the story. Vann recovers; the two share coffee among the shelves. Emotional beat: quiet peace; visibility hurts less than expected, and survival finally feels earned."
+    }
+  ]
+}

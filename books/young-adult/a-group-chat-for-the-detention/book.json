@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09953",
+  "title": "A Group Chat for the Detention",
+  "author": "Orsen Iversen",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Jude Dravenmoor, a coder whose anonymous account knows too much, stays under the radar: head down, grades up, locker shut. Then a best friend goes missing, leaving only a set of keys behind — and she is pulled straight into the middle of it. To get through this, she must expose what the school board buried before prom.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9953
+  }
+}

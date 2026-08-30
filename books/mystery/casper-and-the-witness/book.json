@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05533",
+  "title": "Casper and the Witness",
+  "author": "Juniper Iversen",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Ines Oyelaran, a retired detective running a failing bookshop, thought they had seen every way a life can end. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5533
+  }
+}

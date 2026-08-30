@@ -1,0 +1,21 @@
+{
+  "id": "THR-09160",
+  "title": "Casper and the Border",
+  "author": "Odile Vasquez",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Oscar Sterling, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9160
+  }
+}

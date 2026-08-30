@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02576",
+  "title": "A Ledger for the Bridge",
+  "author": "Vesper Almeida",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Coral Okafor, a battlefield nurse keeping a ledger of the names officers omit, measures the world in what can be carried when the orders come. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and they are pulled straight into the middle of it. Now they must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2576
+  }
+}

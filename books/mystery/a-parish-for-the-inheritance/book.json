@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04812",
+  "title": "A Parish for the Inheritance",
+  "author": "Ivo Underhill",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Bram Okonkwo, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "memory",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4812
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08096",
+  "title": "Ada and the Vector",
+  "author": "Noor Underhill",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ulyana Okonkwo, a pilot bonded to an AI that lies, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before the fleet's truce expires.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8096
+  }
+}

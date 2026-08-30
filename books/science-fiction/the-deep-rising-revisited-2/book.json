@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08157",
+  "title": "the Deep Rising Revisited",
+  "author": "Gideon Lockridge",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Noor Hartwell, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8157
+  }
+}

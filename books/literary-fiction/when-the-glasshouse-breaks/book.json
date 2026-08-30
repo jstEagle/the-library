@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04164",
+  "title": "When the Glasshouse Breaks",
+  "author": "Casper Lockridge",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 3.6,
+  "blurb": "Emrys Ishikawa, a restaurant critic who has forgotten how food tastes, has spent seven years practicing the art of almost saying it. Then the last speaker of a language asks for one final student — and they are pulled straight into the middle of it. Now they must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4164
+  }
+}

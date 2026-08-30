@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02871",
+  "title": "The Unwritten Letter",
+  "author": "Dominic Underhill",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Freya Galloway, a code-carrying courier on the last diplomatic mission of a doomed republic, measures the world in what can be carried when the orders come. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and they are pulled straight into the middle of it. To get through this, they must get the truth on the record ahead of the victors' historians before the century turns.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2871
+  }
+}

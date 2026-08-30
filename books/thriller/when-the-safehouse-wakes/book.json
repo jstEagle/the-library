@@ -1,0 +1,21 @@
+{
+  "id": "THR-08436",
+  "title": "When the Safehouse Wakes",
+  "author": "Mirabel Delacroix",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Kestrel Ashgrove, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8436
+  }
+}

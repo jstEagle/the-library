@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07785",
+  "title": "A Protocol for the Terminal",
+  "author": "Theo Winterbourne",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Kestrel Coldharbour, a pilot bonded to an AI that lies, has spent twelve years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7785
+  }
+}

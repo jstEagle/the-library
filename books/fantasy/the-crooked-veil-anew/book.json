@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02124",
+  "title": "The Crooked Veil Anew",
+  "author": "Theo Delacroix",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Silas Okafor, a debt-bound temple scribe, has spent twelve years selling small charms in a city that outlawed magic. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. To get through this, she must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2124
+  }
+}

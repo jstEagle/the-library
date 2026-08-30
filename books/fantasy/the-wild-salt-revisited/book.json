@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02065",
+  "title": "The Wild Salt Revisited",
+  "author": "Cyrus Pemberton",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Jonah Hartwell, a thief who steals memories, has spent ten years selling small charms in a city that outlawed magic. But when tonight's date appears in a book of prophecies written a century ago, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2065
+  }
+}

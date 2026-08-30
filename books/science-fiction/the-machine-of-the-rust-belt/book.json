@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07226",
+  "title": "The Machine of the Rust Belt",
+  "author": "Coral Dravenmoor",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Gideon Almeida, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7226
+  }
+}

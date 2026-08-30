@@ -1,0 +1,21 @@
+{
+  "id": "THR-08965",
+  "title": "Felix and the Asset",
+  "author": "S. M. Vasquez",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Isandro Kavanagh, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. To get through this, she must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8965
+  }
+}

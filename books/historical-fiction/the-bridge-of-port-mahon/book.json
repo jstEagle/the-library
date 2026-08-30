@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02329",
+  "title": "The Bridge of Port Mahon",
+  "author": "Z. M. Brightwater",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Edmund Iversen, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2329
+  }
+}

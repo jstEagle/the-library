@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04008",
+  "title": "The Wrong Portrait Revisited",
+  "author": "Quentin Amberdale",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Sebastian Almeida, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. But when the sleep recordings capture a second voice answering questions, they discover that staying invisible was never really an option. To get through this, they must learn the song's last verse without singing along before the last resident signs the papers.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4008
+  }
+}

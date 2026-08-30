@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03004",
+  "title": "The Ledger of Port Mahon",
+  "author": "Isandro Eriksen",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Tamsin Kavanagh, a typeface cutter's daughter in a print shop on the eve of a revolution, believes history happens to other people, elsewhere. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the armistice is signed — or isn't.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3004
+  }
+}

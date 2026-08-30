@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02684",
+  "title": "When the Bridge Wakes",
+  "author": "Wendell Whitlock",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Wren Blackwood, a pearl diver's child indentured to a trading company, has spent ten years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and he is pulled straight into the middle of it. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2684
+  }
+}

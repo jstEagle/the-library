@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07183",
+  "title": "When the Colony Breaks",
+  "author": "Ansel Whitlock",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Casper Crane, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7183
+  }
+}

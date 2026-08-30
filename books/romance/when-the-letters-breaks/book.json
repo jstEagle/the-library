@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06183",
+  "title": "When the Letters Breaks",
+  "author": "Paloma Lockridge",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Mara Whitlock, a ghostwriter secretly penning a rival's memoirs, has spent seven years rebuilding a life measured in small safe steps. But when a fake date to survive a family reunion feels too real by dessert, they discover that staying invisible was never really an option. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6183
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07688",
+  "title": "Elodie and the Orbit",
+  "author": "Beatrix Whitlock",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Tamsin Lockridge, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7688
+  }
+}

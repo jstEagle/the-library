@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00469",
+  "title": "The Escarpment of the Upper Fly River",
+  "author": "Freya Kavanagh",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Mara Ishikawa, a riverboat captain who knows every sandbar's mood, knows the wilderness forgives nothing and forgets less. Then a dying prospector trades a map for a promise — and he is pulled straight into the middle of it. To get through this, he must beat the salvage fleet to the wreck by six tides before the concession permits expire.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 469
+  }
+}

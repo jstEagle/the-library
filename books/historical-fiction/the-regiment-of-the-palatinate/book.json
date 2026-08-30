@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02352",
+  "title": "The Regiment of the Palatinate",
+  "author": "Quentin Halloran",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Wren Joubert, a typeface cutter's daughter in a print shop on the eve of a revolution, measures the world in what can be carried when the orders come. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and they are pulled straight into the middle of it. To get through this, they must get the truth on the record ahead of the victors' historians before the century turns.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2352
+  }
+}

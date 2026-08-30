@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00556",
+  "title": "Wren and the Passage",
+  "author": "August Okafor",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Petra Zhou, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, she discovers that staying invisible was never really an option. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 556
+  }
+}

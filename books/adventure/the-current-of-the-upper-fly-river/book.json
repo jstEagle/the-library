@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00638",
+  "title": "The Current of the Upper Fly River",
+  "author": "Isandro Amberdale",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Quentin Underhill, a desert ranger tracking a thief across nothing, knows the wilderness forgives nothing and forgets less. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. To get through this, she must follow a river upstream to its forbidden source before the monsoon makes landfall.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 638
+  }
+}

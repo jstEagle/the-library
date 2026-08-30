@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00353",
+  "title": "The Horizon of the Upper Fly River",
+  "author": "Petra Okafor",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Rafael Montrose, a storm chaser who owes money to dangerous optimists, has spent twelve years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. To get through this, she must follow a river upstream to its forbidden source before the dry season ends.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 353
+  }
+}

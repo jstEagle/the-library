@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06592",
+  "title": "Felix and the Harbor",
+  "author": "D. M. Quintana",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Freya Okonkwo, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. To get through this, she must say the sentence that has been rehearsed for a decade before the vineyard's first harvest comes in.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6592
+  }
+}

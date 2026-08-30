@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02504",
+  "title": "When the Bridge Burns",
+  "author": "Y. M. Okafor",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Ivo Okafor, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. Now they must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2504
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03049",
+  "title": "Ansel and the Atlas",
+  "author": "August Ashgrove",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Sable Pemberton, a code-carrying courier on the last diplomatic mission of a doomed republic, measures the world in what can be carried when the orders come. But when a child is left at the door with instructions to forget the face, she discovers that staying invisible was never really an option. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3049
+  }
+}

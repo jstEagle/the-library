@@ -1,0 +1,21 @@
+{
+  "id": "THR-09360",
+  "title": "Cyrus and the Debt",
+  "author": "Sebastian Okafor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Rosalind Whitlock, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. To get through this, they must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9360
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09569",
+  "title": "When the Mixtape Falls",
+  "author": "Vesper Nakamura",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Astrid Lockridge, the team's statistician who knows the game is rigged, stays under the radar: head down, grades up, locker shut. But when a best friend goes missing, leaving only a set of keys behind, he discovers that staying invisible was never really an option. Now he must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9569
+  }
+}

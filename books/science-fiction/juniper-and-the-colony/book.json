@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07107",
+  "title": "Juniper and the Colony",
+  "author": "O. M. Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Mirabel Ashgrove, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7107
+  }
+}

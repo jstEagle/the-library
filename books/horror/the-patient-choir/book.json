@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03925",
+  "title": "The Patient Choir",
+  "author": "Vesper Zhou",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Yara Ravensworth, a pest controller called to something with fingerprints, doesn't believe, has never believed, will not begin believing now. But when the village's church bell rings although the bell was melted down in 1911, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3925
+  }
+}

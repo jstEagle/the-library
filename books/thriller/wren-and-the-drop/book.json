@@ -1,0 +1,21 @@
+{
+  "id": "THR-09218",
+  "title": "Wren and the Drop",
+  "author": "Vesper Zhou",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Petra Eastwick, a whistle-blower living under four names, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9218
+  }
+}

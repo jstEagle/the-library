@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04960",
+  "title": "Cipher and Letter",
+  "author": "Yara Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Rafael Fairweather, an estate lawyer reading a will that shouldn't exist, has spent twenty years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4960
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00290",
+  "title": "A Provision for the Wreck",
+  "author": "Edmund Delacroix",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Cyrus Amberdale, a mountain guide blacklisted from two countries, knows the wilderness forgives nothing and forgets less. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 290
+  }
+}

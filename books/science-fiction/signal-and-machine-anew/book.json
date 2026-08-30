@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08200",
+  "title": "Signal and Machine Anew",
+  "author": "Ada Hartwell",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Paloma Brightwater, a memory-smuggler running contraband past orbital customs, has spent fifteen years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8200
+  }
+}

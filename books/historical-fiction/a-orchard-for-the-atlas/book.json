@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02424",
+  "title": "A Orchard for the Atlas",
+  "author": "Isandro Vasquez",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Lior Ravensworth, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. Then a child is left at the door with instructions to forget the face — and he is pulled straight into the middle of it. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2424
+  }
+}

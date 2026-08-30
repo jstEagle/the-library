@@ -1,0 +1,21 @@
+{
+  "id": "THR-08807",
+  "title": "The Clean Drop",
+  "author": "August Ravensworth",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Vesper Delacroix, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8807
+  }
+}

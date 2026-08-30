@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01041",
+  "title": "When the Crown Sings",
+  "author": "Ulyana Thackeray",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Dominic Vane, the youngest member of a dying guild, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1041
+  }
+}

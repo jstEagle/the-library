@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00109",
+  "title": "Wreck and Current",
+  "author": "Cyrus Reyes",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Dominic Zhou, an archaeologist's estranged child and better digger, carries a compass, a debt, and very little else. Then the river gives up a chest stamped with a dead nation's seal — and he is pulled straight into the middle of it. To get through this, he must cross the range ahead of the snows before the monsoon makes landfall.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 109
+  }
+}

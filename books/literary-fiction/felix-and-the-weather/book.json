@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04061",
+  "title": "Felix and the Weather",
+  "author": "Tamsin Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 3.5,
+  "blurb": "Beatrix Blackwood, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. To get through this, she must ask the question the whole family arranged itself around before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4061
+  }
+}

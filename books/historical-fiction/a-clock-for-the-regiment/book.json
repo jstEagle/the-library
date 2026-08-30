@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02332",
+  "title": "A Clock for the Regiment",
+  "author": "Ivo Dunmore",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Ansel Hartwell, a mapmaker's apprentice finishing the atlas the master died for, believes history happens to other people, elsewhere. Then the census taker asks one question too many — and she is pulled straight into the middle of it. Now she must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2332
+  }
+}

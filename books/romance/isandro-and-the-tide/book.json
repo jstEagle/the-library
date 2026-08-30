@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06755",
+  "title": "Isandro and the Tide",
+  "author": "Marguerite Almeida",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Wendell Vane, a wedding planner who doesn't believe in weddings anymore, has spent three years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6755
+  }
+}

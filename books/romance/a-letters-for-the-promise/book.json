@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06159",
+  "title": "A Letters for the Promise",
+  "author": "Ansel Ashgrove",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ada Pemberton, a single parent running the town's only bookshop, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6159
+  }
+}

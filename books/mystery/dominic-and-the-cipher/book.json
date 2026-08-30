@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05816",
+  "title": "Dominic and the Cipher",
+  "author": "E. M. Galloway",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Marguerite Voss, the archivist of a cathedral with a locked crypt, has spent ten years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. Now she must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5816
+  }
+}

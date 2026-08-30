@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07503",
+  "title": "Cyrus and the Horizon",
+  "author": "J. M. Eastwick",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Astrid Brightwater, a clone who inherited the original's murder case, has spent ten years hauling cargo through contested orbits. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7503
+  }
+}

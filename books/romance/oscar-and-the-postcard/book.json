@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06939",
+  "title": "Oscar and the Postcard",
+  "author": "Wendell Whitlock",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Mara Halloran, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6939
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01995",
+  "title": "Ansel and the Choir",
+  "author": "Ulyana Sterling",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Ivo Quintana, a debt-bound temple scribe, knows every smuggler's road through the Thornfell mountains. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. Now she must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1995
+  }
+}

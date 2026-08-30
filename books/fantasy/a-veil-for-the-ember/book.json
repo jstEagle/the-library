@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01077",
+  "title": "A Veil for the Ember",
+  "author": "Wendell Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ines Oyelaran, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1077
+  }
+}

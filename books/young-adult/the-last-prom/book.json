@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09584",
+  "title": "The Last Prom",
+  "author": "Coral Sterling",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Theo Sandoval, the eldest sibling raising the younger ones while mom works nights, stays under the radar: head down, grades up, locker shut. But when the teacher pairs nemesis with nemesis for a semester-long project, they discover that staying invisible was never really an option. To get through this, they must win the championship that doesn't matter — and the one that does before prom.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9584
+  }
+}

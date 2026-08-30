@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00900",
+  "title": "The Forgotten Sigil",
+  "author": "Jonah Marchetti",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Noor Nystrom, a mercenary sworn to a god that went silent, has spent seven years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 900
+  }
+}

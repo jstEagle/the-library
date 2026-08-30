@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05196",
+  "title": "The Late Confession",
+  "author": "Rafael Sterling",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Ada Zhou, a small-town coroner who knows every grave by name, has spent seven years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the statute expires.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5196
+  }
+}

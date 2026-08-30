@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07131",
+  "title": "Vector and Protocol",
+  "author": "Rosalind Nakamura",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Cyrus Vane, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. Then an unfamiliar name shows up on the manifest of a ship that never flew — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7131
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "The Hungry Winter",
+  "slug": "horror/the-hungry-winter",
+  "model": "stealth/ox-alpha",
+  "premise": "Lior Thornbury, a skeptical urban explorer cataloguing unmapped tunnels beneath the dying mill town of Hollowmere, documents a door sealed from the inside beneath the old well shaft. The excavation crew that unearths it begins vanishing one by one, and the town's founders' ledger reveals a ritual that must be completed before the well refills and whatever was starved below comes up hungry. Lior, who has spent his life refusing to believe in anything, must finish the founders' interrupted rite using the town's own buried memories, sacrificing his anonymity and nearly his sanity, and in the final chapter he seals the door again from the inside, choosing to be remembered rather than to stay invisible.",
+  "about_author": "Bram Marchetti is the pen name of a former surveyor who spent a decade mapping decommissioned infrastructure across the Rust Belt before turning to horror. His fiction draws on real municipal archives and the unsettling gaps in them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Survey Says Nothing",
+      "summary": "Lior, POV first person, maps a storm tunnel that contradicts every municipal record, photographing anomalies he files under 'surveyor error.' His emotional beat is comfortable denial: the thrill of being the only one who knows. He mentions the well shaft in passing, a detail he'll regret."
+    },
+    {
+      "n": 2,
+      "title": "The Crew That Digs at Night",
+      "summary": "Third-person limited on Mara Voss, foreman of a private excavation crew hired by the town council to shore up the well. She finds Lior's chalk marks in tunnels no explorer should have reached and, forty feet below the shaft, a door sealed from the inside. The beat is dread disguised as professional pride."
+    },
+    {
+      "n": 3,
+      "title": "Sealed from Within",
+      "summary": "Lior's POV. He sneaks into the site at night and touches the door: iron, warm, scratched on the far side. He photographs claw-marks and tells himself it's a hoax, a cold-war bunker, anything. The emotional beat is the first hairline crack in his disbelief, sealed over with sarcasm."
+    },
+    {
+      "n": 4,
+      "title": "What the Founders Ate",
+      "summary": "Mara's POV. Two crew members go missing; the town council burns with quiet panic. Mara finds the founders' ledger in the historical society: Hollowmere was built around the well, and every generation 'fed the winter' with a rite abandoned in 1971. The beat shifts from mystery to inherited guilt."
+    },
+    {
+      "n": 5,
+      "title": "The Well Refills",
+      "summary": "Lior's POV. Water begins rising through tunnels that should drain downhill, and the missing crew members' voices carry up the shaft, still asking for help, still patient. Lior's denial collapses; the beat is terror of a mind that can no longer explain anything away."
+    },
+    {
+      "n": 6,
+      "title": "Ledger of Small Betrayals",
+      "summary": "Dual POV, alternating. Lior and Mara compare notes and discover the ritual requires the town's memories, names, grievances, confessions, fed into the well by consent. The council knew and chose silence to protect property values. The beat is fury at institutional cowardice and the first spark of alliance."
+    },
+    {
+      "n": 7,
+      "title": "Everything We Promised to Forget",
+      "summary": "Lior's POV. He interviews the town's elders, collecting confessions: a drowned child in 1971, a fire that was arson, a pact signed in the church basement. The beat is grief; memory itself becomes the weapon, and Lior realizes his own family name is in the ledger."
+    },
+    {
+      "n": 8,
+      "title": "The Door Opens Both Ways",
+      "summary": "Mara's POV, climax part one. The council attempts to seal the site with concrete, trapping Mara and Lior below as the well crests. The thing below speaks in the voices of everyone they've interviewed, offering to return the dead if the rite is abandoned. The beat is temptation at the point of no return."
+    },
+    {
+      "n": 9,
+      "title": "The Hungry Winter",
+      "summary": "Lior's POV, climax. In the flooded antechamber he performs the founders' rite, feeding the well the town's true memories aloud, including the Thornbury confession, while Mara holds the door. The dead crew's voices go quiet one by one. The beat is sacrifice: truth given freely where the founders gave only fear."
+    },
+    {
+      "n": 10,
+      "title": "Named on the Record",
+      "summary": "Mara's POV, resolution. The water recedes; the council's cover-up collapses when Lior publishes everything, ledger, photographs, and his own family's guilt, refusing anonymity for the first time in his life. The door is resealed from the outside, and the last line notes the iron is warm. The beat is hard-won, unquiet peace."
+    }
+  ]
+}

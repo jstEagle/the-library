@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08179",
+  "title": "Orsen and the Signal",
+  "author": "Noor Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Juniper Lockridge, an insurance investigator of impossible accidents, has spent seven years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. To get through this, they must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8179
+  }
+}

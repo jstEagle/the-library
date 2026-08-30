@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08176",
+  "title": "Silas and the Machine",
+  "author": "Ansel Nystrom",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ulyana Vane, the last human technician on an automated relay station, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. To get through this, they must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8176
+  }
+}

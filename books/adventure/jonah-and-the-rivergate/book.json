@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00393",
+  "title": "Jonah and the Rivergate",
+  "author": "Rosalind Okonkwo",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Marguerite Yarrow, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. Then a government survey team vanishes, leaving gear and no tracks — and he is pulled straight into the middle of it. To get through this, he must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 393
+  }
+}

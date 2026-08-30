@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03815",
+  "title": "Mara and the Cellar",
+  "author": "Wren Nystrom",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Rosalind Ashgrove, a twin who came home to bury the wrong sibling, has spent ten years telling themselves the noises have explanations. Then the childhood imaginary friend is waiting on the porch, unchanged — and she is pulled straight into the middle of it. To get through this, she must learn the song's last verse without singing along before the frost writes its final pattern.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3815
+  }
+}

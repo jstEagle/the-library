@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07142",
+  "title": "The Protocol of the Kuiper Line",
+  "author": "August Hartwell",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Wendell Villalobos, the last human technician on an automated relay station, has spent ten years hauling cargo through contested orbits. Then the station AI begins confessing to crimes nobody reported — and they are pulled straight into the middle of it. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7142
+  }
+}

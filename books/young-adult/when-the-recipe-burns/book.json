@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09522",
+  "title": "When the Recipe Burns",
+  "author": "Petra Yarrow",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ulyana Lockridge, a baker's kid who bakes feelings into bread, has spent twelve years being so careful it hurts. But when a best friend goes missing, leaving only a set of keys behind, she discovers that staying invisible was never really an option. To get through this, she must tell the truth even if it costs the friendship before graduation.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9522
+  }
+}

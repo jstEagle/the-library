@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07832",
+  "title": "Zephyrine and the Orbit",
+  "author": "Ivo Galloway",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ivo Lockridge, a pilot bonded to an AI that lies, records the slow death of a colony everyone else forgot. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. To get through this, they must keep a lie alive that holds two fleets apart before the fleet's truce expires.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7832
+  }
+}

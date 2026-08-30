@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01145",
+  "title": "When the Salt Sings",
+  "author": "Odile Villalobos",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Ines Hartwell, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. To get through this, he must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "belonging",
+    "found family",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1145
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03075",
+  "title": "Rosalind and the Clock",
+  "author": "Theo Montrose",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Xanthe Iversen, a battlefield nurse keeping a ledger of the names officers omit, has spent twenty years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and he is pulled straight into the middle of it. Now he must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3075
+  }
+}

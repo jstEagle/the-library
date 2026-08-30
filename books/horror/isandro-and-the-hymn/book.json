@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04044",
+  "title": "Isandro and the Hymn",
+  "author": "Mara Nystrom",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Noor Montrose, a property surveyor appraising a house that appraises back, has spent ten years telling themselves the noises have explanations. But when every mirror in the house starts reflecting the room one second late, they discover that staying invisible was never really an option. To get through this, they must return what was taken in 1974 before the well refills.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4044
+  }
+}

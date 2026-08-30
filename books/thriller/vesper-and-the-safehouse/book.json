@@ -1,0 +1,21 @@
+{
+  "id": "THR-09432",
+  "title": "Vesper and the Safehouse",
+  "author": "Odile Brightwater",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Isandro Nakamura, an interpreter attached to a peace delegation destined to fail, has spent seven years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9432
+  }
+}

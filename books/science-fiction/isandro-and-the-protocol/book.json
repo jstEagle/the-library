@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07994",
+  "title": "Isandro and the Protocol",
+  "author": "Orsen Whitlock",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Jude Vasquez, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7994
+  }
+}

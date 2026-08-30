@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06465",
+  "title": "A Bakery for the Promise",
+  "author": "Casper Pemberton",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Wren Kavanagh, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. Then two estranged names appear on the same impossibly stubborn orchard deed — and she is pulled straight into the middle of it. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6465
+  }
+}

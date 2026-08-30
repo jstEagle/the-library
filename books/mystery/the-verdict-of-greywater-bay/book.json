@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04963",
+  "title": "The Verdict of Greywater Bay",
+  "author": "Noor Okafor",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Dominic Thornbury, a night-shift dispatcher for a taxi company, has spent ten years keeping the town's secrets filed and alphabetized. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4963
+  }
+}

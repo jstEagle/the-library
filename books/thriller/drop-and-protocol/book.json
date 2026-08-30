@@ -1,0 +1,21 @@
+{
+  "id": "THR-08738",
+  "title": "Drop and Protocol",
+  "author": "Bram Coldharbour",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Emrys Pemberton, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8738
+  }
+}

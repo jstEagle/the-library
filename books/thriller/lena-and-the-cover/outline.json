@@ -1,0 +1,119 @@
+{
+  "title": "Lena and the Cover",
+  "slug": "thriller/lena-and-the-cover",
+  "model": "stealth/ox-alpha",
+  "premise": "Jonah Ravensworth, a freelance interpreter who handles deniable work for intelligence services, is hired to voice-match a peace delegation's intercepted calls. When a routine voiceprint unlocks a server in Tbilisi, Jonah discovers the delegation's failure has been engineered — and that the deepfake network responsible was trained on their own recorded voice. Hunted by both the agency that hired them and the syndicate that built the model, Jonah teams up with Lena Vartanian, a disgraced signals analyst whose sister was one of the cloned voices. Falling in love while deciding whether to expose or exploit the truth, they race to destroy the training cluster before the checkpoint shift change gives their pursuers a clean window to erase them. In the end, Jonah burns the server and testifies under their real name, choosing identity over cover, while Lena walks away from duty — and toward them.",
+  "about_author": "Hazel Winterbourne is a former conference interpreter turned novelist who spent a decade working behind glass booths in politically fragile capitals. She writes thrillers about people whose professions require them to be no one.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Glass Booth",
+      "summary": "Jonah's POV. Working a tense ceasefire negotiation in Geneva, Jonah notices a delegate's phrasing matches a transcript he translated weeks earlier — word for word, including his own deliberate mistranslation. The beat: professional unease curdling into paranoia as he realizes someone is replaying him."
+    },
+    {
+      "n": 2,
+      "title": "Cases No One Signs For",
+      "summary": "Jonah's POV, flashback-tinged. We learn how deniable interpretation work works: cash, burner phones, contracts with no names. A handler called Marlowe offers a new job — voiceprint verification for a doomed peace delegation. Beat: the seduction and self-contempt of invisible labor."
+    },
+    {
+      "n": 3,
+      "title": "The Delegation Destined to Fail",
+      "summary": "Jonah's POV. Arriving with the delegation, Jonah maps the players and senses the talks are theater; every concession was pre-retracted. He records everything out of habit. Beat: dread disguised as diligence, the first hint this assignment is a trap wearing a lanyard."
+    },
+    {
+      "n": 4,
+      "title": "Voiceprint",
+      "summary": "Lena's POV, introduced. In a Tbilisi data center, analyst Lena Vartanian runs authentication on an incoming voice sample — Jonah's — and it opens a sealed server she was never cleared to see. Inside: cloned voices of delegates, including her dead sister's. Beat: horror and recognition."
+    },
+    {
+      "n": 5,
+      "title": "What the Server Knew",
+      "summary": "Lena's POV. The server contains a synthetic-audio pipeline trained on harvested recordings; the 'leaked' call that will doom the talks is already rendered, scheduled for release. Lena copies fragments to a hidden drive. Beat: the moment loyalty to an institution dies."
+    },
+    {
+      "n": 6,
+      "title": "Two Burners, One Frequency",
+      "summary": "Alternating POV. Lena contacts Jonah using his own cloned voice as proof; Jonah, spooked, verifies her through a phrase only the real transcript contains. They agree to meet in Batumi. Beat: wary alliance between two people trained not to trust."
+    },
+    {
+      "n": 7,
+      "title": "Batumi Rain",
+      "summary": "Dual POV. First meeting in a seaside hotel bar; they trade evidence and scars — her sister Anahit's voice was stolen from refugee archive tapes, Jonah's from delegation recordings. Attraction sparks against mutual suspicion. Beat: intimacy beginning as tradecraft."
+    },
+    {
+      "n": 8,
+      "title": "Marlowe Calls Collect",
+      "summary": "Jonah's POV. Marlowe summons Jonah, reveals the agency knew about the deepfake all along and wants it released to justify hardline policy. Jonah must choose: play along or burn it. Beat: the corrupting offer — safety in exchange for complicity."
+    },
+    {
+      "n": 9,
+      "title": "Anahit's Voice",
+      "summary": "Lena's POV. Listening to her sister's synthesized voice read a fabricated surrender, Lena grieves and rages; flashbacks to Anahit's recording sessions in Yerevan. She decides destruction over exposure. Beat: grief transmuted into purpose."
+    },
+    {
+      "n": 10,
+      "title": "The Checkpoint Clock",
+      "summary": "Dual POV. Reconnaissance establishes the constraint: the Tbilisi facility's access rotates at shift change — a nineteen-minute window, once. Meanwhile both are flagged; border alerts go live. Beat: the ticking clock becomes the novel's spine."
+    },
+    {
+      "n": 11,
+      "title": "Cover Story",
+      "summary": "Jonah's POV. To get close, Jonah reprises an old cover as a contractor auditing the facility's translation software. Inside, he sees racks of voice models — thousands of stolen identities. Beat: vertigo at the scale of the theft; power revealed as pure extraction."
+    },
+    {
+      "n": 12,
+      "title": "The Man Who Owns Every Voice",
+      "summary": "Lena's POV. She identifies the architect: Aurel Sava, a broker who sells authenticity itself — governments, cartels, anyone. A near-miss encounter where Sava compliments her work, unaware. Beat: face-to-face with banal, charming corruption."
+    },
+    {
+      "n": 13,
+      "title": "Safehouse, Unsafe Hearts",
+      "summary": "Dual POV. Laying low before the window, Jonah and Lena stop performing; a quiet scene of confession — why each chose invisible work, what they're afraid to lose. First kiss. Beat: love declared precisely because tomorrow is uncertain."
+    },
+    {
+      "n": 14,
+      "title": "Betrayal in the Booth",
+      "summary": "Jonah's POV. Marlowe leaks Jonah's location to Sava to force the issue — the agency would rather both die than testify. Jonah escapes an ambush meant to look like an accident. Beat: the institution discards its instrument; rage clarifies everything."
+    },
+    {
+      "n": 15,
+      "title": "Nineteen Minutes",
+      "summary": "Dual POV. Planning chapter: they map the window minute by minute — Lena on systems, Jonah on voices, a decoy audio payload to mask the breach. They rehearse until the plan feels inevitable. Beat: calm before the storm, love sharpened into logistics."
+    },
+    {
+      "n": 16,
+      "title": "Shift Change",
+      "summary": "Jonah's POV. The infiltration begins. Jonah uses his own cloned voice to spoof clearance — turning the weapon into a key — while alarms stutter. Halfway in, Sava appears on monitors, speaking to them in Anahit's voice. Beat: violation inside the breach."
+    },
+    {
+      "n": 17,
+      "title": "The Training Cluster",
+      "summary": "Lena's POV. Deep in the server hall, Lena finds the master model and, archived within it, her sister's raw sessions. She begins the purge as Sava's security closes in. Beat: mourning and demolition in the same breath."
+    },
+    {
+      "n": 18,
+      "title": "Burn It All",
+      "summary": "Alternating POV, climax part one. Thermite charges set; Jonah holds the door against Sava's men while Lena triggers the wipe. Sava offers Jonah partnership — every voice, total power. Jonah answers by detonating early. Beat: refusal of corrupted power at gunpoint."
+    },
+    {
+      "n": 19,
+      "title": "Checkpoint",
+      "summary": "Dual POV, climax part two. Escape through the border crossing as the shift changes — guards rotating, alerts firing. Lena is detained; Jonah talks them both through in three languages, spending his last credibility. Beat: the interpreter finally interprets for himself."
+    },
+    {
+      "n": 20,
+      "title": "Testimony",
+      "summary": "Jonah's POV. Before an international inquiry, Jonah sheds every alias and testifies under his true name, handing over the copied fragments. Marlowe falls; the delegation's sabotage is exposed. Beat: identity reclaimed at maximum cost."
+    },
+    {
+      "n": 21,
+      "title": "After the Static",
+      "summary": "Lena's POV. Lena visits Anahit's grave in Yerevan, playing nothing — the silence itself a tribute now that no machine can counterfeit her. She resigns from signals work. Beat: grief finding rest; duty released."
+    },
+    {
+      "n": 22,
+      "title": "Lena and the Cover",
+      "summary": "Dual POV, epilogue. Months later, in a small coastal town, Jonah translates openly for refugees and Lena teaches; a stranger asks Jonah's name and he gives it without flinching. Final image: two unmasked people at a table by the sea. Beat: peace earned, identity chosen."
+    }
+  ]
+}

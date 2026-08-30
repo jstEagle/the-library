@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01667",
+  "title": "A Thorn for the Veil Again",
+  "author": "Dominic Whitlock",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Rosalind Delacroix, a debt-bound temple scribe, has spent fifteen years selling small charms in a city that outlawed magic. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. To get through this, they must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1667
+  }
+}

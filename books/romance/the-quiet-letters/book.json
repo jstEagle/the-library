@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06154",
+  "title": "The Quiet Letters",
+  "author": "Tamsin Crane",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Odile Okonkwo, a ghostwriter secretly penning a rival's memoirs, has spent five years rebuilding a life measured in small safe steps. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6154
+  }
+}

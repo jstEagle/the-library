@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07491",
+  "title": "Orsen and the Static",
+  "author": "Lior Thornbury",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Coral Thornbury, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7491
+  }
+}

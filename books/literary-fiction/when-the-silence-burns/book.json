@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04474",
+  "title": "When the Silence Burns",
+  "author": "Ines Marchetti",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "August Almeida, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. To get through this, she must say goodbye properly, at last, out loud before the mother's memory goes entirely.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4474
+  }
+}

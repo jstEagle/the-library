@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09692",
+  "title": "Vesper and the Semester",
+  "author": "Jonah Dravenmoor",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Noor Lockridge, a baker's kid who bakes feelings into bread, counts days until graduation like a sentence being served. Then the college essay prompt asks one honest question nobody can stop answering — and he is pulled straight into the middle of it. Now he must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9692
+  }
+}

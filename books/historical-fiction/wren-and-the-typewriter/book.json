@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03098",
+  "title": "Wren and the Typewriter",
+  "author": "Paloma Voss",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ines Dunmore, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3098
+  }
+}

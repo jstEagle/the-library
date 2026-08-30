@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01709",
+  "title": "The Drowned Choir",
+  "author": "R. M. Winterbourne",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wendell Amberdale, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1709
+  }
+}

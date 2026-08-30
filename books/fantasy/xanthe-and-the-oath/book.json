@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00958",
+  "title": "Xanthe and the Oath",
+  "author": "Wren Delacroix",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ulyana Zhou, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 958
+  }
+}

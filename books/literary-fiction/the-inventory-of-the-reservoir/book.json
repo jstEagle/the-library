@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04122",
+  "title": "The Inventory of the reservoir",
+  "author": "Tamsin Galloway",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Petra Voss, a bridge inspector measuring the marriage in expansion joints, has spent ten years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. To get through this, he must return to the place where the story went wrong before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "memory",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4122
+  }
+}

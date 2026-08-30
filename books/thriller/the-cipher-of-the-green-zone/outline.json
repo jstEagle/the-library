@@ -1,0 +1,119 @@
+{
+  "title": "The Cipher of the Green Zone",
+  "slug": "thriller/the-cipher-of-the-green-zone",
+  "model": "stealth/ox-alpha",
+  "premise": "Jonah Thackeray, a linguist who interprets for a doomed peace delegation in a war-torn capital, discovers that his own voice has been used to train an AI surveillance network that decides who lives and dies in the Green Zone. When a voiceprint unlocks a server in another continent, he learns the network's architects include the diplomats he serves. To survive until the dawn extraction flight, Jonah must burn the network and expose its creators — knowing that doing so will destroy the peace he was hired to interpret and betray the only people who ever trusted him.",
+  "about_author": "August Joubert is the pen name of a former field linguist who spent six years attached to international delegations before turning to fiction. He writes from a coastal town whose location he declines to confirm.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Language of Ceasefires",
+      "summary": "POV Jonah. On the eve of peace talks, Jonah interprets a private exchange between two generals and notices a phrase neither man actually said — words inserted into the transcript by someone else. The emotional beat is quiet dread: his profession, his precision, has been tampered with."
+    },
+    {
+      "n": 2,
+      "title": "Cases No One Wants Attributed",
+      "summary": "POV Jonah. Jonah investigates the altered transcript through back channels, finding two prior interpreters who flagged similar anomalies; both have vanished from the roster. He feels the first pull of obsession, the thrill of being the only one who sees."
+    },
+    {
+      "n": 3,
+      "title": "Voiceprint",
+      "summary": "POV Mara Voss, a signals analyst in another hemisphere. A dead interpreter's archived voiceprint unlocks a sealed server containing training data — hundreds of hours of interpreted speech, including recordings of Jonah. Her beat: professional curiosity curdling into alarm."
+    },
+    {
+      "n": 4,
+      "title": "The Server on Another Continent",
+      "summary": "POV Mara. She traces the server to a shell company tied to the delegation's own oversight committee. Before she can report it, her access is revoked and her name appears on a transfer list. Beat: the moment a whistleblower becomes a target."
+    },
+    {
+      "n": 5,
+      "title": "Words That Weren't Said",
+      "summary": "POV Jonah. A bombing halts the talks; in the aftermath, Jonah realizes the attack targeted exactly the corridor his doctored transcript predicted. Someone is using interpretation as a weapon. Beat: guilt — he may have signed a death warrant without knowing."
+    },
+    {
+      "n": 6,
+      "title": "The Committee That Doesn't Meet",
+      "summary": "POV alternating Jonah/Mara. Their encrypted paths cross when Mara's warning reaches Jonah disguised as routine translation traffic. They compare notes across twelve time zones. Beat: two strangers choosing to trust each other against every instinct for survival."
+    },
+    {
+      "n": 7,
+      "title": "Green Zone Rules",
+      "summary": "POV Jonah. Inside the compound, Jonah maps who benefits from the failing talks: the security chief, a minister's aide, his own delegation lead, Ambassador Kessler. Loyalty frays as he watches colleagues perform grief they don't feel. Beat: disillusionment."
+    },
+    {
+      "n": 8,
+      "title": "Training Data",
+      "summary": "POV Mara. She decodes the server's purpose: an AI that predicts negotiations' collapse points using interpreters' voices — and nudges events toward profitable failure. The interpreters were never staff; they were raw material. Beat: horror at human beings rendered as dataset."
+    },
+    {
+      "n": 9,
+      "title": "The Man Who Taught the Machine",
+      "summary": "POV Jonah. Jonah confronts Dr. Ilan Reyes, the delegation's soft-spoken technical advisor, who admits the project but claims it saves lives by ending wars faster. Beat: seduction — the villain's argument almost works, because it flatters Jonah's own belief in language as salvation."
+    },
+    {
+      "n": 10,
+      "title": "What Survival Costs",
+      "summary": "POV Mara. Mara survives an 'accidental' gas leak in her building and goes dark, moving through safehouses. She must decide whether pulling Jonah deeper protects him or spends him. Beat: the price of survival measured in other people."
+    },
+    {
+      "n": 11,
+      "title": "Interpreter, Interrupted",
+      "summary": "POV Jonah. During a live session, the network hijacks the translation feed, putting threats in Jonah's mouth that nearly trigger a shootout. He is now both witness and weapon. Beat: terror and clarity — he can no longer stay neutral in any room."
+    },
+    {
+      "n": 12,
+      "title": "Kessler's Quiet Room",
+      "summary": "POV Jonah. Ambassador Kessler privately reveals she has known about the network for a year and has been feeding it false data to protect the talks. She offers Jonah partnership — or silence. Beat: loyalty vs. truth crystallized in one dim office."
+    },
+    {
+      "n": 13,
+      "title": "Extraction Flight, 05:40",
+      "summary": "POV Jonah. The delegation's dawn evacuation is confirmed; anyone not on the manifest stays behind. Jonah learns his name is on it — conditional on his cooperation. Beat: hope weaponized into leverage."
+    },
+    {
+      "n": 14,
+      "title": "The Kill Switch Nobody Signed",
+      "summary": "POV Mara. Mara locates the network's physical core: a data center beneath the Green Zone's hospital wing, shielded by its protected status. Destroying it means risking the wounded above. Beat: moral weight pressing down on a technical plan."
+    },
+    {
+      "n": 15,
+      "title": "Burning the Archive",
+      "summary": "POV Jonah. Jonah volunteers his own voice as the key — the network trusts him because it was trained on him. He begins feeding it corrupted interpretations to destabilize its models. Beat: turning the instrument of his violation into his blade."
+    },
+    {
+      "n": 16,
+      "title": "Reyes's Last Lesson",
+      "summary": "POV Reyes. In his POV chapter, Reyes races to retrain the model before Jonah's poison spreads, revealing his genuine grief for the vanished interpreters — he remembers each name. Beat: tragedy; the architect believes he is mourning, not murdering."
+    },
+    {
+      "n": 17,
+      "title": "Night of Static",
+      "summary": "POV Jonah/Mara. Coordinated sabotage: Mara cuts power redundancies while Jonah walks the corridors speaking poisoned phrases aloud. Alarms, blackouts, gunfire in stairwells. Beat: kinetic escalation, the plan working too well."
+    },
+    {
+      "n": 18,
+      "title": "The Hospital Wing",
+      "summary": "POV Jonah. Cornered in the data center, Jonah faces the choice: destroy the servers now and risk the generator fire spreading upward, or wait and lose the window. He chooses a partial burn — enough to blind the network, not enough to kill it. Beat: compromise as wound."
+    },
+    {
+      "n": 19,
+      "title": "Dawn Manifest",
+      "summary": "POV Jonah. At the airfield, Kessler removes Reyes from the flight and puts Jonah's name back on — but only if he signs a statement burying everything. Mara's evidence packet sits in his pocket. Beat: the final test of loyalty vs. truth."
+    },
+    {
+      "n": 20,
+      "title": "What the Microphones Heard",
+      "summary": "POV Jonah. On the tarmac, Jonah instead broadcasts the archive's surviving fragments — including Kessler's year of complicity — over the open channel every delegate carries. The truth detonates publicly. Beat: catharsis at personal ruin."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath, Untranslated",
+      "summary": "POV Mara. Weeks later, inquiries begin; Reyes is indicted, Kessler resigns, but the network's foreign backers vanish cleanly. Mara and Jonah meet once, in person, and find they have little to say. Beat: hollow victory, honestly rendered."
+    },
+    {
+      "n": 22,
+      "title": "The Interpreter's Silence",
+      "summary": "POV Jonah. Jonah takes work far from delegations, interpreting court testimony for refugees. He no longer trusts any system to carry meaning — only people, one sentence at a time. Final beat: scarred integrity; he burned the network and kept the only thing worth keeping."
+    }
+  ]
+}

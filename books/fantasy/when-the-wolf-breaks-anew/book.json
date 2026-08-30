@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02045",
+  "title": "When the Wolf Breaks Anew",
+  "author": "Elodie Eastwick",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "August Underhill, the last oath-bound swordspeaker, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2045
+  }
+}

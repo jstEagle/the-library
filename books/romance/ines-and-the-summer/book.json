@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06374",
+  "title": "Ines and the Summer",
+  "author": "Astrid Eastwick",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Ines Fairweather, a single parent running the town's only bookshop, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. To get through this, he must say the sentence that has been rehearsed for a decade before the festival ends.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6374
+  }
+}

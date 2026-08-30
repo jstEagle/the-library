@@ -1,0 +1,21 @@
+{
+  "id": "THR-08727",
+  "title": "A Safehouse for the Debt",
+  "author": "Mara Delacroix",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ulyana Oyelaran, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8727
+  }
+}

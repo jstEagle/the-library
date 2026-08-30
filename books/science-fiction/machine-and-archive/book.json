@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07656",
+  "title": "Machine and Archive",
+  "author": "Dominic Whitlock",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Orsen Underhill, a starship navigator haunted by the backups sleeping in the hold, has spent ten years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. To get through this, he must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7656
+  }
+}

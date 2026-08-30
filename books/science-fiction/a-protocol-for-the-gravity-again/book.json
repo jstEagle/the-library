@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08199",
+  "title": "A Protocol for the Gravity Again",
+  "author": "Bram Vasquez",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Theo Thornbury, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. Then an unfamiliar name shows up on the manifest of a ship that never flew — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8199
+  }
+}

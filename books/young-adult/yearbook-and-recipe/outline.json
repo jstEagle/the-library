@@ -1,0 +1,29 @@
+{
+  "title": "Yearbook and Recipe",
+  "slug": "young-adult/yearbook-and-recipe",
+  "model": "stealth/ox-alpha",
+  "premise": "Rosalind Sterling runs an anonymous exposé account that has quietly humiliated teachers and administrators for two years, but he never signs his work. When the school's legendary ghost begins leaving notes in ink that shouldn't exist—addressed to him by name—he realizes someone knows his secret and wants him to finish what they started: exposing the school board's cover-up of a student injury scandal from decades ago. As the notes escalate and the board closes ranks, Rosalind must choose between staying invisible and burning his anonymity to force justice before the last game of the season. In the end, he publishes everything under his own name, discovering that the ghost was the injured student's sister, still working in the school's front office—and that inheritance means choosing which secrets to carry forward.",
+  "about_author": "Jonah Thornbury is a former high school journalism teacher who spent six years watching teenagers weaponize the truth before writing about it. He lives in a small town with one very good diner and one very bad secret of its own.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Ink That Shouldn't Exist",
+      "summary": "POV Rosalind. After his anonymous account posts evidence of a rigged scholarship, Rosalind finds a note in his locker addressed to 'Ros'—written in ink that shifts color and predates the paper it sits on. The ghost story everyone jokes about suddenly feels aimed at him. The beat is dread mixed with reluctant fascination: someone sees him."
+    },
+    {
+      "n": 2,
+      "title": "What the Board Buried",
+      "summary": "POV alternating between Rosalind and Marisol Vega, the front office secretary who watches him too closely. Following the notes' clues into the 1974 archive boxes, Rosalind uncovers a cover-up: a player paralyzed in a game the board blamed on him, then erased. The beat is righteous anger curdling into fear as he realizes how deep the rot goes."
+    },
+    {
+      "n": 3,
+      "title": "Last Game of the Season",
+      "summary": "POV Rosalind. The board, tipped off by a traitor friend, suspends Rosalind and threatens expulsion days before the championship. The ghost's final note gives him the original medical records—but using them means revealing his identity as the account's author. Cornered at the stadium, he uploads everything as the crowd roars. The beat is terror becoming resolve."
+    },
+    {
+      "n": 4,
+      "title": "Signed",
+      "summary": "POV Rosalind, weeks later. The board resigns; the paralyzed player's family finally gets acknowledgment. Marisol reveals herself as the ghost—the sister who stayed silent for fifty years and chose him to break it. Rosalind writes his first signed article. The beat is quiet catharsis: justice outside the law, inherited on purpose."
+    }
+  ]
+}

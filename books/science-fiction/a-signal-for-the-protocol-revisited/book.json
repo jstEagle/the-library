@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08243",
+  "title": "A Signal for the Protocol Revisited",
+  "author": "Lior Thornbury",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Wren Eastwick, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8243
+  }
+}

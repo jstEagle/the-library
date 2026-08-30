@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05510",
+  "title": "Ivo and the Parish",
+  "author": "W. M. Delacroix",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Coral Marchetti, a hotel concierge who notices everything, thought they had seen every way a life can end. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5510
+  }
+}

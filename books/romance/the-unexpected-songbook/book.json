@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06438",
+  "title": "The Unexpected Songbook",
+  "author": "Astrid Blackwood",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Mirabel Okonkwo, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. To get through this, they must say the sentence that has been rehearsed for a decade before the vineyard's first harvest comes in.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6438
+  }
+}

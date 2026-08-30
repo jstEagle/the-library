@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06208",
+  "title": "Garden and Bakery",
+  "author": "Sebastian Winterbourne",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Odile Thornbury, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the vineyard's first harvest comes in.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6208
+  }
+}

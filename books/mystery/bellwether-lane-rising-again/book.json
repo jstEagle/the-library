@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05872",
+  "title": "Bellwether Lane Rising Again",
+  "author": "O. M. Montrose",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ada Vasquez, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. To get through this, they must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5872
+  }
+}

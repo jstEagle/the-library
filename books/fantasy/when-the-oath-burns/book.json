@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00939",
+  "title": "When the Oath Burns",
+  "author": "Astrid Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ada Thackeray, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. To get through this, they must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 939
+  }
+}

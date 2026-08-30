@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00707",
+  "title": "The Last Spire",
+  "author": "Theo Reyes",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Gideon Blackwood, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 707
+  }
+}

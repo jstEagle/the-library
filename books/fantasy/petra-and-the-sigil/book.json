@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01699",
+  "title": "Petra and the Sigil",
+  "author": "August Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Lior Iversen, an exiled storm-caller, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1699
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "A Semester for the Recipe",
+  "slug": "young-adult/a-semester-for-the-recipe",
+  "model": "stealth/ox-alpha",
+  "premise": "Yara Marchetti has survived high school by being nobody: an anonymous coding account, closed-off grades, a locker no one opens. But when her computer science teacher pairs her with Priya Raghavan — the girl whose family lost their restaurant to Yara's uncle's predatory development deal — for a semester project archiving disappearing neighborhood recipes, the two enemies are forced into proximity. As they code a recipe-preservation app and chase a state hackathon championship, they uncover that the 'condemnation' notices shuttering local kitchens are forged, and the anonymous account Yara built to vent becomes the only weapon that can prove it. In the end they lose the hackathon but win something bigger: the recipes, the restaurants, and each other's trust — though Yara must sacrifice her invisibility forever to do it.",
+  "about_author": "Noor Fairweather is a former community-college writing tutor who grew up above her grandmother's bakery in a neighborhood that no longer exists. She writes stories about teenagers who discover that memory is a form of resistance.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Locker Shut",
+      "summary": "Yara's POV. We meet her rules of invisibility: head down, grades up, locker shut. Her anonymous account @marchettinone posts coded complaints about school and town she'd never say aloud. When a teacher announces semester pairs, Yara's name lands next to Priya Raghavan's. Beat: dread disguised as indifference."
+    },
+    {
+      "n": 2,
+      "title": "The Girl Who Hates Me",
+      "summary": "Priya's POV. Priya recognizes Yara's surname instantly — Marchetti Development gutted her family's restaurant, Saffron House, two years ago. She requests a partner switch; the teacher refuses. First forced meeting is all barbed politeness. Beat: fury held behind a tight smile."
+    },
+    {
+      "n": 3,
+      "title": "Project Parameters",
+      "summary": "Dual POV alternating. The teacher assigns them to build a digital archive of the neighborhood's vanishing family recipes. Yara wants pure code; Priya insists on interviews with cooks. They negotiate a fragile contract: Yara builds, Priya talks. Beat: grudging professional truce."
+    },
+    {
+      "n": 4,
+      "title": "Mrs. Okafor's Jollof",
+      "summary": "Priya's POV. First interview: retired cafeteria cook Mrs. Okafor, whose jollof recipe was never written down. Watching Priya record every gesture, Yara realizes recipes are memory made edible. That night @marchettinone posts something almost tender. Beat: first crack in Yara's armor."
+    },
+    {
+      "n": 5,
+      "title": "Condemned",
+      "summary": "Yara's POV. Interviewing at the last remaining diner, they find a city condemnation notice taped to the door — the third this month. Priya goes cold; her family got one too, once. Yara notices the document's formatting looks off. Beat: unease planted like a seed."
+    },
+    {
+      "n": 6,
+      "title": "The Hackathon Flyer",
+      "summary": "Priya's POV. The state youth hackathon offers prize money and press coverage. Priya signs them up without asking; Yara is furious about the exposure. Their fight spills real grievances — Yara finally says 'I didn't choose my uncle.' Priya doesn't believe her. Beat: rupture before repair."
+    },
+    {
+      "n": 7,
+      "title": "What My Account Knows",
+      "summary": "Yara's POV. Alone, Yara reviews her anonymous archive: months of screenshots, permit numbers, complaint threads she collected out of boredom or guilt. She realizes she may already hold evidence about the condemnation pattern. She tells no one. Beat: guilt curdling into purpose."
+    },
+    {
+      "n": 8,
+      "title": "Sunday at Saffron House",
+      "summary": "Dual POV. Priya's mother lets them cook in the shuttered restaurant's back kitchen. Making her grandmother's cardamom cake together, hands dusted in flour, the enmity thaws. Priya admits she never actually blamed Yara — she blamed the silence around her. Beat: warmth neither will name."
+    },
+    {
+      "n": 9,
+      "title": "Version Control",
+      "summary": "Yara's POV. Building the app, Yara embeds a hidden feature: the archive cross-references condemnation records against property filings. It flags eleven anomalies. She shows Priya, who goes very still: every flagged building belongs to a family who refused to sell to Marchetti Development. Beat: shared secret, shared stakes."
+    },
+    {
+      "n": 10,
+      "title": "The Uncle",
+      "summary": "Priya's POV. Sunday dinner at the Marchetti home; Yara's uncle Marco is charming, generous, terrifying. He praises the girls' project while mentioning, lightly, how hard it is for small businesses these days. Afterward Yara confesses she's been documenting him for a year. Beat: fear and loyalty colliding."
+    },
+    {
+      "n": 11,
+      "title": "Anonymous No More",
+      "summary": "Yara's POV. Yara shows Priya @marchettinone — the account, the archive, everything. Priya realizes the 'anonymous whistleblower' the neighborhood forums speculate about has been beside her all semester. Trust is rebuilt on radical honesty. Beat: the locker finally opens."
+    },
+    {
+      "n": 12,
+      "title": "Deadline Pressure",
+      "summary": "Dual POV. Two weeks to the hackathon; the app needs polish, the evidence needs verification, and midterms loom. Sleep-deprived crunch montage: energy drinks, whiteboards, Mrs. Okafor feeding them. A near-miss when Marco nearly sees the flagged database open on Yara's laptop. Beat: rising pressure, tightening bonds."
+    },
+    {
+      "n": 13,
+      "title": "The Leak",
+      "summary": "Priya's POV. Someone reports their 'unauthorized access' to school administration. Their teacher defends them, but the project is put under review — if it fails inspection, no hackathon. Yara suspects Marco's lawyer. For the first time, Priya publicly stands up for Yara. Beat: solidarity under fire."
+    },
+    {
+      "n": 14,
+      "title": "Grandmother's Ledger",
+      "summary": "Yara's POV. Yara finds her late grandmother's old ledger: handwritten recipes annotated with payments Marco made restaurant owners to leave — including Saffron House. Her grandmother knew, and kept receipts. Yara grieves and rages at once. Beat: inheritance redefined as burden and gift."
+    },
+    {
+      "n": 15,
+      "title": "Verification",
+      "summary": "Dual POV. With Priya's journalist cousin, they authenticate the ledger and match it to the digital anomalies. Eleven forged condemnations, one signature pattern. They draft a disclosure plan timed for after the hackathon — publicity would amplify both. Beat: the plan crystallizes; so does the danger."
+    },
+    {
+      "n": 16,
+      "title": "Offered a Way Out",
+      "summary": "Yara's POV. Marco privately offers Yara a paid internship and a hint he knows what she's been doing — framed as family protecting family. He gives her until after the weekend to delete 'whatever nonsense' she's collecting. Beat: temptation, threat, and love braided together."
+    },
+    {
+      "n": 17,
+      "title": "The Night Before",
+      "summary": "Priya's POV. Final debugging session turns into confession night: Priya admits she used Yara's guilt as a weapon early on; Yara admits she almost took the internship. They finish the app at 4 a.m., naming its release build after the demolished restaurants. Beat: forgiveness as a choice, not a feeling."
+    },
+    {
+      "n": 18,
+      "title": "Championship Round",
+      "summary": "Dual POV. At the state hackathon, their presentation stuns the judges — but a rival team with corporate sponsorship edges them out on 'market viability.' Second place. Prize money gone, press minimal. Yara feels the plan collapse; Priya grips her hand: 'We didn't need them.' Beat: bitter loss, defiant resolve."
+    },
+    {
+      "n": 19,
+      "title": "Going Public",
+      "summary": "Yara's POV. Instead of retreating, Yara publishes everything under her real name — the ledger scans, the database, a letter beginning 'My family did this.' The post detonates across the district overnight. Marco calls once; she doesn't answer. Beat: terror and liberation in the same breath."
+    },
+    {
+      "n": 20,
+      "title": "Consequences",
+      "summary": "Priya's POV. Fallout week: state investigators open an inquiry, Marco's company stalls, some neighbors blame Yara for the jobs at risk, others bring food to her door. School suspends nothing; the teacher quietly enters their project in a civic-tech showcase instead. Beat: justice arriving messy, incomplete, real."
+    },
+    {
+      "n": 21,
+      "title": "Reopening Day",
+      "summary": "Dual POV. Condemnations rescinded, Saffron House reopens with a soft launch — the app live on every table, diners reading the recipes' histories aloud. Mrs. Okafor caters. Marco does not come. Yara and Priya stand in the kitchen doorway, flour-dusted again, laughing. Beat: belonging earned, not granted."
+    },
+    {
+      "n": 22,
+      "title": "Head Up, Grades Up, Locker Open",
+      "summary": "Yara's POV, epilogue-adjacent. Summer begins. Yara writes a new first post under her real name: not a complaint but a promise. Priya texts a photo of the full reservation book. Yara closes her locker — gently, deliberately — and walks toward the light. Beat: quiet triumph; invisibility traded for voice."
+    }
+  ]
+}

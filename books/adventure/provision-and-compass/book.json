@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00224",
+  "title": "Provision and Compass",
+  "author": "Paloma Okafor",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Isandro Ishikawa, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. Now they must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 224
+  }
+}

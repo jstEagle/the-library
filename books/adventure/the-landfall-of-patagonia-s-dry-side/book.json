@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00333",
+  "title": "The Landfall of Patagonia's dry side",
+  "author": "Rosalind Almeida",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Paloma Dunmore, a storm chaser who owes money to dangerous optimists, knows the wilderness forgives nothing and forgets less. Then a government survey team vanishes, leaving gear and no tracks — and he is pulled straight into the middle of it. Now he must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 333
+  }
+}

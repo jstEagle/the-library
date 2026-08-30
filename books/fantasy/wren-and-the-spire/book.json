@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01996",
+  "title": "Wren and the Spire",
+  "author": "E. M. Blackwood",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Lior Vasquez, a royal food-taster building immunity one dish at a time, has spent twenty years selling small charms in a city that outlawed magic. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1996
+  }
+}

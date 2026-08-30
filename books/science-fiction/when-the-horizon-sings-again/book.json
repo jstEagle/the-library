@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08393",
+  "title": "When the Horizon Sings Again",
+  "author": "Petra Ishikawa",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Freya Lockridge, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8393
+  }
+}

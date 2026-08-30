@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06739",
+  "title": "Tamsin and the Bakery",
+  "author": "Gideon Yarrow",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Emrys Dravenmoor, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. But when a lost letter surfaces, postmarked eleven years ago, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the vineyard's first harvest comes in.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6739
+  }
+}

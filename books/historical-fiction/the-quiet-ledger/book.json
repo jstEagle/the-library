@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02884",
+  "title": "The Quiet Ledger",
+  "author": "Coral Zhou",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Noor Villalobos, a widowed lighthouse keeper during the year of the great storms, measures the world in what can be carried when the orders come. But when the bridge — the only road out — closes for the season, he discovers that staying invisible was never really an option. Now he must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2884
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03590",
+  "title": "Hymn and Winter",
+  "author": "Theo Fairweather",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Mara Vane, a radio host taking calls from listeners who died last week, has spent twelve years telling themselves the noises have explanations. Then the village's church bell rings although the bell was melted down in 1911 — and she is pulled straight into the middle of it. Now she must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3590
+  }
+}

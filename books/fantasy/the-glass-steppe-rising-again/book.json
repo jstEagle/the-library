@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02249",
+  "title": "the Glass Steppe Rising Again",
+  "author": "L. M. Nakamura",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Wren Brightwater, the last oath-bound swordspeaker, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2249
+  }
+}

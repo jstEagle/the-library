@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07638",
+  "title": "Vesper and the Colony",
+  "author": "Kestrel Blackwood",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Noor Blackwood, a clone who inherited the original's murder case, has spent three years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, she discovers that staying invisible was never really an option. To get through this, she must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "belonging",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7638
+  }
+}

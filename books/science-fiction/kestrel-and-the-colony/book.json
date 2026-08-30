@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07081",
+  "title": "Kestrel and the Colony",
+  "author": "Freya Eriksen",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Isandro Crane, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. To get through this, she must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7081
+  }
+}

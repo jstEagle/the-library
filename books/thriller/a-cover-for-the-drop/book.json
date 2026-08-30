@@ -1,0 +1,21 @@
+{
+  "id": "THR-09233",
+  "title": "A Cover for the Drop",
+  "author": "Ansel Villalobos",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Silas Brightwater, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9233
+  }
+}

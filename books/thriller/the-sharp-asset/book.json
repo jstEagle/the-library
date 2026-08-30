@@ -1,0 +1,21 @@
+{
+  "id": "THR-08416",
+  "title": "The Sharp Asset",
+  "author": "Noor Hartwell",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Marguerite Amberdale, a whistle-blower living under four names, hasn't slept through the night since the incident. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. To get through this, they must burn the network that did the training before the border checkpoint shifts change.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8416
+  }
+}

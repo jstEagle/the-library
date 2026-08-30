@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03177",
+  "title": "When the Visitor Wakes",
+  "author": "Felix Lockridge",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Wren Marchetti, a pest controller called to something with fingerprints, keeps the lights on and the doors counted. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. Now they must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3177
+  }
+}

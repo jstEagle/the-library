@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00557",
+  "title": "Quentin and the Current",
+  "author": "S. M. Thackeray",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mirabel Underhill, a salvage diver working a wreck the navy won't discuss, has spent ten years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 557
+  }
+}

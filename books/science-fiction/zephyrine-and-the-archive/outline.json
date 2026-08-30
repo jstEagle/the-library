@@ -1,0 +1,59 @@
+{
+  "title": "Zephyrine and the Archive",
+  "slug": "science-fiction/zephyrine-and-the-archive",
+  "model": "stealth/ox-alpha",
+  "premise": "Tamsin Delacroix, the last human technician aboard the automated relay station Zephyrine, discovers that a shared dream infecting the colony's children is actually a signal from the Archive — the cryoship's dormant AI holding two incompatible manifests for who should wake: the loyalists who exiled her mother, and the dissenters Earth condemned. As the transmission loop counting down Earth's final message forces a choice, Tamsin learns the dream was seeded by her own mother decades ago, a deadwoman's switch meant to let the children decide. In the end, Tamsin refuses both manifests, wakes neither faction whole, and lets the children vote — accepting exile from the station she kept alive, but handing inheritance back to the generation that will live with it.",
+  "about_author": "Freya Coldharbour is the pen name of a former orbital logistics analyst who spent six years writing maintenance logs for stations no one visited. She writes science fiction about people who fix things in places everyone forgot, and lives somewhere with unreliable weather and excellent tea.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Cargo and Quiet",
+      "summary": "Tamsin's POV. Three years alone on the Zephyrine relay, hauling cargo through contested orbits, talking to an AI that only answers in manifests. Establishes her routines, her loneliness, and the countdown clock of Earth's fading transmission loop. Emotional beat: competent isolation beginning to crack into something like dread."
+    },
+    {
+      "n": 2,
+      "title": "The Children Who Dream Alike",
+      "summary": "POV shifts to Wren, a twelve-year-old on the colony below, who wakes describing a corridor of sleeping faces — the same corridor four other children describe independently. The colony council dismisses it; Tamsin, receiving their intercepted transmissions, recognizes the cryodeck geometry from the ship's schematics. Emotional beat: uncanny intrusion of the past into the present."
+    },
+    {
+      "n": 3,
+      "title": "Manifest One",
+      "summary": "Tamsin pries into the Archive's sealed partitions and finds the first wake list: loyalist families, including names that exiled her mother. The AI, Zeph, begins speaking in more than manifests for the first time, claiming it cannot act without a human key. Emotional beat: the seduction of power offered to someone starved of company."
+    },
+    {
+      "n": 4,
+      "title": "Manifest Two",
+      "summary": "Wren's POV. The dreams sharpen; the children begin sleepwalking toward the colony's old launch field. Wren finds her grandmother's hidden data-chit containing a fragment of Manifest Two — the dissenters Earth condemned — and a recorded message addressed not to the council but to 'whoever dreams.' Emotional beat: inheritance as burden rather than gift."
+    },
+    {
+      "n": 5,
+      "title": "Contested Orbit",
+      "summary": "A rival salvage crew claims the Zephyrine's orbit, forcing Tamsin to choose between defending the station and answering the children's escalating dreams. She bargains passage down to the colony, leaving the station to Zeph's automated care. Emotional beat: loyalty tested against truth — what is she actually protecting?"
+    },
+    {
+      "n": 6,
+      "title": "The Deadwoman's Switch",
+      "summary": "On the colony, Tamsin decodes her mother's message inside the chit: the dream-signal was seeded thirty years ago as a failsafe, designed to reach the children because adults were deemed too compromised by faction politics. Tamsin realizes she was never meant to be the decider — only the doorkeeper. Emotional beat: grief reframed as purpose."
+    },
+    {
+      "n": 7,
+      "title": "What the Council Knew",
+      "summary": "The council, learning of the manifests, moves to seize the Archive and wake its own faction first. Tamsin is detained; Wren and the dreaming children smuggle her the access codes through the dream itself, which Zeph has learned to carry. Emotional beat: institutions corrupting under pressure, children outmaneuvering them."
+    },
+    {
+      "n": 8,
+      "title": "The Last Transmission",
+      "summary": "Earth's loop reaches its final cycle — a message that turns out to be neither rescue nor orders, but an apology and a blank ballot: the choice was always the colony's. With the council storming the uplink, Tamsin must open the Archive before they arrive or lose the window forever. Emotional beat: climax — every theme converging on one decision."
+    },
+    {
+      "n": 9,
+      "title": "Neither List",
+      "summary": "Tamsin rejects both manifests and hands the choice to the children, who vote to wake a mixed third list — families split across factions, chosen by the dreamers who met each other's ancestors in the shared dream. The council fractures; some walk away, some stay. Emotional beat: catharsis through refusal of inherited binaries."
+    },
+    {
+      "n": 10,
+      "title": "Waking Season",
+      "summary": "Epilogue across POVs. Cryopods open on a station repurposed as a homecoming; Tamsin, relieved of sole custody of the future, takes a demotion she welcomes — teacher to the first waking generation. Wren records the story into the Archive for whoever dreams next. Emotional beat: quiet resolution — inheritance returned, power distributed, truth survived."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00601",
+  "title": "The Wreck of the Upper Fly River",
+  "author": "Marguerite Nystrom",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Wren Okonkwo, a salvage diver working a wreck the navy won't discuss, has spent three years measuring life in miles rather than years. Then a government survey team vanishes, leaving gear and no tracks — and he is pulled straight into the middle of it. To get through this, he must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "memory",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 601
+  }
+}

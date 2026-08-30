@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02246",
+  "title": "The Hollow of the Glass Steppe Again",
+  "author": "Jonah Lockridge",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Gideon Crane, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. To get through this, he must steal back a soul sold to the court beneath the mountain before the moon completes its thirteenth turn.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2246
+  }
+}

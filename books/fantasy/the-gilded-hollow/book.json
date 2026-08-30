@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00798",
+  "title": "The Gilded Hollow",
+  "author": "Wendell Whitlock",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Jude Dravenmoor, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 798
+  }
+}

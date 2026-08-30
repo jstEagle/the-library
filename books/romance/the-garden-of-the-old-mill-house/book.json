@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06702",
+  "title": "The Garden of the Old Mill House",
+  "author": "Z. M. Ishikawa",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ivo Blackwood, a cellist recovering from one catastrophic final performance, has spent seven years rebuilding a life measured in small safe steps. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. To get through this, he must forgive the person in the mirror first before the festival ends.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6702
+  }
+}

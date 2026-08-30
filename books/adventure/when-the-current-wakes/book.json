@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00193",
+  "title": "When the Current Wakes",
+  "author": "Lena Yarrow",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Hazel Sandoval, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. Then an expedition upriver stops answering the radio — and they are pulled straight into the middle of it. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 193
+  }
+}

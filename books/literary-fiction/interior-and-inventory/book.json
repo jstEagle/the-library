@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04800",
+  "title": "Interior and Inventory",
+  "author": "Kestrel Thackeray",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 3.6,
+  "blurb": "Casper Brightwater, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, she discovers that staying invisible was never really an option. To get through this, she must ask the question the whole family arranged itself around before the mother's memory goes entirely.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4800
+  }
+}

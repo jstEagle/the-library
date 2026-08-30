@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06066",
+  "title": "The Kitchen of Sandpiper Point",
+  "author": "Tamsin Quintana",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Cyrus Villalobos, a single parent running the town's only bookshop, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. To get through this, they must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6066
+  }
+}

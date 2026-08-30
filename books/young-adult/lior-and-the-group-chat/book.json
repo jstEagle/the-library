@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09548",
+  "title": "Lior and the Group Chat",
+  "author": "Ines Marchetti",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Gideon Amberdale, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. But when a best friend goes missing, leaving only a set of keys behind, they discover that staying invisible was never really an option. Now they must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9548
+  }
+}

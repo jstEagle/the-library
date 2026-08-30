@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02152",
+  "title": "When the Oath Wakes Again",
+  "author": "Ivo Whitlock",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Tamsin Eastwick, the last oath-bound swordspeaker, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2152
+  }
+}

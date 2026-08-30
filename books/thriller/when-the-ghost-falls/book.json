@@ -1,0 +1,21 @@
+{
+  "id": "THR-08722",
+  "title": "When the Ghost Falls",
+  "author": "Jude Dravenmoor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Marguerite Coldharbour, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. To get through this, they must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8722
+  }
+}

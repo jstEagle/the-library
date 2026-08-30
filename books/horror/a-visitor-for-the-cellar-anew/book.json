@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03979",
+  "title": "A Visitor for the Cellar Anew",
+  "author": "Beatrix Fairweather",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Elodie Villalobos, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. But when the excavation crew unearths a door, sealed from the inside, he discovers that staying invisible was never really an option. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3979
+  }
+}

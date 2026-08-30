@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00613",
+  "title": "Current and Horizon",
+  "author": "B. M. Blackwood",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Odile Okafor, an archaeologist's estranged child and better digger, carries a compass, a debt, and very little else. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. To get through this, they must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 613
+  }
+}

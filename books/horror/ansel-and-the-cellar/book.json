@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03727",
+  "title": "Ansel and the Cellar",
+  "author": "Beatrix Delacroix",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Oscar Galloway, the new teacher at a school with a missing-class problem, has spent ten years telling themselves the noises have explanations. Then the childhood imaginary friend is waiting on the porch, unchanged — and she is pulled straight into the middle of it. To get through this, she must finish the ritual the founders started before the well refills.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3727
+  }
+}

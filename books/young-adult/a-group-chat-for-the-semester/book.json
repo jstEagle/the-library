@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09992",
+  "title": "A Group Chat for the Semester",
+  "author": "Casper Ravensworth",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Felix Crane, the eldest sibling raising the younger ones while mom works nights, stays under the radar: head down, grades up, locker shut. Then the college essay prompt asks one honest question nobody can stop answering — and they are pulled straight into the middle of it. To get through this, they must win the championship that doesn't matter — and the one that does before the last game of the season.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9992
+  }
+}

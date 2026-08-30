@@ -1,0 +1,59 @@
+{
+  "title": "August and the Contact",
+  "slug": "thriller/august-and-the-contact",
+  "model": "stealth/ox-alpha",
+  "premise": "Oscar Okafor, a Lagos-born financial-crimes investigator exiled to a quiet London desk after a raid that left his partner dead, is pulled back into the field when an anonymous voiceprint — unmistakably his dead partner's voice — unlocks a shell-company server in Mauritius. The server holds proof that the 'clean' money he's been auditing launders a trafficking network protected by the very agency that cleared him. Hunted by both the network and his own employers, Oscar must trade the only copy of the evidence for the life of the whistleblower who recorded it, discovering the voiceprint was bait designed to flush out whoever still cares about justice. In the end, Oscar chooses exposure over survival, releasing the files publicly and accepting arrest, but ensuring the network burns and the whistleblower escapes.",
+  "about_author": "Ansel Okonkwo is the pen name of a former compliance analyst who spent six years tracing illicit flows across West African and offshore banking systems before turning to fiction. They write thrillers about ordinary professionals forced to discover what their institutions were really built on.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Ledger",
+      "summary": "POV: Oscar. Six months after the raid that killed his partner Chidi, Oscar grinds through routine audits in London, insomniac and hollow, when he notices a pattern of impossibly clean transactions routed through a Mauritius shell company. The emotional beat is numbness cracking into unease — the first flicker of purpose since the incident."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "POV: Oscar. A encrypted file arrives containing a voice sample that biometric analysis matches to Chidi — dead six months. It unlocks the Mauritius server remotely, revealing ledgers linking the network to Oscar's own agency. He realizes someone wanted him to find this. The beat: grief weaponized into dread."
+    },
+    {
+      "n": 3,
+      "title": "The Handler Who Wasn't",
+      "summary": "POV: Oscar. His supervisor, Marlowe, offers to 'handle' the discovery off-book, but Oscar detects rehearsed language and realizes Marlowe may be inside the network. He copies the evidence to a hidden drive and goes dark. Beat: paranoia sharpening into resolve as trust collapses."
+    },
+    {
+      "n": 4,
+      "title": "Amara",
+      "summary": "POV: Amara Nwosu, a Mauritian data engineer and the whistleblower who faked Chidi's voiceprint using archived recordings. She reveals she needed someone with standing to expose the files — and chose Oscar because he once refused a bribe. Beat: reluctant alliance; belonging offered by a stranger."
+    },
+    {
+      "n": 5,
+      "title": "Interpolated",
+      "summary": "POV: alternating Oscar/Amara. The network flags them; an Interpol red notice brands Oscar a fugitive, cutting off every legal avenue. A safehouse in Port Louis is compromised minutes after they leave. Beat: the law itself becomes the threat — justice must live outside it now."
+    },
+    {
+      "n": 6,
+      "title": "What Chidi Knew",
+      "summary": "POV: Oscar. Decoding deeper layers of the server, Oscar finds Chidi's own investigation logs: his partner had discovered the network before the raid and was silenced. The 'incident' was not friendly fire but an execution Oscar unknowingly survived. Beat: guilt transmuted into fury."
+    },
+    {
+      "n": 7,
+      "title": "The Trade",
+      "summary": "POV: Amara. The network captures Amara's brother and offers a trade: the only complete copy of the evidence for his life — and hers. Oscar argues they can't negotiate with people who execute partners. Beat: the price of survival made literal; love versus principle."
+    },
+    {
+      "n": 8,
+      "title": "Marlowe's Confession",
+      "summary": "POV: Oscar. Cornered, Marlowe surfaces — not as villain but as another coerced insider, revealing the agency director built the laundering architecture years ago and that Chidi died trying to reach Oscar with it. Beat: the enemy has a face and a history; moral ground shifts beneath everyone."
+    },
+    {
+      "n": 9,
+      "title": "Everything Worth Killing For",
+      "summary": "POV: alternating. Climax at a decommissioned sugar mill: the exchange collapses into violence, Marlowe dies buying Oscar seconds, and Oscar faces the choice — trade the drive for Amara or broadcast it. He uploads everything live while the network closes in. Beat: sacrifice as the only clean transaction left."
+    },
+    {
+      "n": 10,
+      "title": "After the Noise",
+      "summary": "POV: Oscar, weeks later. Arrested and awaiting trial, Oscar watches arrests cascade across three continents as the files detonate. Amara and her brother are gone to safety; Chidi's name is cleared. Oscar sleeps through the night for the first time. Beat: costly peace — justice achieved, survival redefined."
+    }
+  ]
+}

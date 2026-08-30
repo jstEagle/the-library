@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05410",
+  "title": "The Late Autopsy",
+  "author": "Emrys Yarrow",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Jude Nystrom, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. To get through this, they must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5410
+  }
+}

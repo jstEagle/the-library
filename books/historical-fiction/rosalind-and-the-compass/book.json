@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02553",
+  "title": "Rosalind and the Compass",
+  "author": "Orsen Okonkwo",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Jonah Vane, a battlefield nurse keeping a ledger of the names officers omit, measures the world in what can be carried when the orders come. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. Now he must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2553
+  }
+}

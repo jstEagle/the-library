@@ -1,0 +1,59 @@
+{
+  "title": "The Long Terminal Again",
+  "slug": "science-fiction/the-long-terminal-again",
+  "model": "stealth/ox-alpha",
+  "premise": "Silas Crane, a clone of the murdered detective Silas Crane, has spent eleven years tending a derelict beacon at the edge of the Halcyon system, hiding from the corporate tribunal that erased her original's final case: the Meridian Station massacre. When gravity stutters for nine seconds across the whole system, she finds a hidden data cache in the beacon's foundation—evidence the massacre happened, planted by her original before his death. Pursued by an Adjuster sent to silence her, and aided by Wren, a smuggler who loved the original and slowly comes to love the copy, Silas must broadcast the truth through the jump gate before its window closes, knowing transmission means her own termination. She sends it, survives by becoming someone neither the original nor the corporation ever planned for, and chooses to keep living as herself.",
+  "about_author": "Beatrix Sterling is the pen name of a former orbital logistics analyst who writes science fiction about people the future forgot to schedule. Her work explores inherited guilt, bureaucratic erasure, and the stubborn mathematics of love.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds",
+      "summary": "Silas's POV. Routine beacon maintenance is shattered when gravity flickers system-wide for exactly nine seconds, cracking her station's hull plating and her carefully maintained anonymity. Among the damage she finds a sealed compartment that shouldn't exist. Emotional beat: dread—the life she built is already over, she just doesn't know how yet."
+    },
+    {
+      "n": 2,
+      "title": "The Original's Hands",
+      "summary": "Silas's POV, with flashbacks. Inside the compartment: a physical data core labeled in her original's handwriting, plus a note addressed to 'whoever they grew next.' She begins decrypting it while rationing air after the power failure. Emotional beat: uncanny grief—reading a dead man's instructions written for you."
+    },
+    {
+      "n": 3,
+      "title": "Wren at the Airlock",
+      "summary": "Wren's POV. A smuggling run detours to the beacon after the gravity event; Wren recognizes the station and, when Silas opens the lock, the face of a man he buried twelve years ago. Tense negotiation; he agrees to sell her passage in exchange for answers. Emotional beat: disorientation turning into reluctant protectiveness."
+    },
+    {
+      "n": 4,
+      "title": "What the Records Say",
+      "summary": "Silas's POV. The decrypted core contains sensor logs, testimony fragments, and casualty manifests for Meridian Station—a massacre of four hundred people that every official archive insists never occurred. Cross-checking against the beacon's own passive arrays confirms it. Emotional beat: cold fury hardening into purpose."
+    },
+    {
+      "n": 5,
+      "title": "The Adjuster Arrives",
+      "summary": "Adjuster Voss's POV. Dispatched by the Cartel Tribunal to investigate the gravity anomaly, Voss traces the beacon's anomalous power draw and requests docking clearance. Silas watches the approach on sensors, deciding whether to run or hide. Emotional beat: claustrophobic suspense—the hunter is polite, patient, and certain."
+    },
+    {
+      "n": 6,
+      "title": "Jump Window Mathematics",
+      "summary": "Wren's POV. Wren calculates the jump gate's closing window: nineteen days, then nothing for a decade. Broadcasting the evidence requires the beacon's transmitter, which means revealing its location—and hers. First real argument between them about whether truth is worth a life. Emotional beat: intimacy forged under deadline."
+    },
+    {
+      "n": 7,
+      "title": "The Massacre, Reconstructed",
+      "summary": "Silas's POV. Deep in the core, she finds her original's investigation notes and realizes he was killed not for what he knew but for what he was about to publish—and that the clone program itself was the cover-up's contingency. She understands she was made to be found and deleted. Emotional beat: identity crisis—who is she if she was manufactured as bait?"
+    },
+    {
+      "n": 8,
+      "title": "Docking Clearance",
+      "summary": "Alternating Silas/Voss POV. Voss boards under pretext of inspection; Silas plays the lonely caretaker while Wren preps the transmitter off-grid. A cat-and-mouse tour of the station where each lie tightens the noose. Voss leaves—but leaves a tracer. Emotional beat: terror masked as small talk."
+    },
+    {
+      "n": 9,
+      "title": "The Broadcast",
+      "summary": "Climax. Silas's POV. With hours before the window closes and Voss returning with enforcement, Silas overrides the beacon's failsafes and transmits the full massacre record through the jump gate in a single burst as Voss breaches the station. Wren holds the door; the signal escapes. Emotional beat: sacrificial triumph—she expects to die transmitting."
+    },
+    {
+      "n": 10,
+      "title": "Whoever They Grew Next",
+      "summary": "Resolution. Silas's POV, epilogue voice. The broadcast spreads faster than the Cartel can suppress it; tribunals fracture, Voss is recalled, and Silas—legally nobody—chooses not to disappear again. She and Wren leave the beacon burning behind them, carrying the original's unfinished case files toward whatever comes next. Emotional beat: quiet rebirth—she is no one's copy and no one's bait."
+    }
+  ]
+}

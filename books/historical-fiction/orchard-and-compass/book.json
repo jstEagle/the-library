@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02640",
+  "title": "Orchard and Compass",
+  "author": "T. M. Underhill",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Marguerite Lockridge, a pearl diver's child indentured to a trading company, has spent fifteen years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the century turns.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2640
+  }
+}

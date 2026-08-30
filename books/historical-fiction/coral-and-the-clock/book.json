@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02573",
+  "title": "Coral and the Clock",
+  "author": "Vesper Vasquez",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Wendell Vasquez, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent five years learning which silences keep people safe. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, they discover that staying invisible was never really an option. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2573
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07404",
+  "title": "Mara and the Archive",
+  "author": "Sable Brightwater",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Sebastian Ashgrove, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7404
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Mixtape and Yearbook",
+  "slug": "young-adult/mixtape-and-yearbook",
+  "model": "stealth/ox-alpha",
+  "premise": "Kestrel Sterling has spent four years at Marrow Creek High as the anonymous voice behind @yearbookghost, an account that posts eerily accurate secrets about students and staff. When her senior English class is assigned a college essay answering 'What truth have you been keeping?', Kestrel writes about the 2019 fire that closed the east wing—and realizes the official story doesn't match the maintenance logs she can hack. As she digs, she discovers the fire covered up asbestos the school board knowingly ignored, and that a beloved teacher's death was tied to his whistleblowing. With graduation looming and her anonymous identity unraveling, Kestrel must choose between publishing the evidence and protecting the found family of misfits who've become her first real home. In the end she publishes under her own name at graduation, trading invisibility for accountability—and discovering that being known was what she wanted all along.",
+  "about_author": "Sable Eastwick is a former high school debate coach who spent a decade listening to teenagers say the truest things in the quietest rooms. She writes from a converted garage in Oregon, surrounded by other people's yearbooks.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Ghost Account",
+      "summary": "Kestrel's POV. We meet @yearbookghost through its greatest hit: predicting a teacher's resignation before it happens. Kestrel runs the account from a closet-sized server nook, invisible by design. Emotional beat: the lonely thrill of omniscience without intimacy—she knows everyone and is known by no one."
+    },
+    {
+      "n": 2,
+      "title": "One Hundred Twelve Days",
+      "summary": "Kestrel's POV. Graduation countdown begins; her foster placement ends when she turns eighteen, so senior year is a sentence with a hard stop date. Her code club—the only people who tolerate her—drags her to a party she'd rather skip. Beat: reluctant belonging, the first crack in her armor."
+    },
+    {
+      "n": 3,
+      "title": "The Prompt",
+      "summary": "Kestrel's POV. English teacher Ms. Okafor assigns the essay: 'What truth have you been keeping?' Kestrel writes about the east wing fire as a joke, then can't sleep because the details feel wrong. Beat: curiosity as infection; the story chooses her before she chooses it."
+    },
+    {
+      "n": 4,
+      "title": "Maintenance Logs",
+      "summary": "Kestrel's POV, with interludes of her hacking session rendered like code comments. The archived work orders show asbestos abatement requests denied three times in 2018, months before the fire. Beat: dread sharpening into purpose—this isn't a mystery anymore, it's a cover-up."
+    },
+    {
+      "n": 5,
+      "title": "The Misfit Table",
+      "summary": "Alternating POV between Kestrel and Dev, the code club's warm-hearted de facto leader. Dev notices Kestrel digging through district servers and, instead of reporting her, asks to help. Beat: the terrifying offer of partnership; trust as a skill she never learned."
+    },
+    {
+      "n": 6,
+      "title": "Mr. Voss's Empty Desk",
+      "summary": "Kestrel's POV. She learns science teacher Elias Voss filed the original asbestos complaint and died in the fire everyone called accidental. His classroom was sealed inside the east wing ever since. Beat: grief for a man she never met, and guilt—her ghost account once mocked the memorial."
+    },
+    {
+      "n": 7,
+      "title": "What the Yearbook Didn't Print",
+      "summary": "Dev's POV. The club breaks into the sealed wing during a power outage and finds Voss's intact classroom, including a binder of evidence he hid in a ceiling tile. Beat: awe curdling into fear—they now possess something dangerous together."
+    },
+    {
+      "n": 8,
+      "title": "Board Member Bright",
+      "summary": "Kestrel's POV. School board chair Alan Bright announces a glossy renovation campaign, and Kestrel recognizes his signature on every denied abatement request. He also announces a crackdown on 'anonymous harassment accounts'—aimed squarely at her. Beat: hunter becomes hunted."
+    },
+    {
+      "n": 9,
+      "title": "Burner Phones and Bad Ideas",
+      "summary": "Dev's POV. The group debates going public; Priya's scholarship depends on staying clean, Marcus's dad works for the district. They compromise on leaking anonymously—which means using Kestrel's methods. Beat: friction between caution and conscience; family arguing like family."
+    },
+    {
+      "n": 10,
+      "title": "The Leak That Wasn't",
+      "summary": "Kestrel's POV. Their anonymous drop to a local reporter goes nowhere; the paper sits on it after a call from the district's lawyer. Kestrel realizes anonymity is exactly why they're ignorable. Beat: the thesis of the book lands—invisibility protects you and silences you."
+    },
+    {
+      "n": 11,
+      "title": "Okafor Knows",
+      "summary": "Ms. Okafor's POV (first departure from the teens). She reads Kestrel's draft essay, recognizes both the voice and the danger, and quietly returns it ungraded with one note: 'Truths need witnesses, not just authors.' Beat: unexpected adult allyship; being seen without being exposed."
+    },
+    {
+      "n": 12,
+      "title": "Bright's Offer",
+      "summary": "Kestrel's POV. Bright corners Kestrel privately—he's traced the ghost account partway—and offers her a tech internship and college letter in exchange for the binder. Beat: temptation with teeth; the price of silence made concrete and personal."
+    },
+    {
+      "n": 13,
+      "title": "The Fracture",
+      "summary": "Dev's POV. Dev learns Kestrel met with Bright and didn't tell anyone; the group splinters, Priya pulls away, Marcus wavers. Kestrel, wounded, almost takes the deal. Beat: lowest point of trust; found family tested by the secrets that formed it."
+    },
+    {
+      "n": 14,
+      "title": "Voss's Last Recording",
+      "summary": "Kestrel's POV. Inside the binder they find a flash drive: Voss recorded a message for whoever found it, naming Bright and begging someone to finish it. Beat: the dead mentor speaks; Kestrel inherits a mission bigger than her fear."
+    },
+    {
+      "n": 15,
+      "title": "Ghost No More",
+      "summary": "Kestrel's POV. She confesses everything to the group—including that she nearly took Bright's deal—and offers to publish under her real name, accepting expulsion risk. Dev forgives her; Priya stays angry but stays. Beat: reconciliation earned through vulnerability, not apology alone."
+    },
+    {
+      "n": 16,
+      "title": "Ninety-Six Hours",
+      "summary": "Alternating POVs. Bright moves to destroy the east wing records early; the group has one weekend before demolition. A race against bulldozers: copying archives, photographing everything, dodging security. Beat: propulsive tension; the clock becomes a character."
+    },
+    {
+      "n": 17,
+      "title": "Caught in the Wing",
+      "summary": "Marcus's POV. Security catches them; Marcus takes the blame to shield Kestrel, and Bright suspends him days before graduation. Beat: sacrifice reframes the stakes—it's no longer about Kestrel's secret but everyone's futures."
+    },
+    {
+      "n": 18,
+      "title": "The Essay",
+      "summary": "Kestrel's POV. She submits her college essay as-is: the full truth, names included, knowing it may cost her admission. Ms. Okafor forwards it to a state investigative journalist instead of the admissions office. Beat: quiet climax of identity—she signs her name and means it."
+    },
+    {
+      "n": 19,
+      "title": "Publication Day",
+      "summary": "Alternating POVs. The story breaks statewide two days before graduation: lab reports, Voss's recording, Bright's signatures. Bright resigns mid-meeting; the district announces independent review. Beat: catharsis with tremors—victory arrives, but so does scrutiny of all of them."
+    },
+    {
+      "n": 20,
+      "title": "What We Buried, What We Kept",
+      "summary": "Priya's POV. Fallout: Marcus's suspension reversed, Priya's scholarship questioned then defended publicly, Kestrel's college defers decision pending 'conduct review.' The group waits together in the server nook. Beat: anxiety held communally; the family holds under pressure."
+    },
+    {
+      "n": 21,
+      "title": "Commencement",
+      "summary": "Kestrel's POV. At graduation, the principal reads a statement acknowledging the district's failures; the crowd finds Voss's name in the program for the first time. Kestrel's acceptance email arrives mid-ceremony. Beat: public reckoning and private grace intertwined."
+    },
+    {
+      "n": 22,
+      "title": "Signed, Kestrel Sterling",
+      "summary": "Kestrel's POV, final chapter. She posts one last time from @yearbookghost—not a secret, but a goodbye and her real name attached. The epilogue mirrors chapter one: same server nook, but now the door is open and the misfits are inside. Beat: resolution—memory honored, identity claimed, family chosen and kept."
+    }
+  ]
+}

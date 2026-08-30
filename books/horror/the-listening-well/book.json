@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03305",
+  "title": "The Listening Well",
+  "author": "Oscar Ashgrove",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Sebastian Almeida, a folklorist recording songs the village refuses to sing twice, keeps the lights on and the doors counted. But when the childhood imaginary friend is waiting on the porch, unchanged, she discovers that staying invisible was never really an option. Now she must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3305
+  }
+}

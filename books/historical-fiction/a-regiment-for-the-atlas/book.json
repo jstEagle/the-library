@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02426",
+  "title": "A Regiment for the Atlas",
+  "author": "Orsen Pemberton",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Freya Kavanagh, a typeface cutter's daughter in a print shop on the eve of a revolution, has spent twenty years learning which silences keep people safe. Then the census taker asks one question too many — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the ice breaks on the river.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2426
+  }
+}

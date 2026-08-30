@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04724",
+  "title": "Radiators and Aftermath",
+  "author": "Rosalind Vasquez",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Theo Winterbourne, a restaurant critic who has forgotten how food tastes, keeps a careful inventory of everything unsaid. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. Now he must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4724
+  }
+}

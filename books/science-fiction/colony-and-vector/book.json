@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07681",
+  "title": "Colony and Vector",
+  "author": "Cyrus Vane",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Jude Whitlock, a terraformer tending a garden meant for people not yet born, records the slow death of a colony everyone else forgot. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. To get through this, he must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "identity",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7681
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00453",
+  "title": "Elodie and the Trail",
+  "author": "Cyrus Oyelaran",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Astrid Whitlock, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 453
+  }
+}

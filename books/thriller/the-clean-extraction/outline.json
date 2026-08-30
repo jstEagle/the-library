@@ -1,0 +1,59 @@
+{
+  "title": "The Clean Extraction",
+  "slug": "thriller/the-clean-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Ines Ravensworth, a crash investigator haunted by the unexplained death of her family in row twelve of Flight 4471, receives a calendar invite from a handler she knows is dead—summoning her to Frankfurt before markets open. The invite pulls her into a conspiracy where the crash was engineered to bury a financial secret, and the only leverage she holds is the flight data she secretly copied before it was wiped. Hunted by the syndicate that killed her family's handler and shadowed by a duty-bound intelligence officer who becomes her reluctant ally and something more, Ines must decide whether exposing the truth is worth the lives of the found family she never meant to build. She trades the data to stop a second, larger atrocity, but leaks the decrypted row-twelve manifest publicly—burning her old life to ash and walking into a new one with people who chose her.",
+  "about_author": "Wendell Okafor is a former aviation insurance analyst who spent a decade reading the quiet arithmetic of disaster before turning to fiction. He writes from a farmhouse outside Porto, where he claims the best plot twists arrive with the morning fog.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Invite",
+      "summary": "Ines's POV. Three years after the crash, Ines survives on caffeine and insomnia, reviewing wreckage reports she can't stop reading. At 3:14 a.m., a calendar invitation arrives from Marcus Vale—her former handler, confirmed dead by suicide last spring—for a meeting tomorrow, 8:00 a.m., Frankfurt. Emotional beat: the numb routine of grief cracks open with dread and a terrible flicker of hope."
+    },
+    {
+      "n": 2,
+      "title": "Row Twelve",
+      "summary": "Ines's POV, with a flashback to the crash investigation. She reveals to the reader what she's never told anyone: the official black-box data was doctored, and she copied the original before it was replaced. Row twelve wasn't random—the seats were reassigned forty minutes before boarding. Emotional beat: guilt curdling into purpose; she books the flight."
+    },
+    {
+      "n": 3,
+      "title": "Dead Man's Calendar",
+      "summary": "Ines's POV. In Frankfurt, the meeting address is a shell company's office, empty except for a prepaid phone and Vale's voice on a recorded message: 'They're cleaning the ledger. You're the last entry.' A surveillance team is already watching the building. Emotional beat: paranoia as intimacy—she realizes she's been watched for years, and it almost feels like being seen."
+    },
+    {
+      "n": 4,
+      "title": "The Officer",
+      "summary": "Dual POV: Ines and Elias Brandt, a Bundesnachrichtendienst officer ordered to surveil her. Elias intercepts the syndicate's kill team minutes too late; Ines escapes on instinct and adrenaline. They collide in a U-Bahn tunnel, each deciding not to turn the other in. Emotional beat: two lonely professionals recognizing a fellow insomniac in the dark."
+    },
+    {
+      "n": 5,
+      "title": "Safehouse Arithmetic",
+      "summary": "Ines's POV. Hiding in the flat of Nadia, Ines's estranged stepsister, Ines is forced to accept help for the first time since the crash. Nadia's teenage son Theo, a cryptography hobbyist, starts cracking the encrypted manifest Ines copied. Emotional beat: the awkward, painful reassembly of found family—being needed is harder than being invisible."
+    },
+    {
+      "n": 6,
+      "title": "What the Ledger Buys",
+      "summary": "Elias's POV. Elias discovers his own agency took syndicate money to bury the Flight 4471 findings; his handler is compromised. The syndicate's plan: a coordinated short position triggered by a second 'accident' at Frankfurt's opening bell. Emotional beat: duty inverts—his oath now requires betrayal of his institution."
+    },
+    {
+      "n": 7,
+      "title": "The Trade",
+      "summary": "Ines's POV. The syndicate's fixer, Calloway, offers Ines the thing she wants most—Vale's full confession proving who ordered row twelve—in exchange for the original flight data. She records the meeting, learning the second target is a passenger jet out of Frankfurt tonight. Emotional beat: love against duty in miniature—she must choose her dead or the living."
+    },
+    {
+      "n": 8,
+      "title": "Eight Hours to Open",
+      "summary": "Alternating POV, accelerating. Theo cracks the manifest: row twelve's passengers were witnesses to the syndicate's original fraud, her family collateral. Elias goes dark to stop the second crash; Ines must decide whether to hand Calloway the data as a diversion. Emotional beat: rising dread braided with fierce clarity—she finally has something worth surviving for."
+    },
+    {
+      "n": 9,
+      "title": "The Clean Extraction",
+      "summary": "Ines and Elias's POV converging. The climax: Ines trades a decoy copy of the data while Elias forces the targeted flight into an emergency diversion, and the syndicate's own kill team is caught in the open at the terminal. Calloway escapes; the second crash is averted. Emotional beat: white-knuckle release—the extraction is clean, but nothing is settled."
+    },
+    {
+      "n": 10,
+      "title": "After the Bell",
+      "summary": "Ines's POV, weeks later. The markets open in Frankfurt and the syndicate's positions collapse as Theo's decryption of the manifest goes public under a journalist's byline. Calloway is being hunted by his own employers; Elias resigns and shows up at Nadia's door with coffee. Ines sleeps through the night for the first time in three years. Emotional beat: quiet, earned peace—survival was the price; this is the return."
+    }
+  ]
+}

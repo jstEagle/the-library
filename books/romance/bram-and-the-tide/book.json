@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06196",
+  "title": "Bram and the Tide",
+  "author": "August Marchetti",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Orsen Thackeray, a single parent running the town's only bookshop, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6196
+  }
+}

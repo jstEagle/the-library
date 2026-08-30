@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02108",
+  "title": "When the Hollow Burns Again",
+  "author": "Ada Ravensworth",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Felix Iversen, the youngest member of a dying guild, has spent fifteen years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2108
+  }
+}

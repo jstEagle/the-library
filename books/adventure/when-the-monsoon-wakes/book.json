@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00344",
+  "title": "When the Monsoon Wakes",
+  "author": "B. M. Galloway",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Hazel Amberdale, a mountain guide blacklisted from two countries, has spent seven years measuring life in miles rather than years. Then a government survey team vanishes, leaving gear and no tracks — and she is pulled straight into the middle of it. Now she must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 344
+  }
+}

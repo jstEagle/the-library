@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01321",
+  "title": "Noor and the Hollow",
+  "author": "Odile Kavanagh",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Noor Ishikawa, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1321
+  }
+}

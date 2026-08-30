@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07442",
+  "title": "Echo and Horizon",
+  "author": "Yara Sandoval",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Petra Kavanagh, a starship navigator haunted by the backups sleeping in the hold, has spent seven years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7442
+  }
+}

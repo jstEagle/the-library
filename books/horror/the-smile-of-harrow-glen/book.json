@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03553",
+  "title": "The Smile of Harrow Glen",
+  "author": "Sebastian Ishikawa",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Lior Coldharbour, a folklorist recording songs the village refuses to sing twice, has spent twelve years telling themselves the noises have explanations. But when every mirror in the house starts reflecting the room one second late, they discover that staying invisible was never really an option. To get through this, they must hold out until sunrise with the truth about what was invited in before the frost writes its final pattern.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3553
+  }
+}

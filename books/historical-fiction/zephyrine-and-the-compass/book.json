@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02971",
+  "title": "Zephyrine and the Compass",
+  "author": "Vesper Sandoval",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Vesper Lockridge, a code-carrying courier on the last diplomatic mission of a doomed republic, keeps a low profile and busy hands. Then the census taker asks one question too many — and she is pulled straight into the middle of it. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2971
+  }
+}

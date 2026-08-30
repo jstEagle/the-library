@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09949",
+  "title": "The Group Chat of Cedar Falls",
+  "author": "Sebastian Ishikawa",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Mirabel Thornbury, the team's statistician who knows the game is rigged, has spent five years being so careful it hurts. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. Now he must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9949
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06636",
+  "title": "Vesper and the Songbook",
+  "author": "Rosalind Villalobos",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ansel Ishikawa, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, they discover that staying invisible was never really an option. To get through this, they must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6636
+  }
+}

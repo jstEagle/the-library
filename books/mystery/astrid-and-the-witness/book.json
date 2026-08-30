@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05035",
+  "title": "Astrid and the Witness",
+  "author": "Gideon Dunmore",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Lior Nakamura, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then a body turns up dressed in clothes stolen from the witness's own closet — and they are pulled straight into the middle of it. To get through this, they must decode a ledger hidden in plain sight before the trial begins.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5035
+  }
+}

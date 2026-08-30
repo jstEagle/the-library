@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02912",
+  "title": "The Bridge of the Cape Route",
+  "author": "Kestrel Fairweather",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Petra Eastwick, a code-carrying courier on the last diplomatic mission of a doomed republic, measures the world in what can be carried when the orders come. Then the census taker asks one question too many — and she is pulled straight into the middle of it. Now she must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2912
+  }
+}

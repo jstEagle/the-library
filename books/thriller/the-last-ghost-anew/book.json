@@ -1,0 +1,21 @@
+{
+  "id": "THR-09324",
+  "title": "The Last Ghost Anew",
+  "author": "A. M. Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Ulyana Joubert, a financial-crimes investigator drowning in clean money, has spent five years following rules that keep getting rewritten. But when every record of a flight vanishes while it's still in the air, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9324
+  }
+}

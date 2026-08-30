@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02857",
+  "title": "Oscar and the Clock",
+  "author": "Vesper Pemberton",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Lior Winterbourne, an apprentice clockmaker summoned to repair the observatory's master clock, has spent ten years learning which silences keep people safe. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. To get through this, she must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2857
+  }
+}

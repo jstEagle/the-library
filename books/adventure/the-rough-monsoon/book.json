@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00035",
+  "title": "The Rough Monsoon",
+  "author": "Marguerite Voss",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Vesper Pemberton, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. Then an old rival hires the crew for the one job that was sworn off long ago — and they are pulled straight into the middle of it. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 35
+  }
+}

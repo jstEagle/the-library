@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02133",
+  "title": "the Glass Steppe Rising Anew",
+  "author": "Ada Delacroix",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Rosalind Halloran, a thief who steals memories, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. To get through this, he must steal back a soul sold to the court beneath the mountain before the moon completes its thirteenth turn.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2133
+  }
+}

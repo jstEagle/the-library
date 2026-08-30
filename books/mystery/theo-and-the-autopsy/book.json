@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05216",
+  "title": "Theo and the Autopsy",
+  "author": "Ansel Okafor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Sebastian Quintana, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5216
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06459",
+  "title": "Mara and the Kitchen",
+  "author": "L. M. Villalobos",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Casper Underhill, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6459
+  }
+}

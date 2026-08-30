@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09509",
+  "title": "Scholarship and Locker",
+  "author": "Zephyrine Villalobos",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Theo Eastwick, the new kid at a school built over something old, is fine. Everything is fine. Obviously.. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. Now he must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9509
+  }
+}

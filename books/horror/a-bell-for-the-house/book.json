@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03376",
+  "title": "A Bell for the House",
+  "author": "Quentin Delacroix",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Theo Yarrow, a pest controller called to something with fingerprints, has spent twelve years telling themselves the noises have explanations. Then the childhood imaginary friend is waiting on the porch, unchanged — and they are pulled straight into the middle of it. To get through this, they must learn the song's last verse without singing along before the well refills.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3376
+  }
+}

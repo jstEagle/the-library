@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04230",
+  "title": "When the Postcards Falls",
+  "author": "Astrid Brightwater",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Noor Villalobos, a letter-writer sending postcards to an address that burned down years ago, has spent twelve years practicing the art of almost saying it. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. To get through this, they must forgive the stranger in the old photographs before the demolition date arrives.",
+  "themes": [
+    "belonging",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4230
+  }
+}

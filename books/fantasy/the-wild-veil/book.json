@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01183",
+  "title": "The Wild Veil",
+  "author": "Oscar Fairweather",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Jude Ashgrove, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. To get through this, they must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1183
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01878",
+  "title": "The Last Thorn Again",
+  "author": "Xanthe Halloran",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Cyrus Dravenmoor, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. To get through this, she must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1878
+  }
+}

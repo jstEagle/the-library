@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08226",
+  "title": "Vesper and the Archive",
+  "author": "Emrys Vane",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Orsen Hartwell, the caretaker of Earth's abandoned seed vault, has spent twenty years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. To get through this, she must deliver a message that will end the war — or start it before the fleet's truce expires.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8226
+  }
+}

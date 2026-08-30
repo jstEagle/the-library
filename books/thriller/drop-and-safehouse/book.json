@@ -1,0 +1,21 @@
+{
+  "id": "THR-08929",
+  "title": "Drop and Safehouse",
+  "author": "Emrys Thornbury",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Quentin Fairweather, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. But when a voiceprint unlocks a server on another continent, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8929
+  }
+}

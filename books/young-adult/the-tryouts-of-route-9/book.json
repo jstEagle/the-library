@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09809",
+  "title": "The Tryouts of Route 9",
+  "author": "August Eriksen",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Mara Eastwick, a baker's kid who bakes feelings into bread, stays under the radar: head down, grades up, locker shut. Then grandma's recipe box contains directions that aren't for food — and they are pulled straight into the middle of it. To get through this, they must save the tradition that made the town before prom.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9809
+  }
+}

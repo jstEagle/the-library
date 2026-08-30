@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06665",
+  "title": "Tamsin and the Promise",
+  "author": "Dominic Quintana",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Xanthe Galloway, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, they discover that staying invisible was never really an option. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6665
+  }
+}

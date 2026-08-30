@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01729",
+  "title": "Edmund and the Wolf",
+  "author": "Theo Okafor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Kestrel Yarrow, an exiled storm-caller, has spent twelve years selling small charms in a city that outlawed magic. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1729
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03721",
+  "title": "Noor and the Hymn",
+  "author": "Mara Crane",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ines Vasquez, a radio host taking calls from listeners who died last week, keeps the lights on and the doors counted. Then the excavation crew unearths a door, sealed from the inside — and he is pulled straight into the middle of it. To get through this, he must learn the song's last verse without singing along before the last resident signs the papers.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3721
+  }
+}

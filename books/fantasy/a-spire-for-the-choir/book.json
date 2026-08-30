@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01225",
+  "title": "A Spire for the Choir",
+  "author": "Ivo Hartwell",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Beatrix Quintana, a cartographer of unmapped realms, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1225
+  }
+}

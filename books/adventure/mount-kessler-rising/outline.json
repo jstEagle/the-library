@@ -1,0 +1,29 @@
+{
+  "title": "Mount Kessler Rising",
+  "slug": "adventure/mount-kessler-rising",
+  "model": "stealth/ox-alpha",
+  "premise": "Kestrel Halloran has spent twenty years piloting freight up the Kessler River, a man content to be forgotten by the valley that once branded his father a thief. When prospector Elias Wren, dying of a gut wound in Kestrel's wheelhouse, trades a hand-drawn map to a lost silver lode for a promise—deliver it to his daughter before the passes close—Kestrel inherits more than paper: the map is drawn in his father's handwriting, and the lode sits on land the Hallorans were run off of. Pursued by the men who shot Wren, Kestrel crosses the range with Wren's wary daughter Ada, and at the snowbound mine shaft he finds proof his father was framed and murdered for what he discovered. In the end Kestrel chooses not vengeance but testimony: he brings the map, the ore samples, and Wren's confession down to the valley, trading invisibility for a name he can finally claim.",
+  "about_author": "August Underhill is the pen name of a former deckhand who spent six seasons on inland waterways before turning to writing full-time. Their fiction blends river-country realism with old-fashioned adventure, and they live within earshot of moving water.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Dying Passenger",
+      "summary": "Kestrel's POV. A routine late-season run turns when Kestrel finds Elias Wren bleeding out among his cargo crates; the prospector presses a folded map into his hands and makes him swear to reach his daughter in Copperline before the pass closes. The emotional beat is reluctant obligation—the promise given half against Kestrel's will, and the first shock of recognizing his father's handwriting on the map."
+    },
+    {
+      "n": 2,
+      "title": "What the River Kept",
+      "summary": "Alternating Kestrel and Ada's POV. Kestrel tracks down Ada Wren, a sharp-tongued assay clerk who doesn't trust him or the map, while hired men from the Meridian Mining Company burn his boat to stop the journey. On foot now, the two compare fragments of family history and realize both their fathers were silenced by the same company. The beat is uneasy alliance hardening into shared purpose."
+    },
+    {
+      "n": 3,
+      "title": "Above the Treeline",
+      "summary": "Ada's POV, shifting to Kestrel for the climax. Racing an early blizzard through the high country, ambushed by Meridian's men, Kestrel takes a bullet guiding Ada to the mine shaft while she holds off their pursuers with a rockslide. Inside the frozen workings they find ore samples, his father's journal, and evidence of the frame-up. The beat is terror transfigured into revelation—and grief for a father finally understood."
+    },
+    {
+      "n": 4,
+      "title": "A Name Worth Carrying",
+      "summary": "Shared POV, closing on Kestrel. Descending ahead of the deep snows with the wounded captain barely upright, they reach Copperline as Meridian's superintendent tries to buy their silence. Instead, before the whole winter-bound town, Kestrel lays out the map, the journal, and Wren's letter, restoring his father's name and claiming his own. The beat is resolution as inheritance reclaimed—not silver, but identity, memory, and a future no longer hidden."
+    }
+  ]
+}

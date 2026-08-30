@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05930",
+  "title": "Kestrel and the Inheritance",
+  "author": "Odile Marchetti",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ansel Montrose, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5930
+  }
+}

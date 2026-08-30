@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00397",
+  "title": "Paloma and the Summit",
+  "author": "Ulyana Halloran",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Kestrel Whitlock, an archaeologist's estranged child and better digger, has spent seven years measuring life in miles rather than years. Then an expedition upriver stops answering the radio — and they are pulled straight into the middle of it. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 397
+  }
+}

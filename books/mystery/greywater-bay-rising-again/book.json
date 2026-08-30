@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05910",
+  "title": "Greywater Bay Rising Again",
+  "author": "Theo Okafor",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Silas Joubert, a small-town coroner who knows every grave by name, has spent twenty years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5910
+  }
+}

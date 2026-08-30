@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00239",
+  "title": "Passage and Monsoon",
+  "author": "Ines Vane",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Elodie Joubert, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. Now they must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 239
+  }
+}

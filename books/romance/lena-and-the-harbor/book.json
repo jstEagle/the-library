@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06716",
+  "title": "Lena and the Harbor",
+  "author": "Kestrel Dunmore",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Yara Vasquez, a lighthouse keeper's granddaughter and part-time novelist, has spent three years rebuilding a life measured in small safe steps. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6716
+  }
+}

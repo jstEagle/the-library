@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03191",
+  "title": "The Kindly Visitor",
+  "author": "Isandro Kavanagh",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Oscar Brightwater, a twin who came home to bury the wrong sibling, has spent ten years telling themselves the noises have explanations. Then the village's church bell rings although the bell was melted down in 1911 — and she is pulled straight into the middle of it. To get through this, she must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3191
+  }
+}

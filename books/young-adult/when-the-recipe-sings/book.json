@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09559",
+  "title": "When the Recipe Sings",
+  "author": "W. M. Quintana",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Silas Blackwood, a debate champion who can't win the argument at home, is fine. Everything is fine. Obviously.. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. Now he must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9559
+  }
+}

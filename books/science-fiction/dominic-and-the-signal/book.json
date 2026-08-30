@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07811",
+  "title": "Dominic and the Signal",
+  "author": "Jonah Iversen",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Yara Lockridge, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7811
+  }
+}

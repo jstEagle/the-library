@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03249",
+  "title": "The Visitor of the Undercroft",
+  "author": "Kestrel Zhou",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ivo Zhou, a pest controller called to something with fingerprints, doesn't believe, has never believed, will not begin believing now. Then every mirror in the house starts reflecting the room one second late — and they are pulled straight into the middle of it. Now they must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3249
+  }
+}

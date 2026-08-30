@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02083",
+  "title": "The Thorn of Ashvale Anew",
+  "author": "Felix Underhill",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Isandro Delacroix, the youngest member of a dying guild, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. To get through this, she must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2083
+  }
+}

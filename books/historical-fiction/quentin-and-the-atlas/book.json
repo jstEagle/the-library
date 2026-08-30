@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02926",
+  "title": "Quentin and the Atlas",
+  "author": "V. M. Iversen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Odile Joubert, a mapmaker's apprentice finishing the atlas the master died for, has spent ten years learning which silences keep people safe. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and she is pulled straight into the middle of it. To get through this, she must finish the work while the workshop still stands before the ship sails on the morning tide.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2926
+  }
+}

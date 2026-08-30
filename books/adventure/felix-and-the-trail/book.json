@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00625",
+  "title": "Felix and the Trail",
+  "author": "Casper Joubert",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Sebastian Amberdale, a mountain guide blacklisted from two countries, has spent ten years measuring life in miles rather than years. Then an old rival hires the crew for the one job that was sworn off long ago — and they are pulled straight into the middle of it. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the concession permits expire.",
+  "themes": [
+    "belonging",
+    "memory",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 625
+  }
+}

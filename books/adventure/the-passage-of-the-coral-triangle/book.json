@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00090",
+  "title": "The Passage of the Coral Triangle",
+  "author": "Bram Halloran",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Lena Lockridge, a salvage diver working a wreck the navy won't discuss, has spent twelve years measuring life in miles rather than years. Then a government survey team vanishes, leaving gear and no tracks — and they are pulled straight into the middle of it. To get through this, they must cross the range ahead of the snows before the dry season ends.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 90
+  }
+}

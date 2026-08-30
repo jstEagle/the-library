@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02212",
+  "title": "Petra and the Salt",
+  "author": "I. M. Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "August Villalobos, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. To get through this, they must steal back a soul sold to the court beneath the mountain before the long winter finishes falling.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2212
+  }
+}

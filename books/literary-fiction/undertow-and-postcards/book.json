@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04420",
+  "title": "Undertow and Postcards",
+  "author": "Rosalind Eastwick",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Paloma Eriksen, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. To get through this, she must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4420
+  }
+}

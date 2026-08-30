@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05101",
+  "title": "Cipher and Parish",
+  "author": "F. M. Marchetti",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Quentin Pemberton, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5101
+  }
+}

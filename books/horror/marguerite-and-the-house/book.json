@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03937",
+  "title": "Marguerite and the House",
+  "author": "E. M. Nystrom",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Mirabel Montrose, a property surveyor appraising a house that appraises back, documents everything, because documentation is a kind of prayer. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. To get through this, they must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3937
+  }
+}

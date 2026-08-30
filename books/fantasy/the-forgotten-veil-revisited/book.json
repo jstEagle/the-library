@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01866",
+  "title": "The Forgotten Veil Revisited",
+  "author": "Bram Marchetti",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Rafael Amberdale, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1866
+  }
+}

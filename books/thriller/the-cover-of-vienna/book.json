@@ -1,0 +1,21 @@
+{
+  "id": "THR-08866",
+  "title": "The Cover of Vienna",
+  "author": "Rafael Eastwick",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Hazel Sandoval, a hostage negotiator with one failure still on the board, has spent seven years following rules that keep getting rewritten. But when every record of a flight vanishes while it's still in the air, he discovers that staying invisible was never really an option. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8866
+  }
+}

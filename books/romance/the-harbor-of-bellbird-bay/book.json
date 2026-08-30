@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06325",
+  "title": "The Harbor of Bellbird Bay",
+  "author": "Casper Halloran",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Zephyrine Quintana, a wedding planner who doesn't believe in weddings anymore, swears the heart is a muscle like any other: trainable, containable. But when a snowstorm strands two rivals with the best mistake of their twenties, they discover that staying invisible was never really an option. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6325
+  }
+}

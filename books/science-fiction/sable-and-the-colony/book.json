@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07865",
+  "title": "Sable and the Colony",
+  "author": "Jude Marchetti",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Mara Nakamura, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. Then the station AI begins confessing to crimes nobody reported — and they are pulled straight into the middle of it. To get through this, they must prove a massacre happened when every record says otherwise before the fleet's truce expires.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7865
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01104",
+  "title": "A Sigil for the Thorn",
+  "author": "Emrys Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Marguerite Quintana, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1104
+  }
+}

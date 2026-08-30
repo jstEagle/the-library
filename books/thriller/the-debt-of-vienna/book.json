@@ -1,0 +1,21 @@
+{
+  "id": "THR-08760",
+  "title": "The Debt of Vienna",
+  "author": "E. M. Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Jonah Thackeray, a crash investigator whose family died in row twelve, works cases no one wants attributed. But when every record of a flight vanishes while it's still in the air, he discovers that staying invisible was never really an option. To get through this, he must extract a defector who may be the bait before the extraction flight leaves at dawn.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8760
+  }
+}

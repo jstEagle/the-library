@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00041",
+  "title": "Wren and the Compass",
+  "author": "August Villalobos",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Lior Iversen, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. But when the tide reveals a cave that legends charge admission to, they discover that staying invisible was never really an option. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 41
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06394",
+  "title": "The Kitchen of Bellbird Bay",
+  "author": "Jude Villalobos",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Dominic Marchetti, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the bakery lease runs out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6394
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "The Best Mixtape",
+  "slug": "young-adult/the-best-mixtape",
+  "model": "stealth/ox-alpha",
+  "premise": "Orsen Coldharbour has spent four years at Ashgrove Academy perfecting the art of being nobody: no clubs, no friends, just a burner account called 'coldharbour.wav' where he posts eerily accurate predictions about school events. When a group chat of six strangers starts receiving his predictions before he makes them — including things he hasn't even thought yet — Orsen realizes someone has cloned his account, and the clone knows him better than he knows himself. To unmask them, he must enter the school's meaningless coding championship and the regional mixtape battle his late brother's unfinished tracklist was made for, discovering along the way that the clone is the one person who inherited his grief. In the end, Orsen loses the championship that doesn't matter, wins the one that does, and finally lets himself be known.",
+  "about_author": "Edmund Okonkwo is a former software engineer from Lagos who now writes young adult novels about quiet kids and loud futures. He collects cassette tapes and insists the best ones were always recorded by accident.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Track 01: Nobody, Obviously",
+      "summary": "Orsen's POV. Orsen narrates his meticulously invisible senior year while posting predictions as coldharbour.wav, until a group chat called 'the best mixtape' messages him his own next prediction — word for word, timestamped before he writes it. The chapter establishes his grief over his brother Theo and his terror of being perceived. Emotional beat: the first crack in his armor, equal parts dread and thrill."
+    },
+    {
+      "n": 2,
+      "title": "Track 02: Six Strangers, One Static",
+      "summary": "Alternating POV between Orsen and Priya, the group chat's loudest member. The six members compare notes and realize the clone's predictions are always about loss — a fire drill, a breakup, a death in the fish tank. Orsen joins the coding championship to trace the account's origin, forced into a team for the first time. Emotional beat: reluctant belonging; Orsen starts to want the connection he's been dodging."
+    },
+    {
+      "n": 3,
+      "title": "Track 03: The Song He Never Finished",
+      "summary": "Orsen's POV, then the clone's. The clone predicts the regional mixtape battle results before entries open — and the final track is Theo's unfinished song, a file only Orsen possesses. At the coding championship, Orsen traces the account to Priya, who confesses she found Theo's hard drive after his death and has been finishing his predictions, his mixtape, his life. Emotional beat: betrayal curdling into recognition — she inherited the same grief."
+    },
+    {
+      "n": 4,
+      "title": "Track 04: Side B",
+      "summary": "Priya and Orsen's POV in alternation. Orsen enters the regional mixtape battle with Theo's finished track, co-credited to Priya, while deliberately throwing the coding championship to expose the clone account publicly and end the game. He wins the battle that matters, loses the one that doesn't, and posts as himself for the first time — no burner, no mask. Emotional beat: inheritance reclaimed; being known is survivable."
+    }
+  ]
+}

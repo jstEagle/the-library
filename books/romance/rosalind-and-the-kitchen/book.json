@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06304",
+  "title": "Rosalind and the Kitchen",
+  "author": "Kestrel Blackwood",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Lior Thornbury, a marine biologist counting turtles instead of heartbreaks, has spent three years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6304
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01927",
+  "title": "Mara and the Veil",
+  "author": "Petra Coldharbour",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Emrys Thackeray, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1927
+  }
+}

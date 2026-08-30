@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00553",
+  "title": "Jude and the Compass",
+  "author": "Rosalind Underhill",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Sebastian Coldharbour, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. Then an old rival hires the crew for the one job that was sworn off long ago — and they are pulled straight into the middle of it. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 553
+  }
+}

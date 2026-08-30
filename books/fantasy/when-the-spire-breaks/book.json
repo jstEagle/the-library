@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01121",
+  "title": "When the Spire Breaks",
+  "author": "Noor Winterbourne",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ansel Eriksen, a bone-carver who hears the dead, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must steal back a soul sold to the court beneath the mountain before the last dragon-fire gutters out.",
+  "themes": [
+    "found family",
+    "identity",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1121
+  }
+}

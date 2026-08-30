@@ -1,0 +1,119 @@
+{
+  "title": "Letter and Confession",
+  "slug": "mystery/letter-and-confession",
+  "model": "stealth/ox-alpha",
+  "premise": "Kestrel Fairweather, the reclusive coroner of Hollowmere, receives a retainer from a stranger asking them to prove that a murder will not happen — a murder predicted in a letter dated thirty years ago, naming a victim who is still alive. As Kestrel digs into old records, they uncover a cover-up woven into the town's founding families, including their own late mentor's signature on falsified death certificates. The investigation forces Kestrel out of professional invisibility and into an uneasy alliance with the intended victim's estranged daughter, Ilsa, and a disgraced former deputy, Marrow. In the end, Kestrel must choose between exposing the truth through legal channels — which would destroy the found family they've built among the town's overlooked — or letting justice arrive outside the law when the would-be killer strikes at last; they choose exposure, but only after engineering a confession the law cannot ignore.",
+  "about_author": "Beatrix Ravensworth is the pen name of a former mortuary clerk from the Pacific Northwest who spent a decade transcribing coroners' reports before turning to fiction. She writes mysteries about small towns where the dead are better documented than the living.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Retainer",
+      "summary": "Kestrel Fairweather's POV. A pale stranger named Mr. Voss arrives at the coroner's office with cash and an odd request: prove that a murder described in a thirty-year-old letter has not yet happened. Kestrel, who prides themselves on order and anonymity, almost refuses — until Voss mentions their mentor's name. Emotional beat: unease disguised as professional curiosity."
+    },
+    {
+      "n": 2,
+      "title": "Every Grave by Name",
+      "summary": "Kestrel walks the cemetery at dusk, checking the letter's details against headstones and files. The letter predicts a drowning in the quarry — the same manner of death as three unsolved cases from the 1990s. First hint of a pattern. Emotional beat: the comfort of routine curdling into dread."
+    },
+    {
+      "n": 3,
+      "title": "The Intended",
+      "summary": "Ilsa Brannock's POV. We meet the letter's named victim: Aldous Brannock, aging patriarch of the quarry family, still very much alive and beloved by the town. Ilsa, his estranged daughter, returns home for his birthday and finds her father burning papers in the study. Emotional beat: homecoming shadowed by suspicion."
+    },
+    {
+      "n": 4,
+      "title": "Filed Under F for Forgery",
+      "summary": "Kestrel's POV. Cross-referencing old death certificates, Kestrel discovers their mentor, Coroner Ada Pell, signed documents with impossible dates — deaths recorded before bodies were found. Someone taught Kestrel everything using falsified books. Emotional beat: betrayal of the person who gave them a place to belong."
+    },
+    {
+      "n": 5,
+      "title": "A Deputy Down",
+      "summary": "Marrow's POV. Disgraced ex-deputy Tom Marrow, drunk in a trailer outside town, is visited by Kestrel seeking the 1990s case files. He remembers the quarry drownings — and remembers being ordered to stop looking. Emotional beat: shame meeting a second chance."
+    },
+    {
+      "n": 6,
+      "title": "Alibi, Thirty Years Woven",
+      "summary": "Kestrel's POV. Every suspect from the original cases has an airtight alibi — too airtight, all corroborated by the same two witnesses: Aldous Brannock and the town's current mayor. Kestrel realizes the alibis were manufactured together. Emotional beat: the thrill of the thread pulling loose."
+    },
+    {
+      "n": 7,
+      "title": "What Ada Kept",
+      "summary": "Kestrel searches Ada Pell's sealed estate and finds a locked ledger box hidden behind her funeral urns. Inside: negatives of photographs, half of a confession, and a note reading 'If you're reading this, the third one is coming.' Emotional beat: grief reopening as investigation."
+    },
+    {
+      "n": 8,
+      "title": "Birthday at the Quarry",
+      "summary": "Ilsa's POV. At Aldous's lavish birthday party held at the quarry overlook, Ilsa watches her father flinch when a guest jokes about drowning. She confronts him privately; he denies everything but slips a key into her coat. Emotional beat: love against duty, daughter against father."
+    },
+    {
+      "n": 9,
+      "title": "Voss Vanishes",
+      "summary": "Kestrel's POV. When Kestrel tries to contact Mr. Voss for answers, his hotel room is empty, scrubbed clean, paid through the month. The retainer was never about proving innocence — it was bait to get Kestrel looking. Emotional beat: paranoia; the hunter realizing they were hunted first."
+    },
+    {
+      "n": 10,
+      "title": "The Mayor's Ledger",
+      "summary": "Marrow's POV. Marrow breaks into the mayor's archive and finds payment records: hush money disbursed annually since 1994 to four families, including the Brannocks. He photographs everything but is seen leaving by the mayor's driver. Emotional beat: fear sharpening into resolve."
+    },
+    {
+      "n": 11,
+      "title": "Keyhole",
+      "summary": "Ilsa's POV. Ilsa opens her father's key at the bank: a safe-deposit box containing the other half of Ada Pell's confession and a list of names — one crossed out per decade. The next name not yet crossed out is hers. Emotional beat: terror and inheritance entwined."
+    },
+    {
+      "n": 12,
+      "title": "Three Funerals and a Lie",
+      "summary": "Kestrel's POV. Kestrel reconstructs the pattern: every ten years, someone connected to the quarry disaster dies by water, and each death was certified accidental by Ada under pressure. Ada wasn't corrupt — she was coerced, and she left clues deliberately. Emotional beat: forgiveness of the dead mentor."
+    },
+    {
+      "n": 13,
+      "title": "The Quarry Disaster",
+      "summary": "Multiple POVs interwoven as testimony. Flashback chapter: 1994, a collapse at the Brannock quarry kills five workers; safety violations were covered up, blame pinned on a dead foreman, and the survivors' families paid off. Emotional beat: the wound beneath the town's polite surface."
+    },
+    {
+      "n": 14,
+      "title": "Found Family, Fraying",
+      "summary": "Kestrel's POV. Kestrel convenes Ilsa and Marrow in the morgue after hours — three outsiders forming a conspiracy of their own. But trust cracks when Marrow admits he was one of the deputies who helped bury the 1994 report. Emotional beat: loyalty tested by confession."
+    },
+    {
+      "n": 15,
+      "title": "Dead Letter Drop",
+      "summary": "Ilsa's POV. Following Ada's clue trail, Ilsa finds letters Ada mailed to herself over decades — unsent confessions naming the man who coerced her: not Aldous, but his brother Edmund Brannock, presumed drowned in 2004. Except Ada's last letter says 'Edmund is not in the quarry.' Emotional beat: revelation as vertigo."
+    },
+    {
+      "n": 16,
+      "title": "The Man Who Wasn't Drowned",
+      "summary": "Kestrel's POV. Kestrel exhumes the grave marked Edmund Brannock and finds it empty — a coffin of stones, certified by Ada's own hand. Edmund has been alive, local, watching, for twenty years. Mr. Voss, they realize, works for him. Emotional beat: cold clarity; the shape of the whole design."
+    },
+    {
+      "n": 17,
+      "title": "Countdown at the Reservoir",
+      "summary": "Marrow's POV. Marrow tails Edmund to the reservoir and overhears the plan: Aldous will die by water within days, closing the ledger's final name, with Edmund inheriting everything and the town's silence intact. Marrow is spotted and barely escapes. Emotional beat: sprinting heartbeat tension."
+    },
+    {
+      "n": 18,
+      "title": "Confession Engineered",
+      "summary": "Kestrel's POV. Knowing the law will protect Edmund unless he speaks freely, Kestrel stages a trap: a fake notice that Ada's full confession and photographs will be unsealed publicly, forcing Edmund to come for them himself. Emotional beat: quiet, dangerous resolve — justice planned outside the law's timetable."
+    },
+    {
+      "n": 19,
+      "title": "Water Rising",
+      "summary": "Ilsa's POV. At the quarry office, Edmund takes the bait, holding Ilsa at the flooded lower level while demanding the documents. Aldous arrives and finally confesses aloud — to Ilsa, to the recording Kestrel planted — begging his brother to stop. Emotional beat: love and duty colliding in rising water."
+    },
+    {
+      "n": 20,
+      "title": "The Third Drowning That Wasn't",
+      "summary": "Kestrel and Marrow's alternating POV. Climax: Edmund tries to drown both Brannocks; Marrow intervenes and is wounded; Kestrel triggers the flood gates' emergency drain, stranding Edmund in the mud as police — tipped by the engineered confession recording — close in. Emotional beat: cathartic, breathless action."
+    },
+    {
+      "n": 21,
+      "title": "Unsealed",
+      "summary": "Kestrel's POV. Fallout: Edmund arrested, Aldous confessing fully to the 1994 cover-up, the mayor resigning, Ada Pell posthumously vindicated as a coerced witness rather than a villain. Kestrel amends every falsified certificate by hand, restoring the dead their true stories. Emotional beat: mourning turned to repair."
+    },
+    {
+      "n": 22,
+      "title": "Letter, Answered",
+      "summary": "Kestrel's POV, coda. Weeks later, Kestrel files the last corrected record and finds a new envelope on the desk — no retainer, just a thank-you note unsigned, and Ilsa knocking at the door with coffee, staying. Some graves are known by name now; some people finally are too. Emotional beat: belonging, earned and chosen."
+    }
+  ]
+}

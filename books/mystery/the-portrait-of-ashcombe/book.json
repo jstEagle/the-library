@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05360",
+  "title": "The Portrait of Ashcombe",
+  "author": "Ulyana Halloran",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Wren Voss, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5360
+  }
+}

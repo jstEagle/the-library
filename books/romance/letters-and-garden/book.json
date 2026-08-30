@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06615",
+  "title": "Letters and Garden",
+  "author": "K. M. Kavanagh",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Astrid Thackeray, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6615
+  }
+}

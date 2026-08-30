@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00976",
+  "title": "Ember and Salt",
+  "author": "Isandro Lockridge",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Odile Eriksen, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 976
+  }
+}

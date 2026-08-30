@@ -1,0 +1,21 @@
+{
+  "id": "THR-08791",
+  "title": "The Hard Cipher",
+  "author": "Marguerite Hartwell",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Petra Crane, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8791
+  }
+}

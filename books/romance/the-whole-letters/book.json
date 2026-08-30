@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06581",
+  "title": "The Whole Letters",
+  "author": "Tamsin Iversen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Beatrix Dravenmoor, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6581
+  }
+}

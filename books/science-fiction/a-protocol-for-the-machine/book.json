@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07035",
+  "title": "A Protocol for the Machine",
+  "author": "Lior Okonkwo",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Beatrix Montrose, an insurance investigator of impossible accidents, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, she discovers that staying invisible was never really an option. To get through this, she must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7035
+  }
+}

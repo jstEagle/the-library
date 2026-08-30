@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02945",
+  "title": "When the Lantern Turns",
+  "author": "Edmund Ishikawa",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Astrid Crane, a suffragist's driver who reads every letter before delivering it, keeps a low profile and busy hands. Then the census taker asks one question too many — and she is pulled straight into the middle of it. To get through this, she must choose which family member gets the last berth before the century turns.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2945
+  }
+}

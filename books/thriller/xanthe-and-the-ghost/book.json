@@ -1,0 +1,21 @@
+{
+  "id": "THR-09475",
+  "title": "Xanthe and the Ghost",
+  "author": "Vesper Pemberton",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Sable Whitlock, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9475
+  }
+}

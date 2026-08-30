@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05953",
+  "title": "Quentin and the Summer",
+  "author": "Orsen Nystrom",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Yara Amberdale, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. But when a fake date to survive a family reunion feels too real by dessert, they discover that staying invisible was never really an option. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5953
+  }
+}

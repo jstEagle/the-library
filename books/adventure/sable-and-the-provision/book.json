@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00698",
+  "title": "Sable and the Provision",
+  "author": "C. M. Crane",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ulyana Dravenmoor, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. Then a government survey team vanishes, leaving gear and no tracks — and they are pulled straight into the middle of it. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 698
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03679",
+  "title": "Lior and the Bell",
+  "author": "Freya Halloran",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Silas Underhill, a pest controller called to something with fingerprints, has spent three years telling themselves the noises have explanations. But when the sleep recordings capture a second voice answering questions, he discovers that staying invisible was never really an option. To get through this, he must get the family out ahead of the count before the last resident signs the papers.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3679
+  }
+}

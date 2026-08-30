@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01110",
+  "title": "Ulyana and the Ember",
+  "author": "Zephyrine Oyelaran",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Freya Okafor, a bone-carver who hears the dead, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1110
+  }
+}

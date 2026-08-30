@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04315",
+  "title": "The Slow Aftermath",
+  "author": "Orsen Marchetti",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ada Ashgrove, an heir cataloging a parent's silence after the funeral, moves through the days like a tenant, not an owner. But when the last speaker of a language asks for one final student, he discovers that staying invisible was never really an option. To get through this, he must forgive the stranger in the old photographs before the demolition date arrives.",
+  "themes": [
+    "identity",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4315
+  }
+}

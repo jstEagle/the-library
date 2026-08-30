@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03635",
+  "title": "The Sleeping Well",
+  "author": "Lior Ashgrove",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Ada Villalobos, an urban explorer mapping tunnels that aren't on any survey, has spent fifteen years telling themselves the noises have explanations. Then the sleep recordings capture a second voice answering questions — and he is pulled straight into the middle of it. Now he must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3635
+  }
+}

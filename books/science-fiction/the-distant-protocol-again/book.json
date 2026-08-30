@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08012",
+  "title": "The Distant Protocol Again",
+  "author": "Jonah Brightwater",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Bram Coldharbour, a terraformer tending a garden meant for people not yet born, has spent seven years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8012
+  }
+}

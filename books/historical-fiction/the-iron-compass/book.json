@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02721",
+  "title": "The Iron Compass",
+  "author": "R. M. Blackwood",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Yara Zhou, a widowed lighthouse keeper during the year of the great storms, believes history happens to other people, elsewhere. But when the army requisitions the town and the ledger with all the names, they discover that staying invisible was never really an option. Now they must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2721
+  }
+}

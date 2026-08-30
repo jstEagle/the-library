@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07561",
+  "title": "Horizon and Protocol",
+  "author": "Sable Halloran",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Silas Okafor, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7561
+  }
+}

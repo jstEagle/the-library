@@ -1,0 +1,21 @@
+{
+  "id": "THR-09290",
+  "title": "Zephyrine and the Cover",
+  "author": "August Galloway",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Ulyana Thornbury, a private security contractor guarding clients nobody trusts, has spent three years following rules that keep getting rewritten. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9290
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01606",
+  "title": "Orsen and the Garden",
+  "author": "Q. M. Marchetti",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Ada Yarrow, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1606
+  }
+}

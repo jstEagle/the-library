@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00277",
+  "title": "Jonah and the Provision",
+  "author": "Xanthe Coldharbour",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Wendell Galloway, an archaeologist's estranged child and better digger, has spent three years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. To get through this, she must bring the expedition home without telling anyone what it found before the dry season ends.",
+  "themes": [
+    "memory",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 277
+  }
+}

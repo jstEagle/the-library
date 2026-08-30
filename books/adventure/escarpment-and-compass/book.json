@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00386",
+  "title": "Escarpment and Compass",
+  "author": "Noor Montrose",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Xanthe Dravenmoor, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. But when an expedition upriver stops answering the radio, he discovers that staying invisible was never really an option. To get through this, he must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 386
+  }
+}

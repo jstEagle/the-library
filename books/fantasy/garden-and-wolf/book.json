@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01157",
+  "title": "Garden and Wolf",
+  "author": "Ansel Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Sebastian Montrose, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1157
+  }
+}

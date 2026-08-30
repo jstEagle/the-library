@@ -1,0 +1,21 @@
+{
+  "id": "THR-09365",
+  "title": "Border and Cipher Revisited",
+  "author": "Ada Brightwater",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Orsen Winterbourne, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9365
+  }
+}

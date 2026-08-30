@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04194",
+  "title": "The Silence of Room 214",
+  "author": "Quentin Oyelaran",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Cyrus Joubert, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. But when a childhood home goes up for auction, they discover that staying invisible was never really an option. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4194
+  }
+}

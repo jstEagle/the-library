@@ -1,0 +1,209 @@
+{
+  "title": "Rosalind and the Deadline",
+  "slug": "thriller/rosalind-and-the-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Mara Vane, a mid-level financial-crimes investigator, notices that Flight 447 'Rosalind' has been erased from every database while still airborne—tickets, manifests, radar logs, all gone. Digging in, he finds the plane carried evidence of a trilateral money-laundering pact between three governments, and someone is willing to kill to keep it buried. Hunted by an assassin and betrayed by his own agency, Mara smuggles the truth across borders with help from Elena Cruz, a disgraced journalist and his estranged former partner. In the end, Mara chooses truth over duty, exposing the pact at terrible personal cost: he survives, but loses his career, his anonymity, and nearly Elena, gaining instead an honest place in a world that finally sees him.",
+  "about_author": "Dominic Vasquez is a former compliance auditor who spent a decade inside the gray machinery of international finance before turning to fiction. He writes thrillers about ordinary people trapped in systems designed to make them disappear.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Clean Money",
+      "summary": "Mara Vane's POV. A routine day at the Financial Integrity Unit: flagging laundered funds that are never prosecuted. Establishes his invisible, rule-bound life and quiet loneliness. Emotional beat: numb competence masking a hunger for meaning."
+    },
+    {
+      "n": 2,
+      "title": "The Ghost Altitude",
+      "summary": "Mara's POV. Air-traffic chatter mentions Flight 447 'Rosalind' still climbing; minutes later, no record of it exists anywhere. His query flags are auto-deleted. Emotional beat: first crack of dread—the system he serves just lied to him."
+    },
+    {
+      "n": 3,
+      "title": "Paper That Wasn't",
+      "summary": "Mara's POV. He reconstructs the flight from receipts, a parking stub, a widow's complaint. Someone in his own office reports him for unauthorized access. Emotional beat: paranoia taking root; belonging begins to feel like surveillance."
+    },
+    {
+      "n": 4,
+      "title": "Elena",
+      "summary": "Elena Cruz's POV. A burned investigative journalist recognizes Mara's name on a leaked query log and shows up uninvited at his apartment with half of her own file on Rosalind. Emotional beat: wary reunion of two people who once trusted each other completely."
+    },
+    {
+      "n": 5,
+      "title": "Fifteen Years of Rules",
+      "summary": "Mara's POV, flashback-woven. Why he joined the Unit after his father's fraud conviction; why he and Elena split when she chose exposure over procedure. Emotional beat: love against duty, established as the wound that never closed."
+    },
+    {
+      "n": 6,
+      "title": "The Passenger List",
+      "summary": "Dual POV. They identify three passengers who shouldn't have been aboard: a central-bank auditor, a cartel accountant, a diplomat's aide—all officially alive, all actually dead. Emotional beat: the case turns from anomaly to atrocity."
+    },
+    {
+      "n": 7,
+      "title": "Internal Review",
+      "summary": "Mara's POV. His supervisor, Director Hale, offers him a promotion if he hands over his notes. Mara lies for the first time in fifteen years. Emotional beat: guilt and exhilaration of crossing the line."
+    },
+    {
+      "n": 8,
+      "title": "The Man Who Waits",
+      "summary": "Assassin Corvin's POV. Introduced coldly efficient, reviewing photos of Mara and Elena, paid by an unnamed client to ensure 'the flight stays fictional.' Emotional beat: chilling calm; the hunter enters the story."
+    },
+    {
+      "n": 9,
+      "title": "Basement Archive",
+      "summary": "Elena's POV. She and Mara break into a decommissioned records annex and find Rosalind's physical manifest—signed by officials from three governments. Emotional beat: triumph curdling into terror at what the signatures mean."
+    },
+    {
+      "n": 10,
+      "title": "Three Flags",
+      "summary": "Mara's POV. The manifest implicates liaison officers in Washington, Brussels, and Singapore. He realizes no single government can be trusted with the evidence. Emotional beat: vertigo—there is nowhere lawful to take the truth."
+    },
+    {
+      "n": 11,
+      "title": "Safehouse Rules",
+      "summary": "Elena's POV. Hiding in a borrowed flat, old intimacy resurfaces between her and Mara even as they argue strategy: leak fast or verify deeper. Emotional beat: love rekindling under pressure, duty still pulling him back."
+    },
+    {
+      "n": 12,
+      "title": "Hale's Offer",
+      "summary": "Mara's POV. Hale reveals he knows about the archive break-in and warns Mara that 'Rosalind' is above all their pay grades—then quietly deletes Mara's clearance. Emotional beat: betrayal by the institution that raised him."
+    },
+    {
+      "n": 13,
+      "title": "Corvin Closes",
+      "summary": "Corvin's POV. He kills the records clerk who helped them, staging it as suicide, and leaves a message only Mara will read. Emotional beat: cold dread; the cost of the search becomes blood."
+    },
+    {
+      "n": 14,
+      "title": "Run",
+      "summary": "Mara's POV. With his badge dead and a tail on the street, Mara goes dark for the first time in his life, using laundering techniques he once policed to move himself and the manifest out of the city. Emotional beat: shameful freedom—he's good at being a criminal."
+    },
+    {
+      "n": 15,
+      "title": "Brussels",
+      "summary": "Elena's POV. They contact a EU anti-fraud official, Anselm Roos, who seems sympathetic—until they spot his name style-matching a signature on the manifest. Emotional beat: hope weaponized into a trap."
+    },
+    {
+      "n": 16,
+      "title": "The Widow of 447",
+      "summary": "Mara's POV. They meet the widow whose complaint started everything; she gives them her husband's hidden notebook detailing the pact's mechanics. Emotional beat: grief transformed into purpose; the human stakes made flesh."
+    },
+    {
+      "n": 17,
+      "title": "Loyalty Test",
+      "summary": "Hale's POV. Under pressure from above, Hale must decide whether to burn Mara or protect the Unit. He leaks Mara's location to buy his own survival. Emotional beat: a weak man's tragedy, loyalty sold cheap."
+    },
+    {
+      "n": 18,
+      "title": "Night Train",
+      "summary": "Elena's POV. Fleeing to Rotterdam, Mara and Elena copy the notebook and manifest onto microfilm hidden in her press credentials. Corvin boards the same train. Emotional beat: tenderness in transit, danger ticking beside them."
+    },
+    {
+      "n": 19,
+      "title": "Compartment 7",
+      "summary": "Mara's POV. A tense, near-silent confrontation with Corvin disguised as a conductor; Mara bluffs with knowledge of the assassin's payment trail. Emotional beat: courage discovered late, and luck spent freely."
+    },
+    {
+      "n": 20,
+      "title": "Singapore Ledger",
+      "summary": "Dual POV. The notebook leads to a shell bank in Singapore holding the pact's settlement ledger. They recruit Mara's old mentor, Idris Tan, now retired and bitter. Emotional beat: unlikely alliance; belonging found among the discarded."
+    },
+    {
+      "n": 21,
+      "title": "Idris's Price",
+      "summary": "Idris's POV. Idris agrees to extract the ledger but demands his name in the story—fifteen years erased like Rosalind itself. Emotional beat: the theme sharpened: everyone wants to exist on the record."
+    },
+    {
+      "n": 22,
+      "title": "Extraction",
+      "summary": "Mara's POV. A night operation through the bank's data vault; they get the ledger but trip a silent alarm wired directly to Corvin's client. Emotional beat: victory shadowed by the certainty that the clock just sped up."
+    },
+    {
+      "n": 23,
+      "title": "Deadline Named",
+      "summary": "Elena's POV. Decoded ledger dates reveal the pact's signatories meet in nine days to renew terms—and destroy remaining evidence. Nine days to publish or lose everything. Emotional beat: the title's promise lands; time becomes the antagonist."
+    },
+    {
+      "n": 24,
+      "title": "Split Routes",
+      "summary": "Mara's POV. To divide risk, Elena takes copies toward a Geneva editor while Mara carries originals toward a Hague prosecutor. Saying goodbye, they finally admit they love each other. Emotional beat: love declared at the worst possible moment."
+    },
+    {
+      "n": 25,
+      "title": "Geneva Intercept",
+      "summary": "Corvin's POV. Corvin takes Elena's courier instead of Elena herself, recovering one copy and learning the full plan. He reports to his client: 'Two targets, two cities.' Emotional beat: dread via competence; the net tightening."
+    },
+    {
+      "n": 26,
+      "title": "The Hague Door",
+      "summary": "Mara's POV. The prosecutor listens, then reveals he's already been briefed—by Hale. Mara realizes the institutions will absorb and bury the truth unless it detonates publicly first. Emotional beat: despair of the rule-follower; rules were the trap."
+    },
+    {
+      "n": 27,
+      "title": "What Duty Costs",
+      "summary": "Hale's POV. Cornered between conscience and career, Hale sends Mara a partial confession and the meeting's location—an act of cowardice that accidentally helps. Emotional beat: redemption's smallest possible coin."
+    },
+    {
+      "n": 28,
+      "title": "Reunion Under Guns",
+      "summary": "Elena's POV. Mara reaches Geneva; he and Elena reunite in a safehouse as Corvin's surveillance closes in. They plan to broadcast during the pact summit itself. Emotional beat: love as logistics now—two people building one last chance."
+    },
+    {
+      "n": 29,
+      "title": "Idris Falls",
+      "summary": "Idris's POV. Corvin traces the Singapore extraction to Idris, who dies protecting the backup keys, mailing them to Mara with a note: 'Print my name.' Emotional beat: sacrifice; the cost of the deadline paid in friends."
+    },
+    {
+      "n": 30,
+      "title": "Thirty-Six Hours",
+      "summary": "Mara's POV. Countdown chapter: assembling the dossier, briefing a rogue broadcast engineer, mapping the summit hotel. Every ally is spent or scared. Emotional beat: exhausted resolve; the loneliest hour before the endgame."
+    },
+    {
+      "n": 31,
+      "title": "Corvin's Terms",
+      "summary": "Corvin's POV. Ordered to stop caring about collateral, Corvin hesitates for the first time—Mara's bluff about his payment trail was real, and his client plans to erase him too. Emotional beat: the instrument develops a soul at the worst moment."
+    },
+    {
+      "n": 32,
+      "title": "The Summit Floor",
+      "summary": "Mara's POV. Mara infiltrates the summit as catering staff, dossier in a service cart, watching the three signatories take their seats. Emotional beat: breathless proximity; history inches away behind a buffet."
+    },
+    {
+      "n": 33,
+      "title": "Signal Lost",
+      "summary": "Elena's POV. The broadcast van is identified and jammed; Elena makes the call to go live from a moving rooftop uplink with thirty seconds of window. Emotional beat: fear transmuted into defiance."
+    },
+    {
+      "n": 34,
+      "title": "Live",
+      "summary": "Dual POV. The dossier hits the air: ledgers, signatures, the fate of Flight 447. The summit erupts; delegates scatter; screens worldwide carry the names—including Idris Tan's. Emotional beat: catharsis; the invisible made undeniable."
+    },
+    {
+      "n": 35,
+      "title": "Rooftop",
+      "summary": "Mara's POV. Corvin finds Mara on the roof, gun drawn—but the broadcast naming his own death warrant changes his calculus. He lowers the weapon and walks away, leaving the client exposed. Emotional beat: mercy from an unexpected quarter; loyalty vs. truth resolved in miniature."
+    },
+    {
+      "n": 36,
+      "title": "Aftermath, Three Capitals",
+      "summary": "Elena's POV. Resignations cascade; prosecutors reopen the case; Hale testifies and breaks. The widow of 447 watches the hearings from the front row. Emotional beat: justice arriving imperfect but real."
+    },
+    {
+      "n": 37,
+      "title": "Testimony",
+      "summary": "Mara's POV. Mara testifies publicly, ending his anonymity forever—unemployable in finance, finally visible. He reads Idris's name into the record. Emotional beat: grief and release; the man who followed rules becomes the man who broke them for truth."
+    },
+    {
+      "n": 38,
+      "title": "What We Keep",
+      "summary": "Elena's POV. Elena and Mara rebuild slowly—her byline restored, his new life undefined. They choose each other without the excuse of crisis. Emotional beat: quiet love, tested by peace instead of danger."
+    },
+    {
+      "n": 39,
+      "title": "Flight Number Recycled",
+      "summary": "Mara's POV. Months later, an airline reuses the number 447; Mara boards a routine flight and watches the departure board hold his plane's name steady, recorded everywhere. Emotional beat: healing; the world's memory working again."
+    },
+    {
+      "n": 40,
+      "title": "Rosalind",
+      "summary": "Final dual POV. At a memorial for the flight's true passengers, Mara and Elena read the victims' names aloud, then walk away together into an unwitnessed, ordinary afternoon. Emotional beat: belonging earned—not by the system, but by each other."
+    }
+  ]
+}

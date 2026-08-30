@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08111",
+  "title": "Gideon and the Machine",
+  "author": "Isandro Lockridge",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Coral Coldharbour, a clone who inherited the original's murder case, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. To get through this, they must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8111
+  }
+}

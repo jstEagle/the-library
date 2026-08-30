@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08177",
+  "title": "Tamsin and the Horizon",
+  "author": "Silas Kavanagh",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Mara Kavanagh, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8177
+  }
+}

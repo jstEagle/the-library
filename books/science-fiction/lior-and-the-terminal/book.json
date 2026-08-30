@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08361",
+  "title": "Lior and the Terminal",
+  "author": "Paloma Fairweather",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Freya Eastwick, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. To get through this, she must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "belonging",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8361
+  }
+}

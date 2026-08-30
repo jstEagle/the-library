@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07100",
+  "title": "The Last Machine",
+  "author": "Mara Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Xanthe Brightwater, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. To get through this, he must reach the relay at the edge of dead space, racing the signal before the reactor finishes its countdown.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7100
+  }
+}

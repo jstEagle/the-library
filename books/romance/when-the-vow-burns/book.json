@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06115",
+  "title": "When the Vow Burns",
+  "author": "Quentin Fairweather",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Gideon Eastwick, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. But when a fake date to survive a family reunion feels too real by dessert, they discover that staying invisible was never really an option. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6115
+  }
+}

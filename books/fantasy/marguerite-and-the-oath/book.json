@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01708",
+  "title": "Marguerite and the Oath",
+  "author": "Jonah Reyes",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Coral Galloway, a debt-bound temple scribe, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. To get through this, he must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1708
+  }
+}

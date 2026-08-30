@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02444",
+  "title": "The Last Regiment",
+  "author": "M. M. Blackwood",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Zephyrine Hartwell, an apprentice clockmaker summoned to repair the observatory's master clock, has spent twenty years learning which silences keep people safe. But when the bridge — the only road out — closes for the season, she discovers that staying invisible was never really an option. Now she must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2444
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00213",
+  "title": "The Compass of the Sepik Basin",
+  "author": "Sable Vasquez",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Rafael Brightwater, a desert ranger tracking a thief across nothing, has spent ten years measuring life in miles rather than years. But when the tide reveals a cave that legends charge admission to, he discovers that staying invisible was never really an option. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 213
+  }
+}

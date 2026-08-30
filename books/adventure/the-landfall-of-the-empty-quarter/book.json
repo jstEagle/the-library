@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00246",
+  "title": "The Landfall of the Empty Quarter",
+  "author": "B. M. Nystrom",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "August Nakamura, an archaeologist's estranged child and better digger, keeps moving because stopping costs more. But when a government survey team vanishes, leaving gear and no tracks, they discover that staying invisible was never really an option. To get through this, they must bring the expedition home without telling anyone what it found before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 246
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06895",
+  "title": "Ansel and the Summer",
+  "author": "Paloma Kavanagh",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Vesper Ashgrove, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. But when a lost letter surfaces, postmarked eleven years ago, she discovers that staying invisible was never really an option. Now she must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6895
+  }
+}

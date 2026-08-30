@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03930",
+  "title": "Bram and the Visitor",
+  "author": "Sebastian Amberdale",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Theo Iversen, a twin who came home to bury the wrong sibling, has spent three years telling themselves the noises have explanations. But when the excavation crew unearths a door, sealed from the inside, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the well refills.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3930
+  }
+}

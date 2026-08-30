@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03663",
+  "title": "Lior and the Portrait",
+  "author": "Marguerite Sterling",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "August Voss, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. But when every mirror in the house starts reflecting the room one second late, she discovers that staying invisible was never really an option. Now she must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3663
+  }
+}

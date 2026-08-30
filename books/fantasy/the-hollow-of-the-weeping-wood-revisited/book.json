@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02265",
+  "title": "The Hollow of the Weeping Wood Revisited",
+  "author": "Jonah Oyelaran",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Casper Vasquez, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2265
+  }
+}

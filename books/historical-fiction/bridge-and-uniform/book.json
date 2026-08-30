@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03006",
+  "title": "Bridge and Uniform",
+  "author": "Orsen Amberdale",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Bram Okafor, a typeface cutter's daughter in a print shop on the eve of a revolution, measures the world in what can be carried when the orders come. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the ship sails on the morning tide.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3006
+  }
+}

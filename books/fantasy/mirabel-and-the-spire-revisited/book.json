@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02000",
+  "title": "Mirabel and the Spire Revisited",
+  "author": "L. M. Ishikawa",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Ansel Underhill, the keeper of a gate that should stay shut, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2000
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09197",
+  "title": "A Border for the Cipher",
+  "author": "Ansel Yarrow",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Vesper Lockridge, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9197
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07430",
+  "title": "Ansel and the Machine",
+  "author": "Paloma Dravenmoor",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Casper Sterling, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. To get through this, they must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7430
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06369",
+  "title": "The Orchard of Rosewater Lane",
+  "author": "Cyrus Marchetti",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ansel Reyes, a ghostwriter secretly penning a rival's memoirs, has spent twelve years rebuilding a life measured in small safe steps. But when two estranged names appear on the same impossibly stubborn orchard deed, they discover that staying invisible was never really an option. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6369
+  }
+}

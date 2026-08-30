@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03512",
+  "title": "A Smile for the Winter",
+  "author": "Rafael Nystrom",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Orsen Kavanagh, a folklorist recording songs the village refuses to sing twice, keeps the lights on and the doors counted. Then the village's church bell rings although the bell was melted down in 1911 — and they are pulled straight into the middle of it. Now they must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3512
+  }
+}

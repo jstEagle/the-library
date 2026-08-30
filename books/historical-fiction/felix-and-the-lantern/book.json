@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02813",
+  "title": "Felix and the Lantern",
+  "author": "Elodie Pemberton",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Quentin Ashgrove, a typeface cutter's daughter in a print shop on the eve of a revolution, measures the world in what can be carried when the orders come. But when the census taker asks one question too many, they discover that staying invisible was never really an option. Now they must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2813
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03509",
+  "title": "Oscar and the Hymn",
+  "author": "Beatrix Joubert",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Ines Iversen, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. Then the childhood imaginary friend is waiting on the porch, unchanged — and they are pulled straight into the middle of it. To get through this, they must hold out until sunrise with the truth about what was invited in before the harvest moon rises.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3509
+  }
+}

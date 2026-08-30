@@ -1,0 +1,21 @@
+{
+  "id": "THR-09126",
+  "title": "A Asset for the Ghost",
+  "author": "R. M. Eastwick",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Cyrus Brightwater, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9126
+  }
+}

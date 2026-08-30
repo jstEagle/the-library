@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05185",
+  "title": "When the Verdict Burns",
+  "author": "Oscar Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "August Galloway, a true-crime podcaster chasing the coldest case on record, has spent three years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5185
+  }
+}

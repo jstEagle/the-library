@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00503",
+  "title": "Wren and the Summit",
+  "author": "Petra Eastwick",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Jude Reyes, a storm chaser who owes money to dangerous optimists, carries a compass, a debt, and very little else. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 503
+  }
+}

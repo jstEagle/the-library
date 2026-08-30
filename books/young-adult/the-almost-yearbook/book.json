@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09985",
+  "title": "The Almost Yearbook",
+  "author": "Marguerite Lockridge",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Mirabel Voss, the only out kid in a town of nine hundred, counts days until graduation like a sentence being served. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, they discover that staying invisible was never really an option. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9985
+  }
+}

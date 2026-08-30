@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05803",
+  "title": "Freya and the Witness",
+  "author": "August Lockridge",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Tamsin Joubert, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5803
+  }
+}

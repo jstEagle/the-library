@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05173",
+  "title": "A Verdict for the Witness",
+  "author": "Quentin Dunmore",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Elodie Crane, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. Then a body turns up dressed in clothes stolen from the witness's own closet — and he is pulled straight into the middle of it. To get through this, he must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5173
+  }
+}

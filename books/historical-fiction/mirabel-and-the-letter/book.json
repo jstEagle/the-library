@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02725",
+  "title": "Mirabel and the Letter",
+  "author": "Vesper Marchetti",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Paloma Voss, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, he discovers that staying invisible was never really an option. Now he must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2725
+  }
+}

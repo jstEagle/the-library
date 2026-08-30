@@ -1,0 +1,119 @@
+{
+  "title": "The Quiet Static",
+  "slug": "science-fiction/the-quiet-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Ulyana Ravensworth, sole caretaker of the derelict Svalbard Deep Seed Vault turned orbital waystation, has survived a decade of war by hauling cargo through contested orbits and answering to no one. When she intercepts a distress signal broadcast in High Meridian—a language extinct since the Meridian Purge two centuries ago—she realizes the sender is a hidden colony descended from the war's original victims, and their message contains proof that could end the conflict or ignite its final atrocity. Hunted by both the Concord fleet and the insurgent Ashfall Compact, Ulyana assembles an unlikely crew of smugglers, defectors, and one very old AI to carry the message to the neutral Spire Assembly before the Concord's scorched-earth deadline. In the end she must choose between broadcasting the truth—which exposes her own family's complicity in the Purge—and destroying it to protect the only people she's ever loved; she broadcasts it, the war collapses into reckoning rather than victory, and Ulyana finally stops running.",
+  "about_author": "Isandro Blackwood is the pen name of a former radio engineer who spent years maintaining remote Arctic listening stations before turning to fiction. Their work blends hard-science logistics with quiet, character-driven moral drama.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Ten Years of Silence",
+      "summary": "Ulyana's POV. A routine cargo run past the dead seed vault establishes her solitary life, her careful neutrality, and the routines that keep her invisible in contested space. Emotional beat: comfortable loneliness masking old grief over her brother's disappearance in the Purge commemorations."
+    },
+    {
+      "n": 2,
+      "title": "A Language That Should Be Dead",
+      "summary": "Ulyana's POV. Her salvaged receiver catches a repeating distress signal in High Meridian—the tongue her grandmother sang lullabies in. She verifies it isn't a trap... probably. Emotional beat: wonder curdling into dread as she recognizes words from her childhood."
+    },
+    {
+      "n": 3,
+      "title": "The Vault Below",
+      "summary": "Ulyana descends into the abandoned vault to consult its sealed archive terminal, waking the ancient custodial AI, EIRWEN, who has waited two centuries for someone to ask questions. Emotional beat: reluctant partnership; the vault is no longer empty."
+    },
+    {
+      "n": 4,
+      "title": "Cargo With a Heartbeat",
+      "summary": "Ulyana traces the signal to a drifting medical hauler carrying survivors from a hidden Meridian-descended colony. Among them: a dying elder named Sefa who entrusts her with an encrypted datacore. Emotional beat: first found-family spark—Ulyana can't walk away."
+    },
+    {
+      "n": 5,
+      "title": "Concord Wake",
+      "summary": "POV shift to Concord Captain Dario Vess, ordered to sanitize the sector before the Armistice Summit. He's a career officer beginning to doubt his orders. Emotional beat: cold duty cracking; he logs the anomaly Ulyana left behind instead of reporting it."
+    },
+    {
+      "n": 6,
+      "title": "The Smuggler's Table",
+      "summary": "Ulyana's POV. At the lawless port of Kettleblack she recruits pilot Jun Okafor and medic Rhee Tanaka—people with their own reasons to hate both sides. Emotional beat: wary bargaining becoming the skeleton of a crew."
+    },
+    {
+      "n": 7,
+      "title": "What the Datacore Says",
+      "summary": "EIRWEN partially decrypts the core: proof the Concord's founding atrocity was manufactured to justify the Purge. Ulyana realizes delivering it means painting a target on everyone aboard. Emotional beat: the price of knowledge; she almost deletes it."
+    },
+    {
+      "n": 8,
+      "title": "Ashfall",
+      "summary": "POV of Ashfall Compact insurgent leader Mirei Sol, who wants the datacore as a weapon, not a message. She offers Ulyana protection—and threatens everything else. Emotional beat: seductive extremism; justice twisted into vengeance."
+    },
+    {
+      "n": 9,
+      "title": "Running Silent",
+      "summary": "Ulyana's POV. The crew threads a debris field to evade both fleets, forced to shut down life support to hide thermal signatures. Emotional beat: terror and intimacy in the dark; stories shared by emergency light forge real trust."
+    },
+    {
+      "n": 10,
+      "title": "The Defector",
+      "summary": "They rescue Vess, whose ship executed a colony outpost on orders he refused to finish. His testimony corroborates the datacore—but the crew doesn't trust him. Emotional beat: can a man complicit in atrocity be part of the answer?"
+    },
+    {
+      "n": 11,
+      "title": "Sefa's Last Hour",
+      "summary": "The elder dies, but first records a personal appeal in High Meridian that no algorithm can fake. Ulyana grieves someone she knew for days more deeply than anyone in ten years. Emotional beat: grief as inheritance; the mission becomes personal."
+    },
+    {
+      "n": 12,
+      "title": "Kettleblack Burns",
+      "summary": "The Compact torches the port to flush out the datacore's location, killing friends Ulyana made there. Emotional beat: rage; Ulyana understands how easily grief becomes the fuel Mirei runs on."
+    },
+    {
+      "n": 13,
+      "title": "The Devil's Arithmetic",
+      "summary": "EIRWEN reveals the full archive—including evidence that Ulyana's own ancestors helped author the Purge's justification. Emotional beat: betrayal across generations; Ulyana confronts what her name costs."
+    },
+    {
+      "n": 14,
+      "title": "Mirei's Offer",
+      "summary": "The Compact captures the ship. Mirei offers Ulyana a place at her side: deliver the datacore as a bombshell to shatter the Concord entirely, colonies be damned. Emotional beat: temptation of righteous fury; Ulyana sees her own future in Mirei's eyes."
+    },
+    {
+      "n": 15,
+      "title": "Escape Velocity",
+      "summary": "Jun and Rhee stage a desperate breakout using the vault's old seed-launcher as a decoy barrage; Vess earns his place bleeding for strangers. Emotional beat: found family proven under fire; they escape, barely, changed."
+    },
+    {
+      "n": 16,
+      "title": "The Long Dark",
+      "summary": "A quiet interlude crossing open space: repairs, confessions, EIRWEN learning to joke badly, Ulyana teaching the crew Meridian songs. Emotional beat: peace before the storm; what they're fighting for becomes concrete."
+    },
+    {
+      "n": 17,
+      "title": "Deadline: Scorched Earth",
+      "summary": "Vess learns the Concord moves up its sanitization timetable—the colony and every witness will be erased in forty hours. Emotional beat: clock ticking; the choice between safety and action collapses."
+    },
+    {
+      "n": 18,
+      "title": "The Spire Gambit",
+      "summary": "Ulyana's plan: crash the Armistice Summit at the neutral Spire and force a public broadcast, knowing neither fleet can fire without triggering mutual annihilation protocols. Emotional beat: audacity born of desperation; all hands volunteer."
+    },
+    {
+      "n": 19,
+      "title": "Static Over the Summit",
+      "summary": "Climax begins. They breach the Spire's jamming net; Vess surrenders himself to buy minutes while Jun flies the impossible approach. Emotional beat: sacrifice stacking on sacrifice; every debt called in."
+    },
+    {
+      "n": 20,
+      "title": "The Broadcast",
+      "summary": "Climax. On the summit floor, Ulyana plays Sefa's voice and the decrypted record—including her family's guilt—before delegates of both sides. Mirei arrives to seize it by force and finds her own people refusing to follow. Emotional beat: truth as detonation; the war's logic breaks publicly."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath of Truth",
+      "summary": "Neither side wins; tribunals begin, the colony emerges from hiding, and Mirei walks away rather than become what she fought. Vess accepts judgment; Jun and Rhee stay with Ulyana. Emotional beat: exhausted, imperfect hope; justice outside the law holds, barely."
+    },
+    {
+      "n": 22,
+      "title": "Seeds, Planted",
+      "summary": "Epilogue, Ulyana's POV. One year later, the vault reopens as a school and archive; EIRWEN teaches children a language two centuries dead. Ulyana plants the first new seed row and answers a hail from home. Emotional beat: arrival; invisibility traded for belonging."
+    }
+  ]
+}

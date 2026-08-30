@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00627",
+  "title": "Xanthe and the Provision",
+  "author": "Theo Sandoval",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Theo Sandoval, a riverboat captain who knows every sandbar's mood, knows the wilderness forgives nothing and forgets less. Then an old rival hires the crew for the one job that was sworn off long ago — and they are pulled straight into the middle of it. To get through this, they must follow a river upstream to its forbidden source before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 627
+  }
+}

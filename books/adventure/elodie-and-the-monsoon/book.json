@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00673",
+  "title": "Elodie and the Monsoon",
+  "author": "Yara Oyelaran",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Kestrel Nakamura, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 673
+  }
+}

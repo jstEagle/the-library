@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00484",
+  "title": "The Far Monsoon",
+  "author": "Lena Fairweather",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Kestrel Ishikawa, a mountain guide blacklisted from two countries, knows the wilderness forgives nothing and forgets less. Then a government survey team vanishes, leaving gear and no tracks — and he is pulled straight into the middle of it. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 484
+  }
+}

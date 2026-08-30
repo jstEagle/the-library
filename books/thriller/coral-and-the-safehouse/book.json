@@ -1,0 +1,21 @@
+{
+  "id": "THR-09207",
+  "title": "Coral and the Safehouse",
+  "author": "Marguerite Montrose",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Cyrus Halloran, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. To get through this, he must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9207
+  }
+}

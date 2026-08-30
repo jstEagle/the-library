@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00207",
+  "title": "The Escarpment of the Sepik Basin",
+  "author": "Petra Kavanagh",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ines Halloran, a railroad engineer with a map of closed lines, carries a compass, a debt, and very little else. But when an expedition upriver stops answering the radio, he discovers that staying invisible was never really an option. To get through this, he must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 207
+  }
+}

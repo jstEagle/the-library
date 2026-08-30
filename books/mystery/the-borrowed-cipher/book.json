@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04937",
+  "title": "The Borrowed Cipher",
+  "author": "Rafael Brightwater",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Coral Okonkwo, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4937
+  }
+}

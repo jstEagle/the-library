@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07716",
+  "title": "The Quiet Archive",
+  "author": "Bram Vasquez",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Silas Quintana, an insurance investigator of impossible accidents, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7716
+  }
+}

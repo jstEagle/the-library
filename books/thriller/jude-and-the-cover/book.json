@@ -1,0 +1,21 @@
+{
+  "id": "THR-08445",
+  "title": "Jude and the Cover",
+  "author": "Kestrel Nystrom",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Wren Iversen, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8445
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00487",
+  "title": "Petra and the Rivergate",
+  "author": "Rafael Thornbury",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ivo Winterbourne, a storm chaser who owes money to dangerous optimists, has spent twenty years measuring life in miles rather than years. But when the river gives up a chest stamped with a dead nation's seal, he discovers that staying invisible was never really an option. To get through this, he must cross the range ahead of the snows before the concession permits expire.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 487
+  }
+}

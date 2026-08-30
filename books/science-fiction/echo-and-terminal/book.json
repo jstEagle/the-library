@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07905",
+  "title": "Echo and Terminal",
+  "author": "O. M. Okonkwo",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ada Reyes, the last human technician on an automated relay station, records the slow death of a colony everyone else forgot. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. To get through this, they must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7905
+  }
+}

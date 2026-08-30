@@ -1,0 +1,21 @@
+{
+  "id": "THR-09499",
+  "title": "The Burnt Deadline Revisited",
+  "author": "Dominic Brightwater",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Beatrix Reyes, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9499
+  }
+}

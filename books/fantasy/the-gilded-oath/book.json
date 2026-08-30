@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01115",
+  "title": "The Gilded Oath",
+  "author": "Coral Thackeray",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Sable Pemberton, the youngest member of a dying guild, has spent seven years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1115
+  }
+}

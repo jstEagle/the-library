@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06156",
+  "title": "Letters and Vow",
+  "author": "J. M. Fairweather",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Sebastian Vasquez, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. To get through this, she must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6156
+  }
+}

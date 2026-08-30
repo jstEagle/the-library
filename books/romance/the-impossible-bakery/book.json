@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06319",
+  "title": "The Impossible Bakery",
+  "author": "Sable Vane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Vesper Voss, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "memory",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6319
+  }
+}

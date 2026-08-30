@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04879",
+  "title": "Sable and the Inheritance",
+  "author": "Ines Dunmore",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Cyrus Coldharbour, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. But when a body turns up dressed in clothes stolen from the witness's own closet, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the trial begins.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4879
+  }
+}

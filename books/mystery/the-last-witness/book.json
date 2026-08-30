@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04847",
+  "title": "The Last Witness",
+  "author": "Lena Eastwick",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Jude Sterling, an estate lawyer reading a will that shouldn't exist, has spent ten years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4847
+  }
+}

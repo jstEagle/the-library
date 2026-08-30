@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00301",
+  "title": "Monsoon and Compass",
+  "author": "Mara Pemberton",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Gideon Quintana, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, she discovers that staying invisible was never really an option. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 301
+  }
+}

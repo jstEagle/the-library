@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00703",
+  "title": "The Last Veil",
+  "author": "Kestrel Voss",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Isandro Vasquez, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 703
+  }
+}

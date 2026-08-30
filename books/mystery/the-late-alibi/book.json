@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05044",
+  "title": "The Late Alibi",
+  "author": "Cyrus Sterling",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Juniper Ishikawa, a hotel concierge who notices everything, thought they had seen every way a life can end. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5044
+  }
+}

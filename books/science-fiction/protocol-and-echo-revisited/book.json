@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08060",
+  "title": "Protocol and Echo Revisited",
+  "author": "Paloma Underhill",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Paloma Almeida, a xenolinguist who can no longer dream in human languages, maintains the beacon nobody remembers commissioning. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8060
+  }
+}

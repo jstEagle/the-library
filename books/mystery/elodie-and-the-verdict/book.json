@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05449",
+  "title": "Elodie and the Verdict",
+  "author": "V. M. Underhill",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Lior Thornbury, a retired detective running a failing bookshop, thought they had seen every way a life can end. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5449
+  }
+}

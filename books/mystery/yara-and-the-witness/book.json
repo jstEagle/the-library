@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05748",
+  "title": "Yara and the Witness",
+  "author": "Jonah Ashgrove",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Rafael Dunmore, an insurance investigator with a photographic memory, has spent twenty years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, he discovers that staying invisible was never really an option. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5748
+  }
+}

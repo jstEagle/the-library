@@ -1,0 +1,59 @@
+{
+  "title": "Jude and the Escarpment",
+  "slug": "adventure/jude-and-the-escarpment",
+  "model": "stealth/ox-alpha",
+  "premise": "Jude Galloway, estranged son of disgraced archaeologist Petra Galloway, digs for a salvage crew to pay off his mother's debts. When her old rival, Marcus Vane, hires the crew to raise the Meridian — the wreck Petra swore off after a diver died — Jude discovers his mother's compass points not north but to something Vane will kill to keep buried: proof that the wreck's 'salvage rights' were forged, and that the drowned diver was murdered. Racing Vane's fleet across six tides, Jude must choose between the fortune that would clear his name and exposing the truth. In the end he sinks the salvage claim itself, letting the Meridian keep its dead, and walks away with only the compass — and his mother's forgiveness, found in a letter she left inside it.",
+  "about_author": "Lior Joubert is a former marine surveyor who spent a decade mapping wrecks off Atlantic coasts before turning to fiction. They write adventure stories about people who dig up the past and have to live with what comes loose.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Six Tides",
+      "summary": "Jude's POV. Digging a contractor trench in the Hebrides, Jude learns his crew has been hired by Marcus Vane for the Meridian job — the one his mother swore off before vanishing from his life. He takes it anyway; the debt collectors gave him six weeks. Emotional beat: resentment disguised as pragmatism."
+    },
+    {
+      "n": 2,
+      "title": "The Compass That Lies",
+      "summary": "Jude's POV. Aboard Vane's survey vessel, Jude unpacks his mother's old brass compass and finds it doesn't point north — it drifts toward the wreck site itself. Vane notices Jude's familiarity with Petra's methods and grows watchful. Emotional beat: unease, the first hint that this job is personal for everyone aboard."
+    },
+    {
+      "n": 3,
+      "title": "What the Dredge Brought Up",
+      "summary": "Alternating Jude and deckhand Sefa's POV. The first dive recovers a sealed strongbox — and a dive helmet with a cracked faceplate, twenty years old. Sefa recognizes the serial number: Tomas Reyes, the diver who died on the original expedition. Vane orders the helmet quietly dumped. Emotional beat: dread hardening into suspicion."
+    },
+    {
+      "n": 4,
+      "title": "Petra's Ledger",
+      "summary": "Jude's POV, flashback-heavy. Inside the strongbox is a ledger in Petra's handwriting documenting forged salvage permits signed by a young Marcus Vane. Jude realizes his mother didn't abandon the profession — she was driven out of it. Emotional beat: grief reframing anger; the inheritance theme turns literal."
+    },
+    {
+      "n": 5,
+      "title": "Storm Glass",
+      "summary": "Sefa's POV. A storm forces the fleet to shelter; Vane uses the delay to cut a secret deal with a rival captain, offering Reyes' family hush money through intermediaries. Sefa, Reyes' niece, intercepts the message. Emotional beat: quiet fury; alliances begin shifting below decks."
+    },
+    {
+      "n": 6,
+      "title": "Two Days of Water",
+      "summary": "Jude's POV. Vane confronts Jude about the ledger, offers him a share to burn it — enough to erase every debt. Jude stalls, and Vane confines him to quarters as the fleet makes its final run. The compass is confiscated. Emotional beat: temptation at full price, then betrayal."
+    },
+    {
+      "n": 7,
+      "title": "The Wreck by Night",
+      "summary": "Sefa and Jude's POV. Sefa frees Jude; they dive the Meridian at night without permits, finding Reyes' final air tank — scratched from the inside. He was alive when the hatch was jammed. Above them, Vane's divers descend with cutting charges. Emotional beat: horror transmuted into resolve; justice outside the law begins here."
+    },
+    {
+      "n": 8,
+      "title": "Sixth Tide",
+      "summary": "Jude's POV. Climax. Jude surfaces into open confrontation, broadcasting the ledger and tank evidence over the fleet's radio while Vane's charges crack the hull. Vane tries to scuttle the site and the evidence together; Jude dives one last time as the tide turns, retrieving the compass and nearly joining the dead. Emotional beat: everything risked on a single breath."
+    },
+    {
+      "n": 9,
+      "title": "Wreckage, Adjudicated",
+      "summary": "Sefa's POV. Ashore, the evidence goes to maritime authorities and a journalist; Vane's permits collapse and his fleet is impounded, though he slips the worst charges on a technicality — justice is partial, not clean. Sefa claims Reyes' name back from the incident report. Emotional beat: bitter, imperfect vindication."
+    },
+    {
+      "n": 10,
+      "title": "North by Nothing",
+      "summary": "Jude's POV. At Petra's cottage, Jude finds the letter hidden in the compass housing — an apology and the truth about why she stayed silent. He pays the debt with Vane's forfeited bond money, then gives the rest away. The compass finally points north. Emotional beat: release; inheritance accepted on his own terms."
+    }
+  ]
+}

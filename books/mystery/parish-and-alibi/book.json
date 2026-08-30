@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05053",
+  "title": "Parish and Alibi",
+  "author": "Petra Joubert",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Mirabel Eastwick, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5053
+  }
+}

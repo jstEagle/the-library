@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01130",
+  "title": "The Hollow Ember",
+  "author": "L. M. Okafor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Cyrus Sandoval, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1130
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04715",
+  "title": "Interior and Postcards",
+  "author": "Emrys Galloway",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Xanthe Lockridge, a restaurant critic who has forgotten how food tastes, has spent five years practicing the art of almost saying it. Then a box of undelivered letters surfaces behind a wardrobe — and he is pulled straight into the middle of it. To get through this, he must translate the untranslatable sentence and live with it before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4715
+  }
+}

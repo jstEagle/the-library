@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05655",
+  "title": "Ansel and the Cipher",
+  "author": "Wren Delacroix",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Lior Nystrom, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. To get through this, she must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5655
+  }
+}

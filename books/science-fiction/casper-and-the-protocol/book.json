@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07899",
+  "title": "Casper and the Protocol",
+  "author": "Emrys Voss",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Lena Oyelaran, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7899
+  }
+}

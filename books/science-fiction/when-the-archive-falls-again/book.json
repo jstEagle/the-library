@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08029",
+  "title": "When the Archive Falls Again",
+  "author": "Rafael Halloran",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Petra Joubert, the last human technician on an automated relay station, has spent five years hauling cargo through contested orbits. Then gravity flickers across the entire system for exactly nine seconds — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8029
+  }
+}

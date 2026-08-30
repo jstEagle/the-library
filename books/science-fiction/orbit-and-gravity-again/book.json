@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08332",
+  "title": "Orbit and Gravity Again",
+  "author": "Ansel Quintana",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Yara Winterbourne, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8332
+  }
+}

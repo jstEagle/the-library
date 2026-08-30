@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03148",
+  "title": "Sebastian and the Letter",
+  "author": "Mara Quintana",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Quentin Fairweather, a suffragist's driver who reads every letter before delivering it, keeps a low profile and busy hands. But when a child is left at the door with instructions to forget the face, she discovers that staying invisible was never really an option. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3148
+  }
+}

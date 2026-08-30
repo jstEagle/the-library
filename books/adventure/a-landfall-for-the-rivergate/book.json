@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00623",
+  "title": "A Landfall for the Rivergate",
+  "author": "Paloma Vasquez",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Gideon Galloway, a bush pilot flying medicine and rumors into the interior, knows the wilderness forgives nothing and forgets less. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 623
+  }
+}

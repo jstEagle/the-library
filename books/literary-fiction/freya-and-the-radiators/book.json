@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04563",
+  "title": "Freya and the Radiators",
+  "author": "Isandro Villalobos",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Casper Ishikawa, an heir cataloging a parent's silence after the funeral, has perfected the smile that ends conversations. Then a stranger at the funeral knows the family by a name nobody uses — and he is pulled straight into the middle of it. To get through this, he must translate the untranslatable sentence and live with it before the mother's memory goes entirely.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4563
+  }
+}

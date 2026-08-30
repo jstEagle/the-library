@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04259",
+  "title": "The Language of the old quarter",
+  "author": "Felix Blackwood",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Rosalind Quintana, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4259
+  }
+}

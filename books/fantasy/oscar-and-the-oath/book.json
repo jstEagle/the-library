@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01725",
+  "title": "Oscar and the Oath",
+  "author": "Bram Yarrow",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Bram Nystrom, the last oath-bound swordspeaker, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1725
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02832",
+  "title": "A Typewriter for the Ledger",
+  "author": "Wendell Zhou",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Gideon Ishikawa, a code-carrying courier on the last diplomatic mission of a doomed republic, believes history happens to other people, elsewhere. Then the census taker asks one question too many — and she is pulled straight into the middle of it. Now she must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2832
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00581",
+  "title": "The Open Current",
+  "author": "Bram Joubert",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Hazel Almeida, a salvage diver working a wreck the navy won't discuss, knows the wilderness forgives nothing and forgets less. But when a dying prospector trades a map for a promise, he discovers that staying invisible was never really an option. To get through this, he must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 581
+  }
+}

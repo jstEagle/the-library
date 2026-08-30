@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02454",
+  "title": "The Compass of Port Mahon",
+  "author": "Paloma Iversen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Coral Sterling, a pearl diver's child indentured to a trading company, has spent fifteen years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and he is pulled straight into the middle of it. To get through this, he must get the truth on the record ahead of the victors' historians before the century turns.",
+  "themes": [
+    "belonging",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2454
+  }
+}

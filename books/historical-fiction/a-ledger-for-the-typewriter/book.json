@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02818",
+  "title": "A Ledger for the Typewriter",
+  "author": "Gideon Vane",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Marguerite Delacroix, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. Now he must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2818
+  }
+}

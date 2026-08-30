@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04950",
+  "title": "Letter and Parish",
+  "author": "Emrys Brightwater",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Hazel Thornbury, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. But when a body turns up dressed in clothes stolen from the witness's own closet, he discovers that staying invisible was never really an option. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4950
+  }
+}

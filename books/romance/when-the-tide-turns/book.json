@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06317",
+  "title": "When the Tide Turns",
+  "author": "Casper Whitlock",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Bram Voss, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6317
+  }
+}

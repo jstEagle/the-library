@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04742",
+  "title": "A Aftermath for the Interior",
+  "author": "Ada Reyes",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Marguerite Dunmore, a piano tuner who hears the house's history in its radiators, has spent ten years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and he is pulled straight into the middle of it. Now he must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4742
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01763",
+  "title": "Silas and the Wolf",
+  "author": "Mara Lockridge",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Noor Nystrom, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. Then the old gods begin answering prayers again — and he is pulled straight into the middle of it. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1763
+  }
+}

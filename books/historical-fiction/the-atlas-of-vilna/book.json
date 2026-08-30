@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02883",
+  "title": "The Atlas of Vilna",
+  "author": "Wren Zhou",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Lior Lockridge, a battlefield nurse keeping a ledger of the names officers omit, has spent twenty years learning which silences keep people safe. But when the census taker asks one question too many, they discover that staying invisible was never really an option. To get through this, they must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2883
+  }
+}

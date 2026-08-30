@@ -1,0 +1,21 @@
+{
+  "id": "THR-09481",
+  "title": "Coral and the Deadline",
+  "author": "Beatrix Hartwell",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Marguerite Ashgrove, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9481
+  }
+}

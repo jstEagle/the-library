@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06122",
+  "title": "Gideon and the Tide",
+  "author": "T. M. Marchetti",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Jonah Oyelaran, a single parent running the town's only bookshop, has spent ten years rebuilding a life measured in small safe steps. But when the anonymous pen-pal assignment pairs enemies instead of strangers, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6122
+  }
+}

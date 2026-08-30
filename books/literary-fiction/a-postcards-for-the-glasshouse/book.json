@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04477",
+  "title": "A Postcards for the Glasshouse",
+  "author": "Hazel Lockridge",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Silas Blackwood, a letter-writer sending postcards to an address that burned down years ago, moves through the days like a tenant, not an owner. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4477
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00643",
+  "title": "Jude and the Landfall",
+  "author": "Sebastian Thornbury",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Sebastian Brightwater, a desert ranger tracking a thief across nothing, knows the wilderness forgives nothing and forgets less. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. To get through this, they must follow a river upstream to its forbidden source before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 643
+  }
+}

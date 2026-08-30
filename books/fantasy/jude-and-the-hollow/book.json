@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01821",
+  "title": "Jude and the Hollow",
+  "author": "Beatrix Joubert",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Quentin Kavanagh, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1821
+  }
+}

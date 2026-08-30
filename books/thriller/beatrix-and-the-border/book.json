@@ -1,0 +1,21 @@
+{
+  "id": "THR-09005",
+  "title": "Beatrix and the Border",
+  "author": "M. M. Sandoval",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Ivo Almeida, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9005
+  }
+}

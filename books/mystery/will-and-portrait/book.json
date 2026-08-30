@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04888",
+  "title": "Will and Portrait",
+  "author": "Yara Oyelaran",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Edmund Thornbury, an insurance investigator with a photographic memory, has spent twelve years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4888
+  }
+}

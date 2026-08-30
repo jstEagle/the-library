@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02427",
+  "title": "The Paper Uniform",
+  "author": "Hazel Eastwick",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ansel Sandoval, a widowed lighthouse keeper during the year of the great storms, believes history happens to other people, elsewhere. But when the census taker asks one question too many, they discover that staying invisible was never really an option. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ice breaks on the river.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2427
+  }
+}

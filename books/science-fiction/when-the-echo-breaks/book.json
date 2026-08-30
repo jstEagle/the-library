@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07592",
+  "title": "When the Echo Breaks",
+  "author": "Mara Crane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Kestrel Nystrom, a terraformer tending a garden meant for people not yet born, has spent twenty years hauling cargo through contested orbits. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7592
+  }
+}

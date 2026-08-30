@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00554",
+  "title": "Horizon and Wreck",
+  "author": "Isandro Blackwood",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Elodie Voss, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. But when a dying prospector trades a map for a promise, she discovers that staying invisible was never really an option. To get through this, she must cross the range ahead of the snows before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 554
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05838",
+  "title": "Elodie and the Confession",
+  "author": "Noor Joubert",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Coral Almeida, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. To get through this, they must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5838
+  }
+}

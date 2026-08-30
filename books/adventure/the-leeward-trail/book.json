@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00421",
+  "title": "The Leeward Trail",
+  "author": "Rosalind Brightwater",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Zephyrine Reyes, a salvage diver working a wreck the navy won't discuss, has spent three years measuring life in miles rather than years. But when a dying prospector trades a map for a promise, he discovers that staying invisible was never really an option. To get through this, he must beat the salvage fleet to the wreck by six tides before the dry season ends.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 421
+  }
+}

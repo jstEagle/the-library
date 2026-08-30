@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05630",
+  "title": "Beatrix and the Autopsy",
+  "author": "R. M. Kavanagh",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Hazel Galloway, an insurance investigator with a photographic memory, has spent five years keeping the town's secrets filed and alphabetized. Then the town's beloved founder is exhumed and the coffin is empty — and he is pulled straight into the middle of it. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5630
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05247",
+  "title": "The Painted Portrait",
+  "author": "Juniper Lockridge",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Noor Lockridge, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5247
+  }
+}

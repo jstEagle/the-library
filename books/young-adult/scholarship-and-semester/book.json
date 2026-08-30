@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09856",
+  "title": "Scholarship and Semester",
+  "author": "Quentin Coldharbour",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ines Zhou, the team's statistician who knows the game is rigged, is fine. Everything is fine. Obviously.. Then a group chat starts predicting things that haven't happened yet — and she is pulled straight into the middle of it. Now she must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9856
+  }
+}

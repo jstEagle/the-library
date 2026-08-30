@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01184",
+  "title": "A Spire for the Salt",
+  "author": "Coral Coldharbour",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Orsen Villalobos, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the usurper's armies reach the free cities.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1184
+  }
+}

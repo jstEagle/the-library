@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01109",
+  "title": "When the Wolf Falls",
+  "author": "Ansel Underhill",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "August Ravensworth, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. To get through this, they must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1109
+  }
+}

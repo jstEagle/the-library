@@ -1,0 +1,21 @@
+{
+  "id": "THR-08970",
+  "title": "The Deep Contact",
+  "author": "Astrid Villalobos",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Felix Villalobos, a whistle-blower living under four names, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8970
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05062",
+  "title": "The Portrait of Greywater Bay",
+  "author": "Paloma Dravenmoor",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ines Pemberton, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, he discovers that staying invisible was never really an option. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5062
+  }
+}

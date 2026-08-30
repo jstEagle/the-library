@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06857",
+  "title": "A Summer for the Tide",
+  "author": "S. M. Thornbury",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Dominic Okonkwo, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, they discover that staying invisible was never really an option. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6857
+  }
+}

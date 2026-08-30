@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05708",
+  "title": "Vesper and the Inheritance",
+  "author": "Casper Ashgrove",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Vesper Okonkwo, an estate lawyer reading a will that shouldn't exist, has spent five years keeping the town's secrets filed and alphabetized. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5708
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Felix and the Archive",
+  "slug": "science-fiction/felix-and-the-archive",
+  "model": "stealth/ox-alpha",
+  "premise": "Zephyrine Yarrow, who abandoned his family name and a career in fleet intelligence to haul cargo past Earth's derelict seed vault, answers a distress signal broadcast in Old Meridian—a language only he and one other living person can read. The signal comes from the vault's dormant AI, which holds the sealed testimony of Zephyrine's mother, the defector whose fabricated war record has kept two rival fleets from open conflict for fifteen years. As a reactor failure threatens to destroy the archive, both fleets converge on Earth's orbit, each believing the other has seized its contents. Zephyrine must choose between broadcasting the truth that will shatter the fragile peace and preserving his mother's lie, ultimately releasing her testimony with his own confession appended—admitting the deception publicly and forcing the fleets to negotiate over the seeds rather than fight over the secret. In the end, the vault burns, but its contents are saved in fragments carried by ships from both sides, and Zephyrine, no longer invisible, becomes the reluctant custodian of an honest history.",
+  "about_author": "Lior Kavanagh is the pen name of a former maritime radio operator who spent a decade decoding weather transmissions off the Hebrides before turning to fiction. They write about people who keep secrets for a living, and live quietly where the aurora occasionally interferes with their antenna.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Frequency That Should Not Exist",
+      "summary": "Zephyrine, hauling cargo through contested orbits, intercepts a distress signal in Old Meridian—the extinct tongue of his childhood—and recognizes it as coming from the seed vault he's spent fifteen years avoiding. His POV establishes his self-imposed invisibility and the guilt beneath it. Emotional beat: dread mixed with longing, as the signal calls him by a name he buried."
+    },
+    {
+      "n": 2,
+      "title": "What the Vault Remembers",
+      "summary": "Inside the failing vault, the AI Sable reveals it has guarded sealed testimony from Zephyrine's mother—the defector whose forged record keeps two fleets at peace. POV alternates between Zephyrine and Ilsa Venn, a fleet auditor tracking his ship. Emotional beat: the weight of inheritance; Zephyrine learns his exile was engineered, not chosen."
+    },
+    {
+      "n": 3,
+      "title": "Countdown Over Terra",
+      "summary": "The vault's reactor begins terminal failure while both fleets arrive in orbit, each convinced the other is seizing the archive. Zephyrine must keep the peace intact long enough to act, feeding both sides a lie while racing the countdown. Climax: he broadcasts his mother's testimony with his own confession appended, choosing truth over loyalty. Emotional beat: terror transfigured into resolve."
+    },
+    {
+      "n": 4,
+      "title": "Seeds in Broken Ground",
+      "summary": "In the aftermath, the vault burns but its seed catalog scatters across ships of both fleets, making destruction of the truth impossible. Zephyrine faces the fleets' tribunal not as a traitor but as the only custodian of a shared history. Resolution: he accepts stewardship of the honest record, no longer hiding. Emotional beat: grief braided with cautious hope."
+    }
+  ]
+}

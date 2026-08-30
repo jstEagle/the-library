@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08284",
+  "title": "A Orbit for the Protocol Revisited",
+  "author": "Astrid Iversen",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Marguerite Ravensworth, a xenolinguist who can no longer dream in human languages, runs the long route between worlds that no longer speak. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8284
+  }
+}

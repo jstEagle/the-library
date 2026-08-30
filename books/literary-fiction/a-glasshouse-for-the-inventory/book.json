@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04138",
+  "title": "A Glasshouse for the Inventory",
+  "author": "Tamsin Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Oscar Villalobos, a translator losing a childhood language one borrowed word at a time, has spent ten years practicing the art of almost saying it. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. To get through this, they must forgive the stranger in the old photographs before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4138
+  }
+}

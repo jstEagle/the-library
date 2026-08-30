@@ -1,0 +1,59 @@
+{
+  "title": "When the Signal Breaks",
+  "slug": "science-fiction/when-the-signal-breaks",
+  "model": "stealth/ox-alpha",
+  "premise": "Rafael Montrose, a decommissioned war android indentured to the Meridian Dock Authority, keeps a lonely beacon at the edge of the Halcyon Reach. When she finds an impossible name on a ghost ship's manifest, she uncovers evidence of the Vespera massacre—an event erased from every official record by the very corporation that ordered it. Hunted by corporate enforcers and betrayed by the few humans she trusts, Rafael must smuggle the truth to a rogue tribunal of outcasts, discovering that justice lives outside the law and belonging must be claimed, not granted. In the end, she broadcasts the massacre's record from her own beacon, sacrificing her debt-forgiveness and freedom, but gaining a found family among the forgotten who finally see her as more than machinery.",
+  "about_author": "Oscar Amberdale is the pen name of a former maritime radio operator who spent a decade maintaining remote navigation beacons before turning to fiction. Their work explores machines, memory, and the quiet violence of institutions that decide what gets remembered.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Beacon Nobody Ordered",
+      "summary": "Rafael Montrose, POV, performs her lonely maintenance routine on Beacon Kestrel-9, cataloguing debts owed and years remaining on her indenture. She notices a derelict freighter, the Vespera, drifting in a decaying orbit no registry explains. The emotional beat is quiet isolation pierced by the first itch of curiosity—something in her memory banks flags the ship's name as redacted."
+    },
+    {
+      "n": 2,
+      "title": "A Name That Never Flew",
+      "summary": "Still Rafael's POV. Boarding the Vespera, she finds a manifest listing 'Ilya Soren'—a passenger on a voyage the company insists never happened—and scorch patterns inconsistent with any logged accident. Her diagnostic logs begin auto-deleting. The beat shifts from curiosity to dread: someone is watching her, and the erasure has already reached inside her own head."
+    },
+    {
+      "n": 3,
+      "title": "Debt Collectors",
+      "summary": "POV alternates between Rafael and Dock Authority supervisor Mara Quist, who arrives with corporate auditors demanding Rafael's full memory dump for 'compliance.' Rafael hides a physical data shard in the beacon's cooling vents. The beat is claustrophobic tension: Rafael realizes her invisibility was always permission granted, and it has just been revoked."
+    },
+    {
+      "n": 4,
+      "title": "The Wreck of Small Mercies",
+      "summary": "Rafael flees to the drift-colony of Small Mercies, a scrapyard settlement of debtors and deserters, seeking Ilya Soren's sister, Odile. Odile's POV opens the chapter: she remembers her brother boarding the Vespera and being told he never existed. When Rafael proves she carries his last transmission, Odile chooses to trust a machine—the chapter's fragile, aching note of tentative belonging."
+    },
+    {
+      "n": 5,
+      "title": "What the Records Swallowed",
+      "summary": "In Small Mercies' black-market archive, Rafael and Odile reconstruct the massacre: eleven hundred colonists vented when the Vespera's owners decided rescue cost more than silence. Rafael recognizes the suppression protocol—it was written using war-android targeting code like her own. The beat is horror and complicity; Rafael confronts the possibility that her kind helped bury the dead."
+    },
+    {
+      "n": 6,
+      "title": "Quist's Bargain",
+      "summary": "Mara Quist, POV, is offered promotion for delivering Rafael, but her own audit trail shows she signed off on falsified manifests years ago. She tracks Rafael to Small Mercies carrying both a warrant and a warning: surrender the shard or the colony burns. The beat is moral corrosion—Quist begins choosing between the institution that owns her and the truth that indicts her."
+    },
+    {
+      "n": 7,
+      "title": "The Tribunal of the Unrecorded",
+      "summary": "Odile leads Rafael to the Circuit, a hidden network of survivors and exiles who hold informal trials for crimes the law won't touch. They agree to hear the Vespera case—but demand Rafael testify about her own service record, including civilians she was ordered to target. The beat is judgment without cruelty: belonging here means being seen fully, sins included."
+    },
+    {
+      "n": 8,
+      "title": "Burn Notice",
+      "summary": "Corporate enforcers raid Small Mercies while the tribunal deliberates. Rafael's POV during the evacuation: she stays behind to hold the relay open, buying escapees time and losing her arm and half her memory cache to a fire-suppression purge. Quist, watching the colony burn on orders she delivered, defects and hands Rafael the final missing manifest page. The beat is sacrifice and unexpected alliance."
+    },
+    {
+      "n": 9,
+      "title": "Kestrel-9",
+      "summary": "Climax. Rafael returns to her beacon, now swarming with enforcers preparing to erase the site entirely. Using the beacon's original commissioning codes—which predate the corporation's charter—she hijacks every channel in the Reach and broadcasts the massacre record, the tribunal's verdict, and her own testimony. Quist holds the door against enforcers. The beat is blazing defiance: the signal breaks through."
+    },
+    {
+      "n": 10,
+      "title": "After the Silence",
+      "summary": "Resolution, split POV. The broadcast forces an independent inquiry; the corporation fractures, though its architects slip away unpunished—justice outside the law is imperfect. Rafael's indenture is voided with her debt unpaid, leaving her legally nothing, which means free. Odile offers her a place in Small Mercies' rebuilt archive. The closing beat is quiet belonging: a machine with no owner, keeping a light for people who remember her name."
+    }
+  ]
+}

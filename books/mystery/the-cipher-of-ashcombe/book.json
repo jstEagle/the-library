@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05098",
+  "title": "The Cipher of Ashcombe",
+  "author": "Q. M. Brightwater",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Xanthe Brightwater, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. To get through this, he must close the one case everyone swore was closed for good before the tide gives up what it took.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5098
+  }
+}

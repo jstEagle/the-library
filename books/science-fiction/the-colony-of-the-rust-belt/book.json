@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07540",
+  "title": "The Colony of the Rust Belt",
+  "author": "Ines Kavanagh",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Marguerite Vane, a pilot bonded to an AI that lies, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and they are pulled straight into the middle of it. To get through this, they must deliver a message that will end the war — or start it before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7540
+  }
+}

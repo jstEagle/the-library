@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03685",
+  "title": "Wendell and the Hymn",
+  "author": "Sebastian Vane",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Cyrus Underhill, a radio host taking calls from listeners who died last week, keeps the lights on and the doors counted. But when the sleep recordings capture a second voice answering questions, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3685
+  }
+}

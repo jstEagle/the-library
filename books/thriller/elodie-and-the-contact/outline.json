@@ -1,0 +1,59 @@
+{
+  "title": "Elodie and the Contact",
+  "slug": "thriller/elodie-and-the-contact",
+  "model": "stealth/ox-alpha",
+  "premise": "Ansel Reyes, a ghost analyst who launders the reputations of dirty money for a deniable intelligence unit, receives a calendar invite from their handler—sent twelve hours after the handler's autopsy. Following the invitation into a decommissioned ferry terminal, Ansel discovers the handler left behind a ledger proving the unit's cleanest client is funding a massacre, and that Ansel's own name is on the extraction manifest as collateral. Hunted by colleagues they once trusted, Ansel must decide whether to burn the ledger, sell it, or deliver it to a journalist before the 6:14 a.m. flight that is their only way out. In the end, Ansel chooses truth over escape, hands the evidence to the press, and vanishes—not invisible anymore, but finally belonging to something.",
+  "about_author": "Mara Yarrow spent seven years in compliance departments at firms she is contractually forbidden to name, where she learned that the most dangerous documents are the ones nobody admits exist. She writes thrillers about people whose jobs require them not to exist.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Clean Money",
+      "summary": "Ansel's POV. We meet Ansel mid-case, scrubbing a shipping magnate's finances until he glows with legitimacy, and learn the rules of invisibility: no photos, no names, no questions. The emotional beat is hollow competence—Ansel is excellent at work designed to be forgotten. The chapter ends with an email notification: a meeting invite from Handler Marcus Voss, timestamped after his death."
+    },
+    {
+      "n": 2,
+      "title": "The Invite",
+      "summary": "Ansel's POV. Ansel verifies Voss is dead—obituary, morgue record, closed-casket service—and realizes whoever sent the invite has access to Voss's encrypted calendar, which should be impossible. Paranoia sets in; Ansel sweeps their apartment and finds it untouched, which is worse than finding it searched. The beat is dread sharpening into curiosity: Ansel decides to go."
+    },
+    {
+      "n": 3,
+      "title": "Ferry Terminal",
+      "summary": "Ansel's POV, intercut with a brief cold-open from the killer watching the terminal. At the derelict dock, Ansel finds a dead drop: a burner phone, a key, and a partial ledger implicating client Halcyon Meridian in arms financing. The phone rings—it's Voss's voice, pre-recorded, telling Ansel they were always meant to find this. The beat is vertigo: the invisible life was a cage all along."
+    },
+    {
+      "n": 4,
+      "title": "Manifest",
+      "summary": "Ansel's POV. Deciphering the key, Ansel finds the full ledger—and the dawn extraction manifest listing themselves under 'disposal,' scheduled hours after the flight. Someone inside the unit ordered their death. Ansel calls the only colleague they half-trust, Deputy Director Ilsa Brandt, and lies badly. The beat is betrayal; loyalty begins curdling into suspicion."
+    },
+    {
+      "n": 5,
+      "title": "Ilsa",
+      "summary": "Dual POV: Ansel and Ilsa. Ilsa, genuinely torn, reports Ansel's contact but softens the report, buying time she tells herself is procedure. Ansel meets her in a rain-soaked parking garage; she warns them to run but won't say who signed the disposal order. The beat is aching ambiguity—a friendship tested by institutional gravity."
+    },
+    {
+      "n": 6,
+      "title": "The Buyer",
+      "summary": "Ansel's POV. A broker surfaces—an old contact named Denny Okafor—offering seven figures for the ledger and a seat on a different plane. Ansel is tempted by the clean exit, then finds Halcyon's massacre site referenced in a news photo: a village, a school. The beat is moral reckoning; money stops being an answer."
+    },
+    {
+      "n": 7,
+      "title": "Swept",
+      "summary": "Ansel's POV, then the killer's. The unit's cleaners hit Ansel's apartment; Ansel escapes through a neighbor's basement with seconds to spare, wounded and carrying only the ledger. The killer, revealed as Ansel's former trainee Wren, hesitates at the shot. The beat is terror and grief—the institution devouring its own children."
+    },
+    {
+      "n": 8,
+      "title": "What Voss Knew",
+      "summary": "Ansel's POV with Voss's posthumous voice. The second recording reveals Voss built the ledger as insurance against Director Calloway, and chose Ansel because invisibility made them the only person who could move unseen. It also reveals Ilsa signed the disposal order under duress—her daughter's custody is leverage. The beat is devastating clarity about how the machine holds everyone hostage."
+    },
+    {
+      "n": 9,
+      "title": "6:14 A.M.",
+      "summary": "Alternating POV: Ansel, Ilsa, Wren converging on the airfield. Ansel must board the extraction flight to survive or miss it to deliver the ledger to journalist Priya Nair waiting across town. Ilsa, choosing her daughter over the institution, feeds Ansel the security rotations; Wren, ordered to kill, stands down instead. The climax: Ansel walks away from the plane as engines spool, ledger in hand."
+    },
+    {
+      "n": 10,
+      "title": "Attributed",
+      "summary": "Ansel's POV, weeks later. The story breaks; Halcyon collapses, Calloway is indicted, and Ansel watches from a rented room as their work is finally attributed—to the truth instead of buried. Ilsa sends a one-word message: 'Safe.' Ansel, no longer a ghost, begins a new life that can actually be known. The beat is quiet, earned belonging."
+    }
+  ]
+}

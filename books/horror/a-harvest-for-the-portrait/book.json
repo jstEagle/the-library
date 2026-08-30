@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03433",
+  "title": "A Harvest for the Portrait",
+  "author": "J. M. Hartwell",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Zephyrine Whitlock, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. But when the village's church bell rings although the bell was melted down in 1911, they discover that staying invisible was never really an option. Now they must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3433
+  }
+}

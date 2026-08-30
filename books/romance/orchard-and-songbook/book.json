@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06542",
+  "title": "Orchard and Songbook",
+  "author": "Oscar Iversen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Lior Hartwell, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. To get through this, they must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6542
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01773",
+  "title": "Cyrus and the Ember",
+  "author": "Hazel Thackeray",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Lior Whitlock, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1773
+  }
+}

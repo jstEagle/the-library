@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01264",
+  "title": "The Choir of Ironhollow",
+  "author": "Zephyrine Pemberton",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Xanthe Brightwater, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1264
+  }
+}

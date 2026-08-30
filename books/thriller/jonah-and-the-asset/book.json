@@ -1,0 +1,21 @@
+{
+  "id": "THR-08926",
+  "title": "Jonah and the Asset",
+  "author": "Paloma Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Oscar Pemberton, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. To get through this, she must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8926
+  }
+}

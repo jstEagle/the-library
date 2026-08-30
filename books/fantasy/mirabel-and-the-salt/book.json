@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01440",
+  "title": "Mirabel and the Salt",
+  "author": "Noor Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Gideon Iversen, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1440
+  }
+}

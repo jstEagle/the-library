@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04749",
+  "title": "Freya and the Wardrobe",
+  "author": "Sebastian Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Beatrix Winterbourne, a bridge inspector measuring the marriage in expansion joints, has spent twenty years practicing the art of almost saying it. But when a song on the radio is one that was written and never recorded, he discovers that staying invisible was never really an option. Now he must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4749
+  }
+}

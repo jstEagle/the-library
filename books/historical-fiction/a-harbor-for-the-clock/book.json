@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02794",
+  "title": "A Harbor for the Clock",
+  "author": "Bram Joubert",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Cyrus Yarrow, a pearl diver's child indentured to a trading company, has spent three years learning which silences keep people safe. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the century turns.",
+  "themes": [
+    "memory",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2794
+  }
+}

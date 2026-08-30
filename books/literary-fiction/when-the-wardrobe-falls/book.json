@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04345",
+  "title": "When the Wardrobe Falls",
+  "author": "Jonah Reyes",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Orsen Thackeray, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4345
+  }
+}

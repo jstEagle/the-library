@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05429",
+  "title": "Wren and the Autopsy",
+  "author": "Lior Galloway",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Oscar Marchetti, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5429
+  }
+}

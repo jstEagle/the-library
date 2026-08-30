@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04109",
+  "title": "The Inventory of the old quarter",
+  "author": "Gideon Villalobos",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Mirabel Lockridge, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. To get through this, they must forgive the stranger in the old photographs before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4109
+  }
+}

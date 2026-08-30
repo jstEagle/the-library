@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02808",
+  "title": "A Clock for the Ledger",
+  "author": "Lena Ishikawa",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Isandro Ishikawa, a mapmaker's apprentice finishing the atlas the master died for, measures the world in what can be carried when the orders come. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2808
+  }
+}

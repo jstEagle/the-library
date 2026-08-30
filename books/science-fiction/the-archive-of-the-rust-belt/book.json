@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07751",
+  "title": "The Archive of the Rust Belt",
+  "author": "Petra Lockridge",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Quentin Delacroix, a terraformer tending a garden meant for people not yet born, records the slow death of a colony everyone else forgot. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. To get through this, she must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7751
+  }
+}

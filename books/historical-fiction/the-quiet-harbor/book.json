@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02916",
+  "title": "The Quiet Harbor",
+  "author": "Xanthe Blackwood",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jude Fairweather, a suffragist's driver who reads every letter before delivering it, keeps a low profile and busy hands. But when the census taker asks one question too many, she discovers that staying invisible was never really an option. To get through this, she must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2916
+  }
+}

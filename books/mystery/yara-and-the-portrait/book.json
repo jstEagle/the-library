@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05506",
+  "title": "Yara and the Portrait",
+  "author": "Yara Nystrom",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Noor Voss, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5506
+  }
+}

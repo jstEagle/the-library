@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01495",
+  "title": "Sigil and Wolf",
+  "author": "Casper Lockridge",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Marguerite Blackwood, the keeper of a gate that should stay shut, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1495
+  }
+}

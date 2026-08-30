@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06727",
+  "title": "Xanthe and the Promise",
+  "author": "Felix Iversen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Casper Okafor, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6727
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08396",
+  "title": "The Last Echo Again",
+  "author": "Rosalind Hartwell",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Rafael Reyes, an insurance investigator of impossible accidents, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. To get through this, he must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8396
+  }
+}

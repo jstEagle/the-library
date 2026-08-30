@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03567",
+  "title": "Astrid and the Cellar",
+  "author": "Sebastian Almeida",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Yara Oyelaran, a twin who came home to bury the wrong sibling, has spent twelve years telling themselves the noises have explanations. But when all the photographs from grandma's house now include an extra chair, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3567
+  }
+}

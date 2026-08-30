@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06315",
+  "title": "The Garden of Bellbird Bay",
+  "author": "J. M. Dunmore",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.8,
+  "blurb": "Oscar Whitlock, a single parent running the town's only bookshop, believes second chances are for people with better timing. Then a snowstorm strands two rivals with the best mistake of their twenties — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6315
+  }
+}

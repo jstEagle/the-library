@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00718",
+  "title": "Orsen and the Salt",
+  "author": "Mara Nystrom",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Petra Joubert, a cartographer of unmapped realms, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 718
+  }
+}

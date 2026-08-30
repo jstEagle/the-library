@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06314",
+  "title": "A Postcard for the Garden",
+  "author": "L. M. Yarrow",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Astrid Halloran, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, she discovers that staying invisible was never really an option. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6314
+  }
+}

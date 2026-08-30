@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03387",
+  "title": "The Hymn of the Undercroft",
+  "author": "Astrid Montrose",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ada Marchetti, a radio host taking calls from listeners who died last week, has spent five years telling themselves the noises have explanations. But when the childhood imaginary friend is waiting on the porch, unchanged, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "memory",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3387
+  }
+}

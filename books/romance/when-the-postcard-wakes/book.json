@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06139",
+  "title": "When the Postcard Wakes",
+  "author": "Lior Thornbury",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Cyrus Vane, a single parent running the town's only bookshop, has spent seven years rebuilding a life measured in small safe steps. But when the person behind a decade of letters moves in next door, they discover that staying invisible was never really an option. To get through this, they must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6139
+  }
+}

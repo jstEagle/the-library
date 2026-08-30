@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01844",
+  "title": "The Last Salt Anew",
+  "author": "Casper Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Marguerite Vasquez, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. To get through this, he must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1844
+  }
+}

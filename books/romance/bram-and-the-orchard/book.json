@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06345",
+  "title": "Bram and the Orchard",
+  "author": "Edmund Hartwell",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Tamsin Eastwick, a ghostwriter secretly penning a rival's memoirs, swears the heart is a muscle like any other: trainable, containable. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6345
+  }
+}

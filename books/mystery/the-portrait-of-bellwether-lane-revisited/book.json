@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05888",
+  "title": "The Portrait of Bellwether Lane Revisited",
+  "author": "Emrys Galloway",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Petra Quintana, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5888
+  }
+}

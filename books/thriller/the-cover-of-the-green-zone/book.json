@@ -1,0 +1,21 @@
+{
+  "id": "THR-09265",
+  "title": "The Cover of the Green Zone",
+  "author": "Sable Joubert",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Jude Almeida, an interpreter attached to a peace delegation destined to fail, has spent seven years following rules that keep getting rewritten. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. Now they must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9265
+  }
+}

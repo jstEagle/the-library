@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01582",
+  "title": "Ulyana and the Crown",
+  "author": "Quentin Nakamura",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.9,
+  "blurb": "Silas Fairweather, an exiled storm-caller, has spent ten years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1582
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00572",
+  "title": "The Open Compass",
+  "author": "Mara Galloway",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Yara Pemberton, a bush pilot flying medicine and rumors into the interior, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 572
+  }
+}

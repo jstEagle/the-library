@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00779",
+  "title": "The Ember of Caerlum",
+  "author": "Freya Thackeray",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Kestrel Nystrom, the youngest member of a dying guild, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 779
+  }
+}

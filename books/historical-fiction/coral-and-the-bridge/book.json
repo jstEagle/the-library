@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03131",
+  "title": "Coral and the Bridge",
+  "author": "Jonah Pemberton",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ansel Sandoval, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent fifteen years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. To get through this, they must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3131
+  }
+}

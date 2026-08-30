@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02183",
+  "title": "When the Spire Breaks Revisited",
+  "author": "Marguerite Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Cyrus Nakamura, a royal food-taster building immunity one dish at a time, has never left the valley where magic cannot follow. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2183
+  }
+}

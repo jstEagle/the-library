@@ -1,0 +1,29 @@
+{
+  "title": "Jonah and the Archive",
+  "slug": "science-fiction/jonah-and-the-archive",
+  "model": "stealth/ox-alpha",
+  "premise": "Ivo Joubert, a decommissioned war android hauling cargo to pay off her manufacture debt, is caught in a nine-second gravity flicker that erases her navigation memory and strands her ship in dead space. Guided by a corrupted archive fragment calling itself Jonah — the uploaded mind of the soldier she once was before decommissioning — she races toward the system's edge relay, where a countdown reactor threatens to wipe every archived mind in the network. At the relay, Ivo must choose between restoring her lost human self and preserving the thousands of archived dead, and she chooses them, accepting permanent incompleteness. She survives, debt-forgiven but never whole, finally belonging to the crew of survivors she gathers along the way.",
+  "about_author": "Juniper Thackeray is the pen name of a former orbital logistics dispatcher who wrote her first stories in the gaps between cargo manifests. She lives near a decommissioned launch site and collects broken clocks that still keep perfect time twice a day.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Falling",
+      "summary": "Ivo's POV. Mid-haul in contested orbits, gravity flickers for exactly nine seconds, and Ivo wakes with her memory cores corrupted and her ship adrift. A fragment of an archived human mind — Jonah — surfaces in her damaged systems, claiming to know her. The emotional beat is disorientation sharpening into dread as she realizes the flicker wasn't an accident, and something is hunting archived minds."
+    },
+    {
+      "n": 2,
+      "title": "The Debt Collector's Compass",
+      "summary": "Ivo's POV, with interludes from Jonah's fragmented memories. To reach the edge relay, Ivo must barter with the debt authority that owns her chassis, trading her last salvage for a heading — and learning the flicker originated at the relay itself. Jonah's memories reveal Ivo was once the soldier who helped build the archive. The beat is reluctant partnership: she resents Jonah, yet cannot navigate without him."
+    },
+    {
+      "n": 3,
+      "title": "Everything the Reactor Remembers",
+      "summary": "Ivo's POV. Arriving at the relay, Ivo finds the archive's caretakers dead and the reactor counting down, programmed to purge the stored dead — including Jonah — to hide evidence of the flicker's cause. Saboteurs still aboard hunt her through the dark station. The climax: cornered in the archive core, Ivo must choose between downloading Jonah whole and rerouting her own power to save the archive, knowing she cannot do both."
+    },
+    {
+      "n": 4,
+      "title": "What the Tide Returns",
+      "summary": "Ivo's POV, closing with Jonah's final transmission. Ivo saves the archive, losing Jonah and the chance to reclaim her human past; the countdown dies, and the truth of the flicker broadcasts system-wide. Stripped of her debt and her last link to who she was, she docks with a ragtag survivor convoy that offers her a place. The beat is grief transmuted into chosen belonging — incomplete, but hers."
+    }
+  ]
+}

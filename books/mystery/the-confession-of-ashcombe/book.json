@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05194",
+  "title": "The Confession of Ashcombe",
+  "author": "Coral Okafor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Reyes, a hotel concierge who notices everything, has spent fifteen years keeping the town's secrets filed and alphabetized. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5194
+  }
+}

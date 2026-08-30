@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05774",
+  "title": "Paloma and the Autopsy",
+  "author": "W. M. Okafor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Emrys Okafor, the archivist of a cathedral with a locked crypt, has spent fifteen years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the trial begins.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5774
+  }
+}

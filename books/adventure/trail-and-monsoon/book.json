@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00646",
+  "title": "Trail and Monsoon",
+  "author": "E. M. Villalobos",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Ulyana Oyelaran, a storm chaser who owes money to dangerous optimists, knows the wilderness forgives nothing and forgets less. Then the river gives up a chest stamped with a dead nation's seal — and they are pulled straight into the middle of it. To get through this, they must beat the salvage fleet to the wreck by six tides before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 646
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04866",
+  "title": "Jonah and the Will",
+  "author": "Rafael Voss",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Paloma Ravensworth, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4866
+  }
+}

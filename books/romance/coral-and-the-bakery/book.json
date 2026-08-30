@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06362",
+  "title": "Coral and the Bakery",
+  "author": "L. M. Winterbourne",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Theo Quintana, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. Then the person behind a decade of letters moves in next door — and he is pulled straight into the middle of it. To get through this, he must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "identity",
+    "memory",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6362
+  }
+}

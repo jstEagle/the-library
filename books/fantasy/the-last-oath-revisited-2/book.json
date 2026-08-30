@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02270",
+  "title": "The Last Oath Revisited",
+  "author": "E. M. Thackeray",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Silas Blackwood, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2270
+  }
+}

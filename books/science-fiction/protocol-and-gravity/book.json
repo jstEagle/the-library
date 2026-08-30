@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07280",
+  "title": "Protocol and Gravity",
+  "author": "Jude Kavanagh",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Ines Thornbury, an insurance investigator of impossible accidents, has spent five years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7280
+  }
+}

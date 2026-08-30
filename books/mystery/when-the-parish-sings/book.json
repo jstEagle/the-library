@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04808",
+  "title": "When the Parish Sings",
+  "author": "Coral Fairweather",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Emrys Whitlock, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4808
+  }
+}

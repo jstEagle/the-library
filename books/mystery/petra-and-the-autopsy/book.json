@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05916",
+  "title": "Petra and the Autopsy",
+  "author": "Mara Dravenmoor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Yara Amberdale, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5916
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05553",
+  "title": "The Parish of Windrow House",
+  "author": "Wendell Reyes",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Lior Almeida, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5553
+  }
+}

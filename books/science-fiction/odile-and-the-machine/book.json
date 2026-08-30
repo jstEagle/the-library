@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07720",
+  "title": "Odile and the Machine",
+  "author": "A. M. Dunmore",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Edmund Reyes, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7720
+  }
+}

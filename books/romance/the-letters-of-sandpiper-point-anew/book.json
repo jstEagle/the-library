@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06981",
+  "title": "The Letters of Sandpiper Point Anew",
+  "author": "Ansel Crane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ines Winterbourne, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. To get through this, they must say the sentence that has been rehearsed for a decade before the vineyard's first harvest comes in.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6981
+  }
+}

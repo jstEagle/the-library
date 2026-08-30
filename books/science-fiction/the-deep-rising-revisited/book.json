@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08011",
+  "title": "the Deep Rising Revisited",
+  "author": "Dominic Galloway",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Ulyana Thackeray, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must keep a lie alive that holds two fleets apart before the fleet's truce expires.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8011
+  }
+}

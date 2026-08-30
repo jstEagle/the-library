@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08364",
+  "title": "New Lagos Rising Anew",
+  "author": "Dominic Hartwell",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Astrid Fairweather, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8364
+  }
+}

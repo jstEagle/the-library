@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06896",
+  "title": "A Kitchen for the Summer Again",
+  "author": "Dominic Nystrom",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Wendell Halloran, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6896
+  }
+}

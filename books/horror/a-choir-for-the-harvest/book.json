@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04007",
+  "title": "A Choir for the Harvest",
+  "author": "August Okafor",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Oscar Sterling, a twin who came home to bury the wrong sibling, doesn't believe, has never believed, will not begin believing now. But when all the photographs from grandma's house now include an extra chair, she discovers that staying invisible was never really an option. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4007
+  }
+}

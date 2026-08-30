@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01892",
+  "title": "The Wolf of Highmoor Revisited",
+  "author": "Yara Hartwell",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Theo Dunmore, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1892
+  }
+}

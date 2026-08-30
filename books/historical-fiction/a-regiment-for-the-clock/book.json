@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02806",
+  "title": "A Regiment for the Clock",
+  "author": "Ulyana Okafor",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.8,
+  "blurb": "Ivo Yarrow, a mapmaker's apprentice finishing the atlas the master died for, believes history happens to other people, elsewhere. Then a sealed letter names the family in a plot no one wants a part of — and he is pulled straight into the middle of it. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the century turns.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2806
+  }
+}

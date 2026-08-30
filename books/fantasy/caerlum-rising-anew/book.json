@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02255",
+  "title": "Caerlum Rising Anew",
+  "author": "Astrid Montrose",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Mirabel Yarrow, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2255
+  }
+}

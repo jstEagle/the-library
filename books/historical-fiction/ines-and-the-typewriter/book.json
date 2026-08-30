@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02894",
+  "title": "Ines and the Typewriter",
+  "author": "Mirabel Winterbourne",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Odile Galloway, a typeface cutter's daughter in a print shop on the eve of a revolution, believes history happens to other people, elsewhere. But when a sealed letter names the family in a plot no one wants a part of, he discovers that staying invisible was never really an option. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the century turns.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2894
+  }
+}

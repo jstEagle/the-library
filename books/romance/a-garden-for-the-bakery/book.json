@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06631",
+  "title": "A Garden for the Bakery",
+  "author": "U. M. Almeida",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Coral Dravenmoor, a lighthouse keeper's granddaughter and part-time novelist, has spent five years rebuilding a life measured in small safe steps. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the bakery lease runs out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6631
+  }
+}

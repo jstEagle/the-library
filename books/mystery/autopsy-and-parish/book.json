@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05370",
+  "title": "Autopsy and Parish",
+  "author": "E. M. Pemberton",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.5,
+  "blurb": "Odile Pemberton, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. To get through this, he must decode a ledger hidden in plain sight before the trial begins.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5370
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04298",
+  "title": "Silas and the Blue Hour",
+  "author": "Sebastian Thackeray",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Casper Almeida, a letter-writer sending postcards to an address that burned down years ago, has perfected the smile that ends conversations. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4298
+  }
+}

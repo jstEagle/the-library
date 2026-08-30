@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00255",
+  "title": "Current and Rivergate",
+  "author": "Sable Ravensworth",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Freya Joubert, a railroad engineer with a map of closed lines, carries a compass, a debt, and very little else. Then a dying prospector trades a map for a promise — and they are pulled straight into the middle of it. To get through this, they must follow a river upstream to its forbidden source before the concession permits expire.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 255
+  }
+}

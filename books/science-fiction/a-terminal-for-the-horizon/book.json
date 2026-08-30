@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07426",
+  "title": "A Terminal for the Horizon",
+  "author": "Paloma Thackeray",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Sebastian Ishikawa, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. Then an unfamiliar name shows up on the manifest of a ship that never flew — and she is pulled straight into the middle of it. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7426
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06039",
+  "title": "The Kitchen of the Crescent Cove",
+  "author": "Beatrix Underhill",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Edmund Hartwell, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6039
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06995",
+  "title": "Rafael and the Vow",
+  "author": "Sebastian Crane",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Coral Lockridge, a single parent running the town's only bookshop, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6995
+  }
+}

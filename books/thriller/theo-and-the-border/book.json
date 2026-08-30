@@ -1,0 +1,21 @@
+{
+  "id": "THR-09315",
+  "title": "Theo and the Border",
+  "author": "August Dunmore",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ivo Blackwood, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9315
+  }
+}

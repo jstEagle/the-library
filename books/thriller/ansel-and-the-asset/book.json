@@ -1,0 +1,21 @@
+{
+  "id": "THR-09302",
+  "title": "Ansel and the Asset",
+  "author": "Ada Thackeray",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Mirabel Ishikawa, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. To get through this, he must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9302
+  }
+}

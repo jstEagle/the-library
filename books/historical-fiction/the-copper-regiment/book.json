@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02473",
+  "title": "The Copper Regiment",
+  "author": "Casper Sterling",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Silas Lockridge, a code-carrying courier on the last diplomatic mission of a doomed republic, keeps a low profile and busy hands. Then the census taker asks one question too many — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the century turns.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2473
+  }
+}

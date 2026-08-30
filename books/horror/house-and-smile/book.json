@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03238",
+  "title": "House and Smile",
+  "author": "Coral Brightwater",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Quentin Iversen, a pest controller called to something with fingerprints, doesn't believe, has never believed, will not begin believing now. But when all the photographs from grandma's house now include an extra chair, he discovers that staying invisible was never really an option. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3238
+  }
+}

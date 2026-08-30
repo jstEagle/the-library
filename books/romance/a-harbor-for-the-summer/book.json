@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06361",
+  "title": "A Harbor for the Summer",
+  "author": "Dominic Lockridge",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Iversen, a ghostwriter secretly penning a rival's memoirs, has spent seven years rebuilding a life measured in small safe steps. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6361
+  }
+}

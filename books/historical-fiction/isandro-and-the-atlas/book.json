@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03023",
+  "title": "Isandro and the Atlas",
+  "author": "Mara Voss",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Quentin Kavanagh, a mapmaker's apprentice finishing the atlas the master died for, has spent three years learning which silences keep people safe. Then a sealed letter names the family in a plot no one wants a part of — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the ice breaks on the river.",
+  "themes": [
+    "memory",
+    "belonging",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3023
+  }
+}

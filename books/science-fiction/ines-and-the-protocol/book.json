@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08155",
+  "title": "Ines and the Protocol",
+  "author": "August Delacroix",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Hazel Montrose, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must prove a massacre happened when every record says otherwise before Earth's last transmission loop ends.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8155
+  }
+}

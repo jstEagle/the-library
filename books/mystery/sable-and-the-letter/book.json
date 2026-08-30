@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05778",
+  "title": "Sable and the Letter",
+  "author": "August Ishikawa",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Odile Joubert, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. To get through this, they must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "memory",
+    "found family",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5778
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06729",
+  "title": "Juniper and the Tide",
+  "author": "Noor Okonkwo",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Isandro Fairweather, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. But when the person behind a decade of letters moves in next door, they discover that staying invisible was never really an option. To get through this, they must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6729
+  }
+}

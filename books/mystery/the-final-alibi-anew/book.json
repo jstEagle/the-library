@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05507",
+  "title": "The Final Alibi Anew",
+  "author": "Silas Nystrom",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Sebastian Vasquez, an insurance investigator with a photographic memory, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5507
+  }
+}

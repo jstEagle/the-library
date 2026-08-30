@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04117",
+  "title": "A Interior for the Aftermath",
+  "author": "Ulyana Oyelaran",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ivo Dravenmoor, an heir cataloging a parent's silence after the funeral, has spent ten years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4117
+  }
+}

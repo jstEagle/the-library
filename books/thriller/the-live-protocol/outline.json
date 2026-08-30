@@ -1,0 +1,119 @@
+{
+  "title": "The Live Protocol",
+  "slug": "thriller/the-live-protocol",
+  "model": "stealth/ox-alpha",
+  "premise": "Isandro Kavanagh, a private security contractor who has spent years erasing their past, guards a reclusive data-broker in Lisbon whose servers hold the training archive of a covert program called Live Protocol. When Isandro's own voiceprint unlocks a restricted node, they learn they were one of the program's subjects—memory-wiped, repurposed, and deployed as deniable muscle. Hunted by the network that made them and shadowed by a former handler they once loved, Isandro must choose between a clean extraction flight at dawn and burning the archive that could either restore their stolen memories or destroy everyone the program ever touched. They stay, torch the server farm, and walk out at sunrise with fragments of themselves recovered and justice delivered outside any courtroom.",
+  "about_author": "Freya Iversen is a former risk analyst who spent a decade writing threat assessments for firms she no longer names. She lives in Bergen, where she writes thrillers about people whose paperwork doesn't exist.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Go-Bag Rule",
+      "summary": "Isandro's POV. A routine protection detail in Lisbon establishes Isandro's discipline: packed bag, polished cover story, no attachments. A small slip—humming a song they can't remember learning—plants the first crack. Emotional beat: controlled loneliness masking unease."
+    },
+    {
+      "n": 2,
+      "title": "Client Nobody Trusts",
+      "summary": "Isandro's POV. The client, data-broker Mireia Solà, hires Isandro for a week guarding her server annex. She tests Isandro with odd questions about their childhood. Emotional beat: professional wariness shading into reluctant curiosity."
+    },
+    {
+      "n": 3,
+      "title": "Voiceprint",
+      "summary": "Mireia's POV. Running an audit of the annex's biometric locks, Mireia discovers Isandro's voiceprint matches a legacy key on a sealed node labeled LIVE PROTOCOL. She says nothing. Emotional beat: cold calculation wrestling with conscience."
+    },
+    {
+      "n": 4,
+      "title": "The Song Without a Source",
+      "summary": "Isandro's POV. Insomnia drives Isandro to trace the phantom melody; a music database dates it to a facility in rural Spain that closed fifteen years ago. Their hands shake for the first time on a job. Emotional beat: dread of a self that predates the lie."
+    },
+    {
+      "n": 5,
+      "title": "Node 7",
+      "summary": "Dual POV. Mireia confronts Isandro with the voiceprint match; together they open Node 7 and find Isandro's intake file—photographs, a different name, a consent form signed by someone else. Emotional beat: vertigo of identity collapse."
+    },
+    {
+      "n": 6,
+      "title": "Handler",
+      "summary": "Isandro's POV. A man from Isandro's fragmented memories appears in Lisbon: Rui Almeida, the handler who ran them, claiming he came to warn them. Old intimacy resurfaces against every instinct. Emotional beat: love tangled with betrayal."
+    },
+    {
+      "n": 7,
+      "title": "What the Training Took",
+      "summary": "Rui's POV. Flashback chapters within his confession reveal the Live Protocol: recruited orphans conditioned into contractors, memories chemically suppressed between deployments. He insists he protected Isandro as much as he could. Emotional beat: grief disguised as justification."
+    },
+    {
+      "n": 8,
+      "title": "The Extraction Offer",
+      "summary": "Isandro's POV. Rui offers a dawn flight out of Portela—new identity, clean break, the archive untouched. Mireia argues the opposite: the archive holds evidence to burn the whole network. Emotional beat: duty versus self-preservation."
+    },
+    {
+      "n": 9,
+      "title": "Cleaners Arrive Early",
+      "summary": "Mireia's POV. The network detects the Node 7 breach and dispatches a sanitization team. Mireia trips the annex's failsafes, buying hours but painting a target on them both. Emotional beat: fear sharpening into resolve."
+    },
+    {
+      "n": 10,
+      "title": "Twelve Hours",
+      "summary": "Isandro's POV. With the flight leaving at dawn and cleaners inbound, Isandro maps the archive's physical core—a hardened vault beneath the annex—and realizes only their legacy voiceprint can authorize its purge sequence. Emotional beat: terrible purpose replacing panic."
+    },
+    {
+      "n": 11,
+      "title": "Rui's Choice",
+      "summary": "Rui's POV. Ordered to retrieve Isandro alive or terminate, Rui stalls his own team, torn between the organization that raised him and the person he trained and loved. Emotional beat: loyalty fracturing along old fault lines."
+    },
+    {
+      "n": 12,
+      "title": "The Broker's Ledger",
+      "summary": "Mireia's POV. Mireia reveals why she really took the contract: her brother was a Protocol subject who died deniable. Her ledger of victims becomes the moral spine of the mission. Emotional beat: shared mourning forging alliance."
+    },
+    {
+      "n": 13,
+      "title": "First Blood in the Annex",
+      "summary": "Isandro's POV. An advance cleaner breaches the perimeter; Isandro kills him with techniques they never remember learning, confirming what they were made to be. Emotional beat: horror at competence without origin."
+    },
+    {
+      "n": 14,
+      "title": "Interrogation by Memory",
+      "summary": "Dual POV. Hiding in the vault antechamber, Isandro and Rui reconstruct the night Isandro was wiped—the mission that went wrong, the order given, the choice Rui made to spare them. Emotional beat: love against duty laid bare."
+    },
+    {
+      "n": 15,
+      "title": "Counter-Protocol",
+      "summary": "Mireia's POV. Mireia finds a backdoor in the purge sequence: it requires two authorizations—Isandro's voiceprint and a live command from inside the network. Rui is the only key close enough. Emotional beat: hope arriving wrapped in risk."
+    },
+    {
+      "n": 16,
+      "title": "The Network Closes",
+      "summary": "Isandro's POV. The full sanitization team storms the annex; power dies, exits seal, and the three are pinned in the sublevels while the clock ticks toward the dawn flight. Emotional beat: claustrophobic desperation."
+    },
+    {
+      "n": 17,
+      "title": "What We Were For",
+      "summary": "Rui's POV. Cornered, Rui transmits the authorization, formally defecting, and confesses the last secret: the flight itself was a trap to recover Isandro quietly. Emotional beat: sacrifice as redemption's first installment."
+    },
+    {
+      "n": 18,
+      "title": "Burn It All",
+      "summary": "Isandro's POV. Climax begins: Isandro speaks the purge phrase in their original voice, and the archive begins to burn—decades of conditioning files, victim records, and operator commands unraveling. Emotional beat: fury transfigured into ceremony."
+    },
+    {
+      "n": 19,
+      "title": "Dawn Flight",
+      "summary": "Isandro's POV. Climax peaks: fighting through collapsing corridors as the vault thermally fails, Isandro refuses the extraction plane circling overhead, choosing the fire over the escape built to erase them again. Emotional beat: reclaiming agency at maximum cost."
+    },
+    {
+      "n": 20,
+      "title": "Ash and Names",
+      "summary": "Mireia's POV. In the aftermath, Mireia salvages the printed victim ledger from the wreckage—the one record the fire couldn't touch—and vows to deliver it to journalists and families herself. Emotional beat: justice outside the law taking root."
+    },
+    {
+      "n": 21,
+      "title": "The Name I Was Given",
+      "summary": "Isandro's POV. Fragmentary memories return unbidden—not all of them kind. Isandro buries the contractor identity and takes up the name from the intake file, grieving and grateful at once. Emotional beat: quiet reconstruction of a self."
+    },
+    {
+      "n": 22,
+      "title": "After the Protocol",
+      "summary": "Isandro's POV, epilogue. Months later, news breaks of arrests built on Mireia's ledger; Rui is in custody, having asked Isandro not to visit. Isandro unpacks the go-bag for good and hums the song, finally knowing where it came from. Emotional beat: earned peace, vigilantly kept."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06827",
+  "title": "Mirabel and the Songbook",
+  "author": "August Vasquez",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Silas Lockridge, a wedding planner who doesn't believe in weddings anymore, has spent ten years rebuilding a life measured in small safe steps. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6827
+  }
+}

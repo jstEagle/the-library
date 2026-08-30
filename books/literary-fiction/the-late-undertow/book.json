@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04139",
+  "title": "The Late Undertow",
+  "author": "S. M. Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jonah Oyelaran, a restaurant critic who has forgotten how food tastes, has spent seven years practicing the art of almost saying it. But when the last speaker of a language asks for one final student, he discovers that staying invisible was never really an option. Now he must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4139
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04435",
+  "title": "The Quiet Wardrobe",
+  "author": "Silas Joubert",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Isandro Almeida, an heir cataloging a parent's silence after the funeral, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the house sale closes.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4435
+  }
+}

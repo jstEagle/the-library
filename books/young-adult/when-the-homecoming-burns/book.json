@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09586",
+  "title": "When the Homecoming Burns",
+  "author": "Silas Yarrow",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Freya Iversen, a baker's kid who bakes feelings into bread, has spent three years being so careful it hurts. But when the teacher pairs nemesis with nemesis for a semester-long project, they discover that staying invisible was never really an option. To get through this, they must win the championship that doesn't matter — and the one that does before graduation.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9586
+  }
+}

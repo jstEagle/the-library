@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01598",
+  "title": "Theo and the Crown",
+  "author": "Juniper Underhill",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Tamsin Ravensworth, a mercenary sworn to a god that went silent, has spent twelve years selling small charms in a city that outlawed magic. Then the old gods begin answering prayers again — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1598
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08784",
+  "title": "A Ghost for the Contact",
+  "author": "Hazel Blackwood",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Casper Oyelaran, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8784
+  }
+}

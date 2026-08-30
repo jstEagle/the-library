@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01885",
+  "title": "The Midnight Oath Revisited",
+  "author": "W. M. Reyes",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "August Montrose, the last oath-bound swordspeaker, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1885
+  }
+}

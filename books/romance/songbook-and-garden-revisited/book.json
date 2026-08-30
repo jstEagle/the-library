@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06845",
+  "title": "Songbook and Garden Revisited",
+  "author": "Silas Brightwater",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Cyrus Sterling, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6845
+  }
+}

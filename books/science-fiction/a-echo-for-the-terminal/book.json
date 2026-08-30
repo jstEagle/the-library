@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07132",
+  "title": "A Echo for the Terminal",
+  "author": "Beatrix Delacroix",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Jonah Nakamura, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must prove a massacre happened when every record says otherwise before Earth's last transmission loop ends.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7132
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04528",
+  "title": "Ansel and the Glasshouse",
+  "author": "L. M. Montrose",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Sable Iversen, a night librarian in a city that sleeps less every year, keeps a careful inventory of everything unsaid. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. To get through this, she must return to the place where the story went wrong before the mother's memory goes entirely.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4528
+  }
+}

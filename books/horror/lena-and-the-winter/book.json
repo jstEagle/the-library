@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03624",
+  "title": "Lena and the Winter",
+  "author": "Lior Joubert",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Silas Delacroix, a property surveyor appraising a house that appraises back, documents everything, because documentation is a kind of prayer. Then the village's church bell rings although the bell was melted down in 1911 — and she is pulled straight into the middle of it. To get through this, she must finish the ritual the founders started before the harvest moon rises.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3624
+  }
+}

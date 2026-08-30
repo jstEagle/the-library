@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06048",
+  "title": "A Promise for the Letters",
+  "author": "Astrid Montrose",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Petra Dravenmoor, a cellist recovering from one catastrophic final performance, has spent ten years rebuilding a life measured in small safe steps. But when two estranged names appear on the same impossibly stubborn orchard deed, she discovers that staying invisible was never really an option. To get through this, she must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6048
+  }
+}

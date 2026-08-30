@@ -1,0 +1,21 @@
+{
+  "id": "THR-08572",
+  "title": "Extraction and Safehouse",
+  "author": "Petra Underhill",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Isandro Nakamura, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. To get through this, he must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8572
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03111",
+  "title": "Edmund and the Letter",
+  "author": "Petra Vane",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Marguerite Sterling, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. Now they must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3111
+  }
+}

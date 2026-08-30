@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01147",
+  "title": "A Wolf for the Ember",
+  "author": "Ulyana Fairweather",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Wendell Okafor, a bone-carver who hears the dead, has spent fifteen years selling small charms in a city that outlawed magic. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1147
+  }
+}

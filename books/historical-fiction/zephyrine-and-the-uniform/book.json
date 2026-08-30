@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02784",
+  "title": "Zephyrine and the Uniform",
+  "author": "Sebastian Dunmore",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Quentin Sandoval, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. But when the army requisitions the town and the ledger with all the names, they discover that staying invisible was never really an option. To get through this, they must get the truth on the record ahead of the victors' historians before the armistice is signed — or isn't.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2784
+  }
+}

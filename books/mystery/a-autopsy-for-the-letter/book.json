@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05268",
+  "title": "A Autopsy for the Letter",
+  "author": "Felix Ishikawa",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Edmund Thornbury, an insurance investigator with a photographic memory, has spent twenty years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5268
+  }
+}

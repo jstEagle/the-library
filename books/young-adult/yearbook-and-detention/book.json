@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09969",
+  "title": "Yearbook and Detention",
+  "author": "Ada Montrose",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Xanthe Dravenmoor, a coder whose anonymous account knows too much, is fine. Everything is fine. Obviously.. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and they are pulled straight into the middle of it. Now they must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9969
+  }
+}

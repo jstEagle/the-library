@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03120",
+  "title": "Zephyrine and the Lantern",
+  "author": "Rosalind Underhill",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Casper Vane, a widowed lighthouse keeper during the year of the great storms, measures the world in what can be carried when the orders come. But when the army requisitions the town and the ledger with all the names, she discovers that staying invisible was never really an option. To get through this, she must finish the work while the workshop still stands before the armistice is signed — or isn't.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3120
+  }
+}

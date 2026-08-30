@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09986",
+  "title": "Noor and the Locker",
+  "author": "August Nystrom",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Rosalind Crane, a scholarship student at an academy with too many secrets, counts days until graduation like a sentence being served. Then the college essay prompt asks one honest question nobody can stop answering — and he is pulled straight into the middle of it. To get through this, he must save the tradition that made the town before graduation.",
+  "themes": [
+    "identity",
+    "found family",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9986
+  }
+}

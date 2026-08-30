@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05777",
+  "title": "The Portrait of the Fens Anew",
+  "author": "Mirabel Okonkwo",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Quentin Sterling, a night-shift dispatcher for a taxi company, has spent five years keeping the town's secrets filed and alphabetized. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5777
+  }
+}

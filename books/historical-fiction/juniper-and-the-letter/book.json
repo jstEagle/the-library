@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02650",
+  "title": "Juniper and the Letter",
+  "author": "Coral Montrose",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Wren Nakamura, a widowed lighthouse keeper during the year of the great storms, measures the world in what can be carried when the orders come. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. Now she must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2650
+  }
+}

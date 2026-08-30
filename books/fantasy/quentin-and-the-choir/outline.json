@@ -1,0 +1,209 @@
+{
+  "title": "Quentin and the Choir",
+  "slug": "fantasy/quentin-and-the-choir",
+  "model": "stealth/ox-alpha",
+  "premise": "Freya Voss, a debt-bound scribe in the magic-outlawed city of Corvane, has spent fifteen years hiding their gift behind harmless charms—until the border wards collapse and the stars vanish on the same night, revealing that the temple itself engineered both catastrophes to seize divine power for its High Cantor. Hunted by temple inquisitors and guided by Quentin, a disgraced choirboy whose voice can still reach the fading gods, Freya gathers a ragged found family of outlaws, exiles, and one repentant inquisitor to reforge the covenant between realms. At the climax, Freya must choose between erasing their own name from existence to power the new covenant or letting the realms go dark; they choose sacrifice, but Quentin's song—and the family they built—refuses to let them disappear entirely. The book ends with a diminished but honest covenant, a city learning to live with magic again, and Freya freed of debt but bound by choice to the people who saved them.",
+  "about_author": "Ada Brightwater is the pen name of a former church archivist who spent a decade cataloging hymnals before turning to fantasy. They write about faith, bureaucracy, and the quiet rebellions of ordinary people, usually with tea going cold nearby.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Ledger of Small Debts",
+      "summary": "Freya's POV. A day in Corvane's night market as Freya sells charms and tallies their impossible debt to the Temple of the Veiled Word. Establishes their invisibility strategy and wry loneliness. Emotional beat: weary contentment masking fear."
+    },
+    {
+      "n": 2,
+      "title": "Quentin Sings at Vespers",
+      "summary": "Quentin's POV. The last choirboy with an unbroken voice rehearses in the temple's upper choir, where the High Cantor listens too closely. Quentin notices the hymns have changed—older words scraped away. Beat: unease beneath devotion."
+    },
+    {
+      "n": 3,
+      "title": "The Night the Stars Went Out",
+      "summary": "Dual POV converging. The border wards shatter; every star vanishes at once. Freya's charms flare uncontrollably; Quentin's voice cracks the chapel glass. Both are marked by witnesses. Beat: terror and awe."
+    },
+    {
+      "n": 4,
+      "title": "Inquisitors at the Door",
+      "summary": "Freya's POV. Temple inquisitors sweep the market district. Freya's landlady, Maren, hides them and demands nothing in return—the first unconditional kindness in fifteen years. Beat: startled gratitude."
+    },
+    {
+      "n": 5,
+      "title": "A Voice in the Dark District",
+      "summary": "Quentin's POV, fleeing the temple after refusing to sing the Cantor's new silent hymn. He stumbles into Freya's stall seeking shelter, recognizing her charm-work as forbidden craft. Beat: wary recognition."
+    },
+    {
+      "n": 6,
+      "title": "What the Wards Were For",
+      "summary": "Freya's POV. Freya deciphers fragments showing the wards didn't fail—they were unmade from inside the temple. The stars weren't lost; they were taken. Beat: cold clarity, purpose kindling."
+    },
+    {
+      "n": 7,
+      "title": "The Cantor's Silent Hymn",
+      "summary": "High Cantor Ovelith's POV (first antagonist chapter). His plan revealed: hoard the gods' stolen light to remake the covenant with himself as sole intermediary. Beat: chilling conviction—he believes he's saving everyone."
+    },
+    {
+      "n": 8,
+      "title": "Debt Collectors",
+      "summary": "Freya's POV. The temple calls in Freya's debt: betray the fugitive choirboy or be bound as a ward-tapper, drained slowly. Freya burns their indenture ledger instead—an act of open rebellion. Beat: liberation through ruin."
+    },
+    {
+      "n": 9,
+      "title": "Two Fugitives, One Cart",
+      "summary": "Freya and Quentin escape the city in Maren's vegetable cart, bickering about trust. Quentin reveals his voice once healed a dying bird; Freya admits their 'charms' were real magic all along. Beat: fragile alliance."
+    },
+    {
+      "n": 10,
+      "title": "The Exile of Hollow Bridge",
+      "summary": "New POV: Brannoc, an exiled ward-smith living under a bridge, who once helped build the border wards and has drunk himself numb with guilt. Freya recruits him. Beat: shame meeting a second chance."
+    },
+    {
+      "n": 11,
+      "title": "Songs the Gods Still Hear",
+      "summary": "Quentin's POV. In a ruined shrine, Quentin sings and something answers—a flicker where a star should be. Proof the gods aren't dead, only muffled. Beat: hope, terrifying and bright."
+    },
+    {
+      "n": 12,
+      "title": "Inquisitor Sera Vane",
+      "summary": "Sera's POV. The temple's best hunter tracks the fugitives but finds evidence of the Cantor's tampering first. Her crisis of faith begins. Beat: doubt cracking duty."
+    },
+    {
+      "n": 13,
+      "title": "The Covenant Explained",
+      "summary": "Brannoc's POV, exposition woven with memory. The old covenant: mortal voices fed the gods, gods held the wards and stars. The Cantor severed the feeding. Reforging it requires a true voice, a willing scribe, and the First Hearth. Beat: daunting scale."
+    },
+    {
+      "n": 14,
+      "title": "Market of Stolen Light",
+      "summary": "Freya's POV. In a smuggler bazaar, the group finds hoarded starlight being sold in vials—temple surplus. Freya steals back a shard and feels the gods' grief inside it. Beat: righteous anger."
+    },
+    {
+      "n": 15,
+      "title": "Maren Comes After Us",
+      "summary": "Maren's POV. The landlady abandons her shop to find her fugitives, bringing supplies and sharp opinions. Found family solidifies around her pragmatism. Beat: warmth and humor amid danger."
+    },
+    {
+      "n": 16,
+      "title": "Ambush at the Ashford Crossing",
+      "summary": "Action chapter, rotating POV. Sera's squad corners the group; Quentin's voice shields them, but Brannoc takes a wound. Sera deliberately misses her killing shot. Beat: cost of survival."
+    },
+    {
+      "n": 17,
+      "title": "What I Was Trained For",
+      "summary": "Sera's POV. Interrogating her own orders, she discovers the Cantor ordered no survivors—not capture. She burns her warrant and defects, arriving at the group's camp half-frozen. Beat: defection earned, not given."
+    },
+    {
+      "n": 18,
+      "title": "Trust Is a Debt Too",
+      "summary": "Freya's POV. The group debates whether to accept Sera. Freya, who was asked to betray Quentin, argues for mercy. Mistrust and tenderness tangle. Beat: the found family chooses itself."
+    },
+    {
+      "n": 19,
+      "title": "The First Hearth",
+      "summary": "Journey chapter, Quentin's POV. The party reaches the mountain shrine where the original covenant was sung—a hearth gone cold for centuries. The climb tests everyone. Beat: pilgrimage, exhaustion, resolve."
+    },
+    {
+      "n": 20,
+      "title": "Voices in the Snow",
+      "summary": "Supernatural interlude, multiple POV. Ancestral echoes haunt the pass, showing each character their deepest regret. Freya sees the parents they were sold away from. Beat: grief made useful."
+    },
+    {
+      "n": 21,
+      "title": "The Cantor Learns Their Path",
+      "summary": "Ovelith's POV. His spies report the pilgrims' route. He moves to corrupt the First Hearth before they arrive, and we see his backstory: he once sang in that choir and was refused by the gods. Beat: villain humanized, threat sharpened."
+    },
+    {
+      "n": 22,
+      "title": "Halfway Is Not Safety",
+      "summary": "Freya's POV. Quiet chapter: campfire confessions. Quentin asks why Freya never ran; Freya answers that invisible people can't be missed. Quentin says he'd miss them. Beat: love acknowledged obliquely."
+    },
+    {
+      "n": 23,
+      "title": "The Price of a True Voice",
+      "summary": "Brannoc's POV. Research in the hearth's antechamber reveals the reforge requires a singer to give their voice permanently and a scribe to write their own name out of existence. Beat: dread settling over the plan."
+    },
+    {
+      "n": 24,
+      "title": "Sera's Report",
+      "summary": "Sera's POV. She sends a false report to buy time, knowing it dooms her career and possibly her life. Flashbacks to her induction into the inquisitors as a child. Beat: sacrifice as identity."
+    },
+    {
+      "n": 25,
+      "title": "Storm at the Threshold",
+      "summary": "Action, rotating POV. The Cantor's storm-callers assault the mountain. Maren is gravely injured shielding Quentin. Beat: fury and fear; stakes become flesh."
+    },
+    {
+      "n": 26,
+      "title": "While She Sleeps",
+      "summary": "Freya's POV. Vigil over Maren. Freya uses forbidden deep-magic to slow the wound's corruption, spending years of their own strength. Beat: love against self-preservation."
+    },
+    {
+      "n": 27,
+      "title": "The Choir That Remembers",
+      "summary": "Quentin's POV. In the hearth chamber, Quentin discovers ghost-echoes of every singer since the first covenant—including, unexpectedly, a young Ovelith. Beat: sorrow for what the villain lost."
+    },
+    {
+      "n": 28,
+      "title": "Negotiation with a God",
+      "summary": "Freya's POV. A diminished god speaks through the hearth-shard: it will accept the covenant only if freely offered, not coerced—and warns that Ovelith's version would enslave both realms. Beat: moral clarity."
+    },
+    {
+      "n": 29,
+      "title": "Ovelith Arrives",
+      "summary": "Confrontation chapter, dual POV. The Cantor reaches the hearth with his retinue and offers Quentin glory, Freya freedom, Sera reinstatement. Each refuses in turn. Beat: temptation resisted."
+    },
+    {
+      "n": 30,
+      "title": "The Battle for the Hearth",
+      "summary": "Climax part one, rotating POV. Full battle in the hearth chamber. Brannoc rebuilds shattered ward-stones mid-fight; Maren, bandaged, fights with a fire poker; Sera duels her former mentor. Beat: desperate courage."
+    },
+    {
+      "n": 31,
+      "title": "Quentin's Last Song",
+      "summary": "Climax part two, Quentin's POV. Quentin begins the covenant-song, giving up his voice note by note as the hearth relights. Ovelith tries to hijack the melody with his stolen light. Beat: transcendent struggle."
+    },
+    {
+      "n": 32,
+      "title": "The Name Written Out",
+      "summary": "Climax part three, Freya's POV. To complete the covenant, Freya writes their own name into the erasure page. The world goes white. Beat: ultimate sacrifice, rendered intimate."
+    },
+    {
+      "n": 33,
+      "title": "Aftermath: Grey Morning",
+      "summary": "Multiple POV. The stars return—but Freya is gone, unremembered even by the family. Only Quentin, voiceless, retains a shapeless grief he cannot name. Beat: hollow victory."
+    },
+    {
+      "n": 34,
+      "title": "The Song Without Words",
+      "summary": "Quentin's POV. Voiceless Quentin hums at Freya's empty grave-marker, and the melody itself carries memory—the covenant preserved his feeling if not his knowledge. Beat: love outlasting erasure."
+    },
+    {
+      "n": 35,
+      "title": "What the Ledger Kept",
+      "summary": "Maren's POV. Sorting Freya's belongings, Maren finds the burned ledger's surviving fragment—one page Freya wrote the night before the climax, addressed to all of them. Reading it restores their memories. Beat: tears and laughter."
+    },
+    {
+      "n": 36,
+      "title": "Calling Someone Back",
+      "summary": "Group POV. The family performs a counter-rite: a name written back in by those who choose to remember it. It requires every member to give something real. Beat: found family as literal salvation."
+    },
+    {
+      "n": 37,
+      "title": "Freya, Remembered",
+      "summary": "Freya's POV, returning. Freya wakes at the hearth, name restored but changed—partly starlight now. Reunion with Quentin, who speaks his first word since the song: their name. Beat: catharsis."
+    },
+    {
+      "n": 38,
+      "title": "The Trial of Ovelith",
+      "summary": "Sera's POV. The defeated Cantor faces judgment not by temple law but by the reforged covenant—a hearing among mortals and gods alike. Justice outside the law, literally. Beat: accountability without vengeance."
+    },
+    {
+      "n": 39,
+      "title": "A City Learns to Sing",
+      "summary": "Epilogue-ish, rotating POV. Months later: Corvane repeals the magic ban, opens a new choir school, Maren's shop thrives, Brannoc teaches ward-craft. Beat: the world repaired in small ways."
+    },
+    {
+      "n": 40,
+      "title": "Debt Paid, Family Kept",
+      "summary": "Freya's final POV. Freya's indenture is formally dissolved; asked what they'll do with freedom, they look around the kitchen table—at Quentin, Maren, Brannoc, Sera—and say: exactly this. Beat: home, chosen."
+    }
+  ]
+}

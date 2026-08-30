@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03159",
+  "title": "the Undercroft Rising",
+  "author": "E. M. Quintana",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ulyana Halloran, a radio host taking calls from listeners who died last week, has spent three years telling themselves the noises have explanations. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. Now they must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3159
+  }
+}

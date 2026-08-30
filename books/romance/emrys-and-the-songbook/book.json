@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06495",
+  "title": "Emrys and the Songbook",
+  "author": "Gideon Nystrom",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Emrys Vasquez, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. To get through this, they must say the sentence that has been rehearsed for a decade before the last ferry of the season departs.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6495
+  }
+}

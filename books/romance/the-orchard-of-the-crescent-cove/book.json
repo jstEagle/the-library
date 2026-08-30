@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06397",
+  "title": "The Orchard of the Crescent Cove",
+  "author": "Wren Crane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Xanthe Quintana, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6397
+  }
+}

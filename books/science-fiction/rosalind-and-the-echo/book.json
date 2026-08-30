@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07909",
+  "title": "Rosalind and the Echo",
+  "author": "Xanthe Thornbury",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mirabel Ravensworth, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. To get through this, she must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7909
+  }
+}

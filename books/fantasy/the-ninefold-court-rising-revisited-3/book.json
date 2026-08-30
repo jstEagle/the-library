@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02284",
+  "title": "the Ninefold Court Rising Revisited",
+  "author": "Mara Delacroix",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Lior Oyelaran, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2284
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Bram and the Recipe",
+  "slug": "young-adult/bram-and-the-recipe",
+  "model": "stealth/ox-alpha",
+  "premise": "Quentin 'Bram' Marchetti has survived four years at Ashgrove Prep by being statistically invisible—until a group chat called The Recipe begins posting predictions that come true with impossible accuracy, and she realizes the algorithm behind it was built on data the school board buried after a student's death two years ago. As the predictions turn darker and start naming her, Bram must choose between exposing the truth and protecting the people the chat has already marked, including Theo, the boy she's falling for who may be its next target. In the end, Bram crashes the board's anniversary gala, releases the buried files and the chat's source code publicly, and accepts that survival bought with silence was never survival at all—even though it costs her the scholarship future she'd been counting down toward.",
+  "about_author": "Ulyana Sterling is a former high school math teacher who spent a decade watching which students learned to disappear. She writes young adult thrillers about systems that fail teenagers quietly, and lives in coastal Maine with an ill-tempered cat named Variance.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Counting House",
+      "summary": "Bram's POV. Opening day of senior year; Bram narrates her life in probabilities—attendance odds, friendship decay curves, exactly 247 days until graduation. Establishes her invisibility as strategy and her quiet grief over the death of classmate Priya Nair two years ago, officially an accident. Emotional beat: numb control masking dread."
+    },
+    {
+      "n": 2,
+      "title": "Twenty-Three Recipients",
+      "summary": "Bram's POV. A group chat titled 'The Recipe' adds her without consent—23 students, no messages yet. That night it posts its first prediction: the fountain will run red by Friday. When maintenance dyes it for a prank gone wrong, Bram is the only one who checked the timestamp first. Beat: cold fascination curdling into fear."
+    },
+    {
+      "n": 3,
+      "title": "Regression to the Mean",
+      "summary": "Theo Okafor's POV. Theo, Priya's former best friend, notices Bram screenshotting predictions and confronts her in the library. They compare notes: every prediction so far maps to real school data nobody should have. Beat: reluctant alliance; Theo wants answers about Priya, Bram wants out."
+    },
+    {
+      "n": 4,
+      "title": "What the Board Buried",
+      "summary": "Bram's POV. Digging through archived yearbook spreadsheets, Bram finds Priya's name scrubbed from the honor roll—the digital equivalent of erasure. A redacted incident report referenced in board minutes doesn't exist in any public file. Beat: the accident story starts cracking."
+    },
+    {
+      "n": 5,
+      "title": "Ingredient One: Silence",
+      "summary": "The Recipe's POV (anonymous, second-person fragments). The chat posts ingredient-style clues implying it runs on 'what everyone agreed not to say.' It predicts a teacher's resignation before it happens. Bram realizes whoever built it had access to sealed records. Beat: paranoia spreads through the 23 recipients."
+    },
+    {
+      "n": 6,
+      "title": "The Scholarship Clause",
+      "summary": "Bram's POV. Bram's full-ride depends on a recommendation from Headmaster Voss—who privately warns her that 'troublemakers have a way of losing their funding.' First explicit threat. Beat: duty versus truth becomes personal and financial."
+    },
+    {
+      "n": 7,
+      "title": "Rooftop Probabilities",
+      "summary": "Theo's POV. Theo and Bram stake out the server room based on prediction patterns; instead they find each other talking honestly for the first time—about Priya, about pretending. Almost-kiss interrupted when the fire alarm triggers exactly as predicted. Beat: love beginning against both their instincts."
+    },
+    {
+      "n": 8,
+      "title": "Ingredient Two: Data",
+      "summary": "Bram's POV. The Recipe predicts a student will be hospitalized within the week—and names junior Marcus Webb. Bram traces the chat's metadata to a server physically inside Ashgrove. Someone here built it. Beat: the game turns from eerie to dangerous."
+    },
+    {
+      "n": 9,
+      "title": "Marcus",
+      "summary": "Marcus Webb's POV. Marcus, a scholarship kid like Bram, describes the pressure-cooker week leading to his collapse during finals—a collapse the chat predicted to the hour. He survives, but the school spins it as stress. Beat: the cost of the system made flesh; Bram's guilt ignites."
+    },
+    {
+      "n": 10,
+      "title": "Voss's Ledger",
+      "summary": "Theo's POV. Theo steals thirty minutes alone in Voss's office and photographs a ledger of 'adjusted outcomes'—discipline records altered, incidents reclassified, all dated back years, including one entry two days before Priya died. Beat: proof exists, but possessing it makes them targets."
+    },
+    {
+      "n": 11,
+      "title": "Ingredient Three: Sacrifice",
+      "summary": "The Recipe's POV. The chat announces its final phase requires 'one willing and one unwilling.' It predicts Bram will expose the board—or be expelled trying—by the spring gala. Her name appears in the chat for the first time. Beat: hunted feeling; the countdown becomes hers."
+    },
+    {
+      "n": 12,
+      "title": "The Offer",
+      "summary": "Bram's POV. Voss offers Bram a deal: full scholarship renewal and a letter of recommendation in exchange for handing over Theo's photos and denying everything. He reveals he knows about the rooftop, the ledger, everything. Beat: temptation laid out precisely along her fault lines."
+    },
+    {
+      "n": 13,
+      "title": "What Priya Knew",
+      "summary": "Theo's POV. Theo finally opens Priya's old notebook, kept sealed since her death: she'd found the same ledger, confronted Voss, and was threatened with expulsion two days before she died. The 'accident' happened on the night she planned to go public. Beat: grief detonates into resolve."
+    },
+    {
+      "n": 14,
+      "title": "Fracture",
+      "summary": "Bram's POV. Bram, terrified, tells Theo she's considering the deal—just until graduation, just to survive. They fight brutally; Theo calls her complicit. Bram walks home past Priya's memorial tree and can't make herself look at it. Beat: lowest point; love and duty fully at war."
+    },
+    {
+      "n": 15,
+      "title": "The Unwilling",
+      "summary": "Marcus's POV. Recovering Marcus discovers the chat's admin account logs in from the school's own IT office—and finds IT director Halloran shredding files late at night. Halloran catches him. Beat: the human face of the machine; Marcus must choose courage or silence again."
+    },
+    {
+      "n": 16,
+      "title": "Ingredient Four: Witness",
+      "summary": "Bram's POV. Marcus contacts Bram with what he saw. She decrypts the chat's source code using patterns only a statistician would spot—it ingests sealed records and generates leverage, and someone feeds it targets. The final ingredient field reads: 'a witness who chooses to be seen.' Beat: understanding the trap means seeing the exit."
+    },
+    {
+      "n": 17,
+      "title": "Reconciliation of Accounts",
+      "summary": "Theo's POV. Theo apologizes—not for the anger but for asking Bram to be brave alone. They rebuild trust over Priya's notebook, planning together: copy everything, mirror it off-site, go public at the gala when every board member and journalist is in one room. Beat: love realigned with purpose."
+    },
+    {
+      "n": 18,
+      "title": "Countdown, Day Zero",
+      "summary": "Bram's POV. Final preparations; Voss suspends Bram pending 'an integrity review' scheduled conveniently after the gala. The Recipe posts its last prediction: 'Tonight, the recipe completes.' Bram walks into the gala carrying two drives and no safety net. Beat: terrible calm before the storm."
+    },
+    {
+      "n": 19,
+      "title": "The Gala",
+      "summary": "Bram's POV. Climax. During Voss's anniversary speech, Bram takes the stage, airs the ledger, the code, and Priya's notebook on every screen. Chaos; Voss tries to have her removed, but Marcus and Theo broadcast the feed live and Halloran, cornered, confesses to feeding the system. Beat: exposure as liberation and freefall."
+    },
+    {
+      "n": 20,
+      "title": "Aftertaste",
+      "summary": "Theo's POV. Fallout: Voss resigns under investigation, the scholarship fund is audited, and the Recipe's code goes public as evidence. But Bram's expulsion stands on a technicality, and some classmates blame her for the school's disgrace. Beat: victory with a bill attached—the price of survival, paid forward."
+    },
+    {
+      "n": 21,
+      "title": "The New Arithmetic",
+      "summary": "Bram's POV. Weeks later: Bram loses the scholarship but gains a journalism mentorship from a reporter who covered the gala; Theo and she are together, unhidden. At Priya's memorial tree, Bram finally says her name aloud and leaves the notebook's copy beneath it. Beat: grief integrated; identity rebuilt beyond invisibility."
+    },
+    {
+      "n": 22,
+      "title": "Epilogue: What Hasn't Happened Yet",
+      "summary": "Bram's POV, months later at her new school. A stranger slides her a note with a single line: 'You count things too, don't you?' Bram smiles, pockets it, and—for the first time—doesn't calculate the odds. Beat: open-hearted ending; she chooses connection over prediction."
+    }
+  ]
+}

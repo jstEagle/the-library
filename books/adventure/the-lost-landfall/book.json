@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00341",
+  "title": "The Lost Landfall",
+  "author": "A. M. Yarrow",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Ivo Thornbury, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. But when an expedition upriver stops answering the radio, she discovers that staying invisible was never really an option. Now she must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 341
+  }
+}

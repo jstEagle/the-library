@@ -1,0 +1,21 @@
+{
+  "id": "THR-08843",
+  "title": "Debt and Safehouse",
+  "author": "Freya Fairweather",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Cyrus Ravensworth, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8843
+  }
+}

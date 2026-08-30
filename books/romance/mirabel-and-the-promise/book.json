@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06908",
+  "title": "Mirabel and the Promise",
+  "author": "Lena Iversen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Dominic Halloran, a lighthouse keeper's granddaughter and part-time novelist, has spent twenty years rebuilding a life measured in small safe steps. Then the person behind a decade of letters moves in next door — and he is pulled straight into the middle of it. Now he must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6908
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06360",
+  "title": "Ines and the Promise",
+  "author": "Gideon Kavanagh",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Jonah Kavanagh, a single parent running the town's only bookshop, has spent seven years rebuilding a life measured in small safe steps. But when two estranged names appear on the same impossibly stubborn orchard deed, they discover that staying invisible was never really an option. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6360
+  }
+}

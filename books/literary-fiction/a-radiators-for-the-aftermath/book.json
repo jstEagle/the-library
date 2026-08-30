@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04746",
+  "title": "A Radiators for the Aftermath",
+  "author": "E. M. Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Wren Kavanagh, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. To get through this, they must translate the untranslatable sentence and live with it before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4746
+  }
+}

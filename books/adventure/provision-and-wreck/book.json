@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00618",
+  "title": "Provision and Wreck",
+  "author": "Coral Sterling",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Ada Okafor, a riverboat captain who knows every sandbar's mood, has spent fifteen years measuring life in miles rather than years. But when the river gives up a chest stamped with a dead nation's seal, she discovers that staying invisible was never really an option. To get through this, she must follow a river upstream to its forbidden source before the concession permits expire.",
+  "themes": [
+    "found family",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 618
+  }
+}

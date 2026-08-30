@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05843",
+  "title": "Yara and the Confession",
+  "author": "Astrid Joubert",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Zephyrine Crane, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. To get through this, they must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5843
+  }
+}

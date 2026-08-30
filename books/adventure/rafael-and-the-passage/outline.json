@@ -1,0 +1,59 @@
+{
+  "title": "Rafael and the Passage",
+  "slug": "adventure/rafael-and-the-passage",
+  "model": "stealth/ox-alpha",
+  "premise": "Isandro Halloran, a mountain guide blacklisted from two countries for a rescue that went wrong, is hired off the books to retrace the route of a vanished government survey team in the Cordillera del Viento. With his estranged half-sister Marisol and a teenage stowaway named Rafael, he discovers the team didn't disappear—they were erased, after finding evidence of a rigged dam project upstream. Hunted by the survey's corporate backers through the monsoon season, Isandro must choose between staying invisible, as he has for years, or testifying with the team's recovered records and exposing the truth. In the end, they survive the flooded river crossing on a leaking boat with help from an old river pilot who once betrayed him, deliver the evidence to a journalist, and Isandro trades his anonymity for justice—finding, in Rafael and Marisol, the family he stopped believing he deserved.",
+  "about_author": "Oscar Halloran is the pen name of a former expedition logistics coordinator who spent a decade outfitting treks across three continents before turning to fiction. He writes adventure novels from a small house at the edge of the mountains, where the weather still dictates his schedule.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Man Who Wasn't Hired",
+      "summary": "POV: Isandro. Blacklisted and working under false permits, Isandro accepts a cash job from a nervous intermediary: find out what happened to a six-person government survey team last seen heading into the Cordillera del Viento. The emotional beat is wary resignation—he takes jobs like this because invisibility is all he has left."
+    },
+    {
+      "n": 2,
+      "title": "Stowaway",
+      "summary": "POV: Rafael. Fourteen-year-old Rafael, orphaned and fleeing a work camp, hides in Isandro's supply truck and is discovered at the trailhead. Isandro wants to send him back; Marisol argues the boy will die alone. They grudgingly let him come. The beat is reluctant connection forming at the edge of the wilderness."
+    },
+    {
+      "n": 3,
+      "title": "Gear Without Tracks",
+      "summary": "POV: Isandro. High on the ridge, they find the survey camp intact—tents pitched, instruments running, food cached—but no bodies, no tracks leaving, and a radio smashed from inside. Isandro recognizes professional erasure when he sees it. The beat shifts from mystery to dread: someone wanted these people gone without a trace."
+    },
+    {
+      "n": 4,
+      "title": "What Elena Buried",
+      "summary": "POV: Marisol. In a collapsed cache, Marisol finds the team leader's sealed field journal: survey data proving the planned dam's reservoir figures were falsified to hide downstream village flooding. The journal names names. The beat is moral vertigo—the missing team wasn't lost; it was silenced, and now they hold the reason why."
+    },
+    {
+      "n": 5,
+      "title": "Smoke on the Windward Side",
+      "summary": "POV: Rafael. Rafael spots a search party that isn't searching—it's sweeping, methodically burning caches along the route. The trio hides in a river gorge as men with corporate credentials question villagers downstream. The beat is terror sharpening into resolve: Rafael, who has always run from adults, chooses to stay and protect Marisol."
+    },
+    {
+      "n": 6,
+      "title": "Monsoon",
+      "summary": "POV: Isandro. The rains arrive early and trap them below the pass; the trail home is gone under floodwater. Isandro's old plan—invisible, patient, wait it out—dies against the reality that the sweep teams won't wait. The beat is a leader's crisis of confidence as his survival doctrine fails for the first time."
+    },
+    {
+      "n": 7,
+      "title": "The Pilot Who Owed Him",
+      "summary": "POV: Isandro. Their only way out is downriver, and the only boat belongs to Tomás Iriarte, the river pilot whose testimony got Isandro blacklisted years ago. The confrontation is bitter and unresolved, but Tomás, ashamed, agrees to run them through the gorge at monsoon height. The beat is the cost of old betrayals and the fragile arithmetic of trust."
+    },
+    {
+      "n": 8,
+      "title": "White Water, Black Boat",
+      "summary": "POV: Rafael. The descent becomes a fight for survival: the boat leaks, the gorge narrows, and a sweep helicopter shadows them from above. Rafael bails water while Marisol shields the journal in oilskin, and Tomás threads rapids he swore never to run again. The beat is pure adrenaline—and Rafael realizing he is no longer cargo but crew."
+    },
+    {
+      "n": 9,
+      "title": "Invisible No More",
+      "summary": "POV: Isandro. Cornered at the delta landing by the corporation's fixer, Isandro faces the choice he's dodged for a decade: pay them off and vanish, or stand and be seen. He chooses the camera—Marisol photographs the journal pages and transmits them to a journalist before the fixer can act. The beat is the climax: loyalty to truth over loyalty to safety."
+    },
+    {
+      "n": 10,
+      "title": "The Passage",
+      "summary": "POV: Rafael. Weeks later, the story breaks, the dam project stalls, and the survey team's fate becomes a public scandal. Isandro faces inquiries and loses his anonymity for good, but gains something else: Rafael, formally under his guardianship, and Marisol staying through winter. The beat is quiet resolution—a found family forged in floodwater, and a man who finally stops running."
+    }
+  ]
+}

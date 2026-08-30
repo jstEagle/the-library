@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05493",
+  "title": "Rafael and the Witness",
+  "author": "Bram Joubert",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Lior Almeida, the archivist of a cathedral with a locked crypt, has spent twenty years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5493
+  }
+}

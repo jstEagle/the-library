@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04383",
+  "title": "Quentin and the Weather",
+  "author": "Bram Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Jonah Nystrom, a letter-writer sending postcards to an address that burned down years ago, keeps a careful inventory of everything unsaid. But when a childhood home goes up for auction, she discovers that staying invisible was never really an option. To get through this, she must return to the place where the story went wrong before the house sale closes.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4383
+  }
+}

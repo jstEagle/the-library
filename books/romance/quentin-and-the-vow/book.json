@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06623",
+  "title": "Quentin and the Vow",
+  "author": "Vesper Vane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Rafael Joubert, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6623
+  }
+}

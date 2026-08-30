@@ -1,0 +1,21 @@
+{
+  "id": "THR-08458",
+  "title": "When the Debt Turns",
+  "author": "I. M. Eriksen",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Edmund Reyes, a whistle-blower living under four names, has spent five years following rules that keep getting rewritten. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8458
+  }
+}

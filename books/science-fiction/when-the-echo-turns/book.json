@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07023",
+  "title": "When the Echo Turns",
+  "author": "Lior Yarrow",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Dominic Marchetti, the last human technician on an automated relay station, has spent five years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7023
+  }
+}

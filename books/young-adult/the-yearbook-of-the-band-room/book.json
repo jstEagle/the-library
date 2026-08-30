@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09598",
+  "title": "The Yearbook of the band room",
+  "author": "Petra Sandoval",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Edmund Hartwell, the new kid at a school built over something old, stays under the radar: head down, grades up, locker shut. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and they are pulled straight into the middle of it. To get through this, they must expose what the school board buried before prom.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9598
+  }
+}

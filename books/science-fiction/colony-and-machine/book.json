@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07217",
+  "title": "Colony and Machine",
+  "author": "August Ravensworth",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Mara Eriksen, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7217
+  }
+}

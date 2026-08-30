@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08218",
+  "title": "Ulyana and the Static Revisited",
+  "author": "Juniper Thackeray",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Mirabel Halloran, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. To get through this, they must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "identity",
+    "memory",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8218
+  }
+}

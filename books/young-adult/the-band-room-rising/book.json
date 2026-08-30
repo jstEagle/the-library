@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09502",
+  "title": "the band room Rising",
+  "author": "Mara Dunmore",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Jonah Iversen, the new kid at a school built over something old, counts days until graduation like a sentence being served. Then a group chat starts predicting things that haven't happened yet — and they are pulled straight into the middle of it. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9502
+  }
+}

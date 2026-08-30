@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03361",
+  "title": "Wren and the Portrait",
+  "author": "Mirabel Brightwater",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Rafael Iversen, a property surveyor appraising a house that appraises back, has spent twenty years telling themselves the noises have explanations. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. To get through this, he must learn the song's last verse without singing along before the well refills.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3361
+  }
+}

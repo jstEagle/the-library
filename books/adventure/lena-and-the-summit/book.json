@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00583",
+  "title": "Lena and the Summit",
+  "author": "Yara Coldharbour",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Lior Vasquez, a mountain guide blacklisted from two countries, knows the wilderness forgives nothing and forgets less. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. To get through this, they must follow a river upstream to its forbidden source before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 583
+  }
+}

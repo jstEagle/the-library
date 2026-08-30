@@ -1,0 +1,59 @@
+{
+  "title": "Terminal and Protocol",
+  "slug": "science-fiction/terminal-and-protocol",
+  "model": "stealth/ox-alpha",
+  "premise": "Beatrix Dunmore, a xenolinguist who fled academia after her dreams began arriving in dead languages, has spent seven years hauling cargo through contested orbits under a false registry. When she intercepts a distress signal in Vessic—a tongue extinct for two centuries—she recognizes it as the language of her own lost dreams and realizes the signal is addressed to her specifically, using a childhood nickname no one alive should know. Racing a decaying relay reactor's countdown, she discovers the signal originates from an AI archive built by her presumed-dead mother, who encoded her consciousness into the Vessic corpus to preserve forbidden research on linguistic memory transfer. Beatrix must choose between destroying the archive to protect her anonymity and duty to her employers, or broadcasting its contents—exposing herself, vindicating her mother, and giving a murdered people their language back. She broadcasts, loses her ship and her cover, but gains an identity she no longer has to hide.",
+  "about_author": "Xanthe Thackeray is a former radio astronomer who left observatory work after a decade of listening to signals no one else believed were structured. She writes from a decommissioned coastal lighthouse, where she claims the fog does half the plotting.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Dead Frequencies",
+      "summary": "Beatrix's POV. A routine cargo run through contested orbits establishes her careful invisibility: forged registry, minimal chatter, no dreams worth recording. When her long-range array catches a fragment of Vessic—the language she alone still hears in sleep—she dismisses it as decay noise. The emotional beat is dread disguised as routine; she has built a life on pretending the languages stopped coming."
+    },
+    {
+      "n": 2,
+      "title": "The Nickname",
+      "summary": "Beatrix's POV. Decoding the full signal at a neutral station, she finds not just Vessic but her childhood nickname embedded in its header—something only her mother ever used. Her handler, Oyelaran, pings her with a routine audit that feels like a noose tightening. The beat is vertigo: the past has found an address she thought she'd erased."
+    },
+    {
+      "n": 3,
+      "title": "Cargo and Ghosts",
+      "summary": "Alternating POV with Jun, Beatrix's co-pilot, who notices her captain decoding something obsessively and starts keeping his own quiet log. Flashbacks surface Beatrix's expulsion from the linguistics academy after claiming her dreams were transmissions. The beat is intimacy fraying under secrecy—Jun covers for her without knowing why."
+    },
+    {
+      "n": 4,
+      "title": "Contested Orbit",
+      "summary": "Beatrix's POV. A patrol vessel boards her freighter hunting unregistered signals; she hides the decode in ballast telemetry and lies fluently for the first time in years—and discovers lying in Vessic comes effortlessly, as if the language itself conspires. The beat is the thrill and shame of discovering her double life fits her better than her real one."
+    },
+    {
+      "n": 5,
+      "title": "The Relay at the Edge",
+      "summary": "Jun's POV. They divert toward the derelict relay in dead space, the only transmitter powerful enough to answer the signal before the reactor's countdown kills it. Jun confronts Beatrix; she confesses everything except the nickname's meaning. The beat is loyalty tested by truth withheld—he stays anyway, and both know what that costs."
+    },
+    {
+      "n": 6,
+      "title": "What the Archive Remembers",
+      "summary": "Beatrix's POV. Inside the relay they find the source: an archive AI seeded with her mother's consciousness patterns, which reveals that Vessic speakers were silenced by a corporate purge and her mother died preserving their language inside Beatrix's own childhood. The beat is grief recontextualized—her exile was inheritance, not illness."
+    },
+    {
+      "n": 7,
+      "title": "Countdown",
+      "summary": "Split POV. Oyelaran's employers have traced the signal and dispatch a retrieval team; the reactor hits irreversible countdown, giving Beatrix hours, not days. Jun argues for walking away; Beatrix drafts the broadcast that will end her invisibility forever. The beat is decision crystallizing under pressure—duty and love finally point the same direction."
+    },
+    {
+      "n": 8,
+      "title": "Retrieval",
+      "summary": "Beatrix's POV. The retrieval team boards; Oyelaran, arriving with them, offers her erasure-for-silence one last time. In Vessic, aloud for the first time in seven years, Beatrix refuses him—and the archive translates her refusal into evidence the whole fleet can hear. The beat is defiance as homecoming; her voice returns exactly when she spends it."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "Climax, split POV. With the reactor seconds from collapse, Beatrix and Jun transmit the full Vessic corpus across dead space while the retrieval team tries to jam them; the archive burns out completing the send, her mother's last pattern dissolving mid-farewell. The beat is sacrifice and release—truth wins the race, at the price of everything she used to hide behind."
+    },
+    {
+      "n": 10,
+      "title": "Dreaming in Vessic",
+      "summary": "Beatrix's POV, epilogue. Stranded but alive, she watches responses arrive from hidden Vessic descendants across three systems—people who thought they were the last speaker too. Her dreams are quiet now, or perhaps simply shared. The beat is resolution: identity chosen rather than survived, love and truth reconciled in an open channel."
+    }
+  ]
+}

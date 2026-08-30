@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02054",
+  "title": "Edmund and the Ember Revisited",
+  "author": "Ines Vasquez",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ada Ashgrove, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2054
+  }
+}

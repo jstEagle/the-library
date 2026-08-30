@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03811",
+  "title": "A Cellar for the Room",
+  "author": "P. M. Underhill",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 3.4,
+  "blurb": "Petra Eastwick, a property surveyor appraising a house that appraises back, doesn't believe, has never believed, will not begin believing now. Then the sleep recordings capture a second voice answering questions — and she is pulled straight into the middle of it. To get through this, she must learn the song's last verse without singing along before the well refills.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3811
+  }
+}

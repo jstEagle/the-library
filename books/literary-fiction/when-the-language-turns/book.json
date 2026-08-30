@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04441",
+  "title": "When the Language Turns",
+  "author": "Ulyana Delacroix",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Dominic Whitlock, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, she discovers that staying invisible was never really an option. To get through this, she must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4441
+  }
+}

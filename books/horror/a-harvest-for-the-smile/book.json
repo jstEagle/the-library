@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03943",
+  "title": "A Harvest for the Smile",
+  "author": "Ines Marchetti",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Elodie Eriksen, a twin who came home to bury the wrong sibling, keeps the lights on and the doors counted. But when all the photographs from grandma's house now include an extra chair, he discovers that staying invisible was never really an option. Now he must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3943
+  }
+}

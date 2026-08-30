@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08299",
+  "title": "Halcyon Drift Rising Again",
+  "author": "Juniper Oyelaran",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ansel Fairweather, a terraformer tending a garden meant for people not yet born, records the slow death of a colony everyone else forgot. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8299
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04373",
+  "title": "The Slow Silence",
+  "author": "Juniper Amberdale",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ansel Yarrow, a night librarian in a city that sleeps less every year, has spent seven years practicing the art of almost saying it. But when the last speaker of a language asks for one final student, she discovers that staying invisible was never really an option. Now she must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4373
+  }
+}

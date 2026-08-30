@@ -1,0 +1,21 @@
+{
+  "id": "THR-09412",
+  "title": "Silas and the Ghost",
+  "author": "Oscar Quintana",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Vesper Sterling, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9412
+  }
+}

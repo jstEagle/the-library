@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02253",
+  "title": "Veil and Garden Again",
+  "author": "Noor Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Kestrel Thackeray, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2253
+  }
+}

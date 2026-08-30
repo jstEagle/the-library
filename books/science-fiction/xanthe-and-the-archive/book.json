@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07113",
+  "title": "Xanthe and the Archive",
+  "author": "Freya Nystrom",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Ulyana Voss, a pilot bonded to an AI that lies, records the slow death of a colony everyone else forgot. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. To get through this, they must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7113
+  }
+}

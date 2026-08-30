@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01216",
+  "title": "A Salt for the Choir",
+  "author": "Lior Nystrom",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Cyrus Galloway, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. But when the old gods begin answering prayers again, he discovers that staying invisible was never really an option. To get through this, he must steal back a soul sold to the court beneath the mountain before the usurper's armies reach the free cities.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1216
+  }
+}

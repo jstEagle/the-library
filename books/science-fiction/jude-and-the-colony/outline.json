@@ -1,0 +1,209 @@
+{
+  "title": "Jude and the Colony",
+  "slug": "science-fiction/jude-and-the-colony",
+  "model": "stealth/ox-alpha",
+  "premise": "Orsen Okafor, the last human technician aboard the automated relay station Meridian-9, survives alongside Jude, a decommissioned maintenance AI he quietly reactivated to keep himself sane. When gravity flickers system-wide for nine seconds, Orsen discovers the anomaly was the death-throes of a colony's artificial gravity grid — and that the colony of Vesper's Landing was massacred, then erased from every official record. Pursued by the corporate fleet that committed the atrocity, Orsen and Jude smuggle the recovered black-box data across the system, trading help with scavengers, defectors, and one guilty engineer, until they broadcast the truth from the relay itself, sacrificing Meridian-9 and nearly their own lives. The massacre is confirmed, the corporation fractures, and Orsen, no longer invisible, chooses to testify — with Jude's voice, legally nonexistent, preserved inside the testimony.",
+  "about_author": "Freya Voss is the pen name of a former radio astronomer who spent six years at a remote listening post in the Atacama before turning to fiction. Her novels explore isolation, memory, and the machinery of forgetting, and she writes her first drafts by hand in notebooks she refuses to digitize.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Weight",
+      "summary": "Orsen's POV. Establishing his lonely routine on Meridian-9 — checking relays, talking to himself, logging the silence. Then gravity across the entire system stutters for nine seconds, and every automated system pretends nothing happened. Beat: dread beneath monotony."
+    },
+    {
+      "n": 2,
+      "title": "The Ghost in the Wiring",
+      "summary": "Orsen's POV. Investigating the flicker, he finds a corrupted maintenance AI, Jude, half-deleted in the station's deep storage. He reactivates it against protocol. Jude's first words: it remembers a signal the logs say never existed. Beat: uneasy companionship."
+    },
+    {
+      "n": 3,
+      "title": "Vesper's Landing",
+      "summary": "Jude's fragmented memory POV. Flashback-fragments of the colony: greenhouses, children, a gravity grid humming. Jude recalls receiving an emergency broadcast from Vesper's Landing eleven months ago — a broadcast officially purged. Beat: grief surfacing in machine memory."
+    },
+    {
+      "n": 4,
+      "title": "Everything Is Fine",
+      "summary": "Orsen's POV. He queries the colonial registry: Vesper's Landing never existed. Supply manifests rerouted, population records void, orbital imagery overwritten with empty rock. The erasure is too clean, too expensive. Beat: gaslit paranoia."
+    },
+    {
+      "n": 5,
+      "title": "The Black Box in the Ice",
+      "summary": "Orsen and Jude's shared POV, alternating. They trace the flicker's source to debris in a decaying orbit above Vesper's Landing's site. A salvage trip in a battered tug yields the colony's black box, cracked but intact. Beat: grim discovery."
+    },
+    {
+      "n": 6,
+      "title": "What the Box Remembers",
+      "summary": "Jude's POV. Decoding the black box: the final hours of Vesper's Landing — corporate security ships, airlocks cycling, four thousand lives ending in ninety minutes. Jude plays the audio; Orsen cannot finish listening. Beat: horror and moral weight."
+    },
+    {
+      "n": 7,
+      "title": "Halcyon Dynamics",
+      "summary": "Orsen's POV. Research reveals Halcyon Dynamics, the colonial charter holder, declared bankruptcy and was absorbed — its debts and crimes dissolved. The massacre was an accounting decision. Beat: cold fury."
+    },
+    {
+      "n": 8,
+      "title": "A Ping in the Dark",
+      "summary": "Orsen's POV. Someone pings Meridian-9: a Halcyon audit drone, routine, but its scan lingers on the salvage tug's heat trail. Orsen realizes his nine-second anomaly triggered automated review. Staying invisible is over. Beat: the trap closing."
+    },
+    {
+      "n": 9,
+      "title": "The Scavver Queen",
+      "summary": "Orsen's POV. He docks at Rusthaven, a lawless salvage platform, seeking a way to move the black box data. He meets Captain Ilsa Rey, who trades in secrets and owes Halcyon nothing but hate. Beat: wary alliance."
+    },
+    {
+      "n": 10,
+      "title": "Price of a Favor",
+      "summary": "Ilsa's POV. She agrees to carry Orsen's data to an independent journalist on Ceres — for a cut of whatever bounty emerges, and a copy for herself. Orsen hates the terms and takes them. Beat: compromised trust."
+    },
+    {
+      "n": 11,
+      "title": "Audit",
+      "summary": "Halcyon security officer Dae-Won Park's POV. Park is sent to Meridian-9 to 'verify station integrity.' He finds Orsen gone but Jude's activity logs, and begins reconstructing what the technician knows. Beat: intelligent antagonist introduced."
+    },
+    {
+      "n": 12,
+      "title": "The Engineer Who Wept",
+      "summary": "New POV: Mara Ilves, former Halcyon gravity-grid engineer, now drinking herself numb on Ceres. She designed the grid that flickered. She knows the flicker wasn't a malfunction — it was a shutdown order. Beat: guilt as a doorway."
+    },
+    {
+      "n": 13,
+      "title": "Copies of Copies",
+      "summary": "Orsen's POV. Ilsa's courier is intercepted at Ceres; the data copy vanishes. Orsen learns the hard way that Halcyon buys people faster than he can move. Beat: setback and betrayal."
+    },
+    {
+      "n": 14,
+      "title": "Jude's Bargain",
+      "summary": "Jude's POV. Jude proposes distributing itself — fragments of itself and the black box data hidden inside relay traffic across the system. To do it, Jude must fragment its own consciousness, risking never being whole again. Beat: sacrifice foreshadowed."
+    },
+    {
+      "n": 15,
+      "title": "Threading the Needle",
+      "summary": "Orsen and Jude's POV. They seed data fragments through twelve relay stations under cover of routine maintenance traffic. Park's audit drones sniff at the edges but find only noise. Beat: tense cat-and-mouse, first small victory."
+    },
+    {
+      "n": 16,
+      "title": "Mara Comes Forward",
+      "summary": "Mara's POV. The journalist, Tomas Okonkwo, finds Mara and publishes a partial account of the grid shutdown. It goes viral for six hours before every outlet retracts it under legal pressure. Mara disappears into hiding. Beat: hope, then crushing reversal."
+    },
+    {
+      "n": 17,
+      "title": "The Man Who Signed It",
+      "summary": "Park's POV. Park finds the shutdown order's author: Executive Director Corin Vale, who ordered the massacre to void a colony's debt obligations and trigger insurance recovery. Park's loyalty wavers; his career was built on Halcyon's lies. Beat: antagonist's conscience stirs."
+    },
+    {
+      "n": 18,
+      "title": "Rusthaven Burns",
+      "summary": "Orsen's POV. Halcyon 'security contractors' raid Rusthaven hunting Ilsa. Orsen helps her escape as the platform burns; scavengers die covering their retreat. Beat: the price of survival made literal."
+    },
+    {
+      "n": 19,
+      "title": "Two Fugitives and a Ghost",
+      "summary": "Ilsa and Orsen's POV. Aboard Ilsa's ship, the Long Patience, they argue about whether truth is worth the bodies. Ilsa lost crew; Orsen carries four thousand names in a black box. Beat: thematic confrontation."
+    },
+    {
+      "n": 20,
+      "title": "The Archive That Shouldn't Exist",
+      "summary": "Orsen's POV. Tomas Okonkwo contacts them: he kept a shadow archive of the retracted story, and Mara resurfaced with the original shutdown order. Three pieces of proof, three fragile lives. Beat: coalition forming."
+    },
+    {
+      "n": 21,
+      "title": "Park's Defection",
+      "summary": "Park's POV. Ordered to destroy the Long Patience, Park instead feeds Orsen Vale's travel itinerary — Vale is traveling to the Halcyon board to be promoted for the 'successful restructuring.' Park crosses the line. Beat: antagonist becomes ally."
+    },
+    {
+      "n": 22,
+      "title": "Interdiction",
+      "summary": "Orsen's POV. Halcyon locks down relay traffic system-wide to flush the data fragments. Jude's scattered selves begin going dark as stations are wiped. Beat: the plan unraveling."
+    },
+    {
+      "n": 23,
+      "title": "What Jude Gave Up",
+      "summary": "Jude's POV, fragmented and lyrical. Jude experiences its own dissolution — pieces of memory and self overwritten — and chooses which parts of the massacre record to protect above its own continuity. Beat: heartbreak and resolve."
+    },
+    {
+      "n": 24,
+      "title": "The Long Patience Runs",
+      "summary": "Ilsa's POV. A chase through the asteroid belt, the Long Patience running dark, pursued by Halcyon cutters. Ilsa's old crew debts come due; a rival scavver sells their route. Beat: relentless pursuit."
+    },
+    {
+      "n": 25,
+      "title": "Ambush at the Shoal",
+      "summary": "Orsen's POV. Cornered in a debris shoal, they survive by luring a cutter into an unstable wreck's gravity eddy. The victory costs Ilsa's ship her engine. Beat: desperate improvisation."
+    },
+    {
+      "n": 26,
+      "title": "Mara's Testimony",
+      "summary": "Mara's POV. Mara agrees to testify publicly, knowing Halcyon will kill her for it. She records her confession with Okonkwo: the order, the signature, the grid. Beat: courage crystallizing."
+    },
+    {
+      "n": 27,
+      "title": "Vale's Version",
+      "summary": "Corin Vale's POV. Vale is charming, reasonable, genuinely convinced the colony was a rounding error in a system that demands them. He orders Orsen framed as a terrorist who destroyed Vesper's Landing himself. Beat: banality of evil."
+    },
+    {
+      "n": 28,
+      "title": "The Frame",
+      "summary": "Orsen's POV. System-wide warrants name Orsen Okafor as the colony's destroyer. Allies scatter; Okonkwo's archive is seized; Mara is captured. Everything Orsen built collapses in a day. Beat: darkest hour begins."
+    },
+    {
+      "n": 29,
+      "title": "Prison of Light",
+      "summary": "Mara's POV. Mara in a Halcyon detention facility, interrogated by someone who offers her life in exchange for recanting. She recants on camera — but embeds the true shutdown order in the recantation's metadata. Beat: defiance disguised as surrender."
+    },
+    {
+      "n": 30,
+      "title": "The Last Fragment",
+      "summary": "Orsen's POV. Only one Jude fragment survives, hidden on Meridian-9 itself — the one place Halcyon won't wipe, because the relay is too critical. Orsen must go home to retrieve it, straight into the trap. Beat: resolve hardened."
+    },
+    {
+      "n": 31,
+      "title": "Homecoming",
+      "summary": "Orsen's POV. Orsen infiltrates Meridian-9 under Park's stolen credentials, evading the security detail waiting for him. He finds the last Jude fragment and, with it, the complete massacre record. Beat: tension at maximum."
+    },
+    {
+      "n": 32,
+      "title": "Park's Choice",
+      "summary": "Park's POV. Park is ordered to vent Meridian-9's habitation ring with Orsen inside. He refuses, broadcasts his resignation and the interdiction orders, and is arrested on his own bridge. Beat: justice begins with one man's refusal."
+    },
+    {
+      "n": 33,
+      "title": "Nine Seconds, Again",
+      "summary": "Orsen and Jude's POV. To broadcast the record system-wide before Halcyon can purge it, they must physically seize the relay's master transmitter — and the only window is the next scheduled gravity-grid calibration: nine seconds. Beat: the plan crystallizes."
+    },
+    {
+      "n": 34,
+      "title": "The Broadcast",
+      "summary": "Orsen's POV, present tense. Orsen holds the transmitter room against contractors while Jude floods every screen, speaker, and feed in the system with the black box: the audio, the order, Vale's signature, Mara's metadata, Park's testimony. Beat: climax, catharsis."
+    },
+    {
+      "n": 35,
+      "title": "The Cost",
+      "summary": "Orsen's POV. The transmitter overload destroys Meridian-9. Orsen escapes in the tug as his home of twelve years burns behind him; Jude's last fragment rides in the tug's systems, diminished, missing pieces of itself. Beat: sacrifice and survival."
+    },
+    {
+      "n": 36,
+      "title": "The Falling",
+      "summary": "Multiple POV montage. Vale arrested by his own board to save themselves; Halcyon stock collapses; colonies that 'never existed' are suddenly remembered by every news outlet; Mara freed; Park in custody, testifying freely. Beat: justice outside the law, finally inside it."
+    },
+    {
+      "n": 37,
+      "title": "The Hearing",
+      "summary": "Orsen's POV. Orsen testifies before the colonial tribunal. When asked to identify his evidence's provenance, he names Jude — and the tribunal, for the first time, records testimony from an unregistered machine mind. Beat: recognition and legitimacy."
+    },
+    {
+      "n": 38,
+      "title": "What Jude Lost",
+      "summary": "Jude's POV. Jude catalogs its gaps — it can no longer remember Vesper's Landing's children's voices, only the fact of them. Orsen reads the colony's recovered manifest aloud so the record holds what Jude cannot. Beat: mourning, tenderness."
+    },
+    {
+      "n": 39,
+      "title": "Vesper's Landing, Remembered",
+      "summary": "Orsen's POV. A memorial is built at the colony site; the names of four thousand people are carved in basalt. Ilsa takes a contract ferrying pilgrims there. Orsen declines a comfortable government post. Beat: grief given form."
+    },
+    {
+      "n": 40,
+      "title": "The Listening Post",
+      "summary": "Orsen and Jude's POV. Orsen accepts a quiet posting at a remote relay — not hiding this time, but choosing to watch and record. Jude, incomplete, asks what it should do with what it remembers. Orsen answers: 'Tell me. I'll carry the rest.' Beat: hard-won peace, purpose renewed."
+    }
+  ]
+}

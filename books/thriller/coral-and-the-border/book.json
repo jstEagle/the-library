@@ -1,0 +1,21 @@
+{
+  "id": "THR-09294",
+  "title": "Coral and the Border",
+  "author": "Edmund Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Marguerite Delacroix, a fixer for an embassy that doesn't officially exist, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9294
+  }
+}

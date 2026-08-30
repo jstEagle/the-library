@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03474",
+  "title": "Bell and Portrait",
+  "author": "Vesper Villalobos",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Wren Thornbury, a twin who came home to bury the wrong sibling, keeps the lights on and the doors counted. But when the village's church bell rings although the bell was melted down in 1911, they discover that staying invisible was never really an option. To get through this, they must get the family out ahead of the count before the frost writes its final pattern.",
+  "themes": [
+    "found family",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3474
+  }
+}

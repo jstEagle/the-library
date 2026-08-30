@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03714",
+  "title": "The Well of the Undercroft",
+  "author": "Mara Oyelaran",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Sable Thornbury, a property surveyor appraising a house that appraises back, doesn't believe, has never believed, will not begin believing now. Then the childhood imaginary friend is waiting on the porch, unchanged — and she is pulled straight into the middle of it. Now she must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3714
+  }
+}

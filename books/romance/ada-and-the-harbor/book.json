@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06767",
+  "title": "Ada and the Harbor",
+  "author": "Ansel Ravensworth",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Wendell Sandoval, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6767
+  }
+}

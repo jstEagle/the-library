@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05454",
+  "title": "A Verdict for the Parish",
+  "author": "Wendell Coldharbour",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ulyana Eriksen, a retired detective running a failing bookshop, has spent three years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. To get through this, she must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "belonging",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5454
+  }
+}

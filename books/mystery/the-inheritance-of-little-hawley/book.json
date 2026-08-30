@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05270",
+  "title": "The Inheritance of Little Hawley",
+  "author": "Quentin Ishikawa",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Bram Crane, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. To get through this, she must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5270
+  }
+}

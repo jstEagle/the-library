@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08335",
+  "title": "The Last Protocol Again",
+  "author": "Ulyana Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Wendell Sandoval, a xenolinguist who can no longer dream in human languages, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8335
+  }
+}

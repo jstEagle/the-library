@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04885",
+  "title": "When the Alibi Breaks",
+  "author": "Gideon Yarrow",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Oscar Ishikawa, a retired detective running a failing bookshop, prides themselves on never taking a case they can't close. But when the town's beloved founder is exhumed and the coffin is empty, she discovers that staying invisible was never really an option. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4885
+  }
+}

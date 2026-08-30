@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07727",
+  "title": "Zephyrine and the Signal",
+  "author": "Edmund Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Isandro Pemberton, the last human technician on an automated relay station, has spent five years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7727
+  }
+}

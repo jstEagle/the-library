@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04983",
+  "title": "A Autopsy for the Inheritance",
+  "author": "Sable Yarrow",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Cyrus Montrose, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4983
+  }
+}

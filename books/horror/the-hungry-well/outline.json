@@ -1,0 +1,59 @@
+{
+  "title": "The Hungry Well",
+  "slug": "horror/the-hungry-well",
+  "model": "stealth/ox-alpha",
+  "premise": "Sebastian Iversen, a municipal surveyor and lifelong urban explorer, discovers unmapped tunnels beneath the condemned Holloway Well House—the same house where, as a child, he invented an imaginary friend named Wren to explain the sounds in the walls. When Wren appears on his porch, unchanged after twenty years, Sebastian learns that the previous residents of the house made an invitation: they fed something their memories in exchange for protection, and the debt has come due on whoever holds the deed. As escrow closes at dawn, Sebastian must survive one night inside the well house, choosing between surrendering his own memories of the people he loves or breaking the invitation by giving the thing what it actually hungered for all along—acknowledgment, a name spoken aloud, and justice for the child it was bound to protect. At sunrise, Sebastian signs nothing; instead he files the tunnels onto the public record, dragging the buried truth into daylight, and the well house collapses into its own hollow as Wren finally lets go.",
+  "about_author": "Jude Crane is the pen name of a former building inspector who spent a decade cataloguing condemned properties across the Rust Belt before turning to horror. Their fiction is known for bureaucratic dread—deeds, surveys, and zoning records weaponized against the uncanny.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Porch Light",
+      "summary": "Third-person limited from Sebastian. Twenty years after leaving his hometown, Sebastian returns to photograph condemned structures and finds Wren—his childhood imaginary friend—sitting on the porch of the Holloway Well House, aged not a day. The emotional beat is vertigo: the rational adult confronting proof that his childhood explanations were never imaginary."
+    },
+    {
+      "n": 2,
+      "title": "Lines That Aren't on the Survey",
+      "summary": "Sebastian's POV. He maps the well house's basement and finds tunnel mouths absent from every municipal record, including his own firm's archives—which have been quietly redacted. He finds his father's signature on a 1998 waiver he never knew existed. The beat is dread deepening into suspicion: someone erased this place deliberately."
+    },
+    {
+      "n": 3,
+      "title": "What Wren Knew",
+      "summary": "Interleaved flashbacks to eight-year-old Sebastian, POV shifting between past and present. Young Sebastian invented Wren to explain scratching in the walls; present-day Wren repeats conversations verbatim that never happened in front of him. The beat is grief: realizing Wren was a witness, not a fantasy."
+    },
+    {
+      "n": 4,
+      "title": "The Last Resident",
+      "summary": "POV of Marisol Vega, the estate lawyer handling the well house sale, who notices the deed chain is impossibly clean—every prior owner died or vanished within a year of signing. She calls Sebastian after finding his name scrawled in a 1987 visitor log. The beat is reluctant alliance: two professionals recognizing paperwork that lies."
+    },
+    {
+      "n": 5,
+      "title": "Invitation",
+      "summary": "Sebastian's POV. In the county archive he finds the original covenant: each owner 'invited' the well's tenant to keep their memories safe, feeding it recollections in exchange for silence about the tunnels—and about what happened to the Iversens' missing lodger in 1987. The beat is horrified clarity: his family's comfort was purchased with someone's erasure."
+    },
+    {
+      "n": 6,
+      "title": "Escrow Opens at Midnight",
+      "summary": "Marisol's POV. The buyer's representative arrives early—a man whose identification checks out perfectly and who casts no reflection in her office window. He needs Sebastian's signature by sunrise. The beat is tightening noose: the legal machinery itself is the monster's instrument."
+    },
+    {
+      "n": 7,
+      "title": "Down Where the Water Remembers",
+      "summary": "Sebastian descends alone into the tunnels, following Wren. He finds the lodger's belongings and, worse, shelves of labeled jars—memories harvested from generations of owners, including jars bearing his mother's handwriting. The beat is violation: love itself has been inventoried and stored."
+    },
+    {
+      "n": 8,
+      "title": "The Terms of Silence",
+      "summary": "Wren finally speaks plainly: it was bound to protect children and fed on memory because acknowledgment was withheld—it exists only as long as no one names it. Signing transfers Sebastian's memories of everyone he loves. The beat is the thematic crux: duty demands he sign; love refuses."
+    },
+    {
+      "n": 9,
+      "title": "Sunrise Clause",
+      "summary": "Climax, alternating Sebastian and Marisol POVs. At the closing table in the well house, Sebastian refuses to sign and instead speaks the tenant's true name—the lodger's name, recovered from the 1987 log—acknowledging it aloud before witnesses. The house convulses; the buyer unravels; Marisol notarizes Sebastian's counter-deed dedicating the property and tunnels to public record. The beat is justice outside the law: exposure instead of contract."
+    },
+    {
+      "n": 10,
+      "title": "On Any Map",
+      "summary": "Epilogue, Sebastian's POV. The well house collapses into its tunnels; the city seals the site, but Sebastian's survey survives in the public archive, unredactable now. Wren fades at the fence line, finally free, and Sebastian keeps one jar—his mother's first memory of him—to return rather than keep. The beat is bittersweet release: memory shared is memory saved."
+    }
+  ]
+}

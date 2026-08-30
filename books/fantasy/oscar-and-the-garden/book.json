@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01076",
+  "title": "Oscar and the Garden",
+  "author": "Bram Winterbourne",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Orsen Lockridge, the keeper of a gate that should stay shut, has never left the valley where magic cannot follow. But when the old gods begin answering prayers again, he discovers that staying invisible was never really an option. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1076
+  }
+}

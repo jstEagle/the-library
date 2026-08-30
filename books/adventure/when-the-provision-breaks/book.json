@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00021",
+  "title": "When the Provision Breaks",
+  "author": "Gideon Ishikawa",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Gideon Quintana, a storm chaser who owes money to dangerous optimists, knows the wilderness forgives nothing and forgets less. But when a government survey team vanishes, leaving gear and no tracks, they discover that staying invisible was never really an option. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 21
+  }
+}

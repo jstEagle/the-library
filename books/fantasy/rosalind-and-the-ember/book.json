@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01926",
+  "title": "Rosalind and the Ember",
+  "author": "L. M. Joubert",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Odile Kavanagh, a cartographer of unmapped realms, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. Now they must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1926
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01046",
+  "title": "When the Choir Falls",
+  "author": "Coral Marchetti",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Marguerite Oyelaran, an exiled storm-caller, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "found family",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1046
+  }
+}

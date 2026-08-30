@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07532",
+  "title": "The Orbit of the Rust Belt",
+  "author": "I. M. Dunmore",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Marguerite Brightwater, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7532
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04695",
+  "title": "Mara and the Interior",
+  "author": "Mara Blackwood",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Orsen Zhou, a former prodigy returning to the conservatory as a janitor, has spent five years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the house sale closes.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4695
+  }
+}

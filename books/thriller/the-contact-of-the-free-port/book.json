@@ -1,0 +1,21 @@
+{
+  "id": "THR-08541",
+  "title": "The Contact of the Free Port",
+  "author": "Vesper Dravenmoor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Isandro Delacroix, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. To get through this, they must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8541
+  }
+}

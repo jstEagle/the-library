@@ -1,0 +1,21 @@
+{
+  "id": "THR-09087",
+  "title": "Paloma and the Safehouse",
+  "author": "Jonah Villalobos",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Lior Thornbury, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9087
+  }
+}

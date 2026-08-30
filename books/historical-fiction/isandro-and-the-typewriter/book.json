@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02967",
+  "title": "Isandro and the Typewriter",
+  "author": "Xanthe Nystrom",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Mirabel Galloway, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. Then the bridge — the only road out — closes for the season — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the armistice is signed — or isn't.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2967
+  }
+}

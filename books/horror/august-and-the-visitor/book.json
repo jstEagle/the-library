@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03962",
+  "title": "August and the Visitor",
+  "author": "August Quintana",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ada Dunmore, a pest controller called to something with fingerprints, has spent twelve years telling themselves the noises have explanations. Then the excavation crew unearths a door, sealed from the inside — and they are pulled straight into the middle of it. Now they must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3962
+  }
+}

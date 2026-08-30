@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00108",
+  "title": "Current and Compass",
+  "author": "Oscar Kavanagh",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Silas Oyelaran, a desert ranger tracking a thief across nothing, has spent seven years measuring life in miles rather than years. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. To get through this, they must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 108
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08225",
+  "title": "A Colony for the Echo Anew",
+  "author": "Wendell Dunmore",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Mirabel Whitlock, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8225
+  }
+}

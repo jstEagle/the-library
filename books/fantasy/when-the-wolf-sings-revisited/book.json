@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02075",
+  "title": "When the Wolf Sings Revisited",
+  "author": "C. M. Vane",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Ada Ishikawa, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. To get through this, they must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2075
+  }
+}

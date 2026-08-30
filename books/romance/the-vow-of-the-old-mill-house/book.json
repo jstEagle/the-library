@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06005",
+  "title": "The Vow of the Old Mill House",
+  "author": "Jude Thornbury",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ines Almeida, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6005
+  }
+}

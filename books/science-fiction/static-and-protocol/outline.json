@@ -1,0 +1,29 @@
+{
+  "title": "Static and Protocol",
+  "slug": "science-fiction/static-and-protocol",
+  "model": "stealth/ox-alpha",
+  "premise": "Theo Nystrom discovers the children's shared dream is a compressed distress signal from the backups in her own hold — copies of colonists Earth declared dead and wrote off to end the war. Delivering their message means proving Earth falsified the casualty records that justified the ceasefire, betraying the captain who once saved her life and the crew who trust her. When Earth's transmission loop closes in seventy-two hours, Theo must choose between loyalty and truth, broadcasting the message and igniting a new war rather than let the dead stay erased. The book ends with the truth released, the war reignited but honest, and Theo accepting that survival bought with silence was never survival at all.",
+  "about_author": "Paloma Thornbury is a former radio astronomer who left observatory work to write about the voices signals carry when no one wants to listen. She lives near a decommissioned tracking station and insists the static there still says things.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Dreaming Hold",
+      "summary": "Theo's POV. Hauling cargo through contested orbits, Theo dismisses rumors of colony children sharing one dream — until she dreams it herself: a corridor of sleeping faces she recognizes from the hold's sealed manifests. She checks the backup pods against official records and finds names Earth declared dead three years ago. Emotional beat: creeping dread as private guilt becomes undeniable evidence."
+    },
+    {
+      "n": 2,
+      "title": "Seventy-Two Hours",
+      "summary": "Theo's POV, shifting to Captain Ilsa Voss midway. Theo confronts Voss, who admits knowing: the 'dead' backups are proof of Earth's falsified casualty records, and delivering them voids the ceasefire protecting the colony. Voss orders silence; the transmission loop closes in three days. Emotional beat: betrayal curdling into resolve as Theo realizes loyalty has been weaponized."
+    },
+    {
+      "n": 3,
+      "title": "What the Children Knew",
+      "summary": "Alternating POV between Theo and nine-year-old dreamer Sef Adisa. The children's dreams are the backups' fragmented memories leaking through the ship's aging relay — they've been mapping the message piece by piece. Sabotaged relays and a mutinous crewmate force Theo to broadcast from the colony's ancient dish manually. Emotional beat: fragile alliance across generations, courage found in shared witness."
+    },
+    {
+      "n": 4,
+      "title": "Last Transmission Loop",
+      "summary": "Theo's POV. With minutes before the loop seals forever, Theo broadcasts the full message — names, records, voices of the living dead — as Voss holds fire and the crew chooses sides. The war does not end; it restarts, honestly, with the colony armed by truth instead of lies. The children stop dreaming. Emotional beat: grief and liberation entwined — Theo survives, but no longer on borrowed silence."
+    }
+  ]
+}

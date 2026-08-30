@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09752",
+  "title": "A Yearbook for the Group Chat",
+  "author": "Gideon Hartwell",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Rosalind Kavanagh, a scholarship student at an academy with too many secrets, is fine. Everything is fine. Obviously.. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, they discover that staying invisible was never really an option. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9752
+  }
+}

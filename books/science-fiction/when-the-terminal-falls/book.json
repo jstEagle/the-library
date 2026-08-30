@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07134",
+  "title": "When the Terminal Falls",
+  "author": "Bram Lockridge",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Rosalind Halloran, the last human technician on an automated relay station, has spent ten years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, she discovers that staying invisible was never really an option. Now she must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7134
+  }
+}

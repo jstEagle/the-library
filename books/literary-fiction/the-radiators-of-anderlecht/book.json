@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04143",
+  "title": "The Radiators of Anderlecht",
+  "author": "Elodie Galloway",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Felix Thackeray, a letter-writer sending postcards to an address that burned down years ago, keeps a careful inventory of everything unsaid. But when the last speaker of a language asks for one final student, she discovers that staying invisible was never really an option. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4143
+  }
+}

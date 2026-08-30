@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07274",
+  "title": "The Colony of Kepler Reach",
+  "author": "Zephyrine Zhou",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Noor Ishikawa, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. To get through this, she must keep a lie alive that holds two fleets apart before the jump window closes.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7274
+  }
+}

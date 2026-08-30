@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01572",
+  "title": "Freya and the Oath",
+  "author": "Casper Vane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Ansel Oyelaran, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1572
+  }
+}

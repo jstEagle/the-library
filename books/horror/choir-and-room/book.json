@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03236",
+  "title": "Choir and Room",
+  "author": "Sable Kavanagh",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ada Okonkwo, a folklorist recording songs the village refuses to sing twice, doesn't believe, has never believed, will not begin believing now. Then the village's church bell rings although the bell was melted down in 1911 — and they are pulled straight into the middle of it. Now they must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3236
+  }
+}

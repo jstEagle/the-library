@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02917",
+  "title": "A Letter for the Clock",
+  "author": "Sebastian Nakamura",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Zephyrine Oyelaran, an apprentice clockmaker summoned to repair the observatory's master clock, measures the world in what can be carried when the orders come. Then the bridge — the only road out — closes for the season — and he is pulled straight into the middle of it. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2917
+  }
+}

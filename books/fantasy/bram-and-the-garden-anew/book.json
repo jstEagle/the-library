@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02269",
+  "title": "Bram and the Garden Anew",
+  "author": "Isandro Marchetti",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Zephyrine Marchetti, a royal food-taster building immunity one dish at a time, has spent seven years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2269
+  }
+}

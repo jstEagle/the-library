@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01585",
+  "title": "Kestrel and the Sigil",
+  "author": "Yara Lockridge",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mirabel Montrose, a bone-carver who hears the dead, has spent twenty years selling small charms in a city that outlawed magic. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1585
+  }
+}

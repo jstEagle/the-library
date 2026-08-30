@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05102",
+  "title": "A Parish for the Letter",
+  "author": "Freya Joubert",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "August Iversen, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. Now she must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5102
+  }
+}

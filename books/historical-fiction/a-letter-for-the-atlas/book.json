@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02752",
+  "title": "A Letter for the Atlas",
+  "author": "Freya Vane",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Freya Sandoval, a code-carrying courier on the last diplomatic mission of a doomed republic, measures the world in what can be carried when the orders come. Then the census taker asks one question too many — and she is pulled straight into the middle of it. Now she must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2752
+  }
+}

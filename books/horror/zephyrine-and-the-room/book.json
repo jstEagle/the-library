@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03763",
+  "title": "Zephyrine and the Room",
+  "author": "Juniper Almeida",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Quentin Marchetti, a hospice nurse who hears the dying count backwards, doesn't believe, has never believed, will not begin believing now. Then all the photographs from grandma's house now include an extra chair — and they are pulled straight into the middle of it. To get through this, they must finish the ritual the founders started before the frost writes its final pattern.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3763
+  }
+}

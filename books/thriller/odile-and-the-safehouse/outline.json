@@ -1,0 +1,119 @@
+{
+  "title": "Odile and the Safehouse",
+  "slug": "thriller/odile-and-the-safehouse",
+  "model": "stealth/ox-alpha",
+  "premise": "Ansel Quintana, a disgraced intelligence analyst living under a new name in Lisbon, receives a voiceprint authentication request that only her dead mentor could have sent—unlocking a shadow server in Frankfurt that reveals the 'training program' that made and broke her was a laundering operation for stolen market intelligence. Hunted by the private network that owns her file and shadowed by a former colleague who may be ally or leash, Ansel must decide whether loyalty to the people who trained her outweighs the truth of what they built. Racing the Frankfurt market open, she burns the network from inside its own safehouse, exposing the program at the cost of her last clean identity—and walks out not as an invisible woman, but as the one witness they can never fully erase.",
+  "about_author": "Tamsin Coldharbour is the pen name of a former compliance auditor who spent a decade inside the paperwork of institutions that preferred to remain unnamed. She writes thrillers about the people who read the fine print—and what happens when they finally read it aloud.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Number",
+      "summary": "POV Ansel. Five years into her Lisbon exile, Ansel works fraud triage for a shipping firm, keeping her head down and her routines airtight. A routine data pull surfaces a voiceprint hash she recognizes—her dead mentor Voss's authentication key, still live. The beat: the past knocking on a door she bricked over."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "POV Ansel. She replays the hash against an old agency archive and confirms it's Voss's voice, timestamped eleven days ago. Voss died in a Prague car crash two years back. The beat: grief curdling into suspicion—someone is wearing a dead man's voice."
+    },
+    {
+      "n": 3,
+      "title": "The Man Who Counts Stairs",
+      "summary": "POV Marek, a private-network 'continuity officer' tracking retired analysts. He logs Ansel's archive query and reports up a chain he's never seen the top of. The beat: cold institutional menace—the machine notices before the reader understands it."
+    },
+    {
+      "n": 4,
+      "title": "Lisbon Rules",
+      "summary": "POV Ansel. Her handler-adjacent friend Doro, a retired cryptographer who runs a café, warns her that a query like hers gets people visited. Ansel ignores the warning and pings the Frankfurt server. The beat: the first deliberate rule-break, thrilling and terrifying."
+    },
+    {
+      "n": 5,
+      "title": "The Safehouse Protocol",
+      "summary": "POV Ansel. The server responds with coordinates and a phrase only Voss used: 'the safehouse remembers.' She finds a dead-drop key pointing to a Frankfurt apartment she once stayed in during training. The beat: nostalgia weaponized—her past is bait."
+    },
+    {
+      "n": 6,
+      "title": "Three Agencies, Three Funerals",
+      "summary": "POV Ansel, flashback-heavy. We learn how she was bounced: each agency discarded her when she flagged anomalies in the same training program. The beat: sympathy established—the system trained her to see and punished her for seeing."
+    },
+    {
+      "n": 7,
+      "title": "Arrival",
+      "summary": "POV Ansel. She flies to Frankfurt under a work cover, aware she's being followed by someone competent. In the airport she clocks a tail: Ilse Brandt, a former colleague who once covered for her. The beat: paranoia with a human face."
+    },
+    {
+      "n": 8,
+      "title": "The Apartment That Remembers",
+      "summary": "POV Ansel. The safehouse apartment has been maintained for years—her old training files, Voss's notebooks, and a cold-storage drive labeled with her own name. The beat: dread of being a specimen in someone's collection."
+    },
+    {
+      "n": 9,
+      "title": "Ilse at the Door",
+      "summary": "POV Ansel. Brandt arrives, gun drawn, then lowers it: she claims the network killed Voss and she's been waiting for someone to pull the thread. Ansel doesn't believe her—but needs her. The beat: uneasy alliance, trust as a calculated risk."
+    },
+    {
+      "n": 10,
+      "title": "What the Drive Says",
+      "summary": "POV Ansel, with Ilse. The drive contains the program's ledger: stolen market intelligence laundered through 'training exercises,' with analysts like Ansel used as unwitting couriers. The beat: her entire career reframed as exploitation—rage with nowhere to go yet."
+    },
+    {
+      "n": 11,
+      "title": "Marek Closes In",
+      "summary": "POV Marek. His team traces the Frankfurt access; he's ordered to 'resolve the asset quietly.' He hesitates—he knew Voss, and the order smells wrong. The beat: the hunter's first crack of doubt."
+    },
+    {
+      "n": 12,
+      "title": "The Café Burned",
+      "summary": "POV Ansel. News reaches her: Doro's café in Lisbon was raided; Doro is detained 'for questioning.' The network is punishing her curiosity through her found family. The beat: guilt and fury—the personal cost becomes real."
+    },
+    {
+      "n": 13,
+      "title": "Rules That Keep Getting Rewritten",
+      "summary": "POV Ansel and Ilse plan. They map the network's Frankfurt node inside a financial data center, discover the ledger syncs nightly before market open, and set a 36-hour clock. The beat: the heist takes shape—helplessness converting into agency."
+    },
+    {
+      "n": 14,
+      "title": "The Middleman",
+      "summary": "POV Ansel. They recruit Tomas, a disgraced exchange technician who owes Voss, to get them physical access. Tomas tests Ilse's story and finds one lie too many. The beat: the alliance strains—loyalty vs. truth inside the team itself."
+    },
+    {
+      "n": 15,
+      "title": "Ilse's Confession",
+      "summary": "POV Ansel. Ilse admits she reported Voss's queries before his death—she was the reason the network found him. She's not seeking forgiveness; she's seeking a way to make it mean something. The beat: the moral center of the book—can truth outrun betrayal?"
+    },
+    {
+      "n": 16,
+      "title": "Marek's Choice",
+      "summary": "POV Marek. Ordered to intercept Ansel at the data center, Marek instead copies the order chain—evidence the network's leadership is three names he recognizes from government oversight. The beat: the hunter defects, not from virtue but from disgust."
+    },
+    {
+      "n": 17,
+      "title": "Night Before Open",
+      "summary": "POV Ansel. Infiltration begins. Ilse goes in as a contractor; Ansel takes the maintenance route; Tomas holds the door. Everything works until the network's counter-intrusion trips—someone inside knew the plan. The beat: the trap springs."
+    },
+    {
+      "n": 18,
+      "title": "The Safehouse Is the Server",
+      "summary": "POV Ansel. Cornered, Ansel realizes Voss's 'safehouse' was never an apartment—it's the ledger itself, and his voiceprint is the kill-switch. She must broadcast the exposure from inside the network's own authentication chain. The beat: revelation as reversal."
+    },
+    {
+      "n": 19,
+      "title": "Frankfurt, 08:59",
+      "summary": "POV Ansel. One minute before market open, with Marek buying her seconds and Ilse bleeding in a stairwell, Ansel authenticates as Voss's voice and pushes the ledger to every regulator, exchange, and newsroom on the sync list. The beat: the climax—truth released at the moment of maximum damage."
+    },
+    {
+      "n": 20,
+      "title": "Ash and Arbitrage",
+      "summary": "POV Marek and Ansel. Markets convulse; the three names are arrested by nightfall; the network's assets scatter. Ilse survives but will testify from a wheelchair. Doro is released. The beat: victory that feels like wreckage."
+    },
+    {
+      "n": 21,
+      "title": "What Ansel Kept",
+      "summary": "POV Ansel. She burns her own file last—the training records that made her—choosing to be undefined by the program. Marek offers her a place in the oversight inquiry; she declines. The beat: refusing the new leash."
+    },
+    {
+      "n": 22,
+      "title": "Odile",
+      "summary": "POV Ansel, epilogue. Months later, running a small investigative shop with Tomas and a recovered Doro, she receives another live voiceprint—Voss's voice, from a different continent, saying a phrase she never taught him. She smiles and starts packing. The beat: found family secured, the next door already opening."
+    }
+  ]
+}

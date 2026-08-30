@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07463",
+  "title": "The Horizon of Halcyon Drift",
+  "author": "Vesper Hartwell",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Yara Vasquez, an insurance investigator of impossible accidents, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. To get through this, she must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "memory",
+    "found family",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7463
+  }
+}

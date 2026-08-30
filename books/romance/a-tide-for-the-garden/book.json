@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06703",
+  "title": "A Tide for the Garden",
+  "author": "Emrys Thackeray",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Juniper Okafor, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6703
+  }
+}

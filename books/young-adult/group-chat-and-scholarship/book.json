@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09707",
+  "title": "Group Chat and Scholarship",
+  "author": "Rosalind Winterbourne",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Tamsin Joubert, a debate champion who can't win the argument at home, stays under the radar: head down, grades up, locker shut. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and she is pulled straight into the middle of it. Now she must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9707
+  }
+}

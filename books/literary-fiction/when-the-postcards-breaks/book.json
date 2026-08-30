@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04289",
+  "title": "When the Postcards Breaks",
+  "author": "Theo Dunmore",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ansel Coldharbour, a former prodigy returning to the conservatory as a janitor, keeps a careful inventory of everything unsaid. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4289
+  }
+}

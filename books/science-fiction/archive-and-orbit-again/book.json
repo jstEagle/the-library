@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08368",
+  "title": "Archive and Orbit Again",
+  "author": "Wren Vasquez",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Coral Quintana, a clone who inherited the original's murder case, has spent three years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8368
+  }
+}

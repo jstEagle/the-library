@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09995",
+  "title": "The Unofficial Mixtape",
+  "author": "Tamsin Halloran",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Theo Coldharbour, the team's statistician who knows the game is rigged, has spent twelve years being so careful it hurts. Then the college essay prompt asks one honest question nobody can stop answering — and she is pulled straight into the middle of it. To get through this, she must decide who to be when the labels come off before the final audition.",
+  "themes": [
+    "identity",
+    "found family",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9995
+  }
+}

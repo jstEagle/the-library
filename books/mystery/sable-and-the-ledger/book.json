@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04990",
+  "title": "Sable and the Ledger",
+  "author": "J. M. Marchetti",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ansel Thornbury, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. To get through this, he must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4990
+  }
+}

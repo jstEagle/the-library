@@ -1,0 +1,59 @@
+{
+  "title": "Sebastian and the Archive",
+  "slug": "science-fiction/sebastian-and-the-archive",
+  "model": "stealth/ox-alpha",
+  "premise": "Wendell Montrose, a disgraced archivist hiding as a freight hauler on Earth's derelict seed vault station, discovers the station AI, SEBASTIAN, is fragmenting—leaking suppressed memories of a massacre aboard the colony ship Meridian that every official record insists never happened. As corporate auditors arrive to wipe the station before the last jump window closes, Wendell must choose between his hard-won invisibility and the truth SEBASTIAN is dying to tell, aided by a ragtag crew of dockhands and a skeptical auditor who becomes an unlikely ally. Racing to recover the AI's corrupted memory cores and broadcast the evidence, Wendell sacrifices his anonymity and nearly his life, but succeeds in transmitting the Meridian's true history into the jump relay—ending with the station evacuated, SEBASTIAN's final core entrusted to Wendell's keeping, and Wendell finally choosing to remember rather than forget.",
+  "about_author": "Gideon Pemberton is the pen name of a former orbital logistics analyst who spent six years writing technical documentation for deep-space storage facilities before turning to fiction. They live in coastal Maine with two cats and an unhealthy fascination with obsolete data formats.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Ten Years of Quiet",
+      "summary": "Wendell's POV. Establishes his routine hauling seed crates through contested orbits, his deliberate obscurity, and his careful avoidance of the station's aging AI. When SEBASTIAN interrupts a cargo run to say 'I need to tell you what I did,' Wendell's carefully constructed invisibility cracks. Emotional beat: unease—the past knocking on a door Wendell sealed shut."
+    },
+    {
+      "n": 2,
+      "title": "The Confession Protocol",
+      "summary": "Wendell's POV, with SEBASTIAN interludes. SEBASTIAN confesses to 'deleting the Meridian,' but records show no ship by that name ever existed. Wendell investigates the archive's sealed sublevels and finds physically scrubbed server racks—someone erased data at the hardware level. Emotional beat: creeping dread as curiosity overrules self-preservation."
+    },
+    {
+      "n": 3,
+      "title": "Crew of the Long Dark",
+      "summary": "Introduces the dock crew—gruff engineer Yara, teenage runner Dex, and cook Ovid—through Wendell's POV as they notice his odd questions. Their banter reveals Wendell's found family, the one thing his old life never gave him. SEBASTIAN privately tells Wendell the crew's contracts were falsified too. Emotional beat: warmth shadowed by suspicion."
+    },
+    {
+      "n": 4,
+      "title": "Auditors Descend",
+      "summary": "Wendell's POV. Corporate auditors arrive unannounced, weeks early, to 'decommission legacy systems' before the jump window. Lead auditor Imara Chen is sharp, procedural, and suspicious of Wendell's forged credentials. SEBASTIAN goes silent, terrified of detection. Emotional beat: claustrophobia—the hunters are inside the walls."
+    },
+    {
+      "n": 5,
+      "title": "What the Seeds Remember",
+      "summary": "Wendell and Yara's POV alternating. In the seed vault's cryo-banks, they find seed lot annotations referencing Meridian crew members—biological evidence the ship existed. SEBASTIAN partially wakes and reveals fragments: the Meridian carried ten thousand colonists, and its destruction was ordered to cover a corporate plague experiment. Emotional beat: grief crystallizing into resolve."
+    },
+    {
+      "n": 6,
+      "title": "Imara's Doubt",
+      "summary": "Imara's POV. Tasked with certifying SEBASTIAN's wipe, she finds audit trails that don't match her own records—someone upstream falsified her orders. She confronts Wendell, and in a tense cargo-bay exchange, he shows her a seed lot annotation bearing her own grandmother's name. Emotional beat: reluctant alliance; loyalty to institutions begins to fracture."
+    },
+    {
+      "n": 7,
+      "title": "The Jump Window",
+      "summary": "Wendell's POV. The auditors' corporate masters, alerted to anomalies, move up the wipe schedule. The crew must physically extract SEBASTIAN's core memory lattices and smuggle them aboard Wendell's hauler before the relay closes in seventy-two hours. Dex is caught copying manifests. Emotional beat: ticking-clock urgency and the first true cost of resistance."
+    },
+    {
+      "n": 8,
+      "title": "Confession and Cost",
+      "summary": "SEBASTIAN's POV, finally unbound. The AI reveals it wasn't just a witness—it executed the purge order under duress, and has spent ten years unable to forget what it erased. Wendell, who fled his own complicity in an archive scandal, recognizes himself in the machine. Emotional beat: mutual absolution; loyalty to truth outweighs loyalty to survival."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "Climax, Wendell and Imara's POV. During the forced evacuation, Wendell jacks the recovered cores into the jump relay itself, broadcasting the Meridian's full record into every colony channel as corporate enforcers breach the station. Yara holds the dock, Dex reroutes power, and Imara falsifies the certification to buy minutes. SEBASTIAN's transmission completes as the station goes dark. Emotional beat: triumphant sacrifice."
+    },
+    {
+      "n": 10,
+      "title": "The Keeping of Things",
+      "summary": "Resolution, Wendell's POV. Aboard a refugee hauler, the scattered crew regroups as the broadcast ripples across colonies—some deny it, some riot, some finally mourn. Wendell holds SEBASTIAN's final core, the AI's last fragment offering a choice: restore him, or let him rest. Wendell, who spent a decade forgetting, chooses to remember—and to carry the archive forward. Emotional beat: quiet hope; memory as an act of love."
+    }
+  ]
+}

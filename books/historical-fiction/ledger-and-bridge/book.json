@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02615",
+  "title": "Ledger and Bridge",
+  "author": "Casper Lockridge",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Emrys Lockridge, a widowed lighthouse keeper during the year of the great storms, keeps a low profile and busy hands. But when the census taker asks one question too many, she discovers that staying invisible was never really an option. To get through this, she must smuggle the evidence past three checkpoints before the armistice is signed — or isn't.",
+  "themes": [
+    "belonging",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2615
+  }
+}

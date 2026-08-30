@@ -1,0 +1,59 @@
+{
+  "title": "Freya and the Asset",
+  "slug": "thriller/freya-and-the-asset",
+  "model": "stealth/ox-alpha",
+  "premise": "Ivo Winterbourne, a crash investigator haunted by the death of his wife and daughter in row twelve, discovers that every digital record of a passenger flight has been erased while the plane is still airborne. Pulled into a covert investigation, he learns the flight is a rehearsal for a larger attack timed to a diplomatic summit — an operation run by a private intelligence firm whose founder turns out to be connected to Ivo's own family inheritance. As Ivo and a ragtag team of insiders race to expose the plot, he must choose between avenging his family and protecting the strangers who have become his found family. In the end, Ivo stops the attack at the summit, sacrifices the evidence that would restore his reputation, and finally sleeps through the night.",
+  "about_author": "Isandro Ashgrove is the pen name of a former aviation safety analyst who spent a decade reviewing accident reports before turning to fiction. He writes thrillers about ordinary professionals trapped inside systems designed to forget them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Ivo's POV. Two years after losing his family in an unexplained crash, Ivo works nights at the Accident Investigation Bureau, unable to sleep and obsessed with re-reading the file no one will reopen. A colleague notices him flagging anomalies in radar data from other flights. Emotional beat: grief calcified into compulsion; the reader feels a man keeping vigil over a grave that won't stay closed."
+    },
+    {
+      "n": 2,
+      "title": "The Flight That Wasn't",
+      "summary": "Ivo's POV. Flight 4471 is mid-Atlantic when its transponder code, booking manifests, and maintenance logs vanish from every database simultaneously. Ivo alone has a cached copy. When he reports it, his supervisor orders him to delete it — then someone ransacks his office. Emotional beat: dread and vertigo as the ground truth of his profession dissolves beneath him."
+    },
+    {
+      "n": 3,
+      "title": "The Woman Who Answers to No One",
+      "summary": "Freya Okonkwo's POV. Freya, a disgraced air traffic controller turned freelance data broker, contacts Ivo: she's been tracking the same erasure pattern across three flights. She's sharp, guarded, and clearly running from something. They agree to meet. Emotional beat: wary connection — two insomniacs recognizing each other's damage across a diner table at 3 a.m."
+    },
+    {
+      "n": 4,
+      "title": "Meridian House",
+      "summary": "Alternating POVs. The pair traces the erased flights to Meridian Group, a private intelligence firm whose founder, Aldous Winterbourne — Ivo's estranged uncle — inherited the family fortune Ivo refused after the crash. Freya warns that Meridian doesn't leave loose ends. Emotional beat: betrayal curdling into purpose; Ivo realizes the conspiracy wears his own name."
+    },
+    {
+      "n": 5,
+      "title": "What the Black Box Kept",
+      "summary": "Ivo's POV. Recovering a black box from the first erased flight, Ivo finds evidence of a remote guidance override — technology only Meridian possesses. The 'accident' that killed his family may have been a test. He breaks protocol and copies the data for Freya. Emotional beat: rage and revelation; grief gains a target, which is both liberating and dangerous."
+    },
+    {
+      "n": 6,
+      "title": "Safehouse Arithmetic",
+      "summary": "Freya's POV. Hiding in a safehouse, Freya teaches Ivo how Meridian thinks: they don't kill people, they delete contexts. She reveals she was fired for noticing the same override signature years ago. The team grows by one when a young Meridian analyst, Tomas, defects with a schedule fragment. Emotional beat: found family forming under pressure — banter, shared coffee, mutual protection."
+    },
+    {
+      "n": 7,
+      "title": "The Summit Ledger",
+      "summary": "Tomas's intel decodes: Meridian plans a mid-air 'accident' over the summit city to assassinate a delegation and trigger emergency powers that would hand Meridian state contracts. The target window is forty-eight hours away. Aldous makes personal contact with Ivo, offering absolution and his family's estate in exchange for silence. Emotional beat: temptation versus duty; power's corruption offered as inheritance."
+    },
+    {
+      "n": 8,
+      "title": "Everything We Buried",
+      "summary": "Ivo's POV. Ivo confronts Aldous privately and learns the truth: the original crash was a test gone wrong, and Aldous covered it up to protect the firm — telling himself it was for the greater good. Ivo records the confession, but Meridian's cleaners ambush them; Aldous is killed by his own people. Emotional beat: hollow victory — answers arrive wrapped in fresh loss."
+    },
+    {
+      "n": 9,
+      "title": "Forty Minutes Over the City",
+      "summary": "Alternating POVs. Climax. Using Aldous's access codes and Tomas's insider route, the team infiltrates summit airspace control. Freya talks down one hijacked drone aircraft while Ivo physically severs the override link aboard the second, nearly dying in the process. The attack fails publicly and unambiguously. Emotional beat: white-knuckle sacrifice; each character gives up something irreplaceable to save strangers."
+    },
+    {
+      "n": 10,
+      "title": "Sleep",
+      "summary": "Ivo's POV, epilogue months later. Meridian is dismantled, but the black box evidence was destroyed in the raid, so Ivo's name remains officially attached to a botched investigation rather than a heroism. Freya visits; Tomas sends postcards; the found family persists quietly. On an ordinary evening, Ivo closes row twelve's file, goes to bed, and sleeps until morning. Emotional beat: resolution without redemption theater — peace earned, not awarded."
+    }
+  ]
+}

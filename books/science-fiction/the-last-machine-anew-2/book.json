@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08238",
+  "title": "The Last Machine Anew",
+  "author": "Vesper Kavanagh",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Mara Thornbury, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8238
+  }
+}

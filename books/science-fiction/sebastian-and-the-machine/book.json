@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07453",
+  "title": "Sebastian and the Machine",
+  "author": "Wren Brightwater",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Bram Galloway, a decommissioned war android paying off its debts, has spent ten years hauling cargo through contested orbits. Then gravity flickers across the entire system for exactly nine seconds — and she is pulled straight into the middle of it. To get through this, she must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7453
+  }
+}

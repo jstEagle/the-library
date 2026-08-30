@@ -1,0 +1,59 @@
+{
+  "title": "Sebastian and the Contact",
+  "slug": "thriller/sebastian-and-the-contact",
+  "model": "stealth/ox-alpha",
+  "premise": "Paloma Quintana, a ghost in the private security world, is hired to protect a tech heir named Sebastian Voss on a transatlantic flight. Mid-flight, every digital trace of the aircraft vanishes—manifests, radar logs, even Paloma's own contract—revealing that the disappearance was orchestrated by the covert network that trained them both years ago and now needs its former assets erased. As Paloma and Sebastian descend into a cat-and-mouse hunt across European safehouses, they uncover that Sebastian's inheritance is a ledger of the network's crimes, and that belonging to it was always a death sentence. In the end, Paloma burns the network's archive from within, choosing memory over invisibility, while Sebastian releases his inheritance to the public record—both finally visible, and finally free.",
+  "about_author": "Noor Oyelaran is a former risk analyst who spent a decade writing threat assessments for clients she can no longer name. She writes thrillers about people whose professions require them to forget themselves.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Unattributed Client",
+      "summary": "Paloma's POV. Hired through three cutouts to guard Sebastian Voss on a private flight from Lisbon to Zurich, Paloma notes the client's strange calm—he seems to know who she really is. The emotional beat is wary professionalism masking an old, unwelcome recognition: she has been here before, in someone else's employ, being someone else entirely."
+    },
+    {
+      "n": 2,
+      "title": "Thirty-Seven Thousand Feet of Nothing",
+      "summary": "Paloma's POV, intercut with Sebastian's. Over the Bay of Biscay, the plane's transponder dies, then every record of the flight evaporates—booking systems, air traffic archives, even Paloma's payment trail. Ground control reports no such aircraft. The beat is vertigo: two people realizing they have become officially nonexistent while still breathing."
+    },
+    {
+      "n": 3,
+      "title": "What the Ledger Remembers",
+      "summary": "Sebastian's POV. Forced down at a disused airstrip, Sebastian reveals he inherited more than money: his father left an encrypted ledger documenting the network's operations—the same program that trained child operatives decades ago, including, it turns out, Paloma. The beat is betrayal curdling into reluctant alliance as shared history surfaces."
+    },
+    {
+      "n": 4,
+      "title": "Handlers and Ghosts",
+      "summary": "Paloma's POV. Pursued by extraction teams, they reach a Madrid safehouse where Paloma confronts her old handler, Marisol, who confirms the erasure order came from inside: the network cleans up its alumni when ledgers surface. The beat is grief—Paloma realizes her invisibility was never freedom but containment."
+    },
+    {
+      "n": 5,
+      "title": "The Safehouse That Isn't",
+      "summary": "Sebastian's POV. The safehouse is compromised; a firefight forces them into Barcelona's underground, where Sebastian proves unexpectedly capable—trained too, though he never knew why his childhood looked the way it did. The beat is dawning identity: inheritance isn't just what you're given, but what was done to make you ready for it."
+    },
+    {
+      "n": 6,
+      "title": "Marisol's Bargain",
+      "summary": "Paloma's POV. Marisol offers Paloma reinstatement and full erasure of Sebastian in exchange for the ledger, framing it as mercy. Paloma stalls, buying time while tracing the network's archive node to a data sanctuary in Geneva. The beat is temptation: the chance to simply disappear again, guilt-free, versus the cost of staying seen."
+    },
+    {
+      "n": 7,
+      "title": "Everything We Were Trained For",
+      "summary": "Alternating POVs. A trap in Lyon nearly kills them both; each saves the other using techniques neither admits remembering. Afterwards, in a stolen car, they finally speak plainly about the program, the children, the names. The beat is catharsis—memory, long weaponized against them, becomes something they hold together instead."
+    },
+    {
+      "n": 8,
+      "title": "Geneva, After Hours",
+      "summary": "Paloma's POV. They infiltrate the archive node during a board meeting of the network's surviving principals, including Sebastian's father's old partner. Sebastian walks in openly, claiming his inheritance as cover while Paloma reaches the core servers. The beat is high-wire tension: visibility used as a blade for the first time."
+    },
+    {
+      "n": 9,
+      "title": "Burn Protocol",
+      "summary": "Climax, alternating POVs. Cornered in the server vault, Paloma initiates the burn as Marisol arrives—not to stop her, but to choose sides at last, holding off the principals. The archive floods the open internet before the servers die. The beat is sacrifice and release: Paloma destroys the thing that made her, and survives it."
+    },
+    {
+      "n": 10,
+      "title": "Named",
+      "summary": "Resolution, Sebastian's POV. Weeks later, the leaked records are news; investigations begin; some principals flee, one turns up dead by their own hand. Sebastian donates his inheritance to the program's surviving children, and he and Paloma meet once, unguarded, in a Lisbon café—two people with names, faces, and futures. The beat is quiet belonging."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07306",
+  "title": "A Orbit for the Echo",
+  "author": "Wren Okafor",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Astrid Vasquez, a memory-smuggler running contraband past orbital customs, has spent twelve years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. To get through this, he must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7306
+  }
+}

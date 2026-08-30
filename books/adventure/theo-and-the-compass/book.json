@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00693",
+  "title": "Theo and the Compass",
+  "author": "Mara Underhill",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Casper Vasquez, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. Then the river gives up a chest stamped with a dead nation's seal — and he is pulled straight into the middle of it. To get through this, he must beat the salvage fleet to the wreck by six tides before the dry season ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 693
+  }
+}

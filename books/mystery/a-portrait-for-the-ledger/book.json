@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04954",
+  "title": "A Portrait for the Ledger",
+  "author": "Sable Quintana",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Zephyrine Okonkwo, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. To get through this, he must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4954
+  }
+}

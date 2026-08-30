@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05776",
+  "title": "the Fens Rising Again",
+  "author": "Coral Reyes",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "August Whitlock, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5776
+  }
+}

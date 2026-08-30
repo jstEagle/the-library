@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05866",
+  "title": "When the Inheritance Burns Anew",
+  "author": "Lena Dunmore",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Yara Yarrow, a hotel concierge who notices everything, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5866
+  }
+}

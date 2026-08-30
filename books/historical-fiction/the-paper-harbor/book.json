@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02624",
+  "title": "The Paper Harbor",
+  "author": "Jude Winterbourne",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Lena Reyes, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent twenty years learning which silences keep people safe. Then the census taker asks one question too many — and she is pulled straight into the middle of it. To get through this, she must choose which family member gets the last berth before the armistice is signed — or isn't.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2624
+  }
+}

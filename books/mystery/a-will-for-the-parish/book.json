@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04972",
+  "title": "A Will for the Parish",
+  "author": "Jude Dunmore",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "August Brightwater, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. Then a body turns up dressed in clothes stolen from the witness's own closet — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4972
+  }
+}

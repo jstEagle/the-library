@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03444",
+  "title": "Room and Cellar",
+  "author": "Theo Yarrow",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Mirabel Thornbury, a radio host taking calls from listeners who died last week, doesn't believe, has never believed, will not begin believing now. But when the childhood imaginary friend is waiting on the porch, unchanged, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3444
+  }
+}

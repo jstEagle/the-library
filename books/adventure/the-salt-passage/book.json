@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00612",
+  "title": "The Salt Passage",
+  "author": "Noor Okafor",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Theo Oyelaran, an archaeologist's estranged child and better digger, has spent twenty years measuring life in miles rather than years. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the monsoon makes landfall.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 612
+  }
+}

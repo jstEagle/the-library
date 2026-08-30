@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03312",
+  "title": "Well and Hymn",
+  "author": "Vesper Thackeray",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Coral Ishikawa, a hospice nurse who hears the dying count backwards, has spent twenty years telling themselves the noises have explanations. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. To get through this, he must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3312
+  }
+}

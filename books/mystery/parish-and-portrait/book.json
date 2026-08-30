@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05013",
+  "title": "Parish and Portrait",
+  "author": "Gideon Okafor",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "August Villalobos, an insurance investigator with a photographic memory, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5013
+  }
+}

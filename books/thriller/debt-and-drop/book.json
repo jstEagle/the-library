@@ -1,0 +1,21 @@
+{
+  "id": "THR-09214",
+  "title": "Debt and Drop",
+  "author": "Sable Kavanagh",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Mara Coldharbour, a burnt analyst bounced from three agencies, has spent ten years following rules that keep getting rewritten. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9214
+  }
+}

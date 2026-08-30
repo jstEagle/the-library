@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03362",
+  "title": "The Patient Visitor",
+  "author": "I. M. Eriksen",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Ivo Montrose, a property surveyor appraising a house that appraises back, has spent three years telling themselves the noises have explanations. Then the sleep recordings capture a second voice answering questions — and she is pulled straight into the middle of it. To get through this, she must hold out until sunrise with the truth about what was invited in before the well refills.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3362
+  }
+}

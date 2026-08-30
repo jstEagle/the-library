@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00135",
+  "title": "Yara and the Horizon",
+  "author": "Odile Winterbourne",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Coral Delacroix, a mountain guide blacklisted from two countries, has spent twenty years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, he discovers that staying invisible was never really an option. To get through this, he must beat the salvage fleet to the wreck by six tides before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 135
+  }
+}

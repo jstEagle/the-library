@@ -1,0 +1,21 @@
+{
+  "id": "THR-08456",
+  "title": "The Quiet Asset",
+  "author": "Wren Winterbourne",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jude Quintana, a hostage negotiator with one failure still on the board, has spent seven years following rules that keep getting rewritten. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. To get through this, he must extract a defector who may be the bait before the border checkpoint shifts change.",
+  "themes": [
+    "belonging",
+    "memory",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8456
+  }
+}

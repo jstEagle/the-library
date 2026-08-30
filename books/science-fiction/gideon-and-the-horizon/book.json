@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07938",
+  "title": "Gideon and the Horizon",
+  "author": "Jonah Brightwater",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Paloma Yarrow, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must prove a massacre happened when every record says otherwise before Earth's last transmission loop ends.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7938
+  }
+}

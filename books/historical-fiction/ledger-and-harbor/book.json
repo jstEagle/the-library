@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02838",
+  "title": "Ledger and Harbor",
+  "author": "Cyrus Dunmore",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Jonah Blackwood, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. Now she must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2838
+  }
+}

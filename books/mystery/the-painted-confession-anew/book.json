@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05584",
+  "title": "The Painted Confession Anew",
+  "author": "Rosalind Thornbury",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Freya Zhou, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5584
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00317",
+  "title": "A Current for the Rivergate",
+  "author": "Silas Amberdale",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Wren Voss, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. Then a government survey team vanishes, leaving gear and no tracks — and she is pulled straight into the middle of it. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 317
+  }
+}

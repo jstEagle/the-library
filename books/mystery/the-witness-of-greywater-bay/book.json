@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05343",
+  "title": "The Witness of Greywater Bay",
+  "author": "Marguerite Lockridge",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Sebastian Nakamura, an insurance investigator with a photographic memory, has spent five years keeping the town's secrets filed and alphabetized. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5343
+  }
+}

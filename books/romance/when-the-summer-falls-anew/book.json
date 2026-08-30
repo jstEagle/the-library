@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06948",
+  "title": "When the Summer Falls Anew",
+  "author": "Ulyana Crane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Cyrus Reyes, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the vineyard's first harvest comes in.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6948
+  }
+}

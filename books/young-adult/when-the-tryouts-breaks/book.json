@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09711",
+  "title": "When the Tryouts Breaks",
+  "author": "Yara Quintana",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Lior Eastwick, a coder whose anonymous account knows too much, has spent three years being so careful it hurts. But when grandma's recipe box contains directions that aren't for food, she discovers that staying invisible was never really an option. To get through this, she must decide who to be when the labels come off before graduation.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9711
+  }
+}

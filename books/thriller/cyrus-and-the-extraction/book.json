@@ -1,0 +1,21 @@
+{
+  "id": "THR-08827",
+  "title": "Cyrus and the Extraction",
+  "author": "Vesper Winterbourne",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mirabel Crane, a whistle-blower living under four names, hasn't slept through the night since the incident. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8827
+  }
+}

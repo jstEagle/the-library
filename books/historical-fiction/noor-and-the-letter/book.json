@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02887",
+  "title": "Noor and the Letter",
+  "author": "I. M. Ravensworth",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Cyrus Blackwood, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and he is pulled straight into the middle of it. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2887
+  }
+}

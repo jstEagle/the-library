@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06621",
+  "title": "Bakery and Kitchen",
+  "author": "Ansel Kavanagh",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Beatrix Hartwell, a lighthouse keeper's granddaughter and part-time novelist, has spent fifteen years rebuilding a life measured in small safe steps. But when the anonymous pen-pal assignment pairs enemies instead of strangers, she discovers that staying invisible was never really an option. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6621
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09929",
+  "title": "The Tryouts of Cedar Falls",
+  "author": "Beatrix Coldharbour",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Ada Nakamura, a baker's kid who bakes feelings into bread, counts days until graduation like a sentence being served. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. To get through this, he must save the tradition that made the town before prom.",
+  "themes": [
+    "memory",
+    "found family",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9929
+  }
+}

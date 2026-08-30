@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02711",
+  "title": "Juniper and the Atlas",
+  "author": "Kestrel Nystrom",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Odile Sandoval, a suffragist's driver who reads every letter before delivering it, keeps a low profile and busy hands. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, he discovers that staying invisible was never really an option. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the armistice is signed — or isn't.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2711
+  }
+}

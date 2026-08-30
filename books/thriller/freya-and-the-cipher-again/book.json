@@ -1,0 +1,21 @@
+{
+  "id": "THR-09082",
+  "title": "Freya and the Cipher Again",
+  "author": "Felix Coldharbour",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Juniper Pemberton, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. Now they must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9082
+  }
+}

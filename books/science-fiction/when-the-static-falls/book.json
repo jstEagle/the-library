@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07185",
+  "title": "When the Static Falls",
+  "author": "Freya Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Petra Underhill, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7185
+  }
+}

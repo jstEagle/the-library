@@ -1,0 +1,209 @@
+{
+  "title": "Yara and the Undertow",
+  "slug": "literary-fiction/yara-and-the-undertow",
+  "model": "stealth/ox-alpha",
+  "premise": "Bram Kavanagh has spent twenty years as a bridge inspector, translating her fear of intimacy into the precise language of load ratings and expansion joints. When the crumbling houseboat community where she grew up—moored beneath the Merrow Street Bridge—is condemned and its homes auctioned off, Bram returns to catalog the place she fled at seventeen after a falling-out with her foster mother, Odile, who died believing Bram abandoned her. As she works alongside the auctioneer's son, Theo, and reconnects with the ragtag neighbors who once formed her only family, Bram discovers Odile left her a box of unsent letters and a deed hidden inside the house's hull. The auction becomes a reckoning: Bram must bid against developers with money she doesn't have, confess aloud what really happened the night she left, and finally claim both the house and the belonging she always believed she forfeited.",
+  "about_author": "Isandro Ravensworth is the pen name of a former marine surveyor who spent a decade documenting coastal infrastructure before turning to fiction. Their work explores how people measure what they cannot say, and their essays on water towns have appeared in several small literary journals.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Load Rating",
+      "summary": "Bram inspects the Merrow Street Bridge, noting hairline fractures in both steel and memory. Her POV establishes her habit of converting emotion into measurement. Beat: controlled loneliness, the reader senses a wound beneath the precision."
+    },
+    {
+      "n": 2,
+      "title": "The Notice",
+      "summary": "A condemnation notice for the houseboat colony arrives; the auction is in six weeks. Bram's POV, flash-averted from the return address. Beat: dread disguised as professional calm."
+    },
+    {
+      "n": 3,
+      "title": "Expansion Joints",
+      "summary": "Bram explains to an apprentice that bridges are built to move or break. Her POV; the metaphor lands too close. Beat: quiet self-recognition she refuses to name."
+    },
+    {
+      "n": 4,
+      "title": "Merrow Street, 1998",
+      "summary": "Flashback: nine-year-old Bram arrives at Odile's houseboat after her mother's arrest, meeting the neighbor kids—Pilar, Dez, and old Finn. Odile's POV. Beat: tentative warmth, found family forming."
+    },
+    {
+      "n": 5,
+      "title": "Inventory",
+      "summary": "Bram drives back toward the river town she swore off, cataloging reasons not to go. Her POV. Beat: resistance cracking under obligation."
+    },
+    {
+      "n": 6,
+      "title": "The Auctioneer's Son",
+      "summary": "Bram meets Theo, who is running the auction and recognizes her name from Odile's stories. His POV. Beat: unexpected being-seen, disorienting for them both."
+    },
+    {
+      "n": 7,
+      "title": "Hull Conditions",
+      "summary": "Bram boards the old houseboat, finding it frozen in time: her height marks on the doorframe, Odile's chipped blue mugs. Her POV. Beat: grief arriving as physical vertigo."
+    },
+    {
+      "n": 8,
+      "title": "Pilar's Kitchen",
+      "summary": "Pilar, now running a food truck, feeds Bram without asking questions. Pilar's POV reveals how the community scattered and what Odile became in her last years. Beat: guilt sharpening into something actionable."
+    },
+    {
+      "n": 9,
+      "title": "What the Neighbors Know",
+      "summary": "Dez, now a harbor master, tells Bram the auction was fast-tracked by a developer named Corliss. Dez's POV. Beat: an enemy takes shape; stakes become communal."
+    },
+    {
+      "n": 10,
+      "title": "Seventeen",
+      "summary": "Flashback: the night Bram left—the argument over her mother's parole, the words Odile said, the ones Bram never answered. Alternating POVs. Beat: the central misunderstanding revealed to the reader but not yet resolved."
+    },
+    {
+      "n": 11,
+      "title": "Letters Unsent",
+      "summary": "Searching the boat for salvageable fixtures, Bram finds a tin box: forty-one letters Odile wrote and never mailed. Her POV. Beat: devastating tenderness; she can't open them yet."
+    },
+    {
+      "n": 12,
+      "title": "Theo's Offer",
+      "summary": "Theo admits he can delay the auction two weeks but warns Corliss has deep pockets. His POV shows his own conflict—his father's firm needs the commission. Beat: alliance forming across duty lines."
+    },
+    {
+      "n": 13,
+      "title": "Reading Number One",
+      "summary": "Bram reads the first letter, dated the week after she ran. Odile's voice on the page is funnier and more frightened than Bram remembered. Her POV. Beat: the dead begin speaking."
+    },
+    {
+      "n": 14,
+      "title": "Corliss Makes a Call",
+      "summary": "Corliss visits the colony with renderings of luxury moorings, offering buyouts. Ensemble scene, mostly Dez's POV. Beat: neighbors divided between survival money and loyalty."
+    },
+    {
+      "n": 15,
+      "title": "Finn's Barge",
+      "summary": "Bram helps Finn, ninety and stubborn, shore up his listing barge. His POV recalls teaching young Bram knots. Beat: the past actively helping the present; belonging reasserting itself."
+    },
+    {
+      "n": 16,
+      "title": "The Deed Rumor",
+      "summary": "Pilar mentions Odile claimed the houseboat was 'hers outright, paper and all'—but no deed surfaced in probate. Bram's POV. Beat: hope as a structural load she's afraid to trust."
+    },
+    {
+      "n": 17,
+      "title": "Inspection Report",
+      "summary": "Bram files her official bridge report recommending immediate joint replacement—a closure that would cut the colony off during the auction window. Her POV, horrified by her own pen. Beat: duty weaponized against love, ironically by herself."
+    },
+    {
+      "n": 18,
+      "title": "Letter Seven",
+      "summary": "Odile describes watching Bram's bus leave and writing 'I said the wrong thing, which means I said nothing.' Bram's POV. Beat: the shape of the apology she never received begins to emerge."
+    },
+    {
+      "n": 19,
+      "title": "Theo's Father",
+      "summary": "Theo confronts his father about Corliss's pressure; learns the auction terms were quietly altered to favor one buyer. His POV. Beat: betrayal inside his own family mirrors Bram's."
+    },
+    {
+      "n": 20,
+      "title": "Storm Warning",
+      "summary": "A late-season storm damages three houseboats; the community works through the night on repairs. Rotating POVs. Beat: found family functioning again, muscle memory of mutual care."
+    },
+    {
+      "n": 21,
+      "title": "The Photograph",
+      "summary": "In the storm debris, Bram finds a photo of her graduation day—Odile in the crowd, which Bram never knew. Her POV. Beat: evidence that she was loved while she believed herself invisible."
+    },
+    {
+      "n": 22,
+      "title": "Midpoint: The Hull",
+      "summary": "Repairing storm damage to the houseboat's hull, Bram pries loose a sealed compartment: inside, oilcloth-wrapped, a deed naming Odile—and a codicil leaving the boat 'to the girl who knows why the bridge sings.' Her POV. Beat: revelation and new burden; proof requires her to claim what she fled."
+    },
+    {
+      "n": 23,
+      "title": "Why the Bridge Sings",
+      "summary": "Bram decodes the phrase: as a child she told Odile the bridge hummed when wind hit the cables, and Odile had listened like it mattered. Her POV. Beat: understanding that belonging was offered all along; she just never answered."
+    },
+    {
+      "n": 24,
+      "title": "Corliss's Lawyer",
+      "summary": "A lawyer challenges the codicil's validity—handwritten, unwitnessed. Bram's POV. Beat: legal stakes crystallize; the letters may be her only corroboration."
+    },
+    {
+      "n": 25,
+      "title": "Letter Twenty-Two",
+      "summary": "Odile writes about her own failed daughter, lost to distance, and vows not to repeat it—then admits she did anyway. Bram's POV. Beat: compassion replacing resentment toward Odile."
+    },
+    {
+      "n": 26,
+      "title": "Pilar Signs On",
+      "summary": "Pilar agrees to testify about Odile's intentions; Dez digs up harbor records showing Odile paid mooring fees for decades. Pilar's POV. Beat: the family mobilizes; rising collective courage."
+    },
+    {
+      "n": 27,
+      "title": "The Closure Order",
+      "summary": "Bram's bridge report is approved; access road closes ten days before auction. Her POV, cornered by her own integrity. Beat: darkest practical turn—she helped build the trap."
+    },
+    {
+      "n": 28,
+      "title": "Theo Breaks Ranks",
+      "summary": "Theo leaks the altered auction terms to the harbor commission, risking his career. His POV. Beat: he chooses Bram's side over duty, modeling the choice she must make."
+    },
+    {
+      "n": 29,
+      "title": "Letter Thirty-Nine",
+      "summary": "The second-to-last letter says simply: 'If you're reading these, come home before the tide takes the rest.' Bram's POV, weeping at her inspection desk. Beat: emotional nadir and pivot."
+    },
+    {
+      "n": 30,
+      "title": "The Fight",
+      "summary": "Bram and Pilar clash—Pilar accuses her of treating grief like another inspection checklist. Pilar's POV. Beat: truth-telling among friends; Bram forced to admit she hides behind competence."
+    },
+    {
+      "n": 31,
+      "title": "Confession Draft",
+      "summary": "Bram writes and burns four drafts of what she'll say at the auction about the night she left. Her POV. Beat: language failing, then slowly holding."
+    },
+    {
+      "n": 32,
+      "title": "Corliss Escalates",
+      "summary": "Corliss raises his bid publicly and questions Bram's standing in the local paper. Ensemble, Theo's POV. Beat: external pressure peaks; the town watches."
+    },
+    {
+      "n": 33,
+      "title": "The Apprentice's Question",
+      "summary": "Bram's young apprentice asks why she measures everything instead of trusting anything. Her POV. Beat: the theme spoken plainly by an innocent; she has no answer that survives daylight."
+    },
+    {
+      "n": 34,
+      "title": "Night Before",
+      "summary": "The colony gathers on Finn's barge; Bram reads Letter Forty-One aloud—Odile's final letter, unfinished mid-sentence. Ensemble. Beat: communal mourning; the unfinished sentence becomes Bram's to complete."
+    },
+    {
+      "n": 35,
+      "title": "Auction Day",
+      "summary": "Bram stands before the crowd, states her claim, and speaks the confession she owed for twenty years—what she did the night she left, and why Odile's last words went unanswered. Her POV. Beat: climax; saying it out loud at last."
+    },
+    {
+      "n": 36,
+      "title": "The Bid",
+      "summary": "Corliss counters; Theo suspends the sale pending the codicil review; the harbor commission, moved by testimony, grants the colony historic mooring status, gutting Corliss's development case. Theo's POV. Beat: victory earned collectively, not solo."
+    },
+    {
+      "n": 37,
+      "title": "Codicil Upheld",
+      "summary": "A sympathetic judge validates the handwritten codicil, citing the letters and decades of mooring records. Bram's POV. Beat: the law, for once, catching up to love."
+    },
+    {
+      "n": 38,
+      "title": "Keys and Mugs",
+      "summary": "Bram moves into the houseboat, keeps Odile's chipped mugs, hangs her inspection reports beside the height marks. Her POV. Beat: inhabiting rather than inspecting."
+    },
+    {
+      "n": 39,
+      "title": "The Bridge Sings",
+      "summary": "New expansion joints installed, Bram walks the repaired bridge at dusk and hears the cables hum. She lets Theo hear it too. Her POV. Beat: reconciliation of duty and love; the metaphor resolved."
+    },
+    {
+      "n": 40,
+      "title": "Out Loud",
+      "summary": "Epilogue, one year later: the colony hosts a floating memorial for Odile. Bram finishes the unfinished sentence of Letter Forty-One aloud, adding her own answer. Her POV. Beat: resolution—goodbye properly said, belonging chosen and kept."
+    }
+  ]
+}

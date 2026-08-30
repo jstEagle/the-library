@@ -1,0 +1,21 @@
+{
+  "id": "THR-09477",
+  "title": "When the Protocol Burns Anew",
+  "author": "Paloma Okafor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Silas Yarrow, a burnt analyst bounced from three agencies, has spent ten years following rules that keep getting rewritten. But when a dead handler sends a meeting invitation for tomorrow, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9477
+  }
+}

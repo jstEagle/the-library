@@ -1,0 +1,21 @@
+{
+  "id": "YNG-10000",
+  "title": "The Best Semester",
+  "author": "Lena Ashgrove",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.9,
+  "blurb": "Hazel Hartwell, the only out kid in a town of nine hundred, counts days until graduation like a sentence being served. Then the college essay prompt asks one honest question nobody can stop answering — and he is pulled straight into the middle of it. To get through this, he must decide who to be when the labels come off before graduation.",
+  "themes": [
+    "found family",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 10000
+  }
+}

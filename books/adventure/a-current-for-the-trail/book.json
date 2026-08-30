@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00592",
+  "title": "A Current for the Trail",
+  "author": "Edmund Dunmore",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Theo Ashgrove, a desert ranger tracking a thief across nothing, has spent seven years measuring life in miles rather than years. Then a government survey team vanishes, leaving gear and no tracks — and they are pulled straight into the middle of it. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 592
+  }
+}

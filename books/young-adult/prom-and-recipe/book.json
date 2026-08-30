@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09924",
+  "title": "Prom and Recipe",
+  "author": "Juniper Nystrom",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Wendell Amberdale, the eldest sibling raising the younger ones while mom works nights, has spent twelve years being so careful it hurts. But when a best friend goes missing, leaving only a set of keys behind, they discover that staying invisible was never really an option. To get through this, they must save the tradition that made the town before prom.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9924
+  }
+}

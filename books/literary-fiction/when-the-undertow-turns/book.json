@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04313",
+  "title": "When the Undertow Turns",
+  "author": "Beatrix Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Silas Vasquez, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. Then a stranger at the funeral knows the family by a name nobody uses — and he is pulled straight into the middle of it. To get through this, he must translate the untranslatable sentence and live with it before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "identity",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4313
+  }
+}

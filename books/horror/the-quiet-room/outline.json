@@ -1,0 +1,119 @@
+{
+  "title": "The Quiet Room",
+  "slug": "horror/the-quiet-room",
+  "model": "stealth/ox-alpha",
+  "premise": "Ivo Nakamura, an urban explorer who has spent five years mapping tunnels beneath the city that appear on no survey, is drawn back when an excavation crew unearths a door sealed from the inside. Behind it lies the Quiet Room, a pocket of stillness where a family — the Vessers, missing since 1971 — survives by feeding the well that hums beneath their floor, and the count of days before the well refills and drowns them all has already begun. Ivo's loyalty to their found family of explorers collides with the truth that one of them, Ren, has been quietly serving the room for years, and Ivo must choose between exposing him and trusting him to lead them out. In the end, Ivo gets the Vesser children above ground ahead of the count, but Ren stays behind to hold the door shut from within, and Ivo seals the tunnel forever, carrying the truth as both wound and inheritance.",
+  "about_author": "Gideon Marchetti is the pen name of a former municipal surveyor who spent a decade walking the unmapped spaces beneath three cities before turning to fiction. They write horror about doors, families, and the arithmetic of staying.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Survey That Isn't",
+      "summary": "Ivo's POV. Five years of mapping tunnels no survey acknowledges; Ivo rationalizes the noises as settling water and traffic. When news breaks that a construction crew has unearthed a steel door sealed from the inside, Ivo recognizes the corridor in the photographs instantly. Emotional beat: dread disguised as excitement — the explanations are running out."
+    },
+    {
+      "n": 2,
+      "title": "Sealed From Within",
+      "summary": "Ivo sneaks into the excavation site at night and touches the door: scratched on the inside, padded around the frame like someone feared what would come through. A child's chalk tally marks climb the wall beside it, ending mid-stroke. Emotional beat: vertigo — Ivo realizes they've been circling this door for years without knowing."
+    },
+    {
+      "n": 3,
+      "title": "The Crew",
+      "summary": "Ivo's POV, introducing the explorer family: Priya the archivist, Dez the lock-and-lights man, Hal the skeptic, and Ren, quiet, competent, oddly unafraid. Ivo pitches the descent; Hal objects, Ren votes yes first. Emotional beat: warmth and belonging — Ivo chooses these people over safety, again."
+    },
+    {
+      "n": 4,
+      "title": "Down Past the Map",
+      "summary": "First descent through tunnels Ivo knows too well, then past them, into passages that feel freshly dug though they're older than the city grid. The hum begins — low, rhythmic, like breathing through stone. Emotional beat: wonder curdling into wrongness as the map fails."
+    },
+    {
+      "n": 5,
+      "title": "What the Well Hums",
+      "summary": "Dez's POV. He traces the hum to a shaft — a well, dry now, ringed with handholds worn smooth by generations of hands. Hal insists it's an old cistern; Dez notices the handholds are on the inside too. Emotional beat: the first crack in skepticism, told through a man who fixes things and hates what he can't."
+    },
+    {
+      "n": 6,
+      "title": "The Quiet Room",
+      "summary": "They find the chamber: furnished, lived-in, dust-free, lit by lamps that burn without fuel. A family portrait on the wall — four faces, dated 1971. The chalk tally on the wall here reads nineteen thousand and change. Emotional beat: awe and horror fused; a home that should not exist, immaculately kept."
+    },
+    {
+      "n": 7,
+      "title": "Nineteen Thousand Days",
+      "summary": "Ivo's POV. The tally isn't counting survival — Ren reads the faded instructions nailed by the door: it counts down to when the well refills. Nineteen thousand days minus fifty-three years leaves eleven days. Emotional beat: cold arithmetic replacing fear; the deadline becomes the story's spine."
+    },
+    {
+      "n": 8,
+      "title": "The Vessers",
+      "summary": "The family appears: Edith Vesser, her son Tomas, his wife Lorna, and two children born underground who have never seen sky. They are courteous, calm, and terrified of the explorers' flashlights. Emotional beat: uncanny hospitality — hosts who have rehearsed politeness for decades."
+    },
+    {
+      "n": 9,
+      "title": "House Rules",
+      "summary": "Edith explains the covenant: the room stays quiet so the well sleeps; noise feeds it, light wakes it. The family keeps the count, keeps the silence, keeps each other. Ivo asks why not leave; Edith says the door only opens outward once per generation. Emotional beat: love as captivity, duty as devotion."
+    },
+    {
+      "n": 10,
+      "title": "Ren Knows the Way",
+      "summary": "Priya's POV. She catches Ren navigating passages he shouldn't know, turning left before the junction exists. Confronted, he admits he found the tunnels years ago and has been leaving supplies at the threshold ever since. Emotional beat: betrayal braided with tenderness — Priya can't decide if she's furious or grateful."
+    },
+    {
+      "n": 11,
+      "title": "The Children Who Have Never Seen Sky",
+      "summary": "Ivo spends a day with Wren and Sable Vesser, teaching them the names of things from photographs: rain, buses, birds. Sable asks if the sun is loud. Emotional beat: aching tenderness — Ivo's resolve shifts from escape to rescue."
+    },
+    {
+      "n": 12,
+      "title": "Noise",
+      "summary": "Hal, unconvinced, tests the rules — drops a wrench near the well. The hum stutters, deepens, answers. Dust falls. Edith goes white; the tally on the wall changes by itself, losing a day. Emotional beat: terror of consequence; the horror stops being theoretical."
+    },
+    {
+      "n": 13,
+      "title": "Eight Days",
+      "summary": "Ivo's POV. The lost day forces planning: the outward door opens at the refill, or not at all. Edith refuses to leave — the covenant is hers to keep. Tomas wavers. Ivo proposes taking the children out through the tunnels instead. Emotional beat: fracture lines in every loyalty."
+    },
+    {
+      "n": 14,
+      "title": "Lorna's Bargain",
+      "summary": "Lorna's POV. She was an outsider once, lured down like Ivo, and chose to stay for love. She tells Ivo the truth: the well doesn't drown the family — it drinks whoever remains, and calls them by name afterward. She's heard her mother-in-law's voice in the hum. Emotional beat: grief and clarity; the cost of staying made explicit."
+    },
+    {
+      "n": 15,
+      "title": "Ren's Confession",
+      "summary": "Ren tells Ivo everything: five years ago he heard his brother's voice in the tunnels — a brother who vanished in 1998 — and has fed the well small offerings of noise to keep it asleep and keep listening. The room let him leave because he kept coming back. Emotional beat: devastating intimacy; loyalty and truth finally face each other."
+    },
+    {
+      "n": 16,
+      "title": "The Vote",
+      "summary": "The explorers argue in the upper tunnels: take the children by force, respect the family's choice, or seal the site and walk away. Hal wants out entirely; Priya wants documentation; Dez sides with Ivo. Ren abstains, staring at the dark. Emotional beat: found family under strain, choosing each other anyway."
+    },
+    {
+      "n": 17,
+      "title": "Six Days",
+      "summary": "Preparations: Dez rigs lights along the exit route, Priya copies the Vesser archive, Ivo teaches the children the route by touch. Edith begins, silently, to pack her husband's watch. Emotional beat: grim hope — the plan assembling against the clock."
+    },
+    {
+      "n": 18,
+      "title": "The Well Refills Early",
+      "summary": "Hal, guilt-ridden, returns alone to apologize to the well. His voice wakes it fully. The hum becomes a roar; water sounds rise in the shaft; the tally burns itself down to hours. The Quiet Room goes loud for the first time in fifty years. Emotional beat: catastrophe triggered by conscience — the cruelest irony."
+    },
+    {
+      "n": 19,
+      "title": "The Long Walk Out",
+      "summary": "Climax begins. Ivo leads the Vessers and the crew through collapsing tunnels as the well's call mimics loved ones' voices — Edith's dead husband, Ren's brother, Ivo's own mother. Ren walks point, answering the voices to shield the others. Emotional beat: white-knuckle endurance; love weaponized against them."
+    },
+    {
+      "n": 20,
+      "title": "The Door Opens Outward",
+      "summary": "Climax. At the threshold, the well takes its due: the door will open for those who stay. Ren steps back into the dark, telling Ivo he's been keeping the count his whole life and intends to finish it. Ivo holds the door, screaming, as the children pass through into daylight. Emotional beat: sacrifice as the final act of belonging."
+    },
+    {
+      "n": 21,
+      "title": "Above Ground",
+      "summary": "Resolution. Four Vessers stand in the sun, blinking, while paramedics ask questions no one can answer. Ivo gives the surveyors a falsified map, burying the tunnels under concrete plans. Priya archives the truth in a single copy. Emotional beat: hollow victory — saved, and diminished."
+    },
+    {
+      "n": 22,
+      "title": "The Count Continues",
+      "summary": "Epilogue, Ivo's POV. Months later, Ivo visits the sealed site at night and hears, faintly through the concrete, a hum keeping perfect time — and within it, unmistakably, Ren humming the song he always did on descents. Ivo doesn't answer. The tally, somewhere below, starts over. Emotional beat: mourning and devotion entwined; some doors you keep shut because opening them costs more than silence."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07135",
+  "title": "A Signal for the Protocol",
+  "author": "Freya Thackeray",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Casper Ashgrove, a xenolinguist who can no longer dream in human languages, runs the long route between worlds that no longer speak. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. To get through this, he must prove a massacre happened when every record says otherwise before Earth's last transmission loop ends.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7135
+  }
+}

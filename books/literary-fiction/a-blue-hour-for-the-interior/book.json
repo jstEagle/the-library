@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04063",
+  "title": "A Blue Hour for the Interior",
+  "author": "Mara Underhill",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Mara Amberdale, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. To get through this, he must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "memory",
+    "identity",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4063
+  }
+}

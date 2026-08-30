@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08005",
+  "title": "When the Static Turns Anew",
+  "author": "Theo Delacroix",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.8,
+  "blurb": "Silas Fairweather, a starship navigator haunted by the backups sleeping in the hold, runs the long route between worlds that no longer speak. But when an unfamiliar name shows up on the manifest of a ship that never flew, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8005
+  }
+}

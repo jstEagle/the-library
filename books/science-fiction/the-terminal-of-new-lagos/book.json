@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07166",
+  "title": "The Terminal of New Lagos",
+  "author": "F. M. Okafor",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ansel Montrose, a starship navigator haunted by the backups sleeping in the hold, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7166
+  }
+}

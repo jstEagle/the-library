@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01376",
+  "title": "A Oath for the Wolf",
+  "author": "Hazel Thackeray",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Hazel Okonkwo, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1376
+  }
+}

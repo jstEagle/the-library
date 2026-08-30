@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02789",
+  "title": "A Bridge for the Atlas",
+  "author": "H. M. Lockridge",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Kestrel Dunmore, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. To get through this, he must choose which family member gets the last berth before the century turns.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2789
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09578",
+  "title": "A Scholarship for the Homecoming",
+  "author": "Orsen Thackeray",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Sable Galloway, a baker's kid who bakes feelings into bread, stays under the radar: head down, grades up, locker shut. But when the teacher pairs nemesis with nemesis for a semester-long project, they discover that staying invisible was never really an option. Now they must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9578
+  }
+}

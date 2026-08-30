@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00048",
+  "title": "When the Trail Burns",
+  "author": "Tamsin Kavanagh",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Isandro Zhou, a railroad engineer with a map of closed lines, has spent three years measuring life in miles rather than years. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. To get through this, they must bring the expedition home without telling anyone what it found before the monsoon makes landfall.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 48
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04846",
+  "title": "The Cipher of the Marlowe Estate",
+  "author": "Sable Zhou",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Edmund Okafor, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4846
+  }
+}

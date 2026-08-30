@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05759",
+  "title": "Elodie and the Ledger",
+  "author": "Felix Zhou",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Hazel Brightwater, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5759
+  }
+}

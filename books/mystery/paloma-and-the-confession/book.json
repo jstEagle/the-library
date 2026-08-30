@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05552",
+  "title": "Paloma and the Confession",
+  "author": "Orsen Winterbourne",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sable Ashgrove, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. Then the town's beloved founder is exhumed and the coffin is empty — and she is pulled straight into the middle of it. To get through this, she must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5552
+  }
+}

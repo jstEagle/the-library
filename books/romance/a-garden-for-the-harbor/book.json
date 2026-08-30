@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06278",
+  "title": "A Garden for the Harbor",
+  "author": "C. M. Yarrow",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Juniper Underhill, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6278
+  }
+}

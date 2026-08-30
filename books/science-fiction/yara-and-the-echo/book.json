@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08338",
+  "title": "Yara and the Echo",
+  "author": "Edmund Galloway",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Hazel Eastwick, a pilot bonded to an AI that lies, has spent ten years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, she discovers that staying invisible was never really an option. Now she must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8338
+  }
+}

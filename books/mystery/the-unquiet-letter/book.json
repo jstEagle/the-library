@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04918",
+  "title": "The Unquiet Letter",
+  "author": "Yara Ishikawa",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Felix Kavanagh, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. To get through this, she must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4918
+  }
+}

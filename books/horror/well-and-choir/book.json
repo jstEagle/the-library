@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03425",
+  "title": "Well and Choir",
+  "author": "Yara Zhou",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Cyrus Sterling, a property surveyor appraising a house that appraises back, doesn't believe, has never believed, will not begin believing now. But when the sleep recordings capture a second voice answering questions, he discovers that staying invisible was never really an option. To get through this, he must finish the ritual the founders started before the well refills.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3425
+  }
+}

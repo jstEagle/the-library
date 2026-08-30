@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05502",
+  "title": "Coral and the Will",
+  "author": "Vesper Okonkwo",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Odile Kavanagh, a true-crime podcaster chasing the coldest case on record, has spent twelve years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5502
+  }
+}

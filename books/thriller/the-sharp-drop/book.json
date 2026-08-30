@@ -1,0 +1,21 @@
+{
+  "id": "THR-08972",
+  "title": "The Sharp Drop",
+  "author": "Lior Eriksen",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Theo Sterling, a crash investigator whose family died in row twelve, works cases no one wants attributed. But when a voiceprint unlocks a server on another continent, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8972
+  }
+}

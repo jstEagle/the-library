@@ -1,0 +1,21 @@
+{
+  "id": "THR-09424",
+  "title": "Paloma and the Ghost",
+  "author": "Isandro Sterling",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Coral Ishikawa, a private security contractor guarding clients nobody trusts, has spent five years following rules that keep getting rewritten. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. To get through this, she must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9424
+  }
+}

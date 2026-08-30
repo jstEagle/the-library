@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08036",
+  "title": "The Long Terminal Again",
+  "author": "Beatrix Sterling",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Silas Crane, a clone who inherited the original's murder case, maintains the beacon nobody remembers commissioning. But when gravity flickers across the entire system for exactly nine seconds, she discovers that staying invisible was never really an option. To get through this, she must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8036
+  }
+}

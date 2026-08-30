@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06434",
+  "title": "Jonah and the Promise",
+  "author": "Yara Delacroix",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Hazel Almeida, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, she discovers that staying invisible was never really an option. To get through this, she must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6434
+  }
+}

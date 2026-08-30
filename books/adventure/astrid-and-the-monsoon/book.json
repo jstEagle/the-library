@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00558",
+  "title": "Astrid and the Monsoon",
+  "author": "J. M. Almeida",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Orsen Eriksen, a bush pilot flying medicine and rumors into the interior, knows the wilderness forgives nothing and forgets less. But when the tide reveals a cave that legends charge admission to, they discover that staying invisible was never really an option. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 558
+  }
+}

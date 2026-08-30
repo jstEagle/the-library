@@ -1,0 +1,21 @@
+{
+  "id": "THR-08411",
+  "title": "The Cold Extraction",
+  "author": "Ansel Amberdale",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Marguerite Delacroix, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8411
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03545",
+  "title": "A Room for the Hymn",
+  "author": "Cyrus Sandoval",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Bram Brightwater, a hospice nurse who hears the dying count backwards, has spent ten years telling themselves the noises have explanations. But when the excavation crew unearths a door, sealed from the inside, they discover that staying invisible was never really an option. Now they must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3545
+  }
+}

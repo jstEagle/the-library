@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07577",
+  "title": "Paloma and the Colony",
+  "author": "Mirabel Halloran",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Theo Galloway, the caretaker of Earth's abandoned seed vault, has spent fifteen years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7577
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09256",
+  "title": "Jonah and the Safehouse",
+  "author": "August Delacroix",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Quentin Yarrow, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9256
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03392",
+  "title": "A Well for the Winter",
+  "author": "Freya Thornbury",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Astrid Sterling, a twin who came home to bury the wrong sibling, doesn't believe, has never believed, will not begin believing now. Then the excavation crew unearths a door, sealed from the inside — and he is pulled straight into the middle of it. Now he must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3392
+  }
+}

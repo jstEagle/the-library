@@ -1,0 +1,21 @@
+{
+  "id": "THR-09382",
+  "title": "When the Cipher Falls Revisited",
+  "author": "Ulyana Oyelaran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Casper Whitlock, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. But when every record of a flight vanishes while it's still in the air, she discovers that staying invisible was never really an option. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9382
+  }
+}

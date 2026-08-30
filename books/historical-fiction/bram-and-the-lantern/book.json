@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03002",
+  "title": "Bram and the Lantern",
+  "author": "Casper Galloway",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Casper Okonkwo, a code-carrying courier on the last diplomatic mission of a doomed republic, measures the world in what can be carried when the orders come. Then a sealed letter names the family in a plot no one wants a part of — and he is pulled straight into the middle of it. Now he must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3002
+  }
+}

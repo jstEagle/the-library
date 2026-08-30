@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05219",
+  "title": "Gideon and the Cipher",
+  "author": "K. M. Nakamura",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Theo Ishikawa, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. To get through this, they must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5219
+  }
+}

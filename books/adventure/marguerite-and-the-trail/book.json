@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00508",
+  "title": "Marguerite and the Trail",
+  "author": "B. M. Coldharbour",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Edmund Quintana, a salvage diver working a wreck the navy won't discuss, carries a compass, a debt, and very little else. Then a government survey team vanishes, leaving gear and no tracks — and they are pulled straight into the middle of it. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 508
+  }
+}

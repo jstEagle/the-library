@@ -1,0 +1,21 @@
+{
+  "id": "THR-09054",
+  "title": "The Asset of the Green Zone",
+  "author": "Ulyana Sterling",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Paloma Pemberton, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. To get through this, they must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9054
+  }
+}

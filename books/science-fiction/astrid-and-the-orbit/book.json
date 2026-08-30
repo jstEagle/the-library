@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07024",
+  "title": "Astrid and the Orbit",
+  "author": "Cyrus Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ines Blackwood, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. But when the colony's children start sharing the same dream, she discovers that staying invisible was never really an option. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7024
+  }
+}

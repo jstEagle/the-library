@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07841",
+  "title": "Oscar and the Archive",
+  "author": "Ada Sterling",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.6,
+  "blurb": "Emrys Sterling, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. To get through this, they must prove a massacre happened when every record says otherwise before the fleet's truce expires.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7841
+  }
+}

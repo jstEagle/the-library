@@ -1,0 +1,21 @@
+{
+  "id": "THR-09485",
+  "title": "The Burnt Safehouse Again",
+  "author": "Wren Yarrow",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Yara Blackwood, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. Then a voiceprint unlocks a server on another continent — and he is pulled straight into the middle of it. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9485
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05475",
+  "title": "Wren and the Cipher",
+  "author": "Sebastian Delacroix",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ada Eastwick, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. To get through this, they must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5475
+  }
+}

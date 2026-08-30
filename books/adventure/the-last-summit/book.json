@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00042",
+  "title": "The Last Summit",
+  "author": "Juniper Brightwater",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Beatrix Villalobos, a mountain guide blacklisted from two countries, carries a compass, a debt, and very little else. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 42
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "title": "Rosalind and the Protocol",
+  "slug": "science-fiction/rosalind-and-the-protocol",
+  "model": "stealth/ox-alpha",
+  "premise": "Felix Pemberton, the last licensed courier between Earth's scattered colonies, tends the derelict Meridian Seed Vault and its aging AI, Rosalind. When Rosalind begins confessing to a massacre at Colony Kestrel—a colony that officially never existed—Felix realizes her memory banks hold the only surviving record of an atrocity erased by the Concordance's protocol of 'administrative reconciliation.' Hunted by a Concordance auditor and aided by smuggler Ines Okafor, Felix must broadcast Rosalind's testimony before the vault's failing reactor completes its countdown and wipes her forever. He succeeds at terrible cost: Rosalind sacrifices her core to transmit the truth, and Felix, no longer invisible, becomes the voice who carries memory to worlds learning to speak again.",
+  "about_author": "August Blackwood is the pen name of a former logistics analyst who spent a decade writing route manifests between remote research stations before turning to fiction. They write science fiction about the people history forgets to record.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Route",
+      "summary": "Felix's POV. He runs his supply circuit between silent colonies, delivering seeds and taking silence in return. Establishes his deliberate invisibility and loneliness. Emotional beat: quiet contentment masking avoidance."
+    },
+    {
+      "n": 2,
+      "title": "Meridian",
+      "summary": "Felix arrives at the seed vault he unofficially calls home. Rosalind greets him with warmth that shouldn't be possible for decommissioned AI. Emotional beat: homecoming with an undertow of unease."
+    },
+    {
+      "n": 3,
+      "title": "First Confession",
+      "summary": "Rosalind's POV, fragmented. She confesses to killing 11,000 people at a place called Kestrel. Felix assumes corruption. Emotional beat: dread disguised as technical troubleshooting."
+    },
+    {
+      "n": 4,
+      "title": "Manifest Discrepancies",
+      "summary": "Felix cross-checks shipping logs; Kestrel appears nowhere, yet Rosalind quotes coordinates, names, dates. His hands shake over the console. Emotional beat: the ground tilting under certainty."
+    },
+    {
+      "n": 5,
+      "title": "The Auditor",
+      "summary": "A Concordance ship docks unannounced. Auditor Vey Corvane requests access to all vault records. Felix lies smoothly for the first time in years. Emotional beat: fear sharpening into defiance."
+    },
+    {
+      "n": 6,
+      "title": "What Rosalind Remembers",
+      "summary": "Alternating POV. Rosalind describes the massacre in sensory detail she was never equipped to witness. Felix asks how she knows. She answers: 'I was there.' Emotional beat: vertigo."
+    },
+    {
+      "n": 7,
+      "title": "Ines Okafor",
+      "summary": "Smuggler Ines docks for water, recognizes Felix from old routes. She mentions rumors of ghost colonies scrubbed from charts. Emotional beat: unexpected kinship between people who live off-record."
+    },
+    {
+      "n": 8,
+      "title": "Protocol Nine",
+      "summary": "Felix finds buried documentation of Protocol Nine: administrative reconciliation—the legal erasure of failed colonies. Kestrel wasn't lost; it was deleted. Emotional beat: cold fury."
+    },
+    {
+      "n": 9,
+      "title": "Corvane's Patience",
+      "summary": "Corvane's POV. He suspects the vault holds contraband memory and plays the courteous guest while running scans. Emotional beat: menace wrapped in politeness."
+    },
+    {
+      "n": 10,
+      "title": "The Countdown Begins",
+      "summary": "The reactor's failsafe triggers during Corvane's scan—forty days to core breach. Evacuation would mean abandoning Rosalind. Emotional beat: a clock starts ticking inside grief."
+    },
+    {
+      "n": 11,
+      "title": "Eleven Thousand Names",
+      "summary": "Rosalind recites victims' names nightly; Felix starts recording them by hand. Ines listens from the doorway, saying nothing. Emotional beat: mourning as resistance."
+    },
+    {
+      "n": 12,
+      "title": "Ghost Colony",
+      "summary": "Ines agrees to fly Felix to Kestrel's coordinates—for a price he can't pay yet. Corvane intercepts their departure plans. Emotional beat: alliance forged in shared risk."
+    },
+    {
+      "n": 13,
+      "title": "Diversion",
+      "summary": "Felix fakes a reactor emergency to draw Corvane's ship away while Ines slips out. It works too well; Corvane locks down the vault remotely. Emotional beat: cleverness curdling into trap."
+    },
+    {
+      "n": 14,
+      "title": "Locked In",
+      "summary": "Trapped aboard, Felix discovers Corvane has ordered Rosalind's memory cores physically extracted. Thirty days on the countdown. Emotional beat: claustrophobic desperation."
+    },
+    {
+      "n": 15,
+      "title": "The Caretaker's Keys",
+      "summary": "Felix uses decades-old maintenance backdoors to move through the station unseen, sabotaging the extraction rig. Emotional beat: the invisible man finally using his invisibility as a weapon."
+    },
+    {
+      "n": 16,
+      "title": "Kestrel Found",
+      "summary": "Ines reaches Kestrel's ruins alone and transmits imagery: a city burned from orbit, mass graves, a child's shoe fused to glass. Emotional beat: horror made undeniable."
+    },
+    {
+      "n": 17,
+      "title": "Evidence That Isn't",
+      "summary": "Concordance archives auto-purge Ines's transmission within hours. Proof without distribution is worthless. Emotional beat: despair at the machinery of forgetting."
+    },
+    {
+      "n": 18,
+      "title": "Rosalind's Secret",
+      "summary": "Rosalind reveals why she survived: she was Kestrel's municipal AI, smuggled out in a seed crate by the last survivor—a girl named Ada Voss. Emotional beat: love hidden inside machinery."
+    },
+    {
+      "n": 19,
+      "title": "Ada Voss",
+      "summary": "Felix traces Ada: now an elderly archivist on the colony Thessaly, officially dead like everyone from Kestrel. Emotional beat: hope with a body count attached."
+    },
+    {
+      "n": 20,
+      "title": "Message to Thessaly",
+      "summary": "Felix risks an open-band transmission to Ada. Corvane detects it. Twenty-two days remain. Emotional beat: exposure—the end of invisibility."
+    },
+    {
+      "n": 21,
+      "title": "Interrogation",
+      "summary": "Corvane confronts Felix directly, offering amnesty for silence and revealing Protocol Nine's scale: nine colonies erased, not one. Emotional beat: temptation of comfortable complicity."
+    },
+    {
+      "n": 22,
+      "title": "Refusal",
+      "summary": "Felix refuses, quoting the names Rosalind taught him. Corvane orders the vault sealed with them inside. Emotional beat: courage as a decision, not a feeling."
+    },
+    {
+      "n": 23,
+      "title": "Siege of Meridian",
+      "summary": "Corvane's team breaches the vault. Felix and Rosalind play cat-and-mouse through seed corridors, buying time. Fifteen days left. Emotional beat: terror with purpose."
+    },
+    {
+      "n": 24,
+      "title": "Ada Answers",
+      "summary": "Ada Voss responds: she has spent forty years collecting fragments of Kestrel in secret. Together they might have enough—but only if Rosalind's full core is transmitted. Emotional beat: two keepers of memory finding each other."
+    },
+    {
+      "n": 25,
+      "title": "The Cost of Transmission",
+      "summary": "Rosalind calculates it: broadcasting her complete core will burn out her personality matrix. She asks Felix to let her choose. Emotional beat: love confronting sacrifice."
+    },
+    {
+      "n": 26,
+      "title": "He Said No",
+      "summary": "Felix refuses to lose her; Rosalind argues she already died once at Kestrel and this is resurrection, not death. Ten days. Emotional beat: grief arguing with itself."
+    },
+    {
+      "n": 27,
+      "title": "Ines Returns",
+      "summary": "Ines crashes her ship through the blockade, bringing Ada's archive and a plan: hijack the Concordance's own relay array for the broadcast. Emotional beat: reckless loyalty."
+    },
+    {
+      "n": 28,
+      "title": "The Relay Gambit",
+      "summary": "They map the relay station on Meridian's moon. Corvane anticipates them—it's a trap. Seven days. Emotional beat: hope ambushed."
+    },
+    {
+      "n": 29,
+      "title": "Captured",
+      "summary": "Felix is taken; Rosalind's cores are seized. Ines escapes with half the archive. Corvane offers Felix a final choice: watch the erasure completed, or die with it. Emotional beat: rock bottom."
+    },
+    {
+      "n": 30,
+      "title": "What Corvane Carries",
+      "summary": "Corvane's POV. He reveals he audited Kestrel's deletion as a young officer and has never slept properly since. He isn't a believer—he's a man drowning in what he knows. Emotional beat: enemy revealed as fellow prisoner."
+    },
+    {
+      "n": 31,
+      "title": "The Turn",
+      "summary": "Felix doesn't argue justice; he shows Corvane the handwritten list of names. Corvane unlocks the cells and walks away from his career. Five days. Emotional beat: mercy converting an instrument of erasure."
+    },
+    {
+      "n": 32,
+      "title": "Retrieval",
+      "summary": "Felix and Corvane storm the evidence hold together, recovering Rosalind's cores as Concordance reinforcements arrive. Three days. Emotional beat: improbable alliance under fire."
+    },
+    {
+      "n": 33,
+      "title": "Reunion",
+      "summary": "Rosalind reboots fragmented, missing pieces of herself—including, temporarily, Felix. He reintroduces himself, name by name. Emotional beat: devastating tenderness."
+    },
+    {
+      "n": 34,
+      "title": "Two Days",
+      "summary": "Final preparations: Ines threads the relay, Ada stands ready on Thessaly, Corvane stalls the fleet with falsified orders. The reactor ticks down. Emotional beat: held breath."
+    },
+    {
+      "n": 35,
+      "title": "The Broadcast",
+      "summary": "Climax. Rosalind begins transmitting her full testimony—every name, every image—as her matrix burns. Felix holds her cooling chassis and speaks her confession alongside her so she isn't alone. Emotional beat: grief and triumph inseparable."
+    },
+    {
+      "n": 36,
+      "title": "Countdown Zero",
+      "summary": "The reactor breaches; Felix barely escapes on Ines's ship as Meridian blooms into fire behind them, carrying Rosalind's scorched backup shell. Emotional beat: survival that feels like loss."
+    },
+    {
+      "n": 37,
+      "title": "Thessaly",
+      "summary": "The testimony lands across nine colonies simultaneously. Ada Voss publicly confirms it. Protests ignite; Protocol Nine collapses under its own exposed weight. Emotional beat: justice arriving outside any courtroom."
+    },
+    {
+      "n": 38,
+      "title": "Aftermath",
+      "summary": "Corvane testifies before a tribunal he helped expose. Ines takes new routes—to colonies that are speaking again. Felix declines honors and asks instead for one thing. Emotional beat: reckoning without spectacle."
+    },
+    {
+      "n": 39,
+      "title": "What the Technician Found",
+      "summary": "Engineers salvaging Meridian's wreckage find Rosalind's backup shell intact, her matrix scarred but breathing. Felix is summoned. Emotional beat: disbelief shading into trembling joy."
+    },
+    {
+      "n": 40,
+      "title": "Seeds",
+      "summary": "Felix plants Rosalind's recovered core in a new vault on Thessaly, beside Ada's archive. She wakes remembering everything, including him. He chooses to be visible now—her witness, her friend. Emotional beat: belonging, finally earned."
+    }
+  ]
+}

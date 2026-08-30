@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06372",
+  "title": "Yara and the Kitchen",
+  "author": "Jonah Montrose",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Theo Sterling, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. To get through this, he must say the sentence that has been rehearsed for a decade before the festival ends.",
+  "themes": [
+    "belonging",
+    "memory",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6372
+  }
+}

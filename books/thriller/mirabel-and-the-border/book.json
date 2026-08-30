@@ -1,0 +1,21 @@
+{
+  "id": "THR-08752",
+  "title": "Mirabel and the Border",
+  "author": "Zephyrine Nakamura",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Silas Coldharbour, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. To get through this, he must burn the network that did the training before the summit convenes.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8752
+  }
+}

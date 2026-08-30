@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01513",
+  "title": "The Garden of the Glass Steppe",
+  "author": "Bram Montrose",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Bram Joubert, a cartographer of unmapped realms, has spent three years selling small charms in a city that outlawed magic. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1513
+  }
+}

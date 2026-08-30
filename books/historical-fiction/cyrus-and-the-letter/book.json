@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02938",
+  "title": "Cyrus and the Letter",
+  "author": "Emrys Sandoval",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Edmund Sterling, a battlefield nurse keeping a ledger of the names officers omit, measures the world in what can be carried when the orders come. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2938
+  }
+}

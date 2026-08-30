@@ -1,0 +1,29 @@
+{
+  "title": "Rosalind and the Regiment",
+  "slug": "historical-fiction/rosalind-and-the-regiment",
+  "model": "stealth/ox-alpha",
+  "premise": "In 1799, in the occupied port city of Varenholt, Rosalind 'Sable' Whitlock inherits half-finished the master atlas her teacher died protecting — an atlas whose marginalia secretly charts the occupation's hidden supply routes and the names of the disappeared. When a census taker recognizes her master's hand in her work, Sable becomes both fugitive and courier, hunted by the very officers the atlas indicts. With a ragtag found family — a disgraced census clerk, a smuggler's widow, and a child who can read maps better than soldiers — she must carry the atlas past three checkpoints before the century turns and a general amnesty destroys its evidentiary power forever. At the final checkpoint, Sable must choose between burning the atlas to save her companions or surrendering herself so the truth survives; she does both, in a way no one expects, and the century turns on a city that finally knows its own dead by name.",
+  "about_author": "Mara Joubert is the pen name of a former archivist who spent a decade cataloguing confiscated maps and municipal censuses from occupied territories. She writes historical fiction about the people paperwork forgets.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Paper",
+      "summary": "Sable's POV. Finishing the dead master's atlas by lamplight, Sable hides the marginalia she doesn't yet understand when the census taker, Herr Voss, arrives and asks one question too many about her teacher's final commission. She lies badly; he leaves unconvinced. The emotional beat: grief curdling into fear, as Sable realizes the atlas is not a memorial but a target."
+    },
+    {
+      "n": 2,
+      "title": "Three Names in the Margin",
+      "summary": "Alternating Sable and the clerk Odile's POV. Odile, a dismissed census clerk who recognizes Voss's pattern of 'disappeared' households, seeks Sable out and deciphers the marginalia: the atlas charts where the occupation hides its prisoners. Hunted together, they flee to the smuggler's widow Maren and her map-literate daughter Pip. The emotional beat: strangers becoming a family forged by shared danger."
+    },
+    {
+      "n": 3,
+      "title": "The Second Checkpoint",
+      "summary": "Sable's POV, with Pip's interludes. The family smuggles the atlas in sections through the river checkpoint, but Voss anticipates them; Maren is taken, and Sable learns the amnesty will erase the atlas's legal power at midnight on New Year's Eve. Betrayed by a trusted ferryman, they lose half the pages. The emotional beat: despair and the terrible arithmetic of survival — what, and who, can be carried."
+    },
+    {
+      "n": 4,
+      "title": "What the Century Keeps",
+      "summary": "All four POVs converge at the final gate. Sable surrenders herself carrying a decoy atlas while Pip, hidden in the census cart, delivers the true pages to the amnesty commissioners as the bells strike midnight. Voss is undone by his own registers; Maren walks free. The emotional beat: costly triumph — Sable in chains but smiling, because the city now reads its dead in its own hand."
+    }
+  ]
+}

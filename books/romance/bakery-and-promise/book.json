@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06610",
+  "title": "Bakery and Promise",
+  "author": "Jude Blackwood",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Oscar Blackwood, a ghostwriter secretly penning a rival's memoirs, has spent five years rebuilding a life measured in small safe steps. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6610
+  }
+}

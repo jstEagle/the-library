@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03603",
+  "title": "The Sleeping Harvest",
+  "author": "August Whitlock",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Lena Lockridge, a hospice nurse who hears the dying count backwards, has spent fifteen years telling themselves the noises have explanations. But when every mirror in the house starts reflecting the room one second late, they discover that staying invisible was never really an option. To get through this, they must hold out until sunrise with the truth about what was invited in before the harvest moon rises.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3603
+  }
+}

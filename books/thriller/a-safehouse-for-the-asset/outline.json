@@ -1,0 +1,29 @@
+{
+  "title": "A Safehouse for the Asset",
+  "slug": "thriller/a-safehouse-for-the-asset",
+  "model": "stealth/ox-alpha",
+  "premise": "Zephyrine Dravenmoor, a crash investigator haunted by the unexplained death of her family in row twelve, is pulled into a case involving a downed aircraft that three governments want buried. Hiding in a government safe house, she discovers the property has been listed for sale online — with interior photos revealing documents she hid there, meaning someone inside the system sold her out. As an assassin closes in and her only ally's loyalty wavers between duty and truth, Zephyrine races to smuggle evidence of the cover-up past three intelligence services. In the end, she trades the evidence for a public hearing, exposing the conspiracy at devastating personal cost: the man who betrayed her safe house was the last person who knew what really happened to row twelve.",
+  "about_author": "Zephyrine Coldharbour spent a decade as an aviation insurance adjuster before turning to fiction, drawing on hundreds of accident reports she was never allowed to discuss. She writes from a coastal town whose location she declines to confirm.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Zephyrine's POV. Opening on a routine crash investigation, Zephyrine recognizes serial numbers linking the wreck to the flight that killed her family years ago — a flight officially closed as pilot error. When she pulls the old file, it has been scrubbed. The emotional beat is grief curdling into suspicion: the machinery of forgetting is still running, and she just touched it."
+    },
+    {
+      "n": 2,
+      "title": "The Listing",
+      "summary": "Zephyrine's POV, with a brief interlude from handler Marcus Vane. Moved into a black-site safe house with copied evidence, she finds the property listed on a real estate site — interior photos showing her hidden documents, timestamped while she slept. Someone inside gave her up. The beat is paranoia tightening into certainty: invisibility was always an illusion someone else controlled."
+    },
+    {
+      "n": 3,
+      "title": "Three Governments, One Door",
+      "summary": "Alternating POV: Zephyrine, the assassin Kestrel tracking her, and Vane receiving orders to terminate. Cornered, Zephyrine brokers a fragile alliance with a foreign archivist who can authenticate her files, while Kestrel closes in through the sale listing's metadata. The climax hits when Vane arrives at the safe house — not to kill her, but to confess he sold the listing to protect his own family. The beat is betrayal and terrible recognition."
+    },
+    {
+      "n": 4,
+      "title": "Attribution",
+      "summary": "Zephyrine's POV. With Vane's confession recorded, she routes copies through the archivist and two dead drops, forcing all three governments to claim the crash rather than let rivals expose it. Kestrel, revealed to have lost someone aboard too, lets her walk. At the public inquiry, row twelve finally gets its names read aloud. The beat is costly resolution: truth delivered, but Zephyrine leaves the inquiry knowing no verdict will return what power took."
+    }
+  ]
+}

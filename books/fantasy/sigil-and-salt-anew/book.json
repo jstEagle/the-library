@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02022",
+  "title": "Sigil and Salt Anew",
+  "author": "Mirabel Thornbury",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Yara Villalobos, an exiled storm-caller, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. To get through this, they must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2022
+  }
+}

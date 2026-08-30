@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01450",
+  "title": "Ivo and the Wolf",
+  "author": "Zephyrine Reyes",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Ines Winterbourne, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1450
+  }
+}

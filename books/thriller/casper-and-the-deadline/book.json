@@ -1,0 +1,21 @@
+{
+  "id": "THR-08904",
+  "title": "Casper and the Deadline",
+  "author": "Paloma Amberdale",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Kestrel Ishikawa, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. To get through this, they must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8904
+  }
+}

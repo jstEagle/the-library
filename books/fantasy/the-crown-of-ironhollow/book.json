@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00929",
+  "title": "The Crown of Ironhollow",
+  "author": "Jonah Nakamura",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Lior Blackwood, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. To get through this, they must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 929
+  }
+}

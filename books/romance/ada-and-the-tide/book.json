@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06772",
+  "title": "Ada and the Tide",
+  "author": "Petra Ishikawa",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Kestrel Underhill, a wedding planner who doesn't believe in weddings anymore, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6772
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00901",
+  "title": "The Wild Spire",
+  "author": "Orsen Marchetti",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Freya Delacroix, an exiled storm-caller, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 901
+  }
+}

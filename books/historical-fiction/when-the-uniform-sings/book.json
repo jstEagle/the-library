@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02665",
+  "title": "When the Uniform Sings",
+  "author": "Ines Underhill",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Oscar Sandoval, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and he is pulled straight into the middle of it. Now he must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2665
+  }
+}

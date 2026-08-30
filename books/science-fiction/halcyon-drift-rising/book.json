@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07070",
+  "title": "Halcyon Drift Rising",
+  "author": "I. M. Vasquez",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Xanthe Kavanagh, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. But when an unfamiliar name shows up on the manifest of a ship that never flew, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7070
+  }
+}

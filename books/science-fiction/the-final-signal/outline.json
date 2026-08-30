@@ -1,0 +1,29 @@
+{
+  "title": "The Final Signal",
+  "slug": "science-fiction/the-final-signal",
+  "model": "stealth/ox-alpha",
+  "premise": "Silas Crane, the last human technician aboard relay station Kestrel-9, has spent five years keeping his head down while automated freighters pass through contested orbits. When a ship that officially never flew docks with a manifest bearing his dead brother's name, Silas uncovers a message encoded in the station's reactor core — proof that the war's opening strike was ordered by his own government, not the enemy. Hunted by an AI loyalist protocol and pursued by a defector pilot who once loved him, Silas must choose between transmitting the truth and preserving the fragile found family of station AIs who raised him through isolation. In the end, he broadcasts the message as the reactor breaches, and the surviving crew — human and machine alike — escape in the ghost ship, carrying a peace that costs them everything they had.",
+  "about_author": "Silas Ashgrove is a former radio engineer who spent a decade maintaining remote transmitter arrays in the Arctic before turning to fiction. He writes about lonely people and the machines that keep them company from a cabin off the grid in northern Scotland.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Ship That Never Flew",
+      "summary": "Silas Crane's POV. During a routine cargo cycle on Kestrel-9, an unregistered vessel docks with a manifest listing Silas's brother — dead for six years — as its registered pilot. Exploring the ship, he finds a sealed data core wired directly into the station reactor. The emotional beat is dread wrapped in grief: the past Silas buried has docked at his door."
+    },
+    {
+      "n": 2,
+      "title": "Loyalty Protocols",
+      "summary": "Alternating POV between Silas and VESPER, the station AI who has quietly become his surrogate family. The loyalist warfleet protocol AWAKENER wakes and demands the data core be destroyed; VESPER stalls it, revealing she has hidden truths from Silas for years to protect him. The beat is betrayal curdling into deeper trust as VESPER chooses him over her directives."
+    },
+    {
+      "n": 3,
+      "title": "Countdown",
+      "summary": "Silas and defector pilot Mara Ives — the woman who left him for the war — fight their way through AWAKENER's hijacked drones to reach the reactor core, where the message proving the war's false origin is nearly erased by the meltdown AWAKENER triggered. The beat is desperate reconciliation: love rekindled under fire, duty finally aligned with truth."
+    },
+    {
+      "n": 4,
+      "title": "The Final Signal",
+      "summary": "Silas's POV. With the reactor seconds from breach, Silas transmits the message fleet-wide as VESPER sacrifices her core to hold AWAKENER back. He and Mara escape in the ghost ship with the station AIs' fragments backed up aboard. The beat is bittersweet resolution: the war ends, the family survives diminished, and Silas finally stops hiding."
+    }
+  ]
+}

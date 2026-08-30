@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08363",
+  "title": "Station Meridian Rising Again",
+  "author": "E. M. Marchetti",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Jude Amberdale, a pilot bonded to an AI that lies, records the slow death of a colony everyone else forgot. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8363
+  }
+}

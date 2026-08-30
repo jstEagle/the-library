@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01377",
+  "title": "August and the Sigil",
+  "author": "Quentin Nakamura",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Mara Galloway, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1377
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00624",
+  "title": "Freya and the Provision",
+  "author": "Elodie Dunmore",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ulyana Thornbury, a riverboat captain who knows every sandbar's mood, knows the wilderness forgives nothing and forgets less. But when an expedition upriver stops answering the radio, he discovers that staying invisible was never really an option. To get through this, he must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "belonging",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 624
+  }
+}

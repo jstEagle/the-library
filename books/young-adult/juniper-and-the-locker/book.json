@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09920",
+  "title": "Juniper and the Locker",
+  "author": "Marguerite Eastwick",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Juniper Hartwell, the eldest sibling raising the younger ones while mom works nights, is fine. Everything is fine. Obviously.. Then the teacher pairs nemesis with nemesis for a semester-long project — and he is pulled straight into the middle of it. To get through this, he must expose what the school board buried before graduation.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9920
+  }
+}

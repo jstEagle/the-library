@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02241",
+  "title": "Edmund and the Spire Again",
+  "author": "Noor Thackeray",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Lior Dravenmoor, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2241
+  }
+}

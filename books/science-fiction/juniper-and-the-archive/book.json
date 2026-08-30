@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07417",
+  "title": "Juniper and the Archive",
+  "author": "Lena Crane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Mara Fairweather, the caretaker of Earth's abandoned seed vault, has spent twenty years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7417
+  }
+}

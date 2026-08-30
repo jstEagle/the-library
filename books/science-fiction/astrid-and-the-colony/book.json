@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07810",
+  "title": "Astrid and the Colony",
+  "author": "Wren Whitlock",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Hazel Ravensworth, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and they are pulled straight into the middle of it. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7810
+  }
+}

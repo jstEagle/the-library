@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04405",
+  "title": "When the Inventory Burns",
+  "author": "Cyrus Hartwell",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Noor Halloran, a piano tuner who hears the house's history in its radiators, has spent five years practicing the art of almost saying it. But when the last speaker of a language asks for one final student, she discovers that staying invisible was never really an option. To get through this, she must ask the question the whole family arranged itself around before the mother's memory goes entirely.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4405
+  }
+}

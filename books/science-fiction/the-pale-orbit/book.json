@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07732",
+  "title": "The Pale Orbit",
+  "author": "Wren Okafor",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Bram Underhill, a decommissioned war android paying off its debts, has spent seven years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must reach the relay at the edge of dead space, racing the signal before the reactor finishes its countdown.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7732
+  }
+}

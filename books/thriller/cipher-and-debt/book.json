@@ -1,0 +1,21 @@
+{
+  "id": "THR-09067",
+  "title": "Cipher and Debt",
+  "author": "I. M. Ishikawa",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Yara Whitlock, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9067
+  }
+}

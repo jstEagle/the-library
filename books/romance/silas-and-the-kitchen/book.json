@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06472",
+  "title": "Silas and the Kitchen",
+  "author": "Mirabel Amberdale",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Oscar Ishikawa, a vineyard owner who inherited debts instead of grapes, has spent five years rebuilding a life measured in small safe steps. But when a fake date to survive a family reunion feels too real by dessert, she discovers that staying invisible was never really an option. To get through this, she must forgive the person in the mirror first before the last ferry of the season departs.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6472
+  }
+}

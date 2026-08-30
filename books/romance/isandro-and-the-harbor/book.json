@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06704",
+  "title": "Isandro and the Harbor",
+  "author": "Tamsin Vane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Freya Nakamura, a single parent running the town's only bookshop, has spent three years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6704
+  }
+}

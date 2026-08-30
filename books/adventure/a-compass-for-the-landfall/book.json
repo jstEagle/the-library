@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00597",
+  "title": "A Compass for the Landfall",
+  "author": "Hazel Coldharbour",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Silas Thornbury, a riverboat captain who knows every sandbar's mood, knows the wilderness forgives nothing and forgets less. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. Now she must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 597
+  }
+}

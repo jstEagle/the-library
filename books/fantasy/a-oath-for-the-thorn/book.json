@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01161",
+  "title": "A Oath for the Thorn",
+  "author": "Juniper Marchetti",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Zephyrine Sandoval, the keeper of a gate that should stay shut, has spent twelve years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "found family",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1161
+  }
+}

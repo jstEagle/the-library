@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00126",
+  "title": "The Far Passage",
+  "author": "Oscar Voss",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Mara Okafor, an archaeologist's estranged child and better digger, has spent twenty years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. To get through this, she must cross the range ahead of the snows before the monsoon makes landfall.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 126
+  }
+}

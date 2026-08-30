@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02482",
+  "title": "Ledger and Uniform",
+  "author": "Wendell Iversen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "August Voss, an apprentice clockmaker summoned to repair the observatory's master clock, measures the world in what can be carried when the orders come. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. To get through this, they must choose which family member gets the last berth before the armistice is signed — or isn't.",
+  "themes": [
+    "memory",
+    "found family",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2482
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05278",
+  "title": "The Parish of Greywater Bay",
+  "author": "Emrys Pemberton",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Elodie Blackwood, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. But when a body turns up dressed in clothes stolen from the witness's own closet, he discovers that staying invisible was never really an option. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5278
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00797",
+  "title": "The Choir of the Sundered Sea",
+  "author": "Wendell Marchetti",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Astrid Ravensworth, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "found family",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 797
+  }
+}

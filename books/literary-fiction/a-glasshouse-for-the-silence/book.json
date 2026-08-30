@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04359",
+  "title": "A Glasshouse for the Silence",
+  "author": "Yara Coldharbour",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Mara Crane, a restaurant critic who has forgotten how food tastes, has spent seven years practicing the art of almost saying it. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. Now they must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4359
+  }
+}

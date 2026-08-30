@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06762",
+  "title": "A Kitchen for the Letters",
+  "author": "Ansel Eriksen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Astrid Underhill, a ghostwriter secretly penning a rival's memoirs, has spent twelve years rebuilding a life measured in small safe steps. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. Now she must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6762
+  }
+}

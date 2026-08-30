@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01540",
+  "title": "Jonah and the Hollow",
+  "author": "Ada Vasquez",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Jonah Marchetti, a cartographer of unmapped realms, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. To get through this, he must steal back a soul sold to the court beneath the mountain before the long winter finishes falling.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1540
+  }
+}

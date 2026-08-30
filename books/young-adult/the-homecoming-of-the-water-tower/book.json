@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09605",
+  "title": "The Homecoming of the water tower",
+  "author": "Tamsin Sterling",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Odile Thornbury, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. Then the teacher pairs nemesis with nemesis for a semester-long project — and he is pulled straight into the middle of it. To get through this, he must win the championship that doesn't matter — and the one that does before graduation.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9605
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05207",
+  "title": "The Witness of Bellwether Lane",
+  "author": "Bram Nystrom",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Lior Thornbury, an insurance investigator with a photographic memory, has spent three years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and they are pulled straight into the middle of it. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5207
+  }
+}

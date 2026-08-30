@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01105",
+  "title": "Oscar and the Crown",
+  "author": "Sebastian Coldharbour",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Mara Kavanagh, a royal food-taster building immunity one dish at a time, has never left the valley where magic cannot follow. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1105
+  }
+}

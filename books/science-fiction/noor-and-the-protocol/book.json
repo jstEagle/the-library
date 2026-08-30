@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07794",
+  "title": "Noor and the Protocol",
+  "author": "Noor Okafor",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Felix Coldharbour, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7794
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07705",
+  "title": "Ines and the Colony",
+  "author": "Petra Delacroix",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Paloma Vane, a clone who inherited the original's murder case, has spent twenty years hauling cargo through contested orbits. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7705
+  }
+}

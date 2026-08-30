@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00711",
+  "title": "Hollow and Veil",
+  "author": "Ines Iversen",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Mara Dravenmoor, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 711
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05906",
+  "title": "When the Inheritance Sings Anew",
+  "author": "Lior Coldharbour",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Mara Coldharbour, a retired detective running a failing bookshop, thought they had seen every way a life can end. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must untangle alibis woven thirty years ago before the trial begins.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5906
+  }
+}

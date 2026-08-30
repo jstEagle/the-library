@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08069",
+  "title": "Yara and the Protocol",
+  "author": "Casper Ashgrove",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Dominic Voss, the caretaker of Earth's abandoned seed vault, has spent three years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8069
+  }
+}

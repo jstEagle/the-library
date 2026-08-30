@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04409",
+  "title": "Paloma and the Postcards",
+  "author": "Jude Underhill",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Kestrel Yarrow, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, he discovers that staying invisible was never really an option. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4409
+  }
+}

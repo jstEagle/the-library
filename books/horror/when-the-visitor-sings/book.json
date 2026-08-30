@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03511",
+  "title": "When the Visitor Sings",
+  "author": "M. M. Villalobos",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Cyrus Crane, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. But when all the photographs from grandma's house now include an extra chair, he discovers that staying invisible was never really an option. To get through this, he must get the family out ahead of the count before the well refills.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3511
+  }
+}

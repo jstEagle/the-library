@@ -1,0 +1,21 @@
+{
+  "id": "THR-09322",
+  "title": "Bram and the Ghost",
+  "author": "Odile Quintana",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Orsen Vasquez, a fixer for an embassy that doesn't officially exist, has spent twelve years following rules that keep getting rewritten. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9322
+  }
+}

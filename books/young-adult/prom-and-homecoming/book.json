@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09917",
+  "title": "Prom and Homecoming",
+  "author": "Sable Sandoval",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ulyana Brightwater, the only out kid in a town of nine hundred, is fine. Everything is fine. Obviously.. But when a group chat starts predicting things that haven't happened yet, they discover that staying invisible was never really an option. To get through this, they must win the championship that doesn't matter — and the one that does before graduation.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9917
+  }
+}

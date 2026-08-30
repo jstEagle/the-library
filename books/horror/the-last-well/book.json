@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03199",
+  "title": "The Last Well",
+  "author": "Astrid Ishikawa",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Felix Pemberton, a hospice nurse who hears the dying count backwards, has spent ten years telling themselves the noises have explanations. But when every mirror in the house starts reflecting the room one second late, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3199
+  }
+}

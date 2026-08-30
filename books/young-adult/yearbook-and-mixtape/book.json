@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09568",
+  "title": "Yearbook and Mixtape",
+  "author": "Yara Thornbury",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Ines Hartwell, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. But when the teacher pairs nemesis with nemesis for a semester-long project, she discovers that staying invisible was never really an option. Now she must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9568
+  }
+}

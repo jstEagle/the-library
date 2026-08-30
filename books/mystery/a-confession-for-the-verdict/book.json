@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05498",
+  "title": "A Confession for the Verdict",
+  "author": "Coral Reyes",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Orsen Voss, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5498
+  }
+}

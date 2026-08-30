@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04739",
+  "title": "Lena and the Undertow",
+  "author": "Astrid Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Bram Zhou, a night librarian in a city that sleeps less every year, keeps a careful inventory of everything unsaid. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4739
+  }
+}

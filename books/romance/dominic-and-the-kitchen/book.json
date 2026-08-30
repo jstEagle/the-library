@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06622",
+  "title": "Dominic and the Kitchen",
+  "author": "Marguerite Blackwood",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Paloma Voss, a single parent running the town's only bookshop, has spent fifteen years rebuilding a life measured in small safe steps. Then a fake date to survive a family reunion feels too real by dessert — and she is pulled straight into the middle of it. To get through this, she must forgive the person in the mirror first before the vineyard's first harvest comes in.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6622
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08033",
+  "title": "Gravity and Vector Anew",
+  "author": "Astrid Iversen",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Tamsin Amberdale, a xenolinguist who can no longer dream in human languages, has spent twenty years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. To get through this, he must keep a lie alive that holds two fleets apart before the fleet's truce expires.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8033
+  }
+}

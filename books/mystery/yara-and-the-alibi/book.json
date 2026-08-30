@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05902",
+  "title": "Yara and the Alibi",
+  "author": "Lena Underhill",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Sebastian Reyes, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. To get through this, he must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5902
+  }
+}

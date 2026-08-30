@@ -1,0 +1,21 @@
+{
+  "id": "THR-09255",
+  "title": "A Debt for the Cipher",
+  "author": "L. M. Iversen",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Tamsin Reyes, a burnt analyst bounced from three agencies, has spent five years following rules that keep getting rewritten. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9255
+  }
+}

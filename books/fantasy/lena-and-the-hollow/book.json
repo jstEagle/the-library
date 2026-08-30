@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02086",
+  "title": "Lena and the Hollow",
+  "author": "Lena Thornbury",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Edmund Yarrow, the last oath-bound swordspeaker, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2086
+  }
+}

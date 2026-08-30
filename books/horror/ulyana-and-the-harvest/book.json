@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03187",
+  "title": "Ulyana and the Harvest",
+  "author": "Kestrel Lockridge",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mirabel Ashgrove, a pest controller called to something with fingerprints, has spent twenty years telling themselves the noises have explanations. Then all the photographs from grandma's house now include an extra chair — and she is pulled straight into the middle of it. Now she must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3187
+  }
+}

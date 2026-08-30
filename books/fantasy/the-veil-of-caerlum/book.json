@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01437",
+  "title": "The Veil of Caerlum",
+  "author": "Mirabel Vane",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Freya Whitlock, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "belonging",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1437
+  }
+}

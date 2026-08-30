@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07584",
+  "title": "Terminal and Static",
+  "author": "Felix Eastwick",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Lena Amberdale, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7584
+  }
+}

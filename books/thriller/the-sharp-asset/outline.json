@@ -1,0 +1,59 @@
+{
+  "title": "The Sharp Asset",
+  "slug": "thriller/the-sharp-asset",
+  "model": "stealth/ox-alpha",
+  "premise": "Marguerite Amberdale, a former data-ethics researcher turned whistle-blower, has survived four years under four names since exposing the Veyra Institute's coercive voice-training program. When an anonymous voiceprint unlocks a dormant server in Lisbon containing the institute's full subject archive — including her own recorded sessions — Marguerite realizes someone inside is still feeding the network, and that her new identity is already compromised. Hunted across borders by the institute's fixers and shadowed by a journalist who may be ally or bait, she must reach the server before the checkpoint rotations seal the city off, destroy the archive, and decide whether burning it also means erasing the only proof of what was done to her. In the end she chooses truth over safety: she leaks the archive publicly, burns the network's backbone, and walks through the shifting checkpoint under her own name for the first time in four years.",
+  "about_author": "Noor Hartwell is the pen name of a former compliance analyst who spent a decade inside financial institutions before turning to fiction. They write thrillers about people whose consciences cost them everything, from a small coastal town they refuse to name.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Four Names, No Sleep",
+      "summary": "POV: Marguerite. Living as 'Ruth Calloway' in a damp Rotterdam flat, Marguerite catalogs her insomnia rituals and the rules that keep her invisible. A wrong-number call plays three seconds of her own recorded voice back to her before disconnecting. Emotional beat: dread reawakened; the past has found a channel."
+    },
+    {
+      "n": 2,
+      "title": "The Voiceprint",
+      "summary": "POV: Marguerite. Tracing the call to a VoIP relay, she discovers a dead-drop message: a server address in Lisbon and a fragment of audio — Session 11, her own coerced training recordings. The sender signs with a symbol only two other subjects would know. Emotional beat: reluctant hope curdling into suspicion; this could be rescue or a trap."
+    },
+    {
+      "n": 3,
+      "title": "The Journalist",
+      "summary": "POV: Elias Brandt, an investigative reporter who burned his career on a half-finished Veyra exposé, intercepts Marguerite at a ferry terminal, proving he knows her second name. He claims a source inside the institute sent him the same coordinates. Emotional beat: wary alliance; two liars measuring each other's tells."
+    },
+    {
+      "n": 4,
+      "title": "What the Archive Holds",
+      "summary": "POV: Marguerite. En route south, she decrypts a sample file: hundreds of subjects' voices harvested under duress, including children's. She recognizes the voice of Dr. Ilse Verhoeven, her old supervisor, narrating consent waivers that were never signed. Emotional beat: grief hardening into purpose; this is bigger than her survival."
+    },
+    {
+      "n": 5,
+      "title": "Checkpoint at the Border",
+      "summary": "POV: Elias. At the French-Spanish crossing, a routine scan flags Marguerite's alias. Elias improvises a cover story as a documentary crew, buying hours but confirming the institute has a live feed into border systems. Emotional beat: the net tightening; trust between them deepens out of necessity."
+    },
+    {
+      "n": 6,
+      "title": "Ilse",
+      "summary": "POV: Marguerite. In Madrid, a burner call comes from Dr. Verhoeven herself — apologetic, plausible, claiming she is the anonymous sender trying to atone. Marguerite wavers until she spots the coaching cadence in Ilse's speech: the same rhythm used on subjects. Emotional beat: betrayal recognized; loyalty to a mentor dies so truth can live."
+    },
+    {
+      "n": 7,
+      "title": "Lisbon, Before the Shift Change",
+      "summary": "POV: alternating. They reach Lisbon with six hours until checkpoint rotations lock down transit corridors. The server sits in a decommissioned telecom exchange in Alcântara. Fixers are already sweeping the district. Emotional beat: ticking-clock urgency; no plan survives contact, only nerve."
+    },
+    {
+      "n": 8,
+      "title": "Session Eleven",
+      "summary": "POV: Marguerite. Inside the exchange, Marguerite finds the sender: Tomas, a fellow subject turned institute technician, dying of a staged 'accident' but alive enough to hand over the master key. He warns the archive is mirrored — destroying one copy alerts the network. Emotional beat: witness and mourning; she holds a stranger's hand and inherits his mission."
+    },
+    {
+      "n": 9,
+      "title": "Burn the Network",
+      "summary": "POV: alternating. Climax. Fixers breach the exchange as Marguerite executes Tomas's protocol: instead of deleting the archive, she floods every mirror simultaneously and pushes the whole thing to open web caches worldwide. Elias draws the fixers off and is captured buying her minutes. Emotional beat: sacrifice and release; the truth escapes faster than it can be killed."
+    },
+    {
+      "n": 10,
+      "title": "Her Own Name",
+      "summary": "POV: Marguerite. The leak detonates globally; the institute's funding collapses overnight. Marguerite trades herself to authorities to secure Elias's release, testifying under her real name — Marguerite Amberdale, spoken aloud in a courtroom without flinching. Months later she sleeps through the night for the first time. Emotional beat: resolution; memory reclaimed, identity chosen, loyalty finally aligned with truth."
+    }
+  ]
+}

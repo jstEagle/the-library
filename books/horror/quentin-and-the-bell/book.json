@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03315",
+  "title": "Quentin and the Bell",
+  "author": "Elodie Zhou",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Edmund Halloran, a radio host taking calls from listeners who died last week, has spent fifteen years telling themselves the noises have explanations. Then the childhood imaginary friend is waiting on the porch, unchanged — and she is pulled straight into the middle of it. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3315
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03911",
+  "title": "Juniper and the Smile",
+  "author": "Jonah Amberdale",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Emrys Oyelaran, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. But when the excavation crew unearths a door, sealed from the inside, he discovers that staying invisible was never really an option. To get through this, he must learn the song's last verse without singing along before the harvest moon rises.",
+  "themes": [
+    "memory",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3911
+  }
+}

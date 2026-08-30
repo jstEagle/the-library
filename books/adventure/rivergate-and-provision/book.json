@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00234",
+  "title": "Rivergate and Provision",
+  "author": "R. M. Crane",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Felix Ashgrove, a riverboat captain who knows every sandbar's mood, has spent seven years measuring life in miles rather than years. Then an expedition upriver stops answering the radio — and he is pulled straight into the middle of it. To get through this, he must bring the expedition home without telling anyone what it found before the dry season ends.",
+  "themes": [
+    "belonging",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 234
+  }
+}

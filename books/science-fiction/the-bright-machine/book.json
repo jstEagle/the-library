@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07526",
+  "title": "The Bright Machine",
+  "author": "O. M. Villalobos",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Ines Lockridge, a pilot bonded to an AI that lies, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7526
+  }
+}

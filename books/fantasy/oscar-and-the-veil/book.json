@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01460",
+  "title": "Oscar and the Veil",
+  "author": "Sable Montrose",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Theo Iversen, the keeper of a gate that should stay shut, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must unbind a king from the thing wearing his crown before the long winter finishes falling.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1460
+  }
+}

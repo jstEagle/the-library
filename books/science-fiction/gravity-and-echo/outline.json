@@ -1,0 +1,209 @@
+{
+  "title": "Gravity and Echo",
+  "slug": "science-fiction/gravity-and-echo",
+  "model": "stealth/ox-alpha",
+  "premise": "Sable Ishikawa, the last human technician aboard the automated relay station Perihelion, discovers a cargo manifest for a ship that was destroyed seven years ago — the same ship that carried his sister, and the same year his own memories were partially wiped. The name on the manifest belongs to a whistleblower who exposed a corporate massacre and then vanished, and her hidden testimony is being broadcast in fragments from a relay at the edge of dead space. Pursued by the corporation's deniable enforcers and haunted by recovered memories that suggest he may have helped erase her, Sable races across contested orbits to reach the relay before the signal degrades forever. In the end he must choose between restoring his own erased identity and destroying it to keep her testimony alive, broadcasting the truth at the cost of ever knowing who he truly was.",
+  "about_author": "Isandro Dunmore is a former orbital logistics analyst who spent six years writing technical manuals before turning to fiction, and his work is known for its claustrophobic stations and morally exhausted protagonists. He writes from a coastal town whose location he declines to confirm, publishing under a pen name he says keeps 'the day job and the ghosts separate.'",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Orbit",
+      "summary": "Sable's POV. Establishes his solitary routine hauling cargo drones through contested orbits around the Perihelion relay station, seven years after arriving with no memory of why he stayed. Emotional beat: comfortable loneliness beginning to curdle into unease."
+    },
+    {
+      "n": 2,
+      "title": "Manifest Anomaly",
+      "summary": "Sable's POV. A routine audit surfaces a manifest entry for the Meridian Dawn, a ship destroyed seven years ago, listing a passenger named Veyra Kostas. The timestamp predates the destruction by one hour. Emotional beat: first crack of dread; the past knocking."
+    },
+    {
+      "n": 3,
+      "title": "Ghost Tonnage",
+      "summary": "Sable investigates the station's deep archives, finding the Meridian Dawn's black box pinged the relay once before burning up. His access logs show someone queried that data — using his credentials, three years ago. Emotional beat: paranoia taking root."
+    },
+    {
+      "n": 4,
+      "title": "What the Wipe Took",
+      "summary": "Sable's POV, flashback fragments. He examines his own neural scar tissue from a sanctioned memory wipe he has no record of consenting to. Emotional beat: grief without an object; mourning something he can't name."
+    },
+    {
+      "n": 5,
+      "title": "The Company Sends Regards",
+      "summary": "Sable's POV. A corporate inspection vessel arrives unannounced, weeks ahead of schedule, asking oddly specific questions about legacy manifests. Sable lies for the first time in seven years. Emotional beat: fear sharpening into defiance."
+    },
+    {
+      "n": 6,
+      "title": "Veyra Kostas, Deceased",
+      "summary": "Sable pieces together public records: Kostas was a logistics auditor who accused Halcyon Combine of deliberately depressurizing a mining habitat to hide labor deaths — 412 people. She disappeared the week the Meridian Dawn burned. Emotional beat: righteous anger, and recognition — his sister worked that habitat."
+    },
+    {
+      "n": 7,
+      "title": "Signal in the Static",
+      "summary": "Sable's POV. While calibrating the long-range array he catches a repeating fragment buried in dead-space static: coordinates, and a voice saying only 'the manifest was true.' It matches the edge relay at Terminus Deep. Emotional beat: hope as a dangerous drug."
+    },
+    {
+      "n": 8,
+      "title": "Inspection, Interrupted",
+      "summary": "Sable's POV. The corporate inspectors attempt a forced download of station archives; Sable triggers a coolant purge to corrupt their copy and fakes a systems failure. Emotional beat: point of no return crossed quietly, mid-shift."
+    },
+    {
+      "n": 9,
+      "title": "Cargo Run South",
+      "summary": "Sable steals a maintenance hauler under cover of a debris-clearing contract, plotting a course toward Terminus Deep through contested orbits. Emotional beat: exhilaration laced with terror; seven years of stillness ending."
+    },
+    {
+      "n": 10,
+      "title": "The Chaser",
+      "summary": "New POV: Wren Adisa, a Halcyon 'asset recovery' operative, receives orders to intercept the hauler and recover 'property' — Sable himself. Her POV reveals she suspects the Kostas file is real. Emotional beat: professional detachment starting to fray."
+    },
+    {
+      "n": 11,
+      "title": "Debris Field Sermon",
+      "summary": "Sable navigates a dense wreck field from an old war, nearly dying when a derelict reactor vents. Among the wreckage he finds Meridian Dawn's escape pod — empty, but its log shows one occupant ejected toward Terminus Deep. Emotional beat: awe and vertigo; the dead may be alive."
+    },
+    {
+      "n": 12,
+      "title": "Fuel Is a Prayer",
+      "summary": "Sable's POV. Running low on reaction mass, he docks at a lawless fuel depot and bargains with a smuggler named Okonkwo, trading his station access codes for range. Emotional beat: the cost of flight measured in what he can never go back to."
+    },
+    {
+      "n": 13,
+      "title": "Wren Closes",
+      "summary": "Wren's POV. She tracks Sable to the depot, interrogates Okonkwo, and finds the manifest fragment — and hesitates before reporting it. Emotional beat: complicity vs. curiosity; the first lie she tells her employers."
+    },
+    {
+      "n": 14,
+      "title": "Memories Not Mine",
+      "summary": "Sable's POV, dreamlike interlude. Under sedation-stim during a long burn, wiped memories surface: a woman's voice, a server room, his own hands uploading a deletion order. Emotional beat: horror of suspecting he was the eraser."
+    },
+    {
+      "n": 15,
+      "title": "Contested Space",
+      "summary": "Sable threads a patrol corridor where two rival fleets shadow each other, using a civilian distress squawk as cover. Emotional beat: cold competence masking panic; the galaxy's indifference to justice."
+    },
+    {
+      "n": 16,
+      "title": "The Asset Who Read Too Much",
+      "summary": "Wren's POV. She secretly pulls the sealed Kostas investigation and finds evidence Halcyon ordered the habitat breach. She archives a copy off-network. Emotional beat: quiet treason; the moment she stops being their instrument."
+    },
+    {
+      "n": 17,
+      "title": "Terminus Deep Approach",
+      "summary": "Sable reaches the outer dark where the edge relay hangs like a nail in blackness. Its beacon answers his handshake with a challenge phrase — one he somehow knows. Emotional beat: uncanny homecoming to a place he's never been."
+    },
+    {
+      "n": 18,
+      "title": "The Voice in the Relay",
+      "summary": "Sable's POV. Inside the relay he finds Veyra Kostas — alive, half-machine, her consciousness distributed through the station after her body failed years ago. She's been broadcasting testimony in fragments too degraded to convict anyone. Emotional beat: relief curdling into despair."
+    },
+    {
+      "n": 19,
+      "title": "Seven Years of Dying Slowly",
+      "summary": "Veyra's POV (via recorded logs). She explains the crash, her upload, and why she needs a human courier: the full testimony requires a living neural substrate to hold its checksum. Emotional beat: endurance beyond hope; duty as survival."
+    },
+    {
+      "n": 20,
+      "title": "The Deletion Order",
+      "summary": "Sable confronts the surfaced memory: seven years ago, as a Halcyon technician, he personally signed the wipe that erased his own knowledge of Kostas — a punishment disguised as mercy, administered by his sister to protect him. Emotional beat: devastation; identity as a crime scene."
+    },
+    {
+      "n": 21,
+      "title": "My Sister's Handwriting",
+      "summary": "Sable decodes the wipe metadata and finds his sister Mei didn't just punish him — she hid a key inside the gaps, trusting his instincts would lead him here. Emotional beat: love discovered inside violence; grief reorganized as inheritance."
+    },
+    {
+      "n": 22,
+      "title": "Wren Arrives Early",
+      "summary": "Wren's POV. Disobeying orders, she approaches Terminus Deep alone, transmitting a parley flag. She offers Sable her evidence cache in exchange for the testimony. Emotional beat: two hunted people deciding whether trust is survivable."
+    },
+    {
+      "n": 23,
+      "title": "Terms of Treason",
+      "summary": "Sable, Veyra, and Wren negotiate an uneasy alliance: Wren will carry the testimony's public keys through legal channels while Sable carries the neural payload physically. Emotional beat: fragile coalition; justice requiring conspirators."
+    },
+    {
+      "n": 24,
+      "title": "Halcyon Comes to Terminus",
+      "summary": "A corporate interdiction squadron drops out of transit at the system's edge. Veyra begins overloading the relay's transmitter to buy time. Emotional beat: siege mentality; the clock made audible."
+    },
+    {
+      "n": 25,
+      "title": "Checksum Failure",
+      "summary": "During transfer preparation, the testimony's integrity check fails — seven years of degradation have corrupted critical segments, and only a mind that held the original can reconstruct them. Sable realizes the original holder was him. Emotional beat: trap closing from inside his own skull."
+    },
+    {
+      "n": 26,
+      "title": "Restoration Offered",
+      "summary": "Veyra proposes reversing Sable's wipe to restore the original testimony — but the process will overwrite whatever self he's built in seven years. The man who arrived here will not survive intact. Emotional beat: existential terror; identity weighed against truth."
+    },
+    {
+      "n": 27,
+      "title": "The Man I Might Have Been",
+      "summary": "Sable's POV, night watch. He records messages to whoever he'll become, cataloguing the person he is now: the routines, the small joys, the name he chose. Emotional beat: tender elegy for oneself."
+    },
+    {
+      "n": 28,
+      "title": "First Assault",
+      "summary": "Halcyon marines board the relay's docking spine. Sable and Wren fight a delaying action through cargo bays, Veyra weaponizing station systems. Emotional beat: adrenaline and sacrifice; the body defending what the mind hasn't decided."
+    },
+    {
+      "n": 29,
+      "title": "Okonkwo Returns",
+      "summary": "The smuggler arrives with two armed ships, having sold Sable's route to Halcyon — then double-crossed the corporation, unable to stomach their kill order. Emotional beat: unexpected grace from a mercenary world."
+    },
+    {
+      "n": 30,
+      "title": "The Choice Made",
+      "summary": "With boarding parties seconds away, Sable enters the restoration cradle. He asks Veyra to tell his future self one thing: that he chose this. Emotional beat: surrender as courage; the last act of the man he was."
+    },
+    {
+      "n": 31,
+      "title": "Under the Waves of Memory",
+      "summary": "Immersive interior sequence. Sable drowns in restored memory: the habitat's death screams, Mei's face, the server room, Veyra's trial testimony he helped bury. Emotional beat: catharsis through total recall; pain as proof of wholeness."
+    },
+    {
+      "n": 32,
+      "title": "Broadcast",
+      "summary": "Climax. Restored, Sable holds the reconstructed testimony while Veyra burns out the relay transmitter in a single burst aimed at every public channel in inhabited space. Halcyon seizes a station that no longer contains anything worth stealing. Emotional beat: triumph and loss fused; the signal escaping as the station dies."
+    },
+    {
+      "n": 33,
+      "title": "Aftermath of Light",
+      "summary": "The testimony propagates. Habitat survivors' families begin class actions; three Halcyon executives are indicted; riots at Combine yards. Wren releases her cache and disappears into the crowd of witnesses. Emotional beat: justice arriving late, imperfect, real."
+    },
+    {
+      "n": 34,
+      "title": "What Remains of Sable",
+      "summary": "Sable's POV. He survives, but the restoration left seams: he remembers being two men, and grieves the one who died in the cradle. Veyra, transmitter gone, begins fading as her hardware fails. Emotional beat: survivor's tenderness; identity as ongoing choice rather than fixed fact."
+    },
+    {
+      "n": 35,
+      "title": "Mei's Message",
+      "summary": "Decompressing the final layer of the wipe, Sable finds a personal message from his sister, recorded before her death in the habitat breach: she knew he'd come, and asked him not to forgive Halcyon, but to live loudly enough to spite them. Emotional beat: devastating love; permission to continue."
+    },
+    {
+      "n": 36,
+      "title": "The Trial of Records",
+      "summary": "Sable testifies remotely at the tribunal, his dual memory making him both witness and exhibit. Defense counsel attacks his reliability; the corrupted-but-checksummed testimony holds. Emotional beat: dignity reclaimed through ordeal; the law finally catching up to the truth."
+    },
+    {
+      "n": 37,
+      "title": "Verdicts and Empty Chairs",
+      "summary": "The tribunal convicts; sentences land unevenly, some architects walking free on technicalities. Sable watches, learning that justice outside the law was necessary but insufficient. Emotional beat: sober maturity; victory without satisfaction."
+    },
+    {
+      "n": 38,
+      "title": "Rebuilding the Signal",
+      "summary": "Sable joins a cooperative rebuilding the dead-space relay network so no voice is ever stranded again. Veyra's core, failing, is archived into the new network's foundation — her testimony literally becoming infrastructure. Emotional beat: grief transmuted into purpose."
+    },
+    {
+      "n": 39,
+      "title": "Echo",
+      "summary": "Final chapter. Sable stands a new watch on a new relay, hauling cargo through quieter orbits, carrying both his selves. When static crosses the band, he no longer flinches. Emotional beat: peace earned, not given; memory and identity reconciled as the gravity that lets an echo travel."
+    },
+    {
+      "n": 40,
+      "title": "Gravity and Echo",
+      "summary": "Coda, mixed POVs. Fragments across the settled worlds: a student hearing the broadcast, Wren under a new name, Okonkwo running honest routes, Veyra's archived voice answering queries in the dark. Sable sends one transmission into dead space: 'Received. Understood. Remembered.' Emotional beat: resonance without resolution; the story becoming signal."
+    }
+  ]
+}

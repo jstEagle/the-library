@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09617",
+  "title": "Rafael and the Homecoming",
+  "author": "Sable Vane",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "August Vasquez, the eldest sibling raising the younger ones while mom works nights, has spent three years being so careful it hurts. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. Now he must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9617
+  }
+}

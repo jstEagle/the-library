@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08253",
+  "title": "The Gravity of the Kuiper Line Anew",
+  "author": "G. M. Ashgrove",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Rosalind Montrose, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. But when an unfamiliar name shows up on the manifest of a ship that never flew, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8253
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06860",
+  "title": "The Summer of Port Alder Anew",
+  "author": "A. M. Nakamura",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Xanthe Blackwood, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6860
+  }
+}

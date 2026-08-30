@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01352",
+  "title": "Choir and Ember",
+  "author": "Mara Yarrow",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Zephyrine Dunmore, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. To get through this, he must unbind a king from the thing wearing his crown before the long winter finishes falling.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1352
+  }
+}

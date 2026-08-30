@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00622",
+  "title": "The Leeward Escarpment",
+  "author": "Orsen Delacroix",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Petra Brightwater, a salvage diver working a wreck the navy won't discuss, carries a compass, a debt, and very little else. Then a dying prospector trades a map for a promise — and they are pulled straight into the middle of it. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 622
+  }
+}

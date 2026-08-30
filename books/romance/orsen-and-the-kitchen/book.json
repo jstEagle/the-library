@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06842",
+  "title": "Orsen and the Kitchen",
+  "author": "Ansel Vane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Astrid Hartwell, a wedding planner who doesn't believe in weddings anymore, swears the heart is a muscle like any other: trainable, containable. Then two estranged names appear on the same impossibly stubborn orchard deed — and he is pulled straight into the middle of it. To get through this, he must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "belonging",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6842
+  }
+}

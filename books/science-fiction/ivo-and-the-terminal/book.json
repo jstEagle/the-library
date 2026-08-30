@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08112",
+  "title": "Ivo and the Terminal",
+  "author": "Marguerite Thornbury",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Coral Zhou, a terraformer tending a garden meant for people not yet born, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and they are pulled straight into the middle of it. To get through this, they must deliver a message that will end the war — or start it before the fleet's truce expires.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8112
+  }
+}

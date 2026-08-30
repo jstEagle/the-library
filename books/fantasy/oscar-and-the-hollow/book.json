@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01690",
+  "title": "Oscar and the Hollow",
+  "author": "Vesper Ravensworth",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Zephyrine Voss, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1690
+  }
+}

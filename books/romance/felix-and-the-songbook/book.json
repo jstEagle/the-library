@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05963",
+  "title": "Felix and the Songbook",
+  "author": "Tamsin Okonkwo",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Mara Okafor, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5963
+  }
+}

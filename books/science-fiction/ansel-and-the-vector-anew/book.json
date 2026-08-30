@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08220",
+  "title": "Ansel and the Vector Anew",
+  "author": "Noor Okafor",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Wendell Montrose, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8220
+  }
+}

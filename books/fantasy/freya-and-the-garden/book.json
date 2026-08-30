@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01010",
+  "title": "Freya and the Garden",
+  "author": "Sable Okonkwo",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Ulyana Pemberton, a bone-carver who hears the dead, has never left the valley where magic cannot follow. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. To get through this, they must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1010
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06826",
+  "title": "Tamsin and the Songbook",
+  "author": "August Reyes",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Dominic Fairweather, a pastry chef whose café is three missed payments from gone, keeps love in the past tense where it belongs. But when the person behind a decade of letters moves in next door, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the vineyard's first harvest comes in.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6826
+  }
+}

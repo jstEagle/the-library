@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02314",
+  "title": "A Bridge for the Uniform",
+  "author": "Edmund Dunmore",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Sebastian Almeida, a battlefield nurse keeping a ledger of the names officers omit, has spent fifteen years learning which silences keep people safe. But when the bridge — the only road out — closes for the season, he discovers that staying invisible was never really an option. Now he must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2314
+  }
+}

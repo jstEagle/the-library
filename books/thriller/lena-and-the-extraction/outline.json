@@ -1,0 +1,209 @@
+{
+  "title": "Lena and the Extraction",
+  "slug": "thriller/lena-and-the-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Odile Montrose, a peace-conference interpreter with a forged past and a packed go-bag, is approached by a stranger named Lena who claims Odile once saved her life—a favor Odile has no memory of. Lena belongs to the same covert training program that manufactured Odile's false identity, and she demands repayment: help her extract a whistleblower who can expose the program before its handlers silence everyone involved. As Odile is dragged back into the network she escaped, she discovers her own 'favor' was engineered—she was Lena's unwitting control subject—and that the delegation she interprets for is being manipulated to launder the program's final assets. Betrayed by both sides, Odile chooses to burn the archive herself, trading her anonymity for justice outside any court, while Lena sacrifices her escape route to buy Odile time. The book ends with the program exposed in fragments across three countries, Odile testifying under her real name—the first true thing she's ever said publicly—and Lena presumed dead but leaving behind evidence that she survived.",
+  "about_author": "Ulyana Underhill is a former conference interpreter who spent a decade working high-stakes diplomatic summits before turning to fiction full-time. She writes thrillers about people whose professional invisibility becomes their greatest weapon, drawing on the moral gray zones she witnessed between official languages.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Go-Bag",
+      "summary": "Odile's POV. We meet her mid-assignment at a faltering Geneva peace delegation, interpreting lies in real time while cataloguing exits. Her go-bag sits by the door of a rented flat under a name she doesn't own. Emotional beat: controlled paranoia, the discipline of a person built to vanish."
+    },
+    {
+      "n": 2,
+      "title": "A Favor Returned",
+      "summary": "Odile's POV. A woman called Lena corners her after a session, thanking her for saving her life in Sarajevo—an event Odile cannot recall. Lena leaves a keycard and a time. Emotional beat: uncanny dread; the past knocking with someone else's handwriting."
+    },
+    {
+      "n": 3,
+      "title": "Interest Owed",
+      "summary": "Lena's POV. Lena explains the debt: extraction of a whistleblower named Corvin from the program's Vienna node, seventy-two hours. She reveals she knows Odile's real birth name. Emotional beat: predatory charm masking desperation."
+    },
+    {
+      "n": 4,
+      "title": "The Lie Polished",
+      "summary": "Odile's POV. Odile audits her own cover story and finds seams she never noticed—documents backdated by someone else's hand. She realizes her identity may have been issued, not chosen. Emotional beat: vertigo beneath competence."
+    },
+    {
+      "n": 5,
+      "title": "Delegation of Fools",
+      "summary": "Odile's POV. Back at the summit, Odile notices a delegate's phrasing mirrors program tradecraft—scripted concessions, planted mistranslations. The peace process is theater. Emotional beat: disillusionment hardening into purpose."
+    },
+    {
+      "n": 6,
+      "title": "Seventy-Two Hours",
+      "summary": "Lena's POV. Reconnaissance of the Vienna node; Lena's handler pressure mounts via dead-drop messages. Flashback to Sarajevo and the debt's origin. Emotional beat: love disguised as leverage."
+    },
+    {
+      "n": 7,
+      "title": "Keycard",
+      "summary": "Odile's POV. Odile tests the keycard against her better judgment and finds it opens a door inside the delegation's secure annex—meaning the program is already inside her present. Emotional beat: the trap and the invitation are the same object."
+    },
+    {
+      "n": 8,
+      "title": "Corvin",
+      "summary": "Corvin's POV. Introduce the whistleblower hiding inside the node, archiving training records on stolen drives, terrified and methodical. He knows a subject designated 'M-7.' Emotional beat: claustrophobic hope."
+    },
+    {
+      "n": 9,
+      "title": "M-7",
+      "summary": "Odile's POV. Odile confronts Lena with the designation; Lena admits Odile was a control subject—her 'rescue' of Lena was staged to bond them. The favor never happened. Emotional beat: betrayal, then a colder resolve: if the memory was fake, the network is still real."
+    },
+    {
+      "n": 10,
+      "title": "The Annex",
+      "summary": "Odile's POV. Night infiltration of the annex using her interpreter access. She photographs ledgers linking delegates to the program's funding. Emotional beat: transgressive exhilaration—justice beginning outside the law."
+    },
+    {
+      "n": 11,
+      "title": "Handlers",
+      "summary": "Program handler Voss's POV. Voss detects the breach pattern and orders 'asset retirement' protocols quietly activated on M-7 and Lena. Emotional beat: bureaucratic menace."
+    },
+    {
+      "n": 12,
+      "title": "Burn Notice",
+      "summary": "Odile's POV. Odile's flat is searched while she's out; her go-bag untouched but her documents copied. She understands they're not arresting her—they're rebuilding her. Emotional beat: violation without violence."
+    },
+    {
+      "n": 13,
+      "title": "Vienna Node",
+      "summary": "Lena's POV. Lena and Odile case the node as a translation team, using Odile's legitimate credentials. First physical contact with Corvin. Emotional beat: fragile triangulation of trust."
+    },
+    {
+      "n": 14,
+      "title": "What the Interpreter Heard",
+      "summary": "Odile's POV. Odile replays years of assignments, realizing how many 'misunderstandings' she smoothed were program operations. Her career was their instrument. Emotional beat: grief for a self that never existed."
+    },
+    {
+      "n": 15,
+      "title": "Safehouse Arithmetic",
+      "summary": "Corvin's POV. Corvin calculates exposure windows; the drives must move within days or be wiped remotely. He distrusts Lena, suspects Odile less. Emotional beat: grim logistics as intimacy."
+    },
+    {
+      "n": 16,
+      "title": "Dead Drop",
+      "summary": "Lena's POV. Lena meets her old handler to feed disinformation and nearly gives herself away when he mentions Sarajevo details only Odile could know. Emotional beat: terror wearing composure."
+    },
+    {
+      "n": 17,
+      "title": "The Translation Trap",
+      "summary": "Odile's POV. At the summit, Odile deliberately mistranslates a clause to stall an asset transfer, committing her first overt act of sabotage. Emotional beat: point of no return, rendered almost giddy."
+    },
+    {
+      "n": 18,
+      "title": "Voss Closes In",
+      "summary": "Voss's POV. Voss identifies the mistranslation as deliberate and moves the retirement timeline up. A cleaner team deploys. Emotional beat: patient, professional cruelty."
+    },
+    {
+      "n": 19,
+      "title": "Extraction Plan",
+      "summary": "Ensemble. The trio plans Corvin's exit through a freight corridor, assigning roles that force Odile and Lena to finally speak plainly about what was done to them. Emotional beat: honesty as armament."
+    },
+    {
+      "n": 20,
+      "title": "Halfway Point: The Archive",
+      "summary": "Corvin's POV. Corvin shows Odile the archive: her file, her staged rescue footage, decades of manufactured identities. She watches herself being invented. Emotional beat: devastating recognition."
+    },
+    {
+      "n": 21,
+      "title": "Complications",
+      "summary": "Lena's POV. The freight corridor is compromised; a cleaner recognizes Lena. A firefight she barely escapes burns their timetable. Emotional beat: guilt compounding into recklessness."
+    },
+    {
+      "n": 22,
+      "title": "Interrogation Room",
+      "summary": "Odile's POV. Detained briefly by delegation security, Odile talks her way out using the program's own techniques against them. Emotional beat: mastery reclaimed from the tools of her making."
+    },
+    {
+      "n": 23,
+      "title": "The Second Favor",
+      "summary": "Lena's POV. Lena confesses the deeper truth: she sought Odile not for extraction but because Corvin's archive proves Lena was also fabricated—and she needed a witness who'd understand. Emotional beat: vulnerability stripped of strategy."
+    },
+    {
+      "n": 24,
+      "title": "Route Change",
+      "summary": "Odile's POV. Odile improvises a new exit via a diplomatic baggage channel, leveraging a favor from a delegate she once protected. Emotional beat: the network of small kindnesses versus the machine."
+    },
+    {
+      "n": 25,
+      "title": "Cleaners",
+      "summary": "Cleaner-team POV (Kade). Kade's crew tracks the trio; Kade hesitates upon recognizing Odile from his own training cohort. Emotional beat: the hunter doubting the hunt."
+    },
+    {
+      "n": 26,
+      "title": "Baggage Claim",
+      "summary": "Odile's POV. The baggage-channel extraction half-succeeds: Corvin out, drives split, Odile cornered. She triggers an alarm that forces security to detain the cleaners instead. Emotional beat: audacity at knife's edge."
+    },
+    {
+      "n": 27,
+      "title": "Split",
+      "summary": "Lena's POV. Separated, Lena draws pursuit away from Odile, going dark. Odile believes she's been abandoned—or captured. Emotional beat: heartbreak weaponized into focus."
+    },
+    {
+      "n": 28,
+      "title": "Alone With the Drives",
+      "summary": "Odile's POV. Odile and Corvin reach a safehouse and begin decrypting; they find the program's endgame: the failing delegation will legitimize a shell transfer of the entire network. Emotional beat: scale dawning—this was never about them alone."
+    },
+    {
+      "n": 29,
+      "title": "Kade's Offer",
+      "summary": "Kade's POV. Kade finds Odile alone and, instead of killing her, offers defection—he wants the archive public too. Odile must decide whether a cleaner can be trusted. Emotional beat: wary alliance."
+    },
+    {
+      "n": 30,
+      "title": "The Summit's Last Day",
+      "summary": "Odile's POV. Final plenary session; Odile interprets the closing statements knowing exactly which sentences are laundering the transfer. Emotional beat: fury translated flawlessly."
+    },
+    {
+      "n": 31,
+      "title": "Signal",
+      "summary": "Lena's POV. Lena resurfaces with proof she reached the program's financial node, sending Odile a one-time cipher from their shared training lexicon. Emotional beat: relief arriving as code."
+    },
+    {
+      "n": 32,
+      "title": "Countermove",
+      "summary": "Voss's POV. Voss initiates total sanitization: wipe drives, retire all exposed assets, including delegates. The machine begins eating itself. Emotional beat: panic behind protocol."
+    },
+    {
+      "n": 33,
+      "title": "Race to the Server",
+      "summary": "Odile, Kade, and Corvin assault the Vienna node's core server before the wipe completes, while Lena disrupts power from the financial side. Emotional beat: coordinated chaos, four strangers becoming one instrument."
+    },
+    {
+      "n": 34,
+      "title": "Confrontation with Voss",
+      "summary": "Odile's POV. Odile faces Voss in the server room; he offers her reinstatement, a new identity, a clean slate. She declines in her real name. Emotional beat: the climax of identity—refusing the mask."
+    },
+    {
+      "n": 35,
+      "title": "Burning the Network",
+      "summary": "Ensemble. The archive uploads to journalists and prosecutors in three countries as the servers die; Voss is taken by his own successors rather than face exposure. Emotional beat: catharsis without triumph."
+    },
+    {
+      "n": 36,
+      "title": "Lena's Choice",
+      "summary": "Lena's POV. To cover the upload window, Lena walks into a cleaner ambush and disappears; Kade confirms contact lost. Odile refuses to mourn yet. Emotional beat: sacrifice as inheritance."
+    },
+    {
+      "n": 37,
+      "title": "Aftermath",
+      "summary": "Odile's POV. Investigations open in three capitals; delegates resign; Corvin enters protective custody. Odile's forged identities are all burned—she owns nothing but her birth name. Emotional beat: raw freedom."
+    },
+    {
+      "n": 38,
+      "title": "Testimony",
+      "summary": "Odile's POV. Odile testifies before a tribunal, speaking her real name aloud for the first time in twenty years, translating no one—not even herself. Emotional beat: quiet, earned gravity."
+    },
+    {
+      "n": 39,
+      "title": "Inheritance",
+      "summary": "Odile's POV. Sorting Lena's recovered effects, Odile finds a letter and a new go-bag, packed for two destinations. Justice outside the law, she reflects, is inherited like anything else. Emotional beat: bittersweet continuity."
+    },
+    {
+      "n": 40,
+      "title": "The Door Left Open",
+      "summary": "Odile's POV, epilogue. Months later, a postcard arrives in the training lexicon's simplest cipher: ALIVE. OWED NOTHING. Odile packs the go-bag anyway—but leaves the door unlocked. Emotional beat: hope as a deliberate choice."
+    }
+  ]
+}

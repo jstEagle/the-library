@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03676",
+  "title": "The Listening Cellar",
+  "author": "Sebastian Sandoval",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Vesper Thornbury, a property surveyor appraising a house that appraises back, documents everything, because documentation is a kind of prayer. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3676
+  }
+}

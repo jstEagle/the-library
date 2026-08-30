@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00219",
+  "title": "When the Current Turns",
+  "author": "Mara Sterling",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Zephyrine Sandoval, an archaeologist's estranged child and better digger, has spent seven years measuring life in miles rather than years. But when an expedition upriver stops answering the radio, she discovers that staying invisible was never really an option. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 219
+  }
+}

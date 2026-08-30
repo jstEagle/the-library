@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07513",
+  "title": "The Pale Terminal",
+  "author": "Gideon Blackwood",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Ansel Galloway, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. To get through this, he must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7513
+  }
+}

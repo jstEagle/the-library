@@ -1,0 +1,21 @@
+{
+  "id": "THR-08591",
+  "title": "Debt and Protocol",
+  "author": "Isandro Galloway",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Ines Delacroix, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. Now they must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8591
+  }
+}

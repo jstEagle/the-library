@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04986",
+  "title": "A Alibi for the Autopsy",
+  "author": "E. M. Nakamura",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Tamsin Iversen, a hotel concierge who notices everything, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. To get through this, he must close the one case everyone swore was closed for good before the tide gives up what it took.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4986
+  }
+}

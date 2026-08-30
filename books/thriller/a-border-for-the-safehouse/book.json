@@ -1,0 +1,21 @@
+{
+  "id": "THR-08913",
+  "title": "A Border for the Safehouse",
+  "author": "Yara Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Cyrus Sterling, a burnt analyst bounced from three agencies, has spent twenty years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. To get through this, she must extract a defector who may be the bait before the summit convenes.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8913
+  }
+}

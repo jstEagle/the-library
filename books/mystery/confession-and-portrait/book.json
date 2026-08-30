@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04823",
+  "title": "Confession and Portrait",
+  "author": "Lena Hartwell",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ansel Lockridge, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. To get through this, she must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "found family",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4823
+  }
+}

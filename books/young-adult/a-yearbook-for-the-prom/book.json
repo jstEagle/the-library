@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09846",
+  "title": "A Yearbook for the Prom",
+  "author": "Silas Fairweather",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "August Sandoval, a coder whose anonymous account knows too much, has spent three years being so careful it hurts. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. To get through this, he must tell the truth even if it costs the friendship before graduation.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9846
+  }
+}

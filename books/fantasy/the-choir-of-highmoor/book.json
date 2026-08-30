@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01252",
+  "title": "The Choir of Highmoor",
+  "author": "O. M. Whitlock",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Edmund Reyes, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1252
+  }
+}

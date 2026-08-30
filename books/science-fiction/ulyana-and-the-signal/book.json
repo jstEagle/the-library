@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07738",
+  "title": "Ulyana and the Signal",
+  "author": "Ansel Fairweather",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Zephyrine Delacroix, the caretaker of Earth's abandoned seed vault, has spent fifteen years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. To get through this, she must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7738
+  }
+}

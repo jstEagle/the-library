@@ -1,0 +1,29 @@
+{
+  "title": "The Postcards of Anderlecht",
+  "slug": "literary-fiction/the-postcards-of-anderlecht",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Underhill, a ghostwriter of other people's letters living in Brussels, has spent three years mailing postcards to her childhood home in Anderlecht—an address that burned down long ago, along with the family who never claimed her. When an elderly neighbor, Mireille, the last fluent speaker of a dying Walloon dialect, asks Ada to become her final student, Ada is forced to confront why she chose a life of borrowed words and rented rooms. As demolition of the burned house approaches, Ada discovers old photographs revealing that the stranger she's been writing to all along is herself—the child given away. In the end, Ada speaks Mireille's language aloud at the rubble's edge, claims her own name, and finally writes a postcard signed with it.",
+  "about_author": "Yara Sandoval is the pen name of a former translator who spent a decade in Brussels before returning to coastal Portugal to write. Her work explores language as inheritance and the quiet violence of belonging to no one.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Tenant",
+      "summary": "From Ada's close third-person POV, we follow her meticulous routine: drafting love letters for strangers by day, mailing postcards to the burned Anderlecht address by night. She describes herself as a tenant 'of her own life.' The emotional beat is numbness—until her landlord raises the rent and Mireille knocks on her door asking for a student, cracking the routine open."
+    },
+    {
+      "n": 2,
+      "title": "Words That Outlive Their Speakers",
+      "summary": "Alternating between Ada's POV and Mireille's, the chapters braid language lessons with Mireille's stories of wartime Anderlecht. Ada realizes the dialect contains no word for 'orphan'—only phrases meaning 'child of the fire.' Rising tension: Mireille's health fails, and she gives Ada a shoebox of photographs from the burned street, including one of a family holding a baby Ada doesn't recognize."
+    },
+    {
+      "n": 3,
+      "title": "The Stranger in the Photograph",
+      "summary": "Climax. Digging through municipal archives, Ada learns the baby in the photograph was herself, given away after the fire, and that the postcards have been addressed to her own erased history. Confronting Mireille—who knew all along—Ada rages at the betrayal, then at her parents, then at herself. The demolition notice arrives; Mireille suffers a stroke, leaving her final lesson unfinished."
+    },
+    {
+      "n": 4,
+      "title": "Signed, At Last",
+      "summary": "Resolution from Ada's POV. At Mireille's bedside, Ada recites the unfinished lesson back to her teacher, completing it herself. On demolition day, Ada stands at the rubble and speaks the dialect aloud—naming the house, the fire, the child. She writes one final postcard, addresses it to herself, signs her full name, and mails it into the future instead of the past."
+    }
+  ]
+}

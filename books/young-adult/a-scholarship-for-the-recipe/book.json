@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09552",
+  "title": "A Scholarship for the Recipe",
+  "author": "Vesper Villalobos",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Quentin Thackeray, the new kid at a school built over something old, counts days until graduation like a sentence being served. But when the teacher pairs nemesis with nemesis for a semester-long project, she discovers that staying invisible was never really an option. To get through this, she must tell the truth even if it costs the friendship before the final audition.",
+  "themes": [
+    "belonging",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9552
+  }
+}

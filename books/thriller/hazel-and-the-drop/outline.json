@@ -1,0 +1,59 @@
+{
+  "title": "Hazel and the Drop",
+  "slug": "thriller/hazel-and-the-drop",
+  "model": "stealth/ox-alpha",
+  "premise": "Felix Brightwater, a freelance interpreter for a faltering peace delegation, has spent years keeping her real identity buried — including the fact that her dead mother helped design 'Drop,' a voiceprint-activated server holding the operational keys to a covert sabotage network. When a stranger's voiceprint accidentally authenticates against Drop using a phrase only Felix's family would know, the system wakes and begins broadcasting, dragging Felix into a plot to stage a devastating 'accidental' infrastructure collapse that will bury the peace process and dozens of witnesses with it. Hunted by the network's handlers, distrusted by the delegation, and forced to trust the found family of misfits who shelter her, Felix must reach the server's physical node before the scheduled event. In the end she chooses to destroy her mother's inheritance rather than use it, sacrificing her anonymity forever to expose the conspiracy — and discovers that the family she built was worth more than the one she lost.",
+  "about_author": "N. M. Blackwood is the pen name of a former conference interpreter turned novelist who spent a decade working in conflict zones before trading the booth for the page. Blackwood writes thrillers about people who translate between worlds and pay for the privilege.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Go-Bag",
+      "summary": "Felix's POV. During a stalling peace summit in Geneva, Felix interprets a hostile exchange while mentally rehearsing her escape route, go-bag under the desk. A call from a stranger named Ivo claims her mother's voice is 'live' on a server in Tallinn. Emotional beat: the polished lie of her ordinary life beginning to crack."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "Felix's POV. She tests Ivo's claim from a hotel business center and hears her dead mother's archived voice challenge-response — and the system accepts a phrase Felix herself once recorded as a child. Someone is using her family's keys. Emotional beat: grief weaponized into fear."
+    },
+    {
+      "n": 3,
+      "title": "The Delegation Distrusts",
+      "summary": "Alternating Felix and delegation security chief Ansel's POV. Ansel flags Felix's midnight network access; she deflects, but he assigns her a minder. Meanwhile Drop pings a second authentication, confirming the network is reactivating. Emotional beat: isolation — she can trust no one and everyone."
+    },
+    {
+      "n": 4,
+      "title": "Tallinn",
+      "summary": "Felix's POV, on the run. She abandons the delegation and flies to Estonia using a forged passport from her go-bag, guided by Ivo, a former Drop technician who deserted the network years ago. Emotional beat: the vertigo of becoming the fugitive she always planned to be."
+    },
+    {
+      "n": 5,
+      "title": "The Node Beneath",
+      "summary": "Ivo's POV. He shows Felix the physical server node in a decommissioned maritime station and explains Drop's purpose: scheduling 'accidents' that erase political obstacles. The next event is set for the summit's closing ceremony — nine days out. Emotional beat: dread hardening into resolve."
+    },
+    {
+      "n": 6,
+      "title": "Found Family",
+      "summary": "Felix's POV. Ivo's household of ex-network defectors — coder Marek, forger Lenna, driver Pritt — take her in, arguing over whether using Drop to redirect the attack is safer than destroying it. Felix, who has never belonged anywhere, feels the pull of belonging. Emotional beat: warmth as vulnerability."
+    },
+    {
+      "n": 7,
+      "title": "Her Mother's Voice",
+      "summary": "Felix's POV, flashback-woven. Searching Drop's archives for an override, she finds her mother's recordings and learns her mother tried to burn the network from inside and was killed for it — and that the handlers know Felix exists. Emotional beat: inheritance revealed as both legacy and death sentence."
+    },
+    {
+      "n": 8,
+      "title": "The Minder Follows",
+      "summary": "Ansel's POV. Ansel tracks Felix to Tallinn, torn between his orders to detain her and the evidence she shows him. A handler's kill team arrives at the maritime station; Lenna is wounded covering the escape. Emotional beat: betrayal of institutions, loyalty to people."
+    },
+    {
+      "n": 9,
+      "title": "Nine Minutes",
+      "summary": "Felix and Marek's POV, intercut. At the summit's closing ceremony, the attack sequence begins. Felix reaches the node and must speak the authentication herself — using her mother's phrase, her own voice — to reach the abort command as the kill team breaches the station. Emotional beat: climax; the price of survival paid in identity."
+    },
+    {
+      "n": 10,
+      "title": "What Remains",
+      "summary": "Felix's POV. Drop is physically destroyed, the conspiracy leaks through Ansel, and Felix's cover is gone forever — but she survives, named and known, among Ivo's household. She unpacks the go-bag at last. Emotional beat: resolution; found family as the inheritance she chooses."
+    }
+  ]
+}

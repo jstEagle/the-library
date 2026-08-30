@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03778",
+  "title": "The Pale Choir",
+  "author": "Juniper Sterling",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ines Montrose, a pest controller called to something with fingerprints, has spent twenty years telling themselves the noises have explanations. But when every mirror in the house starts reflecting the room one second late, they discover that staying invisible was never really an option. Now they must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3778
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00262",
+  "title": "Monsoon and Provision",
+  "author": "Kestrel Quintana",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Rafael Nystrom, a salvage diver working a wreck the navy won't discuss, keeps moving because stopping costs more. Then the river gives up a chest stamped with a dead nation's seal — and they are pulled straight into the middle of it. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the dry season ends.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 262
+  }
+}

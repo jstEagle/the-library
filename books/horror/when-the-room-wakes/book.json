@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03535",
+  "title": "When the Room Wakes",
+  "author": "Rosalind Almeida",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Mara Hartwell, a pest controller called to something with fingerprints, documents everything, because documentation is a kind of prayer. Then the village's church bell rings although the bell was melted down in 1911 — and he is pulled straight into the middle of it. To get through this, he must learn the song's last verse without singing along before the last resident signs the papers.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3535
+  }
+}

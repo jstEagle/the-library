@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00881",
+  "title": "Noor and the Ember",
+  "author": "R. M. Montrose",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "August Eriksen, a beast-speaker hiding a forbidden gift, has spent fifteen years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 881
+  }
+}

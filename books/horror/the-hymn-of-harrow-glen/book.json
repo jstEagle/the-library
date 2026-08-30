@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03516",
+  "title": "The Hymn of Harrow Glen",
+  "author": "Coral Reyes",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wendell Okonkwo, an urban explorer mapping tunnels that aren't on any survey, doesn't believe, has never believed, will not begin believing now. But when the childhood imaginary friend is waiting on the porch, unchanged, she discovers that staying invisible was never really an option. To get through this, she must learn the song's last verse without singing along before the well refills.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3516
+  }
+}

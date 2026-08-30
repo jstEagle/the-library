@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01984",
+  "title": "When the Garden Sings Anew",
+  "author": "O. M. Thackeray",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Lior Okonkwo, the youngest member of a dying guild, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1984
+  }
+}

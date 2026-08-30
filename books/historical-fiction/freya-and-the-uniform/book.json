@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02899",
+  "title": "Freya and the Uniform",
+  "author": "Lena Thornbury",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Coral Dravenmoor, a mapmaker's apprentice finishing the atlas the master died for, measures the world in what can be carried when the orders come. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and she is pulled straight into the middle of it. To get through this, she must keep a promise made in peacetime to someone now declared enemy before the century turns.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2899
+  }
+}

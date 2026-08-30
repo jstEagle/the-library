@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02297",
+  "title": "When the Veil Sings Revisited",
+  "author": "Ulyana Eriksen",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ansel Ravensworth, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then the old gods begin answering prayers again — and he is pulled straight into the middle of it. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2297
+  }
+}

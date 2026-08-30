@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02331",
+  "title": "The Letter of Nagasaki's harbor",
+  "author": "Juniper Dravenmoor",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Oscar Blackwood, an apprentice clockmaker summoned to repair the observatory's master clock, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2331
+  }
+}

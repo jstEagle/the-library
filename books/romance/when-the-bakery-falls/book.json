@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06451",
+  "title": "When the Bakery Falls",
+  "author": "Ada Underhill",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Oscar Underhill, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and he is pulled straight into the middle of it. To get through this, he must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6451
+  }
+}

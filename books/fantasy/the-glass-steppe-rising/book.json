@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00727",
+  "title": "the Glass Steppe Rising",
+  "author": "Hazel Montrose",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Beatrix Montrose, a cartographer of unmapped realms, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 727
+  }
+}

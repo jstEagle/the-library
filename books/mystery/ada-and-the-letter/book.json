@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05639",
+  "title": "Ada and the Letter",
+  "author": "Noor Amberdale",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Coral Nystrom, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. Then a body turns up dressed in clothes stolen from the witness's own closet — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5639
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05158",
+  "title": "A Witness for the Alibi",
+  "author": "Isandro Whitlock",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Astrid Blackwood, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. To get through this, they must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5158
+  }
+}

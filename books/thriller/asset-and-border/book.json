@@ -1,0 +1,21 @@
+{
+  "id": "THR-08729",
+  "title": "Asset and Border",
+  "author": "Rosalind Galloway",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Marguerite Sandoval, a private security contractor guarding clients nobody trusts, has spent twelve years following rules that keep getting rewritten. But when a voiceprint unlocks a server on another continent, they discover that staying invisible was never really an option. To get through this, they must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8729
+  }
+}

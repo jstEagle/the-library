@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01802",
+  "title": "Ashvale Rising Anew",
+  "author": "Odile Montrose",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Freya Reyes, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1802
+  }
+}

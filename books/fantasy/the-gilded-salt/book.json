@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00748",
+  "title": "The Gilded Salt",
+  "author": "M. M. Winterbourne",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Sebastian Kavanagh, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 748
+  }
+}

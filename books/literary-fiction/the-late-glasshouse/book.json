@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04676",
+  "title": "The Late Glasshouse",
+  "author": "Sable Thackeray",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Xanthe Marchetti, a piano tuner who hears the house's history in its radiators, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4676
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08646",
+  "title": "Gideon and the Contact",
+  "author": "Freya Zhou",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jonah Brightwater, a fixer for an embassy that doesn't officially exist, has spent five years following rules that keep getting rewritten. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. To get through this, she must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8646
+  }
+}

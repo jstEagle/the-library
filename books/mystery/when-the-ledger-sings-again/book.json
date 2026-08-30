@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05761",
+  "title": "When the Ledger Sings Again",
+  "author": "Emrys Thornbury",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Astrid Nystrom, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5761
+  }
+}

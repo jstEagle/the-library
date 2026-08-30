@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07917",
+  "title": "Orbit and Protocol",
+  "author": "Theo Pemberton",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Petra Joubert, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. To get through this, he must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7917
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00739",
+  "title": "When the Hollow Sings",
+  "author": "Tamsin Voss",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Dominic Pemberton, a beast-speaker hiding a forbidden gift, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 739
+  }
+}

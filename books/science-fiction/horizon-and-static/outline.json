@@ -1,0 +1,59 @@
+{
+  "title": "Horizon and Static",
+  "slug": "science-fiction/horizon-and-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Vesper Winterbourne has spent six years alone tending Relay Station Kestrel-9, her only companions the beacon's hum and a patched-together AI she calls Lark. When the freighter Cassiopeia returns from a decade-long deep-space jump with its crew mysteriously de-aged, Vesper discovers the beacon she maintains has been broadcasting an unauthorized signal — one that rewrites time for anyone who hears it. Racing a closing jump window, Vesper and the ship's youngest-seeming survivor, engineer Tomas Reyes, must carry a counter-signal to the relay at the edge of dead space before the corrupted broadcast reaches inhabited systems. At the edge relay, Vesper learns the beacon was commissioned by her own pre-mission self as a failsafe against a corporate plot to weaponize temporal drift — and that shutting it down means erasing every version of herself that remembers why. She chooses duty over the chance to restore what was lost, sends the counter-signal home with Tomas and the found family of the Cassiopeia's crew, and stays behind as the station's last keeper, finally at peace with the static.",
+  "about_author": "Marguerite Oyelaran is a former radio astronomer who traded telescope shifts for fiction after a decade listening to signals nobody else believed mattered. She writes lonely people in vast places, and lives off-grid with three cats and a shortwave rig.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Hum Nobody Wrote",
+      "summary": "Vesper's POV. Establishes her solitary routine aboard Kestrel-9: calibrating the beacon, bantering with Lark, logging anomalies she's stopped reporting to a corporation that stopped answering years ago. The emotional beat is comfortable loneliness — until the beacon emits a harmonic pattern Vesper never programmed, and long-range sensors flag an inbound ship on a trajectory no living pilot should survive."
+    },
+    {
+      "n": 2,
+      "title": "Cassiopeia, Running Backward",
+      "summary": "Vesper's POV. The freighter docks; its crew of twelve emerges biologically twenty years younger than their service records, memories intact but bodies rewound. Their captain, Ilsa Moreau, is now younger than her own daughter would be. Vesper recognizes the beacon's new harmonic in their medical scans. Emotional beat: dread blooming under hospitality as she realizes her station caused this."
+    },
+    {
+      "n": 3,
+      "title": "What the Beacon Remembers",
+      "summary": "Tomas Reyes' POV, the crew's youngest-appearing engineer. He and Vesper dig into the beacon's firmware and find buried code older than the station's commissioning papers — code signed with Vesper's own authorization ID, dated six years before she arrived. Emotional beat: vertigo and mutual suspicion turning into reluctant partnership as they realize someone planned this."
+    },
+    {
+      "n": 4,
+      "title": "Static Between Stars",
+      "summary": "Vesper's POV. A corporate response vessel arrives — not to help, but to seize the beacon and silence witnesses. Captain Moreau refuses to surrender her crew to 'containment,' and the standoff turns violent; the Cassiopeia barely escapes with Vesper and Tomas aboard, leaving Kestrel-9 burning behind them. Emotional beat: grief for the only home she had, hardening into resolve."
+    },
+    {
+      "n": 5,
+      "title": "Twelve Strangers, One Table",
+      "summary": "Tomas' POV. Aboard the fleeing Cassiopeia, the de-aged crew fractures — some want to sell the signal's secret, some want it destroyed. Over shared meals and repaired bulkheads, Vesper stops being cargo and becomes crew. Emotional beat: found family forming in the galley, warmth sharpening the stakes because now there are people worth losing."
+    },
+    {
+      "n": 6,
+      "title": "The Jump Window",
+      "summary": "Vesper's POV. Navigation reveals the only route to the edge relay passes through dead space reachable via a jump window that closes in nine days — and the corrupted beacon signal, still broadcasting from a backup array, will reach inhabited systems in eleven. They commit to the impossible timeline. Emotional beat: fear transmuted into purpose; first open admission between Vesper and Tomas that they trust each other."
+    },
+    {
+      "n": 7,
+      "title": "Dead Space, Living Ghosts",
+      "summary": "Tomas' POV. In dead space the ship's systems begin experiencing temporal echoes — corridors flickering with versions of moments not yet happened. Vesper experiences an echo of herself at the edge relay, speaking words she doesn't yet understand. Emotional beat: intimacy deepening through shared vulnerability; Tomas confesses he volunteered for the deep jump to escape a life he regretted, and got his youth back as a curse."
+    },
+    {
+      "n": 8,
+      "title": "The Edge of Everything",
+      "summary": "Vesper's POV. They reach the edge relay and find it staffed by automated drones maintaining a second beacon — and a sealed archive containing recordings of Vesper's earlier self, who commissioned the original signal as a trap for the corporation's temporal weapons program, then wiped her own memory to hide it. Emotional beat: shattering revelation; Vesper must decide whether she is the author of the catastrophe or its cure."
+    },
+    {
+      "n": 9,
+      "title": "Counter-Signal",
+      "summary": "Tomas' POV. The corporate fleet arrives at the edge, forcing a desperate choice: transmit the counter-signal through the closing window, or hold the archive evidence that could destroy the corporation legally. Moreau chooses transmission; Vesper stays at the console under fire to keep the beam aligned while Tomas and the crew fight to protect her. Climax: the counter-signal fires, unraveling the corruption across the network as the window seals forever."
+    },
+    {
+      "n": 10,
+      "title": "Horizon, Holding",
+      "summary": "Vesper's POV, epilogue-narration. The counter-signal stabilizes the affected crews where they are — young, alive, un-rewound — and the evidence reaches the colonies anyway, carried in Moreau's testimony. The corporation falls; the crew offers Vesper a ride home, but she chooses to remain as keeper of the edge relay, with Lark restored and a new beacon humming honest frequencies. Final beat: love against duty resolved — Tomas promises to return when the next supply run allows, and for the first time, the static sounds like company."
+    }
+  ]
+}

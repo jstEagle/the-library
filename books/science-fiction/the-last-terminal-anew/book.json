@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08325",
+  "title": "The Last Terminal Anew",
+  "author": "Dominic Almeida",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Zephyrine Sterling, the last human technician on an automated relay station, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8325
+  }
+}

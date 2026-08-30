@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08142",
+  "title": "Machine and Gravity Again",
+  "author": "Juniper Galloway",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Elodie Marchetti, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. But when a ship returns from deep space with everyone aboard aged backward, he discovers that staying invisible was never really an option. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8142
+  }
+}

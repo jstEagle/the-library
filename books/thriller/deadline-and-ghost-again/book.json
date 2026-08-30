@@ -1,0 +1,21 @@
+{
+  "id": "THR-09374",
+  "title": "Deadline and Ghost Again",
+  "author": "Sable Whitlock",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "August Winterbourne, a hostage negotiator with one failure still on the board, has spent seven years following rules that keep getting rewritten. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9374
+  }
+}

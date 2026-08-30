@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08125",
+  "title": "Xanthe and the Vector",
+  "author": "Freya Okonkwo",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Ivo Nystrom, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. But when a ship returns from deep space with everyone aboard aged backward, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8125
+  }
+}

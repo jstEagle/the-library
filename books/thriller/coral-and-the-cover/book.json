@@ -1,0 +1,21 @@
+{
+  "id": "THR-09036",
+  "title": "Coral and the Cover",
+  "author": "Tamsin Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Beatrix Blackwood, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. To get through this, they must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "memory",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9036
+  }
+}

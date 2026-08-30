@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04641",
+  "title": "Glasshouse and Weather",
+  "author": "Lena Vane",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Wren Crane, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. Now they must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4641
+  }
+}

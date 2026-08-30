@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00975",
+  "title": "A Spire for the Oath",
+  "author": "Felix Blackwood",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Sebastian Reyes, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 975
+  }
+}

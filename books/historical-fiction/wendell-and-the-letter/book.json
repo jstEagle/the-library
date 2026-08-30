@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02868",
+  "title": "Wendell and the Letter",
+  "author": "Petra Winterbourne",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Mara Eastwick, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. But when the army requisitions the town and the ledger with all the names, she discovers that staying invisible was never really an option. To get through this, she must finish the work while the workshop still stands before the armistice is signed — or isn't.",
+  "themes": [
+    "found family",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2868
+  }
+}

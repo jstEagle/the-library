@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00140",
+  "title": "When the Wreck Wakes",
+  "author": "Casper Vasquez",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Beatrix Marchetti, a railroad engineer with a map of closed lines, has spent twelve years measuring life in miles rather than years. Then the tide reveals a cave that legends charge admission to — and he is pulled straight into the middle of it. Now he must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 140
+  }
+}

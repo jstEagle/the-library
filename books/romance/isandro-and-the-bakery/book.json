@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06787",
+  "title": "Isandro and the Bakery",
+  "author": "E. M. Winterbourne",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Gideon Vasquez, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and he is pulled straight into the middle of it. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6787
+  }
+}

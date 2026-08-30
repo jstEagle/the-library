@@ -1,0 +1,59 @@
+{
+  "title": "When the Echo Wakes",
+  "slug": "science-fiction/when-the-echo-wakes",
+  "model": "stealth/ox-alpha",
+  "premise": "Mara Crane, the last active terraformer on colony world Vesper-9, tends a greenhouse built for settlers who will never arrive, recording daily logs of a planet officially declared successful decades ago. When they discover an impossible name—Elias Voss, their long-dead partner—on the manifest of a ship that never launched, Mara realizes the corporation erased not just the colony's failure but its people, and that someone is now trying to un-erase them. Pursued by a corporate auditor who may be ally or executioner, Mara races to the edge-of-space relay to broadcast the colony's true history before the archive is purged. In the end, Mara chooses truth over safety, transmitting everything—including their own complicity—and stays behind to keep the garden alive as the signal carries Vesper-9's memory to the stars.",
+  "about_author": "Sebastian Ashgrove is the pen name of a former agricultural engineer who spent six years designing closed-loop habitats for extreme climates before turning to fiction. They write quiet, character-driven science fiction about people who tend living things in places designed to forget them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Garden for No One",
+      "summary": "Mara's POV. Establishes daily life on Vesper-9: tending the greenhouse, logging soil data no one reads, speaking aloud to Elias's memory. The emotional beat is tender loneliness—the ritual of care as both devotion and denial. Ends with Mara recording log entry 4,000, addressed to settlers who will never come."
+    },
+    {
+      "n": 2,
+      "title": "Manifest of Ghosts",
+      "summary": "Mara's POV. While repairing the colony's ancient records terminal, Mara finds the manifest of the Meridian, a transport listed as never flown—with Elias Voss among forty names of colonists who supposedly never existed. The beat is vertigo: grief curdling into suspicion. Mara realizes the official record and their own memories cannot both be true."
+    },
+    {
+      "n": 3,
+      "title": "What the Soil Remembers",
+      "summary": "Mara's POV. Digging at coordinates from the false manifest, Mara uncovers a mass grave marker and personal effects—proof of a second settlement wiped from history. Flashbacks reveal Elias died in the collapse the corporation blamed on 'environmental anomaly.' The beat is grief made furious; Mara decides to find out who signed the erasure."
+    },
+    {
+      "n": 4,
+      "title": "The Auditor Arrives",
+      "summary": "Auditor Ilsa Reyes's POV. A corporate ship lands unannounced; Reyes has been sent to purge Vesper-9's archives ahead of a merger. She expects an abandoned site but finds Mara alive—a liability. The beat is cold professionalism masking unease, as Reyes recognizes Mara's name from a file she was ordered never to open."
+    },
+    {
+      "n": 5,
+      "title": "Two Liars at One Table",
+      "summary": "Alternating POV. Mara hides what they've found while probing Reyes's purpose; Reyes conceals her orders while assessing Mara as a threat. Over shared rations, each lies fluently—and each catches the other lying. The beat is wary mutual recognition: two people keeping the same secret for different reasons."
+    },
+    {
+      "n": 6,
+      "title": "Signal in Dead Space",
+      "summary": "Reyes's POV. Reyes intercepts a fragmentary transmission from beyond the relay—an automated distress beacon from the Meridian, still looping after thirty years. Someone aboard survived long enough to send it. Shaken, she shows Mara, breaking her own protocol. The beat is the first crack in her loyalty; duty begins to feel like complicity."
+    },
+    {
+      "n": 7,
+      "title": "The Long Road Out",
+      "summary": "Mara's POV. Fleeing together before Reyes's support team arrives to finish the purge, they cross the dying terraformed landscape toward the relay—through failed forests and Elias's unfinished irrigation canals. Mara confesses they once reported a sabotage they didn't commit to protect Elias, enabling the cover-up. The beat is confession as survival: love against duty, finally spoken."
+    },
+    {
+      "n": 8,
+      "title": "Purge Protocol",
+      "summary": "Reyes's POV. Her team reaches the relay first and begins wiping the archive; Reyes must decide whether to help or stop them. She sabotages the deletion quietly, buying hours, and is caught by her own second-in-command. The beat is betrayal inverted—loyalty to truth over loyalty to employer—at devastating personal cost."
+    },
+    {
+      "n": 9,
+      "title": "Everything We Buried",
+      "summary": "Alternating POV, climax. With the relay half-purged and Reyes detained, Mara broadcasts the full record: the collapse, the graves, the forty names, their own confession. The corporate response jams the uplink; Mara holds the transmitter manually as systems burn out around them, Elias's name going out last. The beat is sacrifice—truth leaving the body like breath."
+    },
+    {
+      "n": 10,
+      "title": "The Echo Wakes",
+      "summary": "Reyes's POV, resolution. Months later, the transmission has reached inhabited space; inquiries begin, and the forty names are being restored to the record. Reyes, dismissed but free, returns to Vesper-9 to find Mara alive in the greenhouse, planting a new row. The beat is quiet hope: memory kept by choice, a garden finally tended for someone who might come."
+    }
+  ]
+}

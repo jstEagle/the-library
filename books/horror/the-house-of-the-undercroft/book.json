@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03413",
+  "title": "The House of the Undercroft",
+  "author": "Beatrix Sterling",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Wren Dravenmoor, a twin who came home to bury the wrong sibling, has spent twelve years telling themselves the noises have explanations. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. To get through this, they must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3413
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09095",
+  "title": "Ivo and the Debt",
+  "author": "Ansel Joubert",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Marguerite Halloran, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. To get through this, they must extract a defector who may be the bait before the summit convenes.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9095
+  }
+}

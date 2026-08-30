@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02463",
+  "title": "Jude and the Typewriter",
+  "author": "Vesper Amberdale",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Elodie Sterling, a typeface cutter's daughter in a print shop on the eve of a revolution, believes history happens to other people, elsewhere. Then the bridge — the only road out — closes for the season — and he is pulled straight into the middle of it. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2463
+  }
+}

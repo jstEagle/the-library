@@ -1,0 +1,21 @@
+{
+  "id": "THR-09221",
+  "title": "Kestrel and the Extraction",
+  "author": "Ines Thackeray",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Silas Eastwick, a crash investigator whose family died in row twelve, keeps a go-bag packed and a lie polished. Then the safe house is listed for sale — with photos of the inside — and they are pulled straight into the middle of it. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9221
+  }
+}

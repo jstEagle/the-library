@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03272",
+  "title": "The Sleeping Winter",
+  "author": "Xanthe Crane",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Lior Sandoval, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. But when all the photographs from grandma's house now include an extra chair, he discovers that staying invisible was never really an option. To get through this, he must finish the ritual the founders started before the harvest moon rises.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3272
+  }
+}

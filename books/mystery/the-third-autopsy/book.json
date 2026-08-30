@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04865",
+  "title": "The Third Autopsy",
+  "author": "Ivo Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Cyrus Coldharbour, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, she discovers that staying invisible was never really an option. To get through this, she must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4865
+  }
+}

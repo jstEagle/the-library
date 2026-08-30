@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03341",
+  "title": "House and Harvest",
+  "author": "Petra Whitlock",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Ansel Thornbury, a property surveyor appraising a house that appraises back, doesn't believe, has never believed, will not begin believing now. But when the childhood imaginary friend is waiting on the porch, unchanged, they discover that staying invisible was never really an option. To get through this, they must return what was taken in 1974 before the well refills.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3341
+  }
+}

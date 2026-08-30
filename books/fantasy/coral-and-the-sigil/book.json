@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00908",
+  "title": "Coral and the Sigil",
+  "author": "Tamsin Sterling",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Okonkwo, a beast-speaker hiding a forbidden gift, knows every smuggler's road through the Thornfell mountains. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. To get through this, he must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 908
+  }
+}

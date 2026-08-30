@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04217",
+  "title": "The Blue Hour of the coast road",
+  "author": "Kestrel Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Bram Joubert, a restaurant critic who has forgotten how food tastes, keeps a careful inventory of everything unsaid. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. To get through this, he must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4217
+  }
+}

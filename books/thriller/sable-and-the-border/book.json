@@ -1,0 +1,21 @@
+{
+  "id": "THR-09053",
+  "title": "Sable and the Border",
+  "author": "Cyrus Vane",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Yara Vasquez, a crash investigator whose family died in row twelve, keeps a go-bag packed and a lie polished. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9053
+  }
+}

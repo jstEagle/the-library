@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02334",
+  "title": "The Compass of the Cape Route",
+  "author": "Gideon Yarrow",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Noor Montrose, a pearl diver's child indentured to a trading company, measures the world in what can be carried when the orders come. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2334
+  }
+}

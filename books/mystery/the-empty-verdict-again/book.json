@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05718",
+  "title": "The Empty Verdict Again",
+  "author": "Felix Voss",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Sable Amberdale, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5718
+  }
+}

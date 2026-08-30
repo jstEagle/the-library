@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00721",
+  "title": "Jude and the Spire",
+  "author": "Hazel Winterbourne",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.6,
+  "blurb": "Noor Nakamura, a royal food-taster building immunity one dish at a time, has spent twenty years selling small charms in a city that outlawed magic. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 721
+  }
+}

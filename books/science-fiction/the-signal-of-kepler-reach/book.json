@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07815",
+  "title": "The Signal of Kepler Reach",
+  "author": "Odile Delacroix",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Kestrel Zhou, a starship navigator haunted by the backups sleeping in the hold, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7815
+  }
+}

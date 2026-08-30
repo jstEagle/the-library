@@ -1,0 +1,21 @@
+{
+  "id": "THR-09122",
+  "title": "The Asset of the Free Port",
+  "author": "Quentin Whitlock",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Kestrel Montrose, a fixer for an embassy that doesn't officially exist, has spent ten years following rules that keep getting rewritten. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9122
+  }
+}

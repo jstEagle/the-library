@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08093",
+  "title": "The Quiet Signal Anew",
+  "author": "Lior Villalobos",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Mara Pemberton, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8093
+  }
+}

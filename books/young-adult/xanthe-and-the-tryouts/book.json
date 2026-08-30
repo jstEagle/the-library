@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09514",
+  "title": "Xanthe and the Tryouts",
+  "author": "Zephyrine Villalobos",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Zephyrine Oyelaran, the only out kid in a town of nine hundred, stays under the radar: head down, grades up, locker shut. Then a best friend goes missing, leaving only a set of keys behind — and she is pulled straight into the middle of it. To get through this, she must decide who to be when the labels come off before the final audition.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9514
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01197",
+  "title": "A Choir for the Crown",
+  "author": "Sebastian Galloway",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Bram Winterbourne, the youngest member of a dying guild, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1197
+  }
+}

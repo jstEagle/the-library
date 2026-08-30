@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04440",
+  "title": "Radiators and Postcards",
+  "author": "Quentin Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Isandro Sandoval, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, he discovers that staying invisible was never really an option. To get through this, he must say goodbye properly, at last, out loud before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4440
+  }
+}

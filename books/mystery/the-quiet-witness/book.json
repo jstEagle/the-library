@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05007",
+  "title": "The Quiet Witness",
+  "author": "Marguerite Zhou",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Jude Blackwood, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "memory",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5007
+  }
+}

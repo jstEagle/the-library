@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04610",
+  "title": "Postcards and Language",
+  "author": "Ulyana Nystrom",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Cyrus Villalobos, a restaurant critic who has forgotten how food tastes, moves through the days like a tenant, not an owner. Then a song on the radio is one that was written and never recorded — and he is pulled straight into the middle of it. Now he must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4610
+  }
+}

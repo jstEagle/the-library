@@ -1,0 +1,209 @@
+{
+  "title": "The High Landfall",
+  "slug": "adventure/the-high-landfall",
+  "model": "stealth/ox-alpha",
+  "premise": "Cyrus Kavanagh and his small salvage crew have survived a decade in the grey zone between legal diving and outright piracy, working wrecks the navy quietly prefers forgotten. When his old rival Maren Voss hires them to reach the Corvane, a wartime transport that sank with a sealed manifest and a passenger list someone powerful wants buried, Cyrus realizes the job is the one his late captain swore off after losing two divers—and that Maren knows more about that night than she's admitted. Racing the monsoon and a navy-backed salvage fleet, the crew discovers the wreck holds not treasure but evidence: proof that their own captain was paid to silence survivors. In the end, Cyrus must choose between loyalty to his dead mentor's memory and the truth that will cost the crew everything; he surfaces with the manifest, hands it to a journalist, and lets the fleet take the empty wreck as the storm finally makes landfall.",
+  "about_author": "Hazel Blackwood is the pen name of a former merchant marine officer who spent eleven years on salvage tugs out of Southeast Asian ports before turning to writing full-time. Her novels are known for salt-bleached realism, tight ensemble casts, and moral questions that surface slowly, like bodies in deep water.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Six Fathoms of Quiet",
+      "summary": "Cyrus Kavanagh dives a decommissioned patrol boat off Tanah Merah, establishing his methodical, detached relationship with the sea. POV: Cyrus. Emotional beat: competent solitude masking an old wound he refuses to name."
+    },
+    {
+      "n": 2,
+      "title": "The Crew That Measures in Miles",
+      "summary": "Aboard the tug Perdita, we meet engineer Devi Okafor, deckhand Tomas Reyes, and cook-navigator Auntie Bee, whose banter reveals ten years of shared history. POV: Devi. Emotional beat: found-family warmth with hairline cracks of unspoken grief beneath it."
+    },
+    {
+      "n": 3,
+      "title": "A Wreck the Navy Won't Discuss",
+      "summary": "Cyrus is warned off a survey site by a naval patrol whose courtesy feels rehearsed. He logs coordinates anyway. POV: Cyrus. Emotional beat: curiosity kindling against instinct to stay invisible."
+    },
+    {
+      "n": 4,
+      "title": "Maren Voss at the Harbour Bar",
+      "summary": "Maren Voss, Cyrus's rival from their certification days, offers a contract: locate the Corvane before a corporate salvage fleet does. The pay is obscene; the target is the one ship name no one aboard says aloud. POV: Maren. Emotional beat: charm stretched over calculation, and a flicker of genuine fear when Cyrus hesitates."
+    },
+    {
+      "n": 5,
+      "title": "The Sworn-Off Job",
+      "summary": "Devi confronts Cyrus privately: the Corvane is where Captain Elias Kavanagh lost divers Rook and Sela ten years ago, the night before he forbade anyone to speak of it. POV: Devi. Emotional beat: loyalty tested by the question of what Elias was protecting—his crew or himself."
+    },
+    {
+      "n": 6,
+      "title": "Signing the Devil's Manifest",
+      "summary": "Against his better judgment, Cyrus signs Maren's contract for reasons he can't fully articulate: debt, pride, and the need to know what really happened below. POV: Cyrus. Emotional beat: self-betrayal dressed up as courage."
+    },
+    {
+      "n": 7,
+      "title": "Outfitting the Perdita",
+      "summary": "The crew refits in a feverish week—new sonar, patched hull, borrowed decompression gear of dubious provenance. Tomas notices Maren's liaison officer photographing their equipment lists. POV: Tomas. Emotional beat: nervous energy and gallows humor hardening into resolve."
+    },
+    {
+      "n": 8,
+      "title": "First Tide Out",
+      "summary": "The Perdita slips harbor ahead of schedule, dodging a customs inspection Maren seems to have arranged too conveniently. POV: Cyrus. Emotional beat: exhilaration shadowed by the sense of being a piece on someone else's board."
+    },
+    {
+      "n": 9,
+      "title": "Reading the Old Charts",
+      "summary": "Auntie Bee deciphers Elias's hand-annotated charts, revealing he'd mapped the Corvane's approach channel years before her sinking—as if he knew she'd go down. POV: Auntie Bee. Emotional beat: dawning unease that reframes their dead captain."
+    },
+    {
+      "n": 10,
+      "title": "The Fleet on the Horizon",
+      "summary": "They spot the corporate salvage vessel Halcyon Dawn staging at a supply island, flying flags that don't match its registry. Maren's liaison insists they press on. POV: Maren. Emotional beat: her control slipping as the race becomes real."
+    },
+    {
+      "n": 11,
+      "title": "Squall Line",
+      "summary": "A pre-monsoon squall nearly swamps the tug; Tomas saves Devi from being swept overboard, cementing a bond neither names. POV: Tomas. Emotional beat: terror transmuted into trust."
+    },
+    {
+      "n": 12,
+      "title": "Elias's Last Logbook",
+      "summary": "In a sealed locker Cyrus has never opened, they find Elias's final logbook: entries coded in dive-table shorthand, ending mid-sentence the night of the disaster. POV: Cyrus. Emotional beat: grief reopened, now laced with suspicion."
+    },
+    {
+      "n": 13,
+      "title": "Decoding the Shorthand",
+      "summary": "Devi cracks the code over three sleepless nights: Elias recorded payments received from a shipping consortium—payments tied to the Corvane's sailing date. POV: Devi. Emotional beat: betrayal crystallizing into cold clarity."
+    },
+    {
+      "n": 14,
+      "title": "What the Navy Paid For",
+      "summary": "Maren admits part of the truth: the Corvane carried documents proving the consortium scuttled her for insurance while passengers were still aboard. She wants the manifest; she doesn't say why. POV: Maren. Emotional beat: confession as leverage, vulnerability as tactic."
+    },
+    {
+      "n": 15,
+      "title": "Five Tides",
+      "summary": "The monsoon's leading edge is visible on satellite feeds. The crew votes—barely—to continue. Auntie Bee abstains, staring at Elias's chart. POV: Auntie Bee. Emotional beat: the family fracturing along the fault line of the dead man's legacy."
+    },
+    {
+      "n": 16,
+      "title": "The Approach Channel",
+      "summary": "Navigating Elias's annotated channel by night, they thread a reef field the fleet's charts mark as impassable—their first real lead. POV: Cyrus. Emotional beat: grim pride in Elias's skill tangled with anger at his secrets."
+    },
+    {
+      "n": 17,
+      "title": "Contact",
+      "summary": "Sonar paints the Corvane resting in a trench at 62 meters—deeper than safe air, marginal for their mixed-gas rig. POV: Devi. Emotional beat: awe curdling into dread at the numbers."
+    },
+    {
+      "n": 18,
+      "title": "Halcyon Dawn Arrives",
+      "summary": "The fleet ship anchors six miles off, too deep-diving to beat them down but broadcasting a naval 'restricted zone' notice that gives them 48 hours of legal cover—or pretext to board. POV: Maren. Emotional beat: her mask cracking; she begs Cyrus to dive tonight."
+    },
+    {
+      "n": 19,
+      "title": "First Descent",
+      "summary": "Cyrus and Tomas reach the Corvane's hull, finding blast damage inconsistent with any official account. They recover a sealed strongbox before narcosis forces ascent. POV: Cyrus. Emotional beat: the past made physical—rust, bone-white coral, and a hole punched inward."
+    },
+    {
+      "n": 20,
+      "title": "The Strongbox",
+      "summary": "On deck, the box yields a partial passenger manifest and a letter implicating the consortium—and naming Elias as the diver hired to confirm the scuttling charges were set. POV: Devi. Emotional beat: the floor dropping out of everything Cyrus believed."
+    },
+    {
+      "n": 21,
+      "title": "Confrontation in the Wheelhouse",
+      "summary": "Cyrus accuses Maren of knowing all along; she reveals her sister was on the passenger list, and that she hired him because Elias's crew was the only one with the charts to get there. POV: Maren. Emotional beat: rage giving way to something rawer—two people orphaned by the same lie."
+    },
+    {
+      "n": 22,
+      "title": "Four Tides",
+      "summary": "The Halcyon Dawn launches a ROV toward the wreck. Devi proposes jamming its telemetry from the reef shelf—a crime that would end them if caught. POV: Devi. Emotional beat: the crew crossing from grey operators to outright outlaws, together."
+    },
+    {
+      "n": 23,
+      "title": "Jamming the Ghost",
+      "summary": "Tomas and Devi spoof the ROV onto a false wreck signature while Cyrus runs interference on the radio. It works—but the fleet now knows someone skilled is down there. POV: Tomas. Emotional beat: triumphant adrenaline followed immediately by the chill of escalation."
+    },
+    {
+      "n": 24,
+      "title": "Navy Boarding Party",
+      "summary": "A patrol launch boards under the restricted-zone order. Cyrus hides the manifest in the ballast tank while Auntie Bee charms the lieutenant with tea and impeccable paperwork. POV: Auntie Bee. Emotional beat: terror performed as hospitality; the family protecting its own."
+    },
+    {
+      "n": 25,
+      "title": "Three Tides",
+      "summary": "With the fleet distracted by a staged engine fire, Cyrus and Maren make a second descent together—past the point of no return on their gas plan. POV: Cyrus. Emotional beat: reluctant partnership becoming real in the dark."
+    },
+    {
+      "n": 26,
+      "title": "Into the Corvane",
+      "summary": "Inside the flooded cargo deck they find the strongroom and, wedged in the escape hatch, the remains of Sela—with Elias's knife beside her. POV: Cyrus. Emotional beat: devastating implication that Elias cut her line, or stayed with her at the end; the ambiguity is unbearable."
+    },
+    {
+      "n": 27,
+      "title": "The Full Manifest",
+      "summary": "Maren recovers the complete manifest and the consortium's payment ledger. On ascent, her regulator fails at 30 meters; Cyrus shares his gas, burning their safety margin entirely. POV: Maren. Emotional beat: gratitude she cannot voice, and the first honest thing between them."
+    },
+    {
+      "n": 28,
+      "title": "Two Tides",
+      "summary": "Surface interval in a hidden cove. The crew debates: sell to Maren's backers, bury it, or give it to journalist Priya Nair, whom Auntie Bee has quietly been signaling since chapter nine. POV: Auntie Bee. Emotional beat: the vote that defines them—not what they'll take, but what they'll tell."
+    },
+    {
+      "n": 29,
+      "title": "Priya Nair",
+      "summary": "Priya arrives by fishing boat with a satellite uplink and a history of buried stories. She warns them: publish this, and every one of them becomes unemployable, hunted, or worse. POV: Priya. Emotional beat: sober clarity—an outsider holding up the mirror of consequence."
+    },
+    {
+      "n": 30,
+      "title": "What Elias Would Have Wanted",
+      "summary": "Cyrus rereads the logbook's final entry and finds the sentence completed in different ink: 'If you're reading this, finish it.' He understands Elias spent his last decade trying to atone. POV: Cyrus. Emotional beat: forgiveness arriving too late to say aloud, but exactly in time to act on."
+    },
+    {
+      "n": 31,
+      "title": "One Tide",
+      "summary": "The monsoon's outer bands hit. The Halcyon Dawn makes its move—boarding teams, a warrant, and an offer: hand over the manifest and walk away rich. Maren's backers have sold her out. POV: Maren. Emotional beat: her last illusion dying; she chooses the crew over the payout."
+    },
+    {
+      "n": 32,
+      "title": "Storm Landfall",
+      "summary": "The monsoon makes landfall early and violent. The Perdita must run or sink; the transfer to Priya's boat must happen inside the storm window or not at all. POV: Devi. Emotional beat: fear stripped to essentials—hands, lines, and trust."
+    },
+    {
+      "n": 33,
+      "title": "The Transfer",
+      "summary": "Amid forty-knot gusts, they pass the manifest and ledger to Priya in a waterproof case via heaving line. A fleet boarding launch capsizes; Cyrus turns back to pull two sailors from the water—including the lieutenant from chapter 24. POV: Cyrus. Emotional beat: the choice that proves who they are when no deal depends on it."
+    },
+    {
+      "n": 34,
+      "title": "Running the Reef in a Cyclone",
+      "summary": "Devi pilots the Perdita through the reef channel in conditions no chart recommends, using Elias's annotations one final time. POV: Devi. Emotional beat: the dead captain's gift redeemed—skill passed down becoming salvation."
+    },
+    {
+      "n": 35,
+      "title": "Caught in the Trench",
+      "summary": "The Halcyon Dawn, ignoring the storm, grounds itself on the reef attempting pursuit. Its crew abandons ship into seas the Perdita is barely surviving. Cyrus faces the men sent to destroy them. POV: Tomas. Emotional beat: mercy as the ultimate defiance—they save their hunters."
+    },
+    {
+      "n": 36,
+      "title": "After the Wind",
+      "summary": "In the storm's eye-passage calm, the crews of both vessels shelter in the same cove, enemies sharing coffee and silence. The fleet's captain, shown the ledger, quietly stands down. POV: Maren. Emotional beat: exhausted truce; the war was never really theirs."
+    },
+    {
+      "n": 37,
+      "title": "Publication",
+      "summary": "Priya's story breaks worldwide from a safe jurisdiction: the Corvane, the consortium, the cover-up, and the divers who brought it up. Warrants are withdrawn faster than they were issued. POV: Priya. Emotional beat: vindication that tastes strange—no one gets their dead back."
+    },
+    {
+      "n": 38,
+      "title": "Sela's Harbor",
+      "summary": "The crew holds a belated memorial for Rook and Sela at the reef, reading their names into the water. Cyrus leaves Elias's knife on the wreck's rail during a final, quiet dive. POV: Cyrus. Emotional beat: grief given a grave; loyalty and truth reconciled at last."
+    },
+    {
+      "n": 39,
+      "title": "The High Landfall",
+      "summary": "Weeks later, the Perdita takes an honest contract—pipeline survey, boring, legal. Maren signs on as partner, not employer. Cyrus measures life in miles again, but the miles now lead somewhere. POV: Cyrus. Emotional beat: belonging earned rather than inherited; the horizon finally friendly."
+    },
+    {
+      "n": 40,
+      "title": "Epilogue: What the Sea Keeps",
+      "summary": "One year on, Auntie Bee mails a copy of the published book to the consortium's fallen executives, the navy lieutenant, and a PO box in a town where a woman named Sela once said she'd retire. Some debts are settled by telling the story. POV: Auntie Bee. Emotional beat: quiet closure—the truth, like the tide, comes back around."
+    }
+  ]
+}

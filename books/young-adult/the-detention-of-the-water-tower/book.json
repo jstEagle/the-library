@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09877",
+  "title": "The Detention of the water tower",
+  "author": "Tamsin Yarrow",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ulyana Nystrom, the new kid at a school built over something old, stays under the radar: head down, grades up, locker shut. Then the college essay prompt asks one honest question nobody can stop answering — and he is pulled straight into the middle of it. Now he must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9877
+  }
+}

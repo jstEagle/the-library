@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02768",
+  "title": "Harbor and Uniform",
+  "author": "Gideon Nystrom",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Hazel Underhill, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. But when a child is left at the door with instructions to forget the face, they discover that staying invisible was never really an option. To get through this, they must get the truth on the record ahead of the victors' historians before the ship sails on the morning tide.",
+  "themes": [
+    "found family",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2768
+  }
+}

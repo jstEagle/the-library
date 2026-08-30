@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09840",
+  "title": "Prom and Yearbook",
+  "author": "Quentin Galloway",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Petra Coldharbour, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. Then the teacher pairs nemesis with nemesis for a semester-long project — and they are pulled straight into the middle of it. To get through this, they must win the championship that doesn't matter — and the one that does before the last game of the season.",
+  "themes": [
+    "found family",
+    "memory",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9840
+  }
+}

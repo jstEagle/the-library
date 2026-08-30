@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04601",
+  "title": "Yara and the Undertow",
+  "author": "Isandro Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Bram Kavanagh, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. But when a childhood home goes up for auction, she discovers that staying invisible was never really an option. To get through this, she must say goodbye properly, at last, out loud before the house sale closes.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4601
+  }
+}

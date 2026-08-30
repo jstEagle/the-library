@@ -1,0 +1,21 @@
+{
+  "id": "THR-08655",
+  "title": "The Extraction of the DMZ",
+  "author": "Mirabel Eastwick",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Hazel Quintana, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8655
+  }
+}

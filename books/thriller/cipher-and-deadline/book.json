@@ -1,0 +1,21 @@
+{
+  "id": "THR-08465",
+  "title": "Cipher and Deadline",
+  "author": "Theo Pemberton",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Wren Dravenmoor, a fixer for an embassy that doesn't officially exist, hasn't slept through the night since the incident. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. To get through this, they must stop an attack scheduled to look like an accident before the border checkpoint shifts change.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8465
+  }
+}

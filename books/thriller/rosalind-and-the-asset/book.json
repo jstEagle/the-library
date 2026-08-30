@@ -1,0 +1,21 @@
+{
+  "id": "THR-08585",
+  "title": "Rosalind and the Asset",
+  "author": "Gideon Vasquez",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Ines Vasquez, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8585
+  }
+}

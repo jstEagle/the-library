@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02190",
+  "title": "Wolf and Garden Anew",
+  "author": "August Fairweather",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Wren Kavanagh, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. To get through this, he must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "found family",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2190
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02148",
+  "title": "The Last Crown Anew",
+  "author": "Theo Nakamura",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Lena Zhou, a mercenary sworn to a god that went silent, has spent five years selling small charms in a city that outlawed magic. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. To get through this, he must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2148
+  }
+}

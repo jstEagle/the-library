@@ -1,0 +1,59 @@
+{
+  "title": "Choir and Room",
+  "slug": "horror/choir-and-room",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Okonkwo arrives in the drowned-valley village of Hollowmere to record its folk songs, but the villagers refuse to sing any hymn twice — because the second singing belongs to something else. When the church bell that was melted down in 1911 rings out across the water, Ada is pulled into a recurring night where the village relives 1974, the year six children walked into the church and never came out. To escape, Ada must return what was taken — a stolen song, sung by a voice that isn't theirs — before the loop closes forever. In the end Ada chooses to stay inside the bell's memory as its new keeper, trading their own name for the children's release, and becomes the reason no one sings twice.",
+  "about_author": "Sable Kavanagh is the pen name of a former church organist turned archivist who spent a decade cataloguing hymnals with pages deliberately torn out. They write horror about the things communities agree not to remember.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Second Singing",
+      "summary": "Ada's POV. Arriving in Hollowmere, Ada records a harvest hymn from elderly Maren, who goes pale when asked to sing it again and slams the door. The village feels watchful, courteous, and closed. Emotional beat: professional curiosity curdling into unease as Ada realizes the refusal is universal, rehearsed, and afraid."
+    },
+    {
+      "n": 2,
+      "title": "What the Water Keeps",
+      "summary": "Ada's POV. Researching in the flooded parish archive, Ada finds the 1911 record: the bell was melted for scrap, yet every photograph since shows it hanging in the tower. A caretaker named Idris warns them off. Beat: the first crack in Ada's disbelief — evidence that contradicts itself politely."
+    },
+    {
+      "n": 3,
+      "title": "Nineteen Eleven Rings",
+      "summary": "Ada's POV, ending in shared dread. At dusk the melted bell rings — one clear note that everyone in the village hears and no one acknowledges. Doors bolt. Ada walks toward the church against a tide of neighbors begging them not to. Beat: isolation; the village would rather lose Ada than break silence."
+    },
+    {
+      "n": 4,
+      "title": "Six Empty Pews",
+      "summary": "Ada's POV. Inside, the church interior shifts to 1974 mid-service. Six children sit in the front pews, singing a hymn Ada has never heard but somehow knows. When the verse ends, they turn and look at Ada with recognition. Beat: wonder tipping into terror — the loop has been waiting for someone."
+    },
+    {
+      "n": 5,
+      "title": "The Hymn Without a Name",
+      "summary": "Maren's POV, 1974 within the loop. Young Maren watched her sister teach the children a song written to call something kind — and watched the sexton steal the sheet music and bury it under the bell. Beat: grief and guilt; the theft, not the song, made it hungry."
+    },
+    {
+      "n": 6,
+      "title": "Return What Was Taken",
+      "summary": "Ada's POV. Ada digs beneath the belfry and finds the waterlogged manuscript — signed by Maren's sister. Lifting it triggers the loop to tighten: each failed attempt to leave resets the night, and Ada's reflection begins singing without them. Beat: desperation; time is measured in repetitions."
+    },
+    {
+      "n": 7,
+      "title": "Idris's Bargain",
+      "summary": "Idris's POV. Revealed as the sexton's grandson, he has fed the loop small substitutions for fifty years — names, memories, his own voice. He offers Ada an exit if they surrender the manuscript. Beat: moral pressure; the easy way out requires letting the children stay lost."
+    },
+    {
+      "n": 8,
+      "title": "The Verse No One Wrote",
+      "summary": "Ada's POV. Studying the manuscript, Ada finds a final verse in handwriting that keeps changing — now matching their own. The song wants completion through a living singer. Maren, ancient again outside the loop, gives her blessing and her sister's true name. Beat: resolve hardening into sacrifice."
+    },
+    {
+      "n": 9,
+      "title": "Sung Twice",
+      "summary": "Ada's POV, climax. In the looping church, Ada sings the hymn complete — the second singing, given freely instead of stolen. The bell tolls continuously; the six children stand, take each other's hands, and walk out through doors that open onto morning. The thing in the bell reaches for Ada. Beat: triumph braided with cost."
+    },
+    {
+      "n": 10,
+      "title": "Keeper of the Note",
+      "summary": "Maren's POV, resolution. Morning comes to Hollowmere; the bell hangs silent and ordinary, the children's names finally carved in the churchyard. Maren visits the tower, where a new presence hums the hymn's first line gently, endlessly — keeping the second singing so no one else must. Beat: mourning transformed into found family across the threshold."
+    }
+  ]
+}

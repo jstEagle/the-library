@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02497",
+  "title": "Bridge and Lantern",
+  "author": "Lior Marchetti",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ivo Okafor, a battlefield nurse keeping a ledger of the names officers omit, keeps a low profile and busy hands. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and he is pulled straight into the middle of it. To get through this, he must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2497
+  }
+}

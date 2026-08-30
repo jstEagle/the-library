@@ -1,0 +1,21 @@
+{
+  "id": "THR-08601",
+  "title": "The Deep Border",
+  "author": "Sebastian Nystrom",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Dominic Voss, a whistle-blower living under four names, hasn't slept through the night since the incident. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. To get through this, they must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8601
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02365",
+  "title": "Jonah and the Atlas",
+  "author": "Marguerite Sterling",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Tamsin Vane, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. Now they must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2365
+  }
+}

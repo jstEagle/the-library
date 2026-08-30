@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06042",
+  "title": "The Second Promise",
+  "author": "Juniper Villalobos",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Jonah Delacroix, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "found family",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6042
+  }
+}

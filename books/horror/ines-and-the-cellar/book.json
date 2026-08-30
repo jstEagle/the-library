@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03905",
+  "title": "Ines and the Cellar",
+  "author": "Wendell Underhill",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 5.0,
+  "blurb": "Hazel Amberdale, a hospice nurse who hears the dying count backwards, doesn't believe, has never believed, will not begin believing now. Then every mirror in the house starts reflecting the room one second late — and she is pulled straight into the middle of it. To get through this, she must hold out until sunrise with the truth about what was invited in before the last resident signs the papers.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3905
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01901",
+  "title": "Ironhollow Rising Revisited",
+  "author": "S. M. Marchetti",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "August Zhou, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1901
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "The Late Ledger",
+  "slug": "mystery/the-late-ledger",
+  "model": "stealth/ox-alpha",
+  "premise": "Insurance investigator Lior Pemberton receives two letters the same morning: one confessing to a twenty-year-old arson that killed three people, one promising a second confession if Lior follows the clues. The trail leads to Halvern Mutual, Lior's own employer, where an actuarial ledger conceals payments made to silence the fire's true cause — a cost-cutting decision signed off by executives who now run the company. As Lior decodes the ledger using their photographic memory, they realize the anonymous correspondent is the presumed-dead whistleblower from the original case, and that someone inside Halvern is killing to keep the past buried. In the end, Lior must choose between handing the evidence to prosecutors — who may be compromised — or publishing it themselves, destroying their career but forcing justice outside the law; they publish, and the final letter reveals the correspondent's identity: the arsonist, seeking absolution through exposure.",
+  "about_author": "Mara Iversen spent a decade as a claims adjuster in the Pacific Northwest before turning to fiction, drawing on the ledgers, lies, and quiet desperation she witnessed in the industry. She writes mysteries about ordinary people whose meticulous minds become instruments of reckoning.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Twin Letters",
+      "summary": "Lior Pemberton's POV. Two letters arrive at Lior's apartment: a typed confession to the 2004 Corliss Building fire, and a handwritten note promising 'the rest of the ledger' if Lior looks closer. Lior, unsettled by how much the writer knows about them, files the first letter away — then recognizes the confession's phrasing matches a claim file they memorized years ago. Emotional beat: curiosity curdling into dread."
+    },
+    {
+      "n": 2,
+      "title": "The Actuary's Table",
+      "summary": "Lior's POV. At Halvern Mutual, Lior pulls the archived Corliss file under a routine pretext and finds the payout was rushed, the investigation closed in nine days. A senior actuary, Ruth Okonkwo, warns Lior off with genuine fear in her eyes. That night, Lior reconstructs the file from memory and spots an account number that doesn't belong. Emotional beat: the thrill of the hunt shadowed by institutional menace."
+    },
+    {
+      "n": 3,
+      "title": "Nine Days",
+      "summary": "Lior's POV, with a flashback section from investigator Dane Voss's 2004 notes. Lior traces the anomalous account to a shell company and learns the original lead investigator, Dane Voss, resigned abruptly and later drowned. The second letter arrives, quoting Voss's private notebook verbatim. Someone has access to dead men's papers. Emotional beat: grief for a stranger, and the sense of being guided like a puppet."
+    },
+    {
+      "n": 4,
+      "title": "What the Ledger Hides",
+      "summary": "Lior's POV. Using the account numbers as coordinates, Lior realizes the ledger entries across decades form a pattern — hush payments disguised as reinsurance reserves. Confronting retired executive Alden Marsh, Lior meets a man too calm, who offers Lior a promotion to walk away. Lior refuses. That night their apartment is searched. Emotional beat: corruption revealed as banal, patient, and personal."
+    },
+    {
+      "n": 5,
+      "title": "The Drowned Man's Notebook",
+      "summary": "Lior's POV. Following the letters' postmarks to a coastal town, Lior finds Voss's widow, who confirms her husband suspected the fire was set to destroy evidence of faulty wiring Halvern had certified. She gives Lior his notebook — pages torn out. The missing pages match the handwriting of the second letter. Emotional beat: sorrow deepening into resolve; the dead investigator becomes a partner across time."
+    },
+    {
+      "n": 6,
+      "title": "A Name in Reserve",
+      "summary": "Lior's POV. Decoding the final layer, Lior finds the ledger's last entry names the whistleblower who vanished in 2005: Elias Wrenn, declared dead. Cross-referencing pension disbursements, Lior proves Wrenn has been paid quietly for nineteen years — alive, hidden, and almost certainly the correspondent. Then Ruth Okonkwo is found dead, staged as suicide. Emotional beat: triumph punctured by guilt; the clock is now bleeding."
+    },
+    {
+      "n": 7,
+      "title": "The Confessor",
+      "summary": "Elias Wrenn's POV, first time. Wrenn watches news of Okonkwo's death and knows his letters triggered it. Flashbacks reveal he set the 2004 fire under orders from Marsh to erase the wiring evidence, then broke when three people died. He has been feeding Lior the truth as penance while dodging the cleaner Marsh hired. Emotional beat: shame, terror, and the desperate hope that exposure can be redemption."
+    },
+    {
+      "n": 8,
+      "title": "Compromised",
+      "summary": "Lior's POV. Lior brings the decoded ledger to a prosecutor friend, Marcus Hale, only to discover Hale has already been briefed by Halvern's counsel — the case is being steered toward a sealed settlement. Realizing every legal channel is bought, Lior photographs everything and goes underground. Marsh's cleaner closes in; Lior escapes by exploiting the pursuer's reliance on routine. Emotional beat: betrayal, then cold clarity — the law won't do this; Lior will have to."
+    },
+    {
+      "n": 9,
+      "title": "The Reading Room",
+      "summary": "Lior's POV, climax. Lior arranges to meet Wrenn at the county records office where the original fire report lives, planning simultaneous public release. Marsh arrives instead, with leverage: proof Lior falsified nothing but can be ruined anyway. Wrenn appears and confesses aloud, on record, naming Marsh. In the struggle, the cleaner is arrested; Marsh's composure finally cracks when Lior recites his own ledger entries back to him from memory. Emotional beat: confrontation as exorcism."
+    },
+    {
+      "n": 10,
+      "title": "Closing the File",
+      "summary": "Lior's POV, epilogue weeks later. Marsh is indicted; Halvern unravels; Lior, fired for breach of confidentiality, publishes the full ledger anyway and watches the reckoning spread beyond what any court would have granted. A final letter arrives — no promise this time, just thanks, and a question: what will you do with a memory like yours? Lior begins writing down every case they were never allowed to close. Emotional beat: loss transmuted into vocation; justice as ongoing work."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08590",
+  "title": "The Sharp Debt",
+  "author": "Vesper Almeida",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Dominic Fairweather, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. Then a voiceprint unlocks a server on another continent — and he is pulled straight into the middle of it. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8590
+  }
+}

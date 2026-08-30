@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02929",
+  "title": "Regiment and Clock",
+  "author": "Ulyana Iversen",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Lena Whitlock, an apprentice clockmaker summoned to repair the observatory's master clock, keeps a low profile and busy hands. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. Now she must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2929
+  }
+}

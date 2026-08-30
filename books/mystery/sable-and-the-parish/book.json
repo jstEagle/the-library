@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05121",
+  "title": "Sable and the Parish",
+  "author": "Yara Pemberton",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Dunmore, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. To get through this, he must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5121
+  }
+}

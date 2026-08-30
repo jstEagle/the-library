@@ -1,0 +1,29 @@
+{
+  "title": "Static and Echo",
+  "slug": "science-fiction/static-and-echo",
+  "model": "stealth/ox-alpha",
+  "premise": "Freya Eriksen smuggles forbidden memories through orbital customs, carrying in his own head the recorded last days of Meridian Colony, a settlement officially declared never to have existed. When a distress signal arrives in a language extinct for two centuries, customs authorities offer him amnesty to trace it — but the signal is a memory-broadcast from Meridian itself, still transmitting from the dead relay at the edge of space. Racing the closing jump window, Freya discovers the colony's death was engineered by the same bureau that erased it, and that the signal's final fragment contains proof powerful enough to burn the conspiracy down. He must choose between delivering the evidence and preserving the last intact recording of the woman he loved, who died making it. He broadcasts both, sacrificing his own contraband memories and his clean escape, and rides the jump window out as the truth goes live across the network.",
+  "about_author": "Oscar Oyelaran is a former radio technician who spent six years maintaining deep-space relay arrays before turning to fiction. He writes about signals, silence, and the people who refuse to stop listening.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Contraband",
+      "summary": "Freya's POV. A routine smuggling run through orbital customs nearly fails when inspectors scan too close to the memories of Meridian's final days hidden in his neural cache. We learn he records dying places no one will pay for, and that one memory — a woman named Sefa broadcasting the colony's collapse — he keeps for himself. Emotional beat: grief disguised as professionalism."
+    },
+    {
+      "n": 2,
+      "title": "The Dead Language",
+      "summary": "Freya's POV. A distress signal arrives in a tongue extinct for two centuries; customs offers him amnesty to trace it, but Freya recognizes the cadence — it's Sefa's dialect, and the transmission originates from the dead relay beyond Meridian. The jump window closes in nine days. Emotional beat: hope arriving like an accusation."
+    },
+    {
+      "n": 3,
+      "title": "Dead Space",
+      "summary": "Alternating POV with the signal itself, rendered as fragmented transmissions. Freya reaches the relay and finds the broadcast is a loop: Meridian's death was ordered by the Bureau that erased the colony, and Sefa hid the proof inside the signal, betting someone would come. Bureau ships enter the system behind him. Emotional beat: love against duty, as he realizes she chose truth over rescue."
+    },
+    {
+      "n": 4,
+      "title": "Broadcast",
+      "summary": "Freya's POV. With the window closing and Bureau guns warming, he strips his own cache — surrendering every smuggled memory including Sefa's face — to piggyback the evidence onto a fleet-wide carrier wave. The truth transmits as he jumps blind into open space. Emotional beat: loss transfigured into testimony; he arrives empty-handed and cannot be silenced."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05338",
+  "title": "The Letter of Windrow House",
+  "author": "Xanthe Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Kestrel Amberdale, a retired detective running a failing bookshop, has spent twenty years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, she discovers that staying invisible was never really an option. To get through this, she must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5338
+  }
+}

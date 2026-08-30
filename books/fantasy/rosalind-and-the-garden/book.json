@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01854",
+  "title": "Rosalind and the Garden",
+  "author": "Mirabel Sterling",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Casper Coldharbour, the last oath-bound swordspeaker, keeps the ledgers of a guild that trades in impossible things. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1854
+  }
+}

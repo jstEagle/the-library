@@ -1,0 +1,59 @@
+{
+  "title": "The Last Monsoon",
+  "slug": "adventure/the-last-monsoon",
+  "model": "stealth/ox-alpha",
+  "premise": "Petra Galloway's salvage crew is hired by her old rival, Dario Voss, to recover a black box from the Kestrel, a wreck sunk in disputed waters during a storm that killed their shared mentor. As the monsoon batters their leaking boat and navy patrols close in, Petra discovers Voss caused the original wreck and wants the box to bury the evidence. Betrayed and stranded with a stranger—Nadia, a hydrologist who knows the glacier route—Petra must choose between loyalty to her crew and exposing the truth. In the end, she releases the recording publicly, loses the boat but gains a found family, and watches the calving glacier seal the Kestrel forever.",
+  "about_author": "Emrys Underhill is a former maritime surveyor who spent a decade charting cold-water wrecks before turning to fiction. They write from a coastal cabin, drawing on real salvage logs and a lifelong fascination with what the sea refuses to give back.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Dead Water",
+      "summary": "Petra's POV. Her crew salvages scrap off a freighter while dodging a navy survey vessel; money is running out and the boat, the Cormorant, needs hull work. When Voss appears at the dock offering triple rate for an unnamed job, Petra refuses—but her first mate Teo quietly takes the contract. Beat: pride masking desperation."
+    },
+    {
+      "n": 2,
+      "title": "The Sworn-Off Job",
+      "summary": "Teo reveals he signed them on: the target is the Kestrel, where their mentor Ruth Okonkwo died eleven years ago. Petra's POV flashes to the funeral and the oath the crew swore. She agrees only to recover Ruth's effects, not whatever Voss actually wants. Beat: grief reopening under pressure."
+    },
+    {
+      "n": 3,
+      "title": "Stranger at the Lock",
+      "summary": "Nadia's POV. A glaciologist studying the calving season warns the crew the pass through the fjord will close within weeks. Petra hires her as pilot against everyone's instinct. First dive on the Kestrel reveals the wreck was deliberately scuttled—seacocks opened. Beat: unease hardening into suspicion."
+    },
+    {
+      "n": 4,
+      "title": "What the Navy Won't Discuss",
+      "summary": "Petra's POV. A patrol boat boards them; an officer recognizes the Kestrel's name and issues a veiled warning. Voss arrives by seaplane with a private security detail, revealing the target: a data recorder holding evidence of an illegal dumping operation Ruth discovered. Beat: the job's true shape emerges."
+    },
+    {
+      "n": 5,
+      "title": "Monsoon Season",
+      "summary": "Nadia's POV. The first true storm hits; the Cormorant drags anchor and takes on water through a cracked seam. The crew works through the night pumping bilges, and Teo saves Nadia from being swept overboard. Beat: found family forged in shared danger, trust tentatively built."
+    },
+    {
+      "n": 6,
+      "title": "The Black Box",
+      "summary": "Petra's POV. In a window between storms, she dives the flooded hold and recovers the recorder—and finds Ruth's final logbook beside it, hinting she knew someone aboard betrayed her. Voss demands immediate handover. Petra pockets the recorder instead. Beat: loyalty shifting from employer to the dead."
+    },
+    {
+      "n": 7,
+      "title": "Voss's Bargain",
+      "summary": "Voss's POV. He offers Petra a share and her crew's safety, revealing he was aboard the Kestrel the night it sank and that Ruth died because of his panic, not his plan. He begs for the recorder to protect his family name. Beat: villain humanized; temptation made personal."
+    },
+    {
+      "n": 8,
+      "title": "Mutiny",
+      "summary": "Petra's POV. Teo, drowning in debt, steals the recorder and radios Voss. The crew splits—half side with Teo, half with Petra. In the chaos the Cormorant's engine floods, leaving them adrift as the navy closes in and the monsoon returns. Beat: betrayal from inside the family."
+    },
+    {
+      "n": 9,
+      "title": "The Calving",
+      "summary": "Climax. Nadia pilots the crippled Cormorant through the narrowing fjord as the glacier begins to calve. Petra confronts Teo on deck in the storm; Voss's security team tries to board and is driven off by ice and sea. Petra broadcasts the recording to open channels before the transmitter dies. Beat: truth chosen over survival odds."
+    },
+    {
+      "n": 10,
+      "title": "After the Rain",
+      "summary": "Resolution. The Cormorant sinks in shallow water; the crew reaches shore as investigators, tipped by the broadcast, detain Voss. Teo, broken but alive, turns state's witness. Petra and Nadia stand on the headland watching the glacier shed ice over the Kestrel's grave. Beat: grief laid down, family redefined."
+    }
+  ]
+}

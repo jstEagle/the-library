@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06605",
+  "title": "Wendell and the Promise",
+  "author": "Elodie Ravensworth",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Quentin Coldharbour, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must say the sentence that has been rehearsed for a decade before the last ferry of the season departs.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6605
+  }
+}

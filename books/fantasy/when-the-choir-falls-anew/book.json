@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02296",
+  "title": "When the Choir Falls Anew",
+  "author": "Orsen Halloran",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Juniper Almeida, the youngest member of a dying guild, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2296
+  }
+}

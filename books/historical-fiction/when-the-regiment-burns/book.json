@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02685",
+  "title": "When the Regiment Burns",
+  "author": "Paloma Villalobos",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Beatrix Vane, a suffragist's driver who reads every letter before delivering it, keeps a low profile and busy hands. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and he is pulled straight into the middle of it. Now he must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2685
+  }
+}

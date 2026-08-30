@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06825",
+  "title": "The Last Harbor Revisited",
+  "author": "Freya Delacroix",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Hazel Eastwick, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and she is pulled straight into the middle of it. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6825
+  }
+}

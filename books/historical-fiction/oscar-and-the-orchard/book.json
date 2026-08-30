@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02949",
+  "title": "Oscar and the Orchard",
+  "author": "Ines Almeida",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Lior Ashgrove, a widowed lighthouse keeper during the year of the great storms, keeps a low profile and busy hands. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. To get through this, he must choose which family member gets the last berth before the century turns.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2949
+  }
+}

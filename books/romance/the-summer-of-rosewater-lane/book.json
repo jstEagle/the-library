@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06655",
+  "title": "The Summer of Rosewater Lane",
+  "author": "Astrid Okonkwo",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Jude Crane, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6655
+  }
+}

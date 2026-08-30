@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05100",
+  "title": "The Late Cipher",
+  "author": "W. M. Montrose",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Rafael Thackeray, a retired detective running a failing bookshop, thought they had seen every way a life can end. But when a body turns up dressed in clothes stolen from the witness's own closet, he discovers that staying invisible was never really an option. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5100
+  }
+}

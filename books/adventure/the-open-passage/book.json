@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00605",
+  "title": "The Open Passage",
+  "author": "P. M. Galloway",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Quentin Delacroix, a storm chaser who owes money to dangerous optimists, carries a compass, a debt, and very little else. But when the river gives up a chest stamped with a dead nation's seal, he discovers that staying invisible was never really an option. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 605
+  }
+}

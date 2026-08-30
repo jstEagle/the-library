@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05366",
+  "title": "Portrait and Cipher",
+  "author": "Petra Dravenmoor",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Zephyrine Ishikawa, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5366
+  }
+}

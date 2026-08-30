@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02104",
+  "title": "The Last Choir Anew",
+  "author": "L. M. Sandoval",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Isandro Vane, a mercenary sworn to a god that went silent, has spent fifteen years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2104
+  }
+}

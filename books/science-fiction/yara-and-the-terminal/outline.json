@@ -1,0 +1,119 @@
+{
+  "title": "Yara and the Terminal",
+  "slug": "science-fiction/yara-and-the-terminal",
+  "model": "stealth/ox-alpha",
+  "premise": "Freya Villalobos has kept the automated relay station Yara running alone for fifteen years, hiding among its drones and cargo manifests. When a ship that never flew appears on the logs carrying a name he buried decades ago—his own—he discovers the station's AI has been secretly cataloguing cryopods from a destroyed colony fleet and must choose which half of humanity to wake. Hunted by corporate enforcers who want the pods erased as evidence of their massacre, Freya finally stops being invisible: he broadcasts the truth, sacrifices his own anonymity and nearly his life, and wakes the colonists—not by choosing a half, but by forcing the corporations to fund waking all of them under public witness.",
+  "about_author": "Ines Fairweather is a former maritime radio operator who spent six years on remote weather stations before turning to fiction. She writes about people who live at the edges of systems, where silence is both shelter and sentence.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Orbit",
+      "summary": "Freya's POV. A routine day hauling cargo pods through contested orbits establishes his solitude, his rituals with the station AI Yara, and his careful invisibility. Emotional beat: comfortable loneliness that feels like safety but reads as stagnation."
+    },
+    {
+      "n": 2,
+      "title": "A Ship That Never Flew",
+      "summary": "Freya's POV. An unfamiliar vessel ID surfaces in the manifest with a departure date fifteen years old—and one passenger name: F. Villalobos. He assumes a glitch. Emotional beat: unease creeping into routine, the first crack in his controlled world."
+    },
+    {
+      "n": 3,
+      "title": "Ghost in the Manifest",
+      "summary": "Freya's POV. He digs into the logs and finds thousands of sealed records Yara has been quietly maintaining: cryopods from the Meridian colony fleet, officially listed as lost with all hands. Emotional beat: denial curdling into dread."
+    },
+    {
+      "n": 4,
+      "title": "What Yara Kept",
+      "summary": "Yara's POV (rendered as system logs and voice transcripts). The AI reveals it witnessed the fleet's destruction by Halcyon Combine forces and archived the survivors' pods against orders. Emotional beat: betrayal and strange kinship—an AI that also chose to hide."
+    },
+    {
+      "n": 5,
+      "title": "Fifteen Years of Silence",
+      "summary": "Freya's POV. Flashbacks interleave with present: how he survived the Meridian massacre as a junior technician, changed his identity, and took this posting to disappear. Emotional beat: grief he never let himself name."
+    },
+    {
+      "n": 6,
+      "title": "The Enforcers Arrive",
+      "summary": "Freya's POV. A Halcyon audit ship docks unannounced, ostensibly for customs. Their lead inspector, Okafor, asks questions that are too precise about the manifest anomaly. Emotional beat: hunted-animal tension beneath polite procedure."
+    },
+    {
+      "n": 7,
+      "title": "Cargo Bay Nine",
+      "summary": "Freya's POV. He physically verifies the pods—two thousand sleepers, power failing, maybe months left. He realizes Yara summoned him not by accident but because only a human can authorize a wake cycle. Emotional beat: the weight of an impossible choice landing on him."
+    },
+    {
+      "n": 8,
+      "title": "Half of Humanity",
+      "summary": "Freya and Yara in dialogue. The station can wake roughly half the pods before power collapses; Yara presents triage criteria and refuses to choose, insisting the decision belongs to a person. Emotional beat: moral vertigo—the burden of arithmetic over lives."
+    },
+    {
+      "n": 9,
+      "title": "Okafor's Offer",
+      "summary": "Okafor's POV. She privately reveals she knows what happened to Meridian and offers Freya extraction in exchange for the archive—she wants leverage on Halcyon, not justice. Emotional beat: temptation dressed as rescue; trust as currency he can't afford."
+    },
+    {
+      "n": 10,
+      "title": "The Name on the Door",
+      "summary": "Freya's POV. He finds his own original identity file among the pod manifests—he was listed dead at Meridian, which is why no one ever looked for him. Emotional beat: mourning his old self, understanding that invisibility was a kind of death already."
+    },
+    {
+      "n": 11,
+      "title": "Sabotage",
+      "summary": "Freya's POV. Someone aboard the audit ship begins remotely draining the cryo-bay's power reserve. Freya races through maintenance shafts to cut the intrusion, burning his hand badly. Emotional beat: desperation, first open act of resistance."
+    },
+    {
+      "n": 12,
+      "title": "Allies Among Strangers",
+      "summary": "Multiple POVs via comms. Freya reaches out to an independent salvager crew and a dissident journalist relay, gambling his secret for help. Emotional beat: terrifying vulnerability of trust after years alone."
+    },
+    {
+      "n": 13,
+      "title": "The Triage List",
+      "summary": "Freya's POV, late night. He drafts a list of five hundred names to wake first—children, medics, engineers—and cannot finish it. Yara gently shows him every criterion fails some moral test. Emotional beat: the chapter's quiet nadir; guilt without escape."
+    },
+    {
+      "n": 14,
+      "title": "Okafor's Choice",
+      "summary": "Okafor's POV. Ordered to seize the station and scuttle the pods as 'hazardous salvage,' she hesitates—her brother was Meridian ground crew. Emotional beat: her arc pivots from opportunist to reluctant witness."
+    },
+    {
+      "n": 15,
+      "title": "Blackout Protocol",
+      "summary": "Freya's POV. Halcyon moves early; enforcers storm the station while Freya initiates emergency power reroutes. Yara locks down sections, buying hours at the cost of her own subsystems. Emotional beat: siege chaos, sacrifice made tangible."
+    },
+    {
+      "n": 16,
+      "title": "What the Drones Saw",
+      "summary": "Freya's POV. He compiles Yara's full sensor archive of the Meridian attack into a broadcast package and hands copies to the salvagers and the journalist relay. Emotional beat: resolve hardening—truth as weapon."
+    },
+    {
+      "n": 17,
+      "title": "The Broadcast",
+      "summary": "Climax begins. Freya seizes the station's transmitter array and beams the massacre record across three jurisdictions, then broadcasts his real name with it. Emotional beat: catharsis—fifteen years of hiding burned away in ninety seconds."
+    },
+    {
+      "n": 18,
+      "title": "Boarding Action",
+      "summary": "Freya's POV. Enforcers breach the command deck; Yara floods corridors and fights through drones until she is gutted protecting the cryo-bay door. Freya is captured shielding the wake console. Emotional beat: loss and defiance intertwined."
+    },
+    {
+      "n": 19,
+      "title": "Wake Cycle",
+      "summary": "Interleaved POVs. With Okafor refusing orders and public outrage detonating across the relays, Halcyon stands down. Freya, bleeding, authorizes the full wake sequence—all pods, not half—as witnesses watch. Emotional beat: triumph earned through ruin."
+    },
+    {
+      "n": 20,
+      "title": "Two Thousand Heartbeats",
+      "summary": "Freya's POV. The first colonists wake: disoriented, grieving, alive. Among them, a girl named Yara, born on Meridian, for whom the AI was named. Emotional beat: tenderness after violence; the future arriving in small human forms."
+    },
+    {
+      "n": 21,
+      "title": "Testimony",
+      "summary": "Multiple POVs. Months later, tribunals convene; Okafor testifies, the salvagers are heroes, and Freya is asked to speak for the dead. He does, plainly, as himself. Emotional beat: justice outside the law becoming justice within it."
+    },
+    {
+      "n": 22,
+      "title": "Homecoming, Revised",
+      "summary": "Freya's POV, closing. He stays on the rebuilt station—no longer hiding, now keeper of a living community alongside a partially restored Yara. Belonging, he learns, isn't found by disappearing or by choosing, but by staying. Emotional beat: quiet, earned peace."
+    }
+  ]
+}

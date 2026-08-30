@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08030",
+  "title": "The Last Machine Anew",
+  "author": "Lena Whitlock",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Juniper Blackwood, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8030
+  }
+}

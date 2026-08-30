@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04614",
+  "title": "A Language for the Weather",
+  "author": "Theo Vane",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Yara Montrose, a restaurant critic who has forgotten how food tastes, has spent twenty years practicing the art of almost saying it. But when a song on the radio is one that was written and never recorded, he discovers that staying invisible was never really an option. To get through this, he must translate the untranslatable sentence and live with it before the house sale closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4614
+  }
+}

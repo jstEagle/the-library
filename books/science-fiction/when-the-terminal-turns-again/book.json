@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08346",
+  "title": "When the Terminal Turns Again",
+  "author": "Emrys Yarrow",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Orsen Dravenmoor, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8346
+  }
+}

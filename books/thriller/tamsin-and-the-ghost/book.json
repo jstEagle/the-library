@@ -1,0 +1,21 @@
+{
+  "id": "THR-08517",
+  "title": "Tamsin and the Ghost",
+  "author": "Oscar Yarrow",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Emrys Sterling, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8517
+  }
+}

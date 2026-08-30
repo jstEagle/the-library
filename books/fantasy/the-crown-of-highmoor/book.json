@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00985",
+  "title": "The Crown of Highmoor",
+  "author": "Wren Thornbury",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wren Quintana, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 985
+  }
+}

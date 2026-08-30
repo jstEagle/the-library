@@ -1,0 +1,21 @@
+{
+  "id": "THR-08915",
+  "title": "Ghost and Extraction",
+  "author": "Yara Nakamura",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Zephyrine Okafor, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. Now they must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8915
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08959",
+  "title": "Freya and the Contact",
+  "author": "Xanthe Okonkwo",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ansel Dravenmoor, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8959
+  }
+}

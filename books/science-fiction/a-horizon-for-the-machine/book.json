@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07629",
+  "title": "A Horizon for the Machine",
+  "author": "Xanthe Lockridge",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.5,
+  "blurb": "Lena Yarrow, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. To get through this, she must prove a massacre happened when every record says otherwise before the fleet's truce expires.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7629
+  }
+}

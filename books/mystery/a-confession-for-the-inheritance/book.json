@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05306",
+  "title": "A Confession for the Inheritance",
+  "author": "Rafael Vane",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Astrid Yarrow, a night-shift dispatcher for a taxi company, has spent seven years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the statute expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5306
+  }
+}

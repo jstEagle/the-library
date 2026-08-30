@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08148",
+  "title": "Marguerite and the Gravity Again",
+  "author": "Wendell Nakamura",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Vesper Delacroix, a pilot bonded to an AI that lies, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8148
+  }
+}

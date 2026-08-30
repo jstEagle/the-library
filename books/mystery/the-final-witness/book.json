@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05448",
+  "title": "The Final Witness",
+  "author": "Sebastian Ravensworth",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Vesper Lockridge, a retired detective running a failing bookshop, prides themselves on never taking a case they can't close. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5448
+  }
+}

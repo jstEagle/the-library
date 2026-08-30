@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01159",
+  "title": "A Crown for the Wolf",
+  "author": "Wren Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Beatrix Eriksen, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must steal back a soul sold to the court beneath the mountain before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1159
+  }
+}

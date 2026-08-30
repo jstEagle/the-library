@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01143",
+  "title": "Crown and Wolf",
+  "author": "Ivo Fairweather",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Sable Kavanagh, a royal food-taster building immunity one dish at a time, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. To get through this, she must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1143
+  }
+}

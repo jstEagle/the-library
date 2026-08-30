@@ -1,0 +1,21 @@
+{
+  "id": "THR-09254",
+  "title": "A Debt for the Extraction",
+  "author": "Noor Coldharbour",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Astrid Voss, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9254
+  }
+}

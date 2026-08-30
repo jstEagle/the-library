@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06047",
+  "title": "A Promise for the Garden",
+  "author": "Astrid Halloran",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Yara Winterbourne, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. To get through this, she must forgive the person in the mirror first before the last ferry of the season departs.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6047
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05265",
+  "title": "When the Will Turns",
+  "author": "Rosalind Underhill",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Odile Oyelaran, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. To get through this, they must untangle alibis woven thirty years ago before the trial begins.",
+  "themes": [
+    "found family",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5265
+  }
+}

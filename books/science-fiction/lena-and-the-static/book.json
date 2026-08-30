@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07879",
+  "title": "Lena and the Static",
+  "author": "Yara Hartwell",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Lena Voss, the last human technician on an automated relay station, records the slow death of a colony everyone else forgot. Then an unfamiliar name shows up on the manifest of a ship that never flew — and they are pulled straight into the middle of it. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7879
+  }
+}

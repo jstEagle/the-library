@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06747",
+  "title": "The Last Summer Again",
+  "author": "Jude Joubert",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lena Dravenmoor, a pastry chef whose café is three missed payments from gone, has spent five years rebuilding a life measured in small safe steps. Then the person behind a decade of letters moves in next door — and he is pulled straight into the middle of it. To get through this, he must risk the whole heart instead of lending pieces before the bakery lease runs out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6747
+  }
+}

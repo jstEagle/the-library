@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06290",
+  "title": "The Unexpected Tide",
+  "author": "Zephyrine Blackwood",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Mara Eastwick, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6290
+  }
+}

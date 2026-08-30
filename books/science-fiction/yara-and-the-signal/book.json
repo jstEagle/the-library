@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08145",
+  "title": "Yara and the Signal",
+  "author": "Tamsin Dravenmoor",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Hazel Dravenmoor, the last human technician on an automated relay station, has spent twelve years hauling cargo through contested orbits. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. To get through this, he must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8145
+  }
+}

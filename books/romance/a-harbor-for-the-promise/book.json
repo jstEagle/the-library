@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06419",
+  "title": "A Harbor for the Promise",
+  "author": "Mara Oyelaran",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Emrys Galloway, a lighthouse keeper's granddaughter and part-time novelist, has spent fifteen years rebuilding a life measured in small safe steps. But when the anonymous pen-pal assignment pairs enemies instead of strangers, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "identity",
+    "found family",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6419
+  }
+}

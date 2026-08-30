@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01758",
+  "title": "Casper and the Sigil",
+  "author": "Casper Sandoval",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Dominic Fairweather, a cartographer of unmapped realms, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1758
+  }
+}

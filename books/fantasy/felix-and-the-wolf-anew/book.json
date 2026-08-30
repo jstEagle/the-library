@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02159",
+  "title": "Felix and the Wolf Anew",
+  "author": "C. M. Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sebastian Reyes, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must steal back a soul sold to the court beneath the mountain before the long winter finishes falling.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2159
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "The Unsaid Weather",
+  "slug": "literary-fiction/the-unsaid-weather",
+  "model": "stealth/ox-alpha",
+  "premise": "Felix Vane, a piano tuner with an uncanny ear for the creaks and hums of her late grandmother's house, has spent her life cataloguing what the family never says aloud. At the funeral, a stranger named Iris calls the family by their true surname — Vaneau — a name buried decades ago, and reveals she was raised on letters Felix's grandmother wrote but never sent. As Felix tunes the old house for its sale, she discovers the letters describe a brother erased from every photograph and memory: the family's loyalty to one version of the truth cost them everything else. In the end, Felix chooses truth over inherited silence, reading the final letter aloud at the estate closing, giving Iris her name back, and keeping only the radiator key as her inheritance.",
+  "about_author": "Lena Amberdale is a former piano restorer who spent fifteen years listening to old houses before turning to fiction. She writes about families that keep secrets the way others keep furniture — inherited, load-bearing, and impossible to move alone.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Inventory of Unsaid Things",
+      "summary": "In Felix's POV, we open days after her grandmother Edith's funeral, as Felix tunes the empty house and catalogs its sounds alongside its silences. A stranger, Iris, appears at the gate asking for the Vaneau family. The beat is quiet unease: Felix realizes the name fits something she's always half-heard in the walls."
+    },
+    {
+      "n": 2,
+      "title": "A Name Nobody Uses",
+      "summary": "Iris shows Felix a bundle of unsent letters from Edith, mentioning a son named Tomas whom no relative will acknowledge. Felix confronts her mother, Ruth, who deflects with practiced warmth; her uncle Hal threatens to contest the estate if 'that woman' returns. Rising tension: the family closes ranks around Felix, revealing how carefully the silence was built."
+    },
+    {
+      "n": 3,
+      "title": "What the Radiators Remember",
+      "summary": "Climax. Tuning the boiler room, Felix finds Edith's hidden correspondence — proof Tomas was disowned in 1968 and died abroad, and that Iris is his granddaughter. Ruth confesses at last: protecting Hal meant burying Tomas twice. Felix must choose between the family's fragile peace and the truth humming under the floorboards."
+    },
+    {
+      "n": 4,
+      "title": "The Last Tuning",
+      "summary": "Resolution. At the estate signing, Felix reads Edith's final letter aloud, renaming the family in front of everyone. Hal walks out; Ruth stays, weeping, and takes Iris's hand. Felix declines her share of the house, keeps only the radiator key, and leaves with the sense that the unsaid weather has finally broken."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06962",
+  "title": "Bellbird Bay Rising Again",
+  "author": "Ivo Quintana",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Oscar Coldharbour, a vineyard owner who inherited debts instead of grapes, swears the heart is a muscle like any other: trainable, containable. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. Now she must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6962
+  }
+}

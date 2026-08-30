@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05960",
+  "title": "A Letters for the Tide",
+  "author": "Vesper Joubert",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Xanthe Yarrow, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. To get through this, they must forgive the person in the mirror first before the vineyard's first harvest comes in.",
+  "themes": [
+    "identity",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5960
+  }
+}

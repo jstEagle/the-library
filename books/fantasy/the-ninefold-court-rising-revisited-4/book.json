@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02288",
+  "title": "the Ninefold Court Rising Revisited",
+  "author": "Yara Thackeray",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Freya Galloway, a royal food-taster building immunity one dish at a time, has spent seven years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must steal back a soul sold to the court beneath the mountain before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2288
+  }
+}

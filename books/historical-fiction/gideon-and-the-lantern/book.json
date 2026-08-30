@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02939",
+  "title": "Gideon and the Lantern",
+  "author": "Mara Marchetti",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Xanthe Thornbury, a code-carrying courier on the last diplomatic mission of a doomed republic, keeps a low profile and busy hands. Then the census taker asks one question too many — and they are pulled straight into the middle of it. To get through this, they must choose which family member gets the last berth before the armistice is signed — or isn't.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2939
+  }
+}

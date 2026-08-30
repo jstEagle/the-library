@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05763",
+  "title": "Odile and the Autopsy",
+  "author": "I. M. Ashgrove",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Kestrel Amberdale, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. To get through this, they must decode a ledger hidden in plain sight before the trial begins.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5763
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06388",
+  "title": "A Songbook for the Promise",
+  "author": "Petra Sterling",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "August Halloran, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. But when a fake date to survive a family reunion feels too real by dessert, she discovers that staying invisible was never really an option. Now she must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6388
+  }
+}

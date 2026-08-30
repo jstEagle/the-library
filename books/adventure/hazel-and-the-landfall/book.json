@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00431",
+  "title": "Hazel and the Landfall",
+  "author": "Hazel Pemberton",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Sebastian Yarrow, a bush pilot flying medicine and rumors into the interior, knows the wilderness forgives nothing and forgets less. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 431
+  }
+}

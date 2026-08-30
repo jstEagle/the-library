@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02390",
+  "title": "The Quiet Orchard",
+  "author": "T. M. Almeida",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Mara Amberdale, a pearl diver's child indentured to a trading company, measures the world in what can be carried when the orders come. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ice breaks on the river.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2390
+  }
+}

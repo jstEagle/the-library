@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01348",
+  "title": "Edmund and the Crown",
+  "author": "Hazel Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Yara Sterling, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1348
+  }
+}

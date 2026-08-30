@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00542",
+  "title": "Provision and Monsoon",
+  "author": "Felix Eriksen",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Juniper Vane, a desert ranger tracking a thief across nothing, has spent ten years measuring life in miles rather than years. But when a dying prospector trades a map for a promise, he discovers that staying invisible was never really an option. To get through this, he must follow a river upstream to its forbidden source before the dry season ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 542
+  }
+}

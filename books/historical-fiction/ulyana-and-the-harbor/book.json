@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02736",
+  "title": "Ulyana and the Harbor",
+  "author": "Coral Montrose",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Zephyrine Iversen, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. Then a sealed letter names the family in a plot no one wants a part of — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the century turns.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2736
+  }
+}

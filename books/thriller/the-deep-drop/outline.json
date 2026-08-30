@@ -1,0 +1,59 @@
+{
+  "title": "The Deep Drop",
+  "slug": "thriller/the-deep-drop",
+  "model": "stealth/ox-alpha",
+  "premise": "Emrys Villalobos, a deniable fixer for the Meridian Section—an embassy that exists on no map—receives a meeting request from his handler, dead for three years. The invitation leads him into a conspiracy inside the Section itself: a rogue cell is selling the network's asset list to a Frankfurt syndicate, and Emrys's own recruitment was engineered to create the perfect fall guy. Racing from Lisbon to Frankfurt before markets open, he must choose between loyalty to the institution that made him and the truth that it built him to be disposable. He burns the network, exposes the cell at the cost of the woman he loves being compromised, and walks out of the ashes with nothing but his name—which, for the first time, is actually his.",
+  "about_author": "E. M. Reyes spent a decade in international logistics before turning to fiction, a career that taught her how easily paper trails vanish. She writes thrillers about people whose jobs require them to be forgettable, and lives quietly under a name no one checks twice.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Invitation",
+      "summary": "POV: Emrys. In Lisbon, Emrys runs a routine cleanup job when he receives a calendar invite from Marcus Hale—his handler, officially dead since 2022—for tomorrow, 9:00 a.m., Frankfurt. He verifies it's authentic using a cipher only Hale knew. Emotional beat: cold dread beneath professional calm; the rules that kept him safe are suddenly meaningless."
+    },
+    {
+      "n": 2,
+      "title": "Twelve Years of Nothing",
+      "summary": "POV: Emrys (with a flashback interleave). He audits his own file through back channels and finds his personnel history has been rewritten—recruitment date altered, early missions reassigned to other names. Someone inside is erasing him preemptively. Emotional beat: the vertigo of discovering your identity was always provisional."
+    },
+    {
+      "n": 3,
+      "title": "The Widow in Porto",
+      "summary": "POV: Emrys. He tracks Hale's widow, Inês, who reveals Hale suspected the Section was selling assets before his 'accident,' and left Emrys a dead-drop key hidden in their old safehouse. Emotional beat: grief and tenderness entangled; Inês's warning that Hale trusted Emrys more than the Service."
+    },
+    {
+      "n": 4,
+      "title": "Dead Drop",
+      "summary": "POV: Emrys. The safehouse yields Hale's evidence: a partial ledger showing a Frankfurt buyer codenamed KAPPA purchasing Section assets—including live agents. Emrys realizes he's on the list as an item, not a person. Emotional beat: betrayal hardening into resolve; love for the network curdling."
+    },
+    {
+      "n": 5,
+      "title": "Counterweight",
+      "summary": "POV: alternating Emrys / Deputy Director Sable. Sable, running the internal hunt for the leak, flags Emrys as the prime suspect—the perfect scapegoat given his rewritten file. Emrys, en route to Frankfurt, spots surveillance he trained himself to run. Emotional beat: hunter and hunted mirroring each other; duty pulling both toward ruin."
+    },
+    {
+      "n": 6,
+      "title": "The Girl Who Wasn't There",
+      "summary": "POV: Emrys. In Frankfurt he reconnects with Lena Okafor, a Section archivist he loved years ago, who confirms KAPPA's buyer meeting is scheduled for market open—and that she's been ordered to certify the sale documents. Choosing to help him means burning herself too. Emotional beat: love against duty made literal; she chooses him anyway."
+    },
+    {
+      "n": 7,
+      "title": "Nine Hours",
+      "summary": "POV: Emrys / Sable. A cat-and-mouse night across Frankfurt: Emrys decrypts the full ledger while Sable closes the net, arresting allies and leaking Emrys's face to contract hunters. Emrys learns KAPPA is Sable's own deputy—the conspiracy reaches higher than one rogue cell. Emotional beat: exhaustion, isolation, and the clarity that comes when there's no one left to call."
+    },
+    {
+      "n": 8,
+      "title": "KAPPA",
+      "summary": "POV: Emrys. He corners the deputy in a bank tower before dawn and forces a confession on record—but Sable arrives, and Emrys must decide whether Sable is corrupt or the last honest officer hunting the same ghost. A violent standoff resolves it: Sable chooses truth over institution. Emotional beat: loyalty vs. truth finally forced to pick a side."
+    },
+    {
+      "n": 9,
+      "title": "Market Open",
+      "summary": "POV: Emrys / Lena. As the DAX opens, they detonate the ledger publicly—encrypted dumps to regulators, press, and every burned agent on the list—while Sable arrests the buyers upstairs. The Section's cover story collapses in real time. Emotional beat: catharsis with a price tag; Lena's certification makes her a target, and Emrys can't shield her anymore."
+    },
+    {
+      "n": 10,
+      "title": "A Name of His Own",
+      "summary": "POV: Emrys, epilogue voice. Months later, the network is dissolved, its survivors scattered. Emrys, officially nonexistent but finally free of it, meets Inês in Porto to return Hale's watch, then finds Lena living under a new name. He offers her not protection, but partnership. Emotional beat: belonging earned rather than assigned; quiet, hard-won peace."
+    }
+  ]
+}

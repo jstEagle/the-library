@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04927",
+  "title": "A Portrait for the Parish",
+  "author": "Emrys Hartwell",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Rosalind Brightwater, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4927
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09517",
+  "title": "Route 9 Rising",
+  "author": "Isandro Halloran",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Marguerite Nakamura, the eldest sibling raising the younger ones while mom works nights, has spent twelve years being so careful it hurts. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and they are pulled straight into the middle of it. To get through this, they must tell the truth even if it costs the friendship before graduation.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9517
+  }
+}

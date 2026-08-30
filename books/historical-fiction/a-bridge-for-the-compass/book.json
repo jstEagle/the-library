@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02469",
+  "title": "A Bridge for the Compass",
+  "author": "Felix Voss",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Mirabel Montrose, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and she is pulled straight into the middle of it. Now she must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2469
+  }
+}

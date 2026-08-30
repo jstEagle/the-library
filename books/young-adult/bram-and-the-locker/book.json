@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09637",
+  "title": "Bram and the Locker",
+  "author": "Marguerite Halloran",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Xanthe Vasquez, a baker's kid who bakes feelings into bread, stays under the radar: head down, grades up, locker shut. Then a best friend goes missing, leaving only a set of keys behind — and he is pulled straight into the middle of it. Now he must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9637
+  }
+}

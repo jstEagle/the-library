@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01063",
+  "title": "A Spire for the Crown",
+  "author": "Sable Whitlock",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Lena Brightwater, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1063
+  }
+}

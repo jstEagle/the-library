@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09553",
+  "title": "When the Playlist Breaks",
+  "author": "Gideon Vasquez",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Bram Crane, the team's statistician who knows the game is rigged, stays under the radar: head down, grades up, locker shut. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. Now she must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9553
+  }
+}

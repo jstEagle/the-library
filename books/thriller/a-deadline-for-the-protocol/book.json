@@ -1,0 +1,21 @@
+{
+  "id": "THR-08707",
+  "title": "A Deadline for the Protocol",
+  "author": "W. M. Voss",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Edmund Dravenmoor, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. To get through this, they must stop an attack scheduled to look like an accident before the border checkpoint shifts change.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8707
+  }
+}

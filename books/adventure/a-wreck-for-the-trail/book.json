@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00347",
+  "title": "A Wreck for the Trail",
+  "author": "Juniper Fairweather",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sable Fairweather, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 347
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03336",
+  "title": "The Cellar of Old Chapel Road",
+  "author": "Jude Crane",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ivo Nystrom, a folklorist recording songs the village refuses to sing twice, has spent twelve years telling themselves the noises have explanations. Then every mirror in the house starts reflecting the room one second late — and they are pulled straight into the middle of it. Now they must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3336
+  }
+}

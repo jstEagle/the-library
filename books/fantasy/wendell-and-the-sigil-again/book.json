@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02294",
+  "title": "Wendell and the Sigil Again",
+  "author": "Cyrus Okafor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Mara Lockridge, a hedge-witch's runaway apprentice, has spent ten years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. Now they must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2294
+  }
+}

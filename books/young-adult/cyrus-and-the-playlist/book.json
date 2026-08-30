@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09663",
+  "title": "Cyrus and the Playlist",
+  "author": "Casper Yarrow",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ada Okonkwo, the only out kid in a town of nine hundred, is fine. Everything is fine. Obviously.. Then the college essay prompt asks one honest question nobody can stop answering — and she is pulled straight into the middle of it. Now she must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9663
+  }
+}

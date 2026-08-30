@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05921",
+  "title": "Yara and the Verdict",
+  "author": "Emrys Sandoval",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Orsen Coldharbour, a night-shift dispatcher for a taxi company, has spent ten years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5921
+  }
+}

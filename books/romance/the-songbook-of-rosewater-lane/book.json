@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06381",
+  "title": "The Songbook of Rosewater Lane",
+  "author": "Paloma Vasquez",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Paloma Dravenmoor, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, she discovers that staying invisible was never really an option. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6381
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01841",
+  "title": "Rosalind and the Spire",
+  "author": "Ulyana Eastwick",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Kestrel Crane, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1841
+  }
+}

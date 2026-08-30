@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02964",
+  "title": "Isandro and the Orchard",
+  "author": "Juniper Thornbury",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Elodie Almeida, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. Now she must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2964
+  }
+}

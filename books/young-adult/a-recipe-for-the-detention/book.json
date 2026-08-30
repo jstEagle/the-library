@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09675",
+  "title": "A Recipe for the Detention",
+  "author": "Juniper Sandoval",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Emrys Fairweather, the eldest sibling raising the younger ones while mom works nights, counts days until graduation like a sentence being served. Then the teacher pairs nemesis with nemesis for a semester-long project — and they are pulled straight into the middle of it. To get through this, they must win the championship that doesn't matter — and the one that does before prom.",
+  "themes": [
+    "found family",
+    "identity",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9675
+  }
+}

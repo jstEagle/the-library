@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09830",
+  "title": "The Fake Homecoming",
+  "author": "Cyrus Okonkwo",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Noor Eriksen, a coder whose anonymous account knows too much, stays under the radar: head down, grades up, locker shut. Then a best friend goes missing, leaving only a set of keys behind — and they are pulled straight into the middle of it. To get through this, they must expose what the school board buried before graduation.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9830
+  }
+}

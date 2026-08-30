@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00794",
+  "title": "Oath and Crown",
+  "author": "J. M. Joubert",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Kestrel Oyelaran, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 794
+  }
+}

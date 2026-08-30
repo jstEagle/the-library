@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06797",
+  "title": "Tamsin and the Letters",
+  "author": "P. M. Ashgrove",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ulyana Coldharbour, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must say the sentence that has been rehearsed for a decade before the festival ends.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6797
+  }
+}

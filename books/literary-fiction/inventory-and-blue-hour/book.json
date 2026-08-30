@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04305",
+  "title": "Inventory and Blue Hour",
+  "author": "Jonah Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Rafael Amberdale, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. But when a childhood home goes up for auction, he discovers that staying invisible was never really an option. To get through this, he must say goodbye properly, at last, out loud before the demolition date arrives.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4305
+  }
+}

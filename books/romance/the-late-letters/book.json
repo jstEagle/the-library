@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06205",
+  "title": "The Late Letters",
+  "author": "T. M. Vane",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "August Whitlock, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. Then a fake date to survive a family reunion feels too real by dessert — and she is pulled straight into the middle of it. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6205
+  }
+}

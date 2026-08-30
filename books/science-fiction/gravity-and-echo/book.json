@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07342",
+  "title": "Gravity and Echo",
+  "author": "Isandro Dunmore",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Sable Ishikawa, the last human technician on an automated relay station, has spent seven years hauling cargo through contested orbits. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7342
+  }
+}

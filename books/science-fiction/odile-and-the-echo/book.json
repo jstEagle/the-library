@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08123",
+  "title": "Odile and the Echo",
+  "author": "Noor Villalobos",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Lior Nakamura, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. Then an unfamiliar name shows up on the manifest of a ship that never flew — and they are pulled straight into the middle of it. To get through this, they must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8123
+  }
+}

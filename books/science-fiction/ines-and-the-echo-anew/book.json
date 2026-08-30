@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08186",
+  "title": "Ines and the Echo Anew",
+  "author": "Mara Villalobos",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Xanthe Villalobos, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8186
+  }
+}

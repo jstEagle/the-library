@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02610",
+  "title": "Rafael and the Orchard",
+  "author": "C. M. Nakamura",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Ulyana Almeida, a code-carrying courier on the last diplomatic mission of a doomed republic, believes history happens to other people, elsewhere. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. To get through this, she must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2610
+  }
+}

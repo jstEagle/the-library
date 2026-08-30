@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05404",
+  "title": "Mara and the Parish",
+  "author": "Ivo Brightwater",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lena Pemberton, an insurance investigator with a photographic memory, has quietly solved three deaths the police called accidents. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5404
+  }
+}

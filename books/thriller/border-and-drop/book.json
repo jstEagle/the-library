@@ -1,0 +1,21 @@
+{
+  "id": "THR-08800",
+  "title": "Border and Drop",
+  "author": "Xanthe Underhill",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Ada Reyes, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. Now she must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8800
+  }
+}

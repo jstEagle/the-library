@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01302",
+  "title": "When the Garden Breaks",
+  "author": "Edmund Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Zephyrine Dravenmoor, a debt-bound temple scribe, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1302
+  }
+}

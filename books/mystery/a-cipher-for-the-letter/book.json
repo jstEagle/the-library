@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05313",
+  "title": "A Cipher for the Letter",
+  "author": "Tamsin Thornbury",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Mirabel Delacroix, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the statute expires.",
+  "themes": [
+    "found family",
+    "identity",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5313
+  }
+}

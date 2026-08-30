@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00732",
+  "title": "When the Crown Turns",
+  "author": "Orsen Iversen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Astrid Voss, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 732
+  }
+}

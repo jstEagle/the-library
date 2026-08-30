@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03461",
+  "title": "The Hungry Visitor",
+  "author": "Ada Dunmore",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Theo Zhou, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. But when the childhood imaginary friend is waiting on the porch, unchanged, he discovers that staying invisible was never really an option. To get through this, he must learn the song's last verse without singing along before the frost writes its final pattern.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3461
+  }
+}

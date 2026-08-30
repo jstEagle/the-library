@@ -1,0 +1,21 @@
+{
+  "id": "THR-09399",
+  "title": "The Border of Geneva Again",
+  "author": "Edmund Yarrow",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Sebastian Whitlock, a whistle-blower living under four names, hasn't slept through the night since the incident. Then a voiceprint unlocks a server on another continent — and he is pulled straight into the middle of it. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9399
+  }
+}

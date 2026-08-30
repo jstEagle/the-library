@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09771",
+  "title": "Noor and the Prom",
+  "author": "Beatrix Pemberton",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Vesper Vane, a baker's kid who bakes feelings into bread, stays under the radar: head down, grades up, locker shut. Then the college essay prompt asks one honest question nobody can stop answering — and she is pulled straight into the middle of it. Now she must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9771
+  }
+}

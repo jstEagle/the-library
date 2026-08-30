@@ -1,0 +1,21 @@
+{
+  "id": "THR-08648",
+  "title": "When the Contact Breaks",
+  "author": "Lior Ishikawa",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Oscar Sandoval, a crash investigator whose family died in row twelve, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8648
+  }
+}

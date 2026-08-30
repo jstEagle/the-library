@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02520",
+  "title": "The Lantern of Nagasaki's harbor",
+  "author": "F. M. Reyes",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Mirabel Marchetti, a widowed lighthouse keeper during the year of the great storms, keeps a low profile and busy hands. But when the census taker asks one question too many, they discover that staying invisible was never really an option. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the century turns.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2520
+  }
+}

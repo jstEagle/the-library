@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05485",
+  "title": "Will and Witness",
+  "author": "Quentin Dravenmoor",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Zephyrine Kavanagh, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. To get through this, she must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5485
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00888",
+  "title": "Choir and Veil",
+  "author": "Bram Almeida",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Theo Reyes, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 888
+  }
+}

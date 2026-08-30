@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03885",
+  "title": "Kestrel and the House",
+  "author": "Coral Marchetti",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ulyana Marchetti, a folklorist recording songs the village refuses to sing twice, has spent five years telling themselves the noises have explanations. But when the sleep recordings capture a second voice answering questions, they discover that staying invisible was never really an option. To get through this, they must get the family out ahead of the count before the well refills.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3885
+  }
+}

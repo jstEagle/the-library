@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04741",
+  "title": "Hazel and the Glasshouse",
+  "author": "Isandro Sterling",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Lior Blackwood, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. To get through this, they must ask the question the whole family arranged itself around before the mother's memory goes entirely.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4741
+  }
+}

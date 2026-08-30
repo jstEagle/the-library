@@ -1,0 +1,21 @@
+{
+  "id": "THR-09313",
+  "title": "Petra and the Extraction",
+  "author": "Sebastian Eriksen",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Vesper Sandoval, a burnt analyst bounced from three agencies, has spent seven years following rules that keep getting rewritten. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9313
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05628",
+  "title": "Freya and the Autopsy",
+  "author": "Sable Ravensworth",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Mirabel Coldharbour, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5628
+  }
+}

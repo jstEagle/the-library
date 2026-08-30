@@ -1,0 +1,209 @@
+{
+  "title": "Deadline and Contact",
+  "slug": "thriller/deadline-and-contact",
+  "model": "stealth/ox-alpha",
+  "premise": "Astrid Ravensworth, a veteran air-crash investigator, has spent two decades chasing the truth of Flight 4471, which killed their family in row twelve and was officially blamed on pilot error. When a routine voiceprint authentication accidentally unlocks a black-site server in Reykjavik, Astrid discovers the crash was engineered to bury evidence of a covert surveillance program spanning three governments. Hunted by an assassin named Voss and betrayed by allies inside their own agency, Astrid must smuggle the server's data across borders with help from a disgraced journalist and a defected analyst. In the end, Astrid broadcasts the truth from the extraction flight itself at dawn, sacrificing their anonymity forever but finally giving row twelve its reckoning.",
+  "about_author": "Orsen Kavanagh is the pen name of a former aviation-safety analyst who spent eleven years inside regulatory agencies before walking away. Writing under a pseudonym, they channel that insider knowledge into thrillers about institutions that protect themselves first and people second.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Astrid's POV. Twenty years after the crash, Astrid works another investigation by day and rereads the Flight 4471 report by night, finding the same procedural anomalies they always find. The emotional beat is quiet grief hardened into ritual, establishing why the rules matter more than comfort."
+    },
+    {
+      "n": 2,
+      "title": "The Voice That Wasn't Mine",
+      "summary": "Astrid's POV. A biometric audit requires a fresh voiceprint; hours later, Astrid receives an alert that their voice unlocked a server in Reykjavik they've never touched. The beat is cold dread: someone has been collecting pieces of Astrid for years."
+    },
+    {
+      "n": 3,
+      "title": "Cold Storage",
+      "summary": "POV shifts to Elin, a sysadmin in Iceland who notices the unauthorized access and flags it upward—straight into a chain of command that shouldn't exist. Her unease introduces the conspiracy's scale and ends with her being ordered to delete everything, including herself from the logs."
+    },
+    {
+      "n": 4,
+      "title": "Rules Are Rewritten",
+      "summary": "Astrid's POV. Astrid's supervisor hands down a new directive restricting access to legacy crash files, including 4471. Astrid copies what they can onto a personal drive. The beat is quiet defiance—the first rule Astrid has ever broken."
+    },
+    {
+      "n": 5,
+      "title": "Voss",
+      "summary": "The assassin's POV, unnamed until the final line. Voss reviews a kill list and finds 'Ravensworth' third from the top, marked with unusual instructions: make it look like despair. The beat is professional detachment hiding something almost like curiosity."
+    },
+    {
+      "n": 6,
+      "title": "The Journalist Who Waited",
+      "summary": "Astrid's POV. Astrid tracks down Declan Okafor, a journalist ruined twenty years ago for claiming 4471 was no accident. He's bitter, half-drunk, and keeps every file he was mocked for keeping. The beat is reluctant alliance over shared humiliation."
+    },
+    {
+      "n": 7,
+      "title": "What the Server Says",
+      "summary": "Elin's POV. Before wiping the drive, Elin reads one file: flight telemetry proving 4471's transponder was spoofed remotely. She makes a copy instead of deleting it. The beat is moral vertigo—the moment a bystander becomes a participant."
+    },
+    {
+      "n": 8,
+      "title": "Tail Lights",
+      "summary": "Astrid's POV. Astrid notices the same grey sedan on three commutes and realizes the agency's new directive wasn't caution—it was containment. The beat is paranoia sharpening into clarity."
+    },
+    {
+      "n": 9,
+      "title": "Three Governments",
+      "summary": "Declan's POV. Declan lays out his old research: the surveillance program, codenamed LANTERN, funded through defense budgets in three countries, with 4471 as its burial ground. The beat is the horror of scale—this was never one villain."
+    },
+    {
+      "n": 10,
+      "title": "Contact",
+      "summary": "Astrid's POV. An encrypted message arrives from Elin offering the telemetry in exchange for extraction. Astrid must decide whether a stranger on another continent is a lifeline or bait. The beat is desperate hope wrestling with trained suspicion."
+    },
+    {
+      "n": 11,
+      "title": "The Safehouse Arithmetic",
+      "summary": "Astrid's POV. Astrid calculates odds: going public means losing career, safety, identity; staying silent means row twelve stays a lie. They book a flight to Reykjavik under a false name. The beat is commitment—the point of no return crossed quietly."
+    },
+    {
+      "n": 12,
+      "title": "First Blood",
+      "summary": "Voss's POV. Voss eliminates a retired engineer connected to LANTERN and finds the man's copy of the telemetry already gone. Someone is ahead of schedule. The beat is professional irritation curdling into obsession."
+    },
+    {
+      "n": 13,
+      "title": "Harbour Nights",
+      "summary": "Astrid's POV. Reykjavik: Astrid meets Elin in a harbour café and verifies her copy against fragments of the original report. It matches. The beat is cautious trust forming between two people who both broke rules for the truth."
+    },
+    {
+      "n": 14,
+      "title": "Burn Notice",
+      "summary": "Elin's POV. Elin's apartment is torched while she's out; the fire is ruled accidental within hours. She understands the machinery can erase anyone. The beat is terror transformed into resolve—there's no going back now."
+    },
+    {
+      "n": 15,
+      "title": "The Handler",
+      "summary": "New POV: Director Hale, Astrid's mentor, revealed as the agency's liaison to LANTERN. Hale orders Voss to let Astrid run a little longer, to find where the copies are. The beat is chilling paternalism—betrayal wearing a mentor's face."
+    },
+    {
+      "n": 16,
+      "title": "Old Frequencies",
+      "summary": "Astrid's POV. Following the spoofing trail, Astrid contacts a retired signals officer who confirms the remote-takeover technology existed only in one classified program. The beat is grief rekindled—every assumption about the crash collapses."
+    },
+    {
+      "n": 17,
+      "title": "Interrogation Light",
+      "summary": "Declan's POV. Declan is detained at the border and questioned by officials who know too much about his old story. He gives up nothing but realizes they're tracking Astrid through him. The beat is guilt—he may be the leak."
+    },
+    {
+      "n": 18,
+      "title": "Ghost Protocol",
+      "summary": "Astrid's POV. Astrid goes fully dark: burner phones, cash, borrowed identities. For the first time in twenty years, invisibility feels like freedom rather than punishment. The beat is strange liberation inside mounting danger."
+    },
+    {
+      "n": 19,
+      "title": "Voss Closes",
+      "summary": "Voss's POV. Voss corners Elin in a parking structure; she escapes with a flesh wound because a delivery van interrupts. Voss notes the interference was not luck. The beat is the first crack in the assassin's certainty."
+    },
+    {
+      "n": 20,
+      "title": "The Defector's Price",
+      "summary": "Elin's POV. Elin reveals she was once a LANTERN analyst herself—that's how she recognized the files—and that her defection cost her a sister still inside the program. The beat is vulnerability exchanged for trust."
+    },
+    {
+      "n": 21,
+      "title": "Hale's Hand",
+      "summary": "Astrid's POV. Hale calls Astrid directly, offering reinstatement and protection if the drives are surrendered. Astrid hears the mentor's voice and recognizes the handler beneath it. The beat is heartbreak—the last institution falls."
+    },
+    {
+      "n": 22,
+      "title": "Dead Drop",
+      "summary": "Declan's POV. Declan arranges publication insurance: encrypted copies seeded to editors in four countries, set to unlock unless he checks in daily. The beat is grim competence—journalism as a dead man's switch."
+    },
+    {
+      "n": 23,
+      "title": "Ambush at the Archive",
+      "summary": "Astrid's POV. Retrieving physical records from a decommissioned archive, Astrid walks into Voss's trap and barely escapes when Elin triggers the fire suppression system. The beat is visceral fear and the realization Voss fights like someone following orders reluctantly."
+    },
+    {
+      "n": 24,
+      "title": "The Assassin's File",
+      "summary": "Voss's POV. Reviewing Ravensworth's file, Voss finds the family in row twelve—and finds their own signature on a related operation years ago. The beat is the assassin's mask slipping; the job has become personal in the worst way."
+    },
+    {
+      "n": 25,
+      "title": "Parley",
+      "summary": "Astrid's POV. Astrid contacts Voss through an intermediary and offers a trade: the full LANTERN archive in exchange for Voss walking away. Voss neither accepts nor refuses. The beat is dangerous negotiation between hunter and prey."
+    },
+    {
+      "n": 26,
+      "title": "Sister",
+      "summary": "Elin's POV. Elin reaches her sister inside the program, who confirms the extraction flight scheduled at dawn—a sanctioned escape route that is actually a trap. The beat is familial love weaponized against them."
+    },
+    {
+      "n": 27,
+      "title": "Rewritten Again",
+      "summary": "Astrid's POV. News breaks that 4471's case is being 'reopened'—with a new narrative already written blaming Astrid for tampering. The beat is fury: the machine doesn't deny anymore, it reframes."
+    },
+    {
+      "n": 28,
+      "title": "Allies of Convenience",
+      "summary": "Declan's POV. Declan brokers a fragile pact: a foreign intelligence officer who wants LANTERN exposed will provide the extraction plane—if the data includes his country's redactions removed. The beat is uneasy compromise; everyone wants the truth shaped their way."
+    },
+    {
+      "n": 29,
+      "title": "What Loyalty Costs",
+      "summary": "Astrid's POV. A junior colleague who covered for Astrid is arrested. Astrid faces the wreckage loyalty leaves behind and chooses to send the colleague's family to safety anyway. The beat is sorrowful responsibility—truth has collateral."
+    },
+    {
+      "n": 30,
+      "title": "Voss Decides",
+      "summary": "Voss's POV. Ordered to plant evidence framing Astrid, Voss instead deletes the assignment and goes off-book. The beat is mutiny born of conscience—the assassin becomes the story's wild card."
+    },
+    {
+      "n": 31,
+      "title": "The Airport Gambit",
+      "summary": "Astrid's POV. The team plans to reach the dawn flight through cargo tunnels, using Elin's sister's credentials. Every route is mapped, every contingency rehearsed. The beat is taut anticipation—the clock starts."
+    },
+    {
+      "n": 32,
+      "title": "Betrayal at the Gate",
+      "summary": "Declan's POV. The foreign officer's men turn on them at security, seizing the drives. Declan takes a bullet shielding Elin. The beat is shock and sacrifice—the alliance was always conditional."
+    },
+    {
+      "n": 33,
+      "title": "Row Twelve, Revisited",
+      "summary": "Astrid's POV. Wounded and cornered, Astrid confronts Voss in the terminal and speaks not of deals but of the passengers—names, seats, row twelve. Voss lowers the weapon. The beat is the novel's moral hinge: humanity disarms where leverage failed."
+    },
+    {
+      "n": 34,
+      "title": "Dawn Window",
+      "summary": "Ensemble POV rotation. With minutes to wheels-up, Elin restores the seized drives from Declan's dead-man's-switch backup, Voss clears the runway of the ambush team, and Astrid runs for the gate. The beat is breathless convergence."
+    },
+    {
+      "n": 35,
+      "title": "Broadcast Altitude",
+      "summary": "Astrid's POV. Airborne, Astrid uploads the entire archive live from the plane, streaming to every editor Declan seeded, past any government's reach. The beat is catharsis—the truth escaping faster than it can be shot down."
+    },
+    {
+      "n": 36,
+      "title": "Fallout",
+      "summary": "Declan's POV, recovering in hospital. Headlines detonate across three countries; resignations cascade; Hale is taken into custody, still insisting it was protection, not murder. The beat is vindication shadowed by cost."
+    },
+    {
+      "n": 37,
+      "title": "Testimony",
+      "summary": "Astrid's POV. At the public inquiry, Astrid testifies—not as an investigator reciting findings, but as a survivor naming the dead of row twelve. The beat is grief finally given language and a room that listens."
+    },
+    {
+      "n": 38,
+      "title": "Elin's Choice",
+      "summary": "Elin's POV. Offered reinstatement and silence, Elin declines and publishes her own account, reuniting with her sister outside the program's walls. The beat is belonging chosen over institutional identity."
+    },
+    {
+      "n": 39,
+      "title": "The Quiet Passenger",
+      "summary": "Voss's POV, final entry. Voss disappears, leaving Astrid an anonymous package: the original order for 4471, signed higher than Hale ever reached. The beat is unresolved justice—an honest ending, not a tidy one."
+    },
+    {
+      "n": 40,
+      "title": "Visible",
+      "summary": "Astrid's POV. One year later, Astrid visits the memorial, no longer anonymous, no longer invisible, standing openly among other families of row twelve. The beat is peace earned through exposure: belonging found not by hiding, but by being seen."
+    }
+  ]
+}

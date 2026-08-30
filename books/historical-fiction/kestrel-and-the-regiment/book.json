@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02438",
+  "title": "Kestrel and the Regiment",
+  "author": "Freya Eastwick",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Gideon Crane, a battlefield nurse keeping a ledger of the names officers omit, has spent five years learning which silences keep people safe. Then a child is left at the door with instructions to forget the face — and he is pulled straight into the middle of it. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2438
+  }
+}

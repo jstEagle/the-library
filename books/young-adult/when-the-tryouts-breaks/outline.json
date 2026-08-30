@@ -1,0 +1,29 @@
+{
+  "title": "When the Tryouts Breaks",
+  "slug": "young-adult/when-the-tryouts-breaks",
+  "model": "stealth/ox-alpha",
+  "premise": "Lior Eastwick has spent three years hiding behind an anonymous coding account that exposes corruption in her city, careful never to leave a trace—until she finds her late grandmother's recipe box hiding coded instructions to a network of vigilante archivists who once did the same work. Pulled into an inheritance she never asked for, Lior must finish her grandmother's final unfinished job: exposing the developer whose cover-ups destroyed a neighborhood—and whose lawyer is closing in on her anonymous account. As graduation looms, Lior chooses to sign her real name to the truth, trading invisibility for justice and claiming both her grandmother's legacy and her own voice.",
+  "about_author": "Yara Quintana is a former software tester turned novelist who writes about quiet kids who break loud systems. She lives in a coastal town where she keeps her grandmother's actual recipe box on her desk as a reminder that every family keeps secrets in plain sight.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Recipe That Wasn't",
+      "summary": "Lior's POV. Sorting her grandmother's belongings after the funeral, Lior finds a recipe card whose 'ingredients' decode to server credentials and a dead-drop address. Her anonymous exposé account receives its first legal threat the same week. The emotional beat is disorientation: grief colliding with the realization that her grandmother lived a double life—and that someone is hunting Lior's own."
+    },
+    {
+      "n": 2,
+      "title": "Inherited Shadows",
+      "summary": "Lior's POV, with interludes from her grandmother's decoded journal. Following the recipe trail, Lior meets Marisol, a retired librarian who was part of the old network, and learns the unfinished job: proof that developer Alden Voss falsified environmental reports that sickened the Fenbrook neighborhood. Lior's account is doxxed to a shell company. The beat is reluctant commitment—she can't unlearn what she knows."
+    },
+    {
+      "n": 3,
+      "title": "What the Labels Hide",
+      "summary": "Lior's POV. Racing graduation week, Lior and Marisol reconstruct the evidence while Voss's lawyer pressures her school with a subpoena targeting 'the anonymous account.' Her best friend Dev catches her mid-burnout and forces her to admit she's terrified of being seen. When the archive's backup server is wiped remotely, Lior realizes the breach came from inside the old network. The beat is betrayal and the cost of trust."
+    },
+    {
+      "n": 4,
+      "title": "Signed, Lior Eastwick",
+      "summary": "Lior's POV. The traitor—Marisol's estranged son, deep in Voss's debt—is confronted and flipped, handing over the last ledger. At graduation, instead of walking quietly, Lior publishes everything under her real name, then testifies as the Fenbrook families' class action goes public. Voss is indicted; the network passes to her. The beat is resolution: survival was never the prize—being known, on her own terms, was."
+    }
+  ]
+}

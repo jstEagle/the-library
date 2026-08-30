@@ -1,0 +1,21 @@
+{
+  "id": "THR-08713",
+  "title": "A Safehouse for the Drop",
+  "author": "Orsen Sandoval",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Lena Underhill, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. To get through this, she must extract a defector who may be the bait before the extraction flight leaves at dawn.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8713
+  }
+}

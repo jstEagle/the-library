@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04506",
+  "title": "The Quiet Blue Hour",
+  "author": "Sebastian Nystrom",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Vesper Vane, a night librarian in a city that sleeps less every year, moves through the days like a tenant, not an owner. But when a childhood home goes up for auction, he discovers that staying invisible was never really an option. Now he must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4506
+  }
+}

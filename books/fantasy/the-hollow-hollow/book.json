@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00734",
+  "title": "The Hollow Hollow",
+  "author": "Juniper Iversen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Xanthe Voss, a hedge-witch's runaway apprentice, has spent five years selling small charms in a city that outlawed magic. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 734
+  }
+}

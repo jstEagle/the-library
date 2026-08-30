@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07579",
+  "title": "Wren and the Terminal",
+  "author": "Jude Amberdale",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Silas Brightwater, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7579
+  }
+}

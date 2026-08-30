@@ -1,0 +1,59 @@
+{
+  "title": "Safehouse and Protocol",
+  "slug": "thriller/safehouse-and-protocol",
+  "model": "stealth/ox-alpha",
+  "premise": "Xanthe Iversen, a crash investigator whose family died in row twelve of Flight 4471, has spent seven years hidden inside the Agency's witness-protection apparatus, following protocols that keep shifting beneath her. When the safe house she's guarded appears on a real-estate site with interior photos — including one showing her family's recovered luggage — she realizes someone is using her past as bait to flush out Marek Voss, a defector carrying proof that the crash was engineered. Extracting Voss through a gauntlet of compromised handlers, Xanthe discovers he was the flight's maintenance engineer and the only person who tried to stop it; together they expose the broker who sold the sabotage, though exposure costs her the Agency's protection forever. In the end, she trades invisibility for truth, keeping Voss alive not out of duty but because found family, however accidental, is worth the risk.",
+  "about_author": "Silas Nystrom is the pen name of a former aviation-safety analyst who spent a decade reviewing accident reports before turning to fiction. He writes from a coastal town whose name he declines to confirm, drawing on his obsession with the small procedural failures that hide large human crimes.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Interior Photos",
+      "summary": "POV: Xanthe. Scrolling listings at 3 a.m., Xanthe finds her safe house for sale — every room photographed, including the sealed storage room holding row twelve's recovered effects. Her handler dismisses it as a data leak, but the listing agent's phone number traces to a shell company tied to the crash file. Emotional beat: the cold dread of realizing her invisibility was always someone else's decision."
+    },
+    {
+      "n": 2,
+      "title": "Protocol Seven",
+      "summary": "POV: Xanthe. Summoned to a relocation briefing, Xanthe learns Protocol Seven now requires her to personally extract defector Marek Voss from Riga — a rule written forty-eight hours ago by an office that shouldn't know she exists. She memorizes the extraction route while noting which details feel rehearsed. Emotional beat: suspicion hardening into resolve; duty and instinct pulling opposite directions."
+    },
+    {
+      "n": 3,
+      "title": "The Man Who Signed the Logbook",
+      "summary": "POV: alternating Xanthe/Voss. In a Riga safe flat, Voss reveals he was Flight 4471's line maintenance engineer and signed off a tail strike inspection hours before takeoff — a signature later forged over. He carries microfiche proving the sabotage order came from inside the Agency's own contracts division. Emotional beat: grief meeting its first witness; hatred complicated by recognition."
+    },
+    {
+      "n": 4,
+      "title": "Row Twelve",
+      "summary": "POV: Voss. Through Voss's eyes, we see Xanthe as the investigators' file described her: the girl who identified all three bodies at nineteen. He confesses he wrote to her family twice after the crash; both letters were intercepted. When she shows him the photo of her parents' luggage in the listing, he goes pale — he packed that suitcase's contents list himself. Emotional beat: two broken archives of the same disaster finding each other."
+    },
+    {
+      "n": 5,
+      "title": "Extraction Weather",
+      "summary": "POV: Xanthe. The planned air corridor closes without explanation; a replacement route arrives pre-approved, which no real route ever is. Xanthe runs the numbers like a crash report and concludes the extraction itself is designed to fail — Voss is bait to draw out whoever else holds evidence. She decides to move early, off-protocol, with a stolen fuel truck and a falsified manifest. Emotional beat: the moment obedience dies."
+    },
+    {
+      "n": 6,
+      "title": "Checkpoint Kirova",
+      "summary": "POV: alternating. A staged border checkpoint forces them onto foot through marshland; Voss's heart condition slows them, and Xanthe carries the fiche taped against her ribs. They're nearly taken by a hunter team led by Callum Reyes — the handler who recruited her seven years ago and the only person she ever trusted. Emotional beat: betrayal sharpened by intimacy; love against duty made literal."
+    },
+    {
+      "n": 7,
+      "title": "What Reyes Kept",
+      "summary": "POV: Reyes (single chapter). Reyes's POV reveals he flagged the sabotage internally years ago and was buried; he joined the hunt to reach Voss before the brokers do, not to kill him. But his orders are real, and his team believes them. He lets them slip past a roadblock and burns his own cover doing it. Emotional beat: a good man choosing which duty to betray."
+    },
+    {
+      "n": 8,
+      "title": "The Listing Agent",
+      "summary": "POV: Xanthe. Tracing the real-estate shell to a Vienna office, Xanthe confronts Annelise Brandt, the contracts broker who sold the sabotage and has been 'relocating' loose ends ever since — the safe-house listing was her inventory check. Brandt offers Xanthe her family's full case file in exchange for the fiche and Voss. Emotional beat: temptation priced exactly at the wound."
+    },
+    {
+      "n": 9,
+      "title": "Descent Path",
+      "summary": "POV: alternating. Climax: rather than trade, Xanthe broadcasts the fiche's contents across aviation-safety channels mid-flight, forcing dozens of independent witnesses before Brandt's people can silence them. A struggle aboard the chartered plane ends with Brandt restrained and Reyes arriving to make the arrest official — or as official as anything gets. Emotional beat: terror transmuted into agency; the investigator finally closing her own case."
+    },
+    {
+      "n": 10,
+      "title": "New Address, Unlisted",
+      "summary": "POV: Xanthe. Months later: the crash findings are reopened, Brandt awaits trial, and Xanthe is officially dead — a status she chose. She and Voss share a rented cottage near the sea, unlisted, unphotographed, chosen this time by her. She unpacks her family's suitcase at last. Emotional beat: quiet resolution; inheritance reclaimed as memory instead of mission, and found family kept on purpose."
+    }
+  ]
+}

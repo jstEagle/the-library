@@ -1,0 +1,119 @@
+{
+  "title": "Sable and the Rivergate",
+  "slug": "adventure/sable-and-the-rivergate",
+  "model": "stealth/ox-alpha",
+  "premise": "Gideon Dunmore, estranged child of the late archaeologist Miriam Dunmore, works river salvage along the Sable coast, keeping distance from both family and law. When a dredge hauls up a chest bearing the seal of Vessany—a nation erased from maps a century ago—Gideon finds inside it a ledger naming their mother as its last custodian, and proof that the expedition that killed her was hunting this very chest. Pursued by a colonial trust that legally owns everything the river yields and by the surviving members of Miriam's old crew who want the truth buried, Gideon assembles a ragtag found family of salvagers to retrace Miriam's route upstream. In the climax, during the monsoon's first landfall, Gideon chooses to open the chest's second compartment publicly at the Rivergate customs house, forcing the trust's fraud into daylight rather than smuggling it away. The expedition comes home intact, the inheritance is claimed on Gideon's own terms, and the found family becomes the one they never had.",
+  "about_author": "Jude Okonkwo is a former river surveyor who spent six years charting silt channels along trade deltas before turning to fiction. They write adventure stories about people the maps forget, drawing on oral histories collected in port towns.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Miles, Not Years",
+      "summary": "Gideon's POV. A routine salvage dive establishes Gideon's drifting life: measuring time in river miles, dodging the Dunmore name, sleeping aboard the patched barge Kestrel. Emotional beat: loneliness worn as competence."
+    },
+    {
+      "n": 2,
+      "title": "What the Dredge Refused",
+      "summary": "Gideon's POV. The crew's dredge snags; diving down, Gideon frees a lead-lined chest stamped with the extinct seal of Vessany. Beat: wonder curdling into dread as the seal matches a sketch from a childhood memory of their mother's study."
+    },
+    {
+      "n": 3,
+      "title": "The Trust's Paper",
+      "summary": "POV of Inspector Halloran of the Colonial Salvage Trust. He learns of the find through a bribed dockhand and files a claim: everything under the river belongs to the Crown's trust. Beat: cold bureaucratic menace."
+    },
+    {
+      "n": 4,
+      "title": "Mother's Handwriting",
+      "summary": "Gideon's POV. Inside the chest: a Vessany ledger whose final page names 'M. Dunmore, custodian.' Gideon confronts five years of silence with their dead mother. Beat: grief reopened, resolve kindled."
+    },
+    {
+      "n": 5,
+      "title": "The Crew You Keep",
+      "summary": "Ensemble POV rotating through the Kestrel's crew: engineer Sefa, ex-soldier Bram, runaway cartographer Nils. Each weighs leaving as the Trust's claim notice arrives. Beat: the fragile found family choosing to stay."
+    },
+    {
+      "n": 6,
+      "title": "Auction of Ghosts",
+      "summary": "Gideon's POV. In port, Gideon attends a sale of Miriam's seized effects and buys back her field journal from a dealer—overbid by an unknown buyer. Beat: first contact with the enemy without knowing it."
+    },
+    {
+      "n": 7,
+      "title": "The Journal's Route",
+      "summary": "Nils's POV. Deciphering Miriam's journal reveals her final route upstream toward the drowned Vessany archive at Greyfall Bend—and a warning about her own crew. Beat: the past becoming a map."
+    },
+    {
+      "n": 8,
+      "title": "Old Crew, New Wages",
+      "summary": "POV of Cassian Vole, Miriam's former expedition partner, now a respectable trust consultant. He hires muscle and quietly buys the unknown buyer's auction lots. Beat: villain revealed, motive personal not just greed."
+    },
+    {
+      "n": 9,
+      "title": "Running the Tollgate",
+      "summary": "Bram's POV. The Kestrel slips the Trust's toll checkpoint at night using a decoy barge. Beat: camaraderie forged in risk; Bram's guilt over a past betrayal surfaces."
+    },
+    {
+      "n": 10,
+      "title": "Greyfall Bend",
+      "summary": "Gideon's POV. The crew reaches the flooded ruins and dives the submerged archive hall, finding Miriam's camp markers still standing. Beat: awe and the eerie intimacy of walking a parent's last footsteps."
+    },
+    {
+      "n": 11,
+      "title": "The Second Compartment",
+      "summary": "Sefa's POV. The chest proves double-bottomed; hidden tools reveal a sealed chamber requiring a key—the pendant Gideon has worn since childhood. Beat: inheritance literalized; Gideon hesitates to open it."
+    },
+    {
+      "n": 12,
+      "title": "Vole Arrives",
+      "summary": "Cassian's POV. His gunboats corner the Kestrel at Greyfall; he offers Gideon partnership and the truth about Miriam's death—for the compartment's contents. Beat: temptation framed as reconciliation."
+    },
+    {
+      "n": 13,
+      "title": "What Miriam Buried",
+      "summary": "Gideon's POV. Against advice, Gideon opens the chamber: documents proving the Trust manufactured Vessany's extinction to seize its treasury, and Miriam's testimony naming Cassian as complicit in her crew's deaths. Beat: fury and clarity."
+    },
+    {
+      "n": 14,
+      "title": "The Bargain Refused",
+      "summary": "Nils's POV. Gideon refuses Cassian's deal; gunfire breaks out. Nils uses map knowledge to hide the Kestrel in a blind channel. Beat: fear transmuted into loyalty; the family holds."
+    },
+    {
+      "n": 15,
+      "title": "Monsoon Warning",
+      "summary": "Sefa's POV. Barometers collapse—the monsoon makes landfall in four days, closing the river. They must reach the Rivergate customs house before the waterway shuts or the evidence drowns with them. Beat: ticking clock engaged."
+    },
+    {
+      "n": 16,
+      "title": "Bram's Debt",
+      "summary": "Bram's POV. To buy time, Bram surrenders himself to a Trust patrol, feeding false coordinates. Beat: sacrifice as redemption for his earlier betrayal."
+    },
+    {
+      "n": 17,
+      "title": "Downriver in the Rain",
+      "summary": "Gideon's POV. A brutal storm-run downriver; the Kestrel nearly founders; Gideon nearly drowns saving the ledger, hallucinating a conversation with Miriam. Beat: reckoning with grief mid-crisis."
+    },
+    {
+      "n": 18,
+      "title": "Halloran's Doubt",
+      "summary": "Inspector Halloran's POV. Reviewing Bram's staged capture, Halloran finds discrepancies in the Trust's own records and begins quietly pulling threads against his employers. Beat: the system cracking from within."
+    },
+    {
+      "n": 19,
+      "title": "The Rivergate Stands",
+      "summary": "Cassian's POV. Cassian reaches the customs house first, securing an injunction to seize the Kestrel's cargo on arrival. Beat: apparent checkmate; his confidence at its peak."
+    },
+    {
+      "n": 20,
+      "title": "Landfall",
+      "summary": "Gideon's POV. Climax. The Kestrel docks into custody; instead of surrendering the chest quietly, Gideon opens the second compartment before assembled officers, press, and dockworkers, reading Miriam's testimony aloud as the monsoon hammers the roof. Beat: courage replacing invisibility."
+    },
+    {
+      "n": 21,
+      "title": "After the Water",
+      "summary": "Halloran's POV. Arrests follow; the Trust's charter is suspended; Cassian flees upriver but is taken at the tollgate he once controlled. Beat: justice achieved outside and inside the law at once."
+    },
+    {
+      "n": 22,
+      "title": "Home Water",
+      "summary": "Gideon's POV. Weeks later, the crew refits the Kestrel with salvage rights granted in the Dunmore name. Gideon finally measures life in years again, surrounded by chosen family. Beat: belonging earned, inheritance accepted."
+    }
+  ]
+}

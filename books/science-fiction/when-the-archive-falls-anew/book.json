@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08236",
+  "title": "When the Archive Falls Anew",
+  "author": "Tamsin Delacroix",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Freya Joubert, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. Now she must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8236
+  }
+}

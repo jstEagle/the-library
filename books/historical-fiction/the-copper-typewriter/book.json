@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02898",
+  "title": "The Copper Typewriter",
+  "author": "Casper Dravenmoor",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Tamsin Eriksen, a suffragist's driver who reads every letter before delivering it, has spent twenty years learning which silences keep people safe. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2898
+  }
+}

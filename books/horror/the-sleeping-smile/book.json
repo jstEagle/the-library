@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03742",
+  "title": "The Sleeping Smile",
+  "author": "Jonah Oyelaran",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Elodie Winterbourne, a twin who came home to bury the wrong sibling, has spent five years telling themselves the noises have explanations. Then the excavation crew unearths a door, sealed from the inside — and they are pulled straight into the middle of it. Now they must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3742
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01470",
+  "title": "A Choir for the Oath",
+  "author": "I. M. Iversen",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Ivo Eastwick, a royal food-taster building immunity one dish at a time, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1470
+  }
+}

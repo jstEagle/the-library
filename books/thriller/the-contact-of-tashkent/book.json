@@ -1,0 +1,21 @@
+{
+  "id": "THR-08919",
+  "title": "The Contact of Tashkent",
+  "author": "Zephyrine Okonkwo",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Vesper Voss, a crash investigator whose family died in row twelve, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8919
+  }
+}

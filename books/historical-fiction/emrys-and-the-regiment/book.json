@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02882",
+  "title": "Emrys and the Regiment",
+  "author": "Xanthe Voss",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Mara Dravenmoor, a battlefield nurse keeping a ledger of the names officers omit, has spent five years learning which silences keep people safe. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and they are pulled straight into the middle of it. Now they must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2882
+  }
+}

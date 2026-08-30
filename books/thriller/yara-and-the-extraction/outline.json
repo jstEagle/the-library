@@ -1,0 +1,119 @@
+{
+  "title": "Yara and the Extraction",
+  "slug": "thriller/yara-and-the-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Rafael Kavanagh, a hostage negotiator haunted by the botched extraction that killed his partner three years ago, receives a call on an unregistered burner from Elena Vasquez—the defector he failed to save, alive and hiding in Lisbon. She claims intelligence services faked her death and are now using her as bait to flush out a mole inside Rafael's own unit. As Rafael runs an off-book extraction across Europe, torn between duty to his agency and loyalty to the woman whose death defined him, he discovers the mole is his mentor, Director Hale, who orchestrated the original failure. In the end, Rafael trades his career and clean record to expose Hale and get Elena out alive—choosing love and truth over the institution that rewrote every rule he followed.",
+  "about_author": "O. M. Zhou is a former crisis-line counselor who spent a decade listening to negotiations go wrong before turning them into fiction. They write from a small apartment overlooking a harbor, where they insist every thriller must cost its hero something real.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Number That Shouldn't Ring",
+      "summary": "Rafael's POV. Three years after the failed Prague extraction, Rafael works routine negotiations in Dublin, numb and rule-bound. A burner phone left in his gym locker rings; the voice on the line is Elena Vasquez, the defector whose death ended his career's momentum. Emotional beat: disbelief curdling into dread."
+    },
+    {
+      "n": 2,
+      "title": "Ghost Protocol",
+      "summary": "Elena's POV. In a Lisbon safehouse, Elena explains how she survived: her 'death' was staged by people inside Rafael's agency, and she's been running ever since. She gives him forty-eight hours before she moves again. Emotional beat: guarded hope between two people who mourned each other."
+    },
+    {
+      "n": 3,
+      "title": "Chain of Custody",
+      "summary": "Rafael pulls the sealed Prague files and finds pages redacted after the fact—someone rewrote history inside his own building. His mentor, Director Hale, warns him off an 'open wound.' Emotional beat: the first crack in institutional trust."
+    },
+    {
+      "n": 4,
+      "title": "Forty-Eight Hours",
+      "summary": "Elena's POV. Elena watches her safehouse from a rooftop café and spots surveillance that doesn't match any service she knows. She realizes whoever leaked her location wants Rafael to come. Emotional beat: paranoia sharpening into resolve."
+    },
+    {
+      "n": 5,
+      "title": "Lisbon, Off the Books",
+      "summary": "Rafael flies to Portugal using leave he can't explain, contacting an old fixer named Duarte for transport. He rehearses negotiation scripts for a conversation with a ghost. Emotional beat: guilt meeting longing at thirty thousand feet."
+    },
+    {
+      "n": 6,
+      "title": "The Rooftop Café",
+      "summary": "Dual-tension scene: Rafael and Elena meet in daylight, both scanning crowds. Their reunion is interrupted when a shooter opens fire—clearly meant to miss. Someone wants them spooked, not dead. Emotional beat: relief shattered by confirmation they're being played."
+    },
+    {
+      "n": 7,
+      "title": "Rules of Engagement",
+      "summary": "Elena's POV. Hiding in Duarte's boatyard, Elena lays out what she knows: a mole codenamed LANTERN sold her route in Prague. She kept proof—a ledger on a drive hidden in plain sight. Emotional beat: trust extended as a calculated gamble."
+    },
+    {
+      "n": 8,
+      "title": "LANTERN",
+      "summary": "Rafael decodes fragments of the Prague file and narrows the mole to three officers—including Hale and his closest friend, Marcus Webb. He tests Webb with false information and waits. Emotional beat: suspicion poisoning old friendships."
+    },
+    {
+      "n": 9,
+      "title": "The Bait Question",
+      "summary": "Elena confronts the possibility she's the bait herself—that her survival is the trap designed to burn Rafael. She almost walks away, then chooses to stay and finish it. Emotional beat: self-doubt overcome by agency."
+    },
+    {
+      "n": 10,
+      "title": "Webb Answers",
+      "summary": "Webb takes the baited information straight to Hale, confirming one of them is LANTERN—but Rafael can't tell which. Meanwhile, an internal affairs team is dispatched to retrieve him. Emotional beat: the net closing from all sides."
+    },
+    {
+      "n": 11,
+      "title": "Safehouse Arithmetic",
+      "summary": "Elena's POV. Elena and Rafael count their exits, their allies, their hours. In a quiet moment, they finally speak about Prague—what each believed the other felt. Emotional beat: love admitted aloud under threat of death."
+    },
+    {
+      "n": 12,
+      "title": "Internal Affairs",
+      "summary": "IA officer Sorensen corners Rafael in Porto with evidence of his unauthorized travel. Rafael negotiates—his own specialty turned inward—and buys six hours by promising LANTERN's name. Emotional beat: a man talking his way past his own conscience."
+    },
+    {
+      "n": 13,
+      "title": "The Ledger",
+      "summary": "Elena retrieves the drive from a train-station locker and finds it partially corrupted—enough to implicate someone, not enough to prove who. They need the original archive in Prague. Emotional beat: hope requiring a return to the worst place imaginable."
+    },
+    {
+      "n": 14,
+      "title": "Back to Prague",
+      "summary": "Rafael and Elena cross into the Czech Republic using Duarte's smuggling routes, pursued by both IA and Hale's cleaner, Voss. The city where everything broke now holds the only proof. Emotional beat: dread made geographic."
+    },
+    {
+      "n": 15,
+      "title": "The Archive Room",
+      "summary": "In the sub-basement of the old embassy annex, Elena recovers the intact ledger. Voss ambushes them; Rafael negotiates Voss down by offering him Hale instead of them—flipping a killer with the truth. Emotional beat: words as weapons, finally aimed correctly."
+    },
+    {
+      "n": 16,
+      "title": "What Hale Rewrote",
+      "summary": "Elena's POV. Reading the ledger, Elena discovers Hale sold her route in Prague deliberately—to protect a larger operation—and let Rafael carry the blame to keep him controllable. Emotional beat: grief transmuting into fury."
+    },
+    {
+      "n": 17,
+      "title": "Six Hours",
+      "summary": "Sorensen's deadline arrives. Rafael hands over the ledger, gambling that Sorensen hates being used more than she loves procedure. She stalls Hale's kill order—for now. Emotional beat: alliance built on shared disgust."
+    },
+    {
+      "n": 18,
+      "title": "Hale's Offer",
+      "summary": "Hale meets Rafael privately, offering full reinstatement and Elena's quiet disappearance if Rafael returns the ledger and forgets. He frames it as mercy. Emotional beat: temptation wearing a father's face."
+    },
+    {
+      "n": 19,
+      "title": "The Extraction",
+      "summary": "Elena's POV. The plan: move Elena through the airport under Voss's reluctant cover while Sorensen arrests Hale. Everything goes sideways when Hale anticipates the route. Emotional beat: terror and trust in equal measure."
+    },
+    {
+      "n": 20,
+      "title": "Negotiation at Gate 12",
+      "summary": "Climax. Rafael faces Hale in the terminal with hostages of circumstance—civilians, Sorensen, Elena in the crowd. Using everything Hale taught him, Rafael talks him into surrender by dismantling his logic piece by piece. Emotional beat: the student out-negotiating the teacher."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath, On the Record",
+      "summary": "Hale is arrested; LANTERN dies publicly. Rafael refuses reinstatement, accepting a stripped-down career rather than a rewritten one. Elena is granted protected residency through Sorensen's testimony. Emotional beat: justice without celebration."
+    },
+    {
+      "n": 22,
+      "title": "A Voice Worth Answering",
+      "summary": "Epilogue. Months later, Rafael's phone rings—an ordinary number, no burner required. Elena, on a harbor balcony, asks a question with no negotiation attached. He answers yes. Emotional beat: peace earned, rules finally his own."
+    }
+  ]
+}

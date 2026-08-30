@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04235",
+  "title": "Zephyrine and the Language",
+  "author": "Coral Zhou",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Quentin Thornbury, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. To get through this, they must forgive the stranger in the old photographs before the house sale closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4235
+  }
+}

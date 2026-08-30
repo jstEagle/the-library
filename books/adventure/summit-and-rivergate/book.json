@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00269",
+  "title": "Summit and Rivergate",
+  "author": "Elodie Ishikawa",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Xanthe Marchetti, a salvage diver working a wreck the navy won't discuss, keeps moving because stopping costs more. But when an old rival hires the crew for the one job that was sworn off long ago, they discover that staying invisible was never really an option. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 269
+  }
+}

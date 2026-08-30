@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01017",
+  "title": "Sigil and Spire",
+  "author": "Jonah Villalobos",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Isandro Galloway, a cartographer of unmapped realms, has spent twenty years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1017
+  }
+}

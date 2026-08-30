@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07707",
+  "title": "The Archive of New Lagos",
+  "author": "Vesper Blackwood",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Marguerite Montrose, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "identity",
+    "memory",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7707
+  }
+}

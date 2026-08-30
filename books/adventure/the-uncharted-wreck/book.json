@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00107",
+  "title": "The Uncharted Wreck",
+  "author": "S. M. Reyes",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ada Galloway, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 107
+  }
+}

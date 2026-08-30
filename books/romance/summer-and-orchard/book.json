@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06597",
+  "title": "Summer and Orchard",
+  "author": "Mara Vane",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ines Montrose, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6597
+  }
+}

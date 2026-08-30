@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01655",
+  "title": "Xanthe and the Thorn",
+  "author": "I. M. Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Edmund Thornbury, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1655
+  }
+}

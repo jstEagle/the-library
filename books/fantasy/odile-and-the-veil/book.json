@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01459",
+  "title": "Odile and the Veil",
+  "author": "Sebastian Galloway",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Sebastian Brightwater, a cartographer of unmapped realms, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1459
+  }
+}

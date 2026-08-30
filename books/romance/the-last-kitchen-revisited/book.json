@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06748",
+  "title": "The Last Kitchen Revisited",
+  "author": "H. M. Lockridge",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Noor Joubert, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6748
+  }
+}

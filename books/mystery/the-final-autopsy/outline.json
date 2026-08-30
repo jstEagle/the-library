@@ -1,0 +1,59 @@
+{
+  "title": "The Final Autopsy",
+  "slug": "mystery/the-final-autopsy",
+  "model": "stealth/ox-alpha",
+  "premise": "Petra Brightwater, archivist of St. Aldhelm's Cathedral, discovers that the diary of Marguerite Voss—a woman who vanished twelve years ago—contains entries written after her disappearance, in handwriting Petra slowly recognizes as her own. As Petra investigates, she uncovers a conspiracy among the cathedral's ruling chapter to bury a death in the locked crypt and pin it on the missing woman. The final entry was dictated by Marguerite herself before her murder, hidden in plain sight in the archive Petra has curated for years. In the crypt beneath the cathedral, Petra forces a confession from Dean Corliss, chooses justice outside the law by sealing him alive with his crime's evidence rather than killing him, and reopens the case on the eve of trial—knowing her own memory of that night may be the next thing to unravel.",
+  "about_author": "Astrid Pemberton is a former parish records clerk who spent a decade cataloguing centuries of small-town secrets before turning to fiction. She writes mysteries about archives, memory, and the quiet violence of respectable institutions.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Alphabet of the Dead",
+      "summary": "Petra Brightwater's POV. Establishes her ordered world: twelve years cataloguing St. Aldhelm's records, including the closed file on Marguerite Voss's disappearance. While re-shelving after a roof leak damages the archive, Petra finds Voss's donated diary—and notices entries continuing three weeks past the date she vanished. Emotional beat: unease beneath routine; the first crack in Petra's belief that everything is filed and finished."
+    },
+    {
+      "n": 2,
+      "title": "Ink That Outlived Its Owner",
+      "summary": "Petra's POV. She compares the post-disappearance handwriting against authenticated samples and confirms it matches—but the later entries describe events only someone inside the cathedral could know, including a night in the locked crypt. She approaches Sergeant Ilsa Reyes, who warns her the case is legally closed and politically protected. Emotional beat: growing obsession; Petra realizes she cannot unknow what she has read."
+    },
+    {
+      "n": 3,
+      "title": "What the Chapter Knew",
+      "summary": "Alternating POV begins with Dean Ambrose Corliss. He learns of Petra's inquiries through the verger and quietly orders the archive sealed for 'conservation.' Petra, sensing the trap, photographs pages and hides copies inside misfiled ledgers only she could find. Emotional beat: paranoia sharpening into resolve; the institution shows its teeth, and Petra stops being a bystander."
+    },
+    {
+      "n": 4,
+      "title": "The Verger's Confession",
+      "summary": "Verger Tom Okafor's POV. Dying of heart failure, he summons Petra and admits he helped move a body into the crypt twelve years ago—not Voss's body, but Canon Ellery's, killed during a confrontation over embezzled restoration funds. He gives her a brass key and dies mid-sentence. Emotional beat: grief and guilt; the first human face on the conspiracy, and proof Voss saw something she shouldn't have."
+    },
+    {
+      "n": 5,
+      "title": "Twelve Years of Tuesdays",
+      "summary": "Petra's POV. Following the diary's coded references, Petra reconstructs Marguerite Voss's final weeks: she had discovered the funds scandal and planned to go to police, then abruptly stopped writing. Petra interviews Voss's estranged sister, who reveals Marguerite feared 'the man with the ring of keys'—Corliss. Emotional beat: mounting dread; the victim becomes a person, and the stakes become personal."
+    },
+    {
+      "n": 6,
+      "title": "A Fire in the Stacks",
+      "summary": "Sergeant Reyes's POV. A suspicious fire guts part of the archive—the section holding Voss materials. Reyes suspects arson but is pressured to call it electrical. Petra's hidden ledger-copies survive. The two women form an uneasy alliance off the record. Emotional beat: anger hardening into purpose; the law has been captured, so justice must travel another road."
+    },
+    {
+      "n": 7,
+      "title": "The Entry in My Hand",
+      "summary": "Petra's POV, destabilized. Forensic comparison suggests the final diary entries were written by Petra herself—during the week of the disappearance, a week she cannot remember due to a documented breakdown. The horror lands: either she forged them, or she witnessed something her mind buried. Emotional beat: vertigo; the investigator becomes the possible suspect, and memory becomes untrustworthy ground."
+    },
+    {
+      "n": 8,
+      "title": "Below the Nave",
+      "summary": "Dual POV, Petra and Corliss. Using Okafor's key, Petra enters the crypt and finds Ellery's remains arranged with evidence of the theft—Voss's final entry, dictated and hidden there, naming Corliss. Corliss confronts her, locks the gate, and confesses freely, certain no one will believe an unstable archivist over a dean. Emotional beat: terror transmuting into cold clarity; Petra records everything on the old dictaphone in her coat."
+    },
+    {
+      "n": 9,
+      "title": "Justice, Unsworn",
+      "summary": "Climax. Petra's POV. Rather than kill him, Petra leaves Corliss sealed in the crypt with Ellery's evidence and the playing of his own confession, then delivers the recording, diary, and ledger-copies to Reyes and a journalist simultaneously—making suppression impossible. Corliss is found alive but finished; the chapter collapses. Emotional beat: catharsis without triumph; justice served by witness rather than verdict."
+    },
+    {
+      "n": 10,
+      "title": "Closing the File",
+      "summary": "Resolution, Petra's POV. Weeks later, as the trial opens, Voss's disappearance is reclassified as flight from danger—she lived out her life under another name, her last entries a dead-drop insurance policy Petra unknowingly inherited. Petra donates the corrected record, alphabetizes nothing, and leaves one drawer deliberately unordered. Emotional beat: quiet peace; memory restored, power checked, and the archivist finally allowed to stop filing and start living."
+    }
+  ]
+}

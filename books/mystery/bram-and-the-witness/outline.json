@@ -1,0 +1,59 @@
+{
+  "title": "Bram and the Witness",
+  "slug": "mystery/bram-and-the-witness",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Eastwick, a true-crime podcaster famous for closing every case she takes, reopens the 1974 disappearance of Bram Hollis, a lighthouse keeper's son who vanished from the coastal town of Greywater Bay. When she finds Bram's diary in an estate sale and discovers entries written decades after his disappearance — entries that describe her own arrival in town — she realizes the witness she's hunting is alive, watching, and narrating her investigation in real time. As Ada follows the diary's breadcrumbs, she uncovers that Bram witnessed a murder committed by the town's founding family and was hidden by a network of protectors, including the woman he loved who chose duty to her family over him. The killer's heir, now the town's beloved patriarch, has been maintaining the fiction of Bram's death for fifty years, and Ada's podcast threatens to expose everything. In the end, Ada uses the diary itself to bait the heir into confessing on a live broadcast, and Bram — old, hidden in plain sight as the town archivist — finally steps out of the margins to claim his name, choosing love and truth over the safety of silence.",
+  "about_author": "Isandro Voss is a former maritime archivist who spent a decade cataloguing coastal town records before turning to fiction, giving his mysteries an unsettling documentary texture. He writes from a converted fog signal station on the northern coast, where he claims the best plot ideas arrive with the tide.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Coldest File",
+      "summary": "POV Ada. Ada closes her ninth case with a triumphant episode finale, then receives an anonymous package: a water-stained diary belonging to Bram Hollis, missing since 1974. The final entry isn't from 1974 — it's dated three weeks ago, and it mentions her by name. Emotional beat: the thrill of a new hunt curdling into the vertigo of being hunted."
+    },
+    {
+      "n": 2,
+      "title": "Greywater Bay",
+      "summary": "POV Ada. Ada arrives in the fog-bound town and finds a community polished for tourists but sealed against strangers. The archivist, a quiet old man called Mr. Fen, helps her access records while deflecting questions about Bram. She learns the founding Marlowe family still owns half the coastline. Emotional beat: the loneliness of being an outsider reading a room that has rehearsed its story for fifty years."
+    },
+    {
+      "n": 3,
+      "title": "Entries After the End",
+      "summary": "POV Ada, interleaved with diary excerpts. The diary describes Bram's 1974 life: his father's lighthouse, his secret love for Cecily Marlowe, and the night he saw something on the cliffs he was never supposed to see. Then a new entry appears describing Ada checking into the inn — accurate down to what she ordered. Emotional beat: dread blooming as the past begins writing the present."
+    },
+    {
+      "n": 4,
+      "title": "What Cecily Knew",
+      "summary": "POV Ada. Ada tracks down Cecily Marlowe, now elderly and sharp-tongued, living alone in the family's shuttered summer house. Cecily admits she loved Bram but refuses to say more, warning Ada that everyone who asked questions left Greywater or stopped asking. That night someone searches Ada's rental. Emotional beat: tenderness for a woman whose duty cost her everything, shadowed by first real danger."
+    },
+    {
+      "n": 5,
+      "title": "The Keeper's Log",
+      "summary": "POV Ada. Following a diary clue about the lighthouse, Ada finds her father's keeper's log hidden in a wall cavity — with pages torn out matching the dates around the disappearance. The log implicates a second witness who died in an 'accident' weeks after Bram vanished. Emotional beat: grief for Bram sharpening into resolve; the case stops being a puzzle and becomes a debt."
+    },
+    {
+      "n": 6,
+      "title": "A Voice in the Margins",
+      "summary": "POV Ada. Ada realizes the recent diary entries contain details only someone inside the archive could know, and confronts Mr. Fen, who neither confirms nor denies but tells her: 'Some of us kept him safe. Ask yourself from whom.' A near-miss car accident on the cliff road makes it clear the protector and the threat are not the same person. Emotional beat: paranoia reframed — an ally exists inside the machine."
+    },
+    {
+      "n": 7,
+      "title": "The Heir Apparent",
+      "summary": "POV Ada. Ada gains an interview with Edmund Marlowe, the charming patriarch who funds the town's restoration and its silence. He knows her case file better than she does, quoting her own episodes back at her, and offers to fund her podcast if she drops Bram. She declines; within hours her hotel booking is cancelled and her sources go quiet. Emotional beat: seduction and menace braided together — the killer showing his face because he believes he's untouchable."
+    },
+    {
+      "n": 8,
+      "title": "Fifty Years of Tide",
+      "summary": "POV Ada, interleaved with the diary's final confession. The diary reveals the full truth: Bram saw Edmund's father kill a land-rights activist on the cliffs; Cecily's family staged Bram's death to save his life, and Fen smuggled him away — but Bram never truly left, returning years ago to guard the evidence. Edmund has found the diary's location and is coming for it tonight. Emotional beat: love against duty made flesh — Cecily's sacrifice, Bram's vigil, Ada standing where both stories converge."
+    },
+    {
+      "n": 9,
+      "title": "Live from the Lighthouse",
+      "summary": "POV Ada. Ada broadcasts the season finale live from the decommissioned lighthouse, reading the diary on air to force Edmund's hand. He arrives to burn the evidence and finds the whole town listening; confronted by Fen revealing himself as Bram Hollis, and by Cecily arriving through the fog, Edmund breaks and confesses — to the murder, the cover-up, and the threats. Emotional beat: climax as trap springs; terror transfigured into testimony."
+    },
+    {
+      "n": 10,
+      "title": "The Last Entry",
+      "summary": "POV Ada, with a coda in Bram's voice. Weeks later, Edmund awaits trial, the town reckons with its complicity, and Bram writes his first freely signed entry in fifty years while Cecily sits across the table. Ada records her only episode without a case to close — just two people, finally visible. Emotional beat: resolution as release; belonging earned not inherited, and love outlasting the duty that denied it."
+    }
+  ]
+}

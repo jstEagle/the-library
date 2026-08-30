@@ -1,0 +1,119 @@
+{
+  "title": "The Deep Deadline",
+  "slug": "thriller/the-deep-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Dominic Amberdale, a financial-crimes investigator who has spent seven years laundering her own trauma into procedure, discovers that Flight 447's records were erased mid-flight — not by hackers, but by a laundering network she once unknowingly helped train as a rookie. As she traces the vanished plane's cargo manifest through Frankfurt's opening bell, she realizes her old mentor built the system using her own early casework as its blueprint. To survive, Dominic must burn the network from the inside, sacrificing her career, her clean record, and the found family of colleagues who sheltered her — and in the ashes, choose to remember who she was before the rules.",
+  "about_author": "Marguerite Eriksen is the pen name of a former compliance analyst who spent a decade inside the quiet machinery of international finance before trading it for fiction. She writes thrillers about people who mistake procedure for safety.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Clean Money",
+      "summary": "Dominic's POV. A routine Tuesday at the Financial Integrity Unit: she flags a shell company, declines drinks with her colleague Priya, and goes home to an apartment arranged like a filing cabinet. Establishes her rule-bound numbness. Emotional beat: competent isolation mistaken for peace."
+    },
+    {
+      "n": 2,
+      "title": "The Flight That Wasn't",
+      "summary": "Dominic's POV. Flight 447 lands in Frankfurt, but every record — manifest, passenger list, even air-traffic logs — returns null while the plane is still airborne. Her supervisor orders her to stand down. Emotional beat: the first crack in her faith that systems protect people."
+    },
+    {
+      "n": 3,
+      "title": "Priya's Favor",
+      "summary": "Alternating POV with Priya Raghavan, who quietly pulls a customs record Dominic isn't cleared for. The cargo was bonded gold, re-manifested twice. Emotional beat: the warmth of found family, and the guilt of endangering it."
+    },
+    {
+      "n": 4,
+      "title": "Stand Down",
+      "summary": "Dominic's POV. Internal affairs opens a file on her — someone inside is watching. Her badge access narrows. She realizes the investigation is being run against her, not with her. Emotional beat: paranoia replacing procedure."
+    },
+    {
+      "n": 5,
+      "title": "The Training Manual",
+      "summary": "Dominic's POV, flashback-tinged. She finds the laundering pattern's methodology matches a training seminar she attended as a rookie, taught by mentor Elias Vann. Emotional beat: the sick recognition that her own competence was harvested."
+    },
+    {
+      "n": 6,
+      "title": "Elias",
+      "summary": "Elias's POV. Now a respected consultant, he learns Dominic is pulling threads and makes a call to have her reassigned — with regret. Reveals he genuinely cared for her once. Emotional beat: affection weaponized."
+    },
+    {
+      "n": 7,
+      "title": "Off the Books",
+      "summary": "Dominic and Priya meet in a laundromat, working from printouts. They trace the gold to a holding trust with a familiar signature: Dominic's rookie case number, used as an account key. Emotional beat: fury and vertigo."
+    },
+    {
+      "n": 8,
+      "title": "The Quiet Partner",
+      "summary": "New POV: Marcus Hale, a mid-level network operative, shows the machinery from inside — polite, professional, murderous when necessary. He's ordered to handle 'the Amberdale problem.' Emotional beat: banality of evil."
+    },
+    {
+      "n": 9,
+      "title": "Seventy-Two Hours",
+      "summary": "Dominic's POV. Frankfurt markets open in three days; the network will move the gold through a derivatives position that erases it forever. Priya is suspended after a leak. Emotional beat: the clock starts, and the family starts to scatter."
+    },
+    {
+      "n": 10,
+      "title": "What Elias Taught Me",
+      "summary": "Dominic's POV, deep flashback to her rookie year — the seminar, the mentorship, the case she closed that made her career. She sees how every 'win' fed the machine. Emotional beat: grief for her younger self."
+    },
+    {
+      "n": 11,
+      "title": "Hale Makes Contact",
+      "summary": "Marcus approaches Dominic openly: an offer — walk away with a payout and a clean exit, like seven years of rules promised her. Emotional beat: temptation, honestly argued."
+    },
+    {
+      "n": 12,
+      "title": "The Ledger in the Wall",
+      "summary": "Priya's POV. Before her suspension, she hid a physical copy of the trust ledger in the unit's archive room. She and Dominic retrieve it under camera. Emotional beat: loyalty as an act of courage."
+    },
+    {
+      "n": 13,
+      "title": "Compromised",
+      "summary": "Dominic's POV. The archive retrieval is noticed; internal affairs raids her apartment and finds the planted evidence. She runs. Emotional beat: the moment the system she served declares her the criminal."
+    },
+    {
+      "n": 14,
+      "title": "Underground",
+      "summary": "Dominic hides with Tomas, a retired investigator she once testified to protect — the first proof her work ever saved anyone. He teaches her how networks like Elias's actually die. Emotional beat: found family, chosen deliberately."
+    },
+    {
+      "n": 15,
+      "title": "Hale's Doubt",
+      "summary": "Marcus's POV. Ordered to kill Dominic, he stalls, disturbed that she's not the threat the network described but a person. He passes her a meeting location instead. Emotional beat: a man choosing conscience over survival."
+    },
+    {
+      "n": 16,
+      "title": "The Frankfurt Account",
+      "summary": "Dominic's POV. She maps the final move: the gold becomes a position at a Frankfurt clearing house at market open. One injection of the ledger's data before settlement collapses the whole structure. Emotional beat: cold clarity."
+    },
+    {
+      "n": 17,
+      "title": "Priya's Choice",
+      "summary": "Priya's POV. She's offered reinstatement if she testifies that Dominic went rogue. She refuses, torching her own career to authenticate the ledger publicly. Emotional beat: the price of survival, paid willingly."
+    },
+    {
+      "n": 18,
+      "title": "Vann's Confession",
+      "summary": "Elias's POV. He meets Dominic one last time, half to stop her, half to be stopped. He admits he built the network on her case and tells her the one flaw she can exploit. Emotional beat: love and betrayal indistinguishable."
+    },
+    {
+      "n": 19,
+      "title": "Market Open",
+      "summary": "Dominic's POV, climax begins. In Frankfurt, she infiltrates the clearing house as markets open, racing settlement while Hale covers her escape from his own handlers. Emotional beat: terror transmuted into purpose."
+    },
+    {
+      "n": 20,
+      "title": "The Burn",
+      "summary": "Dominic injects the ledger; positions unwind, the trust collapses, and the network's principals are exposed in real time as screens go red across Europe. Elias is taken quietly. Emotional beat: destruction as an act of creation."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath",
+      "summary": "Dominic's POV. She surrenders, testifies, and loses her career and clearance — but the case holds. Hale disappears into a new life; Priya visits with coffee and no paperwork. Emotional beat: loss tallied honestly, and worth it."
+    },
+    {
+      "n": 22,
+      "title": "Remembering",
+      "summary": "Dominic's POV, coda. Months later, unpacking boxes in a smaller apartment, she keeps the training manual — not as a scar but as evidence she survived it. She writes her own account, in her own name. Emotional beat: memory reclaimed; the self, found."
+    }
+  ]
+}

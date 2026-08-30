@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02512",
+  "title": "When the Typewriter Wakes",
+  "author": "Astrid Voss",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Paloma Eastwick, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the ice breaks on the river.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2512
+  }
+}

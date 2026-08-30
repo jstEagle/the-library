@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03126",
+  "title": "Astrid and the Orchard",
+  "author": "J. M. Montrose",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Dominic Delacroix, a mapmaker's apprentice finishing the atlas the master died for, believes history happens to other people, elsewhere. But when the army requisitions the town and the ledger with all the names, she discovers that staying invisible was never really an option. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3126
+  }
+}

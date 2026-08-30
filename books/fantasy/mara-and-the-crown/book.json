@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01777",
+  "title": "Mara and the Crown",
+  "author": "Zephyrine Underhill",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Felix Blackwood, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1777
+  }
+}

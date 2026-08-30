@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00611",
+  "title": "Ines and the Trail",
+  "author": "Vesper Hartwell",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Mirabel Montrose, a riverboat captain who knows every sandbar's mood, has spent twelve years measuring life in miles rather than years. But when a dying prospector trades a map for a promise, he discovers that staying invisible was never really an option. To get through this, he must bring the expedition home without telling anyone what it found before the monsoon makes landfall.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 611
+  }
+}

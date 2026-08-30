@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05755",
+  "title": "When the Inheritance Wakes Again",
+  "author": "Lena Coldharbour",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Astrid Sandoval, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. To get through this, they must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5755
+  }
+}

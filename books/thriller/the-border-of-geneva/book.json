@@ -1,0 +1,21 @@
+{
+  "id": "THR-08587",
+  "title": "The Border of Geneva",
+  "author": "Mirabel Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Marguerite Winterbourne, a crash investigator whose family died in row twelve, has spent twenty years following rules that keep getting rewritten. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8587
+  }
+}

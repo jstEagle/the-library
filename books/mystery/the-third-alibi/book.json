@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05131",
+  "title": "The Third Alibi",
+  "author": "Jude Zhou",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Yara Thornbury, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. To get through this, she must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5131
+  }
+}

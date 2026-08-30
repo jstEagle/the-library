@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04427",
+  "title": "Aftermath and Radiators",
+  "author": "Juniper Oyelaran",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Xanthe Amberdale, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. Now they must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4427
+  }
+}

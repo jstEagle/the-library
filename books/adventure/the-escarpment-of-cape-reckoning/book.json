@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00240",
+  "title": "The Escarpment of Cape Reckoning",
+  "author": "Juniper Underhill",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ines Vane, a bush pilot flying medicine and rumors into the interior, has spent five years measuring life in miles rather than years. But when a dying prospector trades a map for a promise, she discovers that staying invisible was never really an option. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 240
+  }
+}

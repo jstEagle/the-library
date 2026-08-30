@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02758",
+  "title": "When the Bridge Falls",
+  "author": "Isandro Halloran",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Isandro Okafor, a typeface cutter's daughter in a print shop on the eve of a revolution, has spent five years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2758
+  }
+}

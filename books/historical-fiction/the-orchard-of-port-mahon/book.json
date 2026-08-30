@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02579",
+  "title": "The Orchard of Port Mahon",
+  "author": "Emrys Vane",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Ulyana Yarrow, a battlefield nurse keeping a ledger of the names officers omit, believes history happens to other people, elsewhere. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. To get through this, they must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "belonging",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2579
+  }
+}

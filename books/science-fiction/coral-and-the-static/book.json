@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07045",
+  "title": "Coral and the Static",
+  "author": "Ulyana Whitlock",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Jude Yarrow, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. Then the station AI begins confessing to crimes nobody reported — and she is pulled straight into the middle of it. To get through this, she must deliver a message that will end the war — or start it before the fleet's truce expires.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7045
+  }
+}

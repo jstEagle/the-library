@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06534",
+  "title": "Paloma and the Songbook",
+  "author": "Isandro Thackeray",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Vesper Vane, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6534
+  }
+}

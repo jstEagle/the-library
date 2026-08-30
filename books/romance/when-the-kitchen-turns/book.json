@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06110",
+  "title": "When the Kitchen Turns",
+  "author": "K. M. Okafor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Wren Whitlock, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, she discovers that staying invisible was never really an option. To get through this, she must say the sentence that has been rehearsed for a decade before the last ferry of the season departs.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6110
+  }
+}

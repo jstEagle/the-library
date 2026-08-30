@@ -1,0 +1,209 @@
+{
+  "title": "Noor and the Cover",
+  "slug": "thriller/noor-and-the-cover",
+  "model": "stealth/ox-alpha",
+  "premise": "Xanthe Delacroix, a disgraced intelligence analyst living off unattributed casework, is confronted by a stranger claiming Xanthe once saved his life—a favor Xanthe has no memory of. The debt comes due in the form of a stolen dossier proving a coordinated assassination program run jointly across three allied governments, and now every service that burned Xanthe wants him silenced. Hunted by an assassin who knows his tradecraft because she was trained from his own leaked manuals, Xanthe must assemble an unlikely coalition of exiles and whistleblowers to expose the program. In the end, Xanthe trades his own anonymity—his last shield—to get the truth public, surviving the assassin only by offering her the justice she was promised and never received.",
+  "about_author": "S. M. Ishikawa is the pen name of a former policy researcher who spent a decade inside think tanks before walking away to write fiction about the machinery behind the memos. They live between Tokyo and Lisbon and have never confirmed which parts of their novels are invented.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Favor That Never Happened",
+      "summary": "Xanthe's POV. A quiet fixer's life in Lisbon is interrupted by a stranger, Marek, who repays a life debt Xanthe cannot recall, leaving a key and a warning. Emotional beat: unease—the past Xanthe buried may not be buried at all."
+    },
+    {
+      "n": 2,
+      "title": "Interest Owed",
+      "summary": "Xanthe's POV. The key opens a locker holding a partial dossier on 'Program COVER,' a trilateral assassination framework. Xanthe's instinct is to walk away; curiosity and old pride win. Beat: reluctant re-entry into a world that ruined him."
+    },
+    {
+      "n": 3,
+      "title": "Three Names, One Grave",
+      "summary": "Xanthe's POV. Cross-referencing the dossier, Xanthe finds three analysts who touched COVER are all dead, ruled accidents. The third death was two weeks ago. Beat: cold dread hardening into resolve."
+    },
+    {
+      "n": 4,
+      "title": "The Assassin's Ledger",
+      "summary": "Ilse's POV. Introduced: the assassin, Ilse Voss, reviewing contracts in Vienna, including a new one—Xanthe Delacroix. She recognizes the name from her own training manuals. Beat: professional detachment masking a flicker of doubt."
+    },
+    {
+      "n": 5,
+      "title": "Burn Notice, Reversed",
+      "summary": "Xanthe's POV. Xanthe contacts an old handler, Odile, who warns him he's been re-flagged as an asset—someone wants him usable before he's dead. Beat: paranoia sharpening into strategy."
+    },
+    {
+      "n": 6,
+      "title": "Locker Number Nine",
+      "summary": "Marek's POV. Flashback: Marek explains how Xanthe, years ago, anonymously flagged a bad intel packet that saved his team—Xanthe doesn't remember because he did it under a cover identity he's since erased. Beat: the theme of identity crystallizes."
+    },
+    {
+      "n": 7,
+      "title": "Vienna Station",
+      "summary": "Xanthe's POV. Xanthe travels to Vienna to verify the dossier's origin and is nearly killed in a staged tram accident. He realizes the attempt was meant to look like COVER's signature. Beat: hunted, but now certain the file is real."
+    },
+    {
+      "n": 8,
+      "title": "The Woman from the Manual",
+      "summary": "Ilse's POV. Ilse closes in on Xanthe but hesitates when she sees his counter-surveillance mirrors techniques from her own training—her handlers lied about its source. Beat: first crack in her loyalty."
+    },
+    {
+      "n": 9,
+      "title": "A Debt Paid in Blood",
+      "summary": "Xanthe's POV. Marek is killed covering Xanthe's escape from Vienna. Grief-stricken, Xanthe stops running and decides to fight. Beat: the cost of survival made personal."
+    },
+    {
+      "n": 10,
+      "title": "Odile's Price",
+      "summary": "Xanthe's POV. Odile offers safe channels in exchange for Xanthe delivering the dossier to her service—not to the public. Xanthe refuses, burning the last bridge to institutional protection. Beat: choosing justice over safety."
+    },
+    {
+      "n": 11,
+      "title": "Ghost Network",
+      "summary": "Xanthe's POV. Xanthe begins assembling exiles: a cryptographer, a disgraced journalist, a former COVER accountant hiding in Tallinn. Beat: cautious hope—the lonely case becomes a coalition."
+    },
+    {
+      "n": 12,
+      "title": "The Accountant's Confession",
+      "summary": "Ruth's POV. The accountant, Ruth, reveals COVER's funding mechanism and a kill list with 40 names—Xanthe is 31. Beat: horror at the scale; the clock starts."
+    },
+    {
+      "n": 13,
+      "title": "Dead Drop Protocol",
+      "summary": "Xanthe's POV. The team builds a distributed leak plan so no single node holds the whole truth. Xanthe teaches them his tradecraft—knowing Ilse knows it too. Beat: chess-match tension."
+    },
+    {
+      "n": 14,
+      "title": "Ilse's Contract",
+      "summary": "Ilse's POV. Ilse's handlers tighten her leash, revealing her own sister's death was a COVER operation she was never told about. Beat: rage beneath discipline; the hunter begins to doubt the hunt."
+    },
+    {
+      "n": 15,
+      "title": "Tallinn Winter",
+      "summary": "Xanthe's POV. A safehouse meeting is compromised; the cryptographer is taken. Xanthe suspects a mole but the evidence points to a surveillance flaw he himself designed. Beat: guilt and self-doubt."
+    },
+    {
+      "n": 16,
+      "title": "The Mole Question",
+      "summary": "Ruth's POV. Ruth is suspected; Xanthe defends her with cold logic while privately wondering. Beat: trust as a survival resource, tested."
+    },
+    {
+      "n": 17,
+      "title": "Interrogation in the Dark",
+      "summary": "The cryptographer's POV. Captured, he stalls his interrogators and transmits a partial key before the line goes dead. Beat: sacrifice; the plan survives its first casualty."
+    },
+    {
+      "n": 18,
+      "title": "Two Hunters, One Room",
+      "summary": "Ilse's POV. Ilse tracks the safehouse but arrives to find Xanthe waiting—he anticipated her. They talk across a drawn gun. Beat: recognition between two people made by the same machine."
+    },
+    {
+      "n": 19,
+      "title": "Terms of Engagement",
+      "summary": "Xanthe and Ilse's alternating POV. Ilse offers a deal: she'll stand down if Xanthe proves COVER ordered her sister's death. Xanthe gives her a fragment of the dossier—gambling on her. Beat: dangerous alliance formed."
+    },
+    {
+      "n": 20,
+      "title": "The Fragment's Truth",
+      "summary": "Ilse's POV. The fragment confirms her sister was collateral in a COVER operation signed off by Ilse's own handler. Beat: betrayal complete; her mission inverts."
+    },
+    {
+      "n": 21,
+      "title": "Odile's Gambit",
+      "summary": "Xanthe's POV. Odile, spurned, leaks Xanthe's location to all three governments to force him into her custody. Beat: betrayal from the last institution he half-trusted."
+    },
+    {
+      "n": 22,
+      "title": "Running the Corridor",
+      "summary": "Xanthe's POV. A brutal escape through Prague with Ilse as reluctant shield. They lose the journalist in the process. Beat: attrition; every ally costs something."
+    },
+    {
+      "n": 23,
+      "title": "The Journalist's Last Draft",
+      "summary": "The journalist's POV. Captured, she pre-schedules a partial story as insurance, hiding it where only her editor can find it. Beat: defiance; the truth acquires a dead man's switch."
+    },
+    {
+      "n": 24,
+      "title": "COVER's Architect",
+      "summary": "Xanthe's POV. The dossier's author is identified: Deputy Director Callum Reeve, the man who once mentored Xanthe and orchestrated his burnings to keep him pliable. Beat: the personal becomes structural—Xanthe was COVER's failed prototype."
+    },
+    {
+      "n": 25,
+      "title": "Why He Was Spared",
+      "summary": "Marek's posthumous letter, Xanthe's POV. The favor was real: Reeve ordered Marek's team killed; Xanthe's anonymous flag stopped it. Reeve kept Xanthe alive as a control experiment. Beat: identity reframed—Xanthe was always part of the machine."
+    },
+    {
+      "n": 26,
+      "title": "Ilse's Choice",
+      "summary": "Ilse's POV. Her agency offers her a final contract: Xanthe, with a clean extraction. She accepts to get inside, planning betrayal from within. Beat: double agent's tightrope."
+    },
+    {
+      "n": 27,
+      "title": "The Tallinn Ledger",
+      "summary": "Ruth's POV. Ruth decodes the full kill list and funding trail—enough to prosecute, but only if delivered simultaneously to three jurisdictions within 48 hours. Beat: the plan's impossible deadline set."
+    },
+    {
+      "n": 28,
+      "title": "Reeve's Parley",
+      "summary": "Xanthe's POV. Reeve offers Xanthe reinstatement, erasure of his record, and a new identity—the thing he's wanted for a decade. Beat: temptation at its most seductive; the price of survival made explicit."
+    },
+    {
+      "n": 29,
+      "title": "The Refusal",
+      "summary": "Xanthe's POV. Xanthe declines, telling Reeve that a self built on someone else's erasure isn't survival. Reeve orders the 48-hour clock collapsed to 12. Beat: the theme answered; point of no return."
+    },
+    {
+      "n": 30,
+      "title": "Twelve Hours",
+      "summary": "Ensemble POV. The team scatters to three capitals: Xanthe to The Hague, Ruth to Berlin, Ilse to Washington embedded with the hit team. Beat: breathless orchestration, everything staked."
+    },
+    {
+      "n": 31,
+      "title": "Washington Interference",
+      "summary": "Ilse's POV. Ilse sabotages the Washington hit team from inside, burning her cover permanently. Beat: her transformation complete—assassin becomes witness."
+    },
+    {
+      "n": 32,
+      "title": "Berlin Complication",
+      "summary": "Ruth's POV. Ruth is intercepted; she swallows a data key and stalls her captors, buying hours with a fake confession. Beat: ordinary courage against institutional power."
+    },
+    {
+      "n": 33,
+      "title": "The Hague Deadline",
+      "summary": "Xanthe's POV. At the ICC's doorstep, Xanthe finds the submission channel pre-blocked by Reeve's people. He must go public instead—through the journalist's dead man's switch. Beat: plan B becomes the only plan."
+    },
+    {
+      "n": 34,
+      "title": "Dead Man's Switch",
+      "summary": "Xanthe's POV. Xanthe reaches the editor, but triggering the story requires his real identity attached—full name, full history, everything. Beat: the ultimate cost named: his invisibility."
+    },
+    {
+      "n": 35,
+      "title": "Rooftop Above the Court",
+      "summary": "Xanthe and Ilse's alternating POV. Ilse, exposed and hunted by her own team, reaches Xanthe as Reeve's cleaners close in. Beat: the two survivors of the machine standing together."
+    },
+    {
+      "n": 36,
+      "title": "The Price of Truth",
+      "summary": "Xanthe's POV. Xanthe attaches his name, triggers the release, and broadcasts the dossier globally as the cleaners breach. Beat: climax begins—identity surrendered as a weapon."
+    },
+    {
+      "n": 37,
+      "title": "Reeve's Fall",
+      "summary": "Ilse's POV. Ilse corners Reeve, choosing arrest over assassination—justice inside the law, the thing COVER denied everyone. Reeve's last words reveal the program will outlive him. Beat: catharsis with a shadow."
+    },
+    {
+      "n": 38,
+      "title": "Aftermath, Three Capitals",
+      "summary": "Ensemble POV. The story detonates; hearings begin; Ruth testifies; the cryptographer is found alive. Ilse disappears into protective custody. Beat: exhausted, imperfect victory."
+    },
+    {
+      "n": 39,
+      "title": "Xanthe Delacroix, Byline",
+      "summary": "Xanthe's POV. Xanthe, now famous and therefore finished as a fixer, finds strange freedom in being seen. He visits Marek's grave and finally claims the memory of the favor. Beat: grief resolved into selfhood."
+    },
+    {
+      "n": 40,
+      "title": "The Next Name on the List",
+      "summary": "Xanthe's POV. Months later, an envelope arrives: a new kill list, 40 names, Xanthe's at the bottom—and a note in Ilse's handwriting: 'Interest owed.' Beat: sequel-ready close; the price of survival is never paid once."
+    }
+  ]
+}

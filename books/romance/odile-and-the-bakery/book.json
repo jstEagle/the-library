@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06577",
+  "title": "Odile and the Bakery",
+  "author": "L. M. Almeida",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Rosalind Eastwick, a cellist recovering from one catastrophic final performance, has spent seven years rebuilding a life measured in small safe steps. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. To get through this, they must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6577
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09815",
+  "title": "When the Homecoming Falls",
+  "author": "P. M. Joubert",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Juniper Vasquez, the team's statistician who knows the game is rigged, counts days until graduation like a sentence being served. But when the teacher pairs nemesis with nemesis for a semester-long project, they discover that staying invisible was never really an option. To get through this, they must win the championship that doesn't matter — and the one that does before the last game of the season.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9815
+  }
+}

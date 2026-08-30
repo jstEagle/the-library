@@ -1,0 +1,21 @@
+{
+  "id": "THR-09066",
+  "title": "A Protocol for the Ghost",
+  "author": "Orsen Montrose",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Tamsin Thackeray, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9066
+  }
+}

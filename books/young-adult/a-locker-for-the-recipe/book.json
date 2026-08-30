@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09718",
+  "title": "A Locker for the Recipe",
+  "author": "Quentin Blackwood",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Theo Almeida, a baker's kid who bakes feelings into bread, counts days until graduation like a sentence being served. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. Now he must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9718
+  }
+}

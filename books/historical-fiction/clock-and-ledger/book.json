@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02474",
+  "title": "Clock and Ledger",
+  "author": "Silas Ravensworth",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Astrid Delacroix, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. Then the census taker asks one question too many — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the ship sails on the morning tide.",
+  "themes": [
+    "found family",
+    "memory",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2474
+  }
+}

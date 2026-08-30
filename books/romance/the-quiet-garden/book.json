@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05981",
+  "title": "The Quiet Garden",
+  "author": "Sable Oyelaran",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Petra Dravenmoor, a lighthouse keeper's granddaughter and part-time novelist, has spent five years rebuilding a life measured in small safe steps. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5981
+  }
+}

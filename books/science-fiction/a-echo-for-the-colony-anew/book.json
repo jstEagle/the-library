@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08266",
+  "title": "A Echo for the Colony Anew",
+  "author": "Yara Thackeray",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Coral Reyes, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. To get through this, he must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8266
+  }
+}

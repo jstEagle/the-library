@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05435",
+  "title": "The Parish of the Marlowe Estate",
+  "author": "Emrys Almeida",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.8,
+  "blurb": "Elodie Whitlock, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the statute expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5435
+  }
+}

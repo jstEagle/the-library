@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00962",
+  "title": "The Salt of the Sundered Sea",
+  "author": "Mirabel Thackeray",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Wendell Eastwick, the keeper of a gate that should stay shut, has spent twelve years selling small charms in a city that outlawed magic. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 962
+  }
+}

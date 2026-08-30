@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03488",
+  "title": "Oscar and the Well",
+  "author": "Freya Reyes",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Mirabel Dunmore, the new teacher at a school with a missing-class problem, has spent five years telling themselves the noises have explanations. Then the excavation crew unearths a door, sealed from the inside — and she is pulled straight into the middle of it. Now she must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3488
+  }
+}

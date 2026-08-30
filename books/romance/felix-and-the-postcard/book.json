@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06294",
+  "title": "Felix and the Postcard",
+  "author": "Hazel Whitlock",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Ansel Hartwell, a lighthouse keeper's granddaughter and part-time novelist, has spent twenty years rebuilding a life measured in small safe steps. Then two estranged names appear on the same impossibly stubborn orchard deed — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6294
+  }
+}

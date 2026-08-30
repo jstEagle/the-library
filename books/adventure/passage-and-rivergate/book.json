@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00404",
+  "title": "Passage and Rivergate",
+  "author": "Quentin Marchetti",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 3.5,
+  "blurb": "Gideon Yarrow, a bush pilot flying medicine and rumors into the interior, has spent ten years measuring life in miles rather than years. But when an expedition upriver stops answering the radio, he discovers that staying invisible was never really an option. Now he must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 404
+  }
+}

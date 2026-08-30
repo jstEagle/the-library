@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07419",
+  "title": "Emrys and the Colony",
+  "author": "Theo Sandoval",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Ada Okonkwo, an insurance investigator of impossible accidents, has spent ten years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. To get through this, she must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7419
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06518",
+  "title": "A Tide for the Kitchen",
+  "author": "Quentin Okafor",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Mara Delacroix, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6518
+  }
+}

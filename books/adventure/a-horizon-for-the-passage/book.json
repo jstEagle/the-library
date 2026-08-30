@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00390",
+  "title": "A Horizon for the Passage",
+  "author": "Yara Sterling",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Hazel Yarrow, an archaeologist's estranged child and better digger, knows the wilderness forgives nothing and forgets less. Then an expedition upriver stops answering the radio — and he is pulled straight into the middle of it. Now he must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 390
+  }
+}

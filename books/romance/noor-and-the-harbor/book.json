@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06562",
+  "title": "Noor and the Harbor",
+  "author": "Rosalind Almeida",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Kestrel Kavanagh, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. Now she must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6562
+  }
+}

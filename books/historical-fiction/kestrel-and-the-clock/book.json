@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02907",
+  "title": "Kestrel and the Clock",
+  "author": "C. M. Okonkwo",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Hazel Almeida, an apprentice clockmaker summoned to repair the observatory's master clock, believes history happens to other people, elsewhere. But when the army requisitions the town and the ledger with all the names, she discovers that staying invisible was never really an option. Now she must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2907
+  }
+}

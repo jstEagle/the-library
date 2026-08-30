@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07451",
+  "title": "Jonah and the Echo",
+  "author": "August Thackeray",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Cyrus Kavanagh, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7451
+  }
+}

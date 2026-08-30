@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04774",
+  "title": "The Wardrobe of the coast road",
+  "author": "Coral Sterling",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Mara Nakamura, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. Then a box of undelivered letters surfaces behind a wardrobe — and he is pulled straight into the middle of it. To get through this, he must say goodbye properly, at last, out loud before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4774
+  }
+}

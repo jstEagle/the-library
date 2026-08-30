@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06807",
+  "title": "Emrys and the Postcard",
+  "author": "Ada Vane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Dominic Kavanagh, a single parent running the town's only bookshop, has spent ten years rebuilding a life measured in small safe steps. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. To get through this, they must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6807
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09822",
+  "title": "Semester and Prom",
+  "author": "B. M. Okonkwo",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Ansel Voss, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. But when the college essay prompt asks one honest question nobody can stop answering, they discover that staying invisible was never really an option. To get through this, they must save the tradition that made the town before graduation.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9822
+  }
+}

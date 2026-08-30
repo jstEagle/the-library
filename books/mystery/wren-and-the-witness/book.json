@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05595",
+  "title": "Wren and the Witness",
+  "author": "Ulyana Dunmore",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Kestrel Iversen, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5595
+  }
+}

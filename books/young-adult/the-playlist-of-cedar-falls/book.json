@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09925",
+  "title": "The Playlist of Cedar Falls",
+  "author": "Freya Crane",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Orsen Underhill, the new kid at a school built over something old, has spent twelve years being so careful it hurts. Then a group chat starts predicting things that haven't happened yet — and he is pulled straight into the middle of it. Now he must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9925
+  }
+}

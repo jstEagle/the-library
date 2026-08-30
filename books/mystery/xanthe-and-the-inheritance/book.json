@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05610",
+  "title": "Xanthe and the Inheritance",
+  "author": "Ines Fairweather",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Quentin Villalobos, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. To get through this, she must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "identity",
+    "found family",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5610
+  }
+}

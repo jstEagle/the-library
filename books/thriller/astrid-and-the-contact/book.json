@@ -1,0 +1,21 @@
+{
+  "id": "THR-09419",
+  "title": "Astrid and the Contact",
+  "author": "August Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Mara Almeida, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. To get through this, he must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9419
+  }
+}

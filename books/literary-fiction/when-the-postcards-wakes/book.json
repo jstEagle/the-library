@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04450",
+  "title": "When the Postcards Wakes",
+  "author": "Vesper Delacroix",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Noor Thornbury, a night librarian in a city that sleeps less every year, has perfected the smile that ends conversations. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4450
+  }
+}

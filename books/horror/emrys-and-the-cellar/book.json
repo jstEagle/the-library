@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03903",
+  "title": "Emrys and the Cellar",
+  "author": "Juniper Nystrom",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Beatrix Yarrow, a radio host taking calls from listeners who died last week, documents everything, because documentation is a kind of prayer. But when the excavation crew unearths a door, sealed from the inside, she discovers that staying invisible was never really an option. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3903
+  }
+}

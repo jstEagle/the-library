@@ -1,0 +1,21 @@
+{
+  "id": "THR-09459",
+  "title": "When the Contact Wakes Again",
+  "author": "Zephyrine Crane",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Juniper Amberdale, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. To get through this, she must burn the network that did the training before the summit convenes.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9459
+  }
+}

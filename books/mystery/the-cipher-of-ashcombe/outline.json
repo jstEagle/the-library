@@ -1,0 +1,59 @@
+{
+  "title": "The Cipher of Ashcombe",
+  "slug": "mystery/the-cipher-of-ashcombe",
+  "model": "stealth/ox-alpha",
+  "premise": "True-crime podcaster Xanthe Brightwater receives two letters about the 1974 Ashcombe drowning of schoolteacher Elowen Marsh: one from a dying man confessing to her murder, the other, unsigned, promising that 'the tide keeps what it was given.' Returning to the fog-bound coastal town, Xanthe discovers the confession is a cover for a deeper crime — Elowen was killed because she discovered a ring of respected townsfolk falsifying drownings to collect insurance and silence debts. As Xanthe digs, aided by Elowen's now-elderly lover who has kept silent for fifty years out of love and fear, the anonymous letter-writer begins feeding him evidence while sabotaging his investigation. In the climax, at low tide, the sea gives up Elowen's locked satchel, proving the conspiracy; the confessor dies before trial, but his testimony and the satchel force the surviving conspirators' exposure. Xanthe must choose between publishing everything — destroying innocent descendants — or letting justice stay half-done; he publishes the truth but shields the children, finding that memory, like the tide, gives back only what it chooses.",
+  "about_author": "Q. M. Brightwater is the pen name of a former coastal newspaper reporter who spent a decade covering unsolved disappearances along England's southern shore. They live in a converted pilot's cottage and claim all their best ideas arrive on the tide tables.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Two Envelopes, One Hand",
+      "summary": "Xanthe Brightwater, mid-season on his podcast 'Cold Water,' receives twin letters about the 1974 Elowen Marsh drowning: a deathbed confession from Thomas Renwick, and an unsigned note promising more. Comparing handwriting, he realizes both were written by the same person decades apart. POV: Xanthe. Emotional beat: unease — the case everyone closed is knocking again."
+    },
+    {
+      "n": 2,
+      "title": "The Town That Forgot on Purpose",
+      "summary": "Xanthe arrives in Ashcombe, where Elowen's drowning is remembered as tragic accident and gossip shuts down at her name. He interviews the harbor master's son and finds the 1974 inquest file suspiciously thin. An old woman slips him a matchbook from the drowned woman's classroom. POV: Xanthe. Emotional beat: creeping isolation — a town rehearsed in silence."
+    },
+    {
+      "n": 3,
+      "title": "The Man Who Kept Her Letters",
+      "summary": "Xanthe tracks down Edmund Voss, Elowen's secret lover, now ninety and living above the chandlery. Edmund admits he never believed she drowned herself, but stayed silent to protect someone he loved. He shows Xanthe her last letter, which mentions 'the book of names.' POV: alternating Xanthe/Edmund. Emotional beat: tenderness braided with fifty years of guilt."
+    },
+    {
+      "n": 4,
+      "title": "What the Ledger Wouldn't Say",
+      "summary": "Digging into parish records, Xanthe maps three other 'accidental' drownings between 1969 and 1976, all insured through the same broker, Aldous Crane. That night someone searches his rental room but takes nothing — they only wanted him to know. The unsigned writer sends a page of the ledger. POV: Xanthe. Emotional beat: fear sharpening into obsession."
+    },
+    {
+      "n": 5,
+      "title": "Renwick's Long Goodbye",
+      "summary": "In a hospice in Exeter, dying Thomas Renwick tells Xanthe he wrote both letters: the confession to unburden himself, the second to make sure someone came. He saw Crane's men take Elowen onto the water but said nothing for fifty years. He begs Xanthe to find her satchel before he dies. POV: Renwick. Emotional beat: the terrible cost of a coward's peace."
+    },
+    {
+      "n": 6,
+      "title": "The Book of Names",
+      "summary": "Edmund deciphers Elowen's letter: she'd found the insurance ring's ledger listing every staged drowning and every paid official — including the coroner who signed her inquest. When Xanthe confronts the current coroner's grandson, warnings escalate: his car brakes fail on the coast road. POV: Xanthe. Emotional beat: love against duty — Edmund urges him to stop; Xanthe cannot."
+    },
+    {
+      "n": 7,
+      "title": "Low Tide, High Stakes",
+      "summary": "The anonymous correspondent reveals themselves: Crane's daughter, who found the ledger after his death and has spent years deciding what to do with it. She gives Xanthe the tide charts marking where Elowen went into the water. But someone else has been reading her mail — and now knows she talked. POV: Crane's daughter, Marion. Emotional beat: complicity inherited, courage chosen."
+    },
+    {
+      "n": 8,
+      "title": "The Sea Gives Up Its Dead",
+      "summary": "At an extreme low tide, Xanthe, Edmund, and Marion search the gully below Gull Point and recover Elowen's rusted satchel: the ledger, photographs, and a letter naming her killers. On the walk back they find Renwick's hospice bed empty — he came to see it himself and collapsed on the shingle, smiling, the satchel in his hands. POV: Xanthe. Emotional beat: triumph shadowed by grief."
+    },
+    {
+      "n": 9,
+      "title": "Ashes of the Verdict",
+      "summary": "With the satchel authenticated, police reopen the case; two surviving conspirators are charged, and Elowen's drowning is formally reclassified as murder. But the guilty men's grandchildren — some now Xanthe's friends in town — face ruin. Edmund asks him what Elowen would have wanted. POV: alternating Xanthe/Edmund. Emotional beat: justice arriving cold, and costing the living."
+    },
+    {
+      "n": 10,
+      "title": "What the Tide Returns",
+      "summary": "Xanthe broadcasts the final episode: full truth about the ring, but names withheld for the descendants who knew nothing. At Elowen's reinstated memorial, Edmund reads her last letter aloud as the town finally mourns her together. Xanthe leaves Ashcombe with one unanswered letter of his own — the sea, he writes, keeps its promises slowly. POV: Xanthe. Emotional beat: resolution — memory honored, mercy chosen, the tide still turning."
+    }
+  ]
+}

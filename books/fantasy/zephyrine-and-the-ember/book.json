@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01727",
+  "title": "Zephyrine and the Ember",
+  "author": "Ansel Marchetti",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Rafael Marchetti, a thief who steals memories, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. Now they must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1727
+  }
+}

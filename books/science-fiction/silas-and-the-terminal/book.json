@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07709",
+  "title": "Silas and the Terminal",
+  "author": "Q. M. Hartwell",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Mara Amberdale, a pilot bonded to an AI that lies, records the slow death of a colony everyone else forgot. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7709
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07506",
+  "title": "Mara and the Static",
+  "author": "Odile Eastwick",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Casper Thornbury, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7506
+  }
+}

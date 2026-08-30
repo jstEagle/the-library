@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02281",
+  "title": "Mara and the Ember Revisited",
+  "author": "Oscar Hartwell",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Beatrix Winterbourne, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2281
+  }
+}

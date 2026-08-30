@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05214",
+  "title": "The Final Letter",
+  "author": "Vesper Villalobos",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Kestrel Lockridge, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5214
+  }
+}

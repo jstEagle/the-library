@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00589",
+  "title": "Ines and the Provision",
+  "author": "Petra Kavanagh",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ada Zhou, a railroad engineer with a map of closed lines, knows the wilderness forgives nothing and forgets less. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 589
+  }
+}

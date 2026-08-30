@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00566",
+  "title": "A Trail for the Horizon",
+  "author": "Paloma Vasquez",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Yara Brightwater, a riverboat captain who knows every sandbar's mood, has spent twelve years measuring life in miles rather than years. Then a government survey team vanishes, leaving gear and no tracks — and they are pulled straight into the middle of it. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the concession permits expire.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 566
+  }
+}

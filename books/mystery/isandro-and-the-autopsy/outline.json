@@ -1,0 +1,59 @@
+{
+  "title": "Isandro and the Autopsy",
+  "slug": "mystery/isandro-and-the-autopsy",
+  "model": "stealth/ox-alpha",
+  "premise": "Felix Sterling, a night-shift dispatcher who has memorized every route and rumor in the town of Harrow's Bend, receives an anonymous prepayment from a client asking him to prove that local matriarch Vivian Ashcombe will not be murdered on Friday night. When Vivian turns up dead anyway, Felix realizes the payment was made by someone who knew the plan and wanted it witnessed, not prevented. Digging through three years of dispatch logs, he uncovers a conspiracy among the Ashcombe heirs to stage her death as natural and claim an inheritance contingent on her dying before a trust expires. The killer is her devoted caretaker, Isandro, who loved her enough to obey her own request to die on her terms — but Felix exposes the forged will at the reading, and Isandro confesses to protect Vivian's granddaughter, the only heir who refused the money. In the end, Felix chooses truth over the town's comfortable silence, losing his job but gaining, for the first time, a place in Harrow's Bend rather than merely a view of it.",
+  "about_author": "Silas Montrose is the pen name of a former small-town records clerk who spent a decade listening to police scanners and pretending not to hear what he heard. He writes mysteries about people whose jobs put them one window away from everyone else's secrets.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Prepaid Fare",
+      "summary": "Felix Sterling's POV. On a slow Tuesday shift, a voice on the line books a taxi for Friday midnight and pays triple in advance, asking only that Felix confirm by Saturday that nothing happened. The caller knows Felix's name, his schedule, and the Ashcombe house address. Emotional beat: unease disguised as routine; Felix files the booking under 'odd' and tries to forget it."
+    },
+    {
+      "n": 2,
+      "title": "Alphabet of Small Towns",
+      "summary": "Felix's POV. Establishing Harrow's Bend through Felix's mental index: the Ashcombes own half the riverfront, the taxi company launders their respectability, and everyone's business passes through his switchboard. He drives past the Ashcombe estate out of curiosity and sees caretaker Isandro Reyes locking up early. Emotional beat: belonging from a distance — Felix knows everything and is known by no one."
+    },
+    {
+      "n": 3,
+      "title": "Friday, Midnight",
+      "summary": "Felix's POV. The prepaid fare never calls. At 12:40 a.m., a cab he dispatched earlier returns with a passenger who mentions ambulances on Ashcombe Hill. By dawn, Vivian Ashcombe is dead, ruled a heart attack. Felix checks the booking log: the advance payment timestamped four days before. Emotional beat: dread hardening into purpose — the client knew, and paid him to watch."
+    },
+    {
+      "n": 4,
+      "title": "What the Logs Remember",
+      "summary": "Felix's POV. Pulling three years of dispatch records, Felix maps a pattern: taxis near the Ashcombe estate on dates matching Vivian's 'health episodes,' each time driven by the same off-book driver. He confronts the company owner, who burns the page and warns him off. Emotional beat: the thrill of competence curdling into isolation as the town closes ranks."
+    },
+    {
+      "n": 5,
+      "title": "The Caretaker's Hands",
+      "summary": "Isandro Reyes's POV, first time. Isandro tends Vivian's grave and replays her final weeks: the diagnosis she hid, the trust expiring Sunday, her plea that he help her die before the vultures could profit. He burned the real will himself. Emotional beat: grief braided with guilt; Isandro believes he committed an act of love, not murder."
+    },
+    {
+      "n": 6,
+      "title": "Heirs and Apparents",
+      "summary": "Felix's POV. At the wake, Felix works the room: grandson Marcus needs money desperately, niece Dorothea has power-of-attorney papers ready, and granddaughter Camille Ashcombe — home after years away — seems genuinely shattered. Someone slips a note into Felix's coat: 'You were paid to prove it didn't happen. It did. Ask why.' Emotional beat: paranoia; the watcher realizes he is watched."
+    },
+    {
+      "n": 7,
+      "title": "A Death on Schedule",
+      "summary": "Felix's POV. Cross-referencing the trust documents Camille unknowingly confirms, Felix finds the inheritance voids if Vivian dies after Sunday — meaning someone needed her dead by Friday, and the anonymous client may have been trying to stop it, or frame it. His apartment is searched; his logbook copy is gone. Emotional beat: rising fear as the case shifts from whodunit to who-wanted-it-timed."
+    },
+    {
+      "n": 8,
+      "title": "The Second Autopsy",
+      "summary": "Isandro's POV. Isandro learns Felix is digging and prepares to silence him, but finds instead that Felix has reconstructed the truth compassionately — including Vivian's terminal diagnosis Isandro never mentioned. They meet at the boathouse: two men who both loved a woman they barely understood. Emotional beat: reluctant alliance; the confession begins but the will's forgery points to Dorothea, not Isandro."
+    },
+    {
+      "n": 9,
+      "title": "The Reading",
+      "summary": "Alternating POVs. At the will reading, Felix produces the original dispatch logs proving Dorothea orchestrated the timing and coerced Isandro's silence, while Isandro walks in and confesses to administering the morphine — taking the crime onto himself to shield Camille, whom Dorothea had blackmailed over an old debt. Emotional beat: climax; duty, love, and law collide in one drawing room."
+    },
+    {
+      "n": 10,
+      "title": "Open for Business",
+      "summary": "Felix's POV, epilogue weeks later. Isandro awaits trial insisting on his guilt; Dorothea is charged; Camille, inheriting honestly, offers Felix a job running the estate's affairs — a belonging he never expected. On his last night shift, a new voice asks him to prove something hasn't happened yet. He listens, then hangs up gently. Emotional beat: bittersweet resolution; some cases stay closed because he chooses to close them."
+    }
+  ]
+}

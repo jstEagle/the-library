@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03658",
+  "title": "Ines and the House",
+  "author": "G. M. Pemberton",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Hazel Winterbourne, a pest controller called to something with fingerprints, keeps the lights on and the doors counted. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. Now they must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3658
+  }
+}

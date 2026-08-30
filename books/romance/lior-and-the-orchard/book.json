@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06090",
+  "title": "Lior and the Orchard",
+  "author": "Marguerite Fairweather",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Coral Ashgrove, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6090
+  }
+}

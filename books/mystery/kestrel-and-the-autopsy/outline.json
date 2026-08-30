@@ -1,0 +1,59 @@
+{
+  "title": "Kestrel and the Autopsy",
+  "slug": "mystery/kestrel-and-the-autopsy",
+  "model": "stealth/ox-alpha",
+  "premise": "Sebastian Oyelaran, a night-shift taxi dispatcher with a gift for reading patterns in the city's dead hours, has quietly solved three deaths the police ruled accidental. When a drowned man surfaces wearing clothes stolen from Sebastian's own closet, he becomes both suspect and investigator, forced to work alongside Detective Maren Kestrel, who suspects his uncanny record is no coincidence. The killer, it emerges, is someone inside the original case files — a witness from Sebastian's first solved death, now staging murders to frame him and bury an inheritance fraud that connects all four victims. In the end, Sebastian baits the killer with a falsified dispatch log, and Kestrel must choose between arresting him for obstruction or letting his trap close; she arrests them both, but her testimony clears him and convicts the true killer.",
+  "about_author": "Isandro Iversen is the pen name of a former municipal records clerk who spent eleven years filing coroner's reports before turning to fiction. They write at night, in the belief that cities confess more honestly after midnight.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Fourth Body",
+      "summary": "Sebastian Oyelaran's POV. A routine night dispatching cabs is interrupted when police swarm the harbor: a drowned man wearing Sebastian's own missing coat and scarf. The emotional beat is cold dread — the private solver suddenly made public evidence."
+    },
+    {
+      "n": 2,
+      "title": "Dispatch Notes",
+      "summary": "Sebastian's POV, flashback-structured. He reviews the three deaths he secretly solved — a stairwell fall, a garage carbon monoxide leak, a hit-and-run — showing his method of cross-referencing cab logs against coroner timelines. Beat: pride curdling into fear as he realizes the new victim links to victim one."
+    },
+    {
+      "n": 3,
+      "title": "Kestrel",
+      "summary": "Detective Maren Kestrel's POV. She interrogates Sebastian about the stolen clothes and discovers his pattern-solving history, which reads either like genius or confession. Beat: wary fascination — she needs him, and distrusts needing him."
+    },
+    {
+      "n": 4,
+      "title": "The Witness Who Waited",
+      "summary": "Sebastian's POV. He tracks the surviving witness from his first solved case, Ada Voss, heir to the estate the stairwell death made liquid. Her alibi is perfect; her fear is real. Beat: the sick recognition that his own investigation may have armed the killer."
+    },
+    {
+      "n": 5,
+      "title": "Clothes Make the Corpse",
+      "summary": "Kestrel's POV. Forensics show the drowned man was dressed post-mortem by someone with access to Sebastian's building — narrowing to a dozen people, including a dispatcher trainee. Beat: claustrophobia; the circle tightening around Sebastian."
+    },
+    {
+      "n": 6,
+      "title": "Night Routes",
+      "summary": "Sebastian's POV. He maps the killer's movements through taxi GPS archives and finds a ghost route — pickups logged where no car existed. Someone has been editing dispatch records for years. Beat: exhilaration shadowed by paranoia."
+    },
+    {
+      "n": 7,
+      "title": "What the File Forgot",
+      "summary": "Dual POV. Kestrel finds the inheritance paperwork forged with a notary stamp belonging to a man dead since victim one; Sebastian realizes the killer learned police procedure from the very case file he built. Beat: the hunter discovering he wrote the hunting manual."
+    },
+    {
+      "n": 8,
+      "title": "The Trainee",
+      "summary": "Sebastian's POV. He confronts dispatcher trainee Elias Brandt, who breaks — not as the killer, but as the killer's unwitting courier, passing file copies under romantic manipulation. Beat: betrayal and pity intertwined; the trap's shape finally visible."
+    },
+    {
+      "n": 9,
+      "title": "Bait",
+      "summary": "Sebastian's POV, climax. He plants a falsified log implicating Ada Voss, forcing the killer — revealed as the 'dead' notary's son, Corin Hale — to surface and finish the frame. Kestrel shadows him; the confrontation turns violent on the harbor ice. Beat: terror transmuted into resolve."
+    },
+    {
+      "n": 10,
+      "title": "Testimony",
+      "summary": "Kestrel's POV, resolution. She arrests Sebastian for obstruction even as her sworn statement dismantles Hale's frame and exposes the inheritance fraud spanning all four deaths. Weeks later she slides his old case files back across the interview table — unofficially. Beat: justice imperfectly served, partnership quietly begun."
+    }
+  ]
+}

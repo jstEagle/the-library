@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09977",
+  "title": "The Mixtape of the quarry",
+  "author": "Juniper Marchetti",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Sebastian Zhou, a baker's kid who bakes feelings into bread, stays under the radar: head down, grades up, locker shut. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and he is pulled straight into the middle of it. Now he must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9977
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09789",
+  "title": "A Semester for the Yearbook",
+  "author": "Felix Coldharbour",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Dominic Amberdale, the team's statistician who knows the game is rigged, has spent three years being so careful it hurts. Then a group chat starts predicting things that haven't happened yet — and they are pulled straight into the middle of it. Now they must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9789
+  }
+}

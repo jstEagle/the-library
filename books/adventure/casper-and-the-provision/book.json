@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00199",
+  "title": "Casper and the Provision",
+  "author": "O. M. Ashgrove",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 3.5,
+  "blurb": "Petra Coldharbour, a desert ranger tracking a thief across nothing, has spent ten years measuring life in miles rather than years. But when the river gives up a chest stamped with a dead nation's seal, he discovers that staying invisible was never really an option. Now he must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 199
+  }
+}

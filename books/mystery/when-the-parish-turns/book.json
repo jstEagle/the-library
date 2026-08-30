@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04873",
+  "title": "When the Parish Turns",
+  "author": "Oscar Okafor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Petra Okonkwo, a hotel concierge who notices everything, thought they had seen every way a life can end. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4873
+  }
+}

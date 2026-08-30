@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09516",
+  "title": "The Tryouts of the quarry",
+  "author": "Beatrix Crane",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Paloma Yarrow, a baker's kid who bakes feelings into bread, counts days until graduation like a sentence being served. But when grandma's recipe box contains directions that aren't for food, she discovers that staying invisible was never really an option. Now she must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9516
+  }
+}

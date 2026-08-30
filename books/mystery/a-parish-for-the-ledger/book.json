@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05557",
+  "title": "A Parish for the Ledger",
+  "author": "Jude Dunmore",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Silas Winterbourne, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. But when a client pays in advance to prove a murder hasn't happened — yet, she discovers that staying invisible was never really an option. To get through this, she must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5557
+  }
+}

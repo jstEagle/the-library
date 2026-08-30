@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02986",
+  "title": "When the Orchard Falls",
+  "author": "Marguerite Coldharbour",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Jude Ravensworth, a mapmaker's apprentice finishing the atlas the master died for, believes history happens to other people, elsewhere. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the ship sails on the morning tide.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2986
+  }
+}

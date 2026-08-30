@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06384",
+  "title": "When the Postcard Falls",
+  "author": "Mirabel Delacroix",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Astrid Sandoval, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6384
+  }
+}

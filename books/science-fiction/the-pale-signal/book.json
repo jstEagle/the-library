@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07838",
+  "title": "The Pale Signal",
+  "author": "Ansel Vasquez",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Sable Marchetti, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7838
+  }
+}

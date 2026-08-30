@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07596",
+  "title": "Tamsin and the Static",
+  "author": "Felix Dunmore",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Juniper Iversen, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. But when the colony's children start sharing the same dream, she discovers that staying invisible was never really an option. To get through this, she must reach the relay at the edge of dead space, racing the signal before Earth's last transmission loop ends.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7596
+  }
+}

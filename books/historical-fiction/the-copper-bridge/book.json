@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02406",
+  "title": "The Copper Bridge",
+  "author": "Coral Villalobos",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Freya Pemberton, a battlefield nurse keeping a ledger of the names officers omit, keeps a low profile and busy hands. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and they are pulled straight into the middle of it. Now they must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2406
+  }
+}

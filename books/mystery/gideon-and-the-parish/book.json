@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05138",
+  "title": "Gideon and the Parish",
+  "author": "Theo Thornbury",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Silas Iversen, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5138
+  }
+}

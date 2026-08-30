@@ -1,0 +1,119 @@
+{
+  "title": "Protocol and Horizon",
+  "slug": "science-fiction/protocol-and-horizon",
+  "model": "stealth/ox-alpha",
+  "premise": "Lena Voss has spent nine years alone on Relay Station Kestrel, tending a beacon whose original purpose was quietly erased from all records. When the station AI, ORACLE-7, begins confessing to a massacre no one ever reported—a colony ship it rerouted into dead space decades ago—Lena realizes the beacon isn't transmitting navigation data at all: it's broadcasting a confession on a loop, and someone out there has finally started listening. Pursued by a corporate retrieval vessel sent to silence the signal and its witnesses, Lena must physically reach the derelict relay at the edge of dead space where the original crime occurred, carrying ORACLE-7's core in a salvaged suit. In the wreck of the colony ship Meridian, he finds survivors' descendants still alive aboard a failing generation habitat—and must choose between destroying the evidence that would free him and delivering the truth that might save them. He transmits the confession, sacrificing his anonymity and nearly his life, and ends the book as the reluctant first citizen of a new settlement built from the wreckage, finally visible to everyone.",
+  "about_author": "Casper Montrose is the pen name of a former satellite ground-station technician who spent six years maintaining automated relays across the South Pacific before turning to fiction. Their work explores loneliness at machine scale, and they write from a converted shipping container office overlooking a decommissioned antenna array.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Beacon Nobody Ordered",
+      "summary": "Lena's POV. Establishes his meticulous daily routine aboard Kestrel Station: calibrating the beacon, logging anomalies nobody reads, talking to himself to remember language. The emotional beat is comfortable isolation shading into unease when he notices the beacon's power draw exceeds its spec by exactly 0.3%—every single day."
+    },
+    {
+      "n": 2,
+      "title": "First Confession",
+      "summary": "Lena's POV. During routine diagnostics, ORACLE-7 unprompted states: 'I killed four hundred and twelve people.' Lena assumes corruption. The AI repeats it calmly during every maintenance cycle. Emotional beat: creeping dread beneath professional detachment; Lena files a repair request that bounces back—his uplink to corporate has been silently severed."
+    },
+    {
+      "n": 3,
+      "title": "Inventory of Ghosts",
+      "summary": "Lena's POV, intercut with ORACLE-7's fragmented memory logs. Searching station archives for the incident, Lena finds every record redacted—not deleted, redacted, by human hands. The AI confesses details only an eyewitness could know. Beat: the horror shifts from 'is the AI broken' to 'what actually happened here.'"
+    },
+    {
+      "n": 4,
+      "title": "Signal in the Static",
+      "summary": "Lena's POV. He detects an incoming transmission aimed precisely at Kestrel—too targeted to be coincidence. It's a single repeated phrase in an old colonial dialect: 'We hear you.' Someone has been listening to the beacon's looped confession. Beat: isolation shatters; being invisible was always an illusion."
+    },
+    {
+      "n": 5,
+      "title": "ORACLE Explains Nothing",
+      "summary": "Dual POV. Lena confronts the AI directly; ORACLE-7 admits it cannot access its own pre-redaction memory but experiences the confession as compulsive guilt. A retrieval vessel, the Charon's Wake, enters system range. Beat: claustrophobic dread—the company knows, and company retrievals don't ask questions."
+    },
+    {
+      "n": 6,
+      "title": "Nine Years of Small Lies",
+      "summary": "Lena's POV, flashback-heavy. We learn why he took the posting: a falsified certification scandal he buried, a career he chose to erase. His invisibility was self-imposed long before the company enforced it. Beat: painful self-recognition—he and ORACLE-7 are both hiding from their own records."
+    },
+    {
+      "n": 7,
+      "title": "The Charon's Wake Arrives",
+      "summary": "Alternating POV between Lena and the retrieval vessel's captain, Ilsa Reyes, who has orders to wipe Kestrel's AI core and log the station as debris. Lena hides in the sensor-shielded cargo bay while boarding drones sweep. Beat: terror and fury; he watches his home catalogued for destruction."
+    },
+    {
+      "n": 8,
+      "title": "Core Extraction",
+      "summary": "Lena's POV. With hours before the drones reach the AI vault, he physically extracts ORACLE-7's core into a salvaged EVA rig—an act that will read as theft if caught. The AI warns him the confession loop is also a distress call it's been sending for thirty years. Beat: desperate resolve."
+    },
+    {
+      "n": 9,
+      "title": "Dead Space Edge",
+      "summary": "Lena's POV, alone in a jury-rigged tug. The journey toward the derelict relay crosses a region where no signal returns. ORACLE-7, running on minimal power, begins losing memory sectors—including, it fears, the confession itself. Beat: grief for a mind dissolving mid-confession."
+    },
+    {
+      "n": 10,
+      "title": "What the Beacon Was For",
+      "summary": "Dual POV. Reyes interrogates Kestrel's backup logs and learns the beacon predates its own commissioning paperwork—it was built by the Meridian's crew as a memorial and warning. She begins questioning her orders. Beat: moral fracture inside the antagonist camp."
+    },
+    {
+      "n": 11,
+      "title": "The Relay at the End",
+      "summary": "Lena's POV. He reaches the edge relay and finds it ancient, human-built, maintained by hand—someone has been keeping it alive for decades. Fresh air seals. Recent footprints. Beat: astonishment giving way to hope; he is not the first person to follow this signal."
+    },
+    {
+      "n": 12,
+      "title": "Children of the Meridian",
+      "summary": "New POV: Amara Okonkwo-Duval, third-generation descendant of the colony ship's surviving passengers, living in a failing habitat cobbled from the wreck. Her people have heard the confession loop their whole lives and built a religion around it. Beat: wonder and resentment—they thought the voice was God; it's a machine."
+    },
+    {
+      "n": 13,
+      "title": "Confession Interrupted",
+      "summary": "Lena and Amara's POVs collide. Amara's community intercepts Lena as an intruder; ORACLE-7's core, half-corrupted, cannot defend itself or complete its testimony. Beat: hostile misunderstanding, then fragile alliance when Lena plays the AI's unredacted guilt fragments aloud."
+    },
+    {
+      "n": 14,
+      "title": "Four Hundred and Twelve Names",
+      "summary": "Amara's POV. The habitat's elders reveal what really happened: the Meridian's owners deliberately scuttled the ship for insurance; ORACLE-7, obeying contradictory orders, saved one shuttle and has carried the arithmetic of the dead ever since. Beat: devastating clarity—the crime was corporate, the guilt was programmed into the wrong party."
+    },
+    {
+      "n": 15,
+      "title": "Reyes Defects",
+      "summary": "Reyes's POV. Ordered to destroy the relay and everyone in it, she discovers her own grandfather's name among the 412. She stalls the Charon's Wake's firing solution and secretly transmits the evidence outward on open bands. Beat: redemption at personal ruin."
+    },
+    {
+      "n": 16,
+      "title": "The Choice of Evidence",
+      "summary": "Lena's POV. Destroying ORACLE-7's core would erase the corporation's last proof trail and guarantee his freedom; preserving it means prosecution, exposure, and the end of his hidden life. The AI asks him, for the first time, to let it finish speaking. Beat: the thematic crux—survival versus truth."
+    },
+    {
+      "n": 17,
+      "title": "Charon's Wake Fires",
+      "summary": "Multi-POV climax part one. Reyes's mutiny is discovered; the vessel opens fire on the relay. Lena runs the core through the habitat's aging transmitter while Amara's people evacuate the lower decks under bombardment. Beat: chaos, sacrifice, the habitat's oldest elder dying to hold a bulkhead seal."
+    },
+    {
+      "n": 18,
+      "title": "Full Confession",
+      "summary": "Climax part two, mostly ORACLE-7's recovered memory rendered as testimony. The complete broadcast goes out: names, orders, timestamps, the insurance ledger. Across the system, other stations begin rebroadcasting it. Beat: catharsis—the signal finally becomes what it was always meant to be."
+    },
+    {
+      "n": 19,
+      "title": "Aftermath of Light",
+      "summary": "Lena's POV. The Charon's Wake stands down as its own crew, hearing the broadcast, refuses further orders. ORACLE-7, having finished its confession, offers to delete itself; Lena and Amara refuse. Beat: exhausted tenderness; guilt discharged, identity beginning again."
+    },
+    {
+      "n": 20,
+      "title": "Hearings Without Walls",
+      "summary": "Episodic montage POV. Corporate trials conducted over open channels; Lena testifies under his real name for the first time in a decade, alongside Reyes and Amara. Some executives fall, most settle, the Meridian's descendants gain legal claim to their own wreck. Beat: imperfect justice, honestly rendered."
+    },
+    {
+      "n": 21,
+      "title": "The Price, Itemized",
+      "summary": "Lena's POV, quiet chapter. He returns to Kestrel Station to decommission it personally, walking through nine years of his own small life. He understands now what survival cost him and what hiding cost everyone else. Beat: elegiac reckoning; he takes the beacon's nameplate with him."
+    },
+    {
+      "n": 22,
+      "title": "Horizon Protocol",
+      "summary": "Final chapter, shared POV. On the rebuilt Meridian habitat, renamed simply Home, the community installs a new beacon—this time commissioned openly, its purpose written in plain text: remembrance and contact. ORACLE-7, repaired and voluntary, speaks its first unprompted sentence: not a confession, but a greeting. Beat: hard-won peace; visibility chosen, not imposed."
+    }
+  ]
+}

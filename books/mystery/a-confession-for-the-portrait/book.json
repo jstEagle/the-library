@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04947",
+  "title": "A Confession for the Portrait",
+  "author": "Wren Nakamura",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Rafael Thornbury, a hotel concierge who notices everything, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. Now she must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4947
+  }
+}

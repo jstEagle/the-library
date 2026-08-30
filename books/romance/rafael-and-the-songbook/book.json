@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06770",
+  "title": "Rafael and the Songbook",
+  "author": "Mara Dravenmoor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sable Ashgrove, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and he is pulled straight into the middle of it. To get through this, he must say the sentence that has been rehearsed for a decade before the vineyard's first harvest comes in.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6770
+  }
+}

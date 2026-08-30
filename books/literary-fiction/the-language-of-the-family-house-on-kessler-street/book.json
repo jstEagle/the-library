@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04282",
+  "title": "The Language of the family house on Kessler Street",
+  "author": "M. M. Vane",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ada Blackwood, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. Then a song on the radio is one that was written and never recorded — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4282
+  }
+}

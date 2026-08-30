@@ -1,0 +1,21 @@
+{
+  "id": "THR-08695",
+  "title": "The Deadline of Vienna",
+  "author": "O. M. Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Odile Halloran, a whistle-blower living under four names, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. To get through this, he must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8695
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00651",
+  "title": "Trail and Provision",
+  "author": "Xanthe Sandoval",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Yara Whitlock, a riverboat captain who knows every sandbar's mood, has spent twenty years measuring life in miles rather than years. Then the river gives up a chest stamped with a dead nation's seal — and she is pulled straight into the middle of it. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 651
+  }
+}

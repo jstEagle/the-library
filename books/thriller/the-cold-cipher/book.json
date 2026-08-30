@@ -1,0 +1,21 @@
+{
+  "id": "THR-08732",
+  "title": "The Cold Cipher",
+  "author": "X. M. Oyelaran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Theo Eriksen, a private security contractor guarding clients nobody trusts, has spent seven years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8732
+  }
+}

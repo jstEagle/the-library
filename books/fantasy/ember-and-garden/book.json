@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00899",
+  "title": "Ember and Garden",
+  "author": "Tamsin Okafor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Yara Whitlock, a royal food-taster building immunity one dish at a time, has spent five years selling small charms in a city that outlawed magic. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 899
+  }
+}

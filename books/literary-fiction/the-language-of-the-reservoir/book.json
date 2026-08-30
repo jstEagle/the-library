@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04395",
+  "title": "The Language of the reservoir",
+  "author": "Jude Thornbury",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Coral Okafor, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. Then the last speaker of a language asks for one final student — and they are pulled straight into the middle of it. Now they must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4395
+  }
+}

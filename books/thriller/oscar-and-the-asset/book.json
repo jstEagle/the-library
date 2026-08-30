@@ -1,0 +1,21 @@
+{
+  "id": "THR-09338",
+  "title": "Oscar and the Asset",
+  "author": "Kestrel Blackwood",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ivo Oyelaran, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. To get through this, she must extract a defector who may be the bait before the summit convenes.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9338
+  }
+}

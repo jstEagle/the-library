@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04291",
+  "title": "The Half-Light Language",
+  "author": "Ansel Eriksen",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Silas Almeida, a restaurant critic who has forgotten how food tastes, has spent twelve years practicing the art of almost saying it. Then the last speaker of a language asks for one final student — and he is pulled straight into the middle of it. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4291
+  }
+}

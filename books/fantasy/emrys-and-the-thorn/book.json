@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01357",
+  "title": "Emrys and the Thorn",
+  "author": "Bram Pemberton",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Odile Delacroix, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. But when the old gods begin answering prayers again, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "found family",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1357
+  }
+}

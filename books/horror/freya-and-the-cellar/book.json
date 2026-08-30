@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03446",
+  "title": "Freya and the Cellar",
+  "author": "Isandro Dunmore",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Ada Vane, a twin who came home to bury the wrong sibling, documents everything, because documentation is a kind of prayer. But when every mirror in the house starts reflecting the room one second late, he discovers that staying invisible was never really an option. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3446
+  }
+}

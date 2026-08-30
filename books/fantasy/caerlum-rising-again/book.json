@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02177",
+  "title": "Caerlum Rising Again",
+  "author": "Wren Lockridge",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Jonah Fairweather, an exiled storm-caller, has never left the valley where magic cannot follow. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2177
+  }
+}

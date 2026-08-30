@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01856",
+  "title": "When the Hollow Burns Anew",
+  "author": "Mara Pemberton",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Wren Eriksen, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1856
+  }
+}

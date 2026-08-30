@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02226",
+  "title": "August and the Oath Revisited",
+  "author": "Jonah Winterbourne",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lena Blackwood, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2226
+  }
+}

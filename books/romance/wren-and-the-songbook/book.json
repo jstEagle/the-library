@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06616",
+  "title": "Wren and the Songbook",
+  "author": "Ulyana Fairweather",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Mirabel Oyelaran, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the vineyard's first harvest comes in.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6616
+  }
+}

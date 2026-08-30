@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03867",
+  "title": "A Well for the Bell",
+  "author": "Tamsin Okafor",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ada Lockridge, a hospice nurse who hears the dying count backwards, doesn't believe, has never believed, will not begin believing now. Then the excavation crew unearths a door, sealed from the inside — and she is pulled straight into the middle of it. To get through this, she must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3867
+  }
+}

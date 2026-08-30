@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04099",
+  "title": "The Necessary Blue Hour",
+  "author": "Juniper Underhill",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Yara Eriksen, an heir cataloging a parent's silence after the funeral, moves through the days like a tenant, not an owner. Then the last speaker of a language asks for one final student — and he is pulled straight into the middle of it. To get through this, he must ask the question the whole family arranged itself around before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4099
+  }
+}

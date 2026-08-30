@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04261",
+  "title": "The Late Wardrobe",
+  "author": "Tamsin Marchetti",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Mara Oyelaran, a night librarian in a city that sleeps less every year, has spent seven years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. To get through this, he must return to the place where the story went wrong before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4261
+  }
+}

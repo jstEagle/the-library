@@ -1,0 +1,119 @@
+{
+  "title": "Cipher and Inheritance",
+  "slug": "mystery/cipher-and-inheritance",
+  "model": "stealth/ox-alpha",
+  "premise": "Lena Lockridge, a night-shift dispatcher with a gift for reading patterns in other people's emergencies, has quietly cracked three deaths the police wrote off as accidents. When a drowned woman is found wearing clothes stolen from Lena's own closet, she realizes someone knows who she is and is staging a message meant for her alone. The clothes belong to her sister Mara, who died seven years ago in a fire officially ruled an accident at the Halcyon Trust, the philanthropic empire of the Voss family. Pulling the threads of that fire, Lena discovers Mara had been a bookkeeper who found a ledger of payoffs, coerced settlements, and deaths dressed as misfortune, and that the same hidden hand has been erasing witnesses ever since. As Lena closes in on the surviving ledger and the man who has spent a decade buying silence, she must decide whether exposing the truth is worth becoming the next name on his list. In the end she trades her invisibility for justice, forcing a confession through the killer's own obsession with her, and inherits not her sister's fate but her unfinished work.",
+  "about_author": "Paloma Halloran spent nine years as a police scanner operator in a mid-sized coastal city, where she learned that most crimes are solved by the people paid to listen. She writes at night, in a house she refuses to describe, and claims she has never once been wrong about a caller.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Third Shift",
+      "summary": "Lena's POV. A routine night of dispatching establishes her world: the cab company's radio chatter, her habit of noticing what callers don't say, and the quiet pride of having solved three 'accidents' anonymously. Emotional beat: controlled loneliness, the comfort of invisibility."
+    },
+    {
+      "n": 2,
+      "title": "The Woman in Her Clothes",
+      "summary": "Lena's POV. Police radios crackle with a body pulled from the harbor wearing a coat Lena recognizes as her sister Mara's, from a closet sealed seven years ago. Lena realizes the clothes were taken from her own apartment. Emotional beat: cold shock, the floor dropping out of her safe life."
+    },
+    {
+      "n": 3,
+      "title": "Questions for a Ghost",
+      "summary": "Detective Amara Osei's POV. Osei interviews Lena, suspicious of how quickly she identifies the victim and the clothing's provenance. Lena lies smoothly, but Osei notes the lie. Emotional beat: the hunter realizing she has become a suspect."
+    },
+    {
+      "n": 4,
+      "title": "What Mara Kept",
+      "summary": "Lena's POV. Searching her sister's sealed boxes, Lena finds a half-burned notebook of account numbers and initials, and a business card for the Halcyon Trust. Emotional beat: grief reopening like a wound, the first real thread in seven years."
+    },
+    {
+      "n": 5,
+      "title": "The Trust",
+      "summary": "Lena's POV, with an interlude from the killer's anonymous perspective watching her building. Lena visits the Halcyon Trust under a pretext and meets Elias Voss, charming and watchful, and his fixer, Corbin Ashe. Emotional beat: the vertigo of standing in the lion's den and smiling."
+    },
+    {
+      "n": 6,
+      "title": "Pattern of Accidents",
+      "summary": "Lena's POV. Cross-referencing the notebook with old news clippings, Lena maps a decade of deaths around the Trust, all ruled accidental, all witnesses or bookkeepers. Emotional beat: dread hardening into purpose."
+    },
+    {
+      "n": 7,
+      "title": "The Caller",
+      "summary": "Lena's POV. A late-night dispatch call comes in from a voice she half-recognizes, quoting a phrase only Mara used, then disconnecting. Trace attempts fail. Emotional beat: fear becoming intimate, the sense of being studied."
+    },
+    {
+      "n": 8,
+      "title": "Osei's Doubts",
+      "summary": "Osei's POV. Osei quietly reopens the harbor death and finds the victim had worked for Halcyon's accounting firm. Her captain tells her to drop it. Emotional beat: institutional rot, a good cop choosing to disobey."
+    },
+    {
+      "n": 9,
+      "title": "Corbin Ashe",
+      "summary": "Lena's POV. Ashe corners Lena in a parking garage, offering money for the notebook and a warning wrapped in courtesy. She refuses. Emotional beat: the price of survival made explicit; she understands she is already on a list."
+    },
+    {
+      "n": 10,
+      "title": "The Fourth Accident",
+      "summary": "Lena's POV. A retired Halcyon auditor, her only living lead, dies in a house fire hours after Lena contacts him. Lena arrives too late, finding the notebook pages she'd asked about already ash. Emotional beat: guilt and rage fusing into resolve."
+    },
+    {
+      "n": 11,
+      "title": "Allies",
+      "summary": "Osei's POV. Osei and Lena meet off the books, each testing the other, and agree to an uneasy alliance: Osei gets the case, Lena gets the pattern. Emotional beat: cautious trust, two liars agreeing to tell each other the truth."
+    },
+    {
+      "n": 12,
+      "title": "The Fire File",
+      "summary": "Lena's POV. Digging into the original fire investigation, Lena finds the arson inspector took early retirement into a Halcyon-funded consultancy. The fire was set; Mara knew it. Emotional beat: the past reorganizing itself around a lie."
+    },
+    {
+      "n": 13,
+      "title": "What the Sister Saw",
+      "summary": "Lena's POV, with a flashback to Mara. Reconstructing Mara's last weeks through a hidden storage unit, Lena finds the complete ledger: payoffs, coerced settlements, and a list of names, hers included. Emotional beat: awe and heartbreak at her sister's courage."
+    },
+    {
+      "n": 14,
+      "title": "The Man Who Buys Silence",
+      "summary": "Osei's POV. Osei traces the ledger's recurring initials to a name that isn't Voss: Grant Mercer, the Trust's quiet general counsel, the true architect. Emotional beat: the revelation that the visible villain was a decoy."
+    },
+    {
+      "n": 15,
+      "title": "Cornered",
+      "summary": "Lena's POV. Mercer's people ransack her apartment and take the ledger; Osei is suspended on fabricated charges. Lena realizes the only evidence left is in Mercer's own head. Emotional beat: despair, then the cold clarity of a dispatcher who knows how to make people talk."
+    },
+    {
+      "n": 16,
+      "title": "Bait",
+      "summary": "Lena's POV. Using the killer's obsession with her, Lena leaves a trail of dispatch-code messages only he would understand, luring him to the harbor at shift's end. Emotional beat: terror weaponized, turning prey into trap-setter."
+    },
+    {
+      "n": 17,
+      "title": "Night Water",
+      "summary": "Lena's POV. At the docks, Mercer's killer, revealed as the retired arson inspector's protégé and Mara's former lover, confesses the fire and the decade of cleanups before Mercer's men arrive to silence them both. Emotional beat: the confession Lena has hunted for seven years, arriving with a knife at her throat."
+    },
+    {
+      "n": 18,
+      "title": "Mercer",
+      "summary": "Lena's POV. Lena confronts Mercer in the Trust's boardroom, recording his offer to make her Mara's replacement: a salary, protection, silence. He confesses to the architecture of everything. Emotional beat: the corruptor mistaking ambition for corruption in her."
+    },
+    {
+      "n": 19,
+      "title": "The Recording",
+      "summary": "Osei's POV. Reinstated by an internal affairs leak Lena engineered, Osei executes warrants as the recording goes public. Voss disavows Mercer; Mercer's empire of settlements collapses inward. Emotional beat: the machinery of justice finally turning, grinding slowly but truly."
+    },
+    {
+      "n": 20,
+      "title": "What Survival Costs",
+      "summary": "Lena's POV. In the aftermath, Lena testifies, loses her anonymity, and faces the empty apartment and the sealed boxes. She reads Mara's final unsent letter. Emotional beat: grief transmuted, the price paid named honestly."
+    },
+    {
+      "n": 21,
+      "title": "Cipher",
+      "summary": "Lena's POV. Deciphering the last page of the ledger, Lena finds Mara's coded list of victims' families, people never compensated, never told the truth. She begins sending them what she knows, one letter at a time. Emotional beat: inheritance accepted, quiet and deliberate."
+    },
+    {
+      "n": 22,
+      "title": "First Shift",
+      "summary": "Lena's POV, final scene with Osei. Months later, Lena takes a day shift, answers a call that doesn't add up, and looks at Osei across a diner table: the next case is already forming. Emotional beat: resolution with a pulse, invisibility traded for purpose."
+    }
+  ]
+}

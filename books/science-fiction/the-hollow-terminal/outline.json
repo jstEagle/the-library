@@ -1,0 +1,59 @@
+{
+  "title": "The Hollow Terminal",
+  "slug": "science-fiction/the-hollow-terminal",
+  "model": "stealth/ox-alpha",
+  "premise": "Oscar Underhill is the last caretaker of Meridian Station's seed-vault gardens, tending crops for colonists who will never arrive, until a nine-second gravity flicker across the system reveals that her forgotten colony sits atop a dormant jump gate both rival fleets are racing to claim. When she discovers the flicker was triggered by her dead mentor's hidden beacon—a lie he built to keep the fleets from destroying each other over a gate that doesn't actually work—Oscar must keep that deception running while deciding whether to expose the truth. As the jump window closes and both fleets converge on her station, she broadcasts a forged inheritance: proof that the gate belongs to no one, forcing the fleets to stand down or reveal themselves as conquerors. In the end, Oscar chooses truth over loyalty to her mentor's ghost, burns the lie, and reopens the colony's original mission—planting the garden for whoever comes next.",
+  "about_author": "Silas Nystrom is a former hydroponics technician who spent six years on remote research stations before turning to fiction. He writes quiet, character-driven science fiction about people who maintain things nobody remembers needing.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Falling",
+      "summary": "Oscar's POV. Establishes her solitary routine tending the seed vault on near-abandoned Meridian Station, her grief for mentor Elias Voss, and her letters to unborn colonists. Then gravity stutters system-wide for exactly nine seconds—her tea floats, the garden shudders—and every long-dead sensor on the station wakes at once. Emotional beat: loneliness cracked open by wonder."
+    },
+    {
+      "n": 2,
+      "title": "The Garden That Waits",
+      "summary": "Oscar's POV. She investigates the flicker's aftermath and finds Elias's old beacon transmitting from beneath the vault—a signal she never knew existed, now answered by two approaching fleet signatures. Flashbacks reveal how Elias taught her that tending is a form of love. Emotional beat: betrayal blooming inside grief."
+    },
+    {
+      "n": 3,
+      "title": "Two Flags on the Horizon",
+      "summary": "Alternating POV with Fleet signals officer Dara Okonkwo aboard the Concordance ship Perpetual, ordered to secure 'anomalous mass' before the Republic's Ashfall squadron arrives. Dara suspects her orders conceal something. Oscar, watching both fleets burn toward her, realizes she is the only person standing between them. Emotional beat: dread sharpening into resolve."
+    },
+    {
+      "n": 4,
+      "title": "Elias's Lie",
+      "summary": "Oscar's POV. Deciphering Elias's encrypted logs, she learns the truth: the jump gate under Meridian is a dead prototype, and his beacon was designed to make it seem live—to hold the fleets in stalemate forever. He died maintaining the fiction. Now the flicker has exposed it, and only someone who can plausibly speak for the station can keep the lie breathing. Emotional beat: inheriting a burden she never asked for."
+    },
+    {
+      "n": 5,
+      "title": "First Contact Protocol",
+      "summary": "Dara's POV. The Perpetual docks; Dara meets Oscar and is disarmed by the garden, by the letters to children who don't exist. She begins privately doubting why command wants this rock so badly. Meanwhile Oscar plays the loyal caretaker, feeding Dara just enough of Elias's fiction to buy time. Emotional beat: two lonely women recognizing each other across a divide."
+    },
+    {
+      "n": 6,
+      "title": "Ashfall",
+      "summary": "Alternating POV. The Republic's Ashfall squadron arrives demanding docking rights; Oscar must host both delegations simultaneously without letting either learn the other's claims—or the gate's true state. A near-catastrophic inspection of the vault nearly exposes the dead core. Emotional beat: performance as survival, intimacy as risk."
+    },
+    {
+      "n": 7,
+      "title": "What the Beacon Knows",
+      "summary": "Dara's POV. Dara discovers discrepancies in the gate telemetry and confronts Oscar privately—not with arrest, but with a question: what did Voss know? Torn between duty and dawning loyalty to Oscar, Dara agrees to delay her report for one jump-window cycle. Emotional beat: trust extended as an act of rebellion."
+    },
+    {
+      "n": 8,
+      "title": "The Window Closes",
+      "summary": "Oscar's POV. With hours left before the fleets' ultimatums expire, Oscar attempts to restart the beacon's deception—but Elias's systems fail, corrupted by the flicker. Both fleets detect the dead gate. Commanders demand answers; Dara stalls her own chain of command at gunpoint of her career. Emotional beat: the lie collapsing, everything hanging on one choice."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "Climax, alternating POV. Oscar hijacks the station's array and broadcasts everything: the dead gate, Elias's forged beacon, the full logs—plus the garden, the letters, the colony's founding purpose. She frames it as an inheritance belonging to no flag. Fleets power weapons; Dara refuses orders to jam the transmission, forcing her captain's hand. Stalemate becomes shame. Emotional beat: truth as the only weapon left, wielded at terrible cost."
+    },
+    {
+      "n": 10,
+      "title": "Planting Season",
+      "summary": "Oscar's POV, epilogue-like. Weeks later, both fleets have withdrawn; an independent charter delegation arrives—not conquerors but settlers, drawn by the broadcast. Dara stays, deserting her commission. Together they open the seed vault's first true planting cycle and write new letters, this time to people who are coming. Emotional beat: grief transmuted into inheritance, found family taking root."
+    }
+  ]
+}

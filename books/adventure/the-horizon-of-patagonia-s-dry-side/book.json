@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00483",
+  "title": "The Horizon of Patagonia's dry side",
+  "author": "Wendell Okonkwo",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Orsen Nystrom, a railroad engineer with a map of closed lines, has spent twelve years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and they are pulled straight into the middle of it. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 483
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04419",
+  "title": "A Postcards for the Radiators",
+  "author": "Petra Quintana",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ansel Fairweather, a restaurant critic who has forgotten how food tastes, keeps a careful inventory of everything unsaid. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must return to the place where the story went wrong before the house sale closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4419
+  }
+}

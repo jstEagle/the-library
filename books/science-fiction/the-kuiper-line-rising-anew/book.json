@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08362",
+  "title": "the Kuiper Line Rising Anew",
+  "author": "Theo Lockridge",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Xanthe Pemberton, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8362
+  }
+}

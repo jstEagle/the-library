@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07372",
+  "title": "The Pale Machine",
+  "author": "Zephyrine Galloway",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Ivo Almeida, a clone who inherited the original's murder case, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. Now she must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7372
+  }
+}

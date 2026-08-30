@@ -1,0 +1,119 @@
+{
+  "title": "The Double Debt",
+  "slug": "thriller/the-double-debt",
+  "model": "stealth/ox-alpha",
+  "premise": "Paloma Blackwood, a veteran air-crash investigator, has spent fifteen years chasing the truth of Flight 4471, which killed her parents and sister in row twelve. When a routine voiceprint analysis unlocks a hidden server in Lisbon, she discovers the crash was engineered to test a behavioral-prediction network trained on passenger data — and that her own grief was part of the training set. Recruited by a burned insider named Ivo Reyes, she infiltrates the network's architects while dodging both her own agency and the operatives erasing evidence. In the end Paloma must choose between publishing the truth and protecting Ivo, who turns out to be the voice on the server; she burns the archive at the cost of her career, testifies under a new identity, and finally buries her family with answers.",
+  "about_author": "Kestrel Brightwater is a former aviation-safety analyst who left the field after a decade of accident reports no one read. They now write thrillers from a coastal town where every storm grounds planes, and they like it that way.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Paloma's POV. Fifteen years after Flight 4471, she runs a crash reconstruction in Rotterdam with flawless procedure — then freezes when seat 12C's data mirrors her sister's final flight. Emotional beat: competence as armor, cracking at the seams."
+    },
+    {
+      "n": 2,
+      "title": "The Voiceprint",
+      "summary": "Paloma's POV. A lab technician asks her to validate an unidentified voiceprint; the moment it clears authentication, a locked server in Lisbon opens remotely and pings her credentials. Emotional beat: dread disguised as curiosity."
+    },
+    {
+      "n": 3,
+      "title": "Rewritten Rules",
+      "summary": "Paloma's POV. Her agency suspends her pending review of 'unauthorized access,' but a colleague slips her the access logs — someone inside invited the ping. Emotional beat: betrayal by the institution she served."
+    },
+    {
+      "n": 4,
+      "title": "Lisbon Rain",
+      "summary": "Paloma's POV. She flies to Lisbon off-book and meets Ivo Reyes, the burned insider who planted the voiceprint bait, hunting for someone with nothing left to lose. Emotional beat: wary alliance over cheap wine."
+    },
+    {
+      "n": 5,
+      "title": "What the Server Kept",
+      "summary": "Ivo's POV. He shows Paloma the archive: passenger biometrics, grief interviews, behavioral models trained on disaster survivors — including her family's files. Emotional beat: horror of being data."
+    },
+    {
+      "n": 6,
+      "title": "The Architects",
+      "summary": "Paloma's POV. The trail leads to Meridian Behavioral Group, whose founders include a man who testified at the original crash inquiry. Emotional beat: the enemy wearing a familiar face."
+    },
+    {
+      "n": 7,
+      "title": "Twelve Minutes",
+      "summary": "Dual POV. Flashback chapter: the last twelve minutes of Flight 4471 reconstructed against the archive's tamper logs, revealing a deliberate depressurization test. Emotional beat: grief weaponized into clarity."
+    },
+    {
+      "n": 8,
+      "title": "Clean Hands",
+      "summary": "Ivo's POV. Ivo confesses he worked for Meridian for six years before defecting; Paloma must decide if his guilt is currency or camouflage. Emotional beat: trust as a calculated risk."
+    },
+    {
+      "n": 9,
+      "title": "Internal Affairs",
+      "summary": "Paloma's POV. An agency investigator, Director Hale, arrives in Lisbon offering reinstatement in exchange for handing over the archive. Emotional beat: duty pulling one way, truth the other."
+    },
+    {
+      "n": 10,
+      "title": "The Safe House",
+      "summary": "Ivo's POV. A Meridian strike team hits their safe house; they escape through the Alfama with a copied drive but lose their only witness contact. Emotional beat: fear sharpening intimacy."
+    },
+    {
+      "n": 11,
+      "title": "Row Thirteen",
+      "summary": "Paloma's POV. She decodes a file labeled with her own name: Meridian predicted her investigation fifteen years ago and let it run as a control variable. Emotional beat: identity collapsing — was any of this hers?"
+    },
+    {
+      "n": 12,
+      "title": "Geneva Ledger",
+      "summary": "Dual POV. Following money through a Geneva shell company, they find Meridian's clients: three governments and two airlines buying predictive casualty modeling. Emotional beat: scale turning anger cold."
+    },
+    {
+      "n": 13,
+      "title": "Hale's Offer",
+      "summary": "Paloma's POV. Hale reveals the agency took Meridian funding years ago; his offer was a leash, not a lifeline. He gives her forty-eight hours before he reports the archive stolen. Emotional beat: the last door closing."
+    },
+    {
+      "n": 14,
+      "title": "The Voice on the Server",
+      "summary": "Ivo's POV. Paloma discovers the unlock voiceprint was Ivo's own — he designed the trap knowing it would need her grief to work. Emotional beat: love and fury arriving in the same breath."
+    },
+    {
+      "n": 15,
+      "title": "Grounded",
+      "summary": "Paloma's POV. She walks out on Ivo, but a Meridian operative corners her with proof her sister's death was logged as 'acceptable variance.' Emotional beat: rage finding its target."
+    },
+    {
+      "n": 16,
+      "title": "Counterweight",
+      "summary": "Dual POV. Reconciled but unsentimental, they plan to burn the archive publicly during Meridian's Geneva investor summit — using the network's own prediction engine against it. Emotional beat: purpose rebuilt from wreckage."
+    },
+    {
+      "n": 17,
+      "title": "Forty-Eight Hours",
+      "summary": "Ivo's POV. Infiltration begins: forged credentials, a hijacked presentation slot, Hale's deadline ticking. Meridian's security chief recognizes Ivo. Emotional beat: the plan fraying at every seam."
+    },
+    {
+      "n": 18,
+      "title": "Acceptable Variance",
+      "summary": "Paloma's POV. On stage, she replaces the keynote with the archive — flight data, victim files, client ledgers — broadcast to every delegate's device. Emotional beat: fifteen years of silence breaking open."
+    },
+    {
+      "n": 19,
+      "title": "The Burn",
+      "summary": "Dual POV. Meridian triggers a wipe; Ivo stays behind to corrupt the backups while Paloma drags him toward the exits as the building locks down. Emotional beat: sacrifice offered and refused."
+    },
+    {
+      "n": 20,
+      "title": "Testimony",
+      "summary": "Paloma's POV. Months later, under parliamentary immunity, she testifies; Hale resigns, Meridian's founders are indicted, and Ivo enters witness protection she may never find again. Emotional beat: justice that costs more than it returns."
+    },
+    {
+      "n": 21,
+      "title": "New Identity",
+      "summary": "Paloma's POV. With a new name and a sealed record, she visits the graves in row twelve of the memorial garden and reads the full report aloud. Emotional beat: mourning finally allowed to finish."
+    },
+    {
+      "n": 22,
+      "title": "Cleared for Departure",
+      "summary": "Paloma's POV. At a small regional airport, a stranger with Ivo's gait waits at gate 12; she chooses to walk toward him rather than away. Emotional beat: love chosen freely, not owed — the debt paid."
+    }
+  ]
+}

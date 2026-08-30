@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02944",
+  "title": "The Ledger of Vilna",
+  "author": "Kestrel Iversen",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Cyrus Amberdale, a pearl diver's child indentured to a trading company, has spent ten years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. Now she must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2944
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03091",
+  "title": "Uniform and Orchard",
+  "author": "Noor Ashgrove",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Jude Quintana, a code-carrying courier on the last diplomatic mission of a doomed republic, believes history happens to other people, elsewhere. Then a sealed letter names the family in a plot no one wants a part of — and they are pulled straight into the middle of it. Now they must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3091
+  }
+}

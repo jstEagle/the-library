@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04867",
+  "title": "When the Inheritance Breaks",
+  "author": "Ines Brightwater",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Theo Dravenmoor, a retired detective running a failing bookshop, prides themselves on never taking a case they can't close. Then a body turns up dressed in clothes stolen from the witness's own closet — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4867
+  }
+}

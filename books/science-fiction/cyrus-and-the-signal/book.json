@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07866",
+  "title": "Cyrus and the Signal",
+  "author": "N. M. Galloway",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Astrid Thackeray, a terraformer tending a garden meant for people not yet born, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before Earth's last transmission loop ends.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7866
+  }
+}

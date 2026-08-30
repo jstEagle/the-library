@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03176",
+  "title": "The Bell of Old Chapel Road",
+  "author": "Coral Eastwick",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Rosalind Eastwick, a hospice nurse who hears the dying count backwards, keeps the lights on and the doors counted. Then the village's church bell rings although the bell was melted down in 1911 — and she is pulled straight into the middle of it. Now she must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3176
+  }
+}

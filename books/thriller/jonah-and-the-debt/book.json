@@ -1,0 +1,21 @@
+{
+  "id": "THR-08903",
+  "title": "Jonah and the Debt",
+  "author": "Ivo Amberdale",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Rafael Brightwater, a burnt analyst bounced from three agencies, works cases no one wants attributed. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8903
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05790",
+  "title": "The Last Will Revisited",
+  "author": "Hazel Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Vesper Galloway, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5790
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05664",
+  "title": "Jonah and the Parish",
+  "author": "Gideon Almeida",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Cyrus Joubert, a night-shift dispatcher for a taxi company, has spent five years keeping the town's secrets filed and alphabetized. But when the town's beloved founder is exhumed and the coffin is empty, he discovers that staying invisible was never really an option. To get through this, he must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5664
+  }
+}

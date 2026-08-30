@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09849",
+  "title": "The Sixteenth Yearbook",
+  "author": "S. M. Okafor",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Xanthe Crane, a scholarship student at an academy with too many secrets, counts days until graduation like a sentence being served. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. To get through this, he must save the tradition that made the town before the final audition.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9849
+  }
+}

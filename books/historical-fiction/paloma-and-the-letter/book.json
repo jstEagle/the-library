@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02413",
+  "title": "Paloma and the Letter",
+  "author": "Sebastian Ishikawa",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Emrys Fairweather, an apprentice clockmaker summoned to repair the observatory's master clock, has spent twelve years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. To get through this, they must get the truth on the record ahead of the victors' historians before the ice breaks on the river.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2413
+  }
+}

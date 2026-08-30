@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08102",
+  "title": "Petra and the Static",
+  "author": "Vesper Sterling",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Beatrix Thornbury, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8102
+  }
+}

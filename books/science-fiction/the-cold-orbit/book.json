@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07644",
+  "title": "The Cold Orbit",
+  "author": "Edmund Reyes",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Tamsin Sandoval, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. But when a ship returns from deep space with everyone aboard aged backward, he discovers that staying invisible was never really an option. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7644
+  }
+}

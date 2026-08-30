@@ -1,0 +1,21 @@
+{
+  "id": "THR-08869",
+  "title": "Deadline and Border",
+  "author": "Silas Dravenmoor",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Ada Eastwick, a whistle-blower living under four names, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. To get through this, she must extract a defector who may be the bait before the markets open in Frankfurt.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8869
+  }
+}

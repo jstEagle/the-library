@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05393",
+  "title": "Autopsy and Cipher",
+  "author": "Noor Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Beatrix Whitlock, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5393
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05663",
+  "title": "Lena and the Cipher",
+  "author": "Lena Thornbury",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Elodie Villalobos, a hotel concierge who notices everything, has spent ten years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5663
+  }
+}

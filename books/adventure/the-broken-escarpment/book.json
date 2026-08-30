@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00300",
+  "title": "The Broken Escarpment",
+  "author": "Jude Whitlock",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Ivo Dravenmoor, a railroad engineer with a map of closed lines, keeps moving because stopping costs more. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 300
+  }
+}

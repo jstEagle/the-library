@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08390",
+  "title": "The Slow Orbit Revisited",
+  "author": "Sebastian Underhill",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Ines Almeida, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8390
+  }
+}

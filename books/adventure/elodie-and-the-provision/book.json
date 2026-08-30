@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00367",
+  "title": "Elodie and the Provision",
+  "author": "Ulyana Whitlock",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Jude Blackwood, a riverboat captain who knows every sandbar's mood, has spent ten years measuring life in miles rather than years. But when the river gives up a chest stamped with a dead nation's seal, she discovers that staying invisible was never really an option. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 367
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01772",
+  "title": "Paloma and the Sigil",
+  "author": "Rosalind Whitlock",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Felix Vasquez, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1772
+  }
+}

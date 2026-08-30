@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02179",
+  "title": "Sigil and Wolf Again",
+  "author": "Hazel Brightwater",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Silas Vasquez, a debt-bound temple scribe, has never left the valley where magic cannot follow. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. To get through this, she must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "found family",
+    "memory",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2179
+  }
+}

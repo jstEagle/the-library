@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03352",
+  "title": "A Harvest for the Room",
+  "author": "H. M. Sandoval",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Edmund Amberdale, a folklorist recording songs the village refuses to sing twice, keeps the lights on and the doors counted. But when all the photographs from grandma's house now include an extra chair, he discovers that staying invisible was never really an option. Now he must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3352
+  }
+}

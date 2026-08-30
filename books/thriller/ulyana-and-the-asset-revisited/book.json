@@ -1,0 +1,21 @@
+{
+  "id": "THR-09311",
+  "title": "Ulyana and the Asset Revisited",
+  "author": "Freya Hartwell",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Dominic Villalobos, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. But when every record of a flight vanishes while it's still in the air, he discovers that staying invisible was never really an option. To get through this, he must stop an attack scheduled to look like an accident before the extraction flight leaves at dawn.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9311
+  }
+}

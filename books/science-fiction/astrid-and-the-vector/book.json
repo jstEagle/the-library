@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07413",
+  "title": "Astrid and the Vector",
+  "author": "Rosalind Oyelaran",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Ines Halloran, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7413
+  }
+}

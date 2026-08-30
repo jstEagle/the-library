@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08098",
+  "title": "Lena and the Machine",
+  "author": "Bram Hartwell",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mirabel Fairweather, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8098
+  }
+}

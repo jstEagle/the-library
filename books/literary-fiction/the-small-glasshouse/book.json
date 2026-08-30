@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04263",
+  "title": "The Small Glasshouse",
+  "author": "Mara Voss",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Paloma Almeida, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. Now she must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4263
+  }
+}

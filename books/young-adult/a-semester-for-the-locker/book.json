@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09810",
+  "title": "A Semester for the Locker",
+  "author": "Oscar Fairweather",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Edmund Nakamura, a baker's kid who bakes feelings into bread, counts days until graduation like a sentence being served. But when the teacher pairs nemesis with nemesis for a semester-long project, she discovers that staying invisible was never really an option. To get through this, she must expose what the school board buried before graduation.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9810
+  }
+}

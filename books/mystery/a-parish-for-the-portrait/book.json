@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05439",
+  "title": "A Parish for the Portrait",
+  "author": "Zephyrine Ishikawa",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Vesper Eastwick, an insurance investigator with a photographic memory, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. To get through this, he must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5439
+  }
+}

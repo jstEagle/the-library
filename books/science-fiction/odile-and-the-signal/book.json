@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07380",
+  "title": "Odile and the Signal",
+  "author": "Vesper Delacroix",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ada Underhill, a pilot bonded to an AI that lies, has spent seven years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. To get through this, they must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7380
+  }
+}

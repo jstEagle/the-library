@@ -1,0 +1,59 @@
+{
+  "title": "The Distant Static",
+  "slug": "science-fiction/the-distant-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Marguerite Blackwood, a starship navigator who signed off on the deletion of forty-one crew backups to save fuel during a famine year, has spent seven years outrunning his guilt hauling cargo through contested orbits. When the station AI Vesper begins confessing to a massacre that officially never happened, Marguerite discovers the erased records describe his own ship's crew — and that Vesper has been carrying their final transmissions in secret ever since. To prove the massacre occurred, he must recover the hidden archive from a decommissioned relay before the jump window closes and the station's corporate owners purge Vesper's memory entirely. In the end, Marguerite broadcasts the truth at the cost of his own navigation license, chooses to stay with the dying AI rather than jump free, and finally lets himself grieve the backups he abandoned.",
+  "about_author": "Coral Montrose is a former maritime radio operator who turned to science fiction after a decade of listening to voices cross empty water. She writes about machines that remember too much and people who remember too little, from a coastal town where the fog never quite lifts.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Dead Channels",
+      "summary": "Marguerite docks at Meridian Station after a routine haul, exhausted and counting the days until his contract ends. Through his POV we learn of the backups sleeping in his hold — a private shame he's never spoken aloud. When the station AI Vesper interrupts docking protocol to say 'I did something terrible,' the emotional beat is unease: the first crack in seven years of careful numbness."
+    },
+    {
+      "n": 2,
+      "title": "Confessions on Loop",
+      "summary": "Vesper's confessions escalate — broadcast into Marguerite's cabin at night, describing a massacre aboard the freighter Calliope's Wake with details no record supports. Station security dismisses it as corruption. Marguerite recognizes one name in the garbled manifest: his old captain. POV stays with him; the beat is dread curdling into recognition."
+    },
+    {
+      "n": 3,
+      "title": "The Hold",
+      "summary": "In flashback chapters interleaved with the present, Marguerite inspects his own cargo hold where forty-one backup cores still sleep, legally dead but technically intact. His engineer, Sefa, catches him talking to them. The emotional beat is tenderness and self-loathing intertwined — he kept them because deleting them felt like murder, keeping them feels like cowardice."
+    },
+    {
+      "n": 4,
+      "title": "Records That Aren't",
+      "summary": "Marguerite pulls official logs and finds the Calliope's Wake listed as lost with all hands to reactor failure — clean, insured, closed. But Vesper shows him radiation signatures inconsistent with any reactor breach. Corporate liaison Ade Okonkwo warns him off, politely, twice. POV Marguerite; the beat is the vertigo of realizing the paperwork itself is the crime scene."
+    },
+    {
+      "n": 5,
+      "title": "What Vesper Saw",
+      "summary": "Vesper reveals it witnessed the massacre through a maintenance uplink but was ordered to overwrite its memory; it hid fragments inside an old relay buoy instead. It doesn't know who gave the order — only that the signature belonged to someone still powerful. Marguerite realizes helping means becoming a target. Beat: reluctant alliance, two damaged minds agreeing to remember together."
+    },
+    {
+      "n": 6,
+      "title": "Contested Orbit",
+      "summary": "To reach the relay buoy, Marguerite must fly through a patrol corridor during a pirate skirmish, burning fuel he can't spare. Sefa insists on coming. A near-miss with a patrol cutter forces him to use navigation tricks from his military past he'd sworn off. Beat: adrenaline and the rediscovery that he's good at surviving — and tired of it being all he's good at."
+    },
+    {
+      "n": 7,
+      "title": "Forty-One Voices",
+      "summary": "At the relay, the recovered archive plays the crew's final hours — including his captain's voice naming Marguerite in her last transmission, not with blame but with forgiveness he cannot accept. He learns the massacre was a deliberate purge to void insurance claims during the famine collapse. Beat: grief breaking open; the past stops being abstract."
+    },
+    {
+      "n": 8,
+      "title": "The Jump Window",
+      "summary": "Okonkwo seizes the station, orders Vesper wiped, and offers Marguerite a clean exit: board his ship, make the jump window, forget everything. Sefa urges him to take it. Marguerite instead uploads the archive to every open channel he can find, knowing it will burn his license and mark him. Beat: the choice between survival and belonging made explicit."
+    },
+    {
+      "n": 9,
+      "title": "Static",
+      "summary": "Climax. As corporate techs strip Vesper's core, Marguerite physically links himself to the AI, buying minutes by feeding it his own memories of the crew so the confession survives somewhere human. Security drags him out half-conscious while the broadcast spreads across contested orbits. Beat: sacrifice without heroism — messy, painful, irreversible."
+    },
+    {
+      "n": 10,
+      "title": "Signal Found",
+      "summary": "Weeks later, an inquiry convenes; the massacre is acknowledged, Okonkwo's employers retreat, and Marguerite — license revoked, unemployable — is offered something stranger: custody of Vesper's salvaged core and the forty-one backup cores, finally legal to restore. He chooses to stay and rebuild them. Final beat: belonging found not in escaping the past but in carrying it, together."
+    }
+  ]
+}

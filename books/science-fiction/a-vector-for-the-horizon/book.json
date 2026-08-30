@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07087",
+  "title": "A Vector for the Horizon",
+  "author": "R. M. Fairweather",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Bram Eastwick, a terraformer tending a garden meant for people not yet born, has spent twelve years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7087
+  }
+}

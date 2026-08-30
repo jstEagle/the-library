@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09885",
+  "title": "The Unofficial Prom",
+  "author": "Freya Ashgrove",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Edmund Oyelaran, a scholarship student at an academy with too many secrets, is fine. Everything is fine. Obviously.. But when the college essay prompt asks one honest question nobody can stop answering, he discovers that staying invisible was never really an option. To get through this, he must save the tradition that made the town before the last game of the season.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9885
+  }
+}

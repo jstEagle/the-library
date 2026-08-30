@@ -1,0 +1,21 @@
+{
+  "id": "THR-09279",
+  "title": "Rosalind and the Drop",
+  "author": "Odile Dravenmoor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Beatrix Amberdale, a burnt analyst bounced from three agencies, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9279
+  }
+}

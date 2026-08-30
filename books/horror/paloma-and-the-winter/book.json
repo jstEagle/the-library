@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03779",
+  "title": "Paloma and the Winter",
+  "author": "Lena Okafor",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ansel Amberdale, a hospice nurse who hears the dying count backwards, doesn't believe, has never believed, will not begin believing now. But when the sleep recordings capture a second voice answering questions, he discovers that staying invisible was never really an option. To get through this, he must learn the song's last verse without singing along before the frost writes its final pattern.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3779
+  }
+}

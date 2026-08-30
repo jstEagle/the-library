@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07069",
+  "title": "The Distant Archive",
+  "author": "Sable Ashgrove",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Elodie Thackeray, an insurance investigator of impossible accidents, has spent ten years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7069
+  }
+}

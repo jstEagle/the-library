@@ -1,0 +1,21 @@
+{
+  "id": "THR-08867",
+  "title": "When the Ghost Breaks",
+  "author": "Beatrix Brightwater",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Silas Dunmore, a crash investigator whose family died in row twelve, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. To get through this, she must burn the network that did the training before the border checkpoint shifts change.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8867
+  }
+}

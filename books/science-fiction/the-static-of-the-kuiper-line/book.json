@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07211",
+  "title": "The Static of the Kuiper Line",
+  "author": "Coral Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Tamsin Ishikawa, a clone who inherited the original's murder case, has spent twelve years hauling cargo through contested orbits. But when a ship returns from deep space with everyone aboard aged backward, she discovers that staying invisible was never really an option. To get through this, she must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "belonging",
+    "found family",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7211
+  }
+}

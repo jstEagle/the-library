@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05734",
+  "title": "Isandro and the Verdict",
+  "author": "Felix Reyes",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "August Yarrow, a retired detective running a failing bookshop, has spent twelve years keeping the town's secrets filed and alphabetized. But when the town's beloved founder is exhumed and the coffin is empty, he discovers that staying invisible was never really an option. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5734
+  }
+}

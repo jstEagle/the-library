@@ -1,0 +1,21 @@
+{
+  "id": "THR-08624",
+  "title": "The Clean Contact",
+  "author": "Yara Nakamura",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Gideon Nystrom, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8624
+  }
+}

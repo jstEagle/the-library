@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05760",
+  "title": "The Last Letter Again",
+  "author": "Cyrus Ravensworth",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Zephyrine Whitlock, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. Now she must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5760
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06311",
+  "title": "The Orchard of Junebug Creek",
+  "author": "Sebastian Blackwood",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Bram Dravenmoor, a ghostwriter secretly penning a rival's memoirs, has spent fifteen years rebuilding a life measured in small safe steps. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. Now he must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6311
+  }
+}

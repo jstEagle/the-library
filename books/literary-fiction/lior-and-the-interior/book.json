@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04458",
+  "title": "Lior and the Interior",
+  "author": "Tamsin Nystrom",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Tamsin Blackwood, a piano tuner who hears the house's history in its radiators, has perfected the smile that ends conversations. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. To get through this, she must say goodbye properly, at last, out loud before the demolition date arrives.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4458
+  }
+}

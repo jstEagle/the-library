@@ -1,0 +1,29 @@
+{
+  "title": "The Painted Parish",
+  "slug": "mystery/the-painted-parish",
+  "model": "stealth/ox-alpha",
+  "premise": "Retired detective Ulyana Iversen finds a diary in her failing bookshop's returned-books bin, belonging to Marta Elling, a parish organist who vanished eleven years ago. The entries continue for three weeks past the date everyone agreed she died, written in a hand that grows shakier, and they name people still living in the village—including the constable who closed the case. As the anniversary dinner approaches, Ulyana follows the diary to a sealed boathouse and learns Marta didn't disappear; she was hidden by someone protecting her from a killer who is now the parish's beloved patriarch. In the end, Ulyana exposes him at the dinner itself, choosing truth over the loyalty that kept the whole village complicit, and gives Marta—alive, aged, unrecognizable—the chance to finally come home.",
+  "about_author": "Orsen Whitlock is the pen name of a former rural coroner's assistant who spent two decades recording other people's endings before turning to fiction. He writes in a converted ferry house on the northern coast, where the fog does half his editing.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Returned Book",
+      "summary": "Ulyana Iversen, third-person POV. Sorting donations in her failing bookshop, Ulyana discovers Marta Elling's diary tucked inside a hymnal, its final entry dated three weeks after the disappearance that closed the case eleven years ago. The handwriting deteriorates across those pages, and one line names Constable Breck, now the town's respected sergeant. Emotional beat: the old itch of an unsolved thing waking up in a woman who swore she'd retired."
+    },
+    {
+      "n": 2,
+      "title": "Entries After Death",
+      "summary": "Ulyana's POV, alternating with diary excerpts. She quietly interviews parishioners under the guise of local-history research, learning Marta had discovered the church restoration fund was a laundering scheme run by Aldous Vane, the parish's benefactor. Breck stonewalls her; someone ransacks the bookshop overnight but takes nothing but the hymnal. Emotional beat: dread hardening into resolve as Ulyana realizes staying invisible ended years ago."
+    },
+    {
+      "n": 3,
+      "title": "The Boathouse Key",
+      "summary": "Ulyana's POV. Following a sketch in the diary's last legible page, Ulyana breaches Vane's sealed boathouse and finds evidence Marta lived there in hiding—canned food, a cot, letters proving Breck helped conceal her to protect his own family from Vane. But Vane catches her inside, and what begins as a conversation becomes a confession he intends to bury along with her. Emotional beat: terror and clarity fused; survival demands she finish this tonight."
+    },
+    {
+      "n": 4,
+      "title": "The Anniversary Toast",
+      "summary": "Ulyana's POV, with brief shifts to Marta watching from the crowd. At the memorial dinner, Ulyana plays Vane's recorded confession through the hall's speakers, forcing Breck to publicly corroborate it and shattering the parish's comfortable lie. Vane is arrested; Marta steps forward, alive, and takes Ulyana's hand before the room. Emotional beat: grief transmuted into release—truth costs everything, and buys a homecoming."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02479",
+  "title": "The Lantern of the Cape Route",
+  "author": "R. M. Villalobos",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Vesper Blackwood, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. But when a child is left at the door with instructions to forget the face, he discovers that staying invisible was never really an option. Now he must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2479
+  }
+}

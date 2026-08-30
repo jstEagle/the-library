@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05592",
+  "title": "Hazel and the Verdict",
+  "author": "Kestrel Lockridge",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Mara Vasquez, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and they are pulled straight into the middle of it. To get through this, they must decode a ledger hidden in plain sight before the statute expires.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5592
+  }
+}

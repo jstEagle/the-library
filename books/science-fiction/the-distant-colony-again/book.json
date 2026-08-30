@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08376",
+  "title": "The Distant Colony Again",
+  "author": "Gideon Voss",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Rosalind Pemberton, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8376
+  }
+}

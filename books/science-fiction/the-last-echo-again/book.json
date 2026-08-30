@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08182",
+  "title": "The Last Echo Again",
+  "author": "Felix Delacroix",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Xanthe Voss, a xenolinguist who can no longer dream in human languages, runs the long route between worlds that no longer speak. But when a ship returns from deep space with everyone aboard aged backward, she discovers that staying invisible was never really an option. Now she must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8182
+  }
+}

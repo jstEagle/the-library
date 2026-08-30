@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04781",
+  "title": "Theo and the Language",
+  "author": "Silas Dravenmoor",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Mara Montrose, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. To get through this, he must return to the place where the story went wrong before the mother's memory goes entirely.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4781
+  }
+}

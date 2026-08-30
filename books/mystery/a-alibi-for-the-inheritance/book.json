@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05052",
+  "title": "A Alibi for the Inheritance",
+  "author": "Silas Eastwick",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Juniper Vane, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5052
+  }
+}

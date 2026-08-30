@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00008",
+  "title": "The Horizon of Cape Reckoning",
+  "author": "Edmund Yarrow",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ines Marchetti, a storm chaser who owes money to dangerous optimists, knows the wilderness forgives nothing and forgets less. Then a dying prospector trades a map for a promise — and he is pulled straight into the middle of it. Now he must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8
+  }
+}

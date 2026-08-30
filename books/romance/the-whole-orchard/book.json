@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06006",
+  "title": "The Whole Orchard",
+  "author": "Zephyrine Vasquez",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Quentin Crane, a wedding planner who doesn't believe in weddings anymore, has spent twelve years rebuilding a life measured in small safe steps. Then two estranged names appear on the same impossibly stubborn orchard deed — and he is pulled straight into the middle of it. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6006
+  }
+}

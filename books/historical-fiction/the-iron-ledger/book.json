@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02578",
+  "title": "The Iron Ledger",
+  "author": "R. M. Hartwell",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Silas Amberdale, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. Then the census taker asks one question too many — and she is pulled straight into the middle of it. Now she must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2578
+  }
+}

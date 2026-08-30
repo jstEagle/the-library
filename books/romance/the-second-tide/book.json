@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06255",
+  "title": "The Second Tide",
+  "author": "S. M. Crane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Elodie Yarrow, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "identity",
+    "memory",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6255
+  }
+}

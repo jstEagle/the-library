@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04977",
+  "title": "The Verdict of Little Hawley",
+  "author": "Astrid Ravensworth",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Emrys Vane, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. To get through this, they must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4977
+  }
+}

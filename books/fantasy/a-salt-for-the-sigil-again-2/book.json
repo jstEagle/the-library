@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02277",
+  "title": "A Salt for the Sigil Again",
+  "author": "Jude Winterbourne",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Yara Yarrow, the keeper of a gate that should stay shut, has spent seven years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2277
+  }
+}

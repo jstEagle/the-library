@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06889",
+  "title": "Port Alder Rising Again",
+  "author": "Ines Halloran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Jonah Galloway, a single parent running the town's only bookshop, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and she is pulled straight into the middle of it. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6889
+  }
+}

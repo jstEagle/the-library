@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00935",
+  "title": "The Oath of Highmoor",
+  "author": "Rosalind Ravensworth",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Bram Halloran, a debt-bound temple scribe, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 935
+  }
+}

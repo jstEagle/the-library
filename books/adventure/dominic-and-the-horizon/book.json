@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00244",
+  "title": "Dominic and the Horizon",
+  "author": "Isandro Blackwood",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Rosalind Sterling, an archaeologist's estranged child and better digger, has spent ten years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 244
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00270",
+  "title": "Felix and the Provision",
+  "author": "J. M. Almeida",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Jonah Brightwater, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. Then an old rival hires the crew for the one job that was sworn off long ago — and she is pulled straight into the middle of it. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 270
+  }
+}

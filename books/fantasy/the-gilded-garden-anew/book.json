@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01881",
+  "title": "The Gilded Garden Anew",
+  "author": "Petra Blackwood",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Noor Fairweather, the youngest member of a dying guild, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1881
+  }
+}

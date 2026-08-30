@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08000",
+  "title": "Jonah and the Protocol",
+  "author": "Gideon Nystrom",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Quentin Thornbury, a xenolinguist who can no longer dream in human languages, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8000
+  }
+}

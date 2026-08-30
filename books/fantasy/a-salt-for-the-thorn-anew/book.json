@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02035",
+  "title": "A Salt for the Thorn Anew",
+  "author": "Edmund Montrose",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Elodie Ravensworth, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. To get through this, he must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2035
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01284",
+  "title": "The Spire of Ashvale",
+  "author": "G. M. Coldharbour",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Rafael Coldharbour, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1284
+  }
+}

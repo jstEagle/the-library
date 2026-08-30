@@ -1,0 +1,21 @@
+{
+  "id": "THR-08588",
+  "title": "The Cover of Marseille's old port",
+  "author": "Lena Voss",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Juniper Sterling, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8588
+  }
+}

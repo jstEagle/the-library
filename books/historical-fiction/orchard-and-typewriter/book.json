@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02322",
+  "title": "Orchard and Typewriter",
+  "author": "Juniper Halloran",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ines Eriksen, a battlefield nurse keeping a ledger of the names officers omit, keeps a low profile and busy hands. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. To get through this, she must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2322
+  }
+}

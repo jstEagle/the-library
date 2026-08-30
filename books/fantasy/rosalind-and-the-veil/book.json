@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01903",
+  "title": "Rosalind and the Veil",
+  "author": "Ulyana Voss",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Juniper Ravensworth, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1903
+  }
+}

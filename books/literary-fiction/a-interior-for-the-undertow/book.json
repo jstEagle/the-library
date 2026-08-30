@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04537",
+  "title": "A Interior for the Undertow",
+  "author": "Casper Underhill",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Yara Amberdale, an heir cataloging a parent's silence after the funeral, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, she discovers that staying invisible was never really an option. To get through this, she must ask the question the whole family arranged itself around before the demolition date arrives.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4537
+  }
+}

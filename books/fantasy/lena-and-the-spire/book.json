@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01150",
+  "title": "Lena and the Spire",
+  "author": "Emrys Coldharbour",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Sebastian Okafor, an exiled storm-caller, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must steal back a soul sold to the court beneath the mountain before the moon completes its thirteenth turn.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1150
+  }
+}

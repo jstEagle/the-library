@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01306",
+  "title": "Jude and the Choir",
+  "author": "Silas Joubert",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Coral Dunmore, a beast-speaker hiding a forbidden gift, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1306
+  }
+}

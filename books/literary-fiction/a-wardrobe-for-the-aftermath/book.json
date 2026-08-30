@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04526",
+  "title": "A Wardrobe for the Aftermath",
+  "author": "Sable Ashgrove",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Emrys Reyes, a former prodigy returning to the conservatory as a janitor, has spent three years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4526
+  }
+}

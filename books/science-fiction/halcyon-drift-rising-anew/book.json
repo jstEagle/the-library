@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08091",
+  "title": "Halcyon Drift Rising Anew",
+  "author": "Ines Eriksen",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Cyrus Sandoval, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. To get through this, they must prove a massacre happened when every record says otherwise before the fleet's truce expires.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8091
+  }
+}

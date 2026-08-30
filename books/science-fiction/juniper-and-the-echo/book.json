@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07744",
+  "title": "Juniper and the Echo",
+  "author": "Jonah Dravenmoor",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Paloma Reyes, a terraformer tending a garden meant for people not yet born, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. To get through this, he must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7744
+  }
+}

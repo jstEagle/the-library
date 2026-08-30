@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05964",
+  "title": "Tide and Kitchen",
+  "author": "Ines Vane",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Rafael Pemberton, a vineyard owner who inherited debts instead of grapes, swears the heart is a muscle like any other: trainable, containable. Then a lost letter surfaces, postmarked eleven years ago — and he is pulled straight into the middle of it. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5964
+  }
+}

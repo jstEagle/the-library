@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00947",
+  "title": "When the Sigil Turns",
+  "author": "Vesper Zhou",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ines Ravensworth, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 947
+  }
+}

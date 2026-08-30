@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04434",
+  "title": "The Undertow of Milton Flats",
+  "author": "Sebastian Dravenmoor",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ansel Almeida, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4434
+  }
+}

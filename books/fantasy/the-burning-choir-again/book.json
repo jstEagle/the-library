@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01905",
+  "title": "The Burning Choir Again",
+  "author": "F. M. Okafor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Wendell Ishikawa, a thief who steals memories, has spent twenty years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1905
+  }
+}

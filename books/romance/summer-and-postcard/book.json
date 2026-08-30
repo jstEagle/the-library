@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06081",
+  "title": "Summer and Postcard",
+  "author": "Dominic Halloran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lior Halloran, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, she discovers that staying invisible was never really an option. To get through this, she must forgive the person in the mirror first before the vineyard's first harvest comes in.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6081
+  }
+}

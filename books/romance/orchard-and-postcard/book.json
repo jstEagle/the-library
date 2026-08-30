@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06744",
+  "title": "Orchard and Postcard",
+  "author": "Wren Whitlock",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Sebastian Delacroix, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. To get through this, he must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6744
+  }
+}

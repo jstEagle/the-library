@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06540",
+  "title": "Mirabel and the Vow",
+  "author": "S. M. Okafor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Emrys Montrose, a ghostwriter secretly penning a rival's memoirs, swears the heart is a muscle like any other: trainable, containable. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6540
+  }
+}

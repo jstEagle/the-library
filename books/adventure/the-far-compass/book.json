@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00170",
+  "title": "The Far Compass",
+  "author": "Ivo Iversen",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ansel Vasquez, a salvage diver working a wreck the navy won't discuss, carries a compass, a debt, and very little else. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. To get through this, she must cross the range ahead of the snows before the monsoon makes landfall.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 170
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05972",
+  "title": "A Songbook for the Vow",
+  "author": "Yara Winterbourne",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Dominic Oyelaran, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. To get through this, they must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5972
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08167",
+  "title": "Edmund and the Protocol",
+  "author": "Casper Amberdale",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Freya Okonkwo, the caretaker of Earth's abandoned seed vault, has spent ten years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8167
+  }
+}

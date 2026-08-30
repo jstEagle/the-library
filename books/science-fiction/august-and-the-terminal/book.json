@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08384",
+  "title": "August and the Terminal",
+  "author": "August Thackeray",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Freya Sterling, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8384
+  }
+}

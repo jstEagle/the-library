@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02841",
+  "title": "A Typewriter for the Atlas",
+  "author": "I. M. Lockridge",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Isandro Underhill, a typeface cutter's daughter in a print shop on the eve of a revolution, measures the world in what can be carried when the orders come. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. To get through this, he must choose which family member gets the last berth before the armistice is signed — or isn't.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2841
+  }
+}

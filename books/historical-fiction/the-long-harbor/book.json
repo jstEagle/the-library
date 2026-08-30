@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02955",
+  "title": "The Long Harbor",
+  "author": "Lena Villalobos",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Rosalind Kavanagh, a suffragist's driver who reads every letter before delivering it, has spent ten years learning which silences keep people safe. But when a sealed letter names the family in a plot no one wants a part of, she discovers that staying invisible was never really an option. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2955
+  }
+}

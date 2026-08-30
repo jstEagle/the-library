@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06952",
+  "title": "Jude and the Summer",
+  "author": "Zephyrine Nakamura",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Freya Eastwick, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. To get through this, she must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6952
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05104",
+  "title": "The Final Ledger",
+  "author": "Rafael Yarrow",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "August Ravensworth, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5104
+  }
+}

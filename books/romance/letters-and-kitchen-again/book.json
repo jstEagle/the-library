@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06963",
+  "title": "Letters and Kitchen Again",
+  "author": "Freya Ishikawa",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Yara Halloran, a single parent running the town's only bookshop, has spent twelve years rebuilding a life measured in small safe steps. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. To get through this, they must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "identity",
+    "memory",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6963
+  }
+}

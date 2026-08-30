@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02009",
+  "title": "The Spire of Highmoor Again",
+  "author": "Paloma Delacroix",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Isandro Okafor, a debt-bound temple scribe, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2009
+  }
+}

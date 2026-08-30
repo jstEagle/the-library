@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05979",
+  "title": "A Letters for the Songbook",
+  "author": "Ulyana Sterling",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Lena Oyelaran, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. But when the person behind a decade of letters moves in next door, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5979
+  }
+}

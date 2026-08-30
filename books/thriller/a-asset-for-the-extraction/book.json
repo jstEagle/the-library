@@ -1,0 +1,21 @@
+{
+  "id": "THR-09204",
+  "title": "A Asset for the Extraction",
+  "author": "Ada Marchetti",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Oscar Halloran, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. To get through this, she must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9204
+  }
+}

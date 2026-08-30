@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04057",
+  "title": "When the Interior Breaks",
+  "author": "Cyrus Oyelaran",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "August Ishikawa, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4057
+  }
+}

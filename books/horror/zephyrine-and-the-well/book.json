@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03974",
+  "title": "Zephyrine and the Well",
+  "author": "August Ravensworth",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Gideon Brightwater, a pest controller called to something with fingerprints, keeps the lights on and the doors counted. Then the childhood imaginary friend is waiting on the porch, unchanged — and she is pulled straight into the middle of it. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3974
+  }
+}

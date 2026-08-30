@@ -1,0 +1,21 @@
+{
+  "id": "THR-08782",
+  "title": "The Protocol of Tashkent",
+  "author": "Noor Oyelaran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Tamsin Quintana, a burnt analyst bounced from three agencies, has spent five years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8782
+  }
+}

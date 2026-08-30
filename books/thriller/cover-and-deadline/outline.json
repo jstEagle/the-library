@@ -1,0 +1,59 @@
+{
+  "title": "Cover and Deadline",
+  "slug": "thriller/cover-and-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Petra Dravenmoor, a disgraced financial-crimes investigator haunted by a botched operation that killed his team, receives a calendar invite from his dead handler scheduling a meeting for tomorrow morning. When he arrives, he finds himself standing in the middle of a live extraction: a defector named Ilse Kovač, who carries ledger evidence that could topple the Meridian Group — the laundering network Petra once helped legitimize without knowing it. As Petra races to get Ilse to a dawn flight out of Trieste, he discovers the invitation was sent by Ilse herself using his dead handler's credentials, and that she chose him precisely because of his guilt. Betrayed by his own agency and hunted by Meridian's fixers, Petra must decide whether to save himself or burn his old identity to protect the found family forming around him; he chooses the fire, exposing Meridian at the cost of the flight, and ends the book stateless but finally able to sleep.",
+  "about_author": "Paloma Villalobos is a former compliance analyst who spent a decade tracing money through shell companies before turning to fiction. She writes from Lisbon, where she claims the best plot ideas arrive during customs delays.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Invitation",
+      "summary": "POV Petra. Insomniac and half-retired after 'the incident,' Petra audits clean money for a bank that doesn't ask questions. At 3:14 a.m. his phone chimes: a meeting invite from Marcus Hale, his handler, dead fourteen months. The meeting is tomorrow, 9 a.m., Trieste. Emotional beat: dread sharpening into compulsion — grief offering him one more door."
+    },
+    {
+      "n": 2,
+      "title": "Clean Hands",
+      "summary": "POV Petra, with a flashback to the incident. Petra digs into the invite's metadata and finds it routed through accounts he himself structured years ago — someone knows his past intimately. His supervisor warns him off an 'unauthorized inquiry.' Emotional beat: the vertigo of realizing your own buried work has been exhumed and weaponized."
+    },
+    {
+      "n": 3,
+      "title": "Nine O'Clock, Room 407",
+      "summary": "POV Petra. In a Trieste hotel room Petra meets not a ghost but Ilse Kovač, Meridian's former ledger-keeper, holding a drive of everything. She admits she sent the invite under Hale's name. Before she can explain why him, men hit the room. They escape through the service corridors. Emotional beat: betrayal braided with reluctant alliance."
+    },
+    {
+      "n": 4,
+      "title": "What Ilse Carried",
+      "summary": "POV Ilse. Ilse's chapter reveals her decade inside Meridian, how she laundered regimes' fortunes, and why she defected: they used a children's charity as a pass-through. She chose Petra because his name is on the founding structures — he's both liability and key. Emotional beat: guilt mirrored; two people recognizing their shared stain."
+    },
+    {
+      "n": 5,
+      "title": "The Handler's Ghost",
+      "summary": "POV Petra. Petra contacts Hale's old safehouse and finds evidence Hale faked his death — and that Meridian believes Ilse's extraction is the bait to draw out whoever Hale really works for. Petra realizes his agency may be running them both as expendables. Emotional beat: paranoia curdling into clarity about power's machinery."
+    },
+    {
+      "n": 6,
+      "title": "Found Family, Forged Fast",
+      "summary": "POV alternating Petra/Ilse. Hiding in a Slovenian farmhouse owned by Zora, a retired smuggler who owed Hale, the pair builds a fragile plan: dawn flight from Portorož. Zora's grandson Teo joins as driver. Over one long night, strangers become something like kin. Emotional beat: warmth as counterweight — found family forged under threat."
+    },
+    {
+      "n": 7,
+      "title": "Meridian Calls",
+      "summary": "POV Petra. A fixer named Voss offers Petra reinstatement, wealth, and erasure of the incident if he delivers Ilse. Petra stalls, then discovers Voss's real offer: proof that Hale is alive and working for Meridian. Emotional beat: temptation as corruption's gentle voice — power always prices its favors in other people."
+    },
+    {
+      "n": 8,
+      "title": "Portorož, 4 A.M.",
+      "summary": "POV Ilse. The convoy reaches the airfield through fog; Teo's van is boxed in by Meridian vehicles. Zora creates a diversion and is captured buying the others minutes. Ilse reveals the final secret: the drive also names Petra's agency directors as Meridian partners. Emotional beat: sacrifice and revelation colliding at the runway's edge."
+    },
+    {
+      "n": 9,
+      "title": "The Flight That Doesn't Leave",
+      "summary": "POV Petra. On the tarmac, Hale appears — alive, compromised, begging Petra to hand over Ilse to save what's left of his own skin. Petra instead broadcasts the ledger to every newsroom and regulator on the drive's distribution list, burning himself, Hale, and the agency in one act. Voss's men close in. Emotional beat: climax — identity destroyed by choice, not accident."
+    },
+    {
+      "n": 10,
+      "title": "Dawn, Stateless",
+      "summary": "POV Petra, epilogue six months later. Zora freed in the fallout; Teo and Ilse scattered but connected by encrypted threads — a family without borders. Petra, stripped of name and clearance, watches the sunrise from a ferry and sleeps through the night for the first time since the incident. Emotional beat: resolution — peace purchased with everything he was."
+    }
+  ]
+}

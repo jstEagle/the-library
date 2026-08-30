@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01524",
+  "title": "Gideon and the Garden",
+  "author": "Noor Iversen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Casper Dunmore, an exiled storm-caller, has spent ten years selling small charms in a city that outlawed magic. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1524
+  }
+}

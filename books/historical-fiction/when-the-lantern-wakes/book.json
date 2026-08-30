@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02704",
+  "title": "When the Lantern Wakes",
+  "author": "A. M. Iversen",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Oscar Yarrow, a pearl diver's child indentured to a trading company, measures the world in what can be carried when the orders come. Then a child is left at the door with instructions to forget the face — and he is pulled straight into the middle of it. Now he must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2704
+  }
+}

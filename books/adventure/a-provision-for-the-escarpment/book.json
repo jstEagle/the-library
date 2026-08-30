@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00450",
+  "title": "A Provision for the Escarpment",
+  "author": "Emrys Hartwell",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Elodie Eastwick, a storm chaser who owes money to dangerous optimists, knows the wilderness forgives nothing and forgets less. Then the river gives up a chest stamped with a dead nation's seal — and he is pulled straight into the middle of it. Now he must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 450
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02910",
+  "title": "Emrys and the Letter",
+  "author": "Freya Yarrow",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ivo Fairweather, a mapmaker's apprentice finishing the atlas the master died for, measures the world in what can be carried when the orders come. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. Now they must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2910
+  }
+}

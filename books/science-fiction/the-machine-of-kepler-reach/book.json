@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07325",
+  "title": "The Machine of Kepler Reach",
+  "author": "Ansel Coldharbour",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Coral Yarrow, a pilot bonded to an AI that lies, maintains the beacon nobody remembers commissioning. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. To get through this, he must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7325
+  }
+}

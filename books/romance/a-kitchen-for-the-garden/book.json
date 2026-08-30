@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06697",
+  "title": "A Kitchen for the Garden",
+  "author": "Quentin Sandoval",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 3.6,
+  "blurb": "Kestrel Vane, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and he is pulled straight into the middle of it. To get through this, he must let someone stay after the last train leaves before the vineyard's first harvest comes in.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6697
+  }
+}

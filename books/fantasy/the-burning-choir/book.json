@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00874",
+  "title": "The Burning Choir",
+  "author": "Wendell Ishikawa",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Petra Blackwood, an exiled storm-caller, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 874
+  }
+}

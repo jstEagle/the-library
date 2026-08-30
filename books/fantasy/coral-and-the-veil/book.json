@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01441",
+  "title": "Coral and the Veil",
+  "author": "Vesper Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Edmund Amberdale, a royal food-taster building immunity one dish at a time, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1441
+  }
+}

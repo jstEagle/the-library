@@ -1,0 +1,21 @@
+{
+  "id": "THR-08917",
+  "title": "Quentin and the Contact",
+  "author": "Felix Sandoval",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Odile Crane, a whistle-blower living under four names, hasn't slept through the night since the incident. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8917
+  }
+}

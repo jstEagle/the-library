@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07781",
+  "title": "Xanthe and the Colony",
+  "author": "Oscar Blackwood",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Ivo Halloran, a memory-smuggler running contraband past orbital customs, has spent twenty years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7781
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02940",
+  "title": "Letter and Regiment",
+  "author": "Ansel Blackwood",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ansel Galloway, an apprentice clockmaker summoned to repair the observatory's master clock, has spent seven years learning which silences keep people safe. But when a child is left at the door with instructions to forget the face, they discover that staying invisible was never really an option. To get through this, they must choose which family member gets the last berth before the armistice is signed — or isn't.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2940
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04084",
+  "title": "The Last Undertow",
+  "author": "Dominic Yarrow",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Ines Joubert, a letter-writer sending postcards to an address that burned down years ago, moves through the days like a tenant, not an owner. But when a song on the radio is one that was written and never recorded, they discover that staying invisible was never really an option. To get through this, they must ask the question the whole family arranged itself around before the demolition date arrives.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4084
+  }
+}

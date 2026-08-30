@@ -1,0 +1,21 @@
+{
+  "id": "THR-08664",
+  "title": "The Debt of Tashkent",
+  "author": "V. M. Ishikawa",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Wendell Reyes, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. Now she must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8664
+  }
+}

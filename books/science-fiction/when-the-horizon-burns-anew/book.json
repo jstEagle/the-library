@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08135",
+  "title": "When the Horizon Burns Anew",
+  "author": "Freya Eriksen",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Noor Kavanagh, a starship navigator haunted by the backups sleeping in the hold, runs the long route between worlds that no longer speak. But when the colony's children start sharing the same dream, she discovers that staying invisible was never really an option. To get through this, she must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8135
+  }
+}

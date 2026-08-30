@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04196",
+  "title": "A Weather for the Undertow",
+  "author": "Odile Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Bram Marchetti, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4196
+  }
+}

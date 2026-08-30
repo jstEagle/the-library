@@ -1,0 +1,21 @@
+{
+  "id": "THR-08509",
+  "title": "Mara and the Deadline",
+  "author": "C. M. Kavanagh",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Yara Ishikawa, a hostage negotiator with one failure still on the board, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. To get through this, they must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8509
+  }
+}

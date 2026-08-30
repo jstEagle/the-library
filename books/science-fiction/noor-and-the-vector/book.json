@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07926",
+  "title": "Noor and the Vector",
+  "author": "Sebastian Sterling",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Astrid Eastwick, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7926
+  }
+}

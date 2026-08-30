@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05489",
+  "title": "Alibi and Letter",
+  "author": "Casper Nystrom",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Dominic Sandoval, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5489
+  }
+}

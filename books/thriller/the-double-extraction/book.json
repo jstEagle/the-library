@@ -1,0 +1,21 @@
+{
+  "id": "THR-08986",
+  "title": "The Double Extraction",
+  "author": "Oscar Yarrow",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Tamsin Villalobos, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. To get through this, they must extract a defector who may be the bait before the extraction flight leaves at dawn.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8986
+  }
+}

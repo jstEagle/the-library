@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01962",
+  "title": "A Thorn for the Wolf Again",
+  "author": "Coral Iversen",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Bram Almeida, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1962
+  }
+}

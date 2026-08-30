@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03694",
+  "title": "Silas and the Room",
+  "author": "Zephyrine Voss",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Astrid Coldharbour, a property surveyor appraising a house that appraises back, documents everything, because documentation is a kind of prayer. Then the excavation crew unearths a door, sealed from the inside — and she is pulled straight into the middle of it. To get through this, she must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3694
+  }
+}

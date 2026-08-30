@@ -1,0 +1,21 @@
+{
+  "id": "THR-09479",
+  "title": "Juniper and the Asset",
+  "author": "Coral Thornbury",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Mara Marchetti, an interpreter attached to a peace delegation destined to fail, has spent three years following rules that keep getting rewritten. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9479
+  }
+}

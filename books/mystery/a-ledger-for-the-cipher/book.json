@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05349",
+  "title": "A Ledger for the Cipher",
+  "author": "Beatrix Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Vesper Whitlock, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5349
+  }
+}

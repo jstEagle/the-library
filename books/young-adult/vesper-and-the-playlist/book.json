@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09608",
+  "title": "Vesper and the Playlist",
+  "author": "Rafael Reyes",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ines Zhou, the team's statistician who knows the game is rigged, is fine. Everything is fine. Obviously.. Then the college essay prompt asks one honest question nobody can stop answering — and they are pulled straight into the middle of it. To get through this, they must win the championship that doesn't matter — and the one that does before prom.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9608
+  }
+}

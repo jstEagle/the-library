@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02625",
+  "title": "Petra and the Regiment",
+  "author": "Noor Winterbourne",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Beatrix Halloran, a mapmaker's apprentice finishing the atlas the master died for, has spent five years learning which silences keep people safe. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. To get through this, she must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2625
+  }
+}

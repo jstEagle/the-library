@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03583",
+  "title": "A Hymn for the Cellar",
+  "author": "Paloma Iversen",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Wendell Ravensworth, a hospice nurse who hears the dying count backwards, has spent seven years telling themselves the noises have explanations. But when the sleep recordings capture a second voice answering questions, he discovers that staying invisible was never really an option. To get through this, he must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3583
+  }
+}

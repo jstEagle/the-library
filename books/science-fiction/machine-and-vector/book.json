@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07124",
+  "title": "Machine and Vector",
+  "author": "W. M. Fairweather",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ansel Reyes, an insurance investigator of impossible accidents, has spent fifteen years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7124
+  }
+}

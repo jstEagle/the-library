@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09686",
+  "title": "The Unexpected Scholarship",
+  "author": "Emrys Sandoval",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jude Winterbourne, a coder whose anonymous account knows too much, stays under the radar: head down, grades up, locker shut. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. Now he must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9686
+  }
+}

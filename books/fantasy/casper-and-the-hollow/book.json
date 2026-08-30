@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01956",
+  "title": "Casper and the Hollow",
+  "author": "Sebastian Reyes",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Odile Montrose, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1956
+  }
+}

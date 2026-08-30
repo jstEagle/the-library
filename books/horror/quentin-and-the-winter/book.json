@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03803",
+  "title": "Quentin and the Winter",
+  "author": "Casper Brightwater",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "August Whitlock, a hospice nurse who hears the dying count backwards, documents everything, because documentation is a kind of prayer. But when all the photographs from grandma's house now include an extra chair, they discover that staying invisible was never really an option. To get through this, they must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3803
+  }
+}

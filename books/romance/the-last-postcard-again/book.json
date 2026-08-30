@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06950",
+  "title": "The Last Postcard Again",
+  "author": "Kestrel Thornbury",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Casper Winterbourne, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6950
+  }
+}

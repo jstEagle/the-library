@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06071",
+  "title": "The Slow Summer",
+  "author": "A. M. Halloran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Kestrel Underhill, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must say the sentence that has been rehearsed for a decade before the last ferry of the season departs.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6071
+  }
+}

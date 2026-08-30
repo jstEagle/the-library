@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06859",
+  "title": "A Harbor for the Vow",
+  "author": "Mirabel Yarrow",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Lior Pemberton, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. Now he must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6859
+  }
+}

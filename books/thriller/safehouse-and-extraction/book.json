@@ -1,0 +1,21 @@
+{
+  "id": "THR-08967",
+  "title": "Safehouse and Extraction",
+  "author": "Ansel Brightwater",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Hazel Delacroix, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. To get through this, he must extract a defector who may be the bait before the markets open in Frankfurt.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8967
+  }
+}

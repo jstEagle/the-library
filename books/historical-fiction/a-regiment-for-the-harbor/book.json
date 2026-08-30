@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02513",
+  "title": "A Regiment for the Harbor",
+  "author": "Paloma Oyelaran",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Orsen Amberdale, a pearl diver's child indentured to a trading company, has spent twelve years learning which silences keep people safe. But when a child is left at the door with instructions to forget the face, he discovers that staying invisible was never really an option. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2513
+  }
+}

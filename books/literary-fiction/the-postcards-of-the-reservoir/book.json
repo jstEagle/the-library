@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04543",
+  "title": "The Postcards of the reservoir",
+  "author": "Rosalind Lockridge",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Lena Brightwater, an heir cataloging a parent's silence after the funeral, moves through the days like a tenant, not an owner. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. Now they must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4543
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03169",
+  "title": "the Ninth Floor Rising",
+  "author": "Jonah Kavanagh",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Oscar Coldharbour, an urban explorer mapping tunnels that aren't on any survey, keeps the lights on and the doors counted. Then the excavation crew unearths a door, sealed from the inside — and she is pulled straight into the middle of it. Now she must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3169
+  }
+}

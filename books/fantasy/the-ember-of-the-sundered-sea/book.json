@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00938",
+  "title": "The Ember of the Sundered Sea",
+  "author": "Mirabel Eastwick",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Bram Okafor, a hedge-witch's runaway apprentice, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. To get through this, he must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 938
+  }
+}

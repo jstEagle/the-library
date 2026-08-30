@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02418",
+  "title": "The Atlas of Manchester's mill district",
+  "author": "Cyrus Reyes",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "August Vane, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. But when the bridge — the only road out — closes for the season, she discovers that staying invisible was never really an option. To get through this, she must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2418
+  }
+}

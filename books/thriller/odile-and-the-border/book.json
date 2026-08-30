@@ -1,0 +1,21 @@
+{
+  "id": "THR-09156",
+  "title": "Odile and the Border",
+  "author": "Gideon Eriksen",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Vesper Voss, a hostage negotiator with one failure still on the board, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9156
+  }
+}

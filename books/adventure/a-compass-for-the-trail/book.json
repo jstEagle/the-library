@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00032",
+  "title": "A Compass for the Trail",
+  "author": "August Ishikawa",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Orsen Underhill, an archaeologist's estranged child and better digger, has spent twelve years measuring life in miles rather than years. But when a government survey team vanishes, leaving gear and no tracks, she discovers that staying invisible was never really an option. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 32
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08891",
+  "title": "Deadline and Asset",
+  "author": "Sebastian Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Noor Brightwater, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8891
+  }
+}

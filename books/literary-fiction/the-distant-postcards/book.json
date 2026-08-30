@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04232",
+  "title": "The Distant Postcards",
+  "author": "Jonah Thornbury",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Oscar Delacroix, a letter-writer sending postcards to an address that burned down years ago, has spent five years practicing the art of almost saying it. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4232
+  }
+}

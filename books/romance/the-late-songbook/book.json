@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06414",
+  "title": "The Late Songbook",
+  "author": "Lior Yarrow",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Silas Pemberton, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. But when a lost letter surfaces, postmarked eleven years ago, she discovers that staying invisible was never really an option. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6414
+  }
+}

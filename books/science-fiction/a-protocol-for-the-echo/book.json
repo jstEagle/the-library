@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07282",
+  "title": "A Protocol for the Echo",
+  "author": "Mirabel Crane",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Astrid Lockridge, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7282
+  }
+}

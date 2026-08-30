@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09624",
+  "title": "The Semester of Cedar Falls",
+  "author": "L. M. Almeida",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Paloma Voss, the only out kid in a town of nine hundred, is fine. Everything is fine. Obviously.. Then the college essay prompt asks one honest question nobody can stop answering — and she is pulled straight into the middle of it. To get through this, she must tell the truth even if it costs the friendship before the final audition.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9624
+  }
+}

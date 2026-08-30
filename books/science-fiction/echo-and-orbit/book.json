@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07410",
+  "title": "Echo and Orbit",
+  "author": "P. M. Fairweather",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Xanthe Okonkwo, a starship navigator haunted by the backups sleeping in the hold, records the slow death of a colony everyone else forgot. But when an unfamiliar name shows up on the manifest of a ship that never flew, they discover that staying invisible was never really an option. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7410
+  }
+}

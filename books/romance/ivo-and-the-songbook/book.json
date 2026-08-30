@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06161",
+  "title": "Ivo and the Songbook",
+  "author": "Juniper Coldharbour",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Quentin Nystrom, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, she discovers that staying invisible was never really an option. Now she must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6161
+  }
+}

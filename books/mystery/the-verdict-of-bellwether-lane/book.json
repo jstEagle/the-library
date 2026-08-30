@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04956",
+  "title": "The Verdict of Bellwether Lane",
+  "author": "Zephyrine Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Elodie Amberdale, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. Then a body turns up dressed in clothes stolen from the witness's own closet — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4956
+  }
+}

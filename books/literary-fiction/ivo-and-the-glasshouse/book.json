@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04722",
+  "title": "Ivo and the Glasshouse",
+  "author": "Sable Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Casper Fairweather, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4722
+  }
+}

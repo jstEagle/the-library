@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00571",
+  "title": "Hazel and the Wreck",
+  "author": "E. M. Montrose",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Sebastian Hartwell, a salvage diver working a wreck the navy won't discuss, has spent seven years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and he is pulled straight into the middle of it. To get through this, he must outlast the monsoon with a leaking boat and a stranger's help before the dry season ends.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 571
+  }
+}

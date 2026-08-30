@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09674",
+  "title": "The Homecoming of Lake Minnow",
+  "author": "L. M. Eriksen",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Astrid Dravenmoor, a coder whose anonymous account knows too much, has spent twenty years being so careful it hurts. Then the college essay prompt asks one honest question nobody can stop answering — and she is pulled straight into the middle of it. Now she must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9674
+  }
+}

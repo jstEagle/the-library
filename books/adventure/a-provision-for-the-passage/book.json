@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00505",
+  "title": "A Provision for the Passage",
+  "author": "Theo Oyelaran",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Petra Oyelaran, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. Then the river gives up a chest stamped with a dead nation's seal — and he is pulled straight into the middle of it. To get through this, he must bring the expedition home without telling anyone what it found before the dry season ends.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 505
+  }
+}

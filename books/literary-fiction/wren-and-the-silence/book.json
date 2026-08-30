@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04553",
+  "title": "Wren and the Silence",
+  "author": "O. M. Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Isandro Brightwater, a restaurant critic who has forgotten how food tastes, has spent ten years practicing the art of almost saying it. Then a box of undelivered letters surfaces behind a wardrobe — and he is pulled straight into the middle of it. Now he must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4553
+  }
+}

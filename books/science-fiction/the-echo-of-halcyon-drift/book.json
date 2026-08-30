@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07361",
+  "title": "The Echo of Halcyon Drift",
+  "author": "Paloma Brightwater",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Oscar Marchetti, an insurance investigator of impossible accidents, has spent five years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7361
+  }
+}

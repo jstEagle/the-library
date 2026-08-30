@@ -1,0 +1,21 @@
+{
+  "id": "THR-08413",
+  "title": "The Last Deadline",
+  "author": "Mirabel Galloway",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Noor Coldharbour, a burnt analyst bounced from three agencies, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. To get through this, he must extract a defector who may be the bait before the markets open in Frankfurt.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8413
+  }
+}

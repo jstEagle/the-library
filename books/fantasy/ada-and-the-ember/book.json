@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01319",
+  "title": "Ada and the Ember",
+  "author": "Quentin Thornbury",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.6,
+  "blurb": "Silas Eastwick, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. To get through this, she must steal back a soul sold to the court beneath the mountain before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1319
+  }
+}

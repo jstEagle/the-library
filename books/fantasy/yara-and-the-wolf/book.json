@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01347",
+  "title": "Yara and the Wolf",
+  "author": "Juniper Ashgrove",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Paloma Almeida, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. But when the old gods begin answering prayers again, he discovers that staying invisible was never really an option. Now he must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1347
+  }
+}

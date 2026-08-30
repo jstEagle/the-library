@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09715",
+  "title": "The Playlist of the water tower",
+  "author": "Coral Hartwell",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Marguerite Nystrom, a coder whose anonymous account knows too much, counts days until graduation like a sentence being served. But when a group chat starts predicting things that haven't happened yet, they discover that staying invisible was never really an option. To get through this, they must decide who to be when the labels come off before prom.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9715
+  }
+}

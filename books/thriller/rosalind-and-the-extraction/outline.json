@@ -1,0 +1,59 @@
+{
+  "title": "Rosalind and the Extraction",
+  "slug": "thriller/rosalind-and-the-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Jude Eriksen's carefully compartmentalized life shatters when a burner phone rings with the voice of her sister Rosalind, who died five years ago in a car crash Jude has never fully believed was an accident. The voice belongs to a woman claiming to be Rosalind's double — a deep-cover operative whose memories of Jude are real because they were extracted from Rosalind before her death. Hired to extract this defector from a Baltic safehouse, Jude discovers the extraction itself is the trap: her employer wants the operative's implanted memories, including the location of a ledger that names every asset in a compromised intelligence network. In the end, Jude chooses to burn the ledger and the double's borrowed memories along with it, letting the woman walk away as nobody — while Jude finally accepts that belonging means choosing your own people, not recovering the ones you lost.",
+  "about_author": "Ivo Marchetti is the pen name of a former logistics coordinator who spent a decade moving sensitive cargo through Eastern European border towns before turning to fiction. He writes lean, procedural thrillers about people whose jobs require them to be someone else.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Rules of Engagement",
+      "summary": "Jude's POV. A routine protection detail in Riga goes sideways when her client tries to bolt mid-handoff, revealing the contract was a loyalty test. Jude passes but realizes her employer, the shadowy firm Meridian, is pruning its own people. The beat is unease: the rules she lives by are being quietly rewritten around her."
+    },
+    {
+      "n": 2,
+      "title": "The Number That Shouldn't Exist",
+      "summary": "Jude's POV. A burner phone appears in her apartment mail slot — untraceable, Meridian-issue. When it rings, the voice is Rosalind's, saying the childhood phrase only her sister knew. Jude verifies the voiceprint against old family voicemails and gets a perfect match. The beat is vertigo: five years of grief destabilized by a single phone call."
+    },
+    {
+      "n": 3,
+      "title": "What the Divers Found",
+      "summary": "Jude's POV, with a flashback to the crash. She reopens the accident file and finds the recovery report was falsified — the car was pulled from a canal thirty miles from where Rosalind supposedly died. Someone with access to official records buried the truth. The beat is cold anger hardening into resolve."
+    },
+    {
+      "n": 4,
+      "title": "The Contract",
+      "summary": "Jude's POV. Meridian offers her a lucrative extraction: a defector code-named VESPER, held in a safehouse outside Gdańsk, with a 72-hour window before a rival service moves in. The client photo is the woman with Rosalind's voice. Jude accepts, telling herself it's the only way to reach her. The beat is self-deception."
+    },
+    {
+      "n": 5,
+      "title": "Vesper",
+      "summary": "The defector's POV. In the safehouse, the woman who calls herself Vesper rehearses Jude's life story like a script, aware her memories are implanted and incomplete. She knows she's bait but not for what. She leaves a hidden message in the safehouse for whoever comes. The beat is loneliness: a person made of someone else's love."
+    },
+    {
+      "n": 6,
+      "title": "Gdańsk, Night Two",
+      "summary": "Jude's POV. The infiltration goes clean until Jude comes face to face with Vesper — Rosalind's face, older, warier. Under fire from a third-party hit team neither expected, they escape together into the city's shipyard maze. Vesper admits she isn't Rosalind, but the memories are real. The beat is disorientation and unwanted intimacy."
+    },
+    {
+      "n": 7,
+      "title": "Extraction Point",
+      "summary": "Alternating POVs. Jude and Vesper run the exfil route while piecing together the trap: Meridian doesn't want Vesper — it wants the ledger encoded in her implanted memories, and it needs Jude's emotional involvement to make her carry Vesper to the handoff. The beat is the sick clarity of realizing you were the weapon all along."
+    },
+    {
+      "n": 8,
+      "title": "The Ledger",
+      "summary": "Vesper's POV. Under pressure, Vesper's implanted memories surface: the ledger's location, but also Rosalind's final days — she discovered the ledger, was captured, and her memories were extracted before she was killed. Vesper carries a dead woman's testimony. The beat is grief shared across an impossible distance."
+    },
+    {
+      "n": 9,
+      "title": "Handoff",
+      "summary": "Jude's POV. At the exchange, Meridian's handler reveals the full design and offers Jude a place in the new order if she delivers Vesper. Jude springs her own plan: a dead-drop switch that feeds Meridian a corrupted ledger while the real one uploads to journalists worldwide. The beat is the climax — betrayal met with precision."
+    },
+    {
+      "n": 10,
+      "title": "Nobody's Daughter",
+      "summary": "Jude's POV. With Meridian burning and the network exposed, Jude and Vesper sit on a ferry out of Gdańsk. Vesper asks who she's supposed to be now. Jude tells her nobody — and that nobody is a place to start from. They part at the dock, not sisters, but something chosen. The beat is release: identity as a decision, not an inheritance."
+    }
+  ]
+}

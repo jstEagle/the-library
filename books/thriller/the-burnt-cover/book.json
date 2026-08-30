@@ -1,0 +1,21 @@
+{
+  "id": "THR-08983",
+  "title": "The Burnt Cover",
+  "author": "A. M. Dunmore",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Lena Hartwell, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8983
+  }
+}

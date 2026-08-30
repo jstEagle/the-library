@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05707",
+  "title": "Mirabel and the Ledger",
+  "author": "Elodie Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Emrys Ashgrove, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. To get through this, they must trap a killer who knows the case file better than the investigators do before the statute expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5707
+  }
+}

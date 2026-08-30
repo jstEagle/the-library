@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04461",
+  "title": "The Small Weather",
+  "author": "Hazel Halloran",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "August Brightwater, an heir cataloging a parent's silence after the funeral, has spent three years practicing the art of almost saying it. Then the last speaker of a language asks for one final student — and she is pulled straight into the middle of it. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4461
+  }
+}

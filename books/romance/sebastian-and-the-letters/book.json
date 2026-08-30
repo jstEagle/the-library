@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06653",
+  "title": "Sebastian and the Letters",
+  "author": "Elodie Ravensworth",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Ansel Blackwood, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "found family",
+    "belonging",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6653
+  }
+}

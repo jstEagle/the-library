@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04689",
+  "title": "Edmund and the Undertow",
+  "author": "Oscar Nakamura",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Theo Amberdale, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. Now they must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4689
+  }
+}

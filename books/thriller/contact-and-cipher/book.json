@@ -1,0 +1,21 @@
+{
+  "id": "THR-08631",
+  "title": "Contact and Cipher",
+  "author": "Cyrus Winterbourne",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Paloma Dunmore, a hostage negotiator with one failure still on the board, has spent five years following rules that keep getting rewritten. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the border checkpoint shifts change.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8631
+  }
+}

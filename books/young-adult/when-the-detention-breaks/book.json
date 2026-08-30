@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09648",
+  "title": "When the Detention Breaks",
+  "author": "Theo Joubert",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Zephyrine Ashgrove, a debate champion who can't win the argument at home, has spent twelve years being so careful it hurts. But when grandma's recipe box contains directions that aren't for food, she discovers that staying invisible was never really an option. To get through this, she must win the championship that doesn't matter — and the one that does before prom.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9648
+  }
+}

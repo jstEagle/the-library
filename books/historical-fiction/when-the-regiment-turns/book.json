@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02487",
+  "title": "When the Regiment Turns",
+  "author": "Lena Voss",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Gideon Thornbury, a battlefield nurse keeping a ledger of the names officers omit, has spent fifteen years learning which silences keep people safe. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, they discover that staying invisible was never really an option. Now they must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2487
+  }
+}

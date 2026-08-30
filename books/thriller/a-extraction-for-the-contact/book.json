@@ -1,0 +1,21 @@
+{
+  "id": "THR-08673",
+  "title": "A Extraction for the Contact",
+  "author": "Petra Almeida",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Noor Nakamura, a hostage negotiator with one failure still on the board, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. To get through this, they must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "belonging",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8673
+  }
+}

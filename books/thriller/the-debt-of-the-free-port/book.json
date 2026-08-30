@@ -1,0 +1,21 @@
+{
+  "id": "THR-08718",
+  "title": "The Debt of the Free Port",
+  "author": "Rosalind Dravenmoor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Mirabel Sterling, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. But when every record of a flight vanishes while it's still in the air, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8718
+  }
+}

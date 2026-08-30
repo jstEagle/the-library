@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09519",
+  "title": "The Unofficial Recipe",
+  "author": "Orsen Yarrow",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Tamsin Marchetti, the eldest sibling raising the younger ones while mom works nights, is fine. Everything is fine. Obviously.. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, he discovers that staying invisible was never really an option. To get through this, he must win the championship that doesn't matter — and the one that does before graduation.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9519
+  }
+}

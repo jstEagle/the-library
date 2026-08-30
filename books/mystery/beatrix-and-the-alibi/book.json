@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05075",
+  "title": "Beatrix and the Alibi",
+  "author": "Dominic Nystrom",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Vesper Vasquez, the archivist of a cathedral with a locked crypt, has spent ten years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the statute expires.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5075
+  }
+}

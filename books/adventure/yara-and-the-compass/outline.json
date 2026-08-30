@@ -1,0 +1,119 @@
+{
+  "title": "Yara and the Compass",
+  "slug": "adventure/yara-and-the-compass",
+  "model": "stealth/ox-alpha",
+  "premise": "Sable Winterbourne, a bush pilot who ferries medicine and secrets across a lawless interior, is handed a dying prospector's map to a wreck that was never supposed to be found—and a promise to deliver it to the man's estranged daughter. But the map is half of a pair, and the salvage fleet holds the other half, so Sable and the daughter, Yara, have six tides to reach the wreck first. Along the way Sable learns the prospector's death was no accident and that the fleet's owner is the magistrate who once destroyed Sable's family. The race ends at the wreck itself, where Sable chooses to expose the magistrate's crimes rather than take the salvage, winning justice at the cost of the anonymity they spent a lifetime building—and finally learning that a promise, like a landing, requires committing to the ground.",
+  "about_author": "Ivo Ashgrove is the pen name of a former floatplane mechanic who spent a decade in remote northern camps before turning to writing. Their fiction draws on the rhythms of tide tables, engine logs, and the quiet bargains people make to survive the bush.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Cargo and Rumors",
+      "summary": "Sable's POV. A routine medicine run into a river settlement establishes Sable's rules: never stay, never ask, never carry anything worth stealing. A rumor about a salvage fleet moving upriver unsettles the town. The emotional beat is wary routine—the fragile peace of a person who has made invisibility a craft."
+    },
+    {
+      "n": 2,
+      "title": "The Dying Man's Bargain",
+      "summary": "Sable's POV. At a fogbound strip, prospector Ede Voss, gut-shot and failing, trades a oilskin-wrapped map for a promise: take it to his daughter Yara in Kestrel Bay. Sable accepts only because refusing means watching a man die alone. The beat is reluctant compassion cracking Sable's armor."
+    },
+    {
+      "n": 3,
+      "title": "Six Tides",
+      "summary": "Yara's POV, introduced in Kestrel Bay. Yara, a boatwright estranged from the father who left her, receives Sable and the map with fury and grief. Together they decode Ede's tide-marked notes: the wreck surfaces only at extreme low water, six tides away. The beat is grief weaponized into purpose."
+    },
+    {
+      "n": 4,
+      "title": "The Other Half",
+      "summary": "Sable's POV. In a harbor tavern they learn the salvage fleet's captain, Brann Corvane, holds a matching chart—and that Corvane's backer is Magistrate Aldous Renner, the man who seized Sable's family's land years ago. The beat is cold recognition: this was never a coincidence."
+    },
+    {
+      "n": 5,
+      "title": "Stolen Runway",
+      "summary": "Sable's POV. Corvane's men torch Sable's floatplane at anchor, stranding them and sending a message. Sable salvages the plane's radio and charts from the wreckage. The beat is loss hardening into resolve—the price of being seen."
+    },
+    {
+      "n": 6,
+      "title": "The Kestrel",
+      "summary": "Yara's POV. Yara offers her half-finished boat, the Kestrel, as their way upriver; finishing it becomes an act of inheritance from the father she resents. They provision in secret while Renner's inspectors 'audit' the harbor. The beat is building something with your own hands out of someone else's legacy."
+    },
+    {
+      "n": 7,
+      "title": "First Tide: Running the Narrows",
+      "summary": "Alternating POV. The Kestrel slips past the fleet at night through a tide-snarled narrows; Sable's river knowledge barely saves them from a sweep rock. They gain a tide on Corvane but lose their spare fuel drum. The beat is exhilarating terror—committing to the current."
+    },
+    {
+      "n": 8,
+      "title": "What Ede Buried",
+      "summary": "Yara's POV. Reading Ede's journal aloud, Yara learns he witnessed Renner order a village burned over salvage rights years ago—and kept the proof with the map. Her anger at her father curdles into understanding: he stayed away to keep her off Renner's list. The beat is forgiveness arriving too late to say out loud."
+    },
+    {
+      "n": 9,
+      "title": "The Informant at Miller's Landing",
+      "summary": "Sable's POV. A friendly trader offers fuel and shelter, but Sable recognizes Renner's seal on his ledger and realizes he's reporting their position. They take the fuel and leave a false heading. The beat is the loneliness of trust rationed like water."
+    },
+    {
+      "n": 10,
+      "title": "Second Tide: The Dead Village",
+      "summary": "Yara's POV. They shelter in the burned village from Ede's journal; Yara finds a child's toy in the ashes and understands the scale of what Renner erased. Corvane's scout plane passes overhead. The beat is mourning a place you never knew."
+    },
+    {
+      "n": 11,
+      "title": "Corvane's Offer",
+      "summary": "Sable's POV. Corvane intercepts them by launch and offers a cut of the salvage for the map—and reveals he knows Sable's real name and history. Sable refuses; Corvane lets them go, clearly preferring to follow them to the wreck. The beat is the past arriving as a bill due."
+    },
+    {
+      "n": 12,
+      "title": "Third Tide: The Falls Portage",
+      "summary": "Alternating POV. A grueling portage around falls costs them their lead; Yara injures her shoulder, and Sable must carry both the boat's gear and Yara's share. They quarrel about whether the wreck is worth their lives. The beat is friction revealing how much they've come to rely on each other."
+    },
+    {
+      "n": 13,
+      "title": "Renner's Warrant",
+      "summary": "Sable's POV. A patrol launch delivers a magistrate's warrant naming Sable for theft and Yara as an accomplice—Renner has made them outlaws on paper, free to be shot 'resisting.' The beat is the law revealed as a weapon, and justice becoming something you must take, not request."
+    },
+    {
+      "n": 14,
+      "title": "Fourth Tide: The Fleet's Wake",
+      "summary": "Yara's POV. They pass the grounded salvage flagship, sabotaged—by its own crew, they realize; Corvane's men are as expendable to Renner as the villagers were. A surviving deckhand warns them Renner isn't after treasure but the evidence Ede hid. The beat is seeing the enemy's machine eat its own."
+    },
+    {
+      "n": 15,
+      "title": "Night Anchor",
+      "summary": "Alternating POV. Waiting out a storm at anchor, Sable tells Yara the truth about the family land Renner took and the brother who didn't survive the eviction. Yara shares Ede's last letter, unsent. The beat is two survivors trading the weights they've carried alone."
+    },
+    {
+      "n": 16,
+      "title": "Fifth Tide: The Sound",
+      "summary": "Sable's POV. They enter the sound where the wreck lies, but Corvane's remaining launch is already there, and Renner himself has come upriver to supervise. A cat-and-mouse among the fog-bound islets ends with the Kestrel's hull holed and beached on a shingle bar. The beat is everything on the line with one tide left."
+    },
+    {
+      "n": 17,
+      "title": "The Wreck of the Meridian",
+      "summary": "Yara's POV. On the final low tide, the wreck's ribs break the surface. Inside the captain's strongroom, beneath the salvage, they find Ede's cache: ledgers, letters, and a signed order in Renner's hand. Renner's men close in from both shores. The beat is triumph and trap arriving in the same breath."
+    },
+    {
+      "n": 18,
+      "title": "Sixth Tide: Renner's Bargain",
+      "summary": "Sable's POV. Cornered at the wreck, Renner offers Sable everything—the land, the name, the past restored—in exchange for burning the evidence. Sable sees the trap: accepting would make them complicit forever. The beat is the temptation to buy back a lost life with someone else's justice."
+    },
+    {
+      "n": 19,
+      "title": "The Choice at Low Water",
+      "summary": "Alternating POV. As the tide turns, Sable and Yara trigger the wreck's weakened hull to shift, crushing Renner's launch and scattering his men, while the evidence goes into a waterproof case lashed to Yara's back. Corvane, abandoned by Renner, unexpectedly covers their escape. The beat is chaos, sacrifice, and the moment of no return."
+    },
+    {
+      "n": 20,
+      "title": "What the River Keeps",
+      "summary": "Yara's POV. Renner, stranded by the tide and his own men's desertion, drowns in the sound he came to strip—no one mourns him. Sable and Yara run the river through the night, hunted but alive, the evidence dry against Yara's spine. The beat is survival with a purpose at last."
+    },
+    {
+      "n": 21,
+      "title": "The Reading",
+      "summary": "Sable's POV. In Kestrel Bay, before a crowded harbor and a circuit judge untouchable by Renner, the ledgers are read aloud; Renner's network collapses and the burned village's survivors are granted restitution. Sable's old warrant dissolves—but their anonymity dies with it. The beat is justice arriving, and costing exactly what it promised to."
+    },
+    {
+      "n": 22,
+      "title": "Compass True",
+      "summary": "Alternating POV. Weeks later, the Kestrel—repaired, renamed Meridian's Daughter—runs mail and medicine upriver with Sable flying cover and Yara at the helm. Ede's compass hangs at the wheel, pointing them toward the next settlement that needs them. The beat is quiet arrival: two people who kept moving finally choosing a heading together."
+    }
+  ]
+}

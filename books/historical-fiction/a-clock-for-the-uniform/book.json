@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02908",
+  "title": "A Clock for the Uniform",
+  "author": "Noor Eastwick",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Marguerite Blackwood, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. To get through this, he must finish the work while the workshop still stands before the armistice is signed — or isn't.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2908
+  }
+}

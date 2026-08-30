@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02740",
+  "title": "A Letter for the Uniform",
+  "author": "Noor Thornbury",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Casper Yarrow, a typeface cutter's daughter in a print shop on the eve of a revolution, has spent ten years learning which silences keep people safe. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2740
+  }
+}

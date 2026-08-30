@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01234",
+  "title": "The Burning Wolf",
+  "author": "Theo Vane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Felix Hartwell, a mercenary sworn to a god that went silent, has spent twelve years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1234
+  }
+}

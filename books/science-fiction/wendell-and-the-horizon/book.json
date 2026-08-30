@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07735",
+  "title": "Wendell and the Horizon",
+  "author": "Ansel Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Orsen Eriksen, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7735
+  }
+}

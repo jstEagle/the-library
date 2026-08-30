@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06996",
+  "title": "The Kitchen of the Old Mill House Again",
+  "author": "Cyrus Voss",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Sebastian Sandoval, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and they are pulled straight into the middle of it. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6996
+  }
+}

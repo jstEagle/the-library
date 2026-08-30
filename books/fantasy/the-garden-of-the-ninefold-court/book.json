@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00932",
+  "title": "The Garden of the Ninefold Court",
+  "author": "Lena Almeida",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Ines Okonkwo, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. Now she must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 932
+  }
+}

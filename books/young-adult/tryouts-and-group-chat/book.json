@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09631",
+  "title": "Tryouts and Group Chat",
+  "author": "Zephyrine Oyelaran",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Orsen Ravensworth, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, he discovers that staying invisible was never really an option. To get through this, he must expose what the school board buried before the last game of the season.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9631
+  }
+}

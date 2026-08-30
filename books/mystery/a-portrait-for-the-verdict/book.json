@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05326",
+  "title": "A Portrait for the Verdict",
+  "author": "Xanthe Voss",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Odile Halloran, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5326
+  }
+}

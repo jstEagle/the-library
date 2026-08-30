@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08043",
+  "title": "Petra and the Machine",
+  "author": "Hazel Underhill",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Jonah Dunmore, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8043
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06213",
+  "title": "A Orchard for the Vow",
+  "author": "Wren Kavanagh",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Wendell Oyelaran, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. But when the person behind a decade of letters moves in next door, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6213
+  }
+}

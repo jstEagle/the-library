@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03325",
+  "title": "The Patient Winter",
+  "author": "Gideon Whitlock",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Theo Dravenmoor, the new teacher at a school with a missing-class problem, keeps the lights on and the doors counted. But when all the photographs from grandma's house now include an extra chair, he discovers that staying invisible was never really an option. Now he must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3325
+  }
+}

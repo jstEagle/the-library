@@ -1,0 +1,21 @@
+{
+  "id": "THR-09132",
+  "title": "Yara and the Safehouse",
+  "author": "Mirabel Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Kestrel Vasquez, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. To get through this, she must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9132
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02402",
+  "title": "Clock and Uniform",
+  "author": "Edmund Sandoval",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Paloma Oyelaran, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. But when the census taker asks one question too many, they discover that staying invisible was never really an option. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ice breaks on the river.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2402
+  }
+}

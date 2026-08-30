@@ -1,0 +1,21 @@
+{
+  "id": "THR-08623",
+  "title": "Emrys and the Debt",
+  "author": "Paloma Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Emrys Marchetti, a burnt analyst bounced from three agencies, works cases no one wants attributed. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8623
+  }
+}

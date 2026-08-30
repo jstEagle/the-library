@@ -1,0 +1,21 @@
+{
+  "id": "THR-09292",
+  "title": "Border and Debt",
+  "author": "C. M. Quintana",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Rafael Amberdale, a crash investigator whose family died in row twelve, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9292
+  }
+}

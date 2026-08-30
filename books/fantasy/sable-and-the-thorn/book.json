@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01720",
+  "title": "Sable and the Thorn",
+  "author": "Marguerite Yarrow",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.8,
+  "blurb": "Ada Okafor, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1720
+  }
+}

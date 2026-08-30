@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02181",
+  "title": "Coral and the Garden Revisited",
+  "author": "August Underhill",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Sable Sandoval, a thief who steals memories, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2181
+  }
+}

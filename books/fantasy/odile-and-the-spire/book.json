@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01766",
+  "title": "Odile and the Spire",
+  "author": "Emrys Sterling",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jude Joubert, the youngest member of a dying guild, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1766
+  }
+}

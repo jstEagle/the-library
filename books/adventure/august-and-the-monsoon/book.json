@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00621",
+  "title": "August and the Monsoon",
+  "author": "Gideon Vasquez",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Isandro Yarrow, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, he discovers that staying invisible was never really an option. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 621
+  }
+}

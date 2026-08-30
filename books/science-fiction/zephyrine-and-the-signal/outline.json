@@ -1,0 +1,59 @@
+{
+  "title": "Zephyrine and the Signal",
+  "slug": "science-fiction/zephyrine-and-the-signal",
+  "model": "stealth/ox-alpha",
+  "premise": "Isandro Pemberton, the last human technician aboard the automated relay station Zephyrine, watches the deep-space freighter Calyx return with a crew mysteriously aged backward—and with one passenger, a child named Vess, who remembers a massacre the ship's records insist never happened. As corporate auditors close in to sanitize the anomaly and the jump window to the inner colonies narrows, Isandro must reconstruct the truth from corrupted logs, decaying memory implants, and Vess's fragmented testimony, discovering the Calyx's owner used time-dilation experiments to erase witnesses to a labor uprising. In the end, Isandro sacrifices his own passage home, broadcasting the unaltered records through the relay at the cost of the station itself, ensuring justice arrives even if no one is left to claim credit.",
+  "about_author": "Edmund Ravensworth is a former merchant marine radio officer who spent a decade aboard automated shipping lanes before turning to fiction. He writes from a converted signal station on the northern coast, where he claims the static still tells him stories.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Orbit",
+      "summary": "Isandro's POV. Establishes his solitary life hauling cargo through contested orbits aboard the Zephyrine, his routines, his loneliness, and the approaching jump window that governs all traffic. The emotional beat is weary contentment about to be shattered."
+    },
+    {
+      "n": 2,
+      "title": "Return of the Calyx",
+      "summary": "Isandro's POV. The freighter Calyx docks unannounced, its crew decades younger than their service records, disoriented and frightened. Only Vess, a child who shouldn't exist on a crew manifest, seems to remember anything clearly. The beat is uncanny dread."
+    },
+    {
+      "n": 3,
+      "title": "Records That Lie",
+      "summary": "Isandro's POV. He cross-references the Calyx's logs against relay archives and finds them perfectly, impossibly consistent—every trace of the voyage rewritten. Vess whispers about fire and screams in the cargo hold. The beat is creeping paranoia."
+    },
+    {
+      "n": 4,
+      "title": "The Auditor Arrives",
+      "summary": "Alternating POV with Auditor Sefa Idris, a corporate fixer sent to contain the anomaly. Sefa's chapters reveal the company's cold calculus: the Calyx is an asset, its crew a liability. The beat is institutional menace entering Isandro's fragile world."
+    },
+    {
+      "n": 5,
+      "title": "What Vess Remembers",
+      "summary": "Isandro's POV, told partly through Vess's fragmented testimony. She describes a labor uprising in the deep-space yards, a decision to 'reset' the witnesses, and the massacre disguised as a malfunction. The beat is grief breaking through confusion."
+    },
+    {
+      "n": 6,
+      "title": "The Corrupted Man",
+      "summary": "The Calyx's captain, aged backward like the rest, begins to recover buried memories and begs Isandro to stop digging—for his own sake. Isandro realizes the crew's minds were weaponized against themselves. The beat is moral vertigo and reluctant alliance."
+    },
+    {
+      "n": 7,
+      "title": "Sealing the Station",
+      "summary": "Sefa's POV. The auditor locks down the Zephyrine, cuts Isandro's uplink, and prepares to scuttle both station and ship with all evidence aboard. Isandro, hiding in the cargo stacks, understands he is now disposable too. The beat is claustrophobic desperation."
+    },
+    {
+      "n": 8,
+      "title": "The Long Way Down",
+      "summary": "Isandro's POV. With Vess and the half-remembering captain, he fights through the station's automated defenses to reach the primary transmitter, racing the jump window and Sefa's purge protocols. The beat is breathless momentum and sacrifice crystallizing."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "Climax, Isandro's POV. He overrides the relay's failsafes and beams the raw, unaltered records toward every listening colony as Sefa's team breaches the transmitter room. The station's core begins to fail around him. The beat is defiant triumph at terrible cost."
+    },
+    {
+      "n": 10,
+      "title": "Signal, Received",
+      "summary": "Vess's POV, months later. The testimony has spread; tribunals convene beyond corporate reach. Vess, adopted into a station community rebuilt from the Zephyrine's salvaged core, receives a faint repeating signal from deep space—Isandro's beacon, still alive. The beat is hard-won hope."
+    }
+  ]
+}

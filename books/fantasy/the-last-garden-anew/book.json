@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01888",
+  "title": "The Last Garden Anew",
+  "author": "Ansel Delacroix",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Silas Kavanagh, a thief who steals memories, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1888
+  }
+}

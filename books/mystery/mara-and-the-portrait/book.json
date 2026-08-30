@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05456",
+  "title": "Mara and the Portrait",
+  "author": "Edmund Vane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Vesper Voss, an insurance investigator with a photographic memory, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5456
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00286",
+  "title": "Rafael and the Monsoon",
+  "author": "B. M. Zhou",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Wendell Ashgrove, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. Then an old rival hires the crew for the one job that was sworn off long ago — and they are pulled straight into the middle of it. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 286
+  }
+}

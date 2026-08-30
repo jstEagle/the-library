@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07320",
+  "title": "Wren and the Static",
+  "author": "Silas Delacroix",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Hazel Galloway, a starship navigator haunted by the backups sleeping in the hold, has spent twelve years hauling cargo through contested orbits. Then the station AI begins confessing to crimes nobody reported — and she is pulled straight into the middle of it. Now she must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7320
+  }
+}

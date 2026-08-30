@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08044",
+  "title": "The Last Echo Revisited",
+  "author": "A. M. Lockridge",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Freya Eastwick, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8044
+  }
+}

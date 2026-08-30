@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07988",
+  "title": "Paloma and the Orbit",
+  "author": "Juniper Voss",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Paloma Delacroix, a memory-smuggler running contraband past orbital customs, has spent twelve years hauling cargo through contested orbits. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7988
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07188",
+  "title": "A Horizon for the Terminal",
+  "author": "Lena Okafor",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Hazel Vasquez, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7188
+  }
+}

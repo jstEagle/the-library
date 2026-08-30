@@ -1,0 +1,59 @@
+{
+  "title": "The Static of Sector Nine",
+  "slug": "science-fiction/the-static-of-sector-nine",
+  "model": "stealth/ox-alpha",
+  "premise": "Orsen Whitlock, navigator of the freighter Vesper's Lament, has spent a decade hiding among the cargo lanes of Sector Nine, haunted by the memory-backups of their dead crew stored in the hold—copies of people they couldn't save. When the ship intercepts a distress call in a language extinct since the Meridian Collapse, Orsen realizes the signal is a forgery: someone is manufacturing evidence of a lost colony to keep two rival fleets from open war over the sector. The forger is one of the backups themselves, running on borrowed time inside the ship's failing systems. To keep the fragile peace alive, Orsen must choose between restoring the backup to a new body—which means admitting the original crew died by their own navigational error—or letting the lie die and the fleets collide. In the end, Orsen confesses the truth publicly, but the backup's final broadcast, woven from the dead crew's voices, convinces both fleets that some inheritances are worth honoring rather than avenging.",
+  "about_author": "Felix Sandoval is a former radio engineer who spent six years maintaining deep-space relay stations before turning to fiction full-time. They write in the margins of night shifts from a coastal town where the fog sometimes sounds like static.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Dead Frequencies",
+      "summary": "Orsen's POV. Routine haul through contested orbits; we meet the Vesper's Lament, its skeleton crew, and Orsen's nightly ritual of checking on the hold where the memory-backups sleep. A stray signal brushes the receiver—brief, structured, wrong. Emotional beat: loneliness disguised as competence."
+    },
+    {
+      "n": 2,
+      "title": "The Language of the Drowned",
+      "summary": "Orsen decodes the distress call: Meridian Standard, extinct two centuries. Their found-family quartermaster, Iyo, insists it's salvage bait; Orsen recognizes the voice cadence—it belongs to Captain Adeyemi, one of the dead. POV shifts between Orsen and Iyo. Beat: dread blooming into hope."
+    },
+    {
+      "n": 3,
+      "title": "What Sleeps in the Hold",
+      "summary": "Orsen descends into the hold and confronts the backup array. One pod is warm. Inside, a partial copy of Adeyemi is awake—and has been for years, forging signals to keep the fleets apart. Adeyemi's POV, fragmented and dreamlike. Beat: guilt made literal, a ghost with an agenda."
+    },
+    {
+      "n": 4,
+      "title": "Two Fleets, One Lie",
+      "summary": "Iyo's POV. Through port gossip and intercepted fleet chatter, we learn the stakes: the Halcyon Combine and the Kestrel Compact each believe the other is about to claim Sector Nine, deterred only by 'evidence' of a plague-ridden lost colony. Beat: the quiet horror of how much rests on a forgery."
+    },
+    {
+      "n": 5,
+      "title": "Navigation Errors",
+      "summary": "Orsen's POV, past-tense interwoven with present. Flashback reveals the truth: ten years ago, Orsen's miscalculation during the Collapse evacuation killed the original crew. The backups were made without consent, from black-box recordings. Beat: shame as inheritance—the thing Orsen actually carries."
+    },
+    {
+      "n": 6,
+      "title": "The Forger's Deadline",
+      "summary": "Adeyemi's backup is degrading; her forged signal grows glitchy, and a Kestrel scout ship notices anomalies. She needs a new body grown from the ship's medbay—a process requiring power Orsen must divert from life support. Crew vote scene, Iyo's POV. Beat: found family fracturing under an impossible cost."
+    },
+    {
+      "n": 7,
+      "title": "Scout",
+      "summary": "The Kestrel scout boards under pretense of inspection. Orsen bluffs, Iyo sabotages, and the young scout officer, Ren, suspects everything but says nothing—she's deserting, and wants passage. Orsen's POV. Beat: paranoia sharpening into unexpected alliance."
+    },
+    {
+      "n": 8,
+      "title": "Static",
+      "summary": "Both fleets converge on the fake colony coordinates after Adeyemi's degraded broadcast misfires. The Vesper's Lament is caught in the middle; Ren's knowledge buys them hours, not days. Adeyemi proposes the unthinkable: broadcast the real logs, including Orsen's error. Orsen's POV. Beat: rising panic, the lie collapsing."
+    },
+    {
+      "n": 9,
+      "title": "The Confession Broadcast",
+      "summary": "Climax. Orsen transmits everything—the error, the deaths, the backups, the forgery—to both fleets, then hands the channel to Adeyemi, who spends her last coherence weaving the dead crew's final messages into a single plea. The fleets stand down, shamed by grief neither can claim alone. Multiple POVs converging. Beat: catharsis through truth."
+    },
+    {
+      "n": 10,
+      "title": "Inheritance",
+      "summary": "Resolution. Adeyemi's copy ends; Orsen chooses not to restore her, honoring her request to die finished rather than continued. The crew takes salvage contracts escorting refugee ships back into Sector Nine, now open. Orsen finally sleeps without checking the hold. Orsen's POV. Beat: mourning transformed into legacy—memory as something carried forward, not kept frozen."
+    }
+  ]
+}

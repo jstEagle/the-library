@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03211",
+  "title": "When the House Wakes",
+  "author": "Emrys Winterbourne",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Orsen Crane, a twin who came home to bury the wrong sibling, keeps the lights on and the doors counted. But when the childhood imaginary friend is waiting on the porch, unchanged, they discover that staying invisible was never really an option. To get through this, they must hold out until sunrise with the truth about what was invited in before the frost writes its final pattern.",
+  "themes": [
+    "identity",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3211
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05698",
+  "title": "When the Parish Turns Anew",
+  "author": "Ada Almeida",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Dominic Yarrow, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "memory",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5698
+  }
+}

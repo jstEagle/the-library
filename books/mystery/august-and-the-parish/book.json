@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05088",
+  "title": "August and the Parish",
+  "author": "Tamsin Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Rafael Sandoval, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5088
+  }
+}

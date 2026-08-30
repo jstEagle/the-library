@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06978",
+  "title": "Elodie and the Garden Again",
+  "author": "O. M. Okafor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Ansel Hartwell, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. To get through this, he must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6978
+  }
+}

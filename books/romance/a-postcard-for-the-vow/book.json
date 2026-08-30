@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06617",
+  "title": "A Postcard for the Vow",
+  "author": "Jonah Winterbourne",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.8,
+  "blurb": "Odile Lockridge, a ghostwriter secretly penning a rival's memoirs, swears the heart is a muscle like any other: trainable, containable. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6617
+  }
+}

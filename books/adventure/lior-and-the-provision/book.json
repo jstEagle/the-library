@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00442",
+  "title": "Lior and the Provision",
+  "author": "Casper Eastwick",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Isandro Vane, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. To get through this, they must follow a river upstream to its forbidden source before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 442
+  }
+}

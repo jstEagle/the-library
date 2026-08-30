@@ -1,0 +1,21 @@
+{
+  "id": "THR-09154",
+  "title": "Jude and the Border",
+  "author": "Coral Coldharbour",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Coral Blackwood, a crash investigator whose family died in row twelve, has spent five years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and he is pulled straight into the middle of it. To get through this, he must burn the network that did the training before the markets open in Frankfurt.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9154
+  }
+}

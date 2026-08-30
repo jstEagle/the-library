@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04694",
+  "title": "Jude and the Radiators",
+  "author": "Sebastian Almeida",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "August Pemberton, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, she discovers that staying invisible was never really an option. To get through this, she must ask the question the whole family arranged itself around before the mother's memory goes entirely.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4694
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04215",
+  "title": "When the Blue Hour Wakes",
+  "author": "Vesper Reyes",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Coral Eastwick, a night librarian in a city that sleeps less every year, keeps a careful inventory of everything unsaid. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. Now they must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4215
+  }
+}

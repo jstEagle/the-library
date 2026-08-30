@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04991",
+  "title": "When the Inheritance Turns",
+  "author": "Lior Villalobos",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Kestrel Montrose, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. Then a body turns up dressed in clothes stolen from the witness's own closet — and they are pulled straight into the middle of it. To get through this, they must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4991
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01786",
+  "title": "Beatrix and the Oath",
+  "author": "Hazel Vasquez",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Ansel Delacroix, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. To get through this, they must unbind a king from the thing wearing his crown before the long winter finishes falling.",
+  "themes": [
+    "found family",
+    "memory",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1786
+  }
+}

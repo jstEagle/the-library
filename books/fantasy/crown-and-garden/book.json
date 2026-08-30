@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01012",
+  "title": "Crown and Garden",
+  "author": "Jonah Thornbury",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Theo Amberdale, a bone-carver who hears the dead, has spent five years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1012
+  }
+}

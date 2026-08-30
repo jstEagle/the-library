@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05026",
+  "title": "A Autopsy for the Parish",
+  "author": "Mirabel Nakamura",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ulyana Galloway, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5026
+  }
+}

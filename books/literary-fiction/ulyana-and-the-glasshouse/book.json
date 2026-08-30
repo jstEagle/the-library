@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04635",
+  "title": "Ulyana and the Glasshouse",
+  "author": "Freya Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Xanthe Whitlock, a former prodigy returning to the conservatory as a janitor, has spent seven years practicing the art of almost saying it. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. To get through this, she must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4635
+  }
+}

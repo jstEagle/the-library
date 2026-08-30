@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09518",
+  "title": "The Last Locker",
+  "author": "Ines Kavanagh",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Oscar Villalobos, the only out kid in a town of nine hundred, stays under the radar: head down, grades up, locker shut. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. To get through this, she must win the championship that doesn't matter — and the one that does before the last game of the season.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9518
+  }
+}

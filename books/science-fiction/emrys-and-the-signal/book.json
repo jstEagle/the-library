@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07767",
+  "title": "Emrys and the Signal",
+  "author": "Astrid Sterling",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Ada Dunmore, the last human technician on an automated relay station, has spent twenty years hauling cargo through contested orbits. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. To get through this, he must prove a massacre happened when every record says otherwise before the fleet's truce expires.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7767
+  }
+}

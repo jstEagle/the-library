@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02149",
+  "title": "The Sigil of the Sundered Sea Revisited",
+  "author": "Astrid Ishikawa",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Casper Amberdale, a cartographer of unmapped realms, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2149
+  }
+}

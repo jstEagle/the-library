@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05991",
+  "title": "The Impossible Songbook",
+  "author": "Odile Vane",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Tamsin Whitlock, a single parent running the town's only bookshop, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the festival ends.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5991
+  }
+}

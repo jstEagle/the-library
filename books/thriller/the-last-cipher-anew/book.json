@@ -1,0 +1,21 @@
+{
+  "id": "THR-09366",
+  "title": "The Last Cipher Anew",
+  "author": "Q. M. Galloway",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Lior Thornbury, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9366
+  }
+}

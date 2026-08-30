@@ -1,0 +1,21 @@
+{
+  "id": "THR-09102",
+  "title": "Ulyana and the Safehouse",
+  "author": "Paloma Ashgrove",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Beatrix Dravenmoor, a hostage negotiator with one failure still on the board, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. Now she must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9102
+  }
+}

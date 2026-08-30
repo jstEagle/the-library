@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09772",
+  "title": "When the Prom Wakes",
+  "author": "Ada Eastwick",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Petra Okonkwo, the new kid at a school built over something old, is fine. Everything is fine. Obviously.. But when a group chat starts predicting things that haven't happened yet, she discovers that staying invisible was never really an option. To get through this, she must expose what the school board buried before the last game of the season.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9772
+  }
+}

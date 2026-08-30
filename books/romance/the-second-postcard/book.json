@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06082",
+  "title": "The Second Postcard",
+  "author": "Jonah Pemberton",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Wren Lockridge, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and she is pulled straight into the middle of it. To get through this, she must forgive the person in the mirror first before the last ferry of the season departs.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6082
+  }
+}

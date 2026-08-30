@@ -1,0 +1,21 @@
+{
+  "id": "THR-09316",
+  "title": "Zephyrine and the Extraction",
+  "author": "J. M. Whitlock",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Xanthe Brightwater, a burnt analyst bounced from three agencies, works cases no one wants attributed. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. To get through this, he must extract a defector who may be the bait before the markets open in Frankfurt.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9316
+  }
+}

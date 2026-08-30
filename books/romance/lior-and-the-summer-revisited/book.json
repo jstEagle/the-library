@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06977",
+  "title": "Lior and the Summer Revisited",
+  "author": "Tamsin Crane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sebastian Vane, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6977
+  }
+}

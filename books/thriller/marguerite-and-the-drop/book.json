@@ -1,0 +1,21 @@
+{
+  "id": "THR-09298",
+  "title": "Marguerite and the Drop",
+  "author": "Rafael Voss",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Xanthe Coldharbour, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. To get through this, he must stop an attack scheduled to look like an accident before the extraction flight leaves at dawn.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9298
+  }
+}

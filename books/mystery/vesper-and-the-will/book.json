@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05235",
+  "title": "Vesper and the Will",
+  "author": "Astrid Montrose",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Isandro Ishikawa, a true-crime podcaster chasing the coldest case on record, has spent three years keeping the town's secrets filed and alphabetized. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. To get through this, they must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5235
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08461",
+  "title": "Astrid and the Safehouse",
+  "author": "O. M. Quintana",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Freya Joubert, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. To get through this, he must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8461
+  }
+}

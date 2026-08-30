@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05792",
+  "title": "Ines and the Autopsy Revisited",
+  "author": "J. M. Dravenmoor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Oscar Sandoval, an estate lawyer reading a will that shouldn't exist, has spent three years keeping the town's secrets filed and alphabetized. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. To get through this, he must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5792
+  }
+}

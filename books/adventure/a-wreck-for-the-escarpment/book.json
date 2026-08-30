@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00125",
+  "title": "A Wreck for the Escarpment",
+  "author": "Paloma Brightwater",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Marguerite Zhou, a storm chaser who owes money to dangerous optimists, has spent twenty years measuring life in miles rather than years. Then an expedition upriver stops answering the radio — and they are pulled straight into the middle of it. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the concession permits expire.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 125
+  }
+}

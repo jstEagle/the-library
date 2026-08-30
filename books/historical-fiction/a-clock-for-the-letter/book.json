@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02991",
+  "title": "A Clock for the Letter",
+  "author": "Rafael Delacroix",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "August Hartwell, a typeface cutter's daughter in a print shop on the eve of a revolution, believes history happens to other people, elsewhere. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and she is pulled straight into the middle of it. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2991
+  }
+}

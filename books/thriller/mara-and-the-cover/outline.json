@@ -1,0 +1,59 @@
+{
+  "title": "Mara and the Cover",
+  "slug": "thriller/mara-and-the-cover",
+  "model": "stealth/ox-alpha",
+  "premise": "Beatrix Ashgrove, a disgraced intelligence analyst fired from three agencies, is pulled back in when a voiceprint match to a dead colleague unlocks a shadow server in Frankfurt. The trail leads to Mara Voss, a defector carrying evidence that a private intelligence consortium has been manipulating European markets — and Beatrix realizes the extraction itself may be the trap, with Mara as bait to flush out whoever leaked the data. Betrayed by her old handler and sheltered by a ragtag network of exiled analysts she once disdained, Beatrix must choose between burning her last shred of official credibility or letting the consortium bury the truth. In the end, Beatrix gets Mara out through Frankfurt's pre-market chaos at devastating personal cost, exposes the consortium's ledger publicly, and walks away from the agencies forever — finding, for the first time, a family that doesn't require her to disappear.",
+  "about_author": "B. M. Vasquez is the pen name of a former financial-crimes researcher who spent a decade inside compliance departments before turning to fiction. They write thrillers about people who know exactly how systems fail because they've watched it happen from the inside.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Voiceprint of a Dead Man",
+      "summary": "Beatrix, now doing freelance risk audits in Lisbon, receives an automated alert: her voiceprint has unlocked a server in Frankfurt — using the voice signature of Daniel Okafor, a colleague who died ten years ago. POV: Beatrix. Emotional beat: uneasy curiosity curdling into dread as she realizes someone wants her found."
+    },
+    {
+      "n": 2,
+      "title": "The Ledger Under the Floor",
+      "summary": "Beatrix decrypts fragments of a market-manipulation ledger tied to the Halcyon Consortium and recognizes Okafor's tradecraft in the encryption. Her old handler, Renner, contacts her with a warning that feels like a threat. POV: Beatrix. Emotional beat: the intoxicating pull of relevance after years of irrelevance."
+    },
+    {
+      "n": 3,
+      "title": "Mara",
+      "summary": "In Frankfurt, Mara Voss — a consortium insider turned defector — prepares to hand over the full ledger, aware she's being hunted. She trusts no one but leaves a breadcrumb keyed to Okafor's cipher. POV: Mara. Emotional beat: cold, disciplined terror masked as competence."
+    },
+    {
+      "n": 4,
+      "title": "Three Agencies, Three Wounds",
+      "summary": "Beatrix traces the extraction request to a joint task force and discovers her own termination files were falsified — she was scapegoated years ago to protect Halcyon. Renner offers reinstatement if she delivers Mara quietly. POV: Beatrix. Emotional beat: rage and the temptation of redemption on someone else's terms."
+    },
+    {
+      "n": 5,
+      "title": "The Exiles' Table",
+      "summary": "Beatrix seeks out the Foundry, an informal network of burned analysts running a safehouse above a Rotterdam print shop. They test her loyalty brutally before agreeing to help extract Mara. POV: Beatrix. Emotional beat: reluctant belonging — the first warmth she's felt in a decade."
+    },
+    {
+      "n": 6,
+      "title": "Bait Before the Bell",
+      "summary": "Mara's contact meeting goes wrong; she escapes a snatch team and realizes the consortium let her run so her handlers would surface. She sends the ledger fragment to Beatrix directly. POV: Mara. Emotional beat: the sick clarity of realizing you are the lure."
+    },
+    {
+      "n": 7,
+      "title": "Renner's Arithmetic",
+      "summary": "Beatrix confronts Renner, who admits the extraction is a controlled burn: Mara dies, the ledger stays sealed, Beatrix gets her career back. She records him and walks out, knowing the recording makes her a target. POV: Beatrix. Emotional beat: grief for the institution she still wanted to believe in."
+    },
+    {
+      "n": 8,
+      "title": "Forty Hours to Open",
+      "summary": "With markets opening Monday, the Foundry plans a two-city extraction: Mara moves through Frankfurt's transit grid while Beatrix feeds false telemetry to both the consortium and Renner's task force. A mole inside the Foundry surfaces. POV: alternating Beatrix/Mara. Emotional beat: ticking-clock tension and fraying trust."
+    },
+    {
+      "n": 9,
+      "title": "Frankfurt, Pre-Market",
+      "summary": "The climax: the mole betrays the route; Mara is cornered in the Hauptwache underpass while Halcyon's fixers close in. Beatrix burns her last asset — broadcasting the ledger live — to flood every screen in the square and turn witnesses into shields. They get Mara to the train as the markets open on collapsing consortium stock. POV: Beatrix. Emotional beat: desperate, costly triumph."
+    },
+    {
+      "n": 10,
+      "title": "What Survives the Fire",
+      "summary": "Weeks later, investigations bloom and Renner is arrested; Beatrix is unemployable by design and finally at peace with it. She and Mara, along with the Foundry crew, begin building something of their own — an independent watchdog. POV: Beatrix. Emotional beat: quiet resolution; identity rebuilt not by institutions but by chosen family."
+    }
+  ]
+}

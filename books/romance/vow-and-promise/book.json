@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06523",
+  "title": "Vow and Promise",
+  "author": "Odile Quintana",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Thornbury, a vineyard owner who inherited debts instead of grapes, swears the heart is a muscle like any other: trainable, containable. But when a snowstorm strands two rivals with the best mistake of their twenties, they discover that staying invisible was never really an option. To get through this, they must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6523
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05898",
+  "title": "The Last Alibi Again",
+  "author": "Vesper Crane",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Wren Reyes, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. To get through this, she must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "belonging",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5898
+  }
+}

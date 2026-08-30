@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05724",
+  "title": "Mara and the Verdict Revisited",
+  "author": "Quentin Coldharbour",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Bram Zhou, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5724
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09971",
+  "title": "The Scholarship of Westbrook High",
+  "author": "Silas Sandoval",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Emrys Pemberton, a debate champion who can't win the argument at home, stays under the radar: head down, grades up, locker shut. But when a best friend goes missing, leaving only a set of keys behind, she discovers that staying invisible was never really an option. To get through this, she must win the championship that doesn't matter — and the one that does before the final audition.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9971
+  }
+}

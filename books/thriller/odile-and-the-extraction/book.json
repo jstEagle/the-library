@@ -1,0 +1,21 @@
+{
+  "id": "THR-09466",
+  "title": "Odile and the Extraction",
+  "author": "Cyrus Ishikawa",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Quentin Sterling, a hostage negotiator with one failure still on the board, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9466
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05295",
+  "title": "A Confession for the Autopsy",
+  "author": "Sebastian Kavanagh",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Wren Marchetti, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, he discovers that staying invisible was never really an option. To get through this, he must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5295
+  }
+}

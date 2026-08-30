@@ -1,0 +1,21 @@
+{
+  "id": "THR-09168",
+  "title": "Ansel and the Safehouse",
+  "author": "Ines Villalobos",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Paloma Pemberton, a whistle-blower living under four names, has spent seven years following rules that keep getting rewritten. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9168
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04646",
+  "title": "When the Interior Turns",
+  "author": "Lior Delacroix",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Lior Dunmore, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. Now they must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4646
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01268",
+  "title": "The Hollow Garden",
+  "author": "Edmund Ashgrove",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Elodie Voss, a thief who steals memories, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. To get through this, they must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1268
+  }
+}

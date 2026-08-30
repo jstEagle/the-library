@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07478",
+  "title": "Archive and Protocol",
+  "author": "Jonah Voss",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Astrid Thackeray, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7478
+  }
+}

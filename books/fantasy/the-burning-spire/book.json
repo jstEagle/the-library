@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01002",
+  "title": "The Burning Spire",
+  "author": "Freya Blackwood",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Jude Kavanagh, a thief who steals memories, has spent three years selling small charms in a city that outlawed magic. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1002
+  }
+}

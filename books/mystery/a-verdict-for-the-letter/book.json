@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05078",
+  "title": "A Verdict for the Letter",
+  "author": "Rosalind Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Kestrel Eastwick, a hotel concierge who notices everything, has spent five years keeping the town's secrets filed and alphabetized. But when a client pays in advance to prove a murder hasn't happened — yet, she discovers that staying invisible was never really an option. To get through this, she must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5078
+  }
+}

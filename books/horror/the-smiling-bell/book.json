@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03314",
+  "title": "The Smiling Bell",
+  "author": "Jonah Okonkwo",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Elodie Montrose, a property surveyor appraising a house that appraises back, has spent twelve years telling themselves the noises have explanations. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. Now he must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3314
+  }
+}

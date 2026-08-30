@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03801",
+  "title": "When the Well Breaks",
+  "author": "Theo Dravenmoor",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Orsen Quintana, a twin who came home to bury the wrong sibling, keeps the lights on and the doors counted. Then the village's church bell rings although the bell was melted down in 1911 — and they are pulled straight into the middle of it. Now they must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3801
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "The Quiet Deadline",
+  "slug": "thriller/the-quiet-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Zephyrine Nystrom, a crash investigator who lost his wife and daughter in the unexplained downing of Flight 4471, has spent six years buried in 'unattributed' cases—accidents no airline or government wants on record. When a routine voiceprint match unlocks a dead man's server in Lagos, he finds evidence that row twelve was targeted, and that the people who ordered it are still inside the agency that employs him. Hunted by his own colleagues and shadowed by Amara, an extraction officer who may be protecting him or delivering him, Zephyrine must decide whether to trade the server's final secret—his daughter's last recorded message, which contains the kill order's authentication code—to buy passage on a dawn flight out of Accra. He trades it, but keeps one frame of metadata hidden in plain sight, enough to burn the operation from exile; the book ends with the plane lifting off as the agency implodes behind him, Zephyrine finally grieving instead of investigating.",
+  "about_author": "M. M. Okafor is the pen name of a former aviation-safety analyst who spent a decade writing incident reports nobody read. They now write thrillers about the people who read them anyway.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Unattributed",
+      "summary": "Zephyrine's POV. In a windowless Ottawa annex, he closes out his 200th case—a runway fire officially caused by birds that wasn't. Establishes his ritual of checking row-twelve passenger lists for names he knows. Emotional beat: numb competence masking grief."
+    },
+    {
+      "n": 2,
+      "title": "The Voice That Shouldn't Exist",
+      "summary": "Zephyrine's POV. Running a standard voiceprint comparison on recovered cockpit audio, the system flags a 99.7% match to a voice in an encrypted server cluster in Lagos—one belonging to Elias Vant, the investigator who died on Flight 4471. Emotional beat: the first crack of hope in six years."
+    },
+    {
+      "n": 3,
+      "title": "Row Twelve, Revisited",
+      "summary": "Zephyrine's POV, with flashback fragments. He pulls the sealed 4471 file and finds page forty-one redacted by his own agency. His supervisor, Director Hale, notices the access log and asks gentle, wrong questions. Emotional beat: paranoia arriving dressed as kindness."
+    },
+    {
+      "n": 4,
+      "title": "Amara",
+      "summary": "Amara's POV. An extraction officer with the International Transit Authority, she's assigned to quietly monitor Nystrom after the Lagos ping. She reads his file and hesitates at the photo of his daughter. Emotional beat: duty meeting an unexpected ache of recognition."
+    },
+    {
+      "n": 5,
+      "title": "Server Ghost",
+      "summary": "Zephyrine's POV. Using Vant's old credentials, he breaches the Lagos cluster remotely and finds a dead-man's-switch archive: maintenance logs proving 4471's hydraulics were sabotaged pre-flight. Emotional beat: vindication curdling into terror—he now knows too much."
+    },
+    {
+      "n": 6,
+      "title": "The Quiet Deadline",
+      "summary": "Amara's POV. Her handler orders her to confirm Nystrom's location for 'containment,' not protection. She stalls, filing deliberately vague reports, and books herself to Ottawa under a cover story. Emotional beat: the first small betrayal of her own side."
+    },
+    {
+      "n": 7,
+      "title": "Birds, Again",
+      "summary": "Zephyrine's POV. A colleague who helped him pull the file dies in a single-car accident ruled accidental—the same tidy language Zephyrine writes every day. He recognizes the signature of a manufactured crash. Emotional beat: guilt sharpening into resolve."
+    },
+    {
+      "n": 8,
+      "title": "What Elias Left",
+      "summary": "Zephyrine's POV. Deep in the archive he finds Vant's video diary: Vant discovered the sabotage before boarding and hid the evidence, knowing he wouldn't survive. The final clip mentions 'the authentication key lives in row twelve.' Emotional beat: horror—his family may have been collateral or camouflage."
+    },
+    {
+      "n": 9,
+      "title": "Two Tickets",
+      "summary": "Amara's POV. Arriving in Ottawa, she intercepts Zephyrine at his apartment rather than reporting him. She offers him a choice: come with her to Accra where the ITA can extract witnesses, or wait for Hale's containment team. Emotional beat: two liars negotiating their first honest moment."
+    },
+    {
+      "n": 10,
+      "title": "Containment",
+      "summary": "Hale's POV (first appearance). The director reveals the operation's shape to his deputy: 4471 was a sanctioned takedown of a whistleblower passenger, and Vant's server is the loose end. Orders go out to erase Nystrom quietly. Emotional beat: bureaucratic evil, calm and procedural."
+    },
+    {
+      "n": 11,
+      "title": "Runway Lights",
+      "summary": "Zephyrine and Amara's alternating POV. A night escape through Ottawa's freight yards as containment agents close in; Amara takes a graze wound covering him. Emotional beat: trust forged under fire, attraction neither will name."
+    },
+    {
+      "n": 12,
+      "title": "The Frame in Row Twelve",
+      "summary": "Zephyrine's POV. On the transport to Accra he decrypts the archive's core: his daughter's seatback camera auto-uploaded eight seconds of footage before impact—including the saboteur's face and an authentication code spoken aloud. Emotional beat: hearing her voice again, and what it costs."
+    },
+    {
+      "n": 13,
+      "title": "Accra Heat",
+      "summary": "Amara's POV. In Accra they meet her contact, Kojo, who reveals the extraction flight leaves at dawn—and that ITA leadership has already sold Nystrom back to Hale's network. Emotional beat: the safe house becoming a trap."
+    },
+    {
+      "n": 14,
+      "title": "Terms of Trade",
+      "summary": "Zephyrine's POV. The archive requires the authentication code to fully unlock and broadcast; the code is embedded in his daughter's recording. To expose the conspiracy he must surrender the last living sound of her. Emotional beat: the book's central bargain laid bare."
+    },
+    {
+      "n": 15,
+      "title": "Kojo's Price",
+      "summary": "Amara's POV. Kojo demands the archive itself as payment for the dawn seats; Amara realizes everyone wants the same thing for different reasons. She secretly copies half the index, unsure whose side she's truly on. Emotional beat: loyalty splitting down the middle."
+    },
+    {
+      "n": 16,
+      "title": "Hale Lands",
+      "summary": "Hale's POV. The director arrives in Accra personally, unwilling to delegate the erasure anymore. He offers Zephyrine a deal through intermediaries: the server for a quiet life and a rewritten past. Emotional beat: temptation offered in the language of mercy."
+    },
+    {
+      "n": 17,
+      "title": "Night Market",
+      "summary": "Zephyrine and Amara's alternating POV. A chase through Accra's night market after the meet goes bad; Kojo is killed passing them the flight manifest. Amara confesses her original orders. Emotional beat: love declared in the space between betrayals."
+    },
+    {
+      "n": 18,
+      "title": "The Trade",
+      "summary": "Zephyrine's POV. At 4 a.m., in the airport's cargo annex, he initiates the exchange: the full authentication code uploaded, the broadcast armed, his daughter's voice given over to strangers' servers forever. Emotional beat: grief performed as strategy, breaking him open."
+    },
+    {
+      "n": 19,
+      "title": "Dawn",
+      "summary": "Multiple POVs converging. As the broadcast hits every regulator on the list, Hale's team storms the terminal; Amara holds the corridor alone for ninety seconds. Zephyrine runs for gate 7. Emotional beat: the climax—everything paid for at once."
+    },
+    {
+      "n": 20,
+      "title": "Ninety Seconds",
+      "summary": "Amara's POV. Wounded, she buys the ninety seconds with words as much as bullets, stalling Hale by reading his own operation back to him over the terminal PA. Hale falls not to gunfire but to exposure—his deputies hear the broadcast too. Emotional beat: truth as weapon."
+    },
+    {
+      "n": 21,
+      "title": "Wheels Up",
+      "summary": "Zephyrine's POV. On the climbing plane, he watches Accra shrink and finally opens the one thing he kept: not the code, but a single frame of metadata—his daughter smiling mid-recording—that no trade required him to give. Emotional beat: the secret worth keeping was never the one worth killing for."
+    },
+    {
+      "n": 22,
+      "title": "After the Quiet",
+      "summary": "Zephyrine and Amara's closing alternating POV. Weeks later, in a coastal town far from any flight path, hearings begin without them; Amara arrives with two coffees and no cover story. Zephyrine writes his first report that isn't unattributed—an honest account of row twelve. Emotional beat: belonging chosen, grief carried, dawn survived."
+    }
+  ]
+}

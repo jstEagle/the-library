@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04518",
+  "title": "A Radiators for the Undertow",
+  "author": "K. M. Vasquez",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Emrys Pemberton, a piano tuner who hears the house's history in its radiators, has spent five years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. To get through this, she must return to the place where the story went wrong before the mother's memory goes entirely.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4518
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00476",
+  "title": "Passage and Compass",
+  "author": "Juniper Sandoval",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.9,
+  "blurb": "Zephyrine Hartwell, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 476
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Rosalind and the Cover",
+  "slug": "thriller/rosalind-and-the-cover",
+  "model": "stealth/ox-alpha",
+  "premise": "Freya Voss runs a small private security firm that survives by taking deniable work. When a routine voiceprint verification unlocks a server in Nairobi, she discovers her firm has been used as a cutout in a plot to discredit a defecting intelligence analyst named Rosalind Achebe. Hired to guard Rosalind through a dawn extraction flight, Freya realizes the defector is bait — the real target is her own team, being burned to bury the operation. Freya chooses truth over loyalty to her handlers, exposes the conspiracy mid-flight, and loses one of her own but gains a family bound by what they survived.",
+  "about_author": "Gideon Kavanagh is the pen name of a former logistics coordinator for private security firms who now writes thrillers from a coastal town in Ireland. Their fiction draws on years spent around contractors, NDAs, and the quiet moral compromises of deniable work.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Voiceprint",
+      "summary": "POV Freya. A late-night voice authentication for a routine client unlocks an encrypted server in Nairobi instead of the expected files. Freya finds her own firm's name buried in the metadata as a laundering layer. The beat is unease — the professional calm of someone realizing the walls have ears."
+    },
+    {
+      "n": 2,
+      "title": "The Client Nobody Trusts",
+      "summary": "POV Freya. Her handler offers a lucrative job: protect a 'high-value asset' arriving from Lagos for forty-eight hours until a dawn extraction. Freya recognizes the asset's name — Rosalind Achebe, the analyst whose data she saw. She accepts anyway, telling herself it's containment. Beat: complicity with open eyes."
+    },
+    {
+      "n": 3,
+      "title": "Rosalind",
+      "summary": "POV alternating Freya and Rosalind. The defector arrives exhausted and sharp-tongued, immediately clocking that her guards don't know who hired them. Over a tense dinner she shares fragments of what she found on the server. Beat: two wary professionals circling toward trust."
+    },
+    {
+      "n": 4,
+      "title": "Found Family",
+      "summary": "POV team member Dev, Freya's operations lead. We meet the full crew — Dev, medic Ines, comms specialist Tomas — prepping the safehouse like a ritual. Small jokes, old debts, unspoken loyalties. Beat: warmth deliberately established before it can be threatened; readers learn exactly what's at stake."
+    },
+    {
+      "n": 5,
+      "title": "The Second Voice",
+      "summary": "POV Freya. A second voiceprint — this one Freya's own, harvested without consent — authorizes a payment to a shell company tied to the people hunting Rosalind. Freya understands they aren't guarding the target; they are the target. Beat: cold dread hardening into resolve."
+    },
+    {
+      "n": 6,
+      "title": "Safehouse Siege",
+      "summary": "POV Ines. Unmarked vehicles converge at 3 a.m. A brief, brutal defense; Tomas is wounded covering the retreat. They escape with Rosalind through storm drains toward the airfield. Beat: fear and fury, the found family tested under fire for the first time."
+    },
+    {
+      "n": 7,
+      "title": "Bait",
+      "summary": "POV Rosalind. Hiding in a freight depot, Rosalind reveals the trap's architecture: the extraction flight itself was designed by the conspirators as the kill box, where all loose ends gather in one place. She offers Freya an out — walk away. Beat: the loyalty-versus-truth theme made explicit and personal."
+    },
+    {
+      "n": 8,
+      "title": "Dawn Approach",
+      "summary": "POV Dev. The team flips the script: use the flight as bait themselves, feeding false coordinates while Dev smuggles evidence to a journalist contact. Tarmac tension, fueling trucks, a mole inside ground crew exposed at the last minute. Beat: rising action cresting, competence porn with a ticking clock."
+    },
+    {
+      "n": 9,
+      "title": "Wheels Up",
+      "summary": "POV Freya. Climax aboard the aircraft as it rolls for takeoff — the conspirators' operative aboard, Tomas bleeding out, Rosalind broadcasting the server contents live. Freya confronts her handler by radio and burns her own deniability forever, choosing exposure over survival. Beat: sacrifice and triumph entangled."
+    },
+    {
+      "n": 10,
+      "title": "Attribution",
+      "summary": "POV Freya, weeks later. The story breaks; hearings begin; the firm dissolves. Tomas recovers slowly. Freya, Rosalind, Dev, and Ines share a quiet meal — no contracts, no clients, just each other. Beat: bittersweet resolution; they lost the business but kept the only thing that mattered."
+    }
+  ]
+}

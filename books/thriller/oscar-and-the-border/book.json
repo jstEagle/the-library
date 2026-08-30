@@ -1,0 +1,21 @@
+{
+  "id": "THR-09106",
+  "title": "Oscar and the Border",
+  "author": "Ulyana Fairweather",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Silas Delacroix, a hostage negotiator with one failure still on the board, works cases no one wants attributed. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and he is pulled straight into the middle of it. To get through this, he must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9106
+  }
+}

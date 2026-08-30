@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07207",
+  "title": "When the Signal Sings",
+  "author": "Zephyrine Oyelaran",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Juniper Almeida, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7207
+  }
+}

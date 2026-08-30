@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01659",
+  "title": "Bram and the Thorn",
+  "author": "Z. M. Eriksen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Wren Vane, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1659
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Freya and the Drop",
+  "slug": "thriller/freya-and-the-drop",
+  "model": "stealth/ox-alpha",
+  "premise": "Ulyana Sandoval, a disgraced intelligence analyst fired from three agencies for 'pattern paranoia,' recognizes a voiceprint in an intercepted call as her former handler — speaking from a server farm in Tallinn that shouldn't exist. The trail leads to Meridian, a private network that trained its own surveillance model on stolen state archives, and to Freya Lindqvist, the defector inside it whom Ulyana once loved and reported. As border checkpoints tighten across the Baltics, Ulyana and Freya must decide whether loyalty means protecting each other or exposing the truth that will destroy them both. In the end, Ulyana burns Meridian's core from inside the checkpoint itself, choosing truth over duty — and walks out with Freya, both of them officially dead.",
+  "about_author": "Astrid Nakamura is a former logistics coordinator who spent six years shuttling between Baltic ports before turning to fiction. She writes thrillers about people caught between institutions and their own consciences, drawing on overheard conversations in ferry terminals and border queues.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Go-Bag",
+      "summary": "Ulyana's POV. We meet them in a Reykjavik safehouse flat: three firings, one packed bag by the door, a polished cover story rehearsed nightly. A freelance voice-analysis gig arrives — routine, underpaid. The emotional beat is weary self-deception; Ulyana insists they're done with the game while checking the door bolt twice."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "Ulyana's POV. Running the client's audio through spectral matching, Ulyana isolates a voice they'd know anywhere: Marcus Hale, the handler who burned them. But the metadata places him in Tallinn, at a facility decommissioned years ago. The beat is dread curdling into obsession — the pattern-paranoia label suddenly feels like a warning they failed to heed."
+    },
+    {
+      "n": 3,
+      "title": "Client Unknown",
+      "summary": "Ulyana's POV. Tracing the payment reveals a shell company tied to Meridian Group, a 'civic data' firm. When Ulyana asks too many questions, the contract vanishes and their accounts freeze. Beat: the hunter realizing they've become the quarry, and the old instinct to run warring with the need to know."
+    },
+    {
+      "n": 4,
+      "title": "Freya",
+      "summary": "Freya's POV, first time. Inside Meridian's Tallinn campus, analyst Freya Lindqvist maintains the archive model built on stolen state files — including, she discovers, a file on Ulyana Sandoval marked TERMINATE. Beat: guilt and tenderness colliding; Freya has spent four years telling herself leaving Ulyana behind was survival, not betrayal."
+    },
+    {
+      "n": 5,
+      "title": "Dead Drop Revived",
+      "summary": "Alternating POV. Ulyana uses a pre-arranged signal only Freya would recognize, buried in an open-source weather feed. Freya sees it within hours. Neither trusts the other; both respond anyway. Beat: two people testing whether an old love can still function as a secure channel."
+    },
+    {
+      "n": 6,
+      "title": "The Model That Watches",
+      "summary": "Freya's POV. Freya shows Ulyana (via smuggled docs) what Meridian actually built: a predictive policing model trained on every intercepted communication in three countries, sold quietly to border authorities. Beat: horror at scale — this isn't corruption, it's infrastructure, and infrastructure doesn't get arrested."
+    },
+    {
+      "n": 7,
+      "title": "Checkpoint Arithmetic",
+      "summary": "Ulyana's POV. Ulyana maps the route to Tallinn and finds the borders closing: Meridian has lobbied for 'model validation' lockdowns, meaning biometric sweeps at every crossing. They have roughly seventy-two hours before the checkpoint shift changes make movement impossible. Beat: cold clarity — the clock is now the antagonist."
+    },
+    {
+      "n": 8,
+      "title": "Hale's Voice",
+      "summary": "Ulyana's POV. Ulyana contacts Hale directly, offering to sell the voiceprint analysis back. Hale, smooth and paternal, warns them off — then lets slip that Freya is 'already accounted for.' Beat: rage and fear braided together; Ulyana realizes reporting Freya years ago may have signed her death warrant."
+    },
+    {
+      "n": 9,
+      "title": "What I Reported",
+      "summary": "Flashback chapter, Ulyana's POV. Four years earlier: Ulyana discovered Freya leaking files and made the 'duty' choice, believing institutional channels would protect her. Instead the report became Meridian's recruitment file. Beat: devastating self-recognition — Ulyana didn't just lose Freya; Ulyana built the cage."
+    },
+    {
+      "n": 10,
+      "title": "The Ferry to Tallinn",
+      "summary": "Both POVs interleaved. Ulyana moves by sea under a forged crew manifest while Freya sabotages her own access logs to create a window. Beat: taut parallel tension, each trusting the other precisely one step further than reason allows."
+    },
+    {
+      "n": 11,
+      "title": "Terminal 4",
+      "summary": "Ulyana's POV. At the port, biometric scanners flag Ulyana's alias; a Meridian contractor waves them through anyway — which is worse. Someone wants them inside. Beat: paranoia sharpening into understanding; the trap and the invitation are the same door."
+    },
+    {
+      "n": 12,
+      "title": "Reunion",
+      "summary": "Both POVs. Ulyana and Freya meet face to face in the archive sublevel, guns and history between them. The scene strips down to essentials: who reported whom, who left, who stayed. Beat: raw, unsentimental reckoning — love admitted aloud for the first time since the betrayal."
+    },
+    {
+      "n": 13,
+      "title": "The Core Room",
+      "summary": "Freya's POV. Freya reveals the kill switch she's spent two years building: a logic bomb requiring physical presence at the core plus a valid director's key. She has neither. Ulyana realizes why Meridian let them in — they're bait to flush out the internal saboteur. Beat: hope inverted into horror."
+    },
+    {
+      "n": 14,
+      "title": "Hale Arrives",
+      "summary": "Hale's POV, single chapter. Hale lands in Tallinn to close out the 'Sandoval anomaly,' genuinely fond of Ulyana in his hollow way, and orders the checkpoint lockdown moved up twelve hours. Beat: chilling banality — he discusses erasing two lives over coffee, without malice, as scheduling."
+    },
+    {
+      "n": 15,
+      "title": "Seventy-Two Becomes Sixty",
+      "summary": "Both POVs. With the window shrinking, the pair plan the impossible: steal a director's key during the midnight shift change, when the checkpoint rotates staff and the model's monitoring lags ninety seconds. Beat: desperate ingenuity; intimacy rebuilt through operational trust."
+    },
+    {
+      "n": 16,
+      "title": "The Key",
+      "summary": "Freya's POV. Freya seduces nothing and threatens no one — instead she exploits the model itself, feeding it fabricated data so it flags Director Ilves as a leak risk, forcing a key revocation ceremony she can intercept. Beat: triumphant irony — the machine that watches everyone is turned against its owner."
+    },
+    {
+      "n": 17,
+      "title": "Complications",
+      "summary": "Ulyana's POV. The interception works, but Ulyana is recognized by a former colleague now working Meridian security. Given a chance to walk away clean, Ulyana instead recruits him — and he hesitates too long. Beat: loyalty tested in real time; the cost of the plan becomes a person."
+    },
+    {
+      "n": 18,
+      "title": "Lockdown",
+      "summary": "Both POVs. Meridian seals the campus; the model predicts their escape routes before they choose them. Freya and Ulyana go dark, moving through service tunnels using pre-digital paper maps the model can't parse. Beat: hunted-animal terror giving way to fierce, quiet resolve."
+    },
+    {
+      "n": 19,
+      "title": "The Checkpoint Shift Change",
+      "summary": "Climax begins, both POVs. During the ninety-second monitoring gap, they reach the core room. Ulyana holds the key; Freya arms the logic bomb. Hale confronts them personally, offering Ulyana full reinstatement — duty dangled one last time. Beat: everything converges; the choice is no longer abstract."
+    },
+    {
+      "n": 20,
+      "title": "Burn It All",
+      "summary": "Climax, Ulyana's POV. Ulyana answers Hale by turning the key. The model dies screaming through every speaker in the building; alarms, darkness, and the pair running for the checkpoint as the system that predicted everyone fails to predict them. Beat: cathartic destruction — power's machine unmade by the two people it was built to contain."
+    },
+    {
+      "n": 21,
+      "title": "Two Names Off the List",
+      "summary": "Falling action, Freya's POV. Using the chaos, they cross the border as the shift changes, their identities expunged in the same purge that killed the model. Officially, Ulyana Sandoval and Freya Lindqvist no longer exist. Beat: grief and relief entwined; freedom purchased with erasure."
+    },
+    {
+      "n": 22,
+      "title": "The Unpacked Bag",
+      "summary": "Epilogue, Ulyana's POV. Months later, in a rented room far from any capital, Ulyana finally unpacks the go-bag — not because they're safe, but because there's someone to stay for. A news brief mentions Meridian's 'data incident' already fading from headlines. Beat: quiet resolution; love chosen over duty, at last, without a deadline attached."
+    }
+  ]
+}

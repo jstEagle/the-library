@@ -1,0 +1,21 @@
+{
+  "id": "THR-09446",
+  "title": "Rosalind and the Safehouse",
+  "author": "Petra Thornbury",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Quentin Ishikawa, an interpreter attached to a peace delegation destined to fail, has spent twenty years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and she is pulled straight into the middle of it. To get through this, she must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9446
+  }
+}

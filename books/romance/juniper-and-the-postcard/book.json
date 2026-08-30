@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06773",
+  "title": "Juniper and the Postcard",
+  "author": "Rosalind Hartwell",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Yara Underhill, a single parent running the town's only bookshop, has spent twelve years rebuilding a life measured in small safe steps. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and she is pulled straight into the middle of it. To get through this, she must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6773
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04661",
+  "title": "Hazel and the Radiators",
+  "author": "Casper Vasquez",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Coral Ishikawa, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, she discovers that staying invisible was never really an option. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4661
+  }
+}

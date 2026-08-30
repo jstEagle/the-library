@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08360",
+  "title": "A Archive for the Horizon Revisited",
+  "author": "Kestrel Coldharbour",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Beatrix Brightwater, a terraformer tending a garden meant for people not yet born, has spent twelve years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8360
+  }
+}

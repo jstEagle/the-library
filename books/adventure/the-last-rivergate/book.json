@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00128",
+  "title": "The Last Rivergate",
+  "author": "Mara Lockridge",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Petra Underhill, a storm chaser who owes money to dangerous optimists, carries a compass, a debt, and very little else. But when a dying prospector trades a map for a promise, she discovers that staying invisible was never really an option. To get through this, she must bring the expedition home without telling anyone what it found before the dry season ends.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 128
+  }
+}

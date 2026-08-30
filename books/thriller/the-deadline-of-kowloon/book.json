@@ -1,0 +1,21 @@
+{
+  "id": "THR-08649",
+  "title": "The Deadline of Kowloon",
+  "author": "Emrys Thornbury",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Coral Joubert, a hostage negotiator with one failure still on the board, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. Now she must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8649
+  }
+}

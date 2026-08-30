@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01209",
+  "title": "A Salt for the Crown",
+  "author": "Ines Crane",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Lena Zhou, a beast-speaker hiding a forbidden gift, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1209
+  }
+}

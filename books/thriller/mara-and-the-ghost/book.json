@@ -1,0 +1,21 @@
+{
+  "id": "THR-09487",
+  "title": "Mara and the Ghost",
+  "author": "Beatrix Dunmore",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Oscar Yarrow, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. Now they must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9487
+  }
+}

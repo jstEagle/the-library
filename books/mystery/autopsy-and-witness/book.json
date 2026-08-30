@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04904",
+  "title": "Autopsy and Witness",
+  "author": "Yara Villalobos",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Isandro Thackeray, an estate lawyer reading a will that shouldn't exist, has spent twelve years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. To get through this, she must trap a killer who knows the case file better than the investigators do before the statute expires.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4904
+  }
+}

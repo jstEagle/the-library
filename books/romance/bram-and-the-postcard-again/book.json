@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06870",
+  "title": "Bram and the Postcard Again",
+  "author": "Ada Okonkwo",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Vesper Sterling, a ghostwriter secretly penning a rival's memoirs, has spent twelve years rebuilding a life measured in small safe steps. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and he is pulled straight into the middle of it. To get through this, he must forgive the person in the mirror first before the festival ends.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6870
+  }
+}

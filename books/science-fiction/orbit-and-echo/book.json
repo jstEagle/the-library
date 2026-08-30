@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07266",
+  "title": "Orbit and Echo",
+  "author": "Edmund Ishikawa",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Kestrel Blackwood, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7266
+  }
+}

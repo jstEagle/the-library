@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00666",
+  "title": "The Compass of Mount Kessler",
+  "author": "Jonah Pemberton",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Rafael Brightwater, a bush pilot flying medicine and rumors into the interior, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. Now they must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 666
+  }
+}

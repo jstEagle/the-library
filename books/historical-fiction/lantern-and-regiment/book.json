@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02817",
+  "title": "Lantern and Regiment",
+  "author": "Theo Sterling",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.8,
+  "blurb": "Mirabel Vane, a widowed lighthouse keeper during the year of the great storms, keeps a low profile and busy hands. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2817
+  }
+}

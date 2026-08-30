@@ -1,0 +1,21 @@
+{
+  "id": "THR-09109",
+  "title": "Paloma and the Drop",
+  "author": "Bram Kavanagh",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ulyana Pemberton, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. To get through this, he must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9109
+  }
+}

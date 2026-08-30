@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04893",
+  "title": "Letter and Inheritance",
+  "author": "Wendell Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Halloran, an estate lawyer reading a will that shouldn't exist, has spent twelve years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the trial begins.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4893
+  }
+}

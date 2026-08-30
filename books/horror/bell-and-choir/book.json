@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03388",
+  "title": "Bell and Choir",
+  "author": "Wendell Vane",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ulyana Coldharbour, a twin who came home to bury the wrong sibling, has spent five years telling themselves the noises have explanations. But when all the photographs from grandma's house now include an extra chair, they discover that staying invisible was never really an option. To get through this, they must learn the song's last verse without singing along before the well refills.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3388
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Juniper and the Extraction",
+  "slug": "thriller/juniper-and-the-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Edmund Joubert, a private security contractor who has spent fifteen years erasing herself from every database she can reach, receives a voiceprint authentication request that only one person could have sent: her former lover and handler, Ana Reyes, who died three years ago in a 'training accident.' The voiceprint unlocks a server revealing that Ana faked her death to infiltrate Meridian Group, the firm Edmund works for, and that Meridian plans a staged infrastructure collapse in Lisbon to trigger a lucrative security contract. When Ana's cover is blown mid-investigation, Edmund must choose between the protocols that kept her invisible and the woman who taught her they were lies. In the end, Edmund exposes Meridian by surrendering her own anonymity—burning her false identities publicly—and escapes with Ana, both of them finally visible, hunted, and free.",
+  "about_author": "Odile Crane is the pen name of a former risk analyst who spent a decade writing threat assessments for firms she cannot name. She lives near the sea and writes thrillers about people who know exactly how surveillance works.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Voice That Shouldn't Exist",
+      "summary": "Edmund's POV. Running routine counter-surveillance for Meridian in Geneva, Edmund receives an automated voiceprint challenge on a dead channel—and answers it on instinct. The system unlocks: 'Welcome back, E.J.' The voice is Ana's. Shock curdles into dread as she realizes someone has been keeping her old biometrics alive. Emotional beat: grief reopened like a wound."
+    },
+    {
+      "n": 2,
+      "title": "Fifteen Years of Nobody",
+      "summary": "Edmund's POV, with a flashback chapter structure. She traces the server to a data haven in Tallinn while recalling how Ana taught her to vanish—burner habits, pattern breaks, the love they buried for operational safety. Her current handler, Voss, notices her distraction. Emotional beat: nostalgia sharpening into suspicion about who else remembers her."
+    },
+    {
+      "n": 3,
+      "title": "Dead Woman's Handshake",
+      "summary": "Edmund's POV. In Tallinn, a dead-drop message from Ana's ghost account contains encrypted files: internal Meridian schematics for a Lisbon power-grid failure timed to a summit, designed to look like aging infrastructure. Attached is proof Ana is alive and embedded inside Meridian's Lisbon office. Emotional beat: hope arriving wrapped in horror."
+    },
+    {
+      "n": 4,
+      "title": "Rules of the House",
+      "summary": "Voss's POV. We see Meridian from inside: Voss suspects a leak, runs loyalty audits, and quietly flags Edmund's travel anomalies. He admires Edmund even as he prepares to destroy her. A chilling scene shows him approving the Lisbon timeline without fully understanding what he's approving. Emotional beat: banal complicity."
+    },
+    {
+      "n": 5,
+      "title": "Lisbon, Eleven Days",
+      "summary": "Edmund's POV. Under pretext of a site assessment, Edmund reaches Lisbon and makes contact with Ana through a tram-station dead drop. Their reunion is brief, paranoid, electric—Ana insists she stayed dead to protect Edmund and to finish exposing Meridian's 'accident' contract. Emotional beat: love against duty, both refusing to say it aloud."
+    },
+    {
+      "n": 6,
+      "title": "What the Grid Remembers",
+      "summary": "Alternating POV, Edmund and Ana. They map the attack: a cascading substation failure during the summit blackout window, engineered to kill dozens and justify Meridian's emergency contract. But Ana's access is being watched; a second voiceprint query pings the Tallinn server. Someone is using Ana as bait. Emotional beat: ticking clock tightening."
+    },
+    {
+      "n": 7,
+      "title": "The Bait Protocol",
+      "summary": "Ana's POV. Ana realizes Voss let her live because her network leads to bigger buyers—a state client who wants deniable catastrophe. She decides to spring the trap early, using herself as the lure, and asks Edmund to walk away. Edmund refuses. First open fight between them in fifteen years. Emotional beat: duty versus devotion, stated at last."
+    },
+    {
+      "n": 8,
+      "title": "Blackout Window",
+      "summary": "Edmund's POV. Summit night. Edmund infiltrates the substation control room while Ana walks into Voss's meeting wearing a wire. Everything goes wrong at once: the grid sequence starts early, Voss's security team closes on Ana, and Edmund must choose between stopping the cascade physically and going after her. Emotional beat: impossible choice made in seconds."
+    },
+    {
+      "n": 9,
+      "title": "Extraction",
+      "summary": "Alternating POV, rapid cuts. Edmund kills the cascade by triggering the manual failsafe—exposing herself on camera, fingerprints and all—then extracts Ana through the flooded Alfama tunnels as Meridian's cleaners converge. Voss, realizing his own superiors will erase him too, hesitates one fatal moment and lets them pass. Emotional beat: survival purchased with visibility."
+    },
+    {
+      "n": 10,
+      "title": "Two Names in the Open",
+      "summary": "Edmund's POV, weeks later. The Lisbon evidence goes public via a journalist; Meridian fractures under inquiry, Voss testifies to save himself. Edmund and Ana, their faces now known, watch the news from a rented room far north. No more aliases, no more rules—only each other and the long road of being hunted together. Emotional beat: the price of survival, paid willingly."
+    }
+  ]
+}

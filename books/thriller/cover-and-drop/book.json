@@ -1,0 +1,21 @@
+{
+  "id": "THR-09119",
+  "title": "Cover and Drop",
+  "author": "Cyrus Ishikawa",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Juniper Dravenmoor, a fixer for an embassy that doesn't officially exist, has spent twelve years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9119
+  }
+}

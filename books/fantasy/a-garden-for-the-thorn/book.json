@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01417",
+  "title": "A Garden for the Thorn",
+  "author": "Wren Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Lior Iversen, a beast-speaker hiding a forbidden gift, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, she discovers that staying invisible was never really an option. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1417
+  }
+}

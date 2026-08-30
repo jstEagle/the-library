@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05014",
+  "title": "Will and Letter",
+  "author": "Cyrus Okafor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ansel Quintana, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. Now she must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5014
+  }
+}

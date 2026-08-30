@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04088",
+  "title": "Astrid and the Inventory",
+  "author": "Xanthe Dunmore",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Jonah Nystrom, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. Then the last speaker of a language asks for one final student — and she is pulled straight into the middle of it. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4088
+  }
+}

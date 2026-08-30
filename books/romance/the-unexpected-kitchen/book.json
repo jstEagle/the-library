@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06708",
+  "title": "The Unexpected Kitchen",
+  "author": "Freya Reyes",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Casper Zhou, a ghostwriter secretly penning a rival's memoirs, has spent ten years rebuilding a life measured in small safe steps. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6708
+  }
+}

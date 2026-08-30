@@ -1,0 +1,21 @@
+{
+  "id": "THR-08597",
+  "title": "The Asset of Kowloon",
+  "author": "Kestrel Nakamura",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Elodie Nakamura, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8597
+  }
+}

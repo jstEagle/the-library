@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03950",
+  "title": "Harvest and Winter",
+  "author": "Felix Iversen",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Tamsin Iversen, a pest controller called to something with fingerprints, doesn't believe, has never believed, will not begin believing now. Then the excavation crew unearths a door, sealed from the inside — and they are pulled straight into the middle of it. To get through this, they must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3950
+  }
+}

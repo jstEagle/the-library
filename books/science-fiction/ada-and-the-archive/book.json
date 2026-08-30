@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08278",
+  "title": "Ada and the Archive",
+  "author": "Ines Amberdale",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Edmund Okafor, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. Then an unfamiliar name shows up on the manifest of a ship that never flew — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8278
+  }
+}

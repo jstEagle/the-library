@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04286",
+  "title": "The Distant Weather",
+  "author": "Coral Yarrow",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Wren Delacroix, a translator losing a childhood language one borrowed word at a time, moves through the days like a tenant, not an owner. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. To get through this, they must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4286
+  }
+}

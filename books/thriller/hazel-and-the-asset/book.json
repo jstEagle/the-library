@@ -1,0 +1,21 @@
+{
+  "id": "THR-09069",
+  "title": "Hazel and the Asset",
+  "author": "S. M. Coldharbour",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Bram Okonkwo, a private security contractor guarding clients nobody trusts, has spent fifteen years following rules that keep getting rewritten. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9069
+  }
+}

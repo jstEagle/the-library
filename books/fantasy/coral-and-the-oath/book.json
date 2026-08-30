@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01520",
+  "title": "Coral and the Oath",
+  "author": "Beatrix Almeida",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Kestrel Almeida, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1520
+  }
+}

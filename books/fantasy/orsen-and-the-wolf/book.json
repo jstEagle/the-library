@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01211",
+  "title": "Orsen and the Wolf",
+  "author": "Oscar Okonkwo",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Wendell Zhou, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1211
+  }
+}

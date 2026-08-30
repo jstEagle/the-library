@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04076",
+  "title": "The Small Silence",
+  "author": "Ada Nystrom",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Sebastian Okonkwo, a former prodigy returning to the conservatory as a janitor, has perfected the smile that ends conversations. But when a childhood home goes up for auction, she discovers that staying invisible was never really an option. To get through this, she must say goodbye properly, at last, out loud before the house sale closes.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4076
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04192",
+  "title": "When the Blue Hour Breaks",
+  "author": "Marguerite Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Jude Ashgrove, a night librarian in a city that sleeps less every year, keeps a careful inventory of everything unsaid. But when a childhood home goes up for auction, they discover that staying invisible was never really an option. Now they must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4192
+  }
+}

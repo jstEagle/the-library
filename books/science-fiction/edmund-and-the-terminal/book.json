@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08061",
+  "title": "Edmund and the Terminal",
+  "author": "Wendell Vane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Mirabel Oyelaran, a pilot bonded to an AI that lies, records the slow death of a colony everyone else forgot. Then an unfamiliar name shows up on the manifest of a ship that never flew — and they are pulled straight into the middle of it. To get through this, they must reach the relay at the edge of dead space, racing the signal before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8061
+  }
+}

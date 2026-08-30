@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01506",
+  "title": "Emrys and the Wolf",
+  "author": "Tamsin Amberdale",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Sable Okafor, a royal food-taster building immunity one dish at a time, has spent three years selling small charms in a city that outlawed magic. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1506
+  }
+}

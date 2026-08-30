@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04452",
+  "title": "Silence and Undertow",
+  "author": "M. M. Galloway",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Mirabel Okafor, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. To get through this, she must ask the question the whole family arranged itself around before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4452
+  }
+}

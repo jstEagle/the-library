@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01383",
+  "title": "Yara and the Garden",
+  "author": "Hazel Quintana",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Paloma Crane, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1383
+  }
+}

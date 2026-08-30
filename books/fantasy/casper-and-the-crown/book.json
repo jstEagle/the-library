@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01670",
+  "title": "Casper and the Crown",
+  "author": "Rafael Pemberton",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Vesper Vane, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1670
+  }
+}

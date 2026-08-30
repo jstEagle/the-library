@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06440",
+  "title": "Zephyrine and the Bakery",
+  "author": "I. M. Galloway",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Mirabel Delacroix, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. But when the person behind a decade of letters moves in next door, they discover that staying invisible was never really an option. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6440
+  }
+}

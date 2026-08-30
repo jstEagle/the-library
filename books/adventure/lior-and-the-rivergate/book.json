@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00637",
+  "title": "Lior and the Rivergate",
+  "author": "Dominic Voss",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Isandro Fairweather, a bush pilot flying medicine and rumors into the interior, has spent twelve years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and he is pulled straight into the middle of it. To get through this, he must follow a river upstream to its forbidden source before the dry season ends.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 637
+  }
+}

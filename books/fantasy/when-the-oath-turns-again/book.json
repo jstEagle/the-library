@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01804",
+  "title": "When the Oath Turns Again",
+  "author": "Petra Montrose",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Felix Amberdale, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. Now she must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1804
+  }
+}

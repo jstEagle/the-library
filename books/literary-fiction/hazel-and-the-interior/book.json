@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04330",
+  "title": "Hazel and the Interior",
+  "author": "Sebastian Amberdale",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Quentin Yarrow, a letter-writer sending postcards to an address that burned down years ago, moves through the days like a tenant, not an owner. Then the last speaker of a language asks for one final student — and he is pulled straight into the middle of it. To get through this, he must say goodbye properly, at last, out loud before the house sale closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4330
+  }
+}

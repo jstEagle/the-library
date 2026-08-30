@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07378",
+  "title": "The Vector of Station Meridian",
+  "author": "Ada Vane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Jonah Yarrow, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. Then gravity flickers across the entire system for exactly nine seconds — and she is pulled straight into the middle of it. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7378
+  }
+}

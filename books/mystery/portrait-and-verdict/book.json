@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05032",
+  "title": "Portrait and Verdict",
+  "author": "Ines Yarrow",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ansel Okafor, a small-town coroner who knows every grave by name, has spent fifteen years keeping the town's secrets filed and alphabetized. But when the town's beloved founder is exhumed and the coffin is empty, he discovers that staying invisible was never really an option. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5032
+  }
+}

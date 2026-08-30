@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07127",
+  "title": "A Terminal for the Static",
+  "author": "Bram Crane",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ada Reyes, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "belonging",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7127
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07351",
+  "title": "Oscar and the Signal",
+  "author": "Theo Joubert",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Vesper Okonkwo, a pilot bonded to an AI that lies, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7351
+  }
+}

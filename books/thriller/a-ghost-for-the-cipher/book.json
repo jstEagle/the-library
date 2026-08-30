@@ -1,0 +1,21 @@
+{
+  "id": "THR-08715",
+  "title": "A Ghost for the Cipher",
+  "author": "Cyrus Zhou",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Lior Okafor, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. To get through this, he must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8715
+  }
+}

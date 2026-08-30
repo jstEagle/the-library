@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09996",
+  "title": "Tryouts and Locker",
+  "author": "Lena Villalobos",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Jude Quintana, a coder whose anonymous account knows too much, has spent twelve years being so careful it hurts. Then the teacher pairs nemesis with nemesis for a semester-long project — and she is pulled straight into the middle of it. Now she must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9996
+  }
+}

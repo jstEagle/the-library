@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05775",
+  "title": "Lior and the Parish",
+  "author": "Wendell Reyes",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Odile Kavanagh, an insurance investigator with a photographic memory, has spent five years keeping the town's secrets filed and alphabetized. Then a body turns up dressed in clothes stolen from the witness's own closet — and they are pulled straight into the middle of it. To get through this, they must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5775
+  }
+}

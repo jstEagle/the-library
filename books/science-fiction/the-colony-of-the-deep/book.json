@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07190",
+  "title": "The Colony of the Deep",
+  "author": "Lena Montrose",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Dominic Whitlock, a clone who inherited the original's murder case, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must keep a lie alive that holds two fleets apart before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7190
+  }
+}

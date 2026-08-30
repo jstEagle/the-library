@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05020",
+  "title": "The Verdict of the Fens",
+  "author": "Noor Eastwick",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ines Halloran, a retired detective running a failing bookshop, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. To get through this, he must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5020
+  }
+}

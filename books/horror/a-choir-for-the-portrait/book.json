@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03917",
+  "title": "A Choir for the Portrait",
+  "author": "Isandro Whitlock",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Rosalind Eastwick, a hospice nurse who hears the dying count backwards, keeps the lights on and the doors counted. But when every mirror in the house starts reflecting the room one second late, he discovers that staying invisible was never really an option. Now he must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3917
+  }
+}

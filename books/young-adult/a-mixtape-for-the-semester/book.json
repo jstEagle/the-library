@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09607",
+  "title": "A Mixtape for the Semester",
+  "author": "Edmund Joubert",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Juniper Okonkwo, the only out kid in a town of nine hundred, has spent three years being so careful it hurts. But when the teacher pairs nemesis with nemesis for a semester-long project, they discover that staying invisible was never really an option. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9607
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09741",
+  "title": "The Last Playlist",
+  "author": "Mirabel Villalobos",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Kestrel Villalobos, a coder whose anonymous account knows too much, stays under the radar: head down, grades up, locker shut. But when grandma's recipe box contains directions that aren't for food, they discover that staying invisible was never really an option. Now they must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9741
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03224",
+  "title": "The Smiling Choir",
+  "author": "Vesper Whitlock",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Lena Amberdale, a twin who came home to bury the wrong sibling, doesn't believe, has never believed, will not begin believing now. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. To get through this, they must learn the song's last verse without singing along before the frost writes its final pattern.",
+  "themes": [
+    "belonging",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3224
+  }
+}

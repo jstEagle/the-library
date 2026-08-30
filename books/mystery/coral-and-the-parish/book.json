@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05631",
+  "title": "Coral and the Parish",
+  "author": "Mirabel Amberdale",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Ivo Yarrow, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. Now she must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5631
+  }
+}

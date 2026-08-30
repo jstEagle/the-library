@@ -1,0 +1,29 @@
+{
+  "title": "When the Extraction Turns",
+  "slug": "thriller/when-the-extraction-turns",
+  "model": "stealth/ox-alpha",
+  "premise": "Dominic Galloway, a whistle-blower living under four names, is betrayed when a voiceprint he recorded years ago unlocks a hidden server in Tallinn, exposing his location to the very agency he fled. Racing to retrieve the evidence before three governments can bury it, he forms an uneasy alliance with Mara Voss, the assassin sent to silence him, who discovers her own brother was a casualty of the program Dominic exposed. Together they leak the archive through a rogue journalist network, and Dominic ends his exile by testifying openly under his real name, choosing justice over invisibility while Mara vanishes into the crowd that once hunted them both.",
+  "about_author": "Orsen Ravensworth is the pen name of a former intelligence analyst turned novelist who writes thrillers drawn from the gray zones between loyalty and conscience. He lives off-grid somewhere along the Baltic coast, answering mail only through his publisher.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Fourth Name",
+      "summary": "Dominic's POV. Living quietly as 'Daniel Reeve' in Porto, Dominic's routine shatters when his dead-drop pings: an unknown server in Tallinn has authenticated using his own voiceprint, archived from a briefing he attended seven years ago. Within hours, his burner contacts go dark one by one. The emotional beat is dread hardening into resolve—the illusion of safety dies, and Dominic realizes someone has been keeping his voice like a loaded weapon."
+    },
+    {
+      "n": 2,
+      "title": "Contract of Silence",
+      "summary": "Alternating POV: Mara Voss, the assassin dispatched to eliminate Galloway before the archive surfaces, tracks him to Lisbon while reviewing her target file—and finds her brother's name among the operation's casualties. She confronts Dominic instead of killing him, offering a fragile truce. The emotional beat is suspicion curdling into reluctant kinship; two people bound by duty discover they were both betrayed by the same hand."
+    },
+    {
+      "n": 3,
+      "title": "Three Flags at Midnight",
+      "summary": "Dominic's POV with intercut Mara sections. Infiltrating the Tallinn data center during a state visit that distracts security, they physically extract the drive as agents from three governments converge—each wanting the truth buried for different reasons. A rooftop chase ends with Mara wounded shielding Dominic from a kill team. The emotional beat is sacrifice crystallizing love against duty: she chose him over the contract, and now there is no way back for either."
+    },
+    {
+      "n": 4,
+      "title": "Testimony",
+      "summary": "Dominic's POV. With the archive mirrored across forty journalist nodes faster than any government can suppress it, Dominic faces the final choice: vanish again or stand in the light. He walks into The Hague and gives his real name on record, while Mara watches from the public gallery before slipping away unrewarded but free. The emotional beat is quiet triumph—belonging found not in hiding, but in finally being seen."
+    }
+  ]
+}

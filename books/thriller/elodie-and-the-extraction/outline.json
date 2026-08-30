@@ -1,0 +1,119 @@
+{
+  "title": "Elodie and the Extraction",
+  "slug": "thriller/elodie-and-the-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Hazel Nakamura, a financial-crimes investigator haunted by a night she can't fully remember, flags an impossible anomaly: a passenger jet's records erased mid-flight, its 214 souls scrubbed from every database. As she digs, she discovers the flight carried a black-box technology that rewrites digital identity—and that her own missing memories were its first field test. Hunted by the syndicate that owns the tech and betrayed by the mentor who sold her out years ago, Hazel must trade the only copy of her recovered memory file for the lives of the flight's hidden survivors. In the end she burns the archive, chooses to remain a stranger even to herself, and finally sleeps through the night.",
+  "about_author": "Ines Reyes is a former compliance analyst who spent a decade tracing money through shell companies before turning to fiction full-time. She writes thrillers about ordinary people whose paper trails betray them, and lives quietly under a name that appears in almost no databases.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Clean Money",
+      "summary": "Hazel's POV. Opening on her insomnia and meticulous work laundering-detection at Meridian Compliance, we see a woman who trusts ledgers more than people. A routine sweep flags an account tied to a flight that officially never existed. Beat: controlled life cracking at one seam."
+    },
+    {
+      "n": 2,
+      "title": "Flight 447-Charlie",
+      "summary": "Hazel's POV. She pulls the manifest: 214 passengers, wheels up from Reykjavik, then every record—booking, radar logs, crew rosters—vanishes while the plane is still airborne. Her supervisor tells her to drop it within the hour. Beat: vertigo of unreality."
+    },
+    {
+      "n": 3,
+      "title": "The Incident",
+      "summary": "Hazel's POV, intercut with fragmented memory. Flashbacks surface: rain, a parking garage, a man saying her old name—a name she doesn't use. We learn she hasn't slept through the night since 'the incident' eight months ago. Beat: dread that her past connects to the vanished flight."
+    },
+    {
+      "n": 4,
+      "title": "Ghost Passenger",
+      "summary": "Hazel's POV. One passenger survived the erasure: a woman named Elodie Marchand who checked into a Lisbon hotel using a passport number that now belongs to no one. Hazel flies out unofficially. Beat: first step off the ledger, into the dark."
+    },
+    {
+      "n": 5,
+      "title": "Lisbon",
+      "summary": "Elodie's POV introduced. A translator living deliberately small, Elodie recognizes Hazel's questions as dangerous and lies fluently—but slips when Hazel mentions the flight number. Beat: two women circling each other, both pretending."
+    },
+    {
+      "n": 6,
+      "title": "The Erasure Protocol",
+      "summary": "Alternating POV. Elodie reveals she was a contractor for Vantablack Group, which built 'Extraction': software that deletes a person's entire digital existence in minutes. The flight was a live demo—214 identities deleted mid-air. Beat: scale of the horror lands."
+    },
+    {
+      "n": 7,
+      "title": "What Hazel Forgot",
+      "summary": "Elodie's POV. She recognizes Hazel's face from project files: Hazel was Extraction's unwitting first test subject; her 'incident' was a memory-wipe gone partial. The garage, the name—it all fits. Beat: identity collapses; the reader's ground shifts with hers."
+    },
+    {
+      "n": 8,
+      "title": "Tail Lights",
+      "summary": "Hazel's POV. Someone follows her through Alfama's alleys; she escapes but finds her hotel room searched and a printed photo of herself from eight months ago—the night of the incident—left deliberately on the pillow. Beat: hunted, message received."
+    },
+    {
+      "n": 9,
+      "title": "Marcus Vale",
+      "summary": "Vale's POV. The Vantablack fixer tasked with containing leaks assesses Hazel: retrieve the memory file she unknowingly carries, then remove her. Cold competence masking his own doubts about orders. Beat: antagonist humanized, threat sharpened."
+    },
+    {
+      "n": 10,
+      "title": "The Mentor",
+      "summary": "Hazel's POV. She reaches her old boss, Daniel Okafor, for safe harbor—and discovers he signed off on her wipe eight months ago, trading her silence for his career. Betrayal scene. Beat: trust dies; she stops asking permission."
+    },
+    {
+      "n": 11,
+      "title": "Dead Drop",
+      "summary": "Elodie's POV. Elodie admits she kept a copy of the demo data—including Hazel's original memory file—as insurance. They agree to meet at a tram depot at dawn. Beat: fragile alliance formed over shared fear."
+    },
+    {
+      "n": 12,
+      "title": "Ambush at the Depot",
+      "summary": "Hazel's POV. The meeting is blown; Vale's team takes Elodie, Hazel barely escapes with a corrupted drive fragment. She realizes only Elodie knew the location—which means a second traitor, or Elodie played her. Beat: paranoia becomes method."
+    },
+    {
+      "n": 13,
+      "title": "Reading the Fragment",
+      "summary": "Hazel's POV. Deciphering the drive with an old hacker contact, Priya, Hazel recovers pieces of her true memory: she witnessed Vantablack's first kill and chose extraction over testimony. Beat: she wasn't just a victim—she was complicit in her own erasure."
+    },
+    {
+      "n": 14,
+      "title": "Guilt Arithmetic",
+      "summary": "Priya's POV. Priya confronts Hazel about what she's really chasing: redemption or revenge? Their argument forces Hazel to admit the survivors of Flight 447-Charlie are still alive, held as leverage. Beat: stakes shift from self to others."
+    },
+    {
+      "n": 15,
+      "title": "The Offer",
+      "summary": "Vale's POV. Vale contacts Hazel directly: the memory file for Elodie and the passengers. He seems almost sympathetic—until Hazel notices details suggesting Vale is being set up to take the fall too. Beat: enemy as mirror; both are expendable."
+    },
+    {
+      "n": 16,
+      "title": "Counterfeit Self",
+      "summary": "Hazel's POV. Hazel and Priya build a poisoned copy of the memory file laced with a tracking worm, planning to trade the fake. Moral cost surfaces: if it fails, Elodie dies. Beat: resolve hardened by fear of repeating her old cowardice."
+    },
+    {
+      "n": 17,
+      "title": "Exchange at the Dry Dock",
+      "summary": "Hazel's POV, high tension. The trade goes wrong—Okafor appears as Vantablack's inside man, the worm is detected, guns come out. Hazel uses her knowledge of financial routing to freeze Vale's team's payment mid-operation, sowing chaos. Beat: her old skills become weapons."
+    },
+    {
+      "n": 18,
+      "title": "Elodie's Choice",
+      "summary": "Elodie's POV. Captive, Elodie triggers her own insurance: broadcasting the full Extraction archive to journalists unless released. She chooses exposure over safety, freeing Hazel to act. Beat: courage as contagion."
+    },
+    {
+      "n": 19,
+      "title": "The Burn",
+      "summary": "Hazel's POV, climax. Infiltrating Vantablack's server vault during the media firestorm, Hazel faces the choice: restore her complete memory or destroy the archive forever, taking her past with it. She destroys it. Beat: climax as sacrifice of self-knowledge."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath",
+      "summary": "Vale's POV. Vantablack implodes; Vale walks away with evidence against Okafor, choosing a quieter betrayal of his employers. Survivors are quietly returned to lives that no longer contain them. Beat: victory with ash on it."
+    },
+    {
+      "n": 21,
+      "title": "What Remains",
+      "summary": "Hazel's POV. Weeks later, Hazel meets Elodie in Lisbon; neither remembers everything, and they agree that some blanks are kinder filled by friendship than by files. Hazel resigns from Meridian. Beat: belonging chosen, not retrieved."
+    },
+    {
+      "n": 22,
+      "title": "Sleep",
+      "summary": "Hazel's POV, quiet coda. A new city, a new name she picked herself this time, a small honest job. On the last page, she sleeps through the night and wakes without dread. Final line echoes chapter one's insomnia. Beat: resolution—identity as something made, not found."
+    }
+  ]
+}

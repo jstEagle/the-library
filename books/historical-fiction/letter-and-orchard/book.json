@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03074",
+  "title": "Letter and Orchard",
+  "author": "Ada Ishikawa",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Vesper Okonkwo, a pearl diver's child indentured to a trading company, has spent ten years learning which silences keep people safe. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. Now he must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3074
+  }
+}

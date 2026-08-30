@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00669",
+  "title": "Isandro and the Landfall",
+  "author": "Xanthe Almeida",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Ansel Eriksen, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. Then an old rival hires the crew for the one job that was sworn off long ago — and she is pulled straight into the middle of it. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 669
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04706",
+  "title": "Language and Wardrobe",
+  "author": "Ansel Reyes",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Odile Delacroix, a former prodigy returning to the conservatory as a janitor, has spent ten years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. To get through this, she must ask the question the whole family arranged itself around before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4706
+  }
+}

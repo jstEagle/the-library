@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05067",
+  "title": "Casper and the Confession",
+  "author": "Jonah Vane",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "August Pemberton, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then a body turns up dressed in clothes stolen from the witness's own closet — and they are pulled straight into the middle of it. To get through this, they must untangle alibis woven thirty years ago before the trial begins.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5067
+  }
+}

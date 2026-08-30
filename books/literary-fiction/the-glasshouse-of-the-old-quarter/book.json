@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04058",
+  "title": "The Glasshouse of the old quarter",
+  "author": "Sable Sterling",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Theo Coldharbour, a piano tuner who hears the house's history in its radiators, has perfected the smile that ends conversations. Then a song on the radio is one that was written and never recorded — and he is pulled straight into the middle of it. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4058
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08020",
+  "title": "The Archive of the Kuiper Line Revisited",
+  "author": "Rosalind Ishikawa",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Juniper Oyelaran, a clone who inherited the original's murder case, maintains the beacon nobody remembers commissioning. Then an unfamiliar name shows up on the manifest of a ship that never flew — and they are pulled straight into the middle of it. To get through this, they must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8020
+  }
+}

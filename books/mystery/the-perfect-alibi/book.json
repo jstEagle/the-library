@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05277",
+  "title": "The Perfect Alibi",
+  "author": "Wendell Delacroix",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Theo Thackeray, a true-crime podcaster chasing the coldest case on record, has spent three years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. Now she must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5277
+  }
+}

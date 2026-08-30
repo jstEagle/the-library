@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05394",
+  "title": "Confession and Witness",
+  "author": "Dominic Brightwater",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Coral Quintana, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. To get through this, she must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5394
+  }
+}

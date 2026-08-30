@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07814",
+  "title": "A Colony for the Orbit",
+  "author": "Jude Galloway",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.6,
+  "blurb": "Theo Eriksen, a starship navigator haunted by the backups sleeping in the hold, has spent fifteen years hauling cargo through contested orbits. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7814
+  }
+}

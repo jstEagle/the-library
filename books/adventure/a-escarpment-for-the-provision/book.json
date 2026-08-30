@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00151",
+  "title": "A Escarpment for the Provision",
+  "author": "Juniper Dravenmoor",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Rafael Okonkwo, a railroad engineer with a map of closed lines, has spent three years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. To get through this, she must cross the range ahead of the snows before the monsoon makes landfall.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 151
+  }
+}

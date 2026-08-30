@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09511",
+  "title": "the water tower Rising",
+  "author": "Emrys Sandoval",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Emrys Nystrom, the team's statistician who knows the game is rigged, has spent five years being so careful it hurts. Then grandma's recipe box contains directions that aren't for food — and they are pulled straight into the middle of it. To get through this, they must win the championship that doesn't matter — and the one that does before the last game of the season.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9511
+  }
+}

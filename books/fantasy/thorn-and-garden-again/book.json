@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01907",
+  "title": "Thorn and Garden Again",
+  "author": "Xanthe Fairweather",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Rafael Sterling, an exiled storm-caller, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1907
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03414",
+  "title": "Marguerite and the Bell",
+  "author": "Ines Amberdale",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Rosalind Blackwood, a folklorist recording songs the village refuses to sing twice, doesn't believe, has never believed, will not begin believing now. Then the sleep recordings capture a second voice answering questions — and he is pulled straight into the middle of it. Now he must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3414
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04818",
+  "title": "A Inheritance for the Verdict",
+  "author": "Gideon Almeida",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.5,
+  "blurb": "Hazel Kavanagh, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. To get through this, they must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4818
+  }
+}

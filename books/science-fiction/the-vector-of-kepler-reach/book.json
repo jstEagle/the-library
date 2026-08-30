@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07253",
+  "title": "The Vector of Kepler Reach",
+  "author": "Beatrix Ishikawa",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Edmund Yarrow, the caretaker of Earth's abandoned seed vault, has spent twenty years hauling cargo through contested orbits. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. To get through this, she must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7253
+  }
+}

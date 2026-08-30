@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07775",
+  "title": "Jonah and the Vector",
+  "author": "C. M. Reyes",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Felix Vasquez, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7775
+  }
+}

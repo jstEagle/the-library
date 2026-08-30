@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01935",
+  "title": "A Choir for the Ember Anew",
+  "author": "Wendell Nystrom",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Astrid Eastwick, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1935
+  }
+}

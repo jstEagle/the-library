@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07184",
+  "title": "A Orbit for the Signal",
+  "author": "Lior Okonkwo",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Silas Zhou, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. To get through this, they must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7184
+  }
+}

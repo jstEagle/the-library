@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00998",
+  "title": "A Salt for the Veil",
+  "author": "Wren Villalobos",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Ada Reyes, an exiled storm-caller, has spent twelve years selling small charms in a city that outlawed magic. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 998
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03608",
+  "title": "The Hymn of Vessel Farm",
+  "author": "Yara Crane",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Marguerite Fairweather, a hospice nurse who hears the dying count backwards, documents everything, because documentation is a kind of prayer. But when the village's church bell rings although the bell was melted down in 1911, she discovers that staying invisible was never really an option. To get through this, she must get the family out ahead of the count before the last resident signs the papers.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3608
+  }
+}

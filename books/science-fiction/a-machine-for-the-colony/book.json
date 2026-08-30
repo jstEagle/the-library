@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07559",
+  "title": "A Machine for the Colony",
+  "author": "Bram Winterbourne",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Astrid Reyes, the last human technician on an automated relay station, records the slow death of a colony everyone else forgot. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7559
+  }
+}

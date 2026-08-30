@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04463",
+  "title": "A Silence for the Postcards",
+  "author": "Tamsin Vane",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Emrys Fairweather, a former prodigy returning to the conservatory as a janitor, keeps a careful inventory of everything unsaid. But when a childhood home goes up for auction, she discovers that staying invisible was never really an option. To get through this, she must ask the question the whole family arranged itself around before the demolition date arrives.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4463
+  }
+}

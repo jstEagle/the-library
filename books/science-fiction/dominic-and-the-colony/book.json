@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08114",
+  "title": "Dominic and the Colony",
+  "author": "Yara Ashgrove",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Elodie Eastwick, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. To get through this, they must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8114
+  }
+}

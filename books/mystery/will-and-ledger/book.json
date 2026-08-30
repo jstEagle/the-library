@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04837",
+  "title": "Will and Ledger",
+  "author": "Vesper Crane",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Coral Delacroix, an estate lawyer reading a will that shouldn't exist, has spent ten years keeping the town's secrets filed and alphabetized. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4837
+  }
+}

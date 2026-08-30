@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04304",
+  "title": "Felix and the Blue Hour",
+  "author": "Juniper Thackeray",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Coral Crane, a night librarian in a city that sleeps less every year, has spent ten years practicing the art of almost saying it. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. To get through this, she must translate the untranslatable sentence and live with it before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4304
+  }
+}

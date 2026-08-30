@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03546",
+  "title": "A Visitor for the Hymn",
+  "author": "Odile Joubert",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Isandro Vane, a folklorist recording songs the village refuses to sing twice, has spent three years telling themselves the noises have explanations. But when the sleep recordings capture a second voice answering questions, she discovers that staying invisible was never really an option. To get through this, she must finish the ritual the founders started before the harvest moon rises.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3546
+  }
+}

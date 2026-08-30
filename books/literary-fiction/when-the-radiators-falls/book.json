@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04253",
+  "title": "When the Radiators Falls",
+  "author": "Petra Joubert",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Cyrus Pemberton, a restaurant critic who has forgotten how food tastes, has spent seven years practicing the art of almost saying it. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the mother's memory goes entirely.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4253
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04247",
+  "title": "The Silence of the old quarter",
+  "author": "Theo Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mara Amberdale, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. But when a childhood home goes up for auction, they discover that staying invisible was never really an option. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4247
+  }
+}

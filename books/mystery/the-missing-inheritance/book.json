@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05113",
+  "title": "The Missing Inheritance",
+  "author": "Oscar Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Silas Vasquez, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5113
+  }
+}

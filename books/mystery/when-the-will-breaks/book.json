@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04858",
+  "title": "When the Will Breaks",
+  "author": "Astrid Zhou",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Hazel Crane, an insurance investigator with a photographic memory, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. To get through this, he must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4858
+  }
+}

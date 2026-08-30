@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00479",
+  "title": "Bram and the Summit",
+  "author": "Elodie Amberdale",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Sebastian Fairweather, a salvage diver working a wreck the navy won't discuss, knows the wilderness forgives nothing and forgets less. But when the tide reveals a cave that legends charge admission to, they discover that staying invisible was never really an option. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 479
+  }
+}

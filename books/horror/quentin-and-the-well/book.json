@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03472",
+  "title": "Quentin and the Well",
+  "author": "L. M. Underhill",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Cyrus Voss, a folklorist recording songs the village refuses to sing twice, has spent twelve years telling themselves the noises have explanations. Then the childhood imaginary friend is waiting on the porch, unchanged — and they are pulled straight into the middle of it. To get through this, they must hold out until sunrise with the truth about what was invited in before the well refills.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3472
+  }
+}

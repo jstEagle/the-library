@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05737",
+  "title": "Silas and the Inheritance",
+  "author": "Lena Montrose",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Edmund Galloway, a night-shift dispatcher for a taxi company, has spent fifteen years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5737
+  }
+}

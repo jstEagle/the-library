@@ -1,0 +1,59 @@
+{
+  "title": "Trail and Wreck",
+  "slug": "adventure/trail-and-wreck",
+  "model": "stealth/ox-alpha",
+  "premise": "Petra Lockridge, a disgraced railroad engineer scraping by on odd survey jobs, pulls a sealed chest from a flooded river bend and finds inside a dead nation's seal, salvage charts, and proof of a wrecked pay-train that never officially existed. Hunted by the Meridian Salvage Fleet and the corrupt magistrate who sold the concession, Petra assembles an unlikely crew—a washed-up diver, a runaway telegraph girl, and an old rival turned reluctant ally—and races down the closed lines of their own hand-drawn map. Betrayal at the halfway tides costs them their boat and nearly their trust, forcing Petra to choose between paying off the debt that haunts them and protecting the crew that has become family. In the end they reach the wreck with one tide to spare, expose the magistrate's forged permits, and claim not the gold but the concession itself—turning a forgotten line into a home.",
+  "about_author": "Gideon Eastwick is the pen name of a former surveyor who spent a decade mapping abandoned rail corridors across three continents before turning to fiction. Their novels are known for granular technical detail, river-soaked atmospherics, and crews of misfits who argue their way into becoming families.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The River Gives Up Its Dead",
+      "summary": "Petra's POV. Broke and one step ahead of creditors, Petra takes a low-paying flood survey and drags a seal-stamped chest from the silt. Inside: charts of a pay-train wreck that official records deny ever existed. The emotional beat is wary wonder—the first crack in Petra's armor of self-sufficiency."
+    },
+    {
+      "n": 2,
+      "title": "Six Tides",
+      "summary": "Petra's POV. Deciphering the chest reveals the wreck sits inside a concession zone whose permits expire in six tides; whoever files salvage rights first owns everything. A Meridian Fleet gunboat already patrols the bend. Petra must decide to run or hide, and chooses to run—recruiting diver Oskar Vane from a riverside dive bar."
+    },
+    {
+      "n": 3,
+      "title": "The Girl on the Closed Line",
+      "summary": "Telegraph operator Wren's POV. Wren, a runaway hiding in a decommissioned signal tower, intercepts Meridian's traffic and realizes someone else has the chest's twin manifest. She trades the intelligence to Petra for passage out of the territory. The beat is cautious alliance—two people testing whether trust is survivable."
+    },
+    {
+      "n": 4,
+      "title": "Debt of Iron",
+      "summary": "Petra's POV. The route follows Petra's old map of closed lines, but the first bridge is held by Brann Hale, the rival engineer whose testimony ended Petra's career. Hale demands Petra's compass—the last gift of Petra's late mentor—as toll. Humiliation and old grief surface; Petra pays, hating that it stings so much."
+    },
+    {
+      "n": 5,
+      "title": "What the Magistrate Knows",
+      "summary": "Antagonist POV. Magistrate Corvel Voss, who forged the concession permits, learns the chest surfaced and dispatches the Fleet with orders to leave no witnesses. We see his fear: the wreck holds ledgers proving he sold the dead nation's treasury twice. The beat is cold menace tightening around the crew."
+    },
+    {
+      "n": 6,
+      "title": "Halfway Tide",
+      "summary": "Oskar's POV. At the mid-route lock, a Meridian agent posing as a lockkeeper turns Wren against the crew with a lie about Petra's past betrayal of Hale. The boat is seized; Oskar is wounded covering the escape. The beat is shattering trust—the found family fractures exactly when it matters most."
+    },
+    {
+      "n": 7,
+      "title": "The Long Portage",
+      "summary": "Wren's POV. On foot through drowned timber, Wren discovers the truth of Petra's disgrace—that Petra took the blame for a collapse Voss engineered. Guilt-driven, she sends a telegraph warning to Hale using the tower codes only he would honor. The beat is repentance and the slow re-knitting of bonds."
+    },
+    {
+      "n": 8,
+      "title": "Hale's Choice",
+      "summary": "Hale's POV. Hale intercepts the crew intending to sell them to the Fleet, but Wren's message and Petra's returned compass force his reckoning. He burns his contract with Meridian and lends his dredge barge instead. The beat is redemption earned, not given—an enemy choosing a side."
+    },
+    {
+      "n": 9,
+      "title": "One Tide to Spare",
+      "summary": "Petra's POV. Climax. The final approach runs the gauntlet of the Fleet under a storm surge; Voss himself boards to stop them. Oskar dives the wreck while Petra stalls Voss on the tilting deck, and Wren broadcasts the forged-permit evidence to every station on the line. The chest comes up as the permit clock runs out."
+    },
+    {
+      "n": 10,
+      "title": "Belonging",
+      "summary": "Petra's POV. Resolution. With Voss arrested on Wren's broadcast and the concession awarded to the crew, Petra faces the choice the whole journey built toward: take the gold and vanish, or reopen the closed line as their own. They sign the papers with the same hand that drew the map—and finally unpack their bags."
+    }
+  ]
+}

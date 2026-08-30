@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01354",
+  "title": "A Salt for the Spire",
+  "author": "Gideon Marchetti",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Sebastian Almeida, a thief who steals memories, has never left the valley where magic cannot follow. Then the old gods begin answering prayers again — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1354
+  }
+}

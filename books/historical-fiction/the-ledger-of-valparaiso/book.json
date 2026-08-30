@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02458",
+  "title": "The Ledger of Valparaíso",
+  "author": "Oscar Thackeray",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Sebastian Brightwater, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. Now she must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2458
+  }
+}

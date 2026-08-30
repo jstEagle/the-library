@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00720",
+  "title": "Sable and the Ember",
+  "author": "Rafael Vane",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Lena Marchetti, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. To get through this, he must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 720
+  }
+}

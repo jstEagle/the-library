@@ -1,0 +1,59 @@
+{
+  "title": "The Ghost of Vienna Again",
+  "slug": "thriller/the-ghost-of-vienna-again",
+  "model": "stealth/ox-alpha",
+  "premise": "Lena Hartwell, a financial-crimes investigator who faked her death after a laundering scandal nearly killed her, is living quietly in Vienna under a new name when a voiceprint—her own, recorded years ago—unlocks a server in Singapore containing evidence that her 'clean' employer is the pipeline for a massive pre-market manipulation scheme tied to Frankfurt's opening bell. The server's architect is Marek Voss, a defector from the syndicate who engineered the voiceprint trap to force Lena out of hiding because only she can authenticate the ledger that will bring it down. As Lena races to extract Marek before markets open, she realizes he may be bait: the syndicate let him defect precisely to lure her back into the open where they can erase both of them and the ledger with them. In the end, Lena chooses exposure over survival, releasing the authenticated ledger publicly at the opening bell, sacrificing her anonymity forever but dismantling the network—and finally sleeping through the night.",
+  "about_author": "Hazel Nystrom is a former compliance analyst who spent a decade tracing money through shell companies across three continents before turning to fiction. She writes thrillers about people trapped inside systems they helped build, drawing on real-world cases she can never talk about.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Ledger",
+      "summary": "POV: Lena. In Vienna, Lena Hartwell lives as 'Anna Weiss,' auditing legitimate accounts for a boutique firm and waking at 3 a.m. to check the locks. A routine client file contains a transaction pattern she recognizes—one she designed years ago, before the incident. Emotional beat: the fragile calm of a rebuilt life cracking at its first seam."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "POV: Lena. Her firm's secure portal rejects her login, then accepts an old voice sample she never uploaded—a voiceprint from her former life unlocking a Singapore server. Inside: fragments of a ledger naming her current employer. She calls no one. Emotional beat: dread sharpening into purpose; invisibility revealed as an illusion someone else permitted."
+    },
+    {
+      "n": 3,
+      "title": "The Man Who Knew Her Voice",
+      "summary": "POV: alternating Lena / Marek. In Singapore, defector Marek Voss watches his trap spring and sends a single message: 'You're already compromised.' Flashbacks reveal he built the voiceprint lock using recordings from the syndicate's old ops room. Emotional beat: two strangers bound by shared guilt, each betting their life on the other's conscience."
+    },
+    {
+      "n": 4,
+      "title": "Clean Money",
+      "summary": "POV: Lena. Lena traces the flagged transactions through her own firm and finds her boss, Reiner, signing off on flows that route toward a Frankfurt position worth billions—settling at Thursday's open. When she probes too closely, Reiner offers her a promotion and a warning in the same breath. Emotional beat: the sick recognition that survival was purchased with complicity."
+    },
+    {
+      "n": 5,
+      "title": "Dead Woman Walking",
+      "summary": "POV: Marek. Marek's handler in the syndicate contacts him with warm congratulations on his defection—and a flight itinerary he never booked. He realizes he wasn't released; he was deployed. He burns his safehouse and heads for the rendezvous point anyway. Emotional beat: the cold clarity of a man who understands he is expendable and goes regardless."
+    },
+    {
+      "n": 6,
+      "title": "Rendezvous at the Prater",
+      "summary": "POV: Lena. Lena meets Marek among the Ferris wheel crowds; he hands her a hardware key holding the raw ledger only her biometrics can finalize. Syndicate watchers close in, and the extraction becomes a running chase through Vienna's transit tunnels. Emotional beat: adrenaline-fused trust—the first time since the incident she acts instead of hides."
+    },
+    {
+      "n": 7,
+      "title": "What the Ledger Costs",
+      "summary": "POV: alternating. Hiding in a Bratislava safehouse, Marek confesses he lured her deliberately: the ledger needs her authentication, and he needed her need for redemption. Lena rages, then decrypts the final layer and finds her own dead alias listed as the account's original architect. Emotional beat: betrayal transmuting into terrible self-knowledge—the price of survival was always paid by someone else."
+    },
+    {
+      "n": 8,
+      "title": "Frankfurt, Before the Bell",
+      "summary": "POV: Lena. With hours until market open, the syndicate offers Lena full restoration of her old identity in exchange for the key. Reiner reveals the 'incident' that broke her sleep was orchestrated by the same hands now courting her. Emotional beat: temptation laid bare and refused; she stops negotiating with the people who broke her."
+    },
+    {
+      "n": 9,
+      "title": "Opening Bell",
+      "summary": "POV: alternating. At the exchange, Marek creates a diversion while Lena authenticates and broadcasts the ledger to regulators and press simultaneously. The syndicate's positions collapse mid-trade; Reiner is taken on the floor. A sniper's shot misses as Marek shields her. Emotional beat: climax—exposure chosen over erasure, the bell ringing like a verdict."
+    },
+    {
+      "n": 10,
+      "title": "Sleep",
+      "summary": "POV: Lena. Weeks later, testifying under her real name, Lena is unrecognizable in the best way—visible, accountable, exhausted but whole. She visits Marek recovering in a witness facility and closes her old case file for good. That night, she sleeps until morning. Emotional beat: resolution—the price of survival refunded by truth, identity reclaimed rather than escaped."
+    }
+  ]
+}

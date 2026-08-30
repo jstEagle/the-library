@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06769",
+  "title": "August and the Bakery",
+  "author": "Felix Pemberton",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Astrid Dunmore, a lighthouse keeper's granddaughter and part-time novelist, has spent ten years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and he is pulled straight into the middle of it. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6769
+  }
+}

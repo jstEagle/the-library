@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02612",
+  "title": "A Uniform for the Typewriter",
+  "author": "Ivo Vane",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Theo Blackwood, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2612
+  }
+}

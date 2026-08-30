@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06404",
+  "title": "Mara and the Vow",
+  "author": "Wren Thornbury",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sebastian Halloran, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6404
+  }
+}

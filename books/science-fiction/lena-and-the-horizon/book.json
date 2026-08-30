@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07665",
+  "title": "Lena and the Horizon",
+  "author": "Quentin Delacroix",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.6,
+  "blurb": "Quentin Vane, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. To get through this, they must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7665
+  }
+}

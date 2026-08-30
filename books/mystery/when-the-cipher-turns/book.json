@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05095",
+  "title": "When the Cipher Turns",
+  "author": "Ivo Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Gideon Dravenmoor, an insurance investigator with a photographic memory, has quietly solved three deaths the police called accidents. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. To get through this, he must close the one case everyone swore was closed for good before the tide gives up what it took.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5095
+  }
+}

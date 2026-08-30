@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09540",
+  "title": "A Prom for the Recipe",
+  "author": "V. M. Blackwood",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Ines Zhou, the eldest sibling raising the younger ones while mom works nights, stays under the radar: head down, grades up, locker shut. Then a best friend goes missing, leaving only a set of keys behind — and they are pulled straight into the middle of it. To get through this, they must win the championship that doesn't matter — and the one that does before the last game of the season.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9540
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05015",
+  "title": "The Quiet Autopsy",
+  "author": "Elodie Nystrom",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Sebastian Eriksen, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5015
+  }
+}

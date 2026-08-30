@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03618",
+  "title": "A Cellar for the Harvest",
+  "author": "A. M. Eriksen",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Yara Voss, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. Then every mirror in the house starts reflecting the room one second late — and he is pulled straight into the middle of it. To get through this, he must return what was taken in 1974 before the well refills.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3618
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04035",
+  "title": "Kestrel and the Visitor",
+  "author": "Juniper Vasquez",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Silas Eriksen, a twin who came home to bury the wrong sibling, keeps the lights on and the doors counted. But when all the photographs from grandma's house now include an extra chair, she discovers that staying invisible was never really an option. To get through this, she must get the family out ahead of the count before the harvest moon rises.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4035
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06998",
+  "title": "Petra and the Bakery",
+  "author": "Orsen Nystrom",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Rafael Marchetti, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6998
+  }
+}

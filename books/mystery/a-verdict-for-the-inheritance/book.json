@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05111",
+  "title": "A Verdict for the Inheritance",
+  "author": "Jude Brightwater",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Edmund Blackwood, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. But when the town's beloved founder is exhumed and the coffin is empty, he discovers that staying invisible was never really an option. To get through this, he must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5111
+  }
+}

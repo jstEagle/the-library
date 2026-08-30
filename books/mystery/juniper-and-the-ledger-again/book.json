@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05909",
+  "title": "Juniper and the Ledger Again",
+  "author": "Sebastian Eastwick",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Rosalind Montrose, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5909
+  }
+}

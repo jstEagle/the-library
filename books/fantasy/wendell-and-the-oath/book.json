@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01951",
+  "title": "Wendell and the Oath",
+  "author": "Theo Almeida",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Beatrix Ashgrove, a royal food-taster building immunity one dish at a time, has never left the valley where magic cannot follow. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1951
+  }
+}

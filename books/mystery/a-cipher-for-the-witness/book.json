@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05125",
+  "title": "A Cipher for the Witness",
+  "author": "August Ashgrove",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Kestrel Coldharbour, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. Then a body turns up dressed in clothes stolen from the witness's own closet — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5125
+  }
+}

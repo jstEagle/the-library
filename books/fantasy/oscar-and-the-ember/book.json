@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01717",
+  "title": "Oscar and the Ember",
+  "author": "Ivo Nakamura",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Silas Nakamura, the last oath-bound swordspeaker, has spent seven years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1717
+  }
+}

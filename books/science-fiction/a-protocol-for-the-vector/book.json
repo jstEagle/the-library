@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07297",
+  "title": "A Protocol for the Vector",
+  "author": "Beatrix Pemberton",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Marguerite Dravenmoor, the caretaker of Earth's abandoned seed vault, has spent fifteen years hauling cargo through contested orbits. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7297
+  }
+}

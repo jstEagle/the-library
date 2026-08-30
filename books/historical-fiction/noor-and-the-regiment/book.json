@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03058",
+  "title": "Noor and the Regiment",
+  "author": "Lior Eriksen",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Wendell Yarrow, a mapmaker's apprentice finishing the atlas the master died for, has spent twelve years learning which silences keep people safe. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. To get through this, they must finish the work while the workshop still stands before the century turns.",
+  "themes": [
+    "belonging",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3058
+  }
+}

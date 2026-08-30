@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09907",
+  "title": "The Broken Prom",
+  "author": "Ada Yarrow",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Tamsin Thornbury, the only out kid in a town of nine hundred, counts days until graduation like a sentence being served. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and he is pulled straight into the middle of it. To get through this, he must expose what the school board buried before the final audition.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9907
+  }
+}

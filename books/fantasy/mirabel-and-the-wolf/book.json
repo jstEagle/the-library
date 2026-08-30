@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01818",
+  "title": "Mirabel and the Wolf",
+  "author": "Elodie Voss",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Lior Blackwood, a debt-bound temple scribe, has spent ten years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1818
+  }
+}

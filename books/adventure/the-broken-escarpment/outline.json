@@ -1,0 +1,59 @@
+{
+  "title": "The Broken Escarpment",
+  "slug": "adventure/the-broken-escarpment",
+  "model": "stealth/ox-alpha",
+  "premise": "Ivo Dravenmoor has spent seven years running survey crews along decommissioned mountain rail lines, hiding the fact that she falsified the inspection report that doomed a bridge—and killed eleven men, including her brother. When her old rival, surveyor Casimir Voss, tracks her down with a contract from the mining consortium that once employed her, she learns the consortium knows what she did and will expose her unless she leads an expedition up the Serran River to map a route through the escarpment her own report condemned as unbuildable. As the crew pushes upstream through collapsing tunnels and hostile territory, Ivo falls for the expedition's doctor, Ansel, who sees through her armor, and discovers Voss's real goal: not a rail line, but proof that the bridge disaster was orchestrated to seize the valley. In the climax, Ivo chooses confession over survival, testifying before a tribunal and sacrificing her career to convict the consortium, then walks the rebuilt escarpment line with Ansel—no longer running.",
+  "about_author": "Jude Whitlock is the pen name of a former field surveyor who spent a decade mapping rail corridors across remote mountain ranges before turning to fiction. Their novels are known for granular technical detail and protagonists who carry their guilt like ballast.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Map of Closed Lines",
+      "summary": "Ivo's POV. She finishes a survey on a dead branch line and burns her notes, establishing her ritual of leaving no trace. A telegram arrives offering a contract she can't refuse. Emotional beat: the exhaustion of permanent motion, and the first crack in her invisibility."
+    },
+    {
+      "n": 2,
+      "title": "The Man Who Kept Receipts",
+      "summary": "Ivo's POV. Casimir Voss corners her in a rail-yard hotel, revealing he knows about the falsified bridge report and holds letters proving it. The contract: lead an expedition up the Serran River within the month. Emotional beat: dread and the realization that running has a final price."
+    },
+    {
+      "n": 3,
+      "title": "Hiring the Damned",
+      "summary": "Ivo's POV. She assembles a crew of outcasts: a disgraced blaster, a river pilot with a grudge, and Ansel, a doctor who asks too many kind questions. First friction with Voss over route and command. Emotional beat: wary loyalty forming among people with nothing to lose."
+    },
+    {
+      "n": 4,
+      "title": "Upstream",
+      "summary": "Ansel's POV. The expedition enters the gorge by flatboat. Ansel observes Ivo's sleeplessness and self-denial, and patches her hand after a winch accident. Emotional beat: tenderness offered without conditions, which frightens Ivo more than Voss does."
+    },
+    {
+      "n": 5,
+      "title": "The Tunnel at Kestrel Bend",
+      "summary": "Ivo's POV. The crew blasts through a collapsed tunnel Ivo's old company sealed after the disaster; inside she finds her brother's survey stake, still standing. She hides it from Voss. Emotional beat: grief resurfacing as physical, almost unbearable pressure."
+    },
+    {
+      "n": 6,
+      "title": "What the River Remembers",
+      "summary": "Ansel's POV. A flash flood strands half the crew; the blaster dies saving the boats. Ansel confronts Ivo about the risk Voss is accepting, and Ivo deflects with the first lie Ansel catches. Emotional beat: the cost of survival measured in other people's bodies."
+    },
+    {
+      "n": 7,
+      "title": "The Forbidden Source",
+      "summary": "Ivo's POV. They reach the river's source and the abandoned works above it. Voss's true objective emerges: engineering records proving the consortium sabotaged the bridge to condemn the valley and seize it cheaply. Emotional beat: the vertigo of learning her guilt was engineered."
+    },
+    {
+      "n": 8,
+      "title": "Voss's Bargain",
+      "summary": "Ivo's POV. Voss offers to destroy her file if she helps him sell the evidence back to the consortium—or bury it. Ansel overhears and demands the truth; Ivo finally confesses the falsified report. Emotional beat: love against duty, with duty losing for the first time."
+    },
+    {
+      "n": 9,
+      "title": "The Descent",
+      "summary": "Ivo's POV, intercut with Ansel's. Voss tries to take the evidence and leave the crew stranded; the pilot and Ansel turn the tables, but Voss falls at the Kestrel Bend tunnel. Ivo keeps the records intact anyway. Emotional beat: the climax—choosing truth over every exit offered."
+    },
+    {
+      "n": 10,
+      "title": "The Rebuilt Line",
+      "summary": "Ivo's POV. Months later, Ivo testifies before the tribunal, surrendering her license and her name to the record. The consortium falls; the valley's families are compensated. She and Ansel walk the first rebuilt span across the escarpment. Emotional beat: the price of survival paid in full, and peace finally stationary."
+    }
+  ]
+}

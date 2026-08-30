@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04495",
+  "title": "The Silence of Anderlecht",
+  "author": "Mara Joubert",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Edmund Reyes, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. Now they must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4495
+  }
+}

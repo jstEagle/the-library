@@ -1,0 +1,16 @@
+# A Letter for the Uniform
+
+**by Noor Thornbury**
+
+> Casper Yarrow, a typeface cutter's daughter in a print shop on the eve of a revolution, has spent ten years learning which silences keep people safe. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.
+
+---
+Rating: **** 4.3/5  |  Genre: Historical Fiction  |  Length: 22 chapters
+
+---
+
+## About the author
+
+Noor Thornbury is the pen name of a former archivist who spent a decade cataloguing suppressed newspapers from collapsed regimes. She writes historical fiction about the people who move type, not armies.
+
+*Generated with AI as part of The Library.*

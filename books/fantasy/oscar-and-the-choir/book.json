@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02021",
+  "title": "Oscar and the Choir",
+  "author": "Juniper Crane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Ada Eastwick, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. To get through this, he must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2021
+  }
+}

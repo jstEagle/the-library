@@ -1,0 +1,29 @@
+{
+  "title": "The Border of Kowloon",
+  "slug": "thriller/the-border-of-kowloon",
+  "model": "stealth/ox-alpha",
+  "premise": "Jonah Nystrom, a crash investigator haunted by the unexplained death of their family in row twelve, has spent seven years buried in bureaucratic routine—until a voiceprint match unlocks a server in Singapore containing the training data of the network that rewrote their memories. Pursued by handlers who were never really employers, Jonah races across two continents to expose and destroy the extraction program before a dawn flight carries the last witnesses out of reach. In the end, Jonah burns the network's core archive at the cost of their own fabricated past, choosing an uncertain truth over a comfortable lie—and finally belongs to no one but themselves.",
+  "about_author": "Coral Quintana is a former aviation safety analyst who left the industry after a decade of reading black-box transcripts. She writes thrillers about people trapped inside systems that remember too much.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "POV: Jonah Nystrom. Seven years after the crash, Jonah works a routine investigation in Rotterdam when an automated voiceprint scan flags their own voice against a sealed server in Singapore. Opening it reveals flight manifests that contradict every official record—including row twelve, which was never supposed to exist. The emotional beat is dread: the rules Jonah trusted were written by someone hiding the truth."
+    },
+    {
+      "n": 2,
+      "title": "The Rewritten",
+      "summary": "POV: alternating Jonah and handler Mara Voss. Jonah flees to Singapore following the server trail while Mara, ordered to contain the breach, realizes her own memories have gaps matching Jonah's. They collide in a Kowloon data hostel where survivors of the memory-extraction program are hiding. The emotional beat is uneasy alliance: enemies discovering they were trained by the same hand."
+    },
+    {
+      "n": 3,
+      "title": "Extraction Flight",
+      "summary": "POV: Jonah. With dawn approaching, Jonah infiltrates the network's archive vault beneath the old airport to physically destroy the training core, while Mara holds off the cleanup team buying minutes with lies she can no longer trust. The vault fight forces Jonah to choose between recovering their family's true final recording or destroying everything. The emotional beat is sacrifice at full sprint."
+    },
+    {
+      "n": 4,
+      "title": "What Belonged to No One",
+      "summary": "POV: Jonah, epilogue-tinged. The network burns; the extraction flight leaves empty. Jonah listens once to the recovered fragment of row twelve's last minute—not answers, but their family's voices saying goodbye—and lets the rest go. Meeting Mara on neutral ground, they agree to testify only to what they can prove. The emotional beat is quiet release: belonging finally means owning your own unfinished story."
+    }
+  ]
+}

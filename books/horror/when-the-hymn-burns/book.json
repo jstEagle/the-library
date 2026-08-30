@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03163",
+  "title": "When the Hymn Burns",
+  "author": "Noor Villalobos",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Dominic Blackwood, an urban explorer mapping tunnels that aren't on any survey, has spent five years telling themselves the noises have explanations. But when the childhood imaginary friend is waiting on the porch, unchanged, they discover that staying invisible was never really an option. To get through this, they must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3163
+  }
+}

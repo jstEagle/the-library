@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07208",
+  "title": "Machine and Signal",
+  "author": "Ines Delacroix",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Juniper Crane, a pilot bonded to an AI that lies, has spent twelve years hauling cargo through contested orbits. Then gravity flickers across the entire system for exactly nine seconds — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7208
+  }
+}

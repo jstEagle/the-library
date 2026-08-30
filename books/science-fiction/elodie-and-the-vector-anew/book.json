@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08314",
+  "title": "Elodie and the Vector Anew",
+  "author": "Astrid Sterling",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ada Thornbury, a decommissioned war android paying off its debts, has spent fifteen years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. To get through this, she must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "memory",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8314
+  }
+}

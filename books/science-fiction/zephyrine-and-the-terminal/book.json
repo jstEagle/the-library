@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07538",
+  "title": "Zephyrine and the Terminal",
+  "author": "Elodie Ishikawa",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Ivo Ashgrove, the caretaker of Earth's abandoned seed vault, has spent ten years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. To get through this, he must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "belonging",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7538
+  }
+}

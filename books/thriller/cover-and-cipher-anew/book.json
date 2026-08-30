@@ -1,0 +1,21 @@
+{
+  "id": "THR-09442",
+  "title": "Cover and Cipher Anew",
+  "author": "Orsen Eriksen",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Rosalind Thackeray, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9442
+  }
+}

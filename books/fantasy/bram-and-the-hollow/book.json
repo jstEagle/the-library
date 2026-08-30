@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01740",
+  "title": "Bram and the Hollow",
+  "author": "Oscar Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mara Lockridge, a thief who steals memories, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. To get through this, they must steal back a soul sold to the court beneath the mountain before the moon completes its thirteenth turn.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1740
+  }
+}

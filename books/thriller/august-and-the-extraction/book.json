@@ -1,0 +1,21 @@
+{
+  "id": "THR-09405",
+  "title": "August and the Extraction",
+  "author": "Lior Joubert",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Yara Nakamura, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9405
+  }
+}

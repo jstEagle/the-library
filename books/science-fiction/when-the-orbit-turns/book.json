@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07459",
+  "title": "When the Orbit Turns",
+  "author": "Ivo Montrose",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Mara Nystrom, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7459
+  }
+}

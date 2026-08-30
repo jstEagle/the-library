@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05948",
+  "title": "A Alibi for the Cipher Again",
+  "author": "Jude Halloran",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Juniper Eriksen, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "identity",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5948
+  }
+}

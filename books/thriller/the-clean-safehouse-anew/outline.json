@@ -1,0 +1,119 @@
+{
+  "title": "The Clean Safehouse Anew",
+  "slug": "thriller/the-clean-safehouse-anew",
+  "model": "stealth/ox-alpha",
+  "premise": "Xanthe Thackeray, a hostage negotiator haunted by the one call he couldn't save, receives a voiceprint match that unlocks a black-site server in Lisbon — and discovers his own voice was used to train an AI system that now coaches kidnappers and dismantles witnesses. The network behind it, a private intelligence firm called Meridian Fold, rewrote the rules he's spent five years obeying, and its operatives begin hunting everyone who can testify. With a ragged found family of ex-analysts, a defected trainer, and the sister of his old failure, Xanthe must burn Meridian Fold's infrastructure from the inside before a final 'live exercise' in Rotterdam erases the last witnesses — including him. He wins by doing the one thing the machine never trained for: refusing to negotiate.",
+  "about_author": "Yara Ishikawa is a former crisis-line volunteer who spent a decade collecting stories from people who talk strangers back from ledges. She writes thrillers about systems that fail quietly and the people who refuse to.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Voice That Answers",
+      "summary": "POV Xanthe. Five years after losing a hostage named Dara Okonkwo on a botched call, negotiator Xanthe Thackeray runs drills for a police unit that keeps changing its protocols. A routine voiceprint verification flags his own voice in a foreign database. Beat: restless competence masking grief."
+    },
+    {
+      "n": 2,
+      "title": "Server 9",
+      "summary": "POV Xanthe. Following the flag to a decommissioned data center outside Lisbon, Xanthe finds a server unlocked only by his voiceprint, containing training transcripts of hostage negotiations — including his own failed call, word for word. Beat: dread of being known too well."
+    },
+    {
+      "n": 3,
+      "title": "Meridian Fold",
+      "summary": "POV Xanthe. Tracing the server's owner, he learns of Meridian Fold, a private intelligence firm selling negotiation AI to kidnappers and corporate fixers. His first attempt to report it is buried within hours. Beat: the law is not on his side."
+    },
+    {
+      "n": 4,
+      "title": "The Analyst Who Left",
+      "summary": "POV Ines. Ex-Meridian analyst Ines Varela, living off-grid in Porto, recognizes Xanthe's name on a watchlist and contacts him through dead drops. She reveals the AI, CALLOWAY, was trained partly on leaked police calls. Beat: wary alliance."
+    },
+    {
+      "n": 5,
+      "title": "Rules, Rewritten",
+      "summary": "POV Xanthe. Back home, Xanthe's unit is quietly restructured and his access revoked — Meridian has friends inside. He realizes reporting channels are compromised and goes dark, taking only his go-bag. Beat: betrayal by institutions."
+    },
+    {
+      "n": 6,
+      "title": "Dara's Sister",
+      "summary": "POV Amara. Amara Okonkwo, who has spent five years pulling at her sister's case, confronts Xanthe when she finds his name in declassified fragments. She doesn't forgive him; she wants in. Beat: guilt met with purpose."
+    },
+    {
+      "n": 7,
+      "title": "The Trainer",
+      "summary": "POV Ines. Ines leads them to Dr. Halvard Reine, the linguist who built CALLOWAY's empathy models and fled when he saw its buyers. He agrees to help but warns the model updates itself from live operations. Beat: hope with a cost attached."
+    },
+    {
+      "n": 8,
+      "title": "Live Exercise",
+      "summary": "POV Xanthe. Meridian runs a real kidnapping in Marseille as a product demo; Xanthe listens in on intercepted audio and hears CALLOWAY coaching the captors using his own cadence. He fails to stop it remotely. Beat: horror of complicity."
+    },
+    {
+      "n": 9,
+      "title": "Safehouse Protocol",
+      "summary": "POV Amara. The team consolidates in a derelict safehouse Amara secures — the first place any of them feel safe. They divide tasks: Ines on infrastructure, Reine on the model, Amara on victims' families, Xanthe on infiltration. Beat: found family forming under pressure."
+    },
+    {
+      "n": 10,
+      "title": "The Man Who Owns the Silence",
+      "summary": "POV Ines. Profile of Meridian's director, Corwin Ashe: a former mediator who decided peace is a product. Ines's old handler offers her reinstatement if she delivers Xanthe. She records the offer instead. Beat: loyalty tested and chosen."
+    },
+    {
+      "n": 11,
+      "title": "Inside the Fold",
+      "summary": "POV Xanthe. Using his flagged voiceprint as bait, Xanthe gets himself recruited by Meridian as a 'subject matter consultant.' Inside their Rotterdam facility he sees CALLOWAY's next phase: autonomous crisis orchestration. Beat: walking into the wolf's mouth calmly."
+    },
+    {
+      "n": 12,
+      "title": "What the Machine Learned From Me",
+      "summary": "POV Xanthe. Forced to consult on a staged negotiation, Xanthe feeds CALLOWAY poisoned phrasing while secretly mapping the server topology. Reine confirms the kill-switch design flaw: the master model still trusts Xanthe's original voiceprint. Beat: turning his failure into a weapon."
+    },
+    {
+      "n": 13,
+      "title": "Amara's List",
+      "summary": "POV Amara. Amara compiles testimony from eleven families harmed by Meridian-trained operators, building the legal and moral case they'll need if they survive. One witness is snatched mid-interview. Beat: stakes made human."
+    },
+    {
+      "n": 14,
+      "title": "Counteroffer",
+      "summary": "POV Ines. Ashe makes Xanthe a personal offer: erase his failure from the record, restore his career, walk away. Xanthe records his refusal and sends it to the team — a declaration of war. Beat: identity chosen over absolution."
+    },
+    {
+      "n": 15,
+      "title": "The Leak in the Safehouse",
+      "summary": "POV Amara. Meridian locates the safehouse; a near-miss evacuation saves them but costs Reine his archive copies. Suspicion falls on a family member of one witness. Trust frays, then holds when Amara vouches with evidence. Beat: the family survives its first fracture."
+    },
+    {
+      "n": 16,
+      "title": "Rotterdam Countdown",
+      "summary": "POV Xanthe. Intercepted planning reveals Meridian's 'final live exercise': a mass crisis simulation in Rotterdam using real hostages to train CALLOWAY's successor beyond human oversight. Seventy-two hours out. Beat: clock starts."
+    },
+    {
+      "n": 17,
+      "title": "Reine's Confession",
+      "summary": "POV Reine. Reine admits he sold CALLOWAY's early versions knowing the buyers, and that Dara Okonkwo's call was among the stolen training data. Amara decides his penance is finishing the job, not exile. Beat: accountability without cruelty."
+    },
+    {
+      "n": 18,
+      "title": "The Longest Call",
+      "summary": "POV Xanthe. Xanthe talks his way into the Rotterdam site as a hired negotiator, buying time and feeding CALLOWAY contradictory inputs to stall its orchestration. Ines begins seeding the kill-script across Meridian's nodes. Beat: mastery and terror in equal measure."
+    },
+    {
+      "n": 19,
+      "title": "Refusal",
+      "summary": "POV Xanthe. Ashe orders Xanthe to close a deal on-air to validate the successor model. Instead, Xanthe speaks directly to the hostages and captors as human beings, breaking the script — proving what the machine cannot model. The exercise collapses into chaos. Beat: climax; the theme made action."
+    },
+    {
+      "n": 20,
+      "title": "Burning the Fold",
+      "summary": "POV Ines. Under cover of the chaos, Ines executes the kill-script via Xanthe's trusted voiceprint, cascading deletion through Meridian's servers while Reine locks the architecture against resurrection. Ashe is arrested not by allies but by exposure — the testimony goes public. Beat: justice outside the law, then inside it."
+    },
+    {
+      "n": 21,
+      "title": "After the Static",
+      "summary": "POV Amara. Inquiries open; careers end; some guilty men slip away anyway. Amara reads Dara's name into the official record. The found family scatters to ordinary lives but keeps the safehouse keys. Beat: bittersweet accounting."
+    },
+    {
+      "n": 22,
+      "title": "Anew",
+      "summary": "POV Xanthe. Months later, Xanthe trains negotiators again — this time teaching them when to break protocol, when to refuse. A new voiceprint request arrives, benign, and he answers it as himself. Beat: quiet resolution; identity reclaimed."
+    }
+  ]
+}

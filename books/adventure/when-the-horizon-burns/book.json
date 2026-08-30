@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00165",
+  "title": "When the Horizon Burns",
+  "author": "Ines Lockridge",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Ansel Sandoval, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. But when an old rival hires the crew for the one job that was sworn off long ago, he discovers that staying invisible was never really an option. Now he must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 165
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00855",
+  "title": "The Hollow of the Glass Steppe",
+  "author": "Ansel Thornbury",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Jonah Blackwood, a hedge-witch's runaway apprentice, has spent twelve years selling small charms in a city that outlawed magic. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 855
+  }
+}

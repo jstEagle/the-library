@@ -1,0 +1,21 @@
+{
+  "id": "THR-09260",
+  "title": "Quentin and the Border",
+  "author": "Hazel Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jonah Dunmore, a crash investigator whose family died in row twelve, has spent twelve years following rules that keep getting rewritten. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. To get through this, she must burn the network that did the training before the markets open in Frankfurt.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9260
+  }
+}

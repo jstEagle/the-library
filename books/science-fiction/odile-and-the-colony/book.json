@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07549",
+  "title": "Odile and the Colony",
+  "author": "Cyrus Whitlock",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Beatrix Vane, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7549
+  }
+}

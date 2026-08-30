@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05869",
+  "title": "Sable and the Alibi",
+  "author": "Jude Zhou",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Tamsin Ravensworth, a retired detective running a failing bookshop, prides themselves on never taking a case they can't close. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5869
+  }
+}

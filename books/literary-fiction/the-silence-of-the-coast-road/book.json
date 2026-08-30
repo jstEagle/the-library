@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04078",
+  "title": "The Silence of the coast road",
+  "author": "A. M. Marchetti",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Freya Lockridge, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4078
+  }
+}

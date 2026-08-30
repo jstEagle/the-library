@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06220",
+  "title": "A Bakery for the Vow",
+  "author": "Isandro Ishikawa",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Zephyrine Blackwood, a cellist recovering from one catastrophic final performance, has spent ten years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. To get through this, she must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6220
+  }
+}

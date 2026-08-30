@@ -1,0 +1,21 @@
+{
+  "id": "THR-08638",
+  "title": "The Cover of the DMZ",
+  "author": "Freya Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Silas Kavanagh, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. Now they must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8638
+  }
+}

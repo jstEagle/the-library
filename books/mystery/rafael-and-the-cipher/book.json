@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05908",
+  "title": "Rafael and the Cipher",
+  "author": "Mara Okafor",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.9,
+  "blurb": "Gideon Villalobos, an insurance investigator with a photographic memory, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "memory",
+    "identity",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5908
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04493",
+  "title": "The Late Language",
+  "author": "Wren Iversen",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Mirabel Pemberton, an heir cataloging a parent's silence after the funeral, has spent twenty years practicing the art of almost saying it. But when a childhood home goes up for auction, she discovers that staying invisible was never really an option. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4493
+  }
+}

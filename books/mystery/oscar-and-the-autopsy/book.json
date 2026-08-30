@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05318",
+  "title": "Oscar and the Autopsy",
+  "author": "I. M. Whitlock",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Orsen Okonkwo, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5318
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06064",
+  "title": "The Second Garden",
+  "author": "U. M. Oyelaran",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Mara Villalobos, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6064
+  }
+}

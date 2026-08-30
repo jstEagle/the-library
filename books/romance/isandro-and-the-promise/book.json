@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06957",
+  "title": "Isandro and the Promise",
+  "author": "Juniper Amberdale",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Oscar Kavanagh, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and she is pulled straight into the middle of it. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6957
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05398",
+  "title": "A Portrait for the Confession",
+  "author": "Ulyana Yarrow",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Oscar Reyes, a retired detective running a failing bookshop, has spent fifteen years keeping the town's secrets filed and alphabetized. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. To get through this, they must close the one case everyone swore was closed for good before the tide gives up what it took.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5398
+  }
+}

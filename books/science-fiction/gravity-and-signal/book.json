@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07830",
+  "title": "Gravity and Signal",
+  "author": "Beatrix Dunmore",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Emrys Okafor, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. To get through this, he must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "identity",
+    "belonging",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7830
+  }
+}

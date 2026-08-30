@@ -1,0 +1,21 @@
+{
+  "id": "THR-09015",
+  "title": "Astrid and the Asset",
+  "author": "August Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ines Okafor, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "belonging",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9015
+  }
+}

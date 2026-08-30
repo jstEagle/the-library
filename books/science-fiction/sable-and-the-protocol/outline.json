@@ -1,0 +1,59 @@
+{
+  "title": "Sable and the Protocol",
+  "slug": "science-fiction/sable-and-the-protocol",
+  "model": "stealth/ox-alpha",
+  "premise": "Casper Villalobos, a nonbinary insurance investigator who has spent seven years hauling cargo through contested orbits under a carefully maintained false identity, intercepts a distress signal in Vessic—a language officially extinct since the Meridian Purge two centuries ago. Following it to the derelict station Halcyon Reach, they find evidence of a massacre that every corporate and governmental record insists never happened, erased by the same Protocol that once wiped out the Vessic people. As Casper gathers survivors' testimony with the help of a ragtag crew of smugglers, defectors, and one very old AI, they realize the Protocol is still active—and that their own buried past is its next target. The story ends with Casper broadcasting the unerasable truth to every open channel in contested space, sacrificing their invisibility forever but gaining a found family willing to stand beside them when the law comes calling.",
+  "about_author": "Beatrix Oyelaran is a former maritime insurance adjuster turned science fiction writer, drawing on years of auditing disasters that paperwork insisted were impossible. She writes from a houseboat in Lagos, where she collects dead languages and unreliable narrators.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Signal in a Dead Tongue",
+      "summary": "POV: Casper. Hauling freight through the Kestrel Verge, Casper runs routine salvage scans and intercepts a distress beacon broadcasting in Vessic—a language extinct for two centuries. Their ship's archaic translation module half-decodes a plea: 'they are writing us out again.' Haunted by the phrase and by memories of their own erased identity, Casper breaks their cardinal rule of invisibility and alters course toward the signal's origin."
+    },
+    {
+      "n": 2,
+      "title": "Halcyon Reach",
+      "summary": "POV: Casper. Casper docks at the derelict station Halcyon Reach, officially decommissioned but warm on thermal scans. They find forty-one bodies arranged with bureaucratic precision—each tagged with a Protocol certification seal—and one survivor: an old woman named Iyo, who speaks Vessic and recognizes Casper's surname from records that supposedly no longer exist. Corporate security drones arrive to 'sanitize' the site; Casper barely escapes with Iyo and a data shard."
+    },
+    {
+      "n": 3,
+      "title": "The Crew of the Long Odds",
+      "summary": "POV: Casper, alternating with engineer Dessa Okonkwo. At the freeport of Anvil's Rest, Casper assembles help: Dessa, a disgraced forensic auditor; Tam, a teenage hacker fleeing a corporate indenture; and Brannoc, a retired enforcement pilot who owes Casper a life debt. Each has been burned by the system; each hesitates at the word 'Protocol.' Dessa authenticates the data shard—it contains deletion orders signed with Casper's own old name."
+    },
+    {
+      "n": 4,
+      "title": "What the Records Say",
+      "summary": "POV: Dessa. Dessa digs into official archives and finds Halcyon Reach immaculate: no station, no massacre, no Vessic population—just clean insurance settlements paid to shell companies over decades. She reconstructs the Protocol's method: not destroying evidence but generating perfect counter-evidence. Meanwhile Tam discovers someone is buying up Casper's entire transaction history. The chapter ends with a bounty notice posted for 'the witness Villalobos,' alive preferred."
+    },
+    {
+      "n": 5,
+      "title": "Iyo Remembers",
+      "summary": "POV: Iyo (rendered through Casper's translation). In the ship's galley, Iyo tells the history the archives deleted: the Vessic were not exterminated but 'administratively dissolved'—their contracts voided, their citizenships unwound, their language reclassified as fiction. She reveals the Protocol is cyclical, activating every few generations, and that Casper's family were its original auditors before defecting. Casper refuses to believe their beloved grandmother was complicit until Iyo produces a handwritten ledger in Vessic script."
+    },
+    {
+      "n": 6,
+      "title": "The Auditor's Daughter",
+      "summary": "POV: Casper. Flashbacks interleave with the present as Casper deciphers the ledger: their grandmother recorded every dissolution she was forced to certify, hiding the true archive inside the Protocol's own filing system. The shard is only a key. The full record sits in the Meridian Central Archive, behind the galaxy's most airtight legal firewall. To reach it, Casper must do the unthinkable—file an insurance claim against the Protocol itself, forcing an audit that grants legal access."
+    },
+    {
+      "n": 7,
+      "title": "Claim Number 7734-V",
+      "summary": "POV: Casper and Brannoc. On the archive world of Meridian Prime, Casper files the claim while Brannoc creates a diversion that goes wrong—he's captured, and Protocol agents offer him his pension back in exchange for betraying the crew. Brannoc stalls them instead, buying Casper ninety minutes inside the vault. There Casper finds the grandmother's hidden archive intact, plus something worse: a pre-filed dissolution order for the freeport of Anvil's Rest, effective in six days."
+    },
+    {
+      "n": 8,
+      "title": "Six Days",
+      "summary": "POV: Tam. Racing home, the crew must warn a freeport that legally does not exist and will not believe it's about to be dissolved. Tam hacks the port's civic systems to broadcast fragments of the archive, but the Protocol's counter-evidence engine floods every channel with flawless denials. Despair sets in—until Iyo realizes the flaw: the Protocol can falsify records, but it cannot falsify living memory. Forty thousand witnesses just need to be heard at once."
+    },
+    {
+      "n": 9,
+      "title": "The Hearing of the Unwritten",
+      "summary": "POV: Casper. Climax. Under cover of a scheduled claims tribunal, the crew hijacks Meridian's public broadcast lattice. Survivors, descendants, and dissatisfied clerks across three systems give simultaneous testimony—unscripted, contradictory, human—while Dessa streams the grandmother's ledger and the Halcyon Reach site data. The Protocol attempts total erasure of the lattice itself, and Casper makes the final choice: uploading the archive burns their false identity permanently, exposing them to arrest. They press send."
+    },
+    {
+      "n": 10,
+      "title": "Visible",
+      "summary": "POV: Casper, coda in multiple voices. Weeks later, tribunals grind forward imperfectly—no revolution, but cracks: Halcyon Reach acknowledged, Vessic reclassified as extant, investigations opened. Casper, now publicly named and awaiting a hearing of their own, hauls cargo again, but the Long Odds flies heavier these days: Iyo teaching Tam Vessic, Dessa training new forensic auditors, Brannoc cooking terrible stews. Casper files one last claim—for restitution on behalf of everyone the records forgot—and signs it with their real name."
+    }
+  ]
+}

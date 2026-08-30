@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02980",
+  "title": "Regiment and Orchard",
+  "author": "Xanthe Iversen",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Gideon Yarrow, a widowed lighthouse keeper during the year of the great storms, has spent twenty years learning which silences keep people safe. Then the census taker asks one question too many — and they are pulled straight into the middle of it. Now they must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2980
+  }
+}

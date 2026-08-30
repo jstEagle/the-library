@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09913",
+  "title": "Detention and Playlist",
+  "author": "Mara Winterbourne",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Odile Eriksen, the only out kid in a town of nine hundred, counts days until graduation like a sentence being served. But when a best friend goes missing, leaving only a set of keys behind, he discovers that staying invisible was never really an option. To get through this, he must decide who to be when the labels come off before graduation.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9913
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "The Parish of Windrow House",
+  "slug": "mystery/the-parish-of-windrow-house",
+  "model": "stealth/ox-alpha",
+  "premise": "Lior Almeida, a night-shift taxi dispatcher who has spent years perfecting the art of being unnoticed, receives two letters about a cold-case death in the parish where they grew up: one confessing to the murder, one promising that more will follow. As Lior quietly cross-references the letters against dispatch logs and old case files, they realize the killer is someone embedded in the small circle of survivors who once sheltered each other through the parish's worst winter. The trap Lior sets at Windrow House forces a confession, but the ending reveals the confessor was dying anyway and killed to leave Lior an inheritance of truth: the found family that saved them was built on a sacrifice no one ever named.",
+  "about_author": "Wendell Reyes spent a decade answering phones for a late-night cab company before turning to fiction, and he still swears the radio static taught him everything he knows about human desperation. He writes mysteries from a rented room above a shuttered parish hall, where he claims the floorboards keep better secrets than any witness.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Two Envelopes, One Hand",
+      "summary": "Lior's POV. During a slow night shift, Lior opens twin letters: a confession to the 1998 death of Father Anselm at Windrow House, and a second note promising 'the rest of us, in time.' The handwriting matches nothing in Lior's memory, yet the confession quotes details only someone inside the old household would know. Emotional beat: dread wrapped in the comfort of routine, as Lior realizes invisibility has just been revoked."
+    },
+    {
+      "n": 2,
+      "title": "The Winter We Don't Name",
+      "summary": "Lior's POV, with flashbacks. Lior returns to the parish for a memorial service and surveys the surviving household: Marisol the cook, gruff Deacon Hale, fragile Aunt Vess, and charming Tobias. Each greets Lior warmly, each lies about something small. Flashbacks reveal the brutal winter when this found family took in orphans like Lior. Emotional beat: tenderness curdling as Lior starts keeping a private ledger of everyone's evasions."
+    },
+    {
+      "n": 3,
+      "title": "Dispatch Logs and Dead Ends",
+      "summary": "Lior's POV. Back on shift, Lior uses taxi records to reconstruct who traveled to Windrow House the week of the second letter's postmark, discovering a route pattern that shouldn't exist: pickups from a house long abandoned. A third letter arrives, addressed not to Lior but to 'whoever kept the books,' proving the writer knows Lior's childhood role as the household's record-keeper. Emotional beat: the hunter realizing they were recruited, not chosen."
+    },
+    {
+      "n": 4,
+      "title": "What Vess Remembers Wrong",
+      "summary": "Aunt Vess's POV. Vess, losing her memory, recalls the winter of Anselm's death in fragments that contradict the official story: there were five children at Windrow House that year, not four. She warns Lior never to ask Marisol about the well. Her confusion is genuine, which makes her fragments more terrifying than any lie. Emotional beat: grief for a protector whose mind is dissolving even as she guards its last secret."
+    },
+    {
+      "n": 5,
+      "title": "The Fourth Letter",
+      "summary": "Lior's POV. The killer's letters turn personal, recounting Lior's own near-death night in the snow and crediting an unnamed person with saving them. Lior confronts Tobias, who deflects with charm, then Deacon Hale, who breaks down without confessing. Cross-checking dates, Lior finds the letters' postmarks match nights when exactly one taxi was dispatched to the parish: their own company's car. Emotional beat: paranoia tightening into method."
+    },
+    {
+      "n": 6,
+      "title": "Marisol's Kitchen",
+      "summary": "Marisol's POV. Marisol knows someone is asking questions and prepares for it the way she prepared meals during the famine winter: precisely, generously, defensively. She nearly tells Lior the truth about the fifth child, a boy named Ivo who died in the well, then stops herself. The chapter reveals the household's survival pact: what happened to Ivo bought the rest of them their lives. Emotional beat: love expressed as silence."
+    },
+    {
+      "n": 7,
+      "title": "A Trap Built of Truths",
+      "summary": "Lior's POV. Realizing the killer is finishing something rather than starting it, Lior plants a false letter implying they've found proof implicating one specific survivor, then watches the dispatch board. The bait works: a taxi request comes from Windrow House itself, at an hour the house has been empty for years. Lior recognizes the voice on the confirmation call. Emotional beat: cold clarity, the dispatcher finally routing the right call."
+    },
+    {
+      "n": 8,
+      "title": "Night at Windrow House",
+      "summary": "Lior's POV, real-time. Lior waits alone in the darkened house. The killer arrives: Deacon Hale, who has spent twenty years paying penance for pulling Ivo from the well too late, and who began writing letters when his diagnosis gave him months to live. He confesses fully, including how the household agreed to bury the truth so the children could keep their new family. Emotional beat: horror and heartbreak fused; the monster is a mourner."
+    },
+    {
+      "n": 9,
+      "title": "The Inheritance",
+      "summary": "Lior's POV. Hale dies peacefully days later, leaving Lior his papers: Ivo's drawings, the household's true ledger, and a letter naming Lior keeper of the story. Lior must decide whether exposing the truth destroys the family that raised them or frees it. Confronting Marisol and Vess, Lior chooses a middle path: a private reckoning, a marked grave for Ivo, and shared grief instead of prosecution. Emotional beat: the weight of inheritance accepted."
+    },
+    {
+      "n": 10,
+      "title": "Whoever Kept the Books",
+      "summary": "Lior's POV, epilogue. A year later, Lior still works nights, but now hosts a standing supper at Windrow House where the surviving family gathers openly, telling the whole story to the next generation of strays they've taken in. On the anniversary of Ivo's death, Lior reads his drawings aloud by candlelight. A final letter arrives, unsigned, thanking 'whoever kept the books.' Emotional beat: survival's price paid forward, invisibility voluntarily set down."
+    }
+  ]
+}

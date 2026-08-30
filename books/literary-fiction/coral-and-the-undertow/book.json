@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04469",
+  "title": "Coral and the Undertow",
+  "author": "Lior Brightwater",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Wren Reyes, a restaurant critic who has forgotten how food tastes, moves through the days like a tenant, not an owner. But when the last speaker of a language asks for one final student, he discovers that staying invisible was never really an option. Now he must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4469
+  }
+}

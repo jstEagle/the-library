@@ -1,0 +1,59 @@
+{
+  "title": "The Asset of Marseille's old port Anew",
+  "slug": "thriller/the-asset-of-marseille-s-old-port-anew",
+  "model": "stealth/ox-alpha",
+  "premise": "Zephyrine Nakamura, a deniable fixer for the Verrine Compact — an embassy that exists on no map — is pulled back into service when a burner phone rings with the voice of his dead handler, Elias. The voice belongs to a reconstruction: an AI trained on the Compact's own interrogation archives, now weaponized by the network that made Zephyrine to launder its corruption through Marseille's old port. To survive, Zephyrine must burn the training infrastructure before the border checkpoint shifts change at dawn, choosing between the woman he loves, who runs the port's customs house, and the duty that has defined him. He burns it all — and walks out of Marseille unnamed, with her, owing nothing to anyone.",
+  "about_author": "Wren Reyes is a former maritime logistics analyst who spent six years in Mediterranean port cities before turning to fiction full-time. They write thrillers about institutions that eat their own people, from a small house above a working harbor.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Phone That Rings Itself",
+      "summary": "Zephyrine, semi-retired in Marseille, answers a burner phone delivered by a stranger's hand. The voice is Elias — his handler, three years dead. POV: Zephyrine. Emotional beat: dread wrapped in longing; the past refusing to stay buried."
+    },
+    {
+      "n": 2,
+      "title": "Verrine Compact",
+      "summary": "Flashback chapter to Zephyrine's recruitment and training by the Compact, intercut with him verifying Elias's voice against archived recordings. POV: Zephyrine, past tense sections in second person. Emotional beat: the seduction of belonging to something secret."
+    },
+    {
+      "n": 3,
+      "title": "The Customs House",
+      "summary": "Zephyrine visits Amara Diallo, customs director at the old port and his former lover, ostensibly for routine clearance. He notices manifests routed through shell companies he recognizes as Compact cutouts. POV: Amara. Emotional beat: old love rekindling under professional suspicion."
+    },
+    {
+      "n": 4,
+      "title": "Voiceprint",
+      "summary": "Zephyrine traces the burner's signal to a server farm outside Aix and learns 'Elias' is a synthetic reconstruction trained on Compact interrogation archives. Someone inside built it. POV: Zephyrine. Emotional beat: grief curdling into fury — even his mourning was harvested."
+    },
+    {
+      "n": 5,
+      "title": "The Network That Made Him",
+      "summary": "A contact inside the Compact, Deputy Director Sorrel, confirms the project codename MERIDIAN and warns Zephyrine off. That night his apartment is swept and his access revoked. POV: Sorrel. Emotional beat: institutional loyalty cracking under complicity."
+    },
+    {
+      "n": 6,
+      "title": "What Amara Knows",
+      "summary": "Amara reveals she's been ordered to fast-track MERIDIAN shipments and has been quietly logging anomalies for months. She offers her logs if Zephyrine promises to take her with him when it breaks. POV: Amara. Emotional beat: love offered as alliance, not refuge."
+    },
+    {
+      "n": 7,
+      "title": "Checkpoint Hours",
+      "summary": "Zephyrine maps the checkpoint shift schedule: a nineteen-minute window at 04:40 when the port road goes unmonitored. Sorrel tips him that MERIDIAN's architects plan to move the archive servers through the port that same night. POV: Zephyrine. Emotional beat: cold clarity; the clock becomes the antagonist."
+    },
+    {
+      "n": 8,
+      "title": "The Burn List",
+      "summary": "Zephyrine and Amara encrypt her logs into a dead-man's switch aimed at three capitals, then physically sabotage the port's fiber junctions so the archive can't be exfiltrated cleanly. POV: alternating. Emotional beat: two people building trust out of tradecraft."
+    },
+    {
+      "n": 9,
+      "title": "Nineteen Minutes",
+      "summary": "Climax. During the unmonitored window, Zephyrine confronts MERIDIAN's architect — his own trainer, Vasseur — at the server transfer, forces the deletion of the voice model, and triggers the dead-man's switch as Compact security closes in. POV: Zephyrine. Emotional beat: terror transmuted into finality; burning the thing that made him."
+    },
+    {
+      "n": 10,
+      "title": "Unnamed",
+      "summary": "Dawn. The Compact disavows everything; Sorrel resigns rather than sign the cover-up. Zephyrine and Amara board a fishing boat out of the old port with no documents and no debts. POV: Amara. Emotional beat: quiet, hard-won freedom — survival that cost everything except each other."
+    }
+  ]
+}

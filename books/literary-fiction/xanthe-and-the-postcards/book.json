@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04630",
+  "title": "Xanthe and the Postcards",
+  "author": "Sebastian Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Juniper Whitlock, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. Then a box of undelivered letters surfaces behind a wardrobe — and they are pulled straight into the middle of it. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4630
+  }
+}

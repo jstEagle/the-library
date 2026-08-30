@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05565",
+  "title": "Odile and the Portrait",
+  "author": "Vesper Marchetti",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Freya Galloway, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. To get through this, she must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "identity",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5565
+  }
+}

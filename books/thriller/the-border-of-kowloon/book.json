@@ -1,0 +1,21 @@
+{
+  "id": "THR-08661",
+  "title": "The Border of Kowloon",
+  "author": "Coral Quintana",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Jonah Nystrom, a crash investigator whose family died in row twelve, has spent seven years following rules that keep getting rewritten. But when a voiceprint unlocks a server on another continent, they discover that staying invisible was never really an option. To get through this, they must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8661
+  }
+}

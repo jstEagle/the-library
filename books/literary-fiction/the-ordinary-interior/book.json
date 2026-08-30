@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04155",
+  "title": "The Ordinary Interior",
+  "author": "M. M. Ishikawa",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Astrid Eastwick, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. To get through this, she must return to the place where the story went wrong before the mother's memory goes entirely.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4155
+  }
+}

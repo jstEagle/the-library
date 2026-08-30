@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04501",
+  "title": "A Silence for the Wardrobe",
+  "author": "Beatrix Dunmore",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Mirabel Ishikawa, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. Now he must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4501
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "The Last Will",
+  "slug": "mystery/the-last-will",
+  "model": "stealth/ox-alpha",
+  "premise": "Retired detective Kestrel Crane receives a confession letter postmarked the day after the funeral of his old partner, Elias Vane, claiming Elias's death was no accident and pointing to a ledger hidden in the bookshop itself. As Kestrel decodes the ledger, he uncovers a decades-old cover-up in which he unknowingly participated: a wrongful conviction that sent an innocent man to prison and made Elias rich. The killer is Elias's widow, Margaret, who murdered him to keep the ledger buried and now hunts Kestrel through the same pages. In the end, Kestrel must choose between turning the evidence over to the corrupt police who enabled the original crime or exposing it himself outside the law—choosing justice at the cost of his last chance at a quiet life.",
+  "about_author": "August Dunmore is the pen name of a former small-town court clerk who spent twenty years watching justice arrive late or not at all. Dunmore writes mysteries from a coastal cottage, where the fog never quite lifts.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Postmarked Yesterday",
+      "summary": "Kestrel's POV. Three weeks after burying his old partner Elias Vane, Kestrel finds a confession letter in his mail, postmarked the day after the funeral. It names no killer but promises that 'the ledger remembers what you chose to forget.' The emotional beat is dread disguised as curiosity—the past knocking on a door he'd nailed shut."
+    },
+    {
+      "n": 2,
+      "title": "The Marginalia",
+      "summary": "Kestrel's POV. Searching his own stock for hidden writing, he discovers faint annotations in secondhand copies of books Elias once sold him—a cipher keyed to page numbers. First decoded entry references 'the Halloway conviction, 1989.' Emotional beat: reluctant reentry into detective mode, mixed with guilt he can't yet name."
+    },
+    {
+      "n": 3,
+      "title": "A Widow's Grief",
+      "summary": "Margaret Vane's POV. At Elias's wake's aftermath, Margaret watches Kestrel leave the cemetery and makes a call to someone she calls 'the accountant.' She knows the letter was sent and begins quietly closing ranks. Emotional beat: grief weaponized into cold calculation; the reader sees her menace before Kestrel does."
+    },
+    {
+      "n": 4,
+      "title": "Halloway",
+      "summary": "Kestrel's POV. He tracks down Ruth Halloway, daughter of the man convicted of the 1989 arson that killed two people. Her father died inside. She recognizes Kestrel as one of the arresting detectives and spits at his feet. Emotional beat: shame surfacing; Kestrel realizes his celebrated career was built on a lie he helped tell."
+    },
+    {
+      "n": 5,
+      "title": "The Accountant",
+      "summary": "Kestrel's POV. Following the ledger's financial entries, Kestrel finds the man who laundered Elias's hush money—now a frightened old bookkeeper who admits Elias was paid to close the case by then-Inspector Corliss, still a powerful police commissioner. Emotional beat: vertigo; the conspiracy reaches higher than one bad cop."
+    },
+    {
+      "n": 6,
+      "title": "Fire in the Stacks",
+      "summary": "Kestrel's POV. His bookshop burns overnight—an 'electrical fault' that destroys half the annotated stock. Kestrel survives with the cipher key because he'd begun sleeping in the back room. Emotional beat: rage and clarity; staying invisible is officially over, and he stops pretending otherwise."
+    },
+    {
+      "n": 7,
+      "title": "What Elias Chose",
+      "summary": "Margaret's POV. Flashback chapters braided with present: we learn Elias sent the confession letter himself before Margaret smothered him, betting on Kestrel's pride to finish it. Margaret discovers the ledger's final page is missing. Emotional beat: tragic love inverted—she killed the man she loved to protect a life built on his sin."
+    },
+    {
+      "n": 8,
+      "title": "The Missing Page",
+      "summary": "Kestrel's POV. Realizing the ledger's last page names Corliss directly, Kestrel decodes its location from the one book he kept off the shelves: a first edition Elias inscribed to him, 'for when you're brave enough.' Emotional beat: bittersweet reckoning—Elias trusted him all along, and Kestrel was too comfortable to see it."
+    },
+    {
+      "n": 9,
+      "title": "Corliss's House",
+      "summary": "Kestrel's POV, climax. Margaret breaks into Kestrel's shop for the missing page; instead she finds him waiting, and Corliss's men arrive to burn everything. In a standoff among the smoke-damaged stacks, Kestrel trades the page for Ruth Halloway's safety, then triggers the shop's ancient sprinkler system, preserving evidence and forcing witnesses. Emotional beat: courage finally costing what it should."
+    },
+    {
+      "n": 10,
+      "title": "Justice, Hand-Delivered",
+      "summary": "Kestrel's POV, resolution. Unwilling to trust Corliss's department, Kestrel mails copies of the ledger to three newspapers and Ruth Halloway before surrendering himself for obstruction in the 1989 case. Corliss falls; Margaret confesses rather than let Elias be remembered as only a victim. Kestrel closes the bookshop for good. Emotional beat: peace purchased with exile—love against duty, paid in full."
+    }
+  ]
+}

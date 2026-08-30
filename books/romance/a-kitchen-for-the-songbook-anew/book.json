@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06999",
+  "title": "A Kitchen for the Songbook Anew",
+  "author": "August Kavanagh",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Coral Hartwell, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the vineyard's first harvest comes in.",
+  "themes": [
+    "memory",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6999
+  }
+}

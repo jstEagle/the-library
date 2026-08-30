@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05675",
+  "title": "Elodie and the Alibi",
+  "author": "Noor Okafor",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Rosalind Blackwood, an insurance investigator with a photographic memory, thought they had seen every way a life can end. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. To get through this, they must close the one case everyone swore was closed for good before the statute expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5675
+  }
+}

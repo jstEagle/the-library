@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00201",
+  "title": "Current and Passage",
+  "author": "Isandro Sandoval",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ansel Iversen, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. But when the tide reveals a cave that legends charge admission to, she discovers that staying invisible was never really an option. To get through this, she must beat the salvage fleet to the wreck by six tides before the monsoon makes landfall.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 201
+  }
+}

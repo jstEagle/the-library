@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06642",
+  "title": "The Slow Bakery",
+  "author": "Cyrus Oyelaran",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Silas Whitlock, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6642
+  }
+}

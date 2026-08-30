@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02191",
+  "title": "The Wolf of Ashvale Revisited",
+  "author": "Ines Lockridge",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Emrys Nystrom, a thief who steals memories, has spent twelve years selling small charms in a city that outlawed magic. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. To get through this, she must steal back a soul sold to the court beneath the mountain before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2191
+  }
+}

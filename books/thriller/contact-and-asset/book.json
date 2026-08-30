@@ -1,0 +1,21 @@
+{
+  "id": "THR-09003",
+  "title": "Contact and Asset",
+  "author": "Casper Fairweather",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Beatrix Oyelaran, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. But when every record of a flight vanishes while it's still in the air, he discovers that staying invisible was never really an option. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9003
+  }
+}

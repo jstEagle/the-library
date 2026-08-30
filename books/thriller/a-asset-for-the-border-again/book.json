@@ -1,0 +1,21 @@
+{
+  "id": "THR-09388",
+  "title": "A Asset for the Border Again",
+  "author": "Sebastian Dravenmoor",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "August Nystrom, a whistle-blower living under four names, hasn't slept through the night since the incident. But when every record of a flight vanishes while it's still in the air, he discovers that staying invisible was never really an option. To get through this, he must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9388
+  }
+}

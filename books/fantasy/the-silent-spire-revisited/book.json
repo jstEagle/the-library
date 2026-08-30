@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01824",
+  "title": "The Silent Spire Revisited",
+  "author": "Mara Ishikawa",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ada Kavanagh, a cartographer of unmapped realms, has spent twelve years selling small charms in a city that outlawed magic. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1824
+  }
+}

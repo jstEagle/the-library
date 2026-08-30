@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07179",
+  "title": "Hazel and the Orbit",
+  "author": "Beatrix Whitlock",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ada Almeida, an insurance investigator of impossible accidents, maintains the beacon nobody remembers commissioning. But when a ship returns from deep space with everyone aboard aged backward, she discovers that staying invisible was never really an option. Now she must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7179
+  }
+}

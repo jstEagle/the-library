@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04604",
+  "title": "Juniper and the Inventory",
+  "author": "Felix Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Odile Fairweather, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. But when a childhood home goes up for auction, he discovers that staying invisible was never really an option. To get through this, he must say goodbye properly, at last, out loud before the house sale closes.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4604
+  }
+}

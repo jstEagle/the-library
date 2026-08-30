@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01091",
+  "title": "When the Thorn Turns",
+  "author": "Zephyrine Oyelaran",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Coral Vane, a mercenary sworn to a god that went silent, keeps the ledgers of a guild that trades in impossible things. But when the old gods begin answering prayers again, he discovers that staying invisible was never really an option. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1091
+  }
+}

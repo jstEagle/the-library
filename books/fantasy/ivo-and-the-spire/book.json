@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01671",
+  "title": "Ivo and the Spire",
+  "author": "Rafael Reyes",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Lior Voss, a bone-carver who hears the dead, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1671
+  }
+}

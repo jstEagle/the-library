@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04738",
+  "title": "Marguerite and the Postcards",
+  "author": "Hazel Underhill",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Coral Crane, an heir cataloging a parent's silence after the funeral, has spent twenty years practicing the art of almost saying it. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4738
+  }
+}

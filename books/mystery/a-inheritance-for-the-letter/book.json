@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05450",
+  "title": "A Inheritance for the Letter",
+  "author": "Theo Dravenmoor",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Gideon Voss, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5450
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08927",
+  "title": "Dominic and the Debt",
+  "author": "Noor Underhill",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Wendell Halloran, a whistle-blower living under four names, hasn't slept through the night since the incident. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. Now they must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8927
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06420",
+  "title": "A Tide for the Bakery",
+  "author": "Ines Sterling",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Sable Lockridge, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the vineyard's first harvest comes in.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6420
+  }
+}

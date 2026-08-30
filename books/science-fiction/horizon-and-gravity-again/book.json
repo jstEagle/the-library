@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08341",
+  "title": "Horizon and Gravity Again",
+  "author": "Freya Thackeray",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Coral Dunmore, the caretaker of Earth's abandoned seed vault, has spent seven years hauling cargo through contested orbits. Then an unfamiliar name shows up on the manifest of a ship that never flew — and they are pulled straight into the middle of it. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8341
+  }
+}

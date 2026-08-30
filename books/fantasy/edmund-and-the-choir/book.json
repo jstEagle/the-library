@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00930",
+  "title": "Edmund and the Choir",
+  "author": "Jonah Underhill",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Elodie Dunmore, an exiled storm-caller, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. Now she must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 930
+  }
+}

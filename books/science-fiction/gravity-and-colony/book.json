@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07375",
+  "title": "Gravity and Colony",
+  "author": "Ada Sandoval",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Beatrix Sterling, a memory-smuggler running contraband past orbital customs, has spent ten years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7375
+  }
+}

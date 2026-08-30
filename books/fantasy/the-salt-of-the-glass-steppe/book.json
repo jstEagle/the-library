@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00878",
+  "title": "The Salt of the Glass Steppe",
+  "author": "Wren Okonkwo",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Silas Kavanagh, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. To get through this, they must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 878
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07835",
+  "title": "Yara and the Machine",
+  "author": "Sable Lockridge",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Silas Eriksen, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7835
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09911",
+  "title": "Mirabel and the Scholarship",
+  "author": "Ivo Coldharbour",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Tamsin Marchetti, the eldest sibling raising the younger ones while mom works nights, is fine. Everything is fine. Obviously.. But when a best friend goes missing, leaving only a set of keys behind, he discovers that staying invisible was never really an option. Now he must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9911
+  }
+}

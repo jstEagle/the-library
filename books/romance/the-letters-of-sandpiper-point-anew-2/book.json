@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06985",
+  "title": "The Letters of Sandpiper Point Anew",
+  "author": "Jonah Montrose",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jude Brightwater, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. But when a snowstorm strands two rivals with the best mistake of their twenties, they discover that staying invisible was never really an option. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6985
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05511",
+  "title": "Wendell and the Will",
+  "author": "Petra Voss",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Silas Galloway, an estate lawyer reading a will that shouldn't exist, has spent seven years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. To get through this, he must untangle alibis woven thirty years ago before the trial begins.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5511
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05581",
+  "title": "Ines and the Alibi",
+  "author": "Oscar Fairweather",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Hazel Joubert, a hotel concierge who notices everything, has spent fifteen years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5581
+  }
+}

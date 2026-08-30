@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00278",
+  "title": "When the Rivergate Wakes",
+  "author": "Marguerite Zhou",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Lior Montrose, an archaeologist's estranged child and better digger, keeps moving because stopping costs more. Then the river gives up a chest stamped with a dead nation's seal — and she is pulled straight into the middle of it. Now she must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 278
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09345",
+  "title": "Yara and the Deadline",
+  "author": "Sebastian Reyes",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Cyrus Coldharbour, a crash investigator whose family died in row twelve, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9345
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00182",
+  "title": "The Rivergate of Devil's Throat",
+  "author": "Astrid Fairweather",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Lena Winterbourne, a salvage diver working a wreck the navy won't discuss, carries a compass, a debt, and very little else. But when an expedition upriver stops answering the radio, she discovers that staying invisible was never really an option. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 182
+  }
+}

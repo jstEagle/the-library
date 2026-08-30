@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00371",
+  "title": "A Trail for the Rivergate",
+  "author": "Hazel Joubert",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Ulyana Okonkwo, a railroad engineer with a map of closed lines, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and she is pulled straight into the middle of it. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 371
+  }
+}

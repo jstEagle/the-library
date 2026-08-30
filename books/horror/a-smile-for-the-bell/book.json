@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03570",
+  "title": "A Smile for the Bell",
+  "author": "Ines Marchetti",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Emrys Lockridge, a pest controller called to something with fingerprints, keeps the lights on and the doors counted. Then every mirror in the house starts reflecting the room one second late — and they are pulled straight into the middle of it. Now they must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3570
+  }
+}

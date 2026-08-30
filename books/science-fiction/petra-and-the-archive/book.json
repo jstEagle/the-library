@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07840",
+  "title": "Petra and the Archive",
+  "author": "D. M. Nystrom",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Elodie Winterbourne, a memory-smuggler running contraband past orbital customs, has spent twelve years hauling cargo through contested orbits. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. To get through this, they must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7840
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07831",
+  "title": "Emrys and the Vector",
+  "author": "Felix Vasquez",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Mirabel Eriksen, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. To get through this, she must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7831
+  }
+}

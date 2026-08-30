@@ -1,0 +1,119 @@
+{
+  "title": "Edmund and the Asset",
+  "slug": "thriller/edmund-and-the-asset",
+  "model": "stealth/ox-alpha",
+  "premise": "Ivo Okonkwo, a whistle-blower living under four names, has spent seven years following rules that keep getting rewritten. When a routine voiceprint check accidentally unlocks a dormant server in Lagos, she discovers a staged infrastructure attack scheduled to look like an industrial accident—and learns that 'Edmund,' the handler who once protected her, may be the one authorizing it. Pursued by both the conspirators and the agency she betrayed, Ivo must decide whether loyalty to the man who saved her outweighs the truth of what he has become. In the end, she exposes the plot publicly at devastating personal cost, Edmund chooses truth in his final hour to save her, and Ivo steps out of the shadows under her real name for the first time in seven years.",
+  "about_author": "Beatrix Okonkwo is a former infrastructure security analyst who left the industry after a decade of watching warnings go unheeded. She writes thrillers from a small coastal town, drawing on her experience with the quiet paranoia of people who know too much.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Fourth Name",
+      "summary": "Ivo, living as 'Maren Ellis' in a rainy Scottish port town, follows her rigid anonymity routines: cash, no photos, rotating routes. POV Ivo. The emotional beat is the exhausting comfort of invisibility—and the first hairline crack, when a verification call uses her real voiceprint without warning."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "The verification call, meant to confirm her identity, instead authenticates her against an old agency server in Lagos and unlocks a dormant file. POV Ivo. Beat: dread blooming into curiosity as she realizes the system still knows exactly who she is."
+    },
+    {
+      "n": 3,
+      "title": "What the Server Knew",
+      "summary": "Ivo finds operational files for an 'accident simulation' targeting a Lagos power grid, scheduled in nineteen days, with her own whistle-blower case cited as justification. POV Ivo. Beat: the sick vertigo of discovering her past is being weaponized."
+    },
+    {
+      "n": 4,
+      "title": "Edmund",
+      "summary": "A flashback chapter: seven years earlier, handler Edmund Hale extracted Ivo after her first disclosure, teaching her the rules that kept her alive. POV Ivo (memory). Beat: tender, complicated gratitude—the foundation the whole book will test."
+    },
+    {
+      "n": 5,
+      "title": "The Rules Keep Changing",
+      "summary": "Present day: Ivo's safe-house protocols are quietly revoked; her stipend freezes; a neighbor asks too-specific questions. POV Ivo. Beat: paranoia sharpening into certainty that someone is dismantling her invisibility piece by piece."
+    },
+    {
+      "n": 6,
+      "title": "The Man at the Pier",
+      "summary": "Ivo spots a watcher she recognizes from her agency days—Voss, a cleaner—and realizes the conspiracy isn't hunting the file; it's hunting her. POV Ivo. Beat: cold fear transmuting into the first flicker of defiance."
+    },
+    {
+      "n": 7,
+      "title": "Edmund's Side",
+      "summary": "POV shift: Edmund Hale, now a senior director, is pressured by his superiors to sign off on the Lagos operation he helped design years ago as a theoretical deterrent. Beat: his loyalty to Ivo curdling against his loyalty to the institution that made him."
+    },
+    {
+      "n": 8,
+      "title": "Nineteen Days",
+      "summary": "Ivo breaks her own rules to contact a former colleague, journalist Ada Nwosu, in Lagos. POV Ivo. Beat: the terror and relief of reaching toward another human being after seven years alone."
+    },
+    {
+      "n": 9,
+      "title": "Dead Drop, Live Wire",
+      "summary": "Ada confirms the grid files are genuine but suspects a second target buried in the metadata. Voss closes in on Ivo's flat. POV alternating Ivo/Ada. Beat: alliance forming under pressure; trust as a calculated gamble."
+    },
+    {
+      "n": 10,
+      "title": "The Second Target",
+      "summary": "Ivo decodes the metadata: the 'accident' will also destroy records of the original whistle-blower case—her case—erasing every person who helped her. POV Ivo. Beat: fury; the attack is aimed at the truth itself."
+    },
+    {
+      "n": 11,
+      "title": "Twelve Days",
+      "summary": "Ivo messages Edmund directly, breaking contact protocol, asking him one question: is this yours? POV Ivo. Beat: aching vulnerability—she needs him to be innocent."
+    },
+    {
+      "n": 12,
+      "title": "What Edmund Didn't Sign",
+      "summary": "Edmund discovers his signature was forged on the authorization; his protégé Callum Rees is running the operation with sanction from above. POV Edmund. Beat: the institution he served is consuming him, and he must choose a side."
+    },
+    {
+      "n": 13,
+      "title": "The Trap That Wasn't",
+      "summary": "Edmund arranges a meet with Ivo—but Voss intercepts the location. Ivo escapes through the port using every trick Edmund taught her. POV Ivo. Beat: betrayal-adjacent terror; even reaching for an ally is a weapon someone else can turn."
+    },
+    {
+      "n": 14,
+      "title": "Burned",
+      "summary": "Ivo abandons the 'Maren' identity entirely, burning her flat and documents. Ada shelters her. POV Ivo. Beat: grief for the self she's deleting, and an odd lightness—she is finally only Ivo."
+    },
+    {
+      "n": 15,
+      "title": "Callum Rees",
+      "summary": "POV Callum: brilliant, resentful, convinced the attack will 'save more than it kills' and that Edmund went soft. Beat: chilling banality of conviction; the antagonist who believes he's the hero."
+    },
+    {
+      "n": 16,
+      "title": "Seven Days",
+      "summary": "Ivo and Ada plan to publish, but Ada's editor balks without hard proof of intent. Edmund offers to smuggle out the signed authorization. POV Ivo/Edmund. Beat: hope with a timer on it."
+    },
+    {
+      "n": 17,
+      "title": "The Extraction",
+      "summary": "Edmund's exfiltration of the document is ambushed; he's captured, and Callum moves the attack up to forty-eight hours. POV Edmund. Beat: the loyal protector finally paying the full price of his choices."
+    },
+    {
+      "n": 18,
+      "title": "Two Days",
+      "summary": "With Edmund silent and Voss hunting Ada, Ivo realizes the only way in is the voiceprint server itself—the backdoor that started everything. POV Ivo. Beat: the hunted becoming the hunter; fear burned down to resolve."
+    },
+    {
+      "n": 19,
+      "title": "The Server Room",
+      "summary": "Ivo infiltrates the Lagos facility, uses her own voiceprint to breach the control system, and begins broadcasting the operation's files to every newsroom Ada lined up. POV Ivo. Beat: the whistle-blower's original act, perfected—this time she stays in the room."
+    },
+    {
+      "n": 20,
+      "title": "Edmund's Choice",
+      "summary": "Captured Edmund escapes his restraints and physically delays the manual override long enough for Ivo's broadcast to make the attack politically impossible to execute. POV Edmund. Beat: loyalty and truth reconciled at last—in the costliest way."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath",
+      "summary": "The attack is aborted; Callum is arrested, his superiors scatter; Voss vanishes. Edmund, wounded, disappears before Ivo can reach him—leaving only a note: 'You were never the asset. You were the point.' POV Ivo. Beat: love against duty, resolved in absence."
+    },
+    {
+      "n": 22,
+      "title": "Ivo Okonkwo",
+      "summary": "Weeks later, Ivo stands before a parliamentary inquiry and gives her name aloud, on record, for the first time in seven years. POV Ivo. Beat: quiet triumph—invisibility traded for a voice, and the first morning she doesn't check who's behind her."
+    }
+  ]
+}

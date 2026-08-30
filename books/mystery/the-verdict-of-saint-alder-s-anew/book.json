@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05879",
+  "title": "The Verdict of Saint Alder's Anew",
+  "author": "Wren Kavanagh",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Wren Almeida, a retired detective running a failing bookshop, has spent fifteen years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5879
+  }
+}

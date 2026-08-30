@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04154",
+  "title": "Jude and the Language",
+  "author": "Sebastian Yarrow",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "August Lockridge, a letter-writer sending postcards to an address that burned down years ago, has perfected the smile that ends conversations. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4154
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05025",
+  "title": "Alibi and Cipher",
+  "author": "Astrid Underhill",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Wren Ashgrove, a small-town coroner who knows every grave by name, has spent seven years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. To get through this, he must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5025
+  }
+}

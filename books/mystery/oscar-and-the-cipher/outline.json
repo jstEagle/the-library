@@ -1,0 +1,59 @@
+{
+  "title": "Oscar and the Cipher",
+  "slug": "mystery/oscar-and-the-cipher",
+  "model": "stealth/ox-alpha",
+  "premise": "Silas Marchetti, a night-shift dispatcher for a taxi company who moonlights as an unlicensed fixer, is paid a fortune in cash to prove that a murder at the harbor hasn't happened yet — the client wants her to stop it before it occurs. But when the predicted victim turns up alive, unharmed, and insisting he's never met Silas's client, she realizes the 'prediction' was a memory implant: a cipher of taxi receipts and dispatch logs designed to make her believe a crime that already happened three years ago. Chasing the one witness everyone swears died in that original crime — a fare who vanished mid-ride — Silas discovers her own employer helped bury the truth, and that her perfect record of closed cases was built on cases someone else decided were closed for her. In the end, she must choose between protecting the cab company family that raised her and broadcasting the cipher that will convict them, choosing truth at the cost of every loyalty she has.",
+  "about_author": "Gideon Oyelaran spent six years driving nights in Lagos and Chicago before turning his logbooks into fiction, and he still can't sleep before midnight. He writes mysteries about people whose jobs keep them invisible to the cities they know best.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Paid in Advance",
+      "summary": "Silas Marchetti's POV. A nervous woman in a gray coat hires Silas through the cab company's after-hours line, paying triple to prevent a murder she says will happen Friday at Pier 9. Silas takes the case against her own rule about predictions. The beat is wary confidence — a professional sizing up an impossible job."
+    },
+    {
+      "n": 2,
+      "title": "The Man Who Wasn't Dying",
+      "summary": "Silas stakes out Pier 9 and finds the supposed victim, dock foreman Tomas Reyes, very much alive and baffled by her questions; he claims he's never seen the client. A second surveillance night yields nothing but a strange detail: Reyes's shift pattern matches rides from three years ago. Beat: first crack of doubt."
+    },
+    {
+      "n": 3,
+      "title": "Dispatch Log Ghosts",
+      "summary": "Silas pulls old dispatch records and finds the client's 'prediction' mirrors, almost word for word, a logged call from three years earlier — a ride to Pier 9 with a passenger who never arrived at any destination. Her mentor, dispatcher Ruth Okafor, warns her off pulling those files. Beat: unease curdling into obsession."
+    },
+    {
+      "n": 4,
+      "title": "Everyone Swears He's Dead",
+      "summary": "Silas tracks the vanished passenger, Elian Voss, supposedly killed in a hit-and-run three years ago; the police file is thin, the funeral unattended, and the cabbie who drove him that night has left town. Her client goes silent when pressed on the date discrepancy. Beat: the case flips from prevention to exhumation."
+    },
+    {
+      "n": 5,
+      "title": "The Company Way",
+      "summary": "Silas confronts the cab company's owner, Dominic Vale, who deflects with warmth and offers her a promotion clearly meant to buy silence. She learns the hit-and-run file was quietly handled by the company's lawyer. POV alternates briefly with Ruth, who remembers more than she admits. Beat: loyalty begins to feel like leverage."
+    },
+    {
+      "n": 6,
+      "title": "Cipher of Receipts",
+      "summary": "Decoding the pattern in old trip receipts, Silas realizes the 'prediction' was constructed — a message hidden in fares, addresses, and timestamps, readable only by someone who knows dispatch rhythms intimately. Someone inside built it for her specifically. Beat: the chilling intimacy of being known."
+    },
+    {
+      "n": 7,
+      "title": "The Fare That Never Ended",
+      "summary": "Following the cipher's final coordinates, Silas finds Elian Voss alive, hiding under another name, kept quiet by payments routed through the company. He witnessed what really happened at Pier 9 three years ago: not a hit-and-run but a deliberate killing covered up by men Silas trusts. Beat: grief and betrayal arriving together."
+    },
+    {
+      "n": 8,
+      "title": "Statute Running",
+      "summary": "With days left before the statute expires, Silas tries to get Voss to testify, but the client reappears — revealed as the dead man's sister, who hired Silas not to stop a murder but to force the city to admit one already happened. Vale's men begin closing in. Beat: the clock becomes a weapon."
+    },
+    {
+      "n": 9,
+      "title": "Pier 9, Again",
+      "summary": "Climax. Lured back to Pier 9 by a forged dispatch call, Silas faces Vale, who offers her the same bargain he gave everyone else: comfort, belonging, forgetting. When she refuses, Ruth arrives and chooses Silas over the company, handing over the ledger that proves everything. Beat: loyalty finally breaking toward truth."
+    },
+    {
+      "n": 10,
+      "title": "Closed Cases",
+      "summary": "Resolution. The statute expires, but Silas broadcasts the cipher — receipts, logs, and Voss's testimony — to a journalist, ending Vale's control though not securing every conviction. She keeps dispatching nights, changed: no longer invisible, no longer certain invisibility was safety. Final beat: quiet, costly peace."
+    }
+  ]
+}

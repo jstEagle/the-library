@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06855",
+  "title": "Yara and the Vow",
+  "author": "Odile Kavanagh",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "August Reyes, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6855
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08876",
+  "title": "When the Safehouse Sings",
+  "author": "Paloma Nystrom",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Sebastian Brightwater, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. To get through this, she must extract a defector who may be the bait before the markets open in Frankfurt.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8876
+  }
+}

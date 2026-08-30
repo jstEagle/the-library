@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05114",
+  "title": "Will and Inheritance",
+  "author": "Freya Delacroix",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ulyana Coldharbour, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5114
+  }
+}

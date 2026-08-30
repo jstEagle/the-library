@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04566",
+  "title": "Lena and the Silence",
+  "author": "Wren Nystrom",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Beatrix Ashgrove, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. To get through this, they must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4566
+  }
+}

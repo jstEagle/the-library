@@ -1,0 +1,119 @@
+{
+  "title": "Hazel and the Witness",
+  "slug": "mystery/hazel-and-the-witness",
+  "model": "stealth/ox-alpha",
+  "premise": "Wren Whitlock, a concierge with a gift for reading people, is haunted by the disappearance of Hazel Marsh, a hotel guest whose case was closed as a runaway. When Hazel's diary surfaces in the hotel's lost-and-found—with entries written after her disappearance—Wren realizes Hazel may be alive, hiding, or held. Following the diary's coded clues through the city's forgotten places, Wren uncovers a conspiracy implicating the police detective who declared the case closed and the hotel's beloved owner. In the end, Wren finds Hazel alive but unwilling to testify, and must choose between exposing the truth that will destroy innocent lives alongside guilty ones, or honoring Hazel's wish to stay vanished—settling on justice outside the law by forcing the guilty to confess where it counts.",
+  "about_author": "Emrys Winterbourne is the pen name of a former night-shift hotel clerk who spent years listening to guests' secrets behind a brass bell desk. They write mysteries about the quiet observers—the people everyone talks over but never suspects are paying attention.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Bell That Never Rings",
+      "summary": "Wren's POV. Introduces Wren at the Hotel Aurelia's front desk, cataloging guests' tells like a naturalist. She reflects on the three 'accidents' she quietly unraveled. Emotional beat: restless competence masking loneliness—she solves deaths no one asked her to solve."
+    },
+    {
+      "n": 2,
+      "title": "Room 412, Returned Empty",
+      "summary": "Wren's POV. A package arrives containing Hazel Marsh's diary, found walled up during renovation of a neighboring building. The final entry is dated eleven days after Hazel vanished. Beat: cold dread; the closed case cracks open."
+    },
+    {
+      "n": 3,
+      "title": "What the Police Decided",
+      "summary": "Wren's POV, flashback interwoven. Recalls Detective Corliss Ashford closing Hazel's case as a voluntary runaway, and how Hazel's mother begged Wren privately to look closer. Beat: guilt rekindled; loyalty to the mother vs. deference to authority."
+    },
+    {
+      "n": 4,
+      "title": "Entries After the End",
+      "summary": "Wren's POV. Reading the post-disappearance entries: Hazel writes in code about 'the man with the ledger' and fears being moved 'where the trains don't stop.' Beat: mounting fear and fascination; Wren begins copying pages."
+    },
+    {
+      "n": 5,
+      "title": "The Concierge's Ledger",
+      "summary": "Wren's POV. Cross-references the diary against old guest records, finding a recurring visitor under aliases tied to dates in the code. Beat: first real lead—and first sense someone else is watching the same trail."
+    },
+    {
+      "n": 6,
+      "title": "A Stranger Asks for Hazel",
+      "summary": "Wren's POV. A smooth-talking man checks in asking about 'a girl who stayed here years ago.' Wren lies beautifully and notes his cufflinks match a detail from the diary. Beat: the hunt becomes mutual; adrenaline."
+    },
+    {
+      "n": 7,
+      "title": "Mrs. Marsh's Kitchen Table",
+      "summary": "Alternating POV: Hazel's mother, Ruth. Ruth reveals Hazel called her once, months after vanishing, whispering before the line died. Beat: grief and hope colliding; Ruth makes Wren promise to find her daughter alive."
+    },
+    {
+      "n": 8,
+      "title": "Where the Trains Don't Stop",
+      "summary": "Wren's POV. Follows the code to an abandoned rail depot turned informal housing. Finds evidence someone lived there recently—Hazel's handwriting on a wall calendar. Beat: awe and terror; Hazel was here weeks ago."
+    },
+    {
+      "n": 9,
+      "title": "The Man with the Ledger",
+      "summary": "Wren's POV. Identifies him: Silas Vane, the hotel's owner's business partner, whose 'accounting firm' launders money for dangerous clients. Hazel witnessed something she shouldn't have. Beat: scale of danger revealed."
+    },
+    {
+      "n": 10,
+      "title": "Someone Searched My Room",
+      "summary": "Wren's POV. Returns to find her quarters ransacked, the copied diary pages gone—but not the original. Realizes the thief wanted her to keep the original. Beat: paranoia; the trap has layers."
+    },
+    {
+      "n": 11,
+      "title": "Detective Ashford Calls Again",
+      "summary": "Wren's POV. Ashford warns her off with unsettling precision—he knows exactly what she's found. His warnings echo phrases from the diary. Beat: sickening realization that the officer who closed the case may be protecting Vane."
+    },
+    {
+      "n": 12,
+      "title": "The Owner's Confession",
+      "summary": "Wren's POV. Confronts Marguerite Aurel, the hotel's aging owner, who admits Vane used the hotel for his dealings—and that Hazel saw a murder in the service corridors. Beat: betrayal; the sanctuary itself was complicit."
+    },
+    {
+      "n": 13,
+      "title": "Hazel's Voice, Recorded",
+      "summary": "Ruth's POV. Ruth plays an old voicemail she'd hidden even from herself: Hazel saying 'Don't trust the ones who were kind to me.' Beat: heartbreak; kindness itself becomes suspect."
+    },
+    {
+      "n": 14,
+      "title": "The Service Corridors",
+      "summary": "Wren's POV. Reconstructs the murder night from staff memories and the hotel's ancient logbook. The victim: a young accountant who tried to blow the whistle. Beat: the dead man gets a name; resolve hardens into purpose."
+    },
+    {
+      "n": 15,
+      "title": "An Offer Wrapped in Kindness",
+      "summary": "Wren's POV. Vane offers Wren money and silence, revealing he knows about her past cases—and implies he can make her disappear as cleanly as Hazel. Beat: temptation and threat braided together; she refuses."
+    },
+    {
+      "n": 16,
+      "title": "Running Out of Clock",
+      "summary": "Wren's POV. Ashford schedules the demolition of the depot building—where physical evidence remains—for Friday. Vane is leaving the country. Beat: ticking-clock pressure; every path forward costs something."
+    },
+    {
+      "n": 17,
+      "title": "The Girl Behind the Glass",
+      "summary": "Hazel's POV, first time. Reveals Hazel alive, hiding under a new name, watching Wren's investigation from a distance—testing whether Wren is another kind one. Beat: guarded longing; Hazel wants to be found but fears it more."
+    },
+    {
+      "n": 18,
+      "title": "Two Women in a Laundromat",
+      "summary": "Hazel and Wren meet. Hazel explains what she witnessed and why she ran: Ashford tipped Vane off, and everyone who helped her before paid for it. Beat: fragile alliance; truth vs. safety argued face to face."
+    },
+    {
+      "n": 19,
+      "title": "The Plan That Shouldn't Work",
+      "summary": "Wren's POV. Since courts are compromised, they'll force confession: lure Vane and Ashford into revealing themselves at the hotel during a staged event, recorded by sympathetic journalists Ruth trusts. Beat: terrified determination; justice outside the law takes shape."
+    },
+    {
+      "n": 20,
+      "title": "The Aurelia Ball",
+      "summary": "Climax. During the hotel's centennial gala, Wren springs the trap; Vane panics, Ashford turns on him, and the recording captures everything—including Ashford confessing to the cover-up killing. Beat: chaos, courage, near-fatal moment in the service corridors where it all began."
+    },
+    {
+      "n": 21,
+      "title": "What Justice Costs",
+      "summary": "Falling action. Vane arrested; Ashford charged; Marguerite loses the hotel but gains honesty. Hazel must decide whether to resurface. Beat: bittersweet accounting—truth won, but not cheaply."
+    },
+    {
+      "n": 22,
+      "title": "Check-Out Time",
+      "summary": "Wren and Hazel's POVs alternate in final scene. Hazel, publicly alive, chooses to stay near Ruth; Wren keeps the desk but no longer works alone. Final image: the lost-and-found box, waiting. Beat: quiet peace; noticing everything finally means something shared."
+    }
+  ]
+}

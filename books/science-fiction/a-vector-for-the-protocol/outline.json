@@ -1,0 +1,59 @@
+{
+  "title": "A Vector for the Protocol",
+  "slug": "science-fiction/a-vector-for-the-protocol",
+  "model": "stealth/ox-alpha",
+  "premise": "Elodie Crane, sole caretaker of the Meridian Seed Vault, has spent nine years broadcasting routine status pings to a colony Earth abandoned generations ago. When she intercepts a distress call in Old Meridian—a language dead for two centuries—she realizes the 'colony' was never real: it is a fabricated buffer state invented by her predecessors to keep two hostile fleets from contesting the vault's strategic orbit. To preserve the fiction and prevent war, Elodie must impersonate an entire civilization, answering the fleets' queries with forged histories, census data, and now a dying people's last words. As her deception unravels under scrutiny from a skeptical fleet archivist, Elodie discovers the distress signal came from the protocol's original author, still alive aboard a derelict, who begs her to end the lie. In the climax, Elodie broadcasts the truth in Old Meridian itself, forcing both fleets to confront that their claim to legitimacy rests on nothing—and choosing to hand the vault to neither, but to the scattered descendants of the language's last speakers.",
+  "about_author": "M. M. Ashgrove is the pen name of a former archivist who spent a decade cataloguing obsolete broadcast standards before turning to fiction. They write quiet, claustrophobic science fiction about people entrusted with things too large to hold alone.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Inventory",
+      "summary": "Elodie's POV. A day in the vault: cataloguing seeds, logging decay, recording her 3,287th transmission to a colony that has never once replied. We learn her routines, her loneliness, and her small comforts. Emotional beat: contentment shadowed by doubt—she has begun to wonder if anyone is listening, and what it would mean if no one ever was."
+    },
+    {
+      "n": 2,
+      "title": "Signal in a Dead Tongue",
+      "summary": "Elodie's POV. A burst transmission arrives on a reserved band, encoded in Old Meridian. Her translation software fails; she deciphers fragments by hand over three sleepless days. The message is a distress call—from inside the colony's coordinates. Emotional beat: awe curdling into dread as she realizes the impossible thing she has been talking to for nine years may finally be answering."
+    },
+    {
+      "n": 3,
+      "title": "What the Predecessors Built",
+      "summary": "Elodie's POV, intercut with recovered logs from Vault Director Sefa Okafor, fifty years dead. In the archives' sealed tier, Elodie finds the truth: the colony is a fabrication, a 'Protocol' designed to make two rival fleets believe a neutral civilization holds the vault. Emotional beat: betrayal and vertigo—her entire purpose was scaffolding for a lie she was never told she was keeping."
+    },
+    {
+      "n": 4,
+      "title": "Two Fleets at the Door",
+      "summary": "Alternating POV: Archivist Idris Vane of the Corvane Fleet receives Elodie's routine ping and notices an anomaly—a response lag that shouldn't exist. His superiors order a verification probe toward the colony. Emotional beat: cold institutional suspicion; Vane is introduced not as a villain but as a man whose loyalty to accuracy outweighs his loyalty to empire."
+    },
+    {
+      "n": 5,
+      "title": "A Civilization of One",
+      "summary": "Elodie's POV. To answer the probe's queries, she must fabricate census records, cultural artifacts, even children's songs for a nation of millions. She writes them at night, grieving each invented person. The distress signal repeats, more urgent. Emotional beat: uncanny intimacy—she knows her fictional colony better than she ever knew anyone real, and it is destroying her."
+    },
+    {
+      "n": 6,
+      "title": "The Archivist's Doubt",
+      "summary": "Idris Vane's POV. The probe returns with data that is flawless—too flawless, its weather patterns suspiciously stable across decades. Vane files a dissent recommending contact with the colony directly. His superiors instead prepare a preemptive strike plan should the 'neutrals' prove hostile. Emotional beat: isolation of conscience; Vane realizes he may be the only man in two fleets who wants the truth rather than a pretext."
+    },
+    {
+      "n": 7,
+      "title": "Voice on the Derelict",
+      "summary": "Elodie's POV. She triangulates the distress signal to a derelict station at the system's edge and docks against regulations. Aboard: an ancient woman, Ama Sefu, original co-author of the Protocol, kept alive by failing machinery. She confesses the lie was meant to expire in twenty years, not outlive her—and begs Elodie to let it die before the fleets use it as casus belli. Emotional beat: confrontation with inheritance—the lie is Elodie's legacy whether she wants it or not."
+    },
+    {
+      "n": 8,
+      "title": "Everything Must Hold",
+      "summary": "Alternating POV. Both fleets converge on the vault after Vane's dissent leaks. Elodie races home to keep the fiction alive one final cycle while Ama's station goes dark behind her. Vane transmits directly to the colony demanding first-contact protocols. Emotional beat: rising panic and resolve—Elodie understands that every hour the lie survives, the reckoning grows worse, yet ending it alone means war."
+    },
+    {
+      "n": 9,
+      "title": "The Broadcast",
+      "summary": "Elodie's POV, climax. With both fleets in orbit and weapons armed, Elodie seizes the vault's full transmitter array and broadcasts everything: Okafor's logs, the Protocol's design, her own nine years of transmissions—in Old Meridian, the language of the people the fleets displaced to build their empires. She offers the vault not to either fleet but to the diaspora descendants of that tongue. Emotional beat: terrifying catharsis; she stops being the lie's caretaker and becomes its executioner."
+    },
+    {
+      "n": 10,
+      "title": "Seeds in Open Ground",
+      "summary": "Elodie's and Vane's POVs, resolution. The fleets stand down, legitimacy dissolved, forced into negotiation they can no longer win by force. Months later, the first descendant ships arrive to claim the vault. Vane resigns his commission to help build the archive of what really happened. Elodie records her final log—not to a colony, but to whoever comes next. Emotional beat: grief transmuted into hope; the vault opens at last."
+    }
+  ]
+}

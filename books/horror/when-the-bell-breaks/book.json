@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03357",
+  "title": "When the Bell Breaks",
+  "author": "Rosalind Ravensworth",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Felix Almeida, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. But when all the photographs from grandma's house now include an extra chair, he discovers that staying invisible was never really an option. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3357
+  }
+}

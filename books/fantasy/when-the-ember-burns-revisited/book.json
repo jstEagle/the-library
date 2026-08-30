@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02248",
+  "title": "When the Ember Burns Revisited",
+  "author": "Sebastian Oyelaran",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Jonah Dunmore, a debt-bound temple scribe, has spent seven years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2248
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05646",
+  "title": "Orsen and the Cipher",
+  "author": "Sebastian Pemberton",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Ada Voss, an insurance investigator with a photographic memory, thought they had seen every way a life can end. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. To get through this, she must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5646
+  }
+}

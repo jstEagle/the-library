@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00402",
+  "title": "Xanthe and the Escarpment",
+  "author": "Astrid Galloway",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Beatrix Brightwater, a mountain guide blacklisted from two countries, knows the wilderness forgives nothing and forgets less. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 402
+  }
+}

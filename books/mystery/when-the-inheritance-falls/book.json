@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04985",
+  "title": "When the Inheritance Falls",
+  "author": "F. M. Voss",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Tamsin Winterbourne, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when a client pays in advance to prove a murder hasn't happened — yet, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4985
+  }
+}

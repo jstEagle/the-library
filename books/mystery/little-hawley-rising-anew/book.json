@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05586",
+  "title": "Little Hawley Rising Anew",
+  "author": "Odile Delacroix",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Silas Crane, an estate lawyer reading a will that shouldn't exist, has spent ten years keeping the town's secrets filed and alphabetized. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. To get through this, he must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5586
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00714",
+  "title": "Sigil and Ember",
+  "author": "Jonah Hartwell",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Mara Quintana, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 714
+  }
+}

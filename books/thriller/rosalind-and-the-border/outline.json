@@ -1,0 +1,119 @@
+{
+  "title": "Rosalind and the Border",
+  "slug": "thriller/rosalind-and-the-border",
+  "model": "stealth/ox-alpha",
+  "premise": "Casper Thackeray, a burned-out private security contractor, is hired to protect Rosalind Vane, a financial analyst who claims a passenger flight she was booked on never existed—every record erased mid-flight. As Casper digs, he finds the vanished flight carried a defector holding evidence that could collapse a Frankfurt trading syndicate before markets open, and Rosalind is the bait meant to draw him out. Hunted by the syndicate's cleaners and betrayed by his own agency, Casper must decide whether Rosalind is victim or accomplice while extracting her across Europe in under thirty-six hours. In the end, Casper trades his own anonymity—exposing himself and the syndicate's ledger—to get Rosalind to Frankfurt, discovering that the defector was never on the plane at all: it was Rosalind all along, and her 'vanished' memory of the flight was the cover story she built to survive.",
+  "about_author": "Sable Almeida is the pen name of a former risk analyst who spent a decade writing threat assessments for clients whose names appeared in no filings. They now write thrillers from a coastal town they refuse to name, drawing on the peculiar loneliness of people paid to be invisible.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Man Who Counts Ceiling Tiles",
+      "summary": "Casper Thackeray's POV. Insomnia-ridden Casper takes a routine protection detail in Vienna, establishing his post-incident hypervigilance and his agency's habit of hiring him for jobs nobody wants on record. Emotional beat: hollow competence masking dread."
+    },
+    {
+      "n": 2,
+      "title": "Client Nobody Trusts",
+      "summary": "Casper meets Rosalind Vane, a jittery analyst insisting someone erased a flight she was scheduled on—LX447, gone from every database while still airborne. He assumes trauma or fraud. POV alternates briefly to Rosalind. Beat: uneasy first alliance."
+    },
+    {
+      "n": 3,
+      "title": "Thirty-Six Hours to Frankfurt",
+      "summary": "Casper verifies her claim: air traffic logs, booking systems, even her own email history show no LX447. His handler orders him to drop the client. He refuses—an instinct he can't explain. Beat: the hook sets; curiosity overrules self-preservation."
+    },
+    {
+      "n": 4,
+      "title": "What the Cleaners Left Behind",
+      "summary": "Rosalind's hotel room is tossed; a cleaner squad nearly catches them. Casper recognizes tradecraft from his old military unit, meaning someone inside knows him. Beat: fear becomes personal; the past has teeth."
+    },
+    {
+      "n": 5,
+      "title": "The Incident, Remembered Wrong",
+      "summary": "Flashback chapter: the botched Kabul extraction that broke Casper's sleep, told through fragmented memory that contradicts his official report. Parallel: Rosalind's missing flight mirrors his missing truth. Beat: shame surfaces."
+    },
+    {
+      "n": 6,
+      "title": "Ledger of Ghosts",
+      "summary": "A disgraced air traffic controller in Bratislava confirms LX447 transmitted a distress code tied to a Frankfurt syndicate moving a defector named only 'the Courier.' Beat: the stakes widen from one woman to global finance."
+    },
+    {
+      "n": 7,
+      "title": "Handler's Gambit",
+      "summary": "Casper's handler, Ilse Brandt, offers him full reinstatement if he delivers Rosalind to 'protective custody'—an offer that smells like a handoff. POV shifts to Ilse, revealing she reports to someone above the agency. Beat: betrayal foreshadowed."
+    },
+    {
+      "n": 8,
+      "title": "Night Train to Munich",
+      "summary": "Fleeing Vienna, Casper and Rosalind share a sleeper car; she reveals fragments of the flight—a man in seat 12C pressing a data chip into her palm. Intimacy grows alongside suspicion. Beat: trust as a calculated risk."
+    },
+    {
+      "n": 9,
+      "title": "Seat 12C",
+      "summary": "Casper traces the man in 12C: Elias Marchetti, a syndicate accountant turned informant—the actual defector. The chip Rosalind carries is half a ledger; the other half dies with Marchetti. Beat: realization they're carrying the prize without knowing how to use it."
+    },
+    {
+      "n": 10,
+      "title": "Munich Station Ambush",
+      "summary": "Cleaners hit the station. Casper's counter-surveillance saves them but burns his face on station cameras—he is now visible for the first time in years. Beat: invisibility, his armor, begins failing."
+    },
+    {
+      "n": 11,
+      "title": "The Bait Hypothesis",
+      "summary": "Casper voices the terrible possibility: Rosalind was left alive deliberately, a lure to surface Marchetti's contacts—and him. She can't prove otherwise; neither can he. Beat: paranoia poisons the alliance."
+    },
+    {
+      "n": 12,
+      "title": "Ilse's Second Offer",
+      "summary": "Ilse corners Casper alone: hand over Rosalind and the chip, or be listed as rogue and hunted by his own former unit. He stalls. POV includes Ilse's private doubt about her masters. Beat: loyalty fractures along institutional lines."
+    },
+    {
+      "n": 13,
+      "title": "The Safehouse That Wasn't",
+      "summary": "A supposed ally's safehouse near Augsburg is a kill box; they escape through farmland at dawn, Rosalind saving Casper with a cold-headed move that surprises them both. Beat: grudging respect hardens into dependence."
+    },
+    {
+      "n": 14,
+      "title": "Half a Ledger",
+      "summary": "Decoding the chip reveals accounts implicating the syndicate—and a line item referencing Casper's Kabul incident, suggesting his team was sacrificed to protect the same network. Beat: personal wound and plot wound become one."
+    },
+    {
+      "n": 15,
+      "title": "Rosalind Remembers",
+      "summary": "Under stress, Rosalind's memory of LX447 sharpens disturbingly: she recalls the cockpit, the landing, a hangar—details no passenger should have. Casper confronts her. Beat: the question turns—is she victim, asset, or architect?"
+    },
+    {
+      "n": 16,
+      "title": "The Confession at Dachau Perimeter",
+      "summary": "Rosalind admits she was the syndicate's compliance officer who helped build the erasure system, then tried to defect with proof; the 'vanished flight' story was her own cover, seeded into records she once controlled. Beat: identity collapses and reforms—she chose to forget herself."
+    },
+    {
+      "n": 17,
+      "title": "Markets Open in Nine Hours",
+      "summary": "With dawn approaching in Frankfurt, the syndicate will unwind the ledger's exposure at opening bell unless the full record reaches regulators. Ilse offers one last deal; Casper realizes she intends to bury it, not deliver it. Beat: ticking clock fully armed."
+    },
+    {
+      "n": 18,
+      "title": "Into the Frankfurt Vault",
+      "summary": "Casper runs his old unit's playbook against his old unit, infiltrating the syndicate's data vault where the second half of the ledger is held, using Ilse's access codes against her. Beat: competence reclaimed; the soldier returns."
+    },
+    {
+      "n": 19,
+      "title": "What Casper Did in Kabul",
+      "summary": "Confrontation with the unit commander reveals the incident's true shape: Casper's team found the ledger's existence years ago and were erased for it; his guilt-driven memory gaps were induced, not natural. Beat: catharsis—the insomnia finally has a name."
+    },
+    {
+      "n": 20,
+      "title": "Opening Bell",
+      "summary": "Climax on the exchange floor perimeter: Casper broadcasts the complete ledger to regulators and press simultaneously as cleaners close in; Ilse chooses, at the last second, to shield their escape rather than stop it. Beat: maximum tension, costly victory."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath of a Visible Man",
+      "summary": "Syndicate arrests ripple outward; Casper, now publicly named, loses the anonymity that defined him but sleeps four hours straight for the first time since Kabul. Rosalind faces testimony and possible prosecution. Beat: bittersweet reckoning."
+    },
+    {
+      "n": 22,
+      "title": "Rosalind and the Border",
+      "summary": "Weeks later, at an EU border crossing, Rosalind awaits judgment on her cooperation deal; Casper arrives uninvited, offering to testify as her security witness. Two people rebuilt from erased pasts choose to cross forward together. Beat: belonging earned, identity chosen—quiet resolution."
+    }
+  ]
+}

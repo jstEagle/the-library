@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06973",
+  "title": "The Whole Harbor Anew",
+  "author": "Ulyana Crane",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Silas Zhou, a wedding planner who doesn't believe in weddings anymore, has spent twelve years rebuilding a life measured in small safe steps. But when a snowstorm strands two rivals with the best mistake of their twenties, they discover that staying invisible was never really an option. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6973
+  }
+}

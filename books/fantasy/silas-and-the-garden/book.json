@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01456",
+  "title": "Silas and the Garden",
+  "author": "Orsen Okafor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Mara Quintana, the keeper of a gate that should stay shut, keeps the ledgers of a guild that trades in impossible things. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. To get through this, he must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1456
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04637",
+  "title": "Marguerite and the Inventory",
+  "author": "Quentin Sandoval",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Isandro Thornbury, a night librarian in a city that sleeps less every year, keeps a careful inventory of everything unsaid. Then the last speaker of a language asks for one final student — and he is pulled straight into the middle of it. To get through this, he must translate the untranslatable sentence and live with it before the house sale closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4637
+  }
+}

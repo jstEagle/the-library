@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00644",
+  "title": "Horizon and Compass",
+  "author": "Petra Almeida",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Yara Pemberton, an archaeologist's estranged child and better digger, knows the wilderness forgives nothing and forgets less. Then the river gives up a chest stamped with a dead nation's seal — and he is pulled straight into the middle of it. To get through this, he must outlast the monsoon with a leaking boat and a stranger's help before the concession permits expire.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 644
+  }
+}

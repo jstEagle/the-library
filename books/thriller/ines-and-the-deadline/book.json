@@ -1,0 +1,21 @@
+{
+  "id": "THR-08925",
+  "title": "Ines and the Deadline",
+  "author": "Kestrel Lockridge",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Quentin Nakamura, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8925
+  }
+}

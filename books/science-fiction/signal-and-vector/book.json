@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07104",
+  "title": "Signal and Vector",
+  "author": "Hazel Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "August Sandoval, a clone who inherited the original's murder case, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. To get through this, they must prove a massacre happened when every record says otherwise before the fleet's truce expires.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7104
+  }
+}

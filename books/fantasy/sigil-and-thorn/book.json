@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01286",
+  "title": "Sigil and Thorn",
+  "author": "Lena Ravensworth",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Kestrel Underhill, an exiled storm-caller, has spent twelve years selling small charms in a city that outlawed magic. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1286
+  }
+}

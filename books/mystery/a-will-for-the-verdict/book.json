@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04838",
+  "title": "A Will for the Verdict",
+  "author": "Elodie Voss",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ada Fairweather, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4838
+  }
+}

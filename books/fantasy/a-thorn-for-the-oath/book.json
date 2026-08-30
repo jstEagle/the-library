@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00863",
+  "title": "A Thorn for the Oath",
+  "author": "Bram Zhou",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Lena Kavanagh, the youngest member of a dying guild, has spent ten years selling small charms in a city that outlawed magic. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 863
+  }
+}

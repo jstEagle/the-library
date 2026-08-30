@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06033",
+  "title": "A Kitchen for the Orchard",
+  "author": "Edmund Ravensworth",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ada Vane, a ghostwriter secretly penning a rival's memoirs, swears the heart is a muscle like any other: trainable, containable. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6033
+  }
+}

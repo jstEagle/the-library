@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02283",
+  "title": "Ironhollow Rising Again",
+  "author": "Mirabel Voss",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ada Blackwood, a thief who steals memories, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2283
+  }
+}

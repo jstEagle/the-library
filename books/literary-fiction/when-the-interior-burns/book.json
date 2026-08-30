@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04283",
+  "title": "When the Interior Burns",
+  "author": "Noor Quintana",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Bram Hartwell, an heir cataloging a parent's silence after the funeral, has perfected the smile that ends conversations. But when a song on the radio is one that was written and never recorded, they discover that staying invisible was never really an option. To get through this, they must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4283
+  }
+}

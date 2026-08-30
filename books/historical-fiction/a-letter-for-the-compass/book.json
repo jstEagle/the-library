@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02798",
+  "title": "A Letter for the Compass",
+  "author": "Juniper Pemberton",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Marguerite Vasquez, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent seven years learning which silences keep people safe. But when the army requisitions the town and the ledger with all the names, they discover that staying invisible was never really an option. Now they must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2798
+  }
+}

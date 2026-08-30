@@ -1,0 +1,21 @@
+{
+  "id": "THR-08438",
+  "title": "the Free Port Rising",
+  "author": "Elodie Hartwell",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Dominic Ravensworth, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8438
+  }
+}

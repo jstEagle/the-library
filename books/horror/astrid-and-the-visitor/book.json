@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03241",
+  "title": "Astrid and the Visitor",
+  "author": "Noor Amberdale",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Zephyrine Okafor, a pest controller called to something with fingerprints, documents everything, because documentation is a kind of prayer. But when the childhood imaginary friend is waiting on the porch, unchanged, he discovers that staying invisible was never really an option. To get through this, he must finish the ritual the founders started before the harvest moon rises.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3241
+  }
+}

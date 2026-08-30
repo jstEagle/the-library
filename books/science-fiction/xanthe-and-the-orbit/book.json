@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07692",
+  "title": "Xanthe and the Orbit",
+  "author": "J. M. Dunmore",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Yara Dunmore, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. Then the station AI begins confessing to crimes nobody reported — and they are pulled straight into the middle of it. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7692
+  }
+}

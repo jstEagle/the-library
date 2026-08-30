@@ -1,0 +1,21 @@
+{
+  "id": "THR-08719",
+  "title": "The Ghost of the Green Zone",
+  "author": "Oscar Oyelaran",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 5.0,
+  "blurb": "Quentin Sandoval, a hostage negotiator with one failure still on the board, has spent twelve years following rules that keep getting rewritten. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. To get through this, she must burn the network that did the training before the markets open in Frankfurt.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8719
+  }
+}

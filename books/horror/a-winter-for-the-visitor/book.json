@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03826",
+  "title": "A Winter for the Visitor",
+  "author": "Emrys Winterbourne",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.8,
+  "blurb": "Rafael Oyelaran, the new teacher at a school with a missing-class problem, has spent twelve years telling themselves the noises have explanations. But when every mirror in the house starts reflecting the room one second late, she discovers that staying invisible was never really an option. To get through this, she must learn the song's last verse without singing along before the frost writes its final pattern.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3826
+  }
+}

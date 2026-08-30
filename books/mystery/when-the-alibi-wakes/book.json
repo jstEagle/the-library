@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05367",
+  "title": "When the Alibi Wakes",
+  "author": "Wren Vane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ivo Winterbourne, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must trap a killer who knows the case file better than the investigators do before the statute expires.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5367
+  }
+}

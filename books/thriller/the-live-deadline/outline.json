@@ -1,0 +1,209 @@
+{
+  "title": "The Live Deadline",
+  "slug": "thriller/the-live-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Ulyana Eastwick, a former intelligence asset turned whistle-blower, has survived four years under four names by trusting no one and sleeping in shifts. When a real-estate listing exposes the interior of her safe house, she realizes the network that trained her — the Meridian Group — isn't hunting her; it's flushing her. Racing across three countries before the border checkpoint rotations bury her escape route, Ulyana allies with a disgraced archivist who holds the ledger of everyone she used to be. To end the hunt she must broadcast the training program's records live during a corporate gala, sacrificing her last identity to destroy the machine that built it.",
+  "about_author": "Felix Halloran is the pen name of a former logistics analyst who spent a decade moving sensitive cargo through Eastern European border towns before turning to fiction. He writes thrillers about people whose paperwork is more dangerous than their enemies.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Listing",
+      "summary": "Ulyana's POV. Scrolling property sites at 3 a.m., she finds her safe house for sale with photos of her own kitchen, her own bed, a red scarf she burned months ago. The beat: cold recognition that invisibility was an illusion someone allowed her."
+    },
+    {
+      "n": 2,
+      "title": "Four Names",
+      "summary": "Flashback-woven chapter establishing her identities: Mara in Riga, Ines in Porto, Katya in Trieste, Ulyana now. Her POV, paranoid and methodical. Emotional beat: grief for the woman she was before 'the incident.'"
+    },
+    {
+      "n": 3,
+      "title": "The Agent Who Knocked",
+      "summary": "A polite estate agent leaves a card under her door: 'Meridian Property Partners.' Ulyana's POV. She runs instead of packing properly, leaving evidence behind. Beat: panic sharpening into resolve."
+    },
+    {
+      "n": 4,
+      "title": "Checkpoint Rotations",
+      "summary": "Ulyana maps border shift schedules on a motel wall, discovering the rotation changes in eleven days — after that, her forged papers die. POV hers. Beat: a ticking clock made physical."
+    },
+    {
+      "n": 5,
+      "title": "The Archivist",
+      "summary": "Introduce Tomas Reiner, disgraced former Meridian records clerk, living quietly in Ljubljana. His POV. He recognizes her face from files he was ordered to shred. Beat: reluctant curiosity curdling into fear."
+    },
+    {
+      "n": 6,
+      "title": "What Tomas Kept",
+      "summary": "Tomas reveals he kept one unshredded ledger: every alias Meridian ever issued, including all four of hers. His POV, guilt-driven. Beat: two hunters of the same truth circling each other."
+    },
+    {
+      "n": 7,
+      "title": "The Incident, Part One",
+      "summary": "First full flashback: the training exercise gone wrong, the death Ulyana witnessed, the order to forget. Her POV, fragmented prose. Beat: memory as wound."
+    },
+    {
+      "n": 8,
+      "title": "Tail Lights",
+      "summary": "A gray sedan follows Ulyana from Ljubljana to the coast. She doubles back, loses it, but finds a tracker in her coat lining — planted weeks ago. Her POV. Beat: the past has been holding her hand."
+    },
+    {
+      "n": 9,
+      "title": "Vera",
+      "summary": "Introduce Vera Solheim, Meridian's elegant fixer, via her own POV as she reports to Director Ansel Kade. Vera argues against killing Ulyana: 'Let her run to the ledger.' Beat: chilling institutional patience."
+    },
+    {
+      "n": 10,
+      "title": "Uneasy Alliance",
+      "summary": "Ulyana confronts Tomas at knifepoint; he offers the ledger in exchange for being named in her testimony. Her POV. Beat: trust as a calculated risk, not a feeling."
+    },
+    {
+      "n": 11,
+      "title": "The Ledger",
+      "summary": "Reading the ledger together: hundreds of names, four of them hers, each crossed out when 'retired.' Tomas's POV. Beat: horror at how many people were erased like her."
+    },
+    {
+      "n": 12,
+      "title": "Kade's Gala",
+      "summary": "Kade's POV. Meridian hosts its annual gala in Vienna in nine days — the same night the checkpoints rotate. He suspects Ulyana will come to him. Beat: predator setting the table."
+    },
+    {
+      "n": 13,
+      "title": "Porto Ghosts",
+      "summary": "Ulyana detours to Porto to retrieve a dead-drop cache under the name Ines and finds it emptied — except for a photo of herself sleeping. Her POV. Beat: violation deeper than surveillance."
+    },
+    {
+      "n": 14,
+      "title": "The Handler Who Cared",
+      "summary": "Flashback to Dario, her original handler, the only person who showed her kindness — and who signed her retirement order. Her POV. Beat: betrayal wearing a warm face."
+    },
+    {
+      "n": 15,
+      "title": "Burning Ines",
+      "summary": "Ulyana formally abandons the Ines identity: burns documents, cuts her hair, changes her gait. Her POV, ritualistic. Beat: identity as armor she can no longer afford."
+    },
+    {
+      "n": 16,
+      "title": "Vera Makes Contact",
+      "summary": "Vera approaches Tomas openly, offering him reinstatement and immunity if he surrenders the ledger. His POV. Beat: temptation dressed as mercy."
+    },
+    {
+      "n": 17,
+      "title": "Tomas Lies",
+      "summary": "Tomas tells Vera the ledger is in Zurich. It isn't. His POV, terrified of his own competence at deception. Beat: a coward discovering courage."
+    },
+    {
+      "n": 18,
+      "title": "The Incident, Part Two",
+      "summary": "Second flashback: what happened after — the cover-up, the coerced confession, why Ulyana ran with copies of everything. Her POV. Beat: understanding that her whistle-blowing was always suicide postponed."
+    },
+    {
+      "n": 19,
+      "title": "Zurich Diversion",
+      "summary": "Ulyana flies to Zurich to sell the lie, planting forensic traces of the ledger in a bank vault. Her POV, playing a role one last time. Beat: using their methods against them."
+    },
+    {
+      "n": 20,
+      "title": "Vera Bites",
+      "summary": "Vera's POV: Meridian strips its Vienna security to raid Zurich. Kade grows suspicious; Vera insists. Beat: the hunters divided."
+    },
+    {
+      "n": 21,
+      "title": "Six Days Out",
+      "summary": "Ulyana and Tomas plan the broadcast: hijack the gala's livestream using credentials from the ledger itself. Her POV, detailed and desperate. Beat: hope that feels like mania."
+    },
+    {
+      "n": 22,
+      "title": "Dario Returns",
+      "summary": "Dario intercepts Ulyana in Salzburg — not to kill her, but to beg her to stop, revealing he requested her 'retirement' to save her life. Her POV. Beat: love and control indistinguishable."
+    },
+    {
+      "n": 23,
+      "title": "The Offer",
+      "summary": "Kade himself calls Ulyana: full pardon, new identity, the incident officially undone — if she returns the ledger and disappears forever. Her POV. Beat: the seduction of forgetting."
+    },
+    {
+      "n": 24,
+      "title": "Sleepless Vote",
+      "summary": "Ulyana nearly accepts. A night without sleep, walking Vienna, she realizes acceptance means becoming one of the ledger's blank lines. Her POV. Beat: choosing self over safety."
+    },
+    {
+      "n": 25,
+      "title": "Tomas Taken",
+      "summary": "Vera, unconvinced by Zurich, takes Tomas from his apartment. His POV, brutal and brief. Beat: the cost of the diversion lands on the innocent accomplice."
+    },
+    {
+      "n": 26,
+      "title": "Ransom of Records",
+      "summary": "Vera contacts Ulyana: Tomas for the ledger, exchange at the gala itself. Ulyana's POV, fury and guilt. Beat: the trap closes exactly as designed."
+    },
+    {
+      "n": 27,
+      "title": "Counterfeit Ledger",
+      "summary": "Ulyana builds a decoy ledger overnight, embedding a second payload in its metadata. Her POV, craftsmanlike calm. Beat: turning forgery — her oldest skill — into a weapon."
+    },
+    {
+      "n": 28,
+      "title": "The Night Before",
+      "summary": "Quiet chapter: Ulyana sleeps for the first time in the book, two hours, dreamless. Her POV, elegiac. Beat: peace as preparation for erasure."
+    },
+    {
+      "n": 29,
+      "title": "Gala Entry",
+      "summary": "Ulyana enters the Vienna gala under a fifth name — her real one, Ulyana Eastwick, deliberately. Her POV. Beat: reclaiming identity as an act of war."
+    },
+    {
+      "n": 30,
+      "title": "The Exchange",
+      "summary": "Ballroom confrontation: Tomas traded for the counterfeit ledger while Ulyana's payload uploads toward the livestream. Alternating POVs. Beat: everything balanced on a handshake."
+    },
+    {
+      "n": 31,
+      "title": "Vera's Doubt",
+      "summary": "Vera notices the ledger's paper is wrong — new stock, wrong watermark. Her POV, a heartbeat of hesitation. Beat: the professional's instinct versus the institution's blindness."
+    },
+    {
+      "n": 32,
+      "title": "Live",
+      "summary": "The broadcast breaks: training footage, the incident, the ledger scrolling across screens at the gala and worldwide. Ulyana's POV, detached awe. Beat: exposure as liberation."
+    },
+    {
+      "n": 33,
+      "title": "Kade Unmasked",
+      "summary": "Kade, cornered on camera, orders violence anyway; guests film everything. His POV collapsing from control to panic. Beat: power revealed as performance."
+    },
+    {
+      "n": 34,
+      "title": "The Checkpoint Shifts",
+      "summary": "Mid-escape, the border rotations change early — Kade's last lever. Ulyana and Tomas reroute through a freight yard. Her POV, adrenaline and clarity. Beat: the clock becomes the enemy."
+    },
+    {
+      "n": 35,
+      "title": "Vera's Choice",
+      "summary": "Vera catches them at the freight yard, gun drawn — then lowers it, handing over her access badge: 'I was line 212 once too.' Her POV. Beat: the system's instrument defects."
+    },
+    {
+      "n": 36,
+      "title": "The Incident, Resolved",
+      "summary": "Final flashback interwoven with the escape: Ulyana finally remembers the incident whole, including her own complicity. Her POV. Beat: memory reclaimed without absolution."
+    },
+    {
+      "n": 37,
+      "title": "Border Crossing",
+      "summary": "Using Vera's badge and the old rotation gap, they cross on foot at dawn. Her POV, stripped and exhausted. Beat: survival without triumph."
+    },
+    {
+      "n": 38,
+      "title": "Aftermath Broadcast",
+      "summary": "News cycle: arrests, denials, Kade's resignation, Meridian's slow dissolution. Multiple brief POVs. Beat: justice arriving partial and unsatisfying."
+    },
+    {
+      "n": 39,
+      "title": "The Fifth Name",
+      "summary": "Ulyana chooses to keep her real name publicly, testifying under it, ending the era of aliases. Her POV. Beat: identity as testimony rather than disguise."
+    },
+    {
+      "n": 40,
+      "title": "First Sleep",
+      "summary": "Epilogue: a year later, Ulyana sleeps through the night in an ordinary apartment; Tomas visits with coffee and news clippings. Her POV, quiet. Beat: the whistle-blower's reward is not safety but rest."
+    }
+  ]
+}

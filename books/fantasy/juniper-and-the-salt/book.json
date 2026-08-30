@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01696",
+  "title": "Juniper and the Salt",
+  "author": "Ivo Marchetti",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Astrid Okafor, a thief who steals memories, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1696
+  }
+}

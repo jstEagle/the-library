@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09806",
+  "title": "Odile and the Tryouts",
+  "author": "Ansel Underhill",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Noor Fairweather, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. Then a best friend goes missing, leaving only a set of keys behind — and he is pulled straight into the middle of it. To get through this, he must win the championship that doesn't matter — and the one that does before graduation.",
+  "themes": [
+    "memory",
+    "identity",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9806
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01270",
+  "title": "Paloma and the Wolf",
+  "author": "Freya Eriksen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Astrid Hartwell, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1270
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01600",
+  "title": "Mirabel and the Choir",
+  "author": "Ulyana Sandoval",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Coral Ishikawa, a cartographer of unmapped realms, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. To get through this, he must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1600
+  }
+}

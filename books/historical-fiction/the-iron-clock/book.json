@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02934",
+  "title": "The Iron Clock",
+  "author": "Mara Dravenmoor",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Cyrus Okafor, a mapmaker's apprentice finishing the atlas the master died for, measures the world in what can be carried when the orders come. But when a sealed letter names the family in a plot no one wants a part of, she discovers that staying invisible was never really an option. To get through this, she must smuggle the evidence past three checkpoints before the ice breaks on the river.",
+  "themes": [
+    "memory",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2934
+  }
+}

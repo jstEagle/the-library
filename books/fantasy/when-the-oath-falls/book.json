@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00861",
+  "title": "When the Oath Falls",
+  "author": "Rosalind Thornbury",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Lena Dravenmoor, a debt-bound temple scribe, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 861
+  }
+}

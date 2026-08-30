@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02142",
+  "title": "The Drowned Salt Anew",
+  "author": "Silas Voss",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Bram Kavanagh, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. To get through this, she must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2142
+  }
+}

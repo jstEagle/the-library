@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05940",
+  "title": "The Borrowed Portrait Anew",
+  "author": "Jude Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Quentin Nystrom, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. To get through this, they must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "belonging",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5940
+  }
+}

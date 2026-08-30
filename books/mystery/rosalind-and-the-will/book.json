@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05741",
+  "title": "Rosalind and the Will",
+  "author": "Xanthe Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Sable Fairweather, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. To get through this, they must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5741
+  }
+}

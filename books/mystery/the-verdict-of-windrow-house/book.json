@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04919",
+  "title": "The Verdict of Windrow House",
+  "author": "Petra Brightwater",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Dominic Vane, the archivist of a cathedral with a locked crypt, has spent twelve years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4919
+  }
+}

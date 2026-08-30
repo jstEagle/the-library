@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05757",
+  "title": "Marguerite and the Cipher Revisited",
+  "author": "Isandro Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Rafael Hartwell, an insurance investigator with a photographic memory, has spent seven years keeping the town's secrets filed and alphabetized. Then the town's beloved founder is exhumed and the coffin is empty — and she is pulled straight into the middle of it. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5757
+  }
+}

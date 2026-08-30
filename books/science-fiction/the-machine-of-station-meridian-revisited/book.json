@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08134",
+  "title": "The Machine of Station Meridian Revisited",
+  "author": "Zephyrine Dunmore",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Juniper Winterbourne, a xenolinguist who can no longer dream in human languages, has spent twelve years hauling cargo through contested orbits. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the reactor finishes its countdown.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8134
+  }
+}

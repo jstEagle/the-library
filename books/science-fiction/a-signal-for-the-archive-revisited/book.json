@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08268",
+  "title": "A Signal for the Archive Revisited",
+  "author": "Dominic Okonkwo",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ulyana Almeida, a terraformer tending a garden meant for people not yet born, has spent three years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8268
+  }
+}

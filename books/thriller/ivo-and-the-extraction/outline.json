@@ -1,0 +1,119 @@
+{
+  "title": "Ivo and the Extraction",
+  "slug": "thriller/ivo-and-the-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Lior Joubert, a private security contractor for clients nobody trusts, is pulled into a conspiracy when a voiceprint — his own — unlocks a server in Zurich containing evidence of a staged industrial disaster timed to Frankfurt's market open. Hunted by the extraction team he once trained alongside and betrayed by the firm that owns his contract, Lior must decide whether justice outside the law is worth the last shreds of the lie he's built his life on. In the end he stops the attack by turning the perpetrators' own dead-man's-switch protocol against them, exposes the firm's ledger to a journalist instead of the authorities it owns, and walks away with nothing but the truth and a new name.",
+  "about_author": "U. M. Marchetti is the pen name of a former risk analyst who spent a decade writing threat assessments for firms that preferred their problems invisible. Marchetti now writes thrillers from an undisclosed location, insisting only that every plot twist in these books has happened to someone.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Go-Bag",
+      "summary": "Lior's POV. A routine protection detail in Geneva establishes his polished lie: the fake name, the packed bag, the exit routes memorized like prayers. When a client hints that Meridian Protective Group knows more about him than any employer should, unease takes root. Emotional beat: controlled paranoia — a man who trusts no one, including himself."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "Lior's POV. At 3 a.m., a server in Zurich unlocks to a recording of his own voice — a phrase he said once, years ago, to someone now dead. The screen shows a countdown tied to Frankfurt's opening bell. Emotional beat: vertigo; the past reaching through the machine to claim him."
+    },
+    {
+      "n": 3,
+      "title": "Meridian",
+      "summary": "Lior's POV. He confronts his handler, Dana Okonkwo, who denies everything too smoothly and orders him onto a flight to Frankfurt as 'consulting cover.' He goes, but packs the go-bag first. Emotional beat: the sick recognition that he is being moved like an asset, not a person."
+    },
+    {
+      "n": 4,
+      "title": "The Widow in Zurich",
+      "summary": "Marta Keller's POV. Marta, widow of the engineer whose voiceprint archive was stolen, has spent two years pulling threads. She intercepts Lior at the airport, shows him her husband's notes: a chemical plant's 'safety failure' scheduled to crater insurance markets. Emotional beat: grief weaponized into purpose."
+    },
+    {
+      "n": 5,
+      "title": "Dead Man's Switch",
+      "summary": "Lior's POV. The notes reveal the attack runs on a dead-man's-switch: if the insider doesn't check in hourly, the 'accident' triggers automatically. Killing the plot means finding the insider before Frankfurt opens in sixty hours. Emotional beat: dread with a deadline attached."
+    },
+    {
+      "n": 6,
+      "title": "Old Friends",
+      "summary": "Lior's POV. Meridian dispatches an extraction team led by Casper Voss — Lior's former trainee and closest friend — officially to protect him, actually to contain him. A tense dinner where both men perform loyalty they've stopped feeling. Emotional beat: betrayal rehearsed as friendship."
+    },
+    {
+      "n": 7,
+      "title": "Sixty Hours",
+      "summary": "Alternating POV, Lior and Marta. They trace the insider's check-in pattern through hotel Wi-Fi logs and burner pings to a Meridian subsidiary in Basel. First tail spotted; first escape executed using tricks Lior taught the people chasing him. Emotional beat: grim competence under pressure."
+    },
+    {
+      "n": 8,
+      "title": "What Lior Did in Kandahar",
+      "summary": "Flashback chapter, Lior's POV. The origin of the voiceprint phrase and of the lie: an operation gone wrong, a civilian death, a report Lior signed that wasn't true. Emotional beat: shame surfacing — the conspiracy is exploiting a guilt he never confessed."
+    },
+    {
+      "n": 9,
+      "title": "The Insider",
+      "summary": "Marta's POV. They find the switch-holder: Anselm Brandt, a mid-level plant safety officer blackmailed over his own falsified inspections. He's not a villain; he's a hostage. Emotional beat: pity curdling into urgency — saving him means trusting him."
+    },
+    {
+      "n": 10,
+      "title": "Voss Closes In",
+      "summary": "Casper's POV. Ordered to bring Lior in 'quietly,' Casper rationalizes the order while quietly copying files for himself — insurance against everyone. Emotional beat: corruption as self-persuasion; power corrupting a good soldier one small compromise at a time."
+    },
+    {
+      "n": 11,
+      "title": "Basel",
+      "summary": "Lior's POV. A handoff meeting with Brandt goes wrong when Meridian's second team hits the safehouse. Brandt is taken; Lior escapes with half the evidence and a concussion. Emotional beat: failure, and the temptation to run that he refuses."
+    },
+    {
+      "n": 12,
+      "title": "The Ledger",
+      "summary": "Dana's POV. Dana discovers the attack isn't Meridian leadership's idea alone — a client consortium profits from the market crash, and her own name is on the deniability list. Emotional beat: the loyal lieutenant realizing she is disposable."
+    },
+    {
+      "n": 13,
+      "title": "Negotiation",
+      "summary": "Lior's POV. Captured briefly by Voss, Lior doesn't fight — he talks, laying out how everyone involved gets burned unless the switch is disarmed. Casper lets him go, telling himself it's strategy. Emotional beat: the knife-edge between enemies and accomplices."
+    },
+    {
+      "n": 14,
+      "title": "Frankfurt, Night Before",
+      "summary": "Marta's POV. With twelve hours left, Marta and Lior locate Brandt in a Meridian black site disguised as a data center. Marta insists on going in despite having no training. Emotional beat: ordinary courage versus professional violence."
+    },
+    {
+      "n": 15,
+      "title": "The Data Center",
+      "summary": "Lior's POV. Infiltration sequence. They reach Brandt, but the switch has been re-armed remotely — someone inside the consortium wants it live regardless of Brandt's fate. Emotional beat: the plan collapsing into improvisation."
+    },
+    {
+      "n": 16,
+      "title": "Turn the Switch",
+      "summary": "Lior's POV. Lior realizes the protocol cuts both ways: if HE checks in as Brandt, he can trigger the fail-safe that locks the plant down instead of blowing it. It requires broadcasting his real name and voice — burning his identity forever. Emotional beat: sacrifice as choice, not loss."
+    },
+    {
+      "n": 17,
+      "title": "Opening Bell",
+      "summary": "Multi-POV climax. As Frankfurt opens, Lior's voiceprint fires the lockdown; the 'accident' becomes a contained shutdown. Voss, ordered to silence everyone, instead releases his copied files and disappears. Emotional beat: chaos resolving into a single held breath."
+    },
+    {
+      "n": 18,
+      "title": "Loose Ends",
+      "summary": "Dana's POV. Dana hands the consortium ledger to journalist Tomas Reiner rather than the regulators she knows are bought, then surrenders herself on her own terms. Emotional beat: justice chosen deliberately outside broken systems."
+    },
+    {
+      "n": 19,
+      "title": "Aftermath",
+      "summary": "Marta's POV. Brandt testifies; the plant's owners fall; Marta buries her husband's name in headlines instead of silence. She offers Lior a place in whatever comes next. Emotional beat: mourning that finally has somewhere to go."
+    },
+    {
+      "n": 20,
+      "title": "The Lie Retired",
+      "summary": "Lior's POV. Interrogated by officials who want the story tidy, Lior gives them the truth minus the parts that would kill innocents — his first honest testimony in years. His old identity is burned; the go-bag sits unpacked. Emotional beat: exhaustion edged with relief."
+    },
+    {
+      "n": 21,
+      "title": "A New Name",
+      "summary": "Lior's POV. Weeks later, in a rented room in Porto, Lior signs a lease under a name that is at least truly his. Reiner's first article breaks. Somewhere, Voss reads it and smiles. Emotional beat: quiet rebirth without absolution."
+    },
+    {
+      "n": 22,
+      "title": "Extraction",
+      "summary": "Final chapter, Lior's POV. A voiceprint request arrives again — someone else's crisis, someone else's locked server. Lior looks at the go-bag, and this time packs it knowingly, choosing the fight. Emotional beat: the thriller's engine restarting; justice outside the law as a vocation, not an accident."
+    }
+  ]
+}

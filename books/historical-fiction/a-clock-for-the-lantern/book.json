@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02433",
+  "title": "A Clock for the Lantern",
+  "author": "Coral Okafor",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 5.0,
+  "blurb": "Ansel Quintana, an apprentice clockmaker summoned to repair the observatory's master clock, keeps a low profile and busy hands. But when the bridge — the only road out — closes for the season, she discovers that staying invisible was never really an option. Now she must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2433
+  }
+}

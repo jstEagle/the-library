@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04295",
+  "title": "A Weather for the Language",
+  "author": "L. M. Brightwater",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Noor Marchetti, a letter-writer sending postcards to an address that burned down years ago, keeps a careful inventory of everything unsaid. Then the last speaker of a language asks for one final student — and she is pulled straight into the middle of it. To get through this, she must say goodbye properly, at last, out loud before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4295
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Petra and the Asset",
+  "slug": "thriller/petra-and-the-asset",
+  "model": "stealth/ox-alpha",
+  "premise": "Paloma Iversen, a nonbinary private security contractor who has spent a decade erasing their past, is hired to protect a reclusive tech executive whose servers respond to a voiceprint that shouldn't exist: Paloma's own, recorded years ago by the mother they believed dead. Following the voiceprint to Lisbon, Paloma uncovers a plot to trigger an industrial disaster disguised as an accident—an attack orchestrated by the same covert program that trained them and erased them. Torn between duty to their client, love for a journalist digging into the same story, and loyalty to a ghost, Paloma must choose between staying invisible and becoming someone worth remembering. In the end, they stop the attack at devastating personal cost, expose the program, and finally claim a name, a home, and a future.",
+  "about_author": "Coral Thornbury is the pen name of a former maritime security analyst who spent six years writing risk assessments before turning to fiction. They live in a coastal town in Maine, where they write at dawn and keep, out of habit, a go-bag by the door.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Packed Bag",
+      "summary": "Paloma's POV. On a routine protection detail in Oslo, we see Paloma's disciplined invisibility: forged references, a go-bag, no photos, no attachments. A near-miss with a client's paranoid audit reminds them how fragile their constructed identity is. Emotional beat: loneliness mistaken for safety."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "Paloma's POV. Hired by tech executive Margrethe Sølve to investigate why her secure server in Lisbon unlocked for an unknown biometric key. The audio log plays a voiceprint match: Paloma's own voice, sampled from a recording made when they were nineteen—by a woman listed as deceased. Beat: the past knocking."
+    },
+    {
+      "n": 3,
+      "title": "What the Dead Leave Behind",
+      "summary": "Paloma's POV, flashbacks interleaved. Digging into the voiceprint metadata, Paloma finds their mother's name tied to a defunct behavioral research program called LANTERN. First flashback of childhood training disguised as boarding school. Beat: grief reopening as evidence."
+    },
+    {
+      "n": 4,
+      "title": "The Journalist",
+      "summary": "Nadia Okonkwo's POV. An investigative reporter in Lisbon is chasing LANTERN leads after three program alumni died in 'accidents.' She notices surveillance on her flat and photographs her watcher: it's Paloma. Beat: two hunters circling the same wound."
+    },
+    {
+      "n": 5,
+      "title": "Contract Terms",
+      "summary": "Paloma's POV. Margrethe reveals she was LANTERN's financier's daughter and suspects the program never ended—it just changed owners. She hires Paloma fully, but Paloma hides the voiceprint connection. Beat: complicity; the lie polished one more time."
+    },
+    {
+      "n": 6,
+      "title": "Lisbon, Rain",
+      "summary": "Paloma's POV. Arriving in Lisbon, Paloma tails Nadia instead of reporting her—and gets caught. In a tram tunnel confrontation, each realizes the other isn't the enemy. Uneasy alliance formed over shared coffee and mutual suspicion. Beat: first warmth in years."
+    },
+    {
+      "n": 7,
+      "title": "LANTERN Archive",
+      "summary": "Alternating POV. Nadia's source—a former handler code-named Vesper—gives them partial files: LANTERN didn't just train children as assets; it built 'continuity keys' from their voices to control legacy systems still running critical infrastructure. Beat: horror of being designed, not raised."
+    },
+    {
+      "n": 8,
+      "title": "The Other Alumni",
+      "summary": "Paloma's POV. Tracking surviving alumni, Paloma meets Tomas, a former cohort member now living quietly as a ferry mechanic. He warns that whoever holds the keys is 'cleaning house'—the three dead journalists' sources were all alumni. Beat: survivor's guilt weaponized."
+    },
+    {
+      "n": 9,
+      "title": "Accident, Scheduled",
+      "summary": "Nadia's POV. Decrypted schedules show a maintenance window at the Marvila gas terminal in eleven days—an 'inspection failure' already scripted into the system logs. The attack will look like negligence, killing hundreds and burying LANTERN's paper trail. Beat: clock starts."
+    },
+    {
+      "n": 10,
+      "title": "Vesper's Price",
+      "summary": "Paloma's POV. Vesper agrees to help but demands Paloma surrender their own continuity key—the voiceprint—to prove loyalty. Paloma records it, knowing what handing over your voice means. Beat: sacrifice as trust; love against duty begins its argument."
+    },
+    {
+      "n": 11,
+      "title": "Margrethe's Secret",
+      "summary": "Paloma's POV. Paloma discovers Margrethe has been feeding updates to someone inside the new LANTERN network—her father's old partners—to buy her company's survival. Confrontation; Margrethe pleads pragmatism. Beat: betrayal by a client who was almost a friend."
+    },
+    {
+      "n": 12,
+      "title": "Tomas Doesn't Come Home",
+      "summary": "Paloma's POV. Tomas is found drowned, ruled accidental, his apartment burned. Among the ashes, a note in their childhood cipher: 'They know you're here. Run.' Paloma refuses to run. Beat: grief converted to resolve."
+    },
+    {
+      "n": 13,
+      "title": "Two Truths",
+      "summary": "Nadia's POV. Nadia must choose: publish early and blow the operation, or hold the story and risk the attack. She and Paloma argue on a rooftop—duty to truth versus duty to lives—and admit, mid-fight, that they've stopped thinking of each other as temporary. Beat: love named aloud."
+    },
+    {
+      "n": 14,
+      "title": "The Mother File",
+      "summary": "Paloma's POV. Vesper delivers the file on Paloma's mother: she wasn't a monster or a martyr—she hid Paloma's key inside the Lisbon server deliberately, a dead-man's switch meant to be found by her child. She died protecting the archive. Beat: belonging, posthumously given."
+    },
+    {
+      "n": 15,
+      "title": "Counter-Script",
+      "summary": "Ensemble POV. The plan: use Paloma's voice to enter the terminal's legacy system during the maintenance window and overwrite the scripted 'accident' with a real inspection record. Nadia preps publication; Margrethe, guilt-ridden, offers her access codes. Beat: fragile coalition."
+    },
+    {
+      "n": 16,
+      "title": "Leak",
+      "summary": "Paloma's POV. Someone sells the plan. Vesper goes silent; a kill team hits Nadia's safehouse; Paloma extracts her through burning stairwells. Margrethe's contact is revealed: not betrayal this time—she was coerced. Beat: everything on fire, literally and otherwise."
+    },
+    {
+      "n": 17,
+      "title": "Day Minus One",
+      "summary": "Paloma's POV. With the original plan compromised, Paloma proposes the unthinkable: walk into the terminal openly, using their real name and their mother's file as leverage with the insider running the op—a former LANTERN instructor who once showed them kindness. Beat: choosing visibility as a weapon."
+    },
+    {
+      "n": 18,
+      "title": "Marvila",
+      "summary": "Paloma's POV. Inside the terminal, Paloma confronts Instructor Reyes at the control floor. He offers Paloma a place in the new order—belonging, again, on their terms. Paloma answers with their mother's words and triggers the overwrite sequence while Reyes locks down the room. Beat: climax begins."
+    },
+    {
+      "n": 19,
+      "title": "Overwrite",
+      "summary": "Split POV. As alarms rise, Paloma fights Reyes hand-to-hand while the system accepts the legitimate inspection record, killing the scripted failure. Nadia's story publishes simultaneously worldwide. Margrethe's testimony seals the legal case. Beat: victory purchased with blood."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath",
+      "summary": "Nadia's POV. Investigations launch across three countries; Vesper resurfaces in protective custody, having sold the plan to force Paloma's hand—believing only desperation would make them act. Paloma, injured, lets Nadia tend their wounds without checking the exits. Beat: learning to be safe."
+    },
+    {
+      "n": 21,
+      "title": "The Unpacked Bag",
+      "summary": "Paloma's POV. Weeks later, Paloma unpacks the go-bag item by item in a small Lisbon apartment, keeping only their mother's cassette recorder. They give Nadia a key—not a voiceprint, a metal one. Beat: belonging chosen, not assigned."
+    },
+    {
+      "n": 22,
+      "title": "Petra",
+      "summary": "Paloma's POV, epilogue. At a quiet ceremony honoring the program's victims, Paloma speaks their mother's chosen name for them aloud for the first time since childhood: Petra. Not invisible, not an asset—a person, loved, remembered, home. Beat: resolution; memory reclaimed as inheritance."
+    }
+  ]
+}

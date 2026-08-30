@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06393",
+  "title": "Songbook and Postcard",
+  "author": "Noor Vasquez",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Ines Zhou, a ghostwriter secretly penning a rival's memoirs, swears the heart is a muscle like any other: trainable, containable. Then a lost letter surfaces, postmarked eleven years ago — and he is pulled straight into the middle of it. To get through this, he must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "found family",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6393
+  }
+}

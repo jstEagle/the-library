@@ -1,0 +1,21 @@
+{
+  "id": "THR-08553",
+  "title": "The Last Drop",
+  "author": "Rafael Okonkwo",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Wendell Quintana, a crash investigator whose family died in row twelve, has spent twenty years following rules that keep getting rewritten. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. To get through this, he must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "belonging",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8553
+  }
+}

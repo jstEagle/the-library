@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04766",
+  "title": "Xanthe and the Wardrobe",
+  "author": "Casper Amberdale",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Emrys Reyes, a translator losing a childhood language one borrowed word at a time, has spent twenty years practicing the art of almost saying it. But when a song on the radio is one that was written and never recorded, they discover that staying invisible was never really an option. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4766
+  }
+}

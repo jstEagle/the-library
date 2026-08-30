@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03092",
+  "title": "Mirabel and the Atlas",
+  "author": "W. M. Ishikawa",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Felix Thackeray, a typeface cutter's daughter in a print shop on the eve of a revolution, measures the world in what can be carried when the orders come. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the ship sails on the morning tide.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3092
+  }
+}

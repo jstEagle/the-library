@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06881",
+  "title": "When the Orchard Falls Anew",
+  "author": "Beatrix Whitlock",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Elodie Brightwater, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. Then two estranged names appear on the same impossibly stubborn orchard deed — and she is pulled straight into the middle of it. Now she must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6881
+  }
+}

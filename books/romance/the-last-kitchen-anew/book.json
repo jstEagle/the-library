@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06994",
+  "title": "The Last Kitchen Anew",
+  "author": "Bram Galloway",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 3.6,
+  "blurb": "Mara Eastwick, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the bakery lease runs out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6994
+  }
+}

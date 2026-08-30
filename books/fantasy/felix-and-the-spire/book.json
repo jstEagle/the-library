@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01526",
+  "title": "Felix and the Spire",
+  "author": "Sebastian Brightwater",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ulyana Amberdale, a cartographer of unmapped realms, has spent five years selling small charms in a city that outlawed magic. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1526
+  }
+}

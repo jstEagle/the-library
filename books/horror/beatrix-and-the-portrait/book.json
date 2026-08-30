@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03271",
+  "title": "Beatrix and the Portrait",
+  "author": "Juniper Nakamura",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Theo Nakamura, a property surveyor appraising a house that appraises back, doesn't believe, has never believed, will not begin believing now. Then the excavation crew unearths a door, sealed from the inside — and they are pulled straight into the middle of it. To get through this, they must return what was taken in 1974 before the harvest moon rises.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3271
+  }
+}

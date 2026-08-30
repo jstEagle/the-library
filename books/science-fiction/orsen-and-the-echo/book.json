@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07273",
+  "title": "Orsen and the Echo",
+  "author": "Cyrus Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Tamsin Ishikawa, a xenolinguist who can no longer dream in human languages, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. To get through this, they must keep a lie alive that holds two fleets apart before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7273
+  }
+}

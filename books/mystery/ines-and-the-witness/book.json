@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05167",
+  "title": "Ines and the Witness",
+  "author": "Oscar Lockridge",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Mara Underhill, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. To get through this, he must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5167
+  }
+}

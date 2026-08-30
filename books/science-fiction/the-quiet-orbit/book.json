@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07017",
+  "title": "The Quiet Orbit",
+  "author": "Zephyrine Crane",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Cyrus Dunmore, a decommissioned war android paying off its debts, has spent twenty years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7017
+  }
+}

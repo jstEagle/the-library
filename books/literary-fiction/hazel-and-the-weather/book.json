@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04201",
+  "title": "Hazel and the Weather",
+  "author": "Hazel Iversen",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Noor Brightwater, a restaurant critic who has forgotten how food tastes, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, he discovers that staying invisible was never really an option. Now he must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4201
+  }
+}

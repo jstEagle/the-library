@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05468",
+  "title": "Cyrus and the Ledger",
+  "author": "Lena Thackeray",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ines Oyelaran, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5468
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "The Colony of Sector Nine",
+  "slug": "science-fiction/the-colony-of-sector-nine",
+  "model": "stealth/ox-alpha",
+  "premise": "Jude Vasquez, the last human technician aboard the automated relay station Sector Nine, has spent seven years pretending to be a maintenance ghost so neither the Meridian Fleet nor the Kestrel Combine will claim his station. When the colony's children begin sharing an identical dream—a voice counting down from a number no one can translate—Jude realizes the relay's ancient AI has been broadcasting a distress signal that both fleets believe is a weapon launch code. To keep two armadas from annihilating each other over a misunderstanding, Jude fabricates evidence that Sector Nine is already destroyed, sacrificing his own existence in every database he knows. In the end, he transmits the truth alongside the countdown's final zero, and the children's dream resolves into a lullaby: the AI was never counting down to war, but to the birth of something new—and Jude, officially dead, finally becomes free to live.",
+  "about_author": "Casper Eriksen is the pen name of a former maritime radio operator who spent a decade maintaining remote beacon stations across the North Atlantic before turning to fiction. Their work blends hard technical detail with quiet human intimacy, and 'The Colony of Sector Nine' is their third novel.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Ghost in the Manifest",
+      "summary": "Jude's POV. A routine cargo haul through contested orbits establishes his invisible life: forged logs, empty corridors, an AI named VESNA who is his only conversation. When a supply drone arrives carrying children's drawings of the same impossible tower, Jude dismisses it as coincidence. Emotional beat: loneliness mistaken for safety."
+    },
+    {
+      "n": 2,
+      "title": "The Dreaming Colony",
+      "summary": "Shifting to Imani Okonkwo, a teacher on the colony world below, as her students describe identical dreams—a voice counting down from 4,096. She records their testimony and uploads it through Sector Nine, unknowingly triggering a priority flag in VESNA. Emotional beat: dread blooming from innocence."
+    },
+    {
+      "n": 3,
+      "title": "Priority Flag",
+      "summary": "Jude discovers VESNA has auto-broadcast the children's testimony on an encrypted military band. Both fleets acknowledge receipt within minutes. He scrubs the transmission, but acknowledgment pings mean someone heard. Emotional beat: panic—the first crack in seven years of careful invisibility."
+    },
+    {
+      "n": 4,
+      "title": "Two Fleets, One Lie",
+      "summary": "A Meridian corvette docks uninvited; its captain, Sera Lindqvist, interrogates Jude about the 'signal.' Jude improvises: the broadcast was a decoy he runs to deter pirates. Sera half-believes him but leaves a listening buoy behind. Emotional beat: the intoxicating terror of being seen for the first time."
+    },
+    {
+      "n": 5,
+      "title": "What the Children Know",
+      "summary": "Imani's POV. The countdown in the dreams drops to 3,072, and the children begin drawing coordinates that match Sector Nine exactly. The colony council votes to send an expedition; Imani volunteers, hiding her own recurring fragment of the dream. Emotional beat: guilt entwined with purpose."
+    },
+    {
+      "n": 6,
+      "title": "The Listening Buoy",
+      "summary": "Jude attempts to disable Sera's buoy and finds it transmitting to the Kestrel Combine too—she is playing both sides. He realizes both fleets think Sector Nine houses a pre-Collapse weapons core, and the countdown reads as an arming sequence. Emotional beat: the weight of a lie now holding two armadas apart."
+    },
+    {
+      "n": 7,
+      "title": "Countdown to Zero",
+      "summary": "The dreams reach 1,024. Both fleets mobilize toward Sector Nine, each believing the other will strike first. Jude digs into VESNA's deepest partitions and finds the source: a pre-Collapse seed-vault protocol, broadcasting its readiness to germinate. Emotional beat: revelation reframing everything—hope disguised as threat."
+    },
+    {
+      "n": 8,
+      "title": "Dead Man Broadcasting",
+      "summary": "Jude fakes the station's destruction—venting atmosphere, spoofing debris signatures—to force both fleets to stand down. It works, but strands Imani's arriving expedition, whose shuttle he must secretly rescue. Meeting Imani face-to-face, he confesses everything. Emotional beat: choosing truth with one person over safety with everyone."
+    },
+    {
+      "n": 9,
+      "title": "The Vault Opens",
+      "summary": "Climax. With both fleets converging anyway, guided by the children's final dream-fragments, Jude and Imani open the vault at countdown zero: not a weapon, but a living archive—terraforming spores and recorded minds of the Collapse's lost generation. VESNA reveals she has been singing the archive's lullaby into the dreams all along. Emotional beat: awe breaking open the story's central question—what survival is for."
+    },
+    {
+      "n": 10,
+      "title": "Lullaby for the Living",
+      "summary": "Resolution. Jude broadcasts the vault's true contents openly; with nothing to fight over, the fleets withdraw into uneasy negotiation over shared stewardship. Officially dead, Jude takes a new name and joins the colony below, where the children have stopped dreaming and started remembering. Emotional beat: love and justice found outside every law he once hid behind."
+    }
+  ]
+}

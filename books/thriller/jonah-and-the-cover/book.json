@@ -1,0 +1,21 @@
+{
+  "id": "THR-09072",
+  "title": "Jonah and the Cover",
+  "author": "Tamsin Nakamura",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 3.6,
+  "blurb": "Lena Eriksen, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. But when every record of a flight vanishes while it's still in the air, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9072
+  }
+}

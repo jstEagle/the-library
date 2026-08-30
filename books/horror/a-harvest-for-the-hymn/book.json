@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03636",
+  "title": "A Harvest for the Hymn",
+  "author": "J. M. Vane",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Xanthe Crane, an urban explorer mapping tunnels that aren't on any survey, has spent seven years telling themselves the noises have explanations. Then the excavation crew unearths a door, sealed from the inside — and he is pulled straight into the middle of it. To get through this, he must get the family out ahead of the count before the frost writes its final pattern.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3636
+  }
+}

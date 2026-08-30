@@ -1,0 +1,21 @@
+{
+  "id": "THR-08518",
+  "title": "The Sharp Deadline",
+  "author": "Hazel Eastwick",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Jonah Quintana, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8518
+  }
+}

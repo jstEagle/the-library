@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09721",
+  "title": "Detention and Mixtape",
+  "author": "W. M. Kavanagh",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Jonah Montrose, a debate champion who can't win the argument at home, has spent fifteen years being so careful it hurts. But when the teacher pairs nemesis with nemesis for a semester-long project, she discovers that staying invisible was never really an option. To get through this, she must expose what the school board buried before the last game of the season.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9721
+  }
+}

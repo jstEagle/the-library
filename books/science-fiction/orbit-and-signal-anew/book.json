@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08104",
+  "title": "Orbit and Signal Anew",
+  "author": "Felix Brightwater",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Ivo Villalobos, the last human technician on an automated relay station, runs the long route between worlds that no longer speak. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8104
+  }
+}

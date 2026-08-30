@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00086",
+  "title": "Monsoon and Trail",
+  "author": "S. M. Zhou",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 3.5,
+  "blurb": "Oscar Montrose, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. Then a dying prospector trades a map for a promise — and they are pulled straight into the middle of it. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the dry season ends.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 86
+  }
+}

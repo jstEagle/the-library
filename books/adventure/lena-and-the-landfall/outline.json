@@ -1,0 +1,119 @@
+{
+  "title": "Lena and the Landfall",
+  "slug": "adventure/lena-and-the-landfall",
+  "model": "stealth/ox-alpha",
+  "premise": "Mara Lockridge, captain of the riverboat Lena, has spent years running cargo on the Vasseur River while dodging the colonial survey office that wants her dead father's charts. When dying prospector Elias Thorne trades her a map to an uncharted tributary for a promise—take him home before the monsoon—Mara agrees, unaware the map marks her father's last expedition. Pursued by survey officer Captain Adrien Vale, who offers her legitimacy at the price of the map, Mara must choose between the duty she owes the living crew and the love she never admitted she felt for Thorne's daughter, Sable, who stows aboard. The monsoon catches them in the gorge; Thorne dies at the source he sought, and Mara burns the map rather than surrender it, guiding the Lena home blind through floodwater by memory alone. She surfaces changed: no longer invisible, but no longer hers alone either.",
+  "about_author": "Yara Joubert is the pen name of a former deckhand who spent six seasons working inland waterways before turning to fiction. Her novels are known for their tidal prose and characters who treat rivers as both road and reckoning.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Mood of Sandbars",
+      "summary": "Mara's POV. A routine run down the Vasseur establishes her intimate knowledge of the river and her careful anonymity—no registry, no surname spoken aloud. Emotional beat: competent solitude masking old grief."
+    },
+    {
+      "n": 2,
+      "title": "A Stranger at the Landing",
+      "summary": "Mara's POV. The half-dead prospector Elias Thorne collapses onto her dock clutching a wax-sealed tube, begging passage upstream. Emotional beat: wary compassion overriding instinct to refuse."
+    },
+    {
+      "n": 3,
+      "title": "Terms of Passage",
+      "summary": "Mara's POV. Thorne offers his map in exchange for a promise to carry him to the headwaters before monsoon season. Mara reads only enough of it to recognize her father's handwriting. Emotional beat: shock cracking open buried history."
+    },
+    {
+      "n": 4,
+      "title": "Cargo and Secrets",
+      "summary": "Sable's POV. Thorne's estranged daughter Sable secretly boards the Lena at night, determined to reach her father before he dies. Emotional beat: guilt and stubborn love."
+    },
+    {
+      "n": 5,
+      "title": "The Survey Man",
+      "summary": "Mara's POV. Captain Adrien Vale of the colonial survey office inspects the Lena at Kessel Wharf, probing about charts her father never surrendered. Emotional beat: cold fear beneath polite fencing."
+    },
+    {
+      "n": 6,
+      "title": "Stowaway Revealed",
+      "summary": "Mara's POV. Two days upstream, Mara discovers Sable; Thorne wakes from fever calling a name that is Sable's. Emotional beat: fury giving way to reluctant alliance."
+    },
+    {
+      "n": 7,
+      "title": "Rapids at Redcliff Bend",
+      "summary": "Sable's POV. The Lena threads dangerous rapids; Sable proves herself on the lines, earning the crew's respect. Emotional beat: first flicker of trust—and something warmer—between Sable and Mara."
+    },
+    {
+      "n": 8,
+      "title": "What Thorne Remembers",
+      "summary": "Thorne's POV. In lucid hours, Thorne confesses he served on Mara's father's final expedition and abandoned it when it turned desperate. Emotional beat: shame offered as truth."
+    },
+    {
+      "n": 9,
+      "title": "Vale's Offer",
+      "summary": "Mara's POV. Vale overtakes them by launch with a proposition: surrender the map, receive her father's restored name and a captain's commission. Emotional beat: temptation dressed as justice."
+    },
+    {
+      "n": 10,
+      "title": "Refusal at the Fork",
+      "summary": "Mara's POV. At the river fork, Mara turns into the uncharted tributary, cutting the rope to Vale's launch. Emotional beat: choosing the dead over the comfortable living."
+    },
+    {
+      "n": 11,
+      "title": "The Crew's Verdict",
+      "summary": "Deckhand Okonjo's POV. The crew debates mutiny versus loyalty; Okonjo casts the deciding word for Mara. Emotional beat: earned authority, fragile as wet rope."
+    },
+    {
+      "n": 12,
+      "title": "Fever Dreams",
+      "summary": "Sable's POV. Nursing her father, Sable learns fragments of the expedition's fate—and that Mara's father died protecting the others. Emotional beat: grief braiding two families together."
+    },
+    {
+      "n": 13,
+      "title": "First Kiss, First Quarrel",
+      "summary": "Alternating POV. Under the aurora-like heat lightning, Mara and Sable admit their feelings, then clash over whether to turn back. Emotional beat: love against duty made flesh."
+    },
+    {
+      "n": 14,
+      "title": "The Drowned Village",
+      "summary": "Mara's POV. They pass ruins her father charted—a settlement erased from every official record. Emotional beat: understanding what the survey office truly wants buried."
+    },
+    {
+      "n": 15,
+      "title": "Vale Follows",
+      "summary": "Vale's POV. Vale, obsessed and increasingly unhinged, pushes his launch up rapids meant to kill it, losing two men. Emotional beat: duty curdling into obsession."
+    },
+    {
+      "n": 16,
+      "title": "Monsoon Warning",
+      "summary": "Okonjo's POV. Barometers fall; birds flee downstream. The crew votes: push to the source or run for the delta. Emotional beat: dread counting down like a tide."
+    },
+    {
+      "n": 17,
+      "title": "The Source",
+      "summary": "Thorne's POV. They reach the headwater pool as rain begins; Thorne touches the water his father sought, whispers an apology to Mara's father, and dies smiling. Emotional beat: peace purchased too late."
+    },
+    {
+      "n": 18,
+      "title": "Landfall",
+      "summary": "Mara's POV. The monsoon hits full force; Vale arrives demanding the map at gunpoint as the gorge begins to flood. Emotional beat: everything converging at once."
+    },
+    {
+      "n": 19,
+      "title": "Ashes on the Water",
+      "summary": "Mara's POV. Mara burns the map before Vale's eyes and fights him hand-to-hand on the flooding deck; the river itself sweeps his launch away. Emotional beat: liberation through destruction."
+    },
+    {
+      "n": 20,
+      "title": "Blind Water",
+      "summary": "Sable's POV. With charts useless, Mara pilots the Lena down the flooded gorge from memory and instinct while Sable reads the water beside her. Emotional beat: terror transmuted into perfect trust."
+    },
+    {
+      "n": 21,
+      "title": "Delta Light",
+      "summary": "Mara's POV. The Lena limps into the delta at dawn, battered but whole; the crew scatters with stories they agree never to sell. Emotional beat: exhausted gratitude, identity remade."
+    },
+    {
+      "n": 22,
+      "title": "Lena and the Landfall",
+      "summary": "Sable's POV. Weeks later, Mara registers the boat under her own true name for the first time, with Sable listed as mate. Emotional beat: quiet resolution—love chosen over invisibility, memory kept without maps."
+    }
+  ]
+}

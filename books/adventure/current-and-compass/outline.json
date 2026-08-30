@@ -1,0 +1,29 @@
+{
+  "title": "Current and Compass",
+  "slug": "adventure/current-and-compass",
+  "model": "stealth/ox-alpha",
+  "premise": "Silas Oyelaran, a desert ranger who vanished from his old life seven years ago, is hired to track a thief across the Empty Reach and instead finds a dying prospector who trades a map to a buried river for one promise: bring it home before the concession permits expire and strip the land bare. Silas assembles a ragtag crew of misfits who become the family he never meant to find, but the thief he was chasing turns out to be his former partner, now working for the concession company that wants the river's water rights at any cost. When the company's enforcers burn the expedition's camp and take the map, Silas must choose between reclaiming the identity he buried and protecting the people who only know him as a stranger. In the end, Silas gets the crew and the water to the dying settlement in time, publicly claims his real name for the first time in seven years, and lets the river stay unowned.",
+  "about_author": "Oscar Kavanagh is a former surveyor who spent a decade mapping arid basins before turning to fiction, and his prose carries the cadence of field notes and long silences. He lives off-grid in the high desert with two dogs and a stubborn belief that maps tell truer stories than people do.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Miles",
+      "summary": "Silas Oyelaran's POV. Silas takes a routine tracking contract to recover a stolen ledger, following the thief across the Empty Reach, but the trail leads instead to a prospector bleeding out beside a dry wash. With his last breath, the old man trades Silas a map to a buried river for a promise to carry it home. The emotional beat is reluctant duty: Silas, who measures life in miles to avoid measuring it in years, accepts the promise and realizes the thief's trail runs the same direction."
+    },
+    {
+      "n": 2,
+      "title": "Water Under Stone",
+      "summary": "Alternating POV between Silas and Wren, a young cartographer who joins the expedition. Silas recruits a small crew—a disgraced hydrologist, a mule driver with debts, Wren—and they follow the map into canyons that shouldn't hold water, finding the river alive beneath the stone. But signs of the company's survey teams appear: stakes, cut wire, fresh boot prints. The emotional beat is cautious belonging, as the crew begins to feel like family and Silas begins to dread what his hidden past will cost them."
+    },
+    {
+      "n": 3,
+      "title": "What the Company Burns",
+      "summary": "Wren's POV. The concession company's enforcers, led by Silas's former partner Dae-Ho, raid the camp, seize the map, and leave the crew stranded, revealing Silas's real name and abandoned past to everyone. Wren, feeling betrayed, confronts him, and the fractured crew must decide whether to scatter or follow him to the river's outlet before the permits expire at dawn. The emotional beat is the shattering and rebuilding of trust—found family tested by the truth of who Silas was."
+    },
+    {
+      "n": 4,
+      "title": "The River Stays",
+      "summary": "Silas's POV. Racing the permit deadline, the crew outmaneuvers Dae-Ho at the outlet canyon, and Silas chooses to publicly claim his name and testify about the river rather than stay invisible, forcing the concession to collapse under scrutiny. They open the water to the dying settlement, and Dae-Ho walks away rather than fire on him. The emotional beat is resolution and release: Silas comes home to a family that knows him fully, and the river remains unowned, wild, and shared."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07059",
+  "title": "Noor and the Orbit",
+  "author": "Coral Lockridge",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Silas Nakamura, a clone who inherited the original's murder case, has spent twelve years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7059
+  }
+}

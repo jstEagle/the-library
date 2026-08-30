@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02275",
+  "title": "A Garden for the Hollow Anew",
+  "author": "Freya Yarrow",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Yara Nystrom, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. To get through this, they must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2275
+  }
+}

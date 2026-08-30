@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04243",
+  "title": "Blue Hour and Inventory",
+  "author": "Petra Oyelaran",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Lena Yarrow, an heir cataloging a parent's silence after the funeral, moves through the days like a tenant, not an owner. Then the last speaker of a language asks for one final student — and he is pulled straight into the middle of it. To get through this, he must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "belonging",
+    "memory",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4243
+  }
+}

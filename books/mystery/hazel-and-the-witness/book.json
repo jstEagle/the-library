@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05746",
+  "title": "Hazel and the Witness",
+  "author": "Emrys Winterbourne",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wren Whitlock, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. Now she must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5746
+  }
+}

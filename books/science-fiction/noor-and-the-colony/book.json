@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07654",
+  "title": "Noor and the Colony",
+  "author": "Odile Thackeray",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Emrys Sandoval, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. Then an unfamiliar name shows up on the manifest of a ship that never flew — and she is pulled straight into the middle of it. To get through this, she must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7654
+  }
+}

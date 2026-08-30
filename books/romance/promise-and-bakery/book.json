@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06375",
+  "title": "Promise and Bakery",
+  "author": "Sable Halloran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "August Kavanagh, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6375
+  }
+}

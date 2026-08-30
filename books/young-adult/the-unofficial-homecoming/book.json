@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09731",
+  "title": "The Unofficial Homecoming",
+  "author": "August Kavanagh",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Theo Underhill, a debate champion who can't win the argument at home, has spent ten years being so careful it hurts. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. Now she must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9731
+  }
+}

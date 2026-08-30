@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00073",
+  "title": "The Passage of Cape Reckoning",
+  "author": "Emrys Vasquez",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Paloma Pemberton, an archaeologist's estranged child and better digger, has spent three years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 73
+  }
+}

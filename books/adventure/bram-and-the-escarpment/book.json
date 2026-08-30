@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00513",
+  "title": "Bram and the Escarpment",
+  "author": "Yara Thornbury",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Elodie Ravensworth, a salvage diver working a wreck the navy won't discuss, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. To get through this, they must beat the salvage fleet to the wreck by six tides before the monsoon makes landfall.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 513
+  }
+}

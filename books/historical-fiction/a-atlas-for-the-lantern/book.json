@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02770",
+  "title": "A Atlas for the Lantern",
+  "author": "Theo Underhill",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Vesper Joubert, a code-carrying courier on the last diplomatic mission of a doomed republic, measures the world in what can be carried when the orders come. But when the bridge — the only road out — closes for the season, he discovers that staying invisible was never really an option. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2770
+  }
+}

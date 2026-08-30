@@ -1,0 +1,59 @@
+{
+  "title": "Astrid and the Terminal",
+  "slug": "science-fiction/astrid-and-the-terminal",
+  "model": "stealth/ox-alpha",
+  "premise": "Rosalind Eastwick has spent eleven years as a courier on the long route between the Meridian Combine and the Halcyon Reach, tending a seed vault garden meant for colonists not yet born while the two powers slide toward war. When a ship that never flew appears in her queue with an unfamiliar name on its manifest, she discovers the message it carries is a memory recording proving the war's first strike was staged by Meridian's own council. Delivering it could end the war — or shatter the fragile truce that keeps billions alive — and the council's enforcer, her former mentor Ivo Sarn, is hunting her across the dark between worlds. In the end Rosalind broadcasts the truth from the garden itself, choosing loyalty to the unborn over loyalty to the living, and the war dies unfinished in the silence that follows.",
+  "about_author": "Coral Nystrom is a former hydroponics technician who spent six years aboard orbital agricultural stations before turning to writing full-time. She lives in Tromsø, where the long polar night taught her everything she knows about waiting.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Route",
+      "summary": "Rosalind's POV. We follow her routine run between worlds: checking the seed vault garden, logging transmissions from two governments that no longer answer each other directly. The emotional beat is quiet loneliness — she has made peace with being a messenger for people who may never exist."
+    },
+    {
+      "n": 2,
+      "title": "A Ship That Never Flew",
+      "summary": "Rosalind's POV. An unregistered vessel appears in her manifest bearing a name she doesn't recognize and a flight plan dated three years before its construction. Her station AI insists the record is authentic. The beat is unease: the impossible has arrived with her name attached to it."
+    },
+    {
+      "n": 3,
+      "title": "Manifest Ghost",
+      "summary": "Ivo Sarn's POV. The Meridian council dispatches its enforcer to retrieve the ghost ship's cargo, revealing to the reader that the message contains something they will kill to bury. Ivo remembers training Rosalind and requests the assignment personally. The beat is cold competence masking old affection."
+    },
+    {
+      "n": 4,
+      "title": "What the Garden Remembers",
+      "summary": "Rosalind's POV. Decoding the cargo, she finds a memory recording of the Halcyon border incident — and proof the 'enemy' first strike was fabricated by Meridian's own council. The beat is vertigo: every loyalty she has is built on a lie she now carries in her hold."
+    },
+    {
+      "n": 5,
+      "title": "Thirteen Hours to Relay",
+      "summary": "Rosalind's POV. The message must reach a relay node before the next fleet movement or both sides mobilize on false data. She burns her reserve fuel taking a shortcut through debris fields. The beat is desperate momentum — the courier finally running for her life."
+    },
+    {
+      "n": 6,
+      "title": "Interrogation at Vesper Anchorage",
+      "summary": "Alternating POVs. Ivo corners Rosalind at a neutral port and offers her amnesty to hand over the recording; she counters by telling him what's in it. He hesitates one beat too long, letting her dock escape. The beat is the painful collision of loyalty and truth between mentor and student."
+    },
+    {
+      "n": 7,
+      "title": "The Council's Garden",
+      "summary": "Ivo's POV. Reporting failure, Ivo learns the council knew the strike was staged all along — the war is a resource play, and the seed vaults are the prize. Ordered to sterilize the garden, he begins quietly sabotaging his own mission. The beat is corruption seen from inside, and the first crack in it."
+    },
+    {
+      "n": 8,
+      "title": "Burn Notice",
+      "summary": "Rosalind's POV. Branded a traitor by both governments, stripped of route access, she realizes the only transmitter powerful enough to broadcast the truth planet-wide is the garden's own array — which means using the unborn colonists' sanctuary as a weapon. The beat is grief-stricken resolve."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "Alternating POVs, climax. As Meridian ships close in, Rosalind begins transmission; Ivo arrives with orders to destroy the array and instead locks the council's counter-jamming out of the system, buying her the full broadcast. Fleets on both sides receive the truth mid-attack. The beat is sacrifice and betrayal reversed into grace."
+    },
+    {
+      "n": 10,
+      "title": "Seeds for No One Yet",
+      "summary": "Rosalind's POV, epilogue. The war stalls into uneasy ceasefire; councils fall, investigations begin, and Ivo turns himself in carrying evidence. Rosalind returns to the damaged garden and plants the first new row. The beat is hard-won peace: truth cost everything, and it was still worth delivering."
+    }
+  ]
+}

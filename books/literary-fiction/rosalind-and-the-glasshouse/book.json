@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04433",
+  "title": "Rosalind and the Glasshouse",
+  "author": "Tamsin Halloran",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Astrid Vasquez, a night librarian in a city that sleeps less every year, has spent twelve years practicing the art of almost saying it. Then the last speaker of a language asks for one final student — and he is pulled straight into the middle of it. To get through this, he must forgive the stranger in the old photographs before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4433
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01471",
+  "title": "Quentin and the Veil",
+  "author": "Hazel Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ines Okafor, the keeper of a gate that should stay shut, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, he discovers that staying invisible was never really an option. To get through this, he must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1471
+  }
+}

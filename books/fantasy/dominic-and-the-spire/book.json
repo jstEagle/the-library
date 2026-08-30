@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01735",
+  "title": "Dominic and the Spire",
+  "author": "Lior Sandoval",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Lena Hartwell, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. Now she must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1735
+  }
+}

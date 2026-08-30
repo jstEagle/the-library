@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04415",
+  "title": "When the Blue Hour Falls",
+  "author": "Sebastian Nystrom",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Silas Quintana, an heir cataloging a parent's silence after the funeral, has spent fifteen years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4415
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04511",
+  "title": "Radiators and Interior",
+  "author": "Coral Eastwick",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Beatrix Quintana, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4511
+  }
+}

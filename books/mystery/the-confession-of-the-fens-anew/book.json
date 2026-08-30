@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05821",
+  "title": "The Confession of the Fens Anew",
+  "author": "Ulyana Vane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Lena Zhou, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. To get through this, she must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5821
+  }
+}

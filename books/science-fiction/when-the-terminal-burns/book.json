@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07586",
+  "title": "When the Terminal Burns",
+  "author": "Gideon Quintana",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Astrid Joubert, a starship navigator haunted by the backups sleeping in the hold, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. To get through this, they must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7586
+  }
+}

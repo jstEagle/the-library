@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05156",
+  "title": "Vesper and the Cipher",
+  "author": "Cyrus Brightwater",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Ivo Whitlock, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. But when a body turns up dressed in clothes stolen from the witness's own closet, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5156
+  }
+}

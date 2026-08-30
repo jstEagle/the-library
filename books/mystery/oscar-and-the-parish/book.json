@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05302",
+  "title": "Oscar and the Parish",
+  "author": "Coral Sterling",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "August Yarrow, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. To get through this, they must trap a killer who knows the case file better than the investigators do before the statute expires.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5302
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09010",
+  "title": "A Protocol for the Cover",
+  "author": "Tamsin Nystrom",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Gideon Sterling, a crash investigator whose family died in row twelve, keeps a go-bag packed and a lie polished. But when a voiceprint unlocks a server on another continent, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9010
+  }
+}

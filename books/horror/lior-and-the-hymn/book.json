@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03877",
+  "title": "Lior and the Hymn",
+  "author": "Odile Dunmore",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Lior Dunmore, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. Now they must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3877
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08047",
+  "title": "Vesper and the Orbit",
+  "author": "Edmund Hartwell",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Gideon Zhou, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8047
+  }
+}

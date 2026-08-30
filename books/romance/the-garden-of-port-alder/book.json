@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06571",
+  "title": "The Garden of Port Alder",
+  "author": "Wendell Winterbourne",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 5.0,
+  "blurb": "Jonah Winterbourne, a lighthouse keeper's granddaughter and part-time novelist, has spent five years rebuilding a life measured in small safe steps. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. Now he must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6571
+  }
+}

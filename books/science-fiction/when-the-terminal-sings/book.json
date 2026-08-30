@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07411",
+  "title": "When the Terminal Sings",
+  "author": "Marguerite Brightwater",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Elodie Nystrom, a pilot bonded to an AI that lies, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. To get through this, he must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7411
+  }
+}

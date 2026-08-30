@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04238",
+  "title": "Interior and Language",
+  "author": "Kestrel Zhou",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ada Oyelaran, an heir cataloging a parent's silence after the funeral, has perfected the smile that ends conversations. But when a childhood home goes up for auction, he discovers that staying invisible was never really an option. Now he must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4238
+  }
+}

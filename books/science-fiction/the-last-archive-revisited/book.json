@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08296",
+  "title": "The Last Archive Revisited",
+  "author": "Theo Thackeray",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Jude Dunmore, a xenolinguist who can no longer dream in human languages, maintains the beacon nobody remembers commissioning. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8296
+  }
+}

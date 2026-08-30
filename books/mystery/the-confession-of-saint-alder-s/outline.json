@@ -1,0 +1,59 @@
+{
+  "title": "The Confession of Saint Alder's",
+  "slug": "mystery/the-confession-of-saint-alder-s",
+  "model": "stealth/ox-alpha",
+  "premise": "Dominic Iversen has spent two decades as the night dispatcher for Saint Alder's Taxi, the town's unofficial confessor — everyone tells their driver things they'd never tell a priest. When a letter arrives confessing to the drowning of her best friend twenty years ago, postmarked the day after the friend's mother's funeral, Dominic realizes the confession is addressed to her because she was there that night and has never trusted her own memory of it. Following the routes she once dispatched, she discovers the killer is someone inside her found family at the cab company who has been curating her memories for years. In the climax, she lures the killer into reenacting the original drive on the night tide flats, where the receding water finally exposes the car — and the truth — that took her friend; she chooses truth over loyalty, ending the company's long silence.",
+  "about_author": "Dominic Dunmore spent eleven years driving night cabs in a coastal town before turning to fiction, and still keeps his old dispatch logs for inspiration. He writes mysteries about small places that keep large secrets, and lives within earshot of the sea.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Night Shift Remembers",
+      "summary": "Dominic's POV. Establishes her ordered world: dispatch console, radio chatter, the ritual of logging every fare. A letter arrives with no return address, confessing to the drowning of Cass Merrow twenty years ago, postmarked the day after Cass's mother's funeral. Emotional beat: the shock of a past she thought filed away cracking open her careful present."
+    },
+    {
+      "n": 2,
+      "title": "Fares and Confessions",
+      "summary": "Dominic's POV. She rereads twenty years of dispatch logs, realizing how much the drivers knew about everyone — including her. She interviews retired driver Walt, whose account of the night Cass died contradicts her own memory in one crucial detail: the route taken. Emotional beat: unease; the archive she trusted becomes evidence against her certainty."
+    },
+    {
+      "n": 3,
+      "title": "The Tide Flats",
+      "summary": "Dominic's POV, with a flashback to the night of Cass's death. She walks the flats where the car went into the channel, testing what she remembers against the landscape. Someone watches her from the seawall — she recognizes the silhouette but not the face. Emotional beat: grief surfacing through fog, and the first prickle of being hunted."
+    },
+    {
+      "n": 4,
+      "title": "Alphabetized Secrets",
+      "summary": "Alternating POV: Detective Reyes, reopening the cold case after an anonymous tip — sent by Dominic herself, then regretted. Reyes notices the case file has been handled by someone with uncanny knowledge of its gaps. Emotional beat: institutional suspicion; Dominic realizes involving police may expose her own half-memory of complicity."
+    },
+    {
+      "n": 5,
+      "title": "The Second Letter",
+      "summary": "Dominic's POV. A second letter arrives, warmer, intimate, quoting things only Cass would know — proving the writer loved her. It names no one but asks Dominic to stop digging 'for all our sakes.' She maps the phrasing against years of radio transmissions and finds the cadence matches a current colleague. Emotional beat: betrayal sharpening into focus."
+    },
+    {
+      "n": 6,
+      "title": "Found Family",
+      "summary": "Ensemble chapter, mostly Dominic's POV. A birthday gathering at the cab depot: Walt, dispatcher-trainee Priya, mechanic Ruthie, and office manager Gil — the family that replaced the one her secrets cost her. She studies each face, wondering which of them wrote the letters. Emotional beat: warmth laced with dread; love and suspicion sharing a table."
+    },
+    {
+      "n": 7,
+      "title": "What the Water Kept",
+      "summary": "Reyes's POV. Divers surveying the channel find a rusted sedan matching the missing vehicle, and inside it, evidence the death was no accident — and something belonging to Dominic, planted or lost. The anonymous tipper calls the station again; the voice is disguised but familiar to Reyes from intercepted dispatch recordings. Emotional beat: the case turns concrete and dangerous."
+    },
+    {
+      "n": 8,
+      "title": "The Curator",
+      "summary": "Dominic's POV. Confronting the pattern, she identifies Gil — the man who hired her, mentored her, and quietly edited her memories for two decades, feeding her a version of that night in which she was blameless and he was heroic. He admits nothing but stops pretending. Emotional beat: vertigo — her whole identity was partly his authorship."
+    },
+    {
+      "n": 9,
+      "title": "Dispatch",
+      "summary": "Climax, Dominic's POV. On the lowest tide of the year, she sends one last dispatch call — to Gil — summoning him to the flats on a fabricated fare, while Reyes waits out of sight. Gil comes intending to finish what the water started; instead he confesses on tape, revealing he killed Cass to bury a secret she threatened to tell, and curated Dominic's memory to keep her grateful. Emotional beat: terror transfigured into agency."
+    },
+    {
+      "n": 10,
+      "title": "Saint Alder's, Morning",
+      "summary": "Dominic's POV, weeks later. Gil is charged; the company survives under Priya and Ruthie; Walt retires with the truth finally spoken. Dominic testifies, gives Cass's mother the full story, and rewrites the dispatch log's final entry in her own hand — unedited. Emotional beat: quiet resolution; loyalty to the dead honored by truth, and a found family rebuilt honestly."
+    }
+  ]
+}

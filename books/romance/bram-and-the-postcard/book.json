@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06403",
+  "title": "Bram and the Postcard",
+  "author": "Lior Sterling",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Kestrel Iversen, a marine biologist counting turtles instead of heartbreaks, has spent three years rebuilding a life measured in small safe steps. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. Now he must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6403
+  }
+}

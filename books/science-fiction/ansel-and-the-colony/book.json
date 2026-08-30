@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07612",
+  "title": "Ansel and the Colony",
+  "author": "August Blackwood",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Hazel Sandoval, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7612
+  }
+}

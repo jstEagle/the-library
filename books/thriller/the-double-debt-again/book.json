@@ -1,0 +1,21 @@
+{
+  "id": "THR-09457",
+  "title": "The Double Debt Again",
+  "author": "Mara Sterling",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Petra Blackwood, a whistle-blower living under four names, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9457
+  }
+}

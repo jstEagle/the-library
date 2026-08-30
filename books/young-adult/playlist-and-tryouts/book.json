@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09940",
+  "title": "Playlist and Tryouts",
+  "author": "Ada Halloran",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Sable Okafor, a baker's kid who bakes feelings into bread, has spent five years being so careful it hurts. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, she discovers that staying invisible was never really an option. Now she must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9940
+  }
+}

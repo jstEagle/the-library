@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07099",
+  "title": "Vector and Signal",
+  "author": "Ines Pemberton",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Mara Crane, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. To get through this, she must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "identity",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7099
+  }
+}

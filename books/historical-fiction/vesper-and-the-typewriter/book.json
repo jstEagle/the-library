@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03056",
+  "title": "Vesper and the Typewriter",
+  "author": "Ada Joubert",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wren Dunmore, a battlefield nurse keeping a ledger of the names officers omit, has spent ten years learning which silences keep people safe. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. Now they must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3056
+  }
+}

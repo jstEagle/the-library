@@ -1,0 +1,21 @@
+{
+  "id": "THR-08635",
+  "title": "When the Cover Burns",
+  "author": "O. M. Nystrom",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 5.0,
+  "blurb": "Noor Galloway, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8635
+  }
+}

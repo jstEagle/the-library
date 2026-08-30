@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05607",
+  "title": "The Late Parish",
+  "author": "Emrys Almeida",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Casper Eriksen, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5607
+  }
+}

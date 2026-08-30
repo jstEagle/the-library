@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08254",
+  "title": "Freya and the Vector",
+  "author": "Ulyana Sterling",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.6,
+  "blurb": "Xanthe Ravensworth, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. To get through this, they must deliver a message that will end the war — or start it before the fleet's truce expires.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8254
+  }
+}

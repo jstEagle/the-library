@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02572",
+  "title": "A Ledger for the Compass",
+  "author": "Dominic Delacroix",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Rosalind Brightwater, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent seven years learning which silences keep people safe. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. To get through this, he must get the truth on the record ahead of the victors' historians before the ship sails on the morning tide.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2572
+  }
+}

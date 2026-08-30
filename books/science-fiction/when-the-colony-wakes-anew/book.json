@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08171",
+  "title": "When the Colony Wakes Anew",
+  "author": "Mirabel Villalobos",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Casper Okafor, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8171
+  }
+}

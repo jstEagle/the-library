@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04387",
+  "title": "The Quiet Language",
+  "author": "Elodie Nakamura",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Dominic Voss, a translator losing a childhood language one borrowed word at a time, has spent fifteen years practicing the art of almost saying it. But when a childhood home goes up for auction, he discovers that staying invisible was never really an option. To get through this, he must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4387
+  }
+}

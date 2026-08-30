@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02349",
+  "title": "When the Ledger Wakes",
+  "author": "Coral Galloway",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Jude Okafor, a mapmaker's apprentice finishing the atlas the master died for, believes history happens to other people, elsewhere. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the armistice is signed — or isn't.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2349
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00037",
+  "title": "A Horizon for the Wreck",
+  "author": "Beatrix Voss",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sable Villalobos, a riverboat captain who knows every sandbar's mood, has spent fifteen years measuring life in miles rather than years. But when the tide reveals a cave that legends charge admission to, they discover that staying invisible was never really an option. To get through this, they must cross the range ahead of the snows before the concession permits expire.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 37
+  }
+}

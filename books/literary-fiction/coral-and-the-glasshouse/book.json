@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04744",
+  "title": "Coral and the Glasshouse",
+  "author": "Zephyrine Underhill",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lior Oyelaran, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. Then a box of undelivered letters surfaces behind a wardrobe — and they are pulled straight into the middle of it. To get through this, they must say goodbye properly, at last, out loud before the house sale closes.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4744
+  }
+}

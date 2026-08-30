@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00146",
+  "title": "Rivergate and Wreck",
+  "author": "Yara Whitlock",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ines Halloran, a mountain guide blacklisted from two countries, knows the wilderness forgives nothing and forgets less. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. To get through this, they must beat the salvage fleet to the wreck by six tides before the concession permits expire.",
+  "themes": [
+    "identity",
+    "memory",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 146
+  }
+}

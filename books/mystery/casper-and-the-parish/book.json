@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05358",
+  "title": "Casper and the Parish",
+  "author": "Lena Vane",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Astrid Galloway, a hotel concierge who notices everything, thought they had seen every way a life can end. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5358
+  }
+}

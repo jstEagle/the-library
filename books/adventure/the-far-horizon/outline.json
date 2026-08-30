@@ -1,0 +1,59 @@
+{
+  "title": "The Far Horizon",
+  "slug": "adventure/the-far-horizon",
+  "model": "stealth/ox-alpha",
+  "premise": "Fifteen years ago, Tamsin Ashgrove walked away from the Merrow Line after a collapse that killed her mentor and buried the truth in the flooded tunnels beneath the Far Horizon pass. Now her old rival, salvage magnate Corwin Hale, hires her crew to recover the wreck of the Merrow's lost pay-train—claiming he wants justice, though his fleet's six-tide deadline suggests he wants the gold before anyone can ask questions. As Tamsin's crew races the tides and Hale's hired divers through the drowned tunnels, she uncovers proof that the collapse was sabotage ordered by the railway's founders, and that her own father signed the order. In the flooded dark she finds her mentor's final survey log naming the saboteurs, and must choose between destroying the evidence and using it. The crew surfaces with the proof and the pay-train's gold, using the fortune to buy the Merrow Line itself, reopening it as a workers' cooperative—justice won outside any courtroom, with Hale defeated not by force but by the crew he underestimated.",
+  "about_author": "Emrys Whitlock is the pen name of a former surveyor's assistant who spent a decade mapping disused rail corridors across the northern coast before turning to fiction. Their novels are known for technical precision, salt-bitten prose, and crews who become the families their characters never had.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Miles, Not Years",
+      "summary": "Tamsin Ashgrove's POV. Her crew finishes a routine bridge survey on the closed Merrow corridor, and we see the quiet rhythms of found family: cook Brannigan's stew, young diver Pell's endless questions, Tamsin's refusal to discuss the past. When a courier delivers a contract from Corwin Hale—for the Far Horizon wreck—Tamsin burns it. Emotional beat: the comfort of invisibility and the first crack in it."
+    },
+    {
+      "n": 2,
+      "title": "The Man Who Kept the Ledger",
+      "summary": "Tamsin's POV. Hale arrives in person at the crew's yard, not with money but with a ledger page: her father's signature on a Merrow order dated the week of the collapse. He offers the job as 'justice,' and Tamsin realizes he knows more about her family than she does. The crew votes to take the work—Pell needs the pay for his mother's care. Emotional beat: the past stops being avoidable."
+    },
+    {
+      "n": 3,
+      "title": "Six Tides",
+      "summary": "Pell's POV. The crew mobilizes: charts, diving gear, the old pump barge Meridian. Tamsin lays out the tidal window—six tides before the pass floods past diving depth, and before Hale's rival salvage fleet, already at sea, can arrive. We learn the crew's dynamics and Pell's hero worship of Tamsin, which makes his first doubts about her secrecy land harder. Emotional beat: purpose forged, deadline ticking."
+    },
+    {
+      "n": 4,
+      "title": "What the Water Keeps",
+      "summary": "Tamsin's POV. First descent into the flooded tunnels. Tamsin dives the outer gallery herself, against Brannigan's protest, and finds the pay-train's lantern car—intact, sealed, exactly where the official survey said it couldn't be. Someone falsified the records. She surfaces shaken and lies to the crew about what she saw. Emotional beat: the first lie to her found family."
+    },
+    {
+      "n": 5,
+      "title": "Hale's Fleet on the Horizon",
+      "summary": "Pell's POV. Hale's salvage fleet is spotted a day early—Hale lied about the timeline, meaning he never intended to share the find. The crew argues: cut and run, or beat him to the wreck. Tamsin, guilt-ridden, finally admits the lantern car's position proves the collapse was engineered. Brannigan reveals he lost a brother on the Merrow and stays anyway. Emotional bet: the crew chooses her over the truth she withheld."
+    },
+    {
+      "n": 6,
+      "title": "The Survey Log",
+      "summary": "Tamsin's POV. Third tide. Tamsin and Pell dive to the engine car and recover a waterproof survey log—her mentor Ilsa Vane's last entries—naming the founders who ordered the 'controlled' collapse to void worker compensation claims. The final page names Tamsin's father as the signatory. She reads it in the dark of the tunnel and cannot surface with it yet. Emotional beat: grief and betrayal at the deepest point."
+    },
+    {
+      "n": 7,
+      "title": "Cut Lines",
+      "summary": "Pell's POV. Hale's divers breach the tunnel from the seaward side, and the two crews collide in the dark. Sabotage: Hale's men sever the Meridian's air lines, stranding Tamsin and Pell in the flooded gallery with failing reserves. Brannigan leads a desperate surface-side pump repair. Tamsin must trust Pell with the survey log as they share air through a single line. Emotional beat: trust under literal pressure."
+    },
+    {
+      "n": 8,
+      "title": "The Fifth Tide",
+      "summary": "Tamsin's POV. Rescued by inches, the crew confronts the choice: the log convicts her father posthumously and destroys the Merrow's founders, but Hale's fleet will seize the wreck and bury the evidence with it on the sixth tide. Tamsin decides they won't run—they'll finish the job Hale started and take everything: the log, the gold, and the wreck itself. Emotional beat: from survivor to claimant."
+    },
+    {
+      "n": 9,
+      "title": "Far Horizon",
+      "summary": "Pell's POV, climax. The sixth tide. The crew works the flooded pass against Hale's fleet in a race of pumps, cables, and nerve—raising the pay-train's strongbox car as the tunnels begin to collapse for the second time in fifteen years. Tamsin goes back for Ilsa's log when the line snaps, and Brannigan hauls them both out as the Far Horizon pass seals behind them. Hale's fleet arrives to find only water. Emotional beat: everything risked, everything surfaced."
+    },
+    {
+      "n": 10,
+      "title": "The Open Line",
+      "summary": "Tamsin's POV, resolution. Months later, the crew—now shareholders—reopens the Merrow Line as a cooperative, the founders' confession published in Ilsa's own hand. Tamsin scatters her father's old compass at the pass and, for the first time, measures a journey in years instead of miles. Hale, exposed and broke, watches the first train go through. Emotional beat: inheritance reclaimed, family chosen, justice carried home."
+    }
+  ]
+}

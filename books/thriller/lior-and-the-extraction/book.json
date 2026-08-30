@@ -1,0 +1,21 @@
+{
+  "id": "THR-09133",
+  "title": "Lior and the Extraction",
+  "author": "Hazel Montrose",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Cyrus Winterbourne, a whistle-blower living under four names, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. To get through this, they must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9133
+  }
+}

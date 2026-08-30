@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00688",
+  "title": "Gideon and the Landfall",
+  "author": "Yara Fairweather",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Marguerite Yarrow, a salvage diver working a wreck the navy won't discuss, carries a compass, a debt, and very little else. But when an old rival hires the crew for the one job that was sworn off long ago, they discover that staying invisible was never really an option. To get through this, they must beat the salvage fleet to the wreck by six tides before the concession permits expire.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 688
+  }
+}

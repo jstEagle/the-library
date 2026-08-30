@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00079",
+  "title": "Summit and Horizon",
+  "author": "Vesper Okafor",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ada Eriksen, a riverboat captain who knows every sandbar's mood, has spent ten years measuring life in miles rather than years. Then a government survey team vanishes, leaving gear and no tracks — and he is pulled straight into the middle of it. Now he must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 79
+  }
+}

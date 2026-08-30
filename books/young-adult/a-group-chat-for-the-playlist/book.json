@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09876",
+  "title": "A Group Chat for the Playlist",
+  "author": "Hazel Ravensworth",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Lena Vane, a coder whose anonymous account knows too much, stays under the radar: head down, grades up, locker shut. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. To get through this, he must save the tradition that made the town before the final audition.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9876
+  }
+}

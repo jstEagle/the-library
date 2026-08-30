@@ -1,0 +1,21 @@
+{
+  "id": "THR-09088",
+  "title": "Asset and Extraction",
+  "author": "Lena Eastwick",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Lena Fairweather, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9088
+  }
+}

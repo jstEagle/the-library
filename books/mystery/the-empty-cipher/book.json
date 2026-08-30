@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05159",
+  "title": "The Empty Cipher",
+  "author": "Felix Underhill",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Wren Iversen, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5159
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06717",
+  "title": "Coral and the Kitchen",
+  "author": "Paloma Vasquez",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Yara Hartwell, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. Now he must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6717
+  }
+}

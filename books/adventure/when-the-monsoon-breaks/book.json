@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00307",
+  "title": "When the Monsoon Breaks",
+  "author": "J. M. Lockridge",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Quentin Vane, a mountain guide blacklisted from two countries, carries a compass, a debt, and very little else. Then an expedition upriver stops answering the radio — and he is pulled straight into the middle of it. To get through this, he must follow a river upstream to its forbidden source before the monsoon makes landfall.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 307
+  }
+}

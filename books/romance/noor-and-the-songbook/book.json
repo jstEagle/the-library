@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06937",
+  "title": "Noor and the Songbook",
+  "author": "Xanthe Sterling",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Noor Eriksen, a ghostwriter secretly penning a rival's memoirs, has spent five years rebuilding a life measured in small safe steps. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. To get through this, they must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6937
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04603",
+  "title": "Bram and the Wardrobe",
+  "author": "Ivo Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Zephyrine Voss, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. Then the last speaker of a language asks for one final student — and they are pulled straight into the middle of it. To get through this, they must ask the question the whole family arranged itself around before the mother's memory goes entirely.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4603
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09652",
+  "title": "Detention and Yearbook",
+  "author": "Isandro Sterling",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Dominic Montrose, the eldest sibling raising the younger ones while mom works nights, has spent twelve years being so careful it hurts. Then a group chat starts predicting things that haven't happened yet — and he is pulled straight into the middle of it. To get through this, he must decide who to be when the labels come off before graduation.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9652
+  }
+}

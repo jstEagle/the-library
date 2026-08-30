@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06065",
+  "title": "The Letters of the Crescent Cove",
+  "author": "Astrid Dunmore",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Beatrix Eastwick, a cellist recovering from one catastrophic final performance, has spent five years rebuilding a life measured in small safe steps. But when the person behind a decade of letters moves in next door, she discovers that staying invisible was never really an option. Now she must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6065
+  }
+}

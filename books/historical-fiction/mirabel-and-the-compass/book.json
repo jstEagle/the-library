@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03072",
+  "title": "Mirabel and the Compass",
+  "author": "Ines Vane",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Juniper Lockridge, a pearl diver's child indentured to a trading company, has spent twenty years learning which silences keep people safe. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. To get through this, they must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "memory",
+    "identity",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3072
+  }
+}

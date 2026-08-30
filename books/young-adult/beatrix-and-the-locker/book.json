@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09858",
+  "title": "Beatrix and the Locker",
+  "author": "Orsen Eriksen",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Odile Winterbourne, a debate champion who can't win the argument at home, is fine. Everything is fine. Obviously.. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, they discover that staying invisible was never really an option. To get through this, they must win the championship that doesn't matter — and the one that does before prom.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9858
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09057",
+  "title": "A Protocol for the Asset",
+  "author": "Sable Yarrow",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Theo Coldharbour, a whistle-blower living under four names, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and they are pulled straight into the middle of it. To get through this, they must burn the network that did the training before the border checkpoint shifts change.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9057
+  }
+}

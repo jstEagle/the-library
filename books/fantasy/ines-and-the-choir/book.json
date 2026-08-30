@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01602",
+  "title": "Ines and the Choir",
+  "author": "Mara Eastwick",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Ulyana Pemberton, a cartographer of unmapped realms, keeps the ledgers of a guild that trades in impossible things. But when tonight's date appears in a book of prophecies written a century ago, he discovers that staying invisible was never really an option. To get through this, he must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1602
+  }
+}

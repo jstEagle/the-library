@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02906",
+  "title": "A Atlas for the Letter",
+  "author": "Casper Eriksen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 5.0,
+  "blurb": "Quentin Vane, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and he is pulled straight into the middle of it. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2906
+  }
+}

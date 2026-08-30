@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04834",
+  "title": "A Portrait for the Inheritance",
+  "author": "Ulyana Brightwater",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ines Hartwell, a night-shift dispatcher for a taxi company, has spent twenty years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4834
+  }
+}

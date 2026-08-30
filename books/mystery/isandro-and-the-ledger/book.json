@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05400",
+  "title": "Isandro and the Ledger",
+  "author": "Lena Ravensworth",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ansel Underhill, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. To get through this, they must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "belonging",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5400
+  }
+}

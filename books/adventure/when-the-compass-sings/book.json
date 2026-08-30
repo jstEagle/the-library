@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00406",
+  "title": "When the Compass Sings",
+  "author": "Edmund Montrose",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Silas Dravenmoor, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. But when the tide reveals a cave that legends charge admission to, she discovers that staying invisible was never really an option. To get through this, she must bring the expedition home without telling anyone what it found before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 406
+  }
+}

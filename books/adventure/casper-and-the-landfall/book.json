@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00504",
+  "title": "Casper and the Landfall",
+  "author": "Juniper Montrose",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "August Okonkwo, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. But when a government survey team vanishes, leaving gear and no tracks, she discovers that staying invisible was never really an option. To get through this, she must bring the expedition home without telling anyone what it found before the monsoon makes landfall.",
+  "themes": [
+    "memory",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 504
+  }
+}

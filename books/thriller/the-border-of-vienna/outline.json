@@ -1,0 +1,119 @@
+{
+  "title": "The Border of Vienna",
+  "slug": "thriller/the-border-of-vienna",
+  "model": "stealth/ox-alpha",
+  "premise": "Marguerite Winterbourne, a financial-crimes investigator who testified against the Voss Syndicate and vanished into witness protection, is living a hollow half-life of laundered normalcy when a real-estate listing exposes his safe house — interior photos, his furniture, his life for sale. The listing is a message: someone inside the protection program has sold him out, and the defector he's ordered to extract from Vienna, a Voss accountant named Ilse Brandt, may be the bait in a trap designed to flush him out. As Marguerite races across a city of shadows and shell companies, he must decide whether survival is worth becoming the kind of man he once hunted. In the end, he turns the trap inside out — sacrificing his anonymity forever to deliver the evidence that destroys the Syndicate's protector within the program itself.",
+  "about_author": "Felix Montrose is the pen name of a former compliance officer who spent a decade tracing money through Eastern European banks before turning to fiction. He writes thrillers from an undisclosed European city, drawing on the gray zones where finance and espionage quietly overlap.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Listing",
+      "summary": "Marguerite's POV. Scrolling property sites at 3 a.m., he finds his own safe house listed with photos of its interior — his books, his coffee cup on the counter. Panic curdles into cold clarity: only someone with access could have taken these. Emotional beat: the illusion of safety shatters."
+    },
+    {
+      "n": 2,
+      "title": "Clean Money, Dirty Sleep",
+      "summary": "Flashback-laced chapter establishing his old life prosecuting the Voss Syndicate and 'the incident' that killed his partner. His handler, Reyes, dismisses the listing as a glitch. Marguerite notices the photos were taken while he slept. Beat: dread deepening into paranoia."
+    },
+    {
+      "n": 3,
+      "title": "The Defector File",
+      "summary": "Reyes assigns him one last job: extract Ilse Brandt, a Voss accountant hiding in Vienna who wants to trade ledgers for asylum. Marguerite spots anomalies — the extraction order was routed through channels that shouldn't know he exists. Beat: reluctant duty tinged with suspicion."
+    },
+    {
+      "n": 4,
+      "title": "Arrival in Gray Weather",
+      "summary": "Vienna, rain on the Danube Canal. Marguerite uses dead-drop tradecraft to contact Ilse, who is sharper and more frightened than her file suggested. She tells him she never requested extraction — the request came from Vienna, in her name. Beat: the ground tilts."
+    },
+    {
+      "n": 5,
+      "title": "Shell Games",
+      "summary": "Ilse's POV. She explains the ledger structure: a Viennese private bank laundering Voss money, protected by someone codenamed GARDENER inside the witness program. Marguerite realizes the extraction order itself may be the leak. Beat: hunter and quarry become allies."
+    },
+    {
+      "n": 6,
+      "title": "The Coffeehouse Dead Drop",
+      "summary": "A meet with a local fixer, Tomas, at Café Sperl goes wrong when a surveillance team arrives too quickly. Marguerite and Ilse escape through service alleys; Tomas vanishes. Someone fed the location to Voss muscle. Beat: trust becomes a liability."
+    },
+    {
+      "n": 7,
+      "title": "What the Photos Knew",
+      "summary": "Marguerite analyzes the real-estate listing metadata: uploaded from a government VPN subnet. Only three people had access — Reyes among them. He can't tell if he's being protected, tested, or sold. Beat: isolation, the horror of doubting your only anchor."
+    },
+    {
+      "n": 8,
+      "title": "The Bank on Ringstrasse",
+      "summary": "Posing as an auditor, Marguerite penetrates the private bank and finds Ilse's ledger fragments — including payments to a program security contractor. A guard recognizes his face from a circulated photo. Beat: the net tightening, adrenaline and guilt."
+    },
+    {
+      "n": 9,
+      "title": "Safe House, Unsafe World",
+      "summary": "Holed up in a rented flat, Ilse reveals the incident's truth: his partner wasn't killed by Voss — he was killed by the program's own mole, and Marguerite's testimony was redirected to protect him. Beat: grief weaponized into resolve."
+    },
+    {
+      "n": 10,
+      "title": "Reyes Calls",
+      "summary": "An encrypted call: Reyes orders him to abandon Ilse and come home immediately, claiming the extraction was compromised. Marguerite hears what's underneath — not concern, but fear of what Ilse knows. Beat: the moment loyalty breaks."
+    },
+    {
+      "n": 11,
+      "title": "GARDENER",
+      "summary": "Following the contractor payments, they identify GARDENER: Deputy Director Halloran, the man who built the witness program and now sells its secrets. Ilse's ledger has the final transaction — but it's incomplete without a physical key she left in a Vienna deposit box. Beat: a target acquires a shape."
+    },
+    {
+      "n": 12,
+      "title": "The Bait Confirmed",
+      "summary": "Marguerite admits the truth aloud: Ilse was never meant to be extracted — she was the lure to draw him out of hiding so both witnesses could be erased. Instead of retreating, he decides to walk into the trap deliberately. Beat: acceptance of risk, dark courage."
+    },
+    {
+      "n": 13,
+      "title": "Deposit Box 114",
+      "summary": "A tense retrieval at the bank vault, timed between guard rotations. Inside the box: a hardware token holding the complete ledger plus proof of Halloran's payments. They're spotted leaving; a chase through the U-Bahn ends with Marguerite wounded. Beat: cost made flesh."
+    },
+    {
+      "n": 14,
+      "title": "Triage and Truth",
+      "summary": "Ilse patches his shoulder in a laundromat basement. They exchange histories — two people who traded their names for safety and got neither. She confesses she once laundered money willingly; he confesses he froze during the incident. Beat: mutual absolution."
+    },
+    {
+      "n": 15,
+      "title": "The Offer",
+      "summary": "Halloran contacts Marguerite directly: return the token, and he reenters the program with a new identity, wealth, a clean slate. It's everything he's been starving for. He asks for twelve hours to decide. Beat: temptation rendered almost reasonable."
+    },
+    {
+      "n": 16,
+      "title": "Twelve Hours",
+      "summary": "Marguerite walks Vienna at night, weighing the offer against the man he used to be. He drafts two messages — acceptance and refusal — and burns neither. A near-miss with Voss enforcers reminds him the offer's mercy is fictional. Beat: the self reckoning with itself."
+    },
+    {
+      "n": 17,
+      "title": "Counter-Trap",
+      "summary": "He agrees to Halloran's meet but rigs it: copies of the ledger are already queued to three journalists, timed unless he cancels. He feeds Halloran a false location through the compromised channel, poisoning the well. Beat: the hunted becomes the architect."
+    },
+    {
+      "n": 18,
+      "title": "The Meet at Schönbrunn",
+      "summary": "Dusk in the palace gardens. Halloran arrives with handlers; Marguerite arrives with nothing but the truth and a recorder. Halloran's men close in — then federal prosecutors, tipped via the journalists' deadline mechanics, step out of the hedges. Beat: the trap springs inward."
+    },
+    {
+      "n": 19,
+      "title": "Halloran's Fall",
+      "summary": "Confrontation: Halloran argues he kept the program alive by feeding it sacrifices — Marguerite included. Arrested, he still smiles, because Voss will retaliate. Marguerite realizes capture isn't the end of danger, only of pretense. Beat: victory shadowed by consequence."
+    },
+    {
+      "n": 20,
+      "title": "Retribution's Long Shadow",
+      "summary": "Voss enforcers hunt the pair through the city's last night of chaos. Ilse's knowledge of the Syndicate's routes saves them; a final escape across the border by night train, pursued to the last platform. Beat: exhaustion, survival purchased dearly."
+    },
+    {
+      "n": 21,
+      "title": "Testimony",
+      "summary": "Weeks later, Marguerite testifies openly — no glass, no alias, his name entered into the record for the first time in years. Ilse watches from the gallery. The Syndicate's finances unravel publicly. Beat: reclaiming identity as an act of power."
+    },
+    {
+      "n": 22,
+      "title": "The Border of Vienna",
+      "summary": "Epilogue. Marguerite sleeps through the night for the first time since the incident, in a small flat he chose himself. The safe house sells to strangers; he hopes they never learn what it held. Some borders you cross; some you finally stop guarding. Beat: quiet, earned peace."
+    }
+  ]
+}

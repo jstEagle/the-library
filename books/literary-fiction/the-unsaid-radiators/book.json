@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04392",
+  "title": "The Unsaid Radiators",
+  "author": "R. M. Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Noor Winterbourne, a former prodigy returning to the conservatory as a janitor, keeps a careful inventory of everything unsaid. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. Now she must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4392
+  }
+}

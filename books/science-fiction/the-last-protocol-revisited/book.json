@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08304",
+  "title": "The Last Protocol Revisited",
+  "author": "Silas Halloran",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.9,
+  "blurb": "Isandro Eriksen, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. To get through this, they must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8304
+  }
+}

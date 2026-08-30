@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08241",
+  "title": "Emrys and the Orbit",
+  "author": "Ines Coldharbour",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Bram Halloran, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. But when an unfamiliar name shows up on the manifest of a ship that never flew, they discover that staying invisible was never really an option. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8241
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01952",
+  "title": "When the Sigil Falls Again",
+  "author": "Mara Voss",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Silas Nystrom, the last oath-bound swordspeaker, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1952
+  }
+}

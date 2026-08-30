@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07900",
+  "title": "Emrys and the Protocol",
+  "author": "A. M. Eriksen",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Ines Nystrom, a clone who inherited the original's murder case, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. To get through this, she must reach the relay at the edge of dead space, racing the signal before Earth's last transmission loop ends.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7900
+  }
+}

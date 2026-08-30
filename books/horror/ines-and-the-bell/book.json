@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03204",
+  "title": "Ines and the Bell",
+  "author": "Mirabel Villalobos",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Mirabel Marchetti, a twin who came home to bury the wrong sibling, doesn't believe, has never believed, will not begin believing now. Then the childhood imaginary friend is waiting on the porch, unchanged — and she is pulled straight into the middle of it. To get through this, she must learn the song's last verse without singing along before the last resident signs the papers.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3204
+  }
+}

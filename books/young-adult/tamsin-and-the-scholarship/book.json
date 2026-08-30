@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09550",
+  "title": "Tamsin and the Scholarship",
+  "author": "Petra Almeida",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Dominic Eastwick, a baker's kid who bakes feelings into bread, has spent twenty years being so careful it hurts. Then a group chat starts predicting things that haven't happened yet — and she is pulled straight into the middle of it. To get through this, she must win the championship that doesn't matter — and the one that does before prom.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9550
+  }
+}

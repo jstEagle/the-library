@@ -1,0 +1,21 @@
+{
+  "id": "THR-09320",
+  "title": "Rafael and the Debt",
+  "author": "Lior Marchetti",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Tamsin Amberdale, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. Now they must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9320
+  }
+}

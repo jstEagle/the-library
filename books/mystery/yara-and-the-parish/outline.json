@@ -1,0 +1,59 @@
+{
+  "title": "Yara and the Parish",
+  "slug": "mystery/yara-and-the-parish",
+  "model": "stealth/ox-alpha",
+  "premise": "Sebastian Yarrow, the archivist of St. Aldhelm's Cathedral, has catalogued every death in the parish records for thirty years — so when twin letters arrive, one confessing to a murder committed in the locked crypt and one promising a second death 'when the bells ring for Vespers,' they know the handwriting: their own predecessor, Archdeacon Wren, who died a decade ago. Following the letters' clues, Sebastian discovers that Wren faked his death and has been living beneath the cathedral with a witness who can expose the bishop's embezzlement of the restoration fund — a witness everyone, including Sebastian's beloved choirmaster Edith, swears is dead. As Sebastian closes in on the truth, they realize Edith has been protecting the witness at terrible cost, and must choose between exposing the corruption she serves and saving the found family the parish has become. In the end, the witness is revealed alive at Vespers, the bishop falls, and Sebastian chooses love and community over the archive's cold certainty, burning one letter forever unread.",
+  "about_author": "Juniper Blackwood is the pen name of a former parish secretary from the West Country who spent eleven years dusting medieval ledgers before turning to fiction. Their debut draws on real ecclesiastical archives and a lifelong fascination with what churches keep locked away.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Second Letter",
+      "summary": "Sebastian's POV. While cataloguing the crypt inventory, Sebastian receives two letters in the dead Archdeacon Wren's hand: a confession to murder, and a promise of another death at Vespers. The emotional beat is cold dread — the archivist whose life is order suddenly holding evidence that cannot exist."
+    },
+    {
+      "n": 2,
+      "title": "What the Ledger Forgot",
+      "summary": "Sebastian's POV. Cross-referencing burial records, Sebastian finds a page razored out of the 2014 register — the year Wren 'died.' The verger, Mr. Tallow, lies badly about it. Beat: the first crack in the parish's warm surface; suspicion takes root among people Sebastian loves."
+    },
+    {
+      "n": 3,
+      "title": "Edith's Silence",
+      "summary": "Sebastian's POV. Choirmaster Edith Calvert deflects Sebastian's questions with unusual sharpness, then warns them to stop digging. That night Sebastian sees her slipping into the cloister after hours. Beat: wounded trust — the closest thing Sebastian has to family may be lying."
+    },
+    {
+      "n": 4,
+      "title": "The Bishop's Restoration",
+      "summary": "Bishop Anselm's POV. The bishop reviews the restoration fund accounts and orders an audit quietly buried, revealing his embezzlement and his awareness someone knows. He summons Sebastian to ask about 'stray correspondence.' Beat: menace dressed as courtesy; the reader sees the machinery of power."
+    },
+    {
+      "n": 5,
+      "title": "Below the Nave",
+      "summary": "Sebastian's POV. Following a draft and a smell of candlewax, Sebastian finds a hidden stair behind the reliquary and hears two voices below — one unmistakably Wren's. They are caught eavesdropping by Tallow, who begs them to leave it alone. Beat: terror and exhilaration; the mystery becomes physical."
+    },
+    {
+      "n": 6,
+      "title": "A Death in the Registers",
+      "summary": "Sebastian's POV. A body is found in the crypt: Tallow, staged to look like a fall, with one of Sebastian's own archival tags in his pocket. Police suspect Sebastian. Beat: grief curdling into resolve — the promised second death has come, and Sebastian is its scapegoat."
+    },
+    {
+      "n": 7,
+      "title": "The Witness Who Is Dead",
+      "summary": "Edith's POV. Edith reveals to the reader (not Sebastian) that she has sheltered Marianne Voss — the fund auditor officially dead since 2014 — beneath the cathedral for a decade, trading her silence for protection. Beat: tragic duty; Edith's love for her flock versus her complicity."
+    },
+    {
+      "n": 8,
+      "title": "Vespers Approaches",
+      "summary": "Alternating POV. Sebastian, cornered by police and the bishop alike, deciphers Wren's confession: Wren faked his death to guard Marianne, but the second letter was forged by the bishop to flush them all out. Vespers tomorrow will be a trap. Beat: rising dread and clarity converging."
+    },
+    {
+      "n": 9,
+      "title": "When the Bells Ring",
+      "summary": "Multiple POVs converge. At Vespers, the bishop moves to kill Marianne and pin it on Sebastian; Wren sacrifices himself to shield her, dying publicly in the nave, and Edith defies her decade of duty by testifying before the congregation. Beat: climax — love against duty, paid in blood."
+    },
+    {
+      "n": 10,
+      "title": "The Unread Letter",
+      "summary": "Sebastian's POV, weeks later. The bishop is arrested, Marianne restored to life on paper, and the parish begins rebuilding around its wounds. Sebastian finds a final letter from Wren, seals it unopened into the archive, and joins Edith and Marianne for supper. Beat: resolution — found family chosen over certainty."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06505",
+  "title": "Ines and the Harbor",
+  "author": "Emrys Zhou",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Edmund Lockridge, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6505
+  }
+}

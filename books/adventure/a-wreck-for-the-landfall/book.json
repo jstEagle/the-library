@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00394",
+  "title": "A Wreck for the Landfall",
+  "author": "Gideon Lockridge",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Odile Coldharbour, a desert ranger tracking a thief across nothing, carries a compass, a debt, and very little else. Then the tide reveals a cave that legends charge admission to — and he is pulled straight into the middle of it. To get through this, he must beat the salvage fleet to the wreck by six tides before the concession permits expire.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 394
+  }
+}

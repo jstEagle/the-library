@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09935",
+  "title": "Detention and Homecoming",
+  "author": "L. M. Dunmore",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Casper Marchetti, a baker's kid who bakes feelings into bread, is fine. Everything is fine. Obviously.. But when a group chat starts predicting things that haven't happened yet, they discover that staying invisible was never really an option. To get through this, they must win the championship that doesn't matter — and the one that does before the final audition.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9935
+  }
+}

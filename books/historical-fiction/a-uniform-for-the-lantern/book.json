@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02870",
+  "title": "A Uniform for the Lantern",
+  "author": "Sebastian Thackeray",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Theo Hartwell, an apprentice clockmaker summoned to repair the observatory's master clock, measures the world in what can be carried when the orders come. Then the census taker asks one question too many — and he is pulled straight into the middle of it. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2870
+  }
+}

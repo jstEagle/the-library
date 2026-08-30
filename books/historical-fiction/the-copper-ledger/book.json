@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02861",
+  "title": "The Copper Ledger",
+  "author": "C. M. Amberdale",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Orsen Winterbourne, a battlefield nurse keeping a ledger of the names officers omit, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. To get through this, she must choose which family member gets the last berth before the ship sails on the morning tide.",
+  "themes": [
+    "identity",
+    "memory",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2861
+  }
+}

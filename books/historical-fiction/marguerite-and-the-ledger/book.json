@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02564",
+  "title": "Marguerite and the Ledger",
+  "author": "Juniper Zhou",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ivo Hartwell, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent ten years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the armistice is signed — or isn't.",
+  "themes": [
+    "memory",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2564
+  }
+}

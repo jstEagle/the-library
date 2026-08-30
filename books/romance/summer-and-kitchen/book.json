@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06411",
+  "title": "Summer and Kitchen",
+  "author": "Oscar Delacroix",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Coral Okafor, a lighthouse keeper's granddaughter and part-time novelist, has spent twelve years rebuilding a life measured in small safe steps. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6411
+  }
+}

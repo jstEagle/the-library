@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00694",
+  "title": "A Passage for the Monsoon",
+  "author": "Casper Thornbury",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Coral Dravenmoor, a desert ranger tracking a thief across nothing, carries a compass, a debt, and very little else. Then the tide reveals a cave that legends charge admission to — and he is pulled straight into the middle of it. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 694
+  }
+}

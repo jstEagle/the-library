@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03322",
+  "title": "The Patient House",
+  "author": "Odile Whitlock",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Edmund Coldharbour, a hospice nurse who hears the dying count backwards, doesn't believe, has never believed, will not begin believing now. Then all the photographs from grandma's house now include an extra chair — and they are pulled straight into the middle of it. Now they must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3322
+  }
+}

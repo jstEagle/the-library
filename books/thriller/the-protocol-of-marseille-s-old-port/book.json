@@ -1,0 +1,21 @@
+{
+  "id": "THR-08419",
+  "title": "The Protocol of Marseille's old port",
+  "author": "Jude Reyes",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Dominic Thornbury, a crash investigator whose family died in row twelve, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8419
+  }
+}

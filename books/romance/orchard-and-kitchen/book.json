@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06262",
+  "title": "Orchard and Kitchen",
+  "author": "O. M. Underhill",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ansel Lockridge, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and he is pulled straight into the middle of it. To get through this, he must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6262
+  }
+}

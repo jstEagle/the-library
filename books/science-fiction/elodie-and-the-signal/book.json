@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07856",
+  "title": "Elodie and the Signal",
+  "author": "Orsen Yarrow",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ansel Montrose, the last human technician on an automated relay station, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7856
+  }
+}

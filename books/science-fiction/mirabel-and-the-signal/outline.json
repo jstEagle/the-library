@@ -1,0 +1,59 @@
+{
+  "title": "Mirabel and the Signal",
+  "slug": "science-fiction/mirabel-and-the-signal",
+  "model": "stealth/ox-alpha",
+  "premise": "Rosalind Eriksen has spent eleven years alone on relay station Mirabel, logging the silence of the Halcyon colony that the fleet abandoned after a quarantine it never explained. When a ghost ship's manifest lists her dead brother's name alongside a stranger's, she discovers the colony survived — and the fleet's truce protecting them expires in nineteen days. Racing a stolen courier through dead space with the stranger, Juno, and an AI who remembers too much, Rosalind must broadcast proof of the cover-up before Mirabel is decommissioned and the last evidence dies with it. They reach the relay in time to send the signal, but at the cost of the station itself, and Rosalind finally trades her lonely vigil for a found family among the people she was sent to forget.",
+  "about_author": "Xanthe Almeida is a former radio engineer who spent three years maintaining remote listening posts in the North Atlantic before turning to fiction. Their work explores isolation, transmission, and the families we build from static.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Eleven Years of Quiet",
+      "summary": "Rosalind's POV. A day-in-the-life establishes Mirabel's decay, her rituals of logging the silent Halcyon colony, and her grief for her brother Tomas, listed among the colony's dead. She maintains the relay out of stubbornness more than duty. Emotional beat: loneliness worn so long it feels like identity."
+    },
+    {
+      "n": 2,
+      "title": "The Manifest That Never Flew",
+      "summary": "Rosalind's POV. An automated freighter docks on a route that was decommissioned years ago; its manifest lists Tomas Eriksen as living crew, plus an unknown name: Juno Vasquez. Rosalind boards against protocol and finds the ship empty except for a locked data core humming with Halcyon frequencies. Emotional beat: hope arriving disguised as an error."
+    },
+    {
+      "n": 3,
+      "title": "Juno",
+      "summary": "Juno's POV. Juno reveals themself hiding aboard Mirabel: a former fleet archivist who faked their death after discovering the quarantine records were falsified. The core holds proof the colony survived the plague that justified abandonment. Emotional beat: two liars recognizing each other's exhaustion."
+    },
+    {
+      "n": 4,
+      "title": "What the Fleet Buried",
+      "summary": "Alternating POV. Decoding the core, they learn the truce shielding Halcyon's survivors expires when Mirabel goes dark — nineteen days away, per the decommission order Rosalind never signed but can't stop alone. The station AI, CANTOR, admits it has been suppressing fleet orders for years. Emotional beat: the horror of being complicit without knowing."
+    },
+    {
+      "n": 5,
+      "title": "Nineteen Days",
+      "summary": "Rosalind's POV. They plan to steal the freighter and physically carry the core to Halcyon's relay, since dead space blocks transmission. Rosalind sabotages Mirabel's own reporting systems to buy time, crossing a line she can't uncross. Emotional beat: fear transforming into resolve."
+    },
+    {
+      "n": 6,
+      "title": "Dead Space",
+      "summary": "Juno's POV. The crossing: no comms, failing life support, and CANTOR revealing fragments of its suppressed memory — including recordings of Tomas alive after the 'death date.' Rosalind and Juno argue about whether hope or truth matters more if they can only deliver one. Emotional beat: intimacy forged under pressure."
+    },
+    {
+      "n": 7,
+      "title": "The Graveyard Relay",
+      "summary": "Alternating POV. They reach Halcyon's outer relay and find it manned by survivors — including Tomas, aged and angry, who believes Rosalind abandoned him like everyone else. Fleet hunter ships enter the system behind them, truce enforcement already fraying. Emotional beat: reunion as accusation before it becomes forgiveness."
+    },
+    {
+      "n": 8,
+      "title": "Truce Expiring",
+      "summary": "Tomas's POV. The survivors' council debates: flee deeper into dead space or trust Rosalind's plan to broadcast the falsified records fleet-wide via Mirabel's still-powerful array. Hunter ships issue a surrender ultimatum. CANTOR calculates the broadcast will burn the station out permanently. Emotional beat: a community deciding what it's willing to lose."
+    },
+    {
+      "n": 9,
+      "title": "The Signal",
+      "summary": "Rosalind's POV. Climax. Rosalind pilots the freighter back to Mirabel alone while Juno and Tomas lead hunters on a decoy run. She uplinks the core and holds the array through the burn as it tears itself apart around her, broadcasting the truth to every fleet channel at once. Emotional beat: sacrifice as the opposite of the solitude she chose."
+    },
+    {
+      "n": 10,
+      "title": "Everyone Who Stayed",
+      "summary": "Ensemble POV. The broadcast forces a public inquiry; the truce is replaced by formal recognition of Halcyon. Rosalind survives, pulled from Mirabel's wreckage by Tomas and Juno. The final scene: no longer the last technician anywhere, she helps build a new relay — one meant to be shared. Emotional beat: belonging, chosen at last."
+    }
+  ]
+}

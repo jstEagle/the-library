@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02502",
+  "title": "Typewriter and Atlas",
+  "author": "M. M. Galloway",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Oscar Dravenmoor, a typeface cutter's daughter in a print shop on the eve of a revolution, has spent twenty years learning which silences keep people safe. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the ice breaks on the river.",
+  "themes": [
+    "belonging",
+    "identity",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2502
+  }
+}

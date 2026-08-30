@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04891",
+  "title": "Alibi and Ledger",
+  "author": "Theo Kavanagh",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Freya Oyelaran, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. To get through this, they must close the one case everyone swore was closed for good before the tide gives up what it took.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4891
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03147",
+  "title": "Oscar and the Letter",
+  "author": "Sebastian Eriksen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Isandro Voss, a typeface cutter's daughter in a print shop on the eve of a revolution, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3147
+  }
+}

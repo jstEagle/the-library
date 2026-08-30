@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05331",
+  "title": "When the Autopsy Falls",
+  "author": "Noor Voss",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Mara Vane, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the statute expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5331
+  }
+}

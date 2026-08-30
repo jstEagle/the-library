@@ -1,0 +1,29 @@
+{
+  "title": "Drop and Ghost",
+  "slug": "thriller/drop-and-ghost",
+  "model": "stealth/ox-alpha",
+  "premise": "Wendell Sandoval has built a career laundering reputations, quietly scrubbing financial crimes for clients who pay to remain unattributed. When an anonymous voiceprint grants him access to a server in Tallinn, he discovers a dossier on himself: his entire invisible life was manufactured by the same network he serves, and his next assignment is his own erasure. Falling for Mara, the whistleblower whose voice unlocked the server, Wendell must choose between the duty that made him and the justice she demands. In the end he burns the network's ledger from inside their own checkpoint window, walks through the border as a man with no records at all, and disappears with Mara into a life that finally belongs to him.",
+  "about_author": "Yara Reyes is a former compliance analyst who spent a decade tracing money through jurisdictions that preferred not to be named. She writes thrillers about the people who keep secrets for a living, from a coastal town she refuses to geotag.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Clean Money",
+      "summary": "Wendell's POV. He scrubs a politician's slush fund with surgical calm, establishing the numbness of a man paid to make guilt disappear. A routine audit flags an impossible transaction, and a voice message from an unknown woman, Mara, plays a phrase that unlocks a server he's never seen. The beat is unease: his invisible world has developed a crack."
+    },
+    {
+      "n": 2,
+      "title": "The Dossier of Wendell Sandoval",
+      "summary": "Alternating Wendell and Mara POV. In Tallinn's server they find his manufactured biography: recruitment at nineteen, handlers, staged memories. Mara reveals she was the network's voiceprint engineer until she stole the master key. As the network realizes the breach, his handler offers him a promotion that is really a countdown. The beat is vertigo, identity dissolving under his feet."
+    },
+    {
+      "n": 3,
+      "title": "Checkpoint Hours",
+      "summary": "Mara's POV, closing on Wendell's. Hunted across the Baltics, they plan to inject a wipe-script into the ledger during the nightly shift change at the network's border data relay. Wendell hesitates: burning the ledger also burns the evidence that could clear Mara's name. Duty and love collide in a train station argument. The beat is desperate intimacy under pursuit."
+    },
+    {
+      "n": 4,
+      "title": "Drop and Ghost",
+      "summary": "Wendell's POV. Inside the relay, posing as a contractor, he executes the wipe as the checkpoint shifts change, watching his own file dissolve on-screen. The network's enforcer corners him, but Mara's dead-man trigger releases the dossier publicly, forcing the handlers to scatter. He crosses the border unrecorded, meets Mara on the far side. The beat is release: justice outside the law, and a self he authored himself."
+    }
+  ]
+}

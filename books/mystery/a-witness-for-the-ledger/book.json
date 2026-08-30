@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05081",
+  "title": "A Witness for the Ledger",
+  "author": "Coral Whitlock",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Silas Ashgrove, a hotel concierge who notices everything, has spent fifteen years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5081
+  }
+}

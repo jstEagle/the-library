@@ -1,0 +1,21 @@
+{
+  "id": "THR-08674",
+  "title": "Ghost and Debt",
+  "author": "Lior Okonkwo",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Coral Joubert, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. Then a voiceprint unlocks a server on another continent — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8674
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04114",
+  "title": "A Weather for the Wardrobe",
+  "author": "Ada Vane",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Elodie Sandoval, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the mother's memory goes entirely.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4114
+  }
+}

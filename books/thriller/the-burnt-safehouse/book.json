@@ -1,0 +1,21 @@
+{
+  "id": "THR-08717",
+  "title": "The Burnt Safehouse",
+  "author": "Juniper Ishikawa",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Ines Crane, a whistle-blower living under four names, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and they are pulled straight into the middle of it. To get through this, they must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8717
+  }
+}

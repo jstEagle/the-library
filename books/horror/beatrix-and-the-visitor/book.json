@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03895",
+  "title": "Beatrix and the Visitor",
+  "author": "Jonah Ishikawa",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Marguerite Underhill, a folklorist recording songs the village refuses to sing twice, has spent fifteen years telling themselves the noises have explanations. But when all the photographs from grandma's house now include an extra chair, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3895
+  }
+}

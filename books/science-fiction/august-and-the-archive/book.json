@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07632",
+  "title": "August and the Archive",
+  "author": "A. M. Coldharbour",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Wendell Iversen, the caretaker of Earth's abandoned seed vault, has spent twelve years hauling cargo through contested orbits. But when an unfamiliar name shows up on the manifest of a ship that never flew, they discover that staying invisible was never really an option. To get through this, they must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "memory",
+    "found family",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7632
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Edmund and the Safehouse",
+  "slug": "thriller/edmund-and-the-safehouse",
+  "model": "stealth/ox-alpha",
+  "premise": "Petra Ishikawa, a disgraced intelligence analyst living under a polished alias in Lisbon, receives a voiceprint authentication ping from a server he built years ago for a black-site program called LANTERN — a system that trains operatives by manufacturing their loyalties. The voiceprint belongs to Edmund Voss, his former handler, now a fugitive who wants to expose the network before it weaponizes global markets at the Frankfurt open. Hunted by both the network's cleaners and the agencies that disowned him, Petra must decide whether loyalty to Edmund is real or another manufactured lie. In the end, Petra burns LANTERN's core servers, learns Edmund himself was its first and most successful product, and chooses exile over redemption, walking away with the truth no one will publish.",
+  "about_author": "Sebastian Eriksen is the pen name of a former financial-crimes investigator who spent a decade tracing money through European clearing houses before turning to fiction. He writes paranoid, procedurally precise thrillers about people whose institutions fail them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Go-Bag by the Door",
+      "summary": "POV: Petra. Living quietly in Lisbon as 'Martin Hale,' Petra maintains his escape kit and rehearsed cover story while working dead-end compliance gigs. A late-night voiceprint ping unlocks an old server he thought was decommissioned, playing a message in Edmund Voss's voice: 'They're using it tomorrow.' Emotional beat: dread disguised as routine — the past has found him."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "POV: Petra. He verifies the message is genuinely Edmund's, then discovers someone else accessed the server hours earlier from Frankfurt. His apartment is compromised; he runs with the go-bag, contacting a former colleague, Ana Reyes, who warns him three agencies still have flags on him. Emotional beat: paranoia sharpening into purpose."
+    },
+    {
+      "n": 3,
+      "title": "What LANTERN Made",
+      "summary": "POV: Petra, with flashback texture. On a night train to Madrid, Petra reconstructs LANTERN: a program that trained operatives by engineering their attachments and betrayals — including his own recruitment. He realizes Edmund's 'loyalty' to him may have been installed. Emotional beat: grief curdling into suspicion of everything he trusted."
+    },
+    {
+      "n": 4,
+      "title": "The Cleaner in Carriage Four",
+      "summary": "POV: alternating Petra and the cleaner, Marek. Marek, a LANTERN product himself, closes in on the train; Petra escapes through Barcelona after a brutal, quiet struggle. He finds a dead drop Edmund left: account credentials proving LANTERN's controllers are positioned inside a Frankfurt market-maker. Emotional beat: survival at the cost of innocence."
+    },
+    {
+      "n": 5,
+      "title": "Frankfurt Before the Open",
+      "summary": "POV: Petra. Posing as a compliance contractor, Petra infiltrates the market-maker's tower and finds Edmund alive but half-broken, hiding in the building's data vault. Edmund confesses he triggered the voiceprint deliberately — he needed Petra because only Petra's biometrics can reach LANTERN's core. Emotional beat: reunion laced with betrayal."
+    },
+    {
+      "n": 6,
+      "title": "Ana",
+      "summary": "POV: Petra. Ana Reyes arrives claiming her agency will grant immunity if Petra hands over LANTERN's evidence instead of destroying it. Petra catches her feeding his location to Marek — she's been turned, or always was a product. He lets her believe she's won. Emotional beat: loneliness; every ally is a possible instrument."
+    },
+    {
+      "n": 7,
+      "title": "The Price List",
+      "summary": "POV: Edmund. Inside the vault, Edmund shows Petra LANTERN's ledger: markets manipulated, operatives discarded, and Petra's own file — his disgrace engineered to make him pliable. Edmund argues exposure, not destruction, is justice. Petra sees Edmund reciting arguments he was trained to make. Emotional beat: the seduction of righteous anger."
+    },
+    {
+      "n": 8,
+      "title": "Ninety Minutes to Open",
+      "summary": "POV: Petra and Marek converging. With ninety minutes until the Frankfurt open, LANTERN initiates its market operation; Marek breaches the tower with corporate security as unwitting muscle. Petra reaches the core server room but must choose between wiping LANTERN (destroying the evidence) or copying it (risking it falling into other hands). Emotional beat: compressed, ticking desperation."
+    },
+    {
+      "n": 9,
+      "title": "Burn Protocol",
+      "summary": "POV: Petra. Climax. Petra wipes LANTERN's core mid-operation, crashing the manipulation and stranding billions in phantom positions. He confronts Marek, who hesitates when Petra speaks the activation phrase from Marek's own training file — proof they were made by the same machine. Ana arrives, torn; Edmund takes a bullet meant for Petra. Emotional beat: violent catharsis and terrible clarity."
+    },
+    {
+      "n": 10,
+      "title": "Exile, Polished",
+      "summary": "POV: Petra. Weeks later, agencies bury the incident; without LANTERN's records there is nothing to publish, which was perhaps the point. Petra visits Edmund's grave, keeps the go-bag packed, and leaves Lisbon with a new name — carrying the truth privately, loyal now only to himself. Emotional beat: quiet, costly resolution; survival as its own sentence."
+    }
+  ]
+}

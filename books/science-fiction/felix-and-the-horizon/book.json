@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07182",
+  "title": "Felix and the Horizon",
+  "author": "Juniper Blackwood",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Silas Ravensworth, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7182
+  }
+}

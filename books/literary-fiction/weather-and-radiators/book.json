@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04747",
+  "title": "Weather and Radiators",
+  "author": "Mara Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Jude Sandoval, an heir cataloging a parent's silence after the funeral, moves through the days like a tenant, not an owner. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. To get through this, they must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "found family",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4747
+  }
+}

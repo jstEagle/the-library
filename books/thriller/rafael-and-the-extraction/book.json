@@ -1,0 +1,21 @@
+{
+  "id": "THR-09361",
+  "title": "Rafael and the Extraction",
+  "author": "Tamsin Montrose",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Yara Almeida, a whistle-blower living under four names, has spent five years following rules that keep getting rewritten. But when a voiceprint unlocks a server on another continent, they discover that staying invisible was never really an option. Now they must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9361
+  }
+}

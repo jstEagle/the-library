@@ -1,0 +1,21 @@
+{
+  "id": "THR-09355",
+  "title": "The Drop of the Free Port Again",
+  "author": "Lena Vasquez",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Juniper Galloway, a burnt analyst bounced from three agencies, has spent twelve years following rules that keep getting rewritten. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9355
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06486",
+  "title": "Kitchen and Letters",
+  "author": "Jude Nakamura",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Bram Underhill, a vineyard owner who inherited debts instead of grapes, swears the heart is a muscle like any other: trainable, containable. But when a fake date to survive a family reunion feels too real by dessert, she discovers that staying invisible was never really an option. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6486
+  }
+}

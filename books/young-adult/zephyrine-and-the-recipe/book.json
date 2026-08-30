@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09898",
+  "title": "Zephyrine and the Recipe",
+  "author": "Quentin Amberdale",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ansel Okafor, the only out kid in a town of nine hundred, counts days until graduation like a sentence being served. But when the teacher pairs nemesis with nemesis for a semester-long project, he discovers that staying invisible was never really an option. To get through this, he must tell the truth even if it costs the friendship before prom.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9898
+  }
+}

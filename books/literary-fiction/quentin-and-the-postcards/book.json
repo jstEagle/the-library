@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04647",
+  "title": "Quentin and the Postcards",
+  "author": "Jude Delacroix",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Wendell Thornbury, a night librarian in a city that sleeps less every year, keeps a careful inventory of everything unsaid. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4647
+  }
+}

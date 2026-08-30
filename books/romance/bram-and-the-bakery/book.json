@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06788",
+  "title": "Bram and the Bakery",
+  "author": "Tamsin Halloran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Edmund Ishikawa, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. But when a lost letter surfaces, postmarked eleven years ago, she discovers that staying invisible was never really an option. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6788
+  }
+}

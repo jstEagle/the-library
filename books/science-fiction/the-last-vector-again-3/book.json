@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08300",
+  "title": "The Last Vector Again",
+  "author": "Jude Thackeray",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Orsen Hartwell, an insurance investigator of impossible accidents, has spent five years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. To get through this, he must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "identity",
+    "found family",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8300
+  }
+}

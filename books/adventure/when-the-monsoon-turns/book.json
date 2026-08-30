@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00226",
+  "title": "When the Monsoon Turns",
+  "author": "Mirabel Halloran",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Theo Oyelaran, a salvage diver working a wreck the navy won't discuss, carries a compass, a debt, and very little else. But when the river gives up a chest stamped with a dead nation's seal, she discovers that staying invisible was never really an option. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 226
+  }
+}

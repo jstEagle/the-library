@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07485",
+  "title": "Horizon and Terminal",
+  "author": "Ines Pemberton",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Wendell Ravensworth, a memory-smuggler running contraband past orbital customs, has spent twenty years hauling cargo through contested orbits. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7485
+  }
+}

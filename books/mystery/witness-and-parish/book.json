@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05473",
+  "title": "Witness and Parish",
+  "author": "Cyrus Yarrow",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Oscar Ashgrove, an insurance investigator with a photographic memory, thought they had seen every way a life can end. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5473
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09896",
+  "title": "The Locker of the water tower",
+  "author": "Rosalind Amberdale",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Quentin Eastwick, the new kid at a school built over something old, counts days until graduation like a sentence being served. But when the college essay prompt asks one honest question nobody can stop answering, he discovers that staying invisible was never really an option. To get through this, he must decide who to be when the labels come off before prom.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9896
+  }
+}

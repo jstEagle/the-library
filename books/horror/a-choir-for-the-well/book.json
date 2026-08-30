@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03168",
+  "title": "A Choir for the Well",
+  "author": "Silas Fairweather",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Paloma Dunmore, an urban explorer mapping tunnels that aren't on any survey, documents everything, because documentation is a kind of prayer. But when every mirror in the house starts reflecting the room one second late, they discover that staying invisible was never really an option. Now they must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3168
+  }
+}

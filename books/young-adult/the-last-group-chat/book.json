@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09564",
+  "title": "The Last Group Chat",
+  "author": "Xanthe Marchetti",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ivo Whitlock, the team's statistician who knows the game is rigged, counts days until graduation like a sentence being served. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. To get through this, he must win the championship that doesn't matter — and the one that does before the final audition.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9564
+  }
+}

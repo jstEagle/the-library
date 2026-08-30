@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05310",
+  "title": "The Cipher of Windrow House",
+  "author": "E. M. Iversen",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ada Montrose, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5310
+  }
+}

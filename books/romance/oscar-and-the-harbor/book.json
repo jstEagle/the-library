@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06756",
+  "title": "Oscar and the Harbor",
+  "author": "Yara Pemberton",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Silas Amberdale, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6756
+  }
+}

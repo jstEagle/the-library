@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05939",
+  "title": "Letter and Parish Revisited",
+  "author": "Isandro Blackwood",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Ivo Halloran, a night-shift dispatcher for a taxi company, has spent twelve years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. To get through this, he must close the one case everyone swore was closed for good before the tide gives up what it took.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5939
+  }
+}

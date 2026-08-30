@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04129",
+  "title": "Wendell and the Wardrobe",
+  "author": "Ivo Oyelaran",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Edmund Okafor, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must return to the place where the story went wrong before the house sale closes.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4129
+  }
+}

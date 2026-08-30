@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07515",
+  "title": "Freya and the Machine",
+  "author": "O. M. Amberdale",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Petra Crane, a pilot bonded to an AI that lies, maintains the beacon nobody remembers commissioning. But when gravity flickers across the entire system for exactly nine seconds, she discovers that staying invisible was never really an option. To get through this, she must reach the relay at the edge of dead space, racing the signal before Earth's last transmission loop ends.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7515
+  }
+}

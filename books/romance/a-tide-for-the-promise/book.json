@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06295",
+  "title": "A Tide for the Promise",
+  "author": "Coral Villalobos",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Sable Hartwell, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. To get through this, she must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6295
+  }
+}

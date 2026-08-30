@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09587",
+  "title": "The Best Detention",
+  "author": "Astrid Nystrom",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Beatrix Galloway, a baker's kid who bakes feelings into bread, stays under the radar: head down, grades up, locker shut. But when the college essay prompt asks one honest question nobody can stop answering, they discover that staying invisible was never really an option. Now they must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9587
+  }
+}

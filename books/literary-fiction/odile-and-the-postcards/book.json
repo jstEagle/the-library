@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04696",
+  "title": "Odile and the Postcards",
+  "author": "Vesper Marchetti",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Quentin Coldharbour, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. To get through this, he must forgive the stranger in the old photographs before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4696
+  }
+}

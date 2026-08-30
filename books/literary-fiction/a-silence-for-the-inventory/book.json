@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04113",
+  "title": "A Silence for the Inventory",
+  "author": "Paloma Joubert",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Beatrix Brightwater, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must say goodbye properly, at last, out loud before the mother's memory goes entirely.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4113
+  }
+}

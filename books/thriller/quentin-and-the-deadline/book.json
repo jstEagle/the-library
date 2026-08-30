@@ -1,0 +1,21 @@
+{
+  "id": "THR-08921",
+  "title": "Quentin and the Deadline",
+  "author": "Yara Voss",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Mara Dunmore, a burnt analyst bounced from three agencies, works cases no one wants attributed. But when a voiceprint unlocks a server on another continent, she discovers that staying invisible was never really an option. To get through this, she must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8921
+  }
+}

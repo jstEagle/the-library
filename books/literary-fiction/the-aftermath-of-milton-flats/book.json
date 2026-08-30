@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04262",
+  "title": "The Aftermath of Milton Flats",
+  "author": "Kestrel Ishikawa",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Hazel Villalobos, a former prodigy returning to the conservatory as a janitor, has spent twenty years practicing the art of almost saying it. Then a box of undelivered letters surfaces behind a wardrobe — and he is pulled straight into the middle of it. To get through this, he must ask the question the whole family arranged itself around before the demolition date arrives.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4262
+  }
+}

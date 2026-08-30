@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02567",
+  "title": "The Long Compass",
+  "author": "Quentin Nakamura",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Juniper Sandoval, a mapmaker's apprentice finishing the atlas the master died for, has spent seven years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the ice breaks on the river.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2567
+  }
+}

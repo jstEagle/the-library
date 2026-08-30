@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06745",
+  "title": "Noor and the Postcard",
+  "author": "Beatrix Whitlock",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Rafael Thornbury, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. To get through this, he must say the sentence that has been rehearsed for a decade before the festival ends.",
+  "themes": [
+    "identity",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6745
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01101",
+  "title": "A Wolf for the Garden",
+  "author": "Quentin Voss",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Silas Blackwood, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1101
+  }
+}

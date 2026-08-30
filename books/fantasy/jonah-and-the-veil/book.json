@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01863",
+  "title": "Jonah and the Veil",
+  "author": "I. M. Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Coral Halloran, a mercenary sworn to a god that went silent, has spent five years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1863
+  }
+}

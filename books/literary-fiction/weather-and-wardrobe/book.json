@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04079",
+  "title": "Weather and Wardrobe",
+  "author": "Quentin Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Zephyrine Oyelaran, a former prodigy returning to the conservatory as a janitor, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. To get through this, he must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4079
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05907",
+  "title": "Beatrix and the Cipher Revisited",
+  "author": "Ada Amberdale",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Mara Sandoval, an insurance investigator with a photographic memory, has spent three years keeping the town's secrets filed and alphabetized. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5907
+  }
+}

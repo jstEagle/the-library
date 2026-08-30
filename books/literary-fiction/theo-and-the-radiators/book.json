@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04248",
+  "title": "Theo and the Radiators",
+  "author": "Y. M. Dunmore",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Mara Okafor, a piano tuner who hears the house's history in its radiators, has perfected the smile that ends conversations. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4248
+  }
+}

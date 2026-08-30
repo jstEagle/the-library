@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07440",
+  "title": "When the Vector Sings",
+  "author": "Juniper Fairweather",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Orsen Winterbourne, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7440
+  }
+}

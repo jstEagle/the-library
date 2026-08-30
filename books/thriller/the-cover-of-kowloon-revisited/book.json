@@ -1,0 +1,21 @@
+{
+  "id": "THR-09373",
+  "title": "The Cover of Kowloon Revisited",
+  "author": "Lena Blackwood",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Felix Quintana, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. Now they must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9373
+  }
+}

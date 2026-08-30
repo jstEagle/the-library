@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04725",
+  "title": "Gideon and the Glasshouse",
+  "author": "Noor Blackwood",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Ada Winterbourne, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. Then a song on the radio is one that was written and never recorded — and she is pulled straight into the middle of it. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4725
+  }
+}

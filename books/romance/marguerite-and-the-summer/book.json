@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06582",
+  "title": "Marguerite and the Summer",
+  "author": "Emrys Eastwick",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Coral Joubert, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, she discovers that staying invisible was never really an option. Now she must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6582
+  }
+}

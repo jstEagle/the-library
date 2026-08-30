@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05732",
+  "title": "Rafael and the Will",
+  "author": "Isandro Voss",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wendell Fairweather, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5732
+  }
+}

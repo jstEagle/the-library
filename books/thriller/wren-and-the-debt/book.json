@@ -1,0 +1,21 @@
+{
+  "id": "THR-08901",
+  "title": "Wren and the Debt",
+  "author": "Oscar Marchetti",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Emrys Lockridge, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8901
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01891",
+  "title": "Isandro and the Oath Again",
+  "author": "August Hartwell",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Gideon Okafor, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. To get through this, she must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1891
+  }
+}

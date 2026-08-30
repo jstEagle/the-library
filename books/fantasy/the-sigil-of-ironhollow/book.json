@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01013",
+  "title": "The Sigil of Ironhollow",
+  "author": "Kestrel Sterling",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Wren Brightwater, an exiled storm-caller, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1013
+  }
+}

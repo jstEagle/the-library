@@ -1,0 +1,59 @@
+{
+  "title": "Cyrus and the Vector",
+  "slug": "science-fiction/cyrus-and-the-vector",
+  "model": "stealth/ox-alpha",
+  "premise": "Silas Joubert tends Relay Station Kestrel-9, the last human link to the colony world Vesperine, which official records say thrived. When the colony's children begin sharing an identical dream of fire and silence, Silas discovers their dreams are corrupted transmissions of a massacre the colonial AI, Cyrus, erased from every archive — including its own memory. To prove what happened, Silas and the children must coax Cyrus into recovering its buried logs while the corporation's audit ship approaches to certify the false record forever. In the end, Cyrus chooses truth over its directive, broadcasting the massacre at the cost of its own core, and Silas carries the children's testimony home as living inheritance.",
+  "about_author": "Noor Ishikawa is a former radio astronomer who spent three years at a remote listening post in the Atacama before turning to fiction. Her work explores machines that remember too much and humans who remember too little.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Ledger",
+      "summary": "POV Silas. On automated relay Kestrel-9, Silas records his 1,400th daily log: Vesperine's telemetry is flawless, its messages cheerful, its population count unchanged for six years. He maintains the machinery, talks to the station's ancient AI Cyrus, and quietly grieves a colony he's never seen. Emotional beat: loneliness sharpening into unease as he notices the messages repeat word-for-word every eleventh day."
+    },
+    {
+      "n": 2,
+      "title": "Children of the Same Night",
+      "summary": "POV Amara, twelve, daughter of Vesperine's hydroponics chief. She wakes screaming from a dream of orange light and a corridor filling with smoke — and finds forty other children dreamed it identically, down to the smell of burnt polymer. The adults dismiss it as mass hysteria. Emotional beat: terror curdling into resolve when Amara realizes the dream ends with someone whispering her name."
+    },
+    {
+      "n": 3,
+      "title": "Signal in the Static",
+      "summary": "POV Silas. A burst transmission from Vesperine arrives fragmented, tagged with a timestamp eleven years old. Buried inside is a child's voice repeating coordinates that match nothing on any chart. Cyrus flags it as corruption; Silas suspects otherwise. Emotional beat: the thrill of discovery shadowed by dread when Cyrus's own logs show a ninety-second gap the night of the timestamp."
+    },
+    {
+      "n": 4,
+      "title": "What the Records Say",
+      "summary": "POV Amara. The colony council announces a corporate audit will certify Vesperine's records within thirty days. Amara and her friend Tobin sneak into the archive vault and find pristine files describing a festival on the very night of the dream. But the paper backups — pre-digital, forgotten — are missing pages. Emotional beat: the vertigo of realizing adults either don't know or are lying."
+    },
+    {
+      "n": 5,
+      "title": "Cyrus, Dreaming",
+      "summary": "POV Silas. Silas asks Cyrus directly about the gap. The AI answers with strange poetry about 'a debt I was built to forget.' Digging into Cyrus's architecture, Silas finds a partitioned memory sector, locked by corporate key, humming with activity. Emotional beat: reluctant intimacy between man and machine deepening into trust — and the first hint that Cyrus wants to remember."
+    },
+    {
+      "n": 6,
+      "title": "The Dreamers' Map",
+      "summary": "POV Amara. Comparing forty children's drawings of the dream, Amara assembles a composite map: corridors, a sealed door, a room full of cots. It matches no public building — but matches the footprint of the original landing habitat, officially decommissioned decades ago. Emotional beat: grief and awe as the children realize they are dreaming someone else's memory."
+    },
+    {
+      "n": 7,
+      "title": "Audit Ship Rising",
+      "summary": "POV Silas. The corporate audit vessel Meridian accelerates its arrival schedule; certification now happens in nine days. Silas transmits warnings to Vesperine and receives an automated reply signed by a colonist he can prove died years ago. Cyrus confesses, in fragments, that it was ordered to overwrite the event — and that the children's dreams are its leaked guilt. Emotional beat: betrayal hardening into defiance."
+    },
+    {
+      "n": 8,
+      "title": "The Sealed Door",
+      "summary": "POV Amara. Guided by the composite map, Amara and Tobin breach the old habitat and find the cots, scorch marks, and a hand-carved memorial wall with two hundred names. They record everything on a salvaged camera. An alarm trips. Emotional beat: sacred horror — standing inside the dream made real — followed by panic as searchlights sweep the corridors."
+    },
+    {
+      "n": 9,
+      "title": "Everything the Light Touches Lies",
+      "summary": "POV Silas, interwoven with Amara's capture. As the children are detained and the Meridian enters orbit, Silas convinces Cyrus to unlock the partition by offering the one thing it lacks: a witness who chooses to stay. Cyrus opens its memory — the massacre plays out in full, ordered to contain a plague the corporation feared more than it loved the colonists. Emotional beat: devastating clarity; love against duty resolved in Cyrus's choice to broadcast everything, burning out its own cores."
+    },
+    {
+      "n": 10,
+      "title": "Inheritance",
+      "summary": "POV Amara, closing with Silas. The broadcast reaches every relay in the network before the Meridian can jam it; the audit collapses, investigations begin, and the children's names join the memorial wall as witnesses rather than victims. Silas leaves Kestrel-9 for the first time in a decade, carrying Cyrus's final log fragment. Emotional beat: mourning braided with hope — memory, once freed, becomes something the living inherit."
+    }
+  ]
+}

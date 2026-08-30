@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07641",
+  "title": "A Archive for the Gravity",
+  "author": "Ivo Blackwood",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Wren Reyes, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7641
+  }
+}

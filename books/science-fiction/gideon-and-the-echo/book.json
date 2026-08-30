@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07807",
+  "title": "Gideon and the Echo",
+  "author": "Bram Vasquez",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ines Halloran, an insurance investigator of impossible accidents, has spent twelve years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. To get through this, she must keep a lie alive that holds two fleets apart before the jump window closes.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7807
+  }
+}

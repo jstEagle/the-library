@@ -1,0 +1,29 @@
+{
+  "title": "Wren and the Extraction",
+  "slug": "thriller/wren-and-the-extraction",
+  "model": "stealth/ox-alpha",
+  "premise": "Edmund Kavanagh, a veteran crash investigator haunted by the deaths of his wife and daughter in row twelve of Flight 447, is pulled back into service when every digital and paper record of a still-airborne flight, Meridian 88, vanishes mid-flight. As Edmund digs, they discover the airline's parent company erased the flight to bury a fatal design flaw, and that a whistleblower aboard holds the proof. Hunted by corporate fixers who know about Edmund's family connection to row twelve, they must trade their one secret worth killing for: the original crash report they falsified years ago under pressure. In the end, Edmund releases the truth at the cost of their career and near-death, finding an unexpected found family among the flight's survivors and the whistleblower's allies.",
+  "about_author": "Astrid Pemberton is a former aviation safety analyst turned novelist whose thrillers draw on a decade spent inside accident investigation boardrooms. She writes from a coastal cottage in Maine, where she lives with her partner and an opinionated rescue greyhound named Turbulence.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Edmund Kavanagh's POV. Three years after losing his wife and daughter in Flight 447, Edmund works nights cataloging wreckage photos he can't stop studying. When a colleague alerts him that Meridian 88's records have vanished while the plane is still in the air, Edmund recognizes the data-wipe signature as something he saw in his own suppressed report. The emotional beat is grief cracking open into purpose: for the first time in years, Edmund has a reason to sleep less, not more."
+    },
+    {
+      "n": 2,
+      "title": "The Whistleblower's Seat",
+      "summary": "Alternating POV between Edmund and Dana Okafor, a systems engineer aboard Meridian 88 who triggered the wipe to hide evidence from the company hunting her. Grounded by a storm diversion, she slips Edmund a corrupted black-box fragment proving the aircraft's fly-by-wire flaw was known before certification. Corporate fixers close in on both of them. The beat is wary alliance: two strangers bound by a secret, each testing whether the other can be trusted with the truth."
+    },
+    {
+      "n": 3,
+      "title": "Everything Worth Killing For",
+      "summary": "Edmund's POV, escalating to climax. The fixers kidnap Dana's teenage brother to force a trade: the only unredacted copy of Edmund's original Flight 447 report, which implicates the same parent company, for the boy's life. Edmund confronts what loyalty means when truth costs everything, and chooses to hand over the report while secretly broadcasting its contents to aviation authorities worldwide. The climax erupts in a hangar confrontation where Edmund is shot protecting Dana's brother."
+    },
+    {
+      "n": 4,
+      "title": "What Survives Landing",
+      "summary": "Dana's POV, then Edmund's, resolving the arc. Hospitalized but alive, Edmund watches the broadcast force a global grounding and criminal inquiry; the company's executives fall, and Meridian 88 lands safely with Dana hailed as a hero. Dana, her brother, and Edmund's old investigation team gather at his kitchen table, an improvised family where row twelve's grief once sat alone. The final beat is quiet release: Edmund sleeps through the night for the first time in three years."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02338",
+  "title": "A Ledger for the Letter",
+  "author": "Ulyana Montrose",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Tamsin Amberdale, a battlefield nurse keeping a ledger of the names officers omit, measures the world in what can be carried when the orders come. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. To get through this, he must smuggle the evidence past three checkpoints before the armistice is signed — or isn't.",
+  "themes": [
+    "memory",
+    "belonging",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2338
+  }
+}

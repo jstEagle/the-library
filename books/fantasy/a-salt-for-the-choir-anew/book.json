@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02223",
+  "title": "A Salt for the Choir Anew",
+  "author": "Vesper Fairweather",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Emrys Nystrom, a hedge-witch's runaway apprentice, has spent twenty years selling small charms in a city that outlawed magic. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. To get through this, he must steal back a soul sold to the court beneath the mountain before the long winter finishes falling.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2223
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00252",
+  "title": "Sebastian and the Rivergate",
+  "author": "Ansel Montrose",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Wren Winterbourne, a riverboat captain who knows every sandbar's mood, has spent seven years measuring life in miles rather than years. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 252
+  }
+}

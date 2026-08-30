@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06163",
+  "title": "The Whole Summer",
+  "author": "Jonah Winterbourne",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Marguerite Nystrom, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. Then two estranged names appear on the same impossibly stubborn orchard deed — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6163
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08397",
+  "title": "The Static of Halcyon Drift Again",
+  "author": "Zephyrine Crane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Edmund Yarrow, a pilot bonded to an AI that lies, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. To get through this, she must keep a lie alive that holds two fleets apart before the fleet's truce expires.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8397
+  }
+}

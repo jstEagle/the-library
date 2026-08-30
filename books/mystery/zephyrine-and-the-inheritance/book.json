@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05706",
+  "title": "Zephyrine and the Inheritance",
+  "author": "Marguerite Winterbourne",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Casper Whitlock, a night-shift dispatcher for a taxi company, has spent ten years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5706
+  }
+}

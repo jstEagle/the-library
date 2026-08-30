@@ -1,0 +1,21 @@
+{
+  "id": "THR-09186",
+  "title": "Freya and the Deadline",
+  "author": "Ines Iversen",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Mirabel Nystrom, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. To get through this, they must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9186
+  }
+}

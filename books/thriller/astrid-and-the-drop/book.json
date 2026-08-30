@@ -1,0 +1,21 @@
+{
+  "id": "THR-08895",
+  "title": "Astrid and the Drop",
+  "author": "A. M. Okafor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Tamsin Thackeray, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8895
+  }
+}

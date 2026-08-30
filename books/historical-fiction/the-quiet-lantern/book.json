@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02722",
+  "title": "The Quiet Lantern",
+  "author": "Kestrel Reyes",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Oscar Whitlock, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. To get through this, they must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "found family",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2722
+  }
+}

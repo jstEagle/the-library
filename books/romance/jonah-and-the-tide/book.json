@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06279",
+  "title": "Jonah and the Tide",
+  "author": "Marguerite Pemberton",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Silas Thornbury, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. But when the person behind a decade of letters moves in next door, she discovers that staying invisible was never really an option. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6279
+  }
+}

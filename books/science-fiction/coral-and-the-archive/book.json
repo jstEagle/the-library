@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08085",
+  "title": "Coral and the Archive",
+  "author": "Ulyana Montrose",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Rosalind Coldharbour, the caretaker of Earth's abandoned seed vault, has spent ten years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8085
+  }
+}

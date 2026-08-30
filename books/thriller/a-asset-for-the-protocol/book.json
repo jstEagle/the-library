@@ -1,0 +1,21 @@
+{
+  "id": "THR-08542",
+  "title": "A Asset for the Protocol",
+  "author": "Lena Blackwood",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Sable Yarrow, a crash investigator whose family died in row twelve, keeps a go-bag packed and a lie polished. But when every record of a flight vanishes while it's still in the air, she discovers that staying invisible was never really an option. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8542
+  }
+}

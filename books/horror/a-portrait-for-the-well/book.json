@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03406",
+  "title": "A Portrait for the Well",
+  "author": "Petra Vasquez",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Silas Thornbury, a folklorist recording songs the village refuses to sing twice, keeps the lights on and the doors counted. But when the village's church bell rings although the bell was melted down in 1911, she discovers that staying invisible was never really an option. To get through this, she must finish the ritual the founders started before the well refills.",
+  "themes": [
+    "found family",
+    "identity",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3406
+  }
+}

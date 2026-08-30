@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05484",
+  "title": "Ansel and the Parish",
+  "author": "Cyrus Thackeray",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Paloma Amberdale, a retired detective running a failing bookshop, has spent fifteen years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5484
+  }
+}

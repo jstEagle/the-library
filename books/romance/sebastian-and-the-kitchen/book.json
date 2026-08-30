@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06659",
+  "title": "Sebastian and the Kitchen",
+  "author": "E. M. Okonkwo",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Felix Eastwick, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and he is pulled straight into the middle of it. To get through this, he must say the sentence that has been rehearsed for a decade before the last ferry of the season departs.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6659
+  }
+}

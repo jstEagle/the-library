@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05041",
+  "title": "Verdict and Inheritance",
+  "author": "D. M. Thackeray",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Cyrus Whitlock, a hotel concierge who notices everything, has spent twelve years keeping the town's secrets filed and alphabetized. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. To get through this, they must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5041
+  }
+}

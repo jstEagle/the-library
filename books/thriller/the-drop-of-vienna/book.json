@@ -1,0 +1,21 @@
+{
+  "id": "THR-08406",
+  "title": "The Drop of Vienna",
+  "author": "Marguerite Marchetti",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Silas Delacroix, a hostage negotiator with one failure still on the board, has spent fifteen years following rules that keep getting rewritten. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8406
+  }
+}

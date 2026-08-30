@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04141",
+  "title": "Beatrix and the Glasshouse",
+  "author": "Marguerite Coldharbour",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Yara Voss, a restaurant critic who has forgotten how food tastes, keeps a careful inventory of everything unsaid. Then a song on the radio is one that was written and never recorded — and he is pulled straight into the middle of it. To get through this, he must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4141
+  }
+}

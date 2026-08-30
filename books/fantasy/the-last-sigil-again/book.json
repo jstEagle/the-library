@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02059",
+  "title": "The Last Sigil Again",
+  "author": "August Delacroix",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Odile Eriksen, an exiled storm-caller, has spent seven years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. Now he must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2059
+  }
+}

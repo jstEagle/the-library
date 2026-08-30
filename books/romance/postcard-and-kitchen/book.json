@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06096",
+  "title": "Postcard and Kitchen",
+  "author": "Wren Quintana",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sebastian Dunmore, a pastry chef whose café is three missed payments from gone, keeps love in the past tense where it belongs. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the vineyard's first harvest comes in.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6096
+  }
+}

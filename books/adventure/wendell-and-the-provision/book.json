@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00077",
+  "title": "Wendell and the Provision",
+  "author": "Oscar Voss",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Ada Dunmore, an archaeologist's estranged child and better digger, has spent seven years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the concession permits expire.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 77
+  }
+}

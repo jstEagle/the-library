@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01978",
+  "title": "Beatrix and the Ember",
+  "author": "Jude Winterbourne",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Edmund Yarrow, the keeper of a gate that should stay shut, has never left the valley where magic cannot follow. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. To get through this, he must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1978
+  }
+}

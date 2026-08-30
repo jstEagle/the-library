@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00230",
+  "title": "Theo and the Landfall",
+  "author": "Hazel Sandoval",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Paloma Dunmore, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the dry season ends.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 230
+  }
+}

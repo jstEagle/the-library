@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09948",
+  "title": "The Playlist of Westbrook High",
+  "author": "Elodie Nystrom",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Tamsin Villalobos, a scholarship student at an academy with too many secrets, is fine. Everything is fine. Obviously.. Then a group chat starts predicting things that haven't happened yet — and they are pulled straight into the middle of it. To get through this, they must expose what the school board buried before the last game of the season.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9948
+  }
+}

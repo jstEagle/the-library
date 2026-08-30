@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01911",
+  "title": "Gideon and the Salt",
+  "author": "Petra Villalobos",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Quentin Whitlock, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1911
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03452",
+  "title": "Cellar and Room",
+  "author": "D. M. Eriksen",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Bram Montrose, a hospice nurse who hears the dying count backwards, doesn't believe, has never believed, will not begin believing now. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. Now he must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3452
+  }
+}

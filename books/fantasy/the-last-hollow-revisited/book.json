@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01858",
+  "title": "The Last Hollow Revisited",
+  "author": "Juniper Crane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Xanthe Thackeray, a mercenary sworn to a god that went silent, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1858
+  }
+}

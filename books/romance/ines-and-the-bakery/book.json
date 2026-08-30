@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06275",
+  "title": "Ines and the Bakery",
+  "author": "Marguerite Dunmore",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Casper Ashgrove, a marine biologist counting turtles instead of heartbreaks, has spent twenty years rebuilding a life measured in small safe steps. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6275
+  }
+}

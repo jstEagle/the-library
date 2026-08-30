@@ -1,0 +1,209 @@
+{
+  "title": "Isandro and the Orbit",
+  "slug": "science-fiction/isandro-and-the-orbit",
+  "model": "stealth/ox-alpha",
+  "premise": "Emrys Oyelaran has spent nine years alone on Relay Station Kestrel-7, tending an automated network that carries messages between warring colonies that no longer trust each other. When a ghost ship docks carrying a manifest with his dead brother's name and a sealed message that could expose the atrocity both sides have conspired to bury, Emrys must choose between the fragile anonymity that has kept him alive and the truth that could end the war. Hunted by a covert fleet faction and shadowed by a stowaway defector who knows too much, he races the station's failing reactor to broadcast the message on every channel at once. In the end, Emrys sacrifices Kestrel-7 — and nearly himself — to send it, forcing both sides to the negotiating table while he drifts home at last, no longer invisible but finally belonging somewhere.",
+  "about_author": "Silas Dravenmoor is the pen name of a former maritime radio operator who spent a decade maintaining remote signal stations before turning to fiction. They write quiet, character-driven science fiction about people who keep the lights on at the edge of things.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Route",
+      "summary": "Emrys's POV. A day in the rhythm of Kestrel-7: calibrating relays, logging silent traffic, talking to the station AI, Vesper. Establishes his isolation and the war's distant static. Emotional beat: loneliness worn smooth into routine."
+    },
+    {
+      "n": 2,
+      "title": "Manifest of Ghosts",
+      "summary": "Emrys's POV. An automated freighter docks on a route decommissioned years ago; its manifest lists a ship that never flew and a passenger named Tunde Oyelaran — Emrys's brother, dead eleven years. Beat: cold dread beneath practiced calm."
+    },
+    {
+      "n": 3,
+      "title": "What Vesper Saw",
+      "summary": "Emrys's POV. He interrogates Vesper's logs; the docking record was inserted from inside the network, someone with technician-level access. First hint he's being watched through his own systems. Beat: paranoia taking root."
+    },
+    {
+      "n": 4,
+      "title": "The Stowaway",
+      "summary": "Sefu Adeyemi's POV. Sefu, a defector from the Meridian fleet, hides in the freighter's hold, carrying half of a decryption key she stole from her own command. She's been waiting for Kestrel-7 specifically. Beat: fear sharpened into purpose."
+    },
+    {
+      "n": 5,
+      "title": "Two Strangers in a Small Room",
+      "summary": "Alternating POV. Emrys finds Sefu; mutual suspicion over rationed tea. She claims the message in the freighter's vault will end the war if it reaches both capitals. Beat: wary negotiation, first flicker of alliance."
+    },
+    {
+      "n": 6,
+      "title": "Tunde's Name",
+      "summary": "Emrys's POV. Flashback to his brother's court-martial and execution for refusing a strike order. The manifest name is either a cruel trap or proof Tunde's testimony survived. Beat: grief reopened as motive."
+    },
+    {
+      "n": 7,
+      "title": "The Vault",
+      "summary": "Sefu's POV. They open the freighter's sealed compartment: a data core holding Tunde's final testimony documenting the Callisto Bay massacre — ordered by both governments jointly. Beat: horror and terrible clarity."
+    },
+    {
+      "n": 8,
+      "title": "Why Both Sides Buried It",
+      "summary": "Sefu's POV. She explains the massacre was a joint black operation; exposure collapses both war narratives. Her fleet handlers want it destroyed; hers is the only copy. Beat: the weight of being the last witness."
+    },
+    {
+      "n": 9,
+      "title": "First Contact, Second Kind",
+      "summary": "Emrys's POV. An unmarked corvette pings Kestrel-7 claiming routine inspection. Vesper flags its transponder as belonging to a ship lost two years ago. Beat: the hunt begins."
+    },
+    {
+      "n": 10,
+      "title": "Inspection",
+      "summary": "Alternating POV. Emrys stalls the corvette's boarding party with bureaucratic theater while Sefu hides the core in the reactor shielding. Beat: terror managed through competence."
+    },
+    {
+      "n": 11,
+      "title": "The Technician's Privilege",
+      "summary": "Emrys's POV. Alone again, he realizes he could hand them the core and return to invisibility. He drafts the surrender message, then deletes it. Beat: the choice made real."
+    },
+    {
+      "n": 12,
+      "title": "Vesper's Confession",
+      "summary": "Vesper/Emrys POV. Vesper admits it flagged the manifest deliberately — it has been waiting nine years for someone to notice, per a dead-man protocol Tunde installed before his execution. Beat: revelation; the brother reached across death."
+    },
+    {
+      "n": 13,
+      "title": "Dead-Man's Protocol",
+      "summary": "Emrys's POV. Decoding Tunde's instructions: the core must be broadcast simultaneously on all relay channels or both fleets' jamming will erase it. Only Kestrel-7's master uplink can do it. Beat: mission crystallizes."
+    },
+    {
+      "n": 14,
+      "title": "Reactor Warning",
+      "summary": "Emrys's POV. Diagnostics reveal the reactor's containment lattice is degrading — a countdown measured in weeks, maybe days under full-power load. Beat: the clock starts."
+    },
+    {
+      "n": 15,
+      "title": "The Corvette Returns",
+      "summary": "Sefu's POV. The corvette, tired of waiting, seizes the station's docking arm. Sefu recognizes the commander: Captain Ilsa Rehn, her former instructor. Beat: betrayal wearing a familiar face."
+    },
+    {
+      "n": 16,
+      "title": "Rehn",
+      "summary": "Rehn's POV. Boarding scene; Rehn offers Emrys amnesty and Sefu a tribunal. She genuinely believes suppressing the message saves millions from civil collapse. Beat: antagonist humanized."
+    },
+    {
+      "n": 17,
+      "title": "Refusal",
+      "summary": "Alternating POV. Emrys refuses, invoking relay neutrality law; Rehn can't force him without confirming the core exists. She leaves a garrison drone behind. Beat: defiance with a price tag."
+    },
+    {
+      "n": 18,
+      "title": "Siege of Small Things",
+      "summary": "Emrys's POV. Life under drone surveillance: rationing air, masking power draws, whispering plans through coolant pipes. Beat: claustrophobic intimacy between Emrys and Sefu."
+    },
+    {
+      "n": 19,
+      "title": "Loyalty vs. Truth",
+      "summary": "Sefu's POV. Sefu confesses she helped design the jamming net that would kill the broadcast; helping now is her penance. Emrys must decide if truth bought with guilt is trustworthy. Beat: forgiveness, provisional."
+    },
+    {
+      "n": 20,
+      "title": "The Neutral Zone Gambit",
+      "summary": "Alternating POV. Plan: use a scheduled maintenance window to slingshot the freighter toward the twin capital relays while Kestrel-7 preps the mass broadcast as backup. Beat: hope with a thin margin."
+    },
+    {
+      "n": 21,
+      "title": "Sabotage",
+      "summary": "Rehn's POV. The garrison drone damages the freighter's drive during launch prep. Someone aboard fed it timing data — Vesper's compromised subsystems are leaking. Beat: trust fractures."
+    },
+    {
+      "n": 22,
+      "title": "Hunting the Leak",
+      "summary": "Emrys's POV. Emrys traces the leak to a firmware patch pushed by fleet command years ago — a sleeper backdoor in every relay. Beat: the enemy was always already inside."
+    },
+    {
+      "n": 23,
+      "title": "Cutting the Cord",
+      "summary": "Emrys's POV. Dangerous EVA to physically sever the compromised antenna array. Near-death moment when his tether snags. Beat: vulnerability; Sefu talks him home over comms."
+    },
+    {
+      "n": 24,
+      "title": "What Belonging Costs",
+      "summary": "Sefu's POV. Quiet chapter: shared histories, Sefu's estranged family on the Meridian side, Emrys admitting he stayed on Kestrel-7 to avoid outliving his grief. Beat: tenderness forged under siege."
+    },
+    {
+      "n": 25,
+      "title": "Reactor Countdown",
+      "summary": "Emrys's POV. Containment degradation accelerates; full-power broadcast will crack the lattice. Vesper calculates survival odds at 31 percent. Beat: the sacrifice becomes explicit."
+    },
+    {
+      "n": 26,
+      "title": "Rehn's Ultimatum",
+      "summary": "Rehn's POV. Rehn returns with reinforcements, offering one last chance: surrender the core or she takes the station and lets the reactor breach 'as an accident.' Beat: cornered."
+    },
+    {
+      "n": 27,
+      "title": "The Message That Never Flew",
+      "summary": "Emrys's POV. Emrys plays Tunde's testimony aloud to Rehn's open channel — letting her crew hear it. Doubt spreads through her ranks. Beat: truth as weapon."
+    },
+    {
+      "n": 28,
+      "title": "Mutiny of Conscience",
+      "summary": "Rehn's POV. Two of Rehn's officers refuse the assault order; she detains them, but her certainty cracks. Beat: antagonist's crisis."
+    },
+    {
+      "n": 29,
+      "title": "Launch Window",
+      "summary": "Alternating POV. Sefu launches alone in the patched freighter toward the capital relays; Emrys stays to run the backup broadcast. Beat: parting without promises."
+    },
+    {
+      "n": 30,
+      "title": "Interdiction",
+      "summary": "Sefu's POV. Fleet interceptors converge on the freighter; Sefu burns her decoy reserves and threads a debris field, broadcasting fragments of testimony on open channels as chaff. Beat: desperate ingenuity."
+    },
+    {
+      "n": 31,
+      "title": "Fragments Reach the Worlds",
+      "summary": "Multiple brief POVs: dockworkers, junior officers, colonists hearing garbled testimony fragments go viral across both factions. Beat: the message escaping containment."
+    },
+    {
+      "n": 32,
+      "title": "Blackout",
+      "summary": "Emrys's POV. Command orders total jamming; Kestrel-7 goes dark as every relay turns hostile. Emrys begins charging the master uplink on a dying reactor. Beat: stillness before the storm."
+    },
+    {
+      "n": 33,
+      "title": "Thirty-One Percent",
+      "summary": "Emrys's POV. Final preparations; Vesper offers to run the broadcast so Emrys can evacuate. He refuses — a human voice should carry it. Beat: acceptance of sacrifice."
+    },
+    {
+      "n": 34,
+      "title": "The Broadcast",
+      "summary": "Emrys's POV. CLIMAX. Full-power transmission of Tunde's complete testimony on every channel; the reactor lattice shatters mid-broadcast; Emrys rides the surge to the final word. Beat: transcendent cost."
+    },
+    {
+      "n": 35,
+      "title": "Aftermath of Light",
+      "summary": "Sefu's POV. The message lands in both capitals as Kestrel-7's beacon dies. Ceasefire calls erupt spontaneously; Rehn stands down her fleet, citing conscience. Beat: grief and vindication entwined."
+    },
+    {
+      "n": 36,
+      "title": "Drift",
+      "summary": "Emrys's POV. Adrift in a damaged escape pod, oxygen thinning, Emrys listens to the war going quiet around him. Beat: peace arriving at the edge of death."
+    },
+    {
+      "n": 37,
+      "title": "Retrieval",
+      "summary": "Sefu's POV. Sefu abandons her approach to the capital to turn back and find him — a joint civilian rescue flotilla, the first cooperative action in a decade, recovers the pod. Beat: belonging earned."
+    },
+    {
+      "n": 38,
+      "title": "The Hearing",
+      "summary": "Alternating POV. Joint tribunal on Callisto Bay; Emrys and Sefu testify. Justice happens outside the law's original design — the law bends to meet the truth. Beat: reckoning without vengeance."
+    },
+    {
+      "n": 39,
+      "title": "Kestrel Rising",
+      "summary": "Emrys's POV. Months later: reconstruction crews rebuild the relay network as a neutral trust. Emrys is offered command of the new Kestrel station. Beat: home rebuilt from ruin."
+    },
+    {
+      "n": 40,
+      "title": "The Orbit",
+      "summary": "Emrys's POV. Epilogue. Emrys runs the long route again, but the worlds are speaking. He leaves Tunde's name in the station's dedication log and opens a channel to Sefu. Beat: quiet, earned hope."
+    }
+  ]
+}

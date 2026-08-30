@@ -1,0 +1,21 @@
+{
+  "id": "THR-09336",
+  "title": "Tamsin and the Drop",
+  "author": "Beatrix Dunmore",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Paloma Thornbury, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. To get through this, she must extract a defector who may be the bait before the markets open in Frankfurt.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9336
+  }
+}

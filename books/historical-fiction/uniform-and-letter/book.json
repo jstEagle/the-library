@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02651",
+  "title": "Uniform and Letter",
+  "author": "Paloma Voss",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Orsen Yarrow, a suffragist's driver who reads every letter before delivering it, keeps a low profile and busy hands. But when a child is left at the door with instructions to forget the face, they discover that staying invisible was never really an option. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ice breaks on the river.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2651
+  }
+}

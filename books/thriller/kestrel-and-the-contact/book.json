@@ -1,0 +1,21 @@
+{
+  "id": "THR-08641",
+  "title": "Kestrel and the Contact",
+  "author": "Ivo Thackeray",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Jonah Winterbourne, a burnt analyst bounced from three agencies, works cases no one wants attributed. But when a dead handler sends a meeting invitation for tomorrow, they discover that staying invisible was never really an option. Now they must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8641
+  }
+}

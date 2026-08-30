@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05245",
+  "title": "The Alibi of the Fens",
+  "author": "Jude Villalobos",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Vesper Delacroix, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. But when a client pays in advance to prove a murder hasn't happened — yet, they discover that staying invisible was never really an option. To get through this, they must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "found family",
+    "memory",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5245
+  }
+}

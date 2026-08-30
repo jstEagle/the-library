@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00561",
+  "title": "A Horizon for the Trail",
+  "author": "Ines Zhou",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Marguerite Ashgrove, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. Then the river gives up a chest stamped with a dead nation's seal — and she is pulled straight into the middle of it. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "found family",
+    "identity",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 561
+  }
+}

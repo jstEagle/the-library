@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01906",
+  "title": "the Ninefold Court Rising Anew",
+  "author": "Ansel Hartwell",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Vesper Winterbourne, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1906
+  }
+}

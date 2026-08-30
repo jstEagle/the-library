@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01073",
+  "title": "The Midnight Veil",
+  "author": "Kestrel Kavanagh",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Wren Okonkwo, the youngest member of a dying guild, keeps the ledgers of a guild that trades in impossible things. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1073
+  }
+}

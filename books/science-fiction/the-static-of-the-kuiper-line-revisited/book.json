@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08311",
+  "title": "The Static of the Kuiper Line Revisited",
+  "author": "Wendell Oyelaran",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Felix Pemberton, a starship navigator haunted by the backups sleeping in the hold, has spent seven years hauling cargo through contested orbits. But when an unfamiliar name shows up on the manifest of a ship that never flew, they discover that staying invisible was never really an option. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8311
+  }
+}

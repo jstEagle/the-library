@@ -1,0 +1,59 @@
+{
+  "title": "The Autopsy of Ashcombe",
+  "slug": "mystery/the-autopsy-of-ashcombe",
+  "model": "stealth/ox-alpha",
+  "premise": "Paloma Underhill, a concierge at the Ashcombe Grand who has quietly catalogued every guest, every lie, and every death that passed through its doors, receives two letters the same morning: one confessing to a murder ruled accidental fifteen years ago, and one promising a second death before the statute of limitations expires. The confessor is dying and wants absolution; the second letter's author wants Paloma, the only witness who never testified, to keep silent. As Paloma reopens the case of a chambermaid whose fall was blamed on a faulty railing, they discover the hotel's founding family buried the truth to protect a son — and that the person now threatening 'more' is someone Paloma has served coffee to for a decade. In the end, with hours left before the statute closes the case forever, Paloma forces a public confession in the hotel lobby, trading their own job and anonymity for the dead woman's name restored.",
+  "about_author": "Quentin Almeida is a former night auditor at three grand hotels on two continents, where he collected the stories guests thought no one overheard. He writes mysteries from a small apartment above a laundromat, convinced that lobbies are the most honest rooms in any building.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Two Envelopes, One Morning",
+      "summary": "POV: Paloma. During a flawless breakfast shift, Paloma receives two unsigned letters: a confession to killing chambermaid Ida Voss in 2009, and a warning that 'there will be more unless you stay quiet.' The emotional beat is vertigo — the observer suddenly observed. Paloma hides both letters in the lost-and-found ledger, where nothing has ever truly been lost."
+    },
+    {
+      "n": 2,
+      "title": "The Railing That Never Broke",
+      "summary": "POV: Paloma. Digging through the hotel archive and old news clippings, Paloma confirms the fatal fourth-floor railing was replaced within 48 hours of Ida's death — too fast for an accident investigation. The beat is cold dread as Paloma realizes the cover-up was institutional, not personal, and that the maintenance logs bear the Ashcombe family crest."
+    },
+    {
+      "n": 3,
+      "title": "What the Night Staff Saw",
+      "summary": "POV: alternating between Paloma and retired night porter Edda Kroll. Edda remembers Ida climbing toward the penthouse that night, summoned by a guest. She also remembers being paid off and pensioned early. The beat is grief and complicity; Edda warns Paloma that the family doesn't threaten twice — they act once, thoroughly."
+    },
+    {
+      "n": 4,
+      "title": "The Dying Confessor",
+      "summary": "POV: Paloma. Following handwriting and hotel stationery, Paloma identifies the confessor: Dr. Lennart Ashcombe, the founder's son, now terminally ill and living incognito in room 712 under a false name — a guest Paloma has served for two years. The beat is betrayal turned strange tenderness; Lennart admits he wrote the confession but swears he didn't write the threat."
+    },
+    {
+      "n": 5,
+      "title": "Room Service for a Ghost",
+      "summary": "POV: Lennart. Lennart recounts the night itself: Ida discovered his brother Casper assaulting her upstairs, and fell — pushed or fleeing, he still cannot say — while Lennart watched from the stairwell and said nothing. The beat is corrosive guilt; he confesses because he is dying, but confessing has endangered the one person who was kind to him."
+    },
+    {
+      "n": 6,
+      "title": "The Second Letter's Hand",
+      "summary": "POV: Paloma. Comparating paper stock, ink, and the hotel's internal mail system, Paloma narrows the threatening letter to someone still inside the building. Suspicion circles the general manager, Vivienne Ashcombe-Cole — Casper's daughter — who has just denied Paloma's request to open the sealed incident file. The beat is paranoia inside a place that once felt like home."
+    },
+    {
+      "n": 7,
+      "title": "Statute of Limitations",
+      "summary": "POV: Paloma. A lawyer friend confirms the window closes in nine days; after that, no prosecution, no public reckoning, ever. Vivienne offers Paloma a promotion and a generous severance timed suspiciously close to the deadline. The beat is temptation — belonging offered at exactly the price of silence — and Paloma nearly takes it."
+    },
+    {
+      "n": 8,
+      "title": "Ida Voss, Chambermaid",
+      "summary": "POV: Paloma. Tracking down Ida's sister in a coastal town, Paloma learns who Ida actually was: a woman saving to study restoration architecture, who kept a sketchbook of the hotel's beautiful rot. The beat is mourning finally given a face; Paloma stops investigating a case and starts avenging a person, returning with photocopies of the sketches."
+    },
+    {
+      "n": 9,
+      "title": "The Lobby, Nine Days Later",
+      "summary": "POV: Paloma. On the deadline's eve, during a gala honoring the Ashcombe legacy, Paloma reads Ida's name, the true sequence of events, and Lennart's written confession aloud over the PA system while Edda and the sister stand witness. Vivienne moves to have them removed; Lennart, wheeled into the crowd, confirms everything. The beat is terrible, exhilarating exposure."
+    },
+    {
+      "n": 10,
+      "title": "Concierge, Formerly",
+      "summary": "POV: Paloma. Weeks later: charges against Casper are impossible, but the Ashcombe name is ruined, the file unsealed, and Ida's memorial plaque installed where the railing used to be. Fired but unrepentant, Paloma takes a new post at a shabby seaside hotel — and finds, in the first day's mail, a third letter: this one only says thank you. The beat is hard-won belonging, chosen rather than granted."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04942",
+  "title": "Confession and Letter",
+  "author": "Rafael Almeida",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Coral Yarrow, an insurance investigator with a photographic memory, thought they had seen every way a life can end. But when a body turns up dressed in clothes stolen from the witness's own closet, she discovers that staying invisible was never really an option. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4942
+  }
+}

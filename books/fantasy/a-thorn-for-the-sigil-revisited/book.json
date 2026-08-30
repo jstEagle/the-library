@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02176",
+  "title": "A Thorn for the Sigil Revisited",
+  "author": "August Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "August Delacroix, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2176
+  }
+}

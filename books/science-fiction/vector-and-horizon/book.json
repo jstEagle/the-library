@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07528",
+  "title": "Vector and Horizon",
+  "author": "Wendell Ishikawa",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Bram Zhou, the last human technician on an automated relay station, has spent fifteen years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7528
+  }
+}

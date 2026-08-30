@@ -1,0 +1,29 @@
+{
+  "title": "Petra and the Room",
+  "slug": "horror/petra-and-the-room",
+  "model": "stealth/ox-alpha",
+  "premise": "Radio host Odile Ashgrove begins receiving calls from listeners who died the previous week, and she archives every call, believing documentation is a form of prayer. When her childhood imaginary friend Petra appears on her porch, unchanged after thirty years, Odile learns the dead callers are all people who once heard 'the song'—a lullaby whose final verse was never sung to them. Petra, it turns out, is not a guardian but a collector: children who learn the last verse are spared, and those who sing along before frost completes its pattern on the window are taken in place of someone else. In the end, Odile chooses justice over survival, singing the verse aloud on air so every remaining listener hears it, accepting that the frost will write her name—but Petra, moved by an loyalty older than its purpose, takes her place instead and lets the archive go silent.",
+  "about_author": "Theo Crane is the pen name of a former overnight radio engineer who spent years alone in broadcast booths and swears the deadlines were never metaphorical. They write horror about small rooms, old songs, and the terrible intimacy of being remembered.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Dead Air, Warm Voices",
+      "summary": "Odile's POV. During her late-night call-in show, listeners phone in with mundane complaints—until she cross-references names against last week's obituaries and finds every caller is dead. She records each call obsessively, filing timestamps and voice notes like scripture. The emotional beat is dread braided with devotion: her documentation habit, born of childhood neglect, becomes both shield and trap as the calls continue nightly."
+    },
+    {
+      "n": 2,
+      "title": "The Porch Light Remembers",
+      "summary": "Odile's POV. Petra appears on her porch exactly as she left him at age nine—same overalls, same crooked smile—and claims he's been waiting for her to need him again. Through fragmented memories, Odile recalls the song their shared 'friend group' sang, and how the other children who sang it vanished while she stayed invisible. Rising tension: Petra warns her the frost has begun forming on her windows, one pane per night."
+    },
+    {
+      "n": 3,
+      "title": "Verse Three of Four",
+      "summary": "Odile's POV, with interludes from archived call recordings. She tracks down a surviving former neighbor, now mute, who writes out three verses of the song and the rule: never sing along until you've learned the fourth. That night the frost spells letters, and Petra's voice on her answering machine sings the third verse sweetly, coaxing her to harmonize. Climax beat: she nearly joins in, pen trembling over the transcript, as the window glass cracks."
+    },
+    {
+      "n": 4,
+      "title": "What the Frost Writes Last",
+      "summary": "Odile's POV. On air, she broadcasts the three verses and begs listeners to refuse the fourth until they understand it; the frost finishes its pattern across every window at once. Realizing the final verse is a bargain—her name for everyone else's—she sings it deliberately, choosing sacrifice as justice for the taken children. Resolution: Petra steps into the frost-pattern in her place, whispering that loyalty was always his true verse, and the radio goes quiet forever."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08755",
+  "title": "Extraction and Protocol",
+  "author": "Freya Fairweather",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ulyana Voss, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8755
+  }
+}

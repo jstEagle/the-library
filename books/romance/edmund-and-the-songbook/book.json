@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06922",
+  "title": "Edmund and the Songbook",
+  "author": "Ulyana Thornbury",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Ivo Coldharbour, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. But when a lost letter surfaces, postmarked eleven years ago, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6922
+  }
+}

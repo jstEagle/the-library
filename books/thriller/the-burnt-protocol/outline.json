@@ -1,0 +1,59 @@
+{
+  "title": "The Burnt Protocol",
+  "slug": "thriller/the-burnt-protocol",
+  "model": "stealth/ox-alpha",
+  "premise": "Casper Halloran, a fixer for the Meridian Liaison Office—an embassy that exists on no map—is ordered to quietly erase a defector's arrival when a passenger flight vanishes from every database mid-flight. The defector, Elena Vasik, carries proof that the 'accident' was a market manipulation scheme timed to Frankfurt's opening bell, and she may be bait to flush out Casper's own agency. As Casper races across Vienna and Frankfurt with a woman they were sent to bury, they discover their handler orchestrated the whole plot and framed them for it. In the end, Casper chooses justice over survival: they burn the Protocol—the agency's immunity—by leaking everything, saving Elena but forfeiting their name, country, and life as they knew it.",
+  "about_author": "Isandro Nystrom is the pen name of a former risk analyst who spent six years consulting for firms he still cannot legally name. He writes thrillers about the machinery of plausible deniability from a farmhouse in northern Portugal.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Ghost Manifest",
+      "summary": "Casper's POV. A routine Tuesday: scrubbing an arms broker's name from a shipping ledger—until a colleague flags flight ML-447, which vanished from radar, manifests, and booking systems while still airborne. Casper's own agency denies the flight ever existed. The beat is cold unease: a professional realizing the erasure includes people who were alive an hour ago."
+    },
+    {
+      "n": 2,
+      "title": "The Woman at Gate Nine",
+      "summary": "Casper's POV. Following a dead drop to Vienna's Schwechat airport, Casper finds Elena Vasik hiding in a staff corridor—alive, off every list, holding a drive she claims proves the flight was sold short before it 'disappeared.' Orders arrive: extract her, then dispose of the evidence. The beat is reluctant fascination turning to dread."
+    },
+    {
+      "n": 3,
+      "title": "Handler's Gambit",
+      "summary": "Alternating POV: Casper and Marcus Reeve, Casper's handler, in a soundproofed Geneva office. Reeve feeds Casper a clean extraction route while privately confirming to his superior that Elena is bait designed to compromise Halloran. The beat is dramatic irony—the reader watches the trap being assembled around a protagonist who suspects but can't prove it."
+    },
+    {
+      "n": 4,
+      "title": "Twelve Hours to the Bell",
+      "summary": "Casper's POV, on a night train to Frankfurt. Elena decrypts fragments of the drive: a hedge fund, a shell called Burnt Protocol Ltd., and a timestamp—Frankfurt market open, tomorrow 09:00. Casper realizes the 'extraction' is scheduled to fail. First real trust forms between them over bad coffee and worse odds. The beat is intimacy under pressure."
+    },
+    {
+      "n": 5,
+      "title": "Safehouse Arithmetic",
+      "summary": "Elena's POV. In a Frankfurt safehouse, she calculates what survival costs: her testimony implicates her late husband, her brother, and possibly Casper's agency itself. She tests Casper, offering a partial truth to see if they flinch. The beat is guarded vulnerability—two people pricing each other's loyalty."
+    },
+    {
+      "n": 6,
+      "title": "Burn Notice",
+      "summary": "Casper's POV. Their credentials die mid-operation: bank cards declined, contacts silent, an arrest warrant issued under their real name. Reeve has cut them loose as the fall guy. Casper escapes a police sweep through the Hauptwache crowds using skills the agency taught them against it. The beat is betrayal crystallizing into fury."
+    },
+    {
+      "n": 7,
+      "title": "The Short Position",
+      "summary": "Reeve's POV. With markets opening in hours, Reeve walks through the operation's elegance: the crash, the short, the patsy. But a subordinate's question—who actually benefits if Vasik talks?—plants the first crack. Reeve orders Elena's location leaked to the fund's enforcers. The beat is villainy admiring its own reflection."
+    },
+    {
+      "n": 8,
+      "title": "Enforcers at the Door",
+      "summary": "Casper's POV, climax begins. The fund's private security breaches the safehouse; Casper and Elena fight through a stairwell ambush, Elena wounded but shielding the drive. They reach the Frankfurt exchange floor as the opening bell rings and the manipulated stock begins its engineered plunge. The beat is adrenaline and sacrifice."
+    },
+    {
+      "n": 9,
+      "title": "Open Outcry",
+      "summary": "Climax, split POV. On the trading floor, Casper forces the drive's contents onto the exchange's public feed—a dead man's switch Elena built—freezing the short and triggering regulatory lockdown. Reeve, watching his scheme collapse live, makes one call too many and is recorded ordering the original flight's downing. The beat is justice detonating in public."
+    },
+    {
+      "n": 10,
+      "title": "Ashes on the Ledger",
+      "summary": "Casper's POV, resolution. Weeks later: hearings Casper attends as a witness without a country, Reeve in custody, the Meridian Office quietly dissolved. Elena, recovering, offers Casper a life with no protocol attached. Casper accepts—nameless, but finally their own. The beat is costly peace: survival purchased with everything they were."
+    }
+  ]
+}

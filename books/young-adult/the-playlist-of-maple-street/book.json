@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09685",
+  "title": "The Playlist of Maple Street",
+  "author": "Ansel Blackwood",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Wendell Ravensworth, the team's statistician who knows the game is rigged, stays under the radar: head down, grades up, locker shut. But when grandma's recipe box contains directions that aren't for food, she discovers that staying invisible was never really an option. Now she must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9685
+  }
+}

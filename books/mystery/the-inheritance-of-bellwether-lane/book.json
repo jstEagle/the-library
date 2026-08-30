@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04928",
+  "title": "The Inheritance of Bellwether Lane",
+  "author": "Ivo Zhou",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Casper Almeida, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. Now she must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4928
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02508",
+  "title": "The Quiet Uniform",
+  "author": "Bram Sterling",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Sebastian Amberdale, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. Then a child is left at the door with instructions to forget the face — and he is pulled straight into the middle of it. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2508
+  }
+}

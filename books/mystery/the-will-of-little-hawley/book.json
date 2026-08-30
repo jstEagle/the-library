@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05336",
+  "title": "The Will of Little Hawley",
+  "author": "R. M. Dravenmoor",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Casper Coldharbour, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. But when a body turns up dressed in clothes stolen from the witness's own closet, she discovers that staying invisible was never really an option. To get through this, she must close the one case everyone swore was closed for good before the tide gives up what it took.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5336
+  }
+}

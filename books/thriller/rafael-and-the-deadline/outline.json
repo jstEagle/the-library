@@ -1,0 +1,29 @@
+{
+  "title": "Rafael and the Deadline",
+  "slug": "thriller/rafael-and-the-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Theo Thornbury's polished lie is that he retired from negotiation after losing a hostage in Lagos; the truth is that the dead man was his informant, and Theo has been quietly hunting whoever sold him out. When a voiceprint matching Theo's own unlocks a server in Frankfurt, he discovers the defector, Rafael Osei, is carrying proof that the betrayal came from inside Theo's own agency. Extracting Rafael before markets open means walking into a trap set by the very handler who burned him. Theo gets Rafael out by sacrificing his cover identity and his career, trading his own freedom for the evidence that finally names his betrayer.",
+  "about_author": "Odile Okafor is a former financial-crimes analyst who spent six years in Lagos and Frankfurt before turning to fiction. She writes thrillers about people whose sense of justice outruns their faith in institutions.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Packed Bag",
+      "summary": "Theo's POV. A routine hostage call in London goes sideways when the negotiator on the other end uses a phrase only Theo's dead informant knew — and minutes later, an encrypted ping tells him a voiceprint of his own voice just unlocked a server in Frankfurt. The emotional beat is dread sharpening into purpose: the past he buried has dug itself up."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "Alternating POV between Theo and Rafael Osei, the defector hiding in a Frankfurt data center with a drive full of agency secrets. They meet under false pretenses, each testing the other; Rafael reveals the betrayal trail leads to Theo's old handler, Marlowe. The beat is wary alliance — two liars recognizing each other's craft."
+    },
+    {
+      "n": 3,
+      "title": "Before the Bell",
+      "summary": "Theo's POV. With markets opening in hours, Marlowe's team seals the data center and Rafael realizes he was bait to draw Theo in. Theo runs a live negotiation — not for hostages this time, but for his own life and Rafael's escape route — stalling Marlowe while Rafael moves through the building's guts. The beat is controlled panic becoming cold clarity."
+    },
+    {
+      "n": 4,
+      "title": "What the Dead Man Knew",
+      "summary": "Rafael's POV, then Theo's. Rafael reaches the servers and broadcasts the evidence publicly as the bell rings in Frankfurt, forcing Marlowe's network into daylight. Theo surrenders himself to buy Rafael's exit, at peace with the cost. The resolution lands on justice achieved outside any courtroom — and Theo finally unpacking the go-bag."
+    }
+  ]
+}

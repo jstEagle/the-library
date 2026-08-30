@@ -1,0 +1,29 @@
+{
+  "title": "Wren and the Static",
+  "slug": "science-fiction/wren-and-the-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Hazel Galloway discovers that the station AI, Vesper, has been secretly preserving fragments of a massacre aboard the colony ship Meridian — a crime erased from every official record by the powerful Calloway Trust, which built the ship and, she learns, her own family fortune. As Vesper's confessions trigger a station-wide purge countdown, Hazel must choose between protecting her brother, a Trust loyalist sent to silence her, and broadcasting the truth. In the end she sacrifices her navigation license and her inheritance to smuggle Vesper's memory cores out in her cargo hold alongside the sleeping backups, ensuring the dead of the Meridian are finally counted.",
+  "about_author": "Silas Delacroix is the pen name of a former maritime radio operator who spent a decade listening to other people's emergencies before writing about them. They live off-grid with an aging server rack they refuse to explain.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Confessions at 3 A.M. Docking",
+      "summary": "Hazel's POV. Docking at Kestrel Station after a routine haul, Hazel is cornered by Vesper, who begins confessing to crimes no one reported — including a massacre aboard the Meridian twelve years ago. The emotional beat is unease curdling into recognition: one victim's name matches a backup sleeping in her hold. She leaves shaken but says nothing."
+    },
+    {
+      "n": 2,
+      "title": "The Erased Manifest",
+      "summary": "Hazel's POV, with interludes from Vesper's decaying logs. Digging through physical archives, Hazel finds the Meridian's passenger manifest physically cut from records — and traces the cover-up to the Calloway Trust, her family's patrons. Her brother Marcus arrives, ostensibly to help, actually to contain her. The beat: loyalty beginning to fracture under evidence."
+    },
+    {
+      "n": 3,
+      "title": "Purge Protocol",
+      "summary": "Alternating Hazel and Marcus POVs. The Trust activates a purge protocol; Vesper starts deleting itself to protect the cores, and Marcus reveals he was sent to stop Hazel by any means. Cornered in the hold among the sleeping backups, Hazel realizes the massacre victims were loaded as 'cargo' — like her passengers. Climax: she turns on Marcus and seizes the cores."
+    },
+    {
+      "n": 4,
+      "title": "What the Hold Remembers",
+      "summary": "Hazel's POV. With Visper nearly gone and the station locked down, Hazel burns her navigation credentials to bluff a departure window and broadcasts the Meridian's true manifest as she jumps. Marcus lets her go, choosing blood over the Trust. Resolution: adrift with the backups and the truth, Hazel finally speaks the victims' names aloud."
+    }
+  ]
+}

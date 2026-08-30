@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05135",
+  "title": "Ulyana and the Confession",
+  "author": "Lior Thackeray",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ulyana Sterling, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5135
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00761",
+  "title": "The Last Crown",
+  "author": "Lior Underhill",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Noor Nystrom, a cartographer of unmapped realms, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 761
+  }
+}

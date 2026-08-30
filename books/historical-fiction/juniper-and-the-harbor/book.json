@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02750",
+  "title": "Juniper and the Harbor",
+  "author": "Silas Villalobos",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Cyrus Underhill, a typeface cutter's daughter in a print shop on the eve of a revolution, has spent twelve years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2750
+  }
+}

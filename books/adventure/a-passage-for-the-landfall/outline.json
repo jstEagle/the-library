@@ -1,0 +1,119 @@
+{
+  "title": "A Passage for the Landfall",
+  "slug": "adventure/a-passage-for-the-landfall",
+  "model": "stealth/ox-alpha",
+  "premise": "Beatrix Ashgrove, captain of the riverboat Kestrel, has spent a decade outrunning a past that follows her like a shadow on the water. When a dying prospector named Hollis trades her a map to the river's forbidden source in exchange for a promise — that she'll deliver what he found to his estranged daughter — Beatrix reluctantly agrees, only to discover the map is also coveted by the Meridian Company, whose private army will burn any boat that gets close to it. As she fights rapids, betrayals, and her own instinct to flee, the ragtag crew she gathers becomes the family she never meant to have. At the source, Beatrix learns the treasure is not gold but proof of the Company's poisoned water claims, and delivering it means surrendering her anonymity forever; she chooses to stand and be seen, ending the story by steering the Kestrel back downstream with the truth aboard and her name spoken aloud for the first time in ten years.",
+  "about_author": "Emrys Thornbury is the pen name of a former deckhand who spent six seasons working freight runs on inland waterways before turning to writing full-time. Their fiction draws on river lore, salvage stories, and the quiet stubbornness of people who live by moving water.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Mood of the Sandbar",
+      "summary": "Beatrix's POV. A routine cargo run down the Vell River nearly ends in disaster when an unmarked dredge channel wrecks a rival boat; Beatrix rescues two survivors but refuses their gratitude. The chapter establishes her skill, her isolation, and her rule: help, then move on. Emotional beat: competence as armor."
+    },
+    {
+      "n": 2,
+      "title": "A Stranger at the Dock",
+      "summary": "Beatrix's POV. In the port town of Grayhollow, a gaunt prospector named Hollis begs passage, offering coin she can't refuse. He coughs blood into a handkerchief he thinks she doesn't see. She takes his money and tells herself it means nothing. Emotional beat: the first crack in her armor."
+    },
+    {
+      "n": 3,
+      "title": "What Hollis Carried",
+      "summary": "Hollis's POV. Upstream through fog, Hollis watches Beatrix handle the boat and begins testing whether she's trustworthy, asking oblique questions about promises and daughters. Beatrix deflects, but his fever worsens overnight. Emotional beat: two guarded people circling each other."
+    },
+    {
+      "n": 4,
+      "title": "The Trade",
+      "summary": "Beatrix's POV. Hollis collapses; knowing he's dying, he offers her a wax-sealed map to the river's source in exchange for one promise: bring what he found to his daughter, Wren, in the mountain town of Callow's Rest. Beatrix hesitates, then swears it. He dies at dawn. Emotional beat: a promise made against her own instincts."
+    },
+    {
+      "n": 5,
+      "title": "Men in Company Grey",
+      "summary": "Beatrix's POV. Meridian Company agents board at the next lock, searching for 'a dead man's papers.' Beatrix lies smoothly, but their sergeant, Corvane, marks her. She realizes the map is worth killing for. Emotional beat: fear sharpening into resolve."
+    },
+    {
+      "n": 6,
+      "title": "Crew of Strays",
+      "summary": "Multiple POVs. Needing hands for dangerous water, Beatrix hires a disgraced engineer, Odile, and a teenage runaway stoker, Finch, who reminds her uncomfortably of herself. The three misfits bicker, break things, and slowly find a rhythm. Emotional beat: the accidental beginnings of a crew."
+    },
+    {
+      "n": 7,
+      "title": "Rapids at Sorrow Bend",
+      "summary": "Beatrix's POV. The Kestrel runs the Sorrow Bend rapids to evade a Company patrol boat; Odile's jury-rigged engine patch barely holds, and Finch saves the boiler at the cost of burned hands. They survive by inches. Emotional beat: trust forged under pressure."
+    },
+    {
+      "n": 8,
+      "title": "Wren Hollis",
+      "summary": "Finch's POV. At Callow's Rest they find Wren, bitter and unimpressed, running a failing assay office. She wants nothing from the father who abandoned her — until she sees the map and recognizes his handwriting. Emotional beat: grief wearing anger's clothes."
+    },
+    {
+      "n": 9,
+      "title": "What Hollis Found",
+      "summary": "Wren's POV. Deciphering Hollis's notes, Wren discovers the 'treasure' is documentation: samples proving the Company's upstream mines are poisoning the headwaters, with affidavits from silenced workers. The map leads to a hidden cache at the source. Emotional beat: the weight of inherited purpose."
+    },
+    {
+      "n": 10,
+      "title": "Corvane's Offer",
+      "summary": "Beatrix's POV. Corvane corners Beatrix ashore, offering a fortune for the map and veiled threats about her hidden past — revealing the Company knows who she used to be. She refuses, shaken that her old name is a lever someone can pull. Emotional beat: the past closing in."
+    },
+    {
+      "n": 11,
+      "title": "Night Departure",
+      "summary": "Odile's POV. Warned that Corvane has requisitioned gunboats, the crew slips the moorings at midnight with Wren aboard, running dark without lights through Company-controlled water. Odile reflects on the career that ruined her and why she stays. Emotional beat: chosen loyalty over safety."
+    },
+    {
+      "n": 12,
+      "title": "The Toll Bridge",
+      "summary": "Beatrix's POV. A fortified toll bridge demands inspection; Beatrix bribes the lockmaster with the Kestrel's cargo, gambling everything on one bluff. It works, but a Company clerk telegraphs ahead. Emotional beat: the cost of every mile paid up front."
+    },
+    {
+      "n": 13,
+      "title": "Finch's Secret",
+      "summary": "Finch's POV. Caught in a storm anchorage, Finch confesses to Beatrix that they fled home after being blamed for a fire that killed their brother. Beatrix, for the first time, tells a piece of her own story — enough to mean something. Emotional beat: found family taking root."
+    },
+    {
+      "n": 14,
+      "title": "Ambush at the Narrows",
+      "summary": "Beatrix's POV. A Company gunboat traps the Kestrel in the Narrows; Odile rams a logjam to block pursuit, and Wren is wounded shielding the map case. They escape upstream, but the boat is holed and morale cracks. Emotional beat: survival starting to feel like a debt."
+    },
+    {
+      "n": 15,
+      "title": "The Price of Going On",
+      "summary": "Wren's POV. Repairing the hull in a flooded quarry cove, the crew argues: turn back or finish it. Wren accuses Beatrix of planning to run the moment it gets hard. Beatrix doesn't deny it — and hates that she can't. Emotional beat: the theme made explicit."
+    },
+    {
+      "n": 16,
+      "title": "Water No Map Knows",
+      "summary": "Beatrix's POV. Above the last charted lock, the river turns wild and beautiful; navigation becomes instinct. Beatrix realizes she is happier here than she has been in years — because for once she isn't alone on the water. Emotional beat: wonder displacing fear."
+    },
+    {
+      "n": 17,
+      "title": "The Source",
+      "summary": "Multiple POVs. They reach the spring-fed source and find Hollis's cache in an abandoned mine adit: samples, ledgers, and letters from miners the Company buried along with the evidence. Corvane's men arrive on foot, having climbed ahead of them. Emotional beat: awe interrupted by threat."
+    },
+    {
+      "n": 18,
+      "title": "Standoff at the Adit",
+      "summary": "Beatrix's POV. Corvane offers Beatrix her old life back — anonymity, a clean slate — if she surrenders the evidence. Looking at Finch, Odile, and Wren, she understands stopping costs more than moving ever did, but some things cost more still. She refuses. Gunfire erupts. Emotional beat: identity chosen, not hidden."
+    },
+    {
+      "n": 19,
+      "title": "The Burning Boat",
+      "summary": "Odile's POV. In the firefight, the Kestrel catches fire; Odile scuttles her deliberately to block the gorge trail, sacrificing the boat that was her redemption. Corvane falls into the flood-swollen river; the survivors scatter uphill. Emotional beat: grief and liberation entwined."
+    },
+    {
+      "n": 20,
+      "title": "Descent",
+      "summary": "Finch's POV. The four fugitives carry the evidence down the mountains on foot, hunted and half-starved, leaning on each other through injury and despair. Finch, who once ran from blame, now carries the case no one else can lift. Emotional beat: endurance as love."
+    },
+    {
+      "n": 21,
+      "title": "Names Spoken Aloud",
+      "summary": "Beatrix's POV. In the capital, they deliver the evidence to a magistrate and a waiting journalist; Beatrix gives her true name in open testimony, ending a decade of flight. The Company's licenses are suspended; warrants go out. Emotional beat: exposure as freedom."
+    },
+    {
+      "n": 22,
+      "title": "A Passage for the Landfall",
+      "summary": "Beatrix's POV. Months later, Beatrix, Wren, Odile, and Finch launch a new boat, the Landfall, on the repaired river. Stopping no longer costs more than staying — because now there's something worth staying for. Emotional beat: arrival, at last, without running."
+    }
+  ]
+}

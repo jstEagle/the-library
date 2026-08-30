@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01967",
+  "title": "When the Salt Falls Again",
+  "author": "Silas Villalobos",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Ansel Zhou, a royal food-taster building immunity one dish at a time, has spent twenty years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. To get through this, they must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "found family",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1967
+  }
+}

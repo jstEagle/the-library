@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06443",
+  "title": "The Small Kitchen",
+  "author": "Orsen Underhill",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Dominic Montrose, a cellist recovering from one catastrophic final performance, has spent fifteen years rebuilding a life measured in small safe steps. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the vineyard's first harvest comes in.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6443
+  }
+}

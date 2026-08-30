@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02107",
+  "title": "Spire and Sigil Again",
+  "author": "Odile Blackwood",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ada Vane, a beast-speaker hiding a forbidden gift, has spent fifteen years selling small charms in a city that outlawed magic. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. To get through this, they must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2107
+  }
+}

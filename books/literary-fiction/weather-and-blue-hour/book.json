@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04538",
+  "title": "Weather and Blue Hour",
+  "author": "Quentin Vasquez",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Jonah Hartwell, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. Then a stranger at the funeral knows the family by a name nobody uses — and he is pulled straight into the middle of it. Now he must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4538
+  }
+}

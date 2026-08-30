@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05231",
+  "title": "A Witness for the Portrait",
+  "author": "B. M. Yarrow",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ulyana Underhill, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5231
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01597",
+  "title": "Ines and the Oath",
+  "author": "J. M. Ashgrove",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Marguerite Coldharbour, a bone-carver who hears the dead, has spent ten years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1597
+  }
+}

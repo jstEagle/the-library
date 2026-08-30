@@ -1,0 +1,21 @@
+{
+  "id": "THR-08813",
+  "title": "Zephyrine and the Contact",
+  "author": "Odile Reyes",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Gideon Oyelaran, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8813
+  }
+}

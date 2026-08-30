@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07941",
+  "title": "A Echo for the Signal Revisited",
+  "author": "Wren Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Odile Brightwater, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7941
+  }
+}

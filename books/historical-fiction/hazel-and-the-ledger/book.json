@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03010",
+  "title": "Hazel and the Ledger",
+  "author": "August Ashgrove",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Freya Dunmore, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. Then the bridge — the only road out — closes for the season — and he is pulled straight into the middle of it. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3010
+  }
+}

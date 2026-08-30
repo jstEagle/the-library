@@ -1,0 +1,21 @@
+{
+  "id": "THR-09147",
+  "title": "Felix and the Drop",
+  "author": "Elodie Montrose",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Orsen Montrose, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9147
+  }
+}

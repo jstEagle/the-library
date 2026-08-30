@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00321",
+  "title": "Juniper and the Passage",
+  "author": "Noor Iversen",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ivo Pemberton, a salvage diver working a wreck the navy won't discuss, has spent three years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and he is pulled straight into the middle of it. Now he must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 321
+  }
+}

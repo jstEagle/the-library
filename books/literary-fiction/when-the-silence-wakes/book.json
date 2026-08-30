@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04126",
+  "title": "When the Silence Wakes",
+  "author": "Gideon Thackeray",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Mara Underhill, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, they discover that staying invisible was never really an option. To get through this, they must ask the question the whole family arranged itself around before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "memory",
+    "identity",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4126
+  }
+}

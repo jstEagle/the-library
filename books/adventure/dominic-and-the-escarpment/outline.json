@@ -1,0 +1,209 @@
+{
+  "title": "Dominic and the Escarpment",
+  "slug": "adventure/dominic-and-the-escarpment",
+  "model": "stealth/ox-alpha",
+  "premise": "Dominic Dunmore, a storm chaser buried under debt to the Vellum Syndicate—creditors who smile while they ruin you—takes a salvage job along the Karst Escarpment and stumbles on the abandoned camp of a vanished government survey team. Their gear points upriver toward a source the maps mark as forbidden, and their last logbook names her late father as the survey's secret backer, tying the debt, the disappearance, and her inheritance into one knot. Hunted by Syndicate collectors, a rival salvage crew, and the weather itself, Dominic follows the river into the monsoon with a found family of strays: a defected surveyor, a river pilot, and a boy who stows away. At the source she uncovers a hidden reservoir project her father died protecting—water rights worth enough to erase every debt—and must choose between selling the discovery to buy her freedom and destroying the claim to keep the escarpment's people free. She burns the survey's proof, pays her debts with the truth instead, and comes down the mountain as the storm breaks, no longer invisible and no longer owned.",
+  "about_author": "Mirabel Brightwater is the pen name of a former hydrologist who spent six field seasons mapping rivers no one was supposed to name. She writes adventure novels from a houseboat that has never once stayed where she parked it.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Small Debts",
+      "summary": "Dominic's POV. She chases a supercell across the flats for a client who won't pay, then returns to find a Vellum Syndicate collector waiting in her truck with a smile and a ledger. Establishes her debt, her compass (her father's), and her policy of staying invisible. Emotional beat: weary defiance."
+    },
+    {
+      "n": 2,
+      "title": "Terms of Optimism",
+      "summary": "Dominic's POV. The Syndicate offers a 'forgiveness job': salvage equipment from a government survey camp abandoned on the Karst Escarpment. She signs because the alternative is worse. Introduces the collector, Ives, whose cheerfulness is the most frightening thing in the room. Emotional beat: cornered calculation."
+    },
+    {
+      "n": 3,
+      "title": "Gear and No Tracks",
+      "summary": "Dominic's POV. She reaches the survey camp: tents intact, meals half-eaten, instruments still running, and not a single footprint leaving. One thing is missing—a river gauge and the team's source samples. Emotional beat: creeping dread turning to fascination."
+    },
+    {
+      "n": 4,
+      "title": "The Logbook in Her Father's Hand",
+      "summary": "Dominic's POV. She finds a field logbook with annotations in her dead father's handwriting, dated after his supposed death. It references 'the source' and a warning: don't bring it down the mountain. Emotional beat: grief cracked open by anger."
+    },
+    {
+      "n": 5,
+      "title": "Strays at the Crossing",
+      "summary": "Dominic's POV. At a river crossing she acquires, mostly against her will, three companions: Sefa, a surveyor who deserted the missing team; Bram, a river pilot with a confiscated boat; and Tuck, a stowaway boy who refuses to be left behind. Emotional beat: reluctant warmth."
+    },
+    {
+      "n": 6,
+      "title": "What Sefa Saw",
+      "summary": "Sefa's POV. Flashback to the night the survey team vanished—lights in the gorge, a sound like the river inhaling, and orders from their team lead to erase everything. Sefa ran instead. Emotional beat: guilt as fuel."
+    },
+    {
+      "n": 7,
+      "title": "The Syndicate Follows",
+      "summary": "Dominic's POV. Ives's second crew arrives at the camp hours behind her, and she realizes the salvage job was bait: the Syndicate wants the source claim, and she's their tracker now. Emotional beat: the trap closing."
+    },
+    {
+      "n": 8,
+      "title": "Upstream Rules",
+      "summary": "Bram's POV. The river pilot lays out the only route up the escarpment before monsoon landfall—nine days of water that doesn't forgive. Dominic commits the group to the ascent. Emotional beat: resolve hardening into purpose."
+    },
+    {
+      "n": 9,
+      "title": "The Gauge at Widow's Bend",
+      "summary": "Dominic's POV. They recover the missing river gauge; its data shows the river running backward in pulses—something upstream is breathing. First hint the 'source' is engineered, not natural. Emotional beat: wonder edged with alarm."
+    },
+    {
+      "n": 10,
+      "title": "Tuck's Bargain",
+      "summary": "Tuck's POV. The boy reveals he stowed away because his village downstream is being bought out by the same company backing the survey. Dominic realizes the stakes aren't hers alone. Emotional beat: debt reframed as responsibility."
+    },
+    {
+      "n": 11,
+      "title": "The First Collector",
+      "summary": "Dominic's POV. A Syndicate scout catches them at a portage; Bram's piloting and a flash flood buy their escape, but the scout radios their position. Dominic's invisibility is officially over. Emotional beat: adrenaline and the loss of anonymity."
+    },
+    {
+      "n": 12,
+      "title": "Maps That Lie Politely",
+      "summary": "Sefa's POV. Sefa decodes the survey's falsified maps—every 'forbidden' zone hides the reservoir's true footprint. Her father's annotations mark the real route. Emotional beat: the dead father becoming a guide."
+    },
+    {
+      "n": 13,
+      "title": "Monsoon Warning",
+      "summary": "Dominic's POV. Her storm instincts read the sky: landfall in six days, not ten. The deadline collapses, and the group argues about turning back. Dominic, for once, argues to go forward. Emotional beat: leadership she never asked for."
+    },
+    {
+      "n": 14,
+      "title": "The Rival Crew",
+      "summary": "Bram's POV. A rival salvage outfit, the Corrick brothers, shadows them—hired by whoever inside the government made the survey vanish. A night confrontation ends in a truce of mutual distrust. Emotional beat: enemies as mirrors."
+    },
+    {
+      "n": 15,
+      "title": "The Inhaled Gorge",
+      "summary": "Dominic's POV. They reach the gorge from Sefa's story and witness the phenomenon: the river reversing as vast sluices beneath the escarpment open and close. The source is a machine, and it's being tested. Emotional beat: awe curdling into anger."
+    },
+    {
+      "n": 16,
+      "title": "Her Father's Room",
+      "summary": "Dominic's POV. In a buried monitoring station they find her father's quarters—he lived here for years, faking his death to protect the project from his own backers. Letters to her, unsent. Emotional beat: heartbreak and furious love."
+    },
+    {
+      "n": 17,
+      "title": "The Letters",
+      "summary": "Dominic's POV, intercut with memory. Reading her father's letters, she learns the reservoir was meant as a public trust until the Vellum Syndicate bought the debt on the entire project—including, indirectly, her. Emotional beat: the personal debt revealed as systemic."
+    },
+    {
+      "n": 18,
+      "title": "Ives at the Door",
+      "summary": "Ives's POV. The cheerful collector reaches the station with a Syndicate enforcement detail, offering Dominic full debt forgiveness for the source's engineering documents. He genuinely believes he's being kind. Emotional beat: charm as a weapon."
+    },
+    {
+      "n": 19,
+      "title": "Refusal and Ruin",
+      "summary": "Dominic's POV. She refuses; Ives seizes their boats and supplies and leaves them to the monsoon. Tuck is nearly taken before Sefa trades her survey credentials for his release. Emotional beat: cost made flesh."
+    },
+    {
+      "n": 20,
+      "title": "What the River Owes",
+      "summary": "Tuck's POV. The boy leads them through karst caves he knows from village stories—a route the Syndicate can't follow. Found family solidifies around shared risk. Emotional beat: trust as currency."
+    },
+    {
+      "n": 21,
+      "title": "The Corrick Brothers' Choice",
+      "summary": "Bram's POV. The rival crew, abandoned by their own employers, catches up and offers an uneasy alliance: they know where the Syndicate is staging. Betrayal is promised by both sides and deferred. Emotional beat: pragmatism over pride."
+    },
+    {
+      "n": 22,
+      "title": "Storm Landfall",
+      "summary": "Dominic's POV. The monsoon hits the escarpment early and hard. The group shelters in the monitoring station as the river swells; the machine beneath them begins an unscheduled full-capacity test. Emotional beat: nature and conspiracy converging."
+    },
+    {
+      "n": 23,
+      "title": "The Test",
+      "summary": "Sefa's POV. The full-capacity test threatens to flood every village downstream, including Tuck's. The vanished survey team didn't disappear—they were silenced for refusing to run it. Sefa decides to finish what they started: shut it down. Emotional beat: courage replacing flight."
+    },
+    {
+      "n": 24,
+      "title": "Climbing the Spine",
+      "summary": "Dominic's POV. The final ascent to the source control vault through the storm, Bram navigating flooded channels, the Corricks holding the Syndicate's attention as a decoy. Emotional beat: every debt called in at once."
+    },
+    {
+      "n": 25,
+      "title": "The Vault at the Source",
+      "summary": "Dominic's POV. Inside the vault: her father's master key, the full claim documents, and the lever that controls the sluices. She holds the inheritance—water rights worth more than every debt in the region. Emotional beat: vertigo of power."
+    },
+    {
+      "n": 26,
+      "title": "Ives's Last Offer",
+      "summary": "Ives's POV. Cornered in the vault, Ives makes his final pitch: sign the claim to the Syndicate and walk away rich and free. He's sincere, and that's what makes it monstrous. Emotional beat: temptation with a human face."
+    },
+    {
+      "n": 27,
+      "title": "The Price of Survival",
+      "summary": "Dominic's POV. She weighs the offer against everything—Tuck's village, Sefa's dead team, her father's letters—and understands the debt was never really hers to pay. She signs nothing. Emotional beat: the theme stated in action."
+    },
+    {
+      "n": 28,
+      "title": "Closing the Sluices",
+      "summary": "Sefa and Dominic's POV. Together they trigger the shutdown sequence; the machine's builders never anticipated someone choosing the public trust over the payout. The river steadies. Emotional beat: triumph that feels like grief."
+    },
+    {
+      "n": 29,
+      "title": "The Burning",
+      "summary": "Dominic's POV. She burns the claim documents in the vault's furnace—the discovery is worthless if it can be owned—and keeps only her father's compass and one letter. Emotional beat: liberation through loss."
+    },
+    {
+      "n": 30,
+      "title": "The Descent Begins",
+      "summary": "Bram's POV. With the storm peaking, the group begins the descent by the same drowned route, the Corricks covering their exit and finally paying their deferred debt honestly. Emotional beat: solidarity forged in flood."
+    },
+    {
+      "n": 31,
+      "title": "Ives Undone",
+      "summary": "Ives's POV. The Syndicate, learning the claim is destroyed, disowns its 'optimist'; Ives, ruined by the ledger logic he served, is left on the mountain with his smile finally cracking. Emotional beat: the system eating its own."
+    },
+    {
+      "n": 32,
+      "title": "The Flooded Crossing",
+      "summary": "Dominic's POV. The climactic river crossing at Widow's Bend, boat overloaded, Tuck swept overboard, and Dominic going in after him—survival finally meaning something other than self-preservation. Emotional beat: sacrifice without hesitation."
+    },
+    {
+      "n": 33,
+      "title": "What the River Gives Back",
+      "summary": "Dominic's POV. Bram's piloting and Sefa's rigging pull them both out; Dominic coughs up half the river and laughs for the first time in the book. Emotional beat: joy earned the hard way."
+    },
+    {
+      "n": 34,
+      "title": "Coming Down the Mountain",
+      "summary": "Tuck's POV. The group reaches the lowlands as the storm breaks; Tuck's village, warned by the gauge data Sefa broadcast, evacuated in time and stands. Emotional beat: consequences that are, for once, good."
+    },
+    {
+      "n": 35,
+      "title": "The Ledger Settled",
+      "summary": "Dominic's POV. She faces the Syndicate's local office with nothing they can take: the claim is ash, the debt unenforceable against a dead project, and witnesses everywhere. She walks out owing nothing. Emotional beat: quiet, total victory."
+    },
+    {
+      "n": 36,
+      "title": "The Survey Team's Names",
+      "summary": "Sefa's POV. Sefa files the recovered logbook with an honest journalist, restoring the vanished team's names and her own. The cover-up unravels publicly. Emotional beat: truth as restitution."
+    },
+    {
+      "n": 37,
+      "title": "Compass Points",
+      "summary": "Dominic's POV. She visits her father's grave with the letter she kept, telling him the debt is paid and the river is free. She stops running from his memory. Emotional beat: grief finally at rest."
+    },
+    {
+      "n": 38,
+      "title": "A Crew of Her Own",
+      "summary": "Bram's POV. Bram, Sefa, Tuck, and Dominic refit the boat as a legitimate river survey outfit—mapping water honestly, for the people who drink it. Found family becomes a working crew. Emotional beat: belonging without asking."
+    },
+    {
+      "n": 39,
+      "title": "The Next Storm",
+      "summary": "Dominic's POV. A new client offers a chase on the open flats, no strings, and Dominic—visible now, solvent, accompanied—says yes. The compass points wherever she decides. Emotional beat: forward motion."
+    },
+    {
+      "n": 40,
+      "title": "Dominic and the Escarpment",
+      "summary": "Dominic's POV, closing. From the high ground she watches the escarpment in clear light, the river running true from its source to the sea, and understands inheritance isn't what you're left—it's what you refuse to sell. Emotional beat: earned peace, story sealed."
+    }
+  ]
+}

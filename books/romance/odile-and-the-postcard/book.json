@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06633",
+  "title": "Odile and the Postcard",
+  "author": "S. M. Underhill",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Tamsin Nystrom, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and she is pulled straight into the middle of it. To get through this, she must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6633
+  }
+}

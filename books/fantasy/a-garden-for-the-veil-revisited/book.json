@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01875",
+  "title": "A Garden for the Veil Revisited",
+  "author": "Jude Marchetti",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Odile Vane, a debt-bound temple scribe, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. To get through this, he must unbind a king from the thing wearing his crown before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1875
+  }
+}

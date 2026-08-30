@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02537",
+  "title": "When the Ledger Sings",
+  "author": "Jude Eastwick",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Mara Marchetti, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent fifteen years learning which silences keep people safe. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. Now he must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2537
+  }
+}

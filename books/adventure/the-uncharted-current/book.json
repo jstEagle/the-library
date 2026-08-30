@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00501",
+  "title": "The Uncharted Current",
+  "author": "C. M. Brightwater",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Jonah Ravensworth, a railroad engineer with a map of closed lines, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and she is pulled straight into the middle of it. Now she must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 501
+  }
+}

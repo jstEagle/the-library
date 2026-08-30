@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05918",
+  "title": "A Alibi for the Verdict Revisited",
+  "author": "Rosalind Oyelaran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Beatrix Oyelaran, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. But when twin letters arrive: one confessing, one promising more, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5918
+  }
+}

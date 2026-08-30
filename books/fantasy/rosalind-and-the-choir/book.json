@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01535",
+  "title": "Rosalind and the Choir",
+  "author": "R. M. Oyelaran",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Rosalind Hartwell, a hedge-witch's runaway apprentice, has spent five years selling small charms in a city that outlawed magic. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. To get through this, he must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1535
+  }
+}

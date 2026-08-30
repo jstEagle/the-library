@@ -1,0 +1,21 @@
+{
+  "id": "THR-09024",
+  "title": "A Cover for the Contact",
+  "author": "Rosalind Nystrom",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Ines Montrose, a burnt analyst bounced from three agencies, has spent five years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9024
+  }
+}

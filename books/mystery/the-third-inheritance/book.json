@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05083",
+  "title": "The Third Inheritance",
+  "author": "Silas Sterling",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Lior Kavanagh, the archivist of a cathedral with a locked crypt, has spent ten years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and they are pulled straight into the middle of it. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5083
+  }
+}

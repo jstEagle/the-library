@@ -1,0 +1,29 @@
+{
+  "title": "Mirabel and the Autopsy",
+  "slug": "mystery/mirabel-and-the-autopsy",
+  "model": "stealth/ox-alpha",
+  "premise": "Xanthe Vasquez, the reclusive archivist of St. Aldhelm's Cathedral, receives a confession letter postmarked one day after Archdeacon Hollis's funeral—claiming his death in the locked crypt was no accident. Following a ledger disguised as centuries of burial records, Xanthe uncovers that Hollis was secretly investigating a forged inheritance scheme built on falsified baptisms, and that her own late mother's name appears in its margins. As the trial of the accused verger approaches, Xanthe must choose between protecting the cathedral family who sheltered her and exposing the truth: the killer is Dean Merrivale, who murdered Hollis to bury the ledger's proof that he himself has no legal claim to his title or fortune.",
+  "about_author": "Jude Underhill spent a decade cataloguing parish records in northern England before turning to fiction, a career that left them with an abiding distrust of neat official stories. They write mysteries about people whose careful invisibility fails them at the worst possible moment.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Postmarked After the Grave",
+      "summary": "Xanthe's POV. Days after Archdeacon Hollis's funeral, an unsigned confession letter arrives claiming his death in the sealed crypt was murder—and hinting the sender will strike again before the trial. Xanthe, who prides herself on staying invisible among the cathedral staff, begins quietly comparing the letter's phrasing against the archive's documents. Emotional beat: dread mixed with a reluctant thrill of purpose."
+    },
+    {
+      "n": 2,
+      "title": "The Ledger Written in Burials",
+      "summary": "Xanthe's POV. Decoding Hollis's own research hidden in the burial register, she finds falsified baptism dates propping up an inheritance claim tied to the cathedral's endowment—and her mother's name in the margins. The accused verger begs her to stay silent for the institution's sake. Emotional beat: loyalty pulling against truth as her identity becomes entangled in the case."
+    },
+    {
+      "n": 3,
+      "title": "What the Crypt Keeps",
+      "summary": "Xanthe's POV, climaxing in the crypt itself. Lured by a second anonymous note, she discovers the final ledger page proving Dean Merrivale fabricated his lineage—and realizes too late that Merrivale sent it, trapping her where Hollis died. A tense confrontation in the dark; she survives when the verger, choosing truth over loyalty, raises the alarm. Emotional beat: terror transmuted into resolve."
+    },
+    {
+      "n": 4,
+      "title": "A Name Entered Properly",
+      "summary": "Xanthe's POV. At trial, the decoded ledger convicts Merrivale, and the verger is freed; the chapter closes with Xanthe entering Hollis's true findings into the official record under her own name for the first time. She accepts that visibility costs something but buys back her integrity. Emotional beat: quiet, earned peace—an archivist who can no longer hide, and no longer wants to."
+    }
+  ]
+}

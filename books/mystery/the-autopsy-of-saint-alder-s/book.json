@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04922",
+  "title": "The Autopsy of Saint Alder's",
+  "author": "Quentin Winterbourne",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.4,
+  "blurb": "Hazel Kavanagh, a small-town coroner who knows every grave by name, has spent fifteen years keeping the town's secrets filed and alphabetized. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. To get through this, they must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4922
+  }
+}

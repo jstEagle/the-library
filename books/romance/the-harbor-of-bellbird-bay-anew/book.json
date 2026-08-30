@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06971",
+  "title": "The Harbor of Bellbird Bay Anew",
+  "author": "Ansel Amberdale",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Gideon Zhou, a single parent running the town's only bookshop, has spent three years rebuilding a life measured in small safe steps. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. To get through this, they must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6971
+  }
+}

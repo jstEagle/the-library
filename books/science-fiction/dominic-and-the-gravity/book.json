@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07595",
+  "title": "Dominic and the Gravity",
+  "author": "Ivo Thornbury",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Noor Yarrow, a terraformer tending a garden meant for people not yet born, has spent seven years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. To get through this, she must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7595
+  }
+}

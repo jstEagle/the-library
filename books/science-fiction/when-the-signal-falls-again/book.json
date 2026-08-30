@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08258",
+  "title": "When the Signal Falls Again",
+  "author": "Wendell Hartwell",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Zephyrine Thornbury, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. To get through this, they must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8258
+  }
+}

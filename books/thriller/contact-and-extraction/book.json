@@ -1,0 +1,21 @@
+{
+  "id": "THR-08780",
+  "title": "Contact and Extraction",
+  "author": "August Dunmore",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Rafael Ashgrove, a burnt analyst bounced from three agencies, has spent twelve years following rules that keep getting rewritten. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. To get through this, they must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "memory",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8780
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01496",
+  "title": "The Crooked Veil",
+  "author": "August Ishikawa",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Zephyrine Iversen, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1496
+  }
+}

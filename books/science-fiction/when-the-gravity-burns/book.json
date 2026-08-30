@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07005",
+  "title": "When the Gravity Burns",
+  "author": "Juniper Ashgrove",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Wendell Hartwell, a decommissioned war android paying off its debts, has spent ten years hauling cargo through contested orbits. But when an unfamiliar name shows up on the manifest of a ship that never flew, they discover that staying invisible was never really an option. To get through this, they must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7005
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01646",
+  "title": "Tamsin and the Oath",
+  "author": "Silas Crane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Zephyrine Iversen, a bone-carver who hears the dead, has spent seven years selling small charms in a city that outlawed magic. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. To get through this, she must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1646
+  }
+}

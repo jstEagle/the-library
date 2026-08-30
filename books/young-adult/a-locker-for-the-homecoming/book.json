@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09787",
+  "title": "A Locker for the Homecoming",
+  "author": "K. M. Voss",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Bram Lockridge, the new kid at a school built over something old, has spent three years being so careful it hurts. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and they are pulled straight into the middle of it. To get through this, they must decide who to be when the labels come off before graduation.",
+  "themes": [
+    "belonging",
+    "memory",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9787
+  }
+}

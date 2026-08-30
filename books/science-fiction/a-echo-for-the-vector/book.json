@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07482",
+  "title": "A Echo for the Vector",
+  "author": "Jonah Voss",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wendell Zhou, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7482
+  }
+}

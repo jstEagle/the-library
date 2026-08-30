@@ -1,0 +1,21 @@
+{
+  "id": "THR-08733",
+  "title": "A Protocol for the Cipher",
+  "author": "Theo Eastwick",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Tamsin Reyes, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. Now they must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8733
+  }
+}

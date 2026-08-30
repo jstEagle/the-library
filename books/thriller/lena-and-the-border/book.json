@@ -1,0 +1,21 @@
+{
+  "id": "THR-09027",
+  "title": "Lena and the Border",
+  "author": "Rosalind Okonkwo",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "August Hartwell, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. To get through this, he must extract a defector who may be the bait before the summit convenes.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9027
+  }
+}

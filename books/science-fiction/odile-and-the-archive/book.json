@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08132",
+  "title": "Odile and the Archive",
+  "author": "Yara Lockridge",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Casper Montrose, a xenolinguist who can no longer dream in human languages, maintains the beacon nobody remembers commissioning. Then the station AI begins confessing to crimes nobody reported — and she is pulled straight into the middle of it. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8132
+  }
+}

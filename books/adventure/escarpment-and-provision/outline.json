@@ -1,0 +1,59 @@
+{
+  "title": "Escarpment and Provision",
+  "slug": "adventure/escarpment-and-provision",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Underhill, a transient digger raised by his archaeologist father and abandoned at seventeen, has spent a decade drifting along the Verrin River valley, unearthing relics and selling them quietly. When a flood exposes a bronze chest bearing the seal of Ostrava—a nation erased from every map and record—he becomes the target of both the Provision, a merchant consortium that rules the valley through debt and silence, and a scattered remnant of Ostravan descendants who believe the chest marks the path to their hidden archive at the river's source. Pursued by the Provision's enforcer, Ada joins the remnant's ragged expedition upstream, learning that his father's final dig was the last attempt to reach the archive, and that Ada himself carries the key: a fragment his father hid in him, literally, a bone-carved cipher fused into a childhood injury. At the source, Ada must choose between selling the archive's location to buy his freedom or opening it, restoring Ostrava's history to the world and accepting, for the first time, that staying is worth the cost. He opens it, buries his father's memory beside it, and takes root in the valley's first settlement built on truth rather than provision.",
+  "about_author": "Freya Vasquez is a former river surveyor who spent eight years mapping tributaries across three continents before turning to fiction full-time. She writes adventure novels about people who measure belonging in waterlines and buried things.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Flood Gives Back",
+      "summary": "Ada's POV. Working a licensed salvage claim in the town of Lowmark, Ada watches spring floods carve a new channel and expose a bronze chest stamped with the seal of Ostrava, a nation he's only heard of in drunk old men's curses. Before he can decide whether to report it, the Provision's survey boat arrives. Beat: the thrill of discovery curdles into the instinct to run."
+    },
+    {
+      "n": 2,
+      "title": "What the Chest Would Not Open",
+      "summary": "Ada's POV. Ada hides the chest in a rented cellar and works its lock for three days, recognizing lockwork like his father's. A woman named Sela catches him—she's Ostravan remnant, and the seal matches a tattoo on her wrist. She offers partnership; Ada offers nothing and lies. Beat: the first pull of belonging, refused."
+    },
+    {
+      "n": 3,
+      "title": "The Provision Sends Its Arithmetic",
+      "summary": "Ada's POV. The Provision's enforcer, Corven Hale, arrives with ledgers proving Ada's salvage licenses are forgeries, offering amnesty for the chest. Ada realizes the Provision has erased Ostrava from records for a century—and that his father's name appears in their oldest ledger. Beat: fear sharpening into the first question he can't walk away from."
+    },
+    {
+      "n": 4,
+      "title": "Ledger of the Missing Father",
+      "summary": "Ada's POV, with a flashback chapter in his father's voice from a recovered field journal. The journal reveals his father's final expedition sought the Ostravan archive at the river's source, and that he hid a cipher 'where no one confiscates it'—inside his son's healed femur. Beat: grief reframed as inheritance."
+    },
+    {
+      "n": 5,
+      "title": "Nine Descendants and a Barge",
+      "summary": "Alternating Ada and Sela POV. Ada, hunted by Hale after refusing the deal, joins Sela's remnant—nine people, one leaky barge, heading upstream before dry season lowers the river past navigability. The group's squabbling, rituals, and shared meals unsettle Ada's solitude. Beat: found family begins as an inconvenience he can't leave."
+    },
+    {
+      "n": 6,
+      "title": "The Toll at Weir Hollow",
+      "summary": "Sela's POV. The Provision controls the river's only locks; passing Weir Hollow means bribing, bluffing, or fighting. Ada's lockpicking and knowledge of Provision paperwork get the barge through, but he's seen by Hale's informant. Beat: Ada's skills, once tools of escape, become tools of the group—and he likes it."
+    },
+    {
+      "n": 7,
+      "title": "Dry Season Arithmetic",
+      "summary": "Ada's POV. The river drops faster than planned; the barge must be abandoned for a gorge portage. One of the nine, old Tomas, breaks his leg and stays behind with two volunteers as decoys for Hale's pursuing skiff. Beat: the cost of staying together, paid willingly for the first time in Ada's life."
+    },
+    {
+      "n": 8,
+      "title": "The Forbidden Source",
+      "summary": "Ada's POV. The remnant reaches the source: a spring inside a collapsed Ostravan vault, sealed with a lock built for the bone cipher. Hale ambushes them, having tortured the decoys' location from Tomas. In the standoff, Ada learns Hale is himself Ostravan remnant, corrupted into serving the Provision. Beat: climax of identity—power offered to Ada on the same corrupting terms."
+    },
+    {
+      "n": 9,
+      "title": "The Cipher in the Bone",
+      "summary": "Ada's POV, intercut with Hale's. Ada opens the vault using the fragment in his femur; the archive inside holds Ostrava's full history—including proof the Provision's founding fortune was stolen from it. Hale wavers; the Provision's skiffs arrive. Ada chooses to broadcast the archive's copies downriver rather than trade them. Beat: power refused, belonging chosen."
+    },
+    {
+      "n": 10,
+      "title": "Provision Enough",
+      "summary": "Sela's POV, closing with Ada's. The archive spreads through the valley; the Provision's monopoly cracks. Ada, who once kept moving to stay invisible, stays to help found a settlement at Lowmark built on the recovered truth, burying his father's journal beside the source. Beat: resolution—belonging as a place you dig and defend, not a place you flee."
+    }
+  ]
+}

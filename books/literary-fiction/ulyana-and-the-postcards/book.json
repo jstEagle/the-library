@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04488",
+  "title": "Ulyana and the Postcards",
+  "author": "Xanthe Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Freya Brightwater, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, she discovers that staying invisible was never really an option. To get through this, she must say goodbye properly, at last, out loud before the house sale closes.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4488
+  }
+}

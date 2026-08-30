@@ -1,0 +1,21 @@
+{
+  "id": "THR-09259",
+  "title": "Bram and the Contact",
+  "author": "Edmund Ravensworth",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Tamsin Nystrom, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. But when a voiceprint unlocks a server on another continent, she discovers that staying invisible was never really an option. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9259
+  }
+}

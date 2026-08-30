@@ -1,0 +1,59 @@
+{
+  "title": "the Empty Quarter Rising",
+  "slug": "adventure/the-empty-quarter-rising",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Crane, a railroad engineer who keeps the maps of the north's abandoned lines, is hired to guide a salvage fleet racing upriver to a wreck that vanished forty years ago — the same expedition her father disappeared with. When the fleet's advance team goes silent, Ada slips ahead alone, finding survivors who have built a fragile life around a secret the wreck holds: proof that her father chose loyalty over truth, and that the salvage company means to bury both. Over six tides she must choose between protecting the found family the river has made and exposing what really happened. In the end she burns the company's claim charts, sends the truth downriver in fragments no one can own, and stays behind as the Empty Quarter's new keeper of memory.",
+  "about_author": "Jonah Sandoval is the pen name of a former surveyor who spent a decade mapping decommissioned rail corridors across the northern territories before turning to fiction. His novels are known for their exacting technical detail and their obsession with landscapes that remember more than the people who cross them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Map of Closed Lines",
+      "summary": "Ada's POV. In the rail yard office at Grayling Junction, Ada is approached by Meridian Salvage with a contract: guide their fleet upriver using her father's old line maps. She recognizes the destination coordinates from his last letter home. The beat is wary ambition — she takes the job to find answers about him."
+    },
+    {
+      "n": 2,
+      "title": "Six Tides",
+      "summary": "Ada's POV. Aboard the lead barge, Ada clashes with fleet master Corven Hale, who treats the river as an obstacle and the crew as expendable. Radio contact with the advance team frays, then dies mid-sentence. The beat is dread settling in: the wilderness has taken someone again, and Ada knows its habits."
+    },
+    {
+      "n": 3,
+      "title": "What the River Keeps",
+      "summary": "Ada's POV. Against orders, Ada takes a skiff ahead through the narrows she alone can read from the closed-line maps. She finds the advance team's boat gutted on a gravel bar — no bodies. The beat is fear sharpening into resolve; the river is hiding something deliberately."
+    },
+    {
+      "n": 4,
+      "title": "The People of the Wreck",
+      "summary": "Ada's POV, briefly shifting to survivor Ilsa Vann. Blindfolded and led inland, Ada discovers the missing team alive among descendants of the original wreck crew, living off the hulk of the steamer Kestrel. Ilsa explains they silence intruders first and ask questions after. The beat is disorientation giving way to reluctant kinship."
+    },
+    {
+      "n": 5,
+      "title": "Her Father's Last Letter",
+      "summary": "Ilsa's POV. The community shows Ada the Kestrel's log and her father's final letter, revealing he stayed behind voluntarily to hide evidence that Meridian's predecessor caused the wreck and let the crew die for insurance. The beat is grief colliding with betrayal — the father she mourned was a man who chose a lie to protect strangers."
+    },
+    {
+      "n": 6,
+      "title": "Hale Comes Upriver",
+      "summary": "Ada's POV. The fleet arrives early, having forced the narrows; Hale offers Ada a partnership if she produces the wreck's cargo manifest, which would erase the liability evidence forever. He reveals he knows who she is and has been using her all along. The beat is cold recognition of being a tool."
+    },
+    {
+      "n": 7,
+      "title": "Loyalty Is a Kind of Lie",
+      "summary": "Ilsa's POV. The community fractures: some want to trade the manifest to Hale for safe passage out; others, led by Ilsa, want to destroy it entirely. Ada argues for a third path — send copies of the truth downriver so it can't be owned or buried. The beat is found family tested by fear."
+    },
+    {
+      "n": 8,
+      "title": "The Fifth Tide",
+      "summary": "Ada's POV. Hale's men seize the Kestrel at slack water; Ada triggers the old rail line's derelict swing bridge to block the channel, buying one tide but trapping everyone, including herself. In the chaos the original manifest burns half-lost. The beat is sacrifice — she saves the people, not the paper."
+    },
+    {
+      "n": 9,
+      "title": "Empty Quarter Rising",
+      "summary": "Ada's POV, climax. With one tide left, Ada leads the community through the flooded cut she mapped in chapter three, carrying the surviving log pages, while Hale's barge founders on the wreck itself. Confronted on the gravel bar, Hale chooses drowning over surrender to the truth. The beat is fury transmuted into clarity."
+    },
+    {
+      "n": 10,
+      "title": "Keeper of Memory",
+      "summary": "Ada's POV, resolution. Months later, the testimony has reached the coast in fragments; Meridian collapses under investigation. Ada declines to return south, staying as the settlement's engineer, rebuilding the swing bridge and teaching the children the closed lines. The beat is quiet belonging — she stops searching for her father and starts becoming what he tried to be."
+    }
+  ]
+}

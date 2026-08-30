@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09799",
+  "title": "The Mixtape of Lake Minnow",
+  "author": "Dominic Montrose",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Odile Dravenmoor, the only out kid in a town of nine hundred, stays under the radar: head down, grades up, locker shut. But when a group chat starts predicting things that haven't happened yet, she discovers that staying invisible was never really an option. Now she must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9799
+  }
+}

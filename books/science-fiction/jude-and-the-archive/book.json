@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08235",
+  "title": "Jude and the Archive",
+  "author": "F. M. Dunmore",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "August Quintana, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. But when a ship returns from deep space with everyone aboard aged backward, they discover that staying invisible was never really an option. To get through this, they must prove a massacre happened when every record says otherwise before the fleet's truce expires.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8235
+  }
+}

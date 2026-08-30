@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07970",
+  "title": "Paloma and the Machine",
+  "author": "Lior Crane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Astrid Almeida, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. To get through this, he must deliver a message that will end the war — or start it before the reactor finishes its countdown.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7970
+  }
+}

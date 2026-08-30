@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02633",
+  "title": "A Atlas for the Uniform",
+  "author": "Q. M. Villalobos",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Noor Lockridge, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent seven years learning which silences keep people safe. Then the census taker asks one question too many — and he is pulled straight into the middle of it. To get through this, he must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "identity",
+    "memory",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2633
+  }
+}

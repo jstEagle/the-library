@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09869",
+  "title": "Mirabel and the Group Chat",
+  "author": "S. M. Galloway",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Wren Ashgrove, a coder whose anonymous account knows too much, has spent fifteen years being so careful it hurts. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, she discovers that staying invisible was never really an option. To get through this, she must tell the truth even if it costs the friendship before the final audition.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9869
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06905",
+  "title": "Beatrix and the Letters",
+  "author": "A. M. Ashgrove",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Kestrel Lockridge, a cellist recovering from one catastrophic final performance, has spent twelve years rebuilding a life measured in small safe steps. But when a snowstorm strands two rivals with the best mistake of their twenties, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6905
+  }
+}

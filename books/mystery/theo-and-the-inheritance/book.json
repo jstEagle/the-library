@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05143",
+  "title": "Theo and the Inheritance",
+  "author": "Petra Okonkwo",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Hazel Oyelaran, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. But when a confession letter arrives postmarked the day after the funeral, she discovers that staying invisible was never really an option. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5143
+  }
+}

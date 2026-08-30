@@ -1,0 +1,119 @@
+{
+  "title": "Asset and Ghost",
+  "slug": "thriller/asset-and-ghost",
+  "model": "stealth/ox-alpha",
+  "premise": "Yara Hartwell, a disgraced intelligence analyst fired from three agencies, has built a careful life of anonymity in Lisbon—until a voiceprint they recorded years ago unlocks a dormant server in Nairobi, dragging them back into the game. The server belongs to a ghost cell planning to sabotage a water treatment facility during an international summit, disguising mass casualties as infrastructure failure. Forced to partner with Nadia Okonkwo, the investigator once assigned to burn them, Yara must choose between disappearing again and standing visible for the first time. In the end, Yara exposes the plot at personal cost, testifies under their real name, and chooses love and belonging over the safety of being no one.",
+  "about_author": "Lena Reyes is a former risk consultant who spent a decade advising NGOs operating in contested regions before turning to fiction full-time. She writes from a small apartment overlooking the Tagus, where she collects abandoned passports found in secondhand books.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Go-Bag by the Door",
+      "summary": "Yara's POV. We meet Yara in Lisbon: meticulous routines, three aliases, a packed bag, and a lie about who they are told to everyone including themselves. A routine freelance data-cleaning job ends when a file pings with their own voiceprint. Beat: unease beneath controlled calm."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "Yara's POV. The voiceprint matches a recording Yara made six years ago and thought destroyed. Tracing the ping leads to a server farm outside Nairobi. Yara packs the go-bag but hesitates at the door—a first crack in the invisibility doctrine. Beat: dread mixed with reluctant thrill."
+    },
+    {
+      "n": 3,
+      "title": "The Woman Who Burned Me",
+      "summary": "Nadia's POV. Investigator Nadia Okonkwo, who compiled the dossier that ended Yara's third agency stint, is alerted that Hartwell's biometric key just activated. She requests travel authorization, telling herself it's procedure, not obsession. Beat: professional curiosity shading into something unresolved."
+    },
+    {
+      "n": 4,
+      "title": "Terminal 4",
+      "summary": "Yara's POV. En route to Nairobi on forged papers, Yara spots surveillance that's too good—Nadia's team. Instead of aborting, Yara makes contact deliberately, gambling that an enemy who knows your face is safer than one who doesn't. Beat: reckless courage."
+    },
+    {
+      "n": 5,
+      "title": "Interrogation, Interrupted",
+      "summary": "Alternating POV. A safehouse interview turns adversarial, then collaborative when the server pushes its first payload: schematics of the Kibera water treatment plant and a countdown keyed to the summit. Beat: hostility cracking into wary alliance."
+    },
+    {
+      "n": 6,
+      "title": "Ghost Cell",
+      "summary": "Nadia's POV. Nadia reveals the server belonged to a deniable unit officially disbanded after a scandal—the same scandal Yara was scapegoated for. Someone inside kept it alive. Beat: vindication laced with fury; Yara realizes their disgrace was engineered."
+    },
+    {
+      "n": 7,
+      "title": "What the Water Remembers",
+      "summary": "Yara's POV. Fieldwork at the treatment plant under cover as an NGO auditor. Yara finds tampered SCADA firmware and a maintenance log signed by a dead man. Beat: creeping horror as the 'accident' takes shape."
+    },
+    {
+      "n": 8,
+      "title": "Three Names",
+      "summary": "Nadia's POV. Nadia digs into the dead engineer and finds he had three identities—all created by the same handler who once ran Yara. The pattern suggests the cell recruits people erased like Yara was. Beat: identification; Nadia sees how easily Yara could have been weaponized."
+    },
+    {
+      "n": 9,
+      "title": "The Handler's Apartment",
+      "summary": "Yara's POV. Yara breaks into the old handler's Lisbon flat and finds photos of themselves spanning years—surveillance that never stopped. Also finds a burner phone ringing. They answer. Beat: violation and defiance."
+    },
+    {
+      "n": 10,
+      "title": "An Offer of Belonging",
+      "summary": "Handler Voss's voice, then Yara's POV. Voss offers reinstatement, purpose, a family of the discarded—if Yara lets the attack proceed and looks away. He invokes everything Yara lost. Beat: temptation; the theme of belonging weaponized."
+    },
+    {
+      "n": 11,
+      "title": "Refusal",
+      "summary": "Yara tells Nadia everything, including the offer, expecting to be cuffed. Instead Nadia proposes using the channel to feed disinformation—but it requires trusting each other completely. First quiet moment of intimacy between them. Beat: trust as a deliberate act."
+    },
+    {
+      "n": 12,
+      "title": "Counterfeit Countdown",
+      "summary": "Alternating POV. The pair feeds Voss a falsified summit schedule through the burner, buying seventy-two hours while they hunt the physical trigger device. Tension mounts as Voss tests their story with a trap question. Beat: high-wire deception."
+    },
+    {
+      "n": 13,
+      "title": "Kilimanjaro Freight",
+      "summary": "Yara's POV. The trigger—weaponized chlorine canisters—travels inside humanitarian freight. Yara infiltrates the freight forwarder's depot and photographs manifests, barely escaping a sweep. Beat: adrenaline and competence reclaimed."
+    },
+    {
+      "n": 14,
+      "title": "Burn Notice",
+      "summary": "Nadia's POV. Voss retaliates: Nadia is suspended, her access revoked, framed for leaking. Her agency burns her publicly. Stripped of badge and duty, she must decide what she serves now. Beat: loss of identity mirroring Yara's arc."
+    },
+    {
+      "n": 15,
+      "title": "Two Ghosts",
+      "summary": "Both POVs interwoven. Off-grid in a safehouse, the two fugitives compare scars—literal and institutional—and admit what duty cost them. Love stops being subtext. Beat: tenderness amid danger; belonging chosen, not granted."
+    },
+    {
+      "n": 16,
+      "title": "The Insider",
+      "summary": "Yara's POV. Manifest analysis reveals the canisters need someone inside the plant's night shift. Yara identifies the recruit: a young technician with a scrubbed past, another erased person. Yara insists on turning him rather than neutralizing him. Beat: compassion as strategy."
+    },
+    {
+      "n": 17,
+      "title": "Recruiting the Recruited",
+      "summary": "Yara and the technician, Amos, meet in a churchyard. Yara shows him his own redacted file and offers the truth Voss never would. Amos wavers, terrified, then agrees to swap the canisters for inert shells. Beat: breaking the cycle of exploitation."
+    },
+    {
+      "n": 18,
+      "title": "Summit Eve",
+      "summary": "Nadia's POV. With hours left, Voss smells the trap and moves the timeline up. Amos goes dark. Nadia, unofficial and unarmed, leverages one loyal former colleague to get eyes inside the summit perimeter. Beat: clock running down, allies scarce."
+    },
+    {
+      "n": 19,
+      "title": "The Night Shift",
+      "summary": "Yara's POV. Climax begins: Yara enters the plant during the accelerated window, finds Amos held at gunpoint by Voss's enforcer, and talks the enforcer down with evidence that Voss plans to erase him too. Standoff resolves without bloodshed—for now. Beat: words as weapons."
+    },
+    {
+      "n": 20,
+      "title": "Asset and Ghost",
+      "summary": "Climax. Voss triggers a manual override remotely; Yara physically severs the uplink while Nadia confronts Voss via the open channel, baiting him into confirming details on record. The attack fails silently—no explosion, no headline. Voss flees. Beat: triumph that costs Yara their anonymity; their face is now on camera."
+    },
+    {
+      "n": 21,
+      "title": "Testimony",
+      "summary": "Both POVs. Yara testifies before a review board under their real name, dismantling the scandal that destroyed them and exposing Voss's network. Some agencies apologize; none offer a job. Yara declines anyway. Beat: reclamation of identity on their own terms."
+    },
+    {
+      "n": 22,
+      "title": "Unpacked",
+      "summary": "Yara's POV, epilogue. Months later in Lisbon, the go-bag sits unpacked in a closet. Nadia's toothbrush is by the sink. A postcard arrives with no return address—Voss is still out there—but Yara sleeps soundly. Beat: peace earned, vigilance retained, belonging finally home."
+    }
+  ]
+}

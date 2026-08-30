@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08103",
+  "title": "Ansel and the Vector",
+  "author": "August Thornbury",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Felix Ishikawa, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. But when gravity flickers across the entire system for exactly nine seconds, she discovers that staying invisible was never really an option. To get through this, she must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8103
+  }
+}

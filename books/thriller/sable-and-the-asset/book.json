@@ -1,0 +1,21 @@
+{
+  "id": "THR-09283",
+  "title": "Sable and the Asset",
+  "author": "Hazel Vasquez",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Edmund Yarrow, a private security contractor guarding clients nobody trusts, has spent three years following rules that keep getting rewritten. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9283
+  }
+}

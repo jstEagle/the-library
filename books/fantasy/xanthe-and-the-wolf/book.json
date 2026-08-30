@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02070",
+  "title": "Xanthe and the Wolf",
+  "author": "Casper Yarrow",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Elodie Eriksen, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the usurper's armies reach the free cities.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2070
+  }
+}

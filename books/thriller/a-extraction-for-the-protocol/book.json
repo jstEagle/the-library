@@ -1,0 +1,21 @@
+{
+  "id": "THR-08677",
+  "title": "A Extraction for the Protocol",
+  "author": "Ivo Quintana",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Rafael Ishikawa, a burnt analyst bounced from three agencies, hasn't slept through the night since the incident. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8677
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03523",
+  "title": "When the Well Falls",
+  "author": "Juniper Ashgrove",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Theo Ravensworth, a property surveyor appraising a house that appraises back, has spent five years telling themselves the noises have explanations. Then the sleep recordings capture a second voice answering questions — and he is pulled straight into the middle of it. Now he must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3523
+  }
+}

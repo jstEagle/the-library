@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07636",
+  "title": "Protocol and Archive",
+  "author": "Hazel Nystrom",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Mara Yarrow, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7636
+  }
+}

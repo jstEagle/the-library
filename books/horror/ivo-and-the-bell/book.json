@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03876",
+  "title": "Ivo and the Bell",
+  "author": "Marguerite Nystrom",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Mara Vane, a radio host taking calls from listeners who died last week, has spent seven years telling themselves the noises have explanations. But when the childhood imaginary friend is waiting on the porch, unchanged, he discovers that staying invisible was never really an option. To get through this, he must get the family out ahead of the count before the frost writes its final pattern.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3876
+  }
+}

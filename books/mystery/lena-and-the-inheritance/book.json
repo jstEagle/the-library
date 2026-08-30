@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05283",
+  "title": "Lena and the Inheritance",
+  "author": "X. M. Okonkwo",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Ada Thornbury, a night-shift dispatcher for a taxi company, has spent ten years keeping the town's secrets filed and alphabetized. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5283
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06282",
+  "title": "Freya and the Promise",
+  "author": "Tamsin Iversen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Hazel Almeida, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, they discover that staying invisible was never really an option. To get through this, they must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6282
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02775",
+  "title": "A Lantern for the Letter",
+  "author": "Odile Dravenmoor",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Marguerite Sandoval, a widowed lighthouse keeper during the year of the great storms, believes history happens to other people, elsewhere. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the century turns.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2775
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08582",
+  "title": "Border and Cover",
+  "author": "Ansel Marchetti",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Freya Quintana, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. To get through this, they must burn the network that did the training before the summit convenes.",
+  "themes": [
+    "belonging",
+    "identity",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8582
+  }
+}

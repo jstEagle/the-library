@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03839",
+  "title": "Portrait and Hymn",
+  "author": "Zephyrine Yarrow",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Emrys Villalobos, an urban explorer mapping tunnels that aren't on any survey, keeps the lights on and the doors counted. But when the village's church bell rings although the bell was melted down in 1911, he discovers that staying invisible was never really an option. To get through this, he must learn the song's last verse without singing along before the last resident signs the papers.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3839
+  }
+}

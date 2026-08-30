@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05637",
+  "title": "Jonah and the Witness",
+  "author": "Gideon Blackwood",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Lena Underhill, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. Then a client pays in advance to prove a murder hasn't happened — yet — and they are pulled straight into the middle of it. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5637
+  }
+}

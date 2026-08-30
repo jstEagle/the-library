@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02278",
+  "title": "the Weeping Wood Rising Revisited",
+  "author": "Zephyrine Iversen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Jude Quintana, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2278
+  }
+}

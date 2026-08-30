@@ -1,0 +1,21 @@
+{
+  "id": "THR-09167",
+  "title": "Vesper and the Cover",
+  "author": "Lena Winterbourne",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Paloma Blackwood, a crash investigator whose family died in row twelve, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. To get through this, he must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9167
+  }
+}

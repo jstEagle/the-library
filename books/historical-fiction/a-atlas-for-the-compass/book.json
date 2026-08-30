@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02388",
+  "title": "A Atlas for the Compass",
+  "author": "Isandro Crane",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Sebastian Montrose, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent three years learning which silences keep people safe. Then a child is left at the door with instructions to forget the face — and he is pulled straight into the middle of it. Now he must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2388
+  }
+}

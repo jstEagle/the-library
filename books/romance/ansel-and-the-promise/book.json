@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06126",
+  "title": "Ansel and the Promise",
+  "author": "Jonah Delacroix",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Freya Nystrom, a single parent running the town's only bookshop, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6126
+  }
+}

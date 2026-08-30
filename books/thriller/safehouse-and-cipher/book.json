@@ -1,0 +1,21 @@
+{
+  "id": "THR-08976",
+  "title": "Safehouse and Cipher",
+  "author": "Rosalind Underhill",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Rafael Marchetti, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. Then the safe house is listed for sale — with photos of the inside — and they are pulled straight into the middle of it. Now they must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8976
+  }
+}

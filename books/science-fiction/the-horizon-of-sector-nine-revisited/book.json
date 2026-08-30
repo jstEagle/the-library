@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08037",
+  "title": "The Horizon of Sector Nine Revisited",
+  "author": "Petra Voss",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ansel Pemberton, a pilot bonded to an AI that lies, has spent twenty years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8037
+  }
+}

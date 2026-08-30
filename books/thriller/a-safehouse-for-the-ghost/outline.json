@@ -1,0 +1,209 @@
+{
+  "title": "A Safehouse for the Ghost",
+  "slug": "thriller/a-safehouse-for-the-ghost",
+  "model": "stealth/ox-alpha",
+  "premise": "Mirabel Galloway has spent six years as a crash investigator quietly burying the truth that the accident which killed their family in row twelve was never investigated at all—officially, it never happened. When an anonymous voiceprint unlocks a black-site server in Lisbon, Mirabel discovers the same signature that erased their family's flight is being prepped for a new 'accident' scheduled to kill a whistleblower delegation in nine days. Forced to ally with a burned intelligence handler, a grieving air traffic controller, and the whistleblower's estranged daughter, Mirabel must decide whether exposing the full truth—including their own family's role in the original cover-up—is worth burning the only people who have ever felt like home. In the end, Mirabel stops the attack by letting the 'accident' happen on their terms, a controlled crash with no one aboard, trading their career and anonymity for a found family that finally knows everything.",
+  "about_author": "Ines Sterling is a former aviation safety analyst who spent a decade reading black-box transcripts before turning to fiction. They write thrillers about the paperwork of catastrophe and the people who refuse to sign it.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Mirabel's POV. Opening on a routine crash-site inspection in Manitoba, Mirabel flashes back to the empty seat assignments of flight 4471, where their family died in row twelve. The emotional beat is controlled grief disguised as professionalism—until Mirabel notices the incident file has been scrubbed of the flight number entirely."
+    },
+    {
+      "n": 2,
+      "title": "The Voiceprint",
+      "summary": "Mirabel's POV. An encrypted package arrives with no sender: a nine-second audio clip that, when played, unlocks a server in Lisbon using a voiceprint Mirabel recognizes as their own, aged six years. The beat is vertigo—someone has been keeping a copy of Mirabel's voice, and it opens doors they never built."
+    },
+    {
+      "n": 3,
+      "title": "Files That Don't Exist",
+      "summary": "Mirabel's POV. Inside the server: maintenance logs, pilot medical records, and a deletion order for flight 4471, signed with a cipher Mirabel's late mother used in her civil service work. The beat is the floor dropping out—family loyalty and truth collide in a single signature."
+    },
+    {
+      "n": 4,
+      "title": "Nine Days",
+      "summary": "Handler's POV. In Lisbon, burned intelligence handler Tomás Requejo discovers the same server and a countdown: a staged 'accident' targeting a whistleblower delegation, nine days out. He traces the voiceprint to Canada. The beat is cold professional dread—he knows what happens to people who find this file."
+    },
+    {
+      "n": 5,
+      "title": "The Man at Gate B",
+      "summary": "Mirabel's POV. Tomás arrives unannounced at Mirabel's airport office, offering proof of who scrubbed flight 4471 in exchange for help stopping the new attack. Mirabel refuses, then finds their security clearance revoked an hour later. The beat is a trap closing from both directions."
+    },
+    {
+      "n": 6,
+      "title": "What the Controller Saw",
+      "summary": "New POV: Dana Okafor, an air traffic controller placed on indefinite leave after reporting an impossible radar ghost the night 4471 went down. She has kept her recordings. The beat is two strangers recognizing the same scar—Dana agrees to meet Mirabel."
+    },
+    {
+      "n": 7,
+      "title": "Basement Tapes",
+      "summary": "Mirabel and Dana's alternating POV. In Dana's basement, they listen to the radar ghost: a transponder signal that shouldn't exist, matching the one in the Lisbon files. The beat is validation turning to terror—the technology from 4471 is being reused, and it's better now."
+    },
+    {
+      "n": 8,
+      "title": "The Whistleblower's Daughter",
+      "summary": "Tomás's POV. He locates Amara Voss, estranged daughter of delegation whistleblower Henrik Voss, who hasn't spoken to her father in five years. He needs her access to the delegation's travel manifest. The beat is reluctant recruitment—Amara agrees only to prove her father wrong about something."
+    },
+    {
+      "n": 9,
+      "title": "Four Strangers, One Flight Plan",
+      "summary": "Mirabel's POV. The four convene in a Montreal motel, pooling evidence into a single timeline: the attack is scheduled as a midair 'fuel anomaly' over the Atlantic. The beat is fragile found family forming—bickering, takeout containers, the first time Mirabel has eaten dinner with anyone in years."
+    },
+    {
+      "n": 10,
+      "title": "Cipher of a Dead Woman",
+      "summary": "Mirabel's POV. Mirabel cracks the mother's cipher and finds her private logs: she discovered the program years ago and was silenced, and the flight 4471 deletion was punishment aimed at her—Mirabel's family were collateral in a message. The beat is grief re-forged into purpose."
+    },
+    {
+      "n": 11,
+      "title": "Someone Is Reading Us",
+      "summary": "Dana's POV. Dana notices motel Wi-Fi traffic patterns that mirror the Lisbon server's fingerprint. Someone is inside their network, watching. The beat is paranoia tightening—the team realizes their nine days may already be someone else's countdown too."
+    },
+    {
+      "n": 12,
+      "title": "The Safehouse",
+      "summary": "Tomás's POV. Tomás burns his last favor to secure a decommissioned signal station on the Nova Scotia coast—a safehouse with old listening equipment. The beat is uneasy sanctuary: safety that feels like a trap, walls lined with other people's secrets."
+    },
+    {
+      "n": 13,
+      "title": "Amara's Manifest",
+      "summary": "Amara's POV. Amara pulls the delegation's real flight plan from her father's old credentials and discovers the attack targets not the plane but the air corridor—a deliberate near-miss designed to trigger an international incident. The beat is disillusionment: her father knew and told her nothing."
+    },
+    {
+      "n": 14,
+      "title": "Ghost Signal",
+      "summary": "Dana's POV. Dana recreates the radar ghost in simulation and identifies the spoofing hardware: a portable unit that must be within forty miles of the target corridor. The beat is a hunt with a shape at last—find the box, find the plan."
+    },
+    {
+      "n": 15,
+      "title": "The Man Who Signed Nothing",
+      "summary": "Mirabel's POV. Mirabel tracks the deletion order's approval chain to a mid-level bureaucrat, Alden Marsh, who has signed nothing in eleven years—everything routed through proxies. The beat is the enemy acquiring a face: bland, invisible, and utterly protected."
+    },
+    {
+      "n": 16,
+      "title": "Contact",
+      "summary": "Tomás's POV. Tomás risks a dead-drop approach to an old colleague inside the program and gets a partial answer: the operation is called LANTERN FALL, and it has a contingency for 'investigator interference.' The beat is the noose—Tomás realizes the contingency is already in motion."
+    },
+    {
+      "n": 17,
+      "title": "Burn Notice",
+      "summary": "Mirabel's POV. Mirabel's apartment is ransacked; their mother's cipher notebook is gone. The team concludes there's a leak—but the only person who knew the notebook existed is one of them. The beat is trust fracturing at the worst possible hour."
+    },
+    {
+      "n": 18,
+      "title": "Amara's Choice",
+      "summary": "Amara's POV. Amara confronts the suspicion falling on her and instead finds evidence the leak is Tomás—his old handler codes appear in the intrusion logs. She must decide whether to tell the others. The beat is loyalty versus evidence, and she chooses loyalty, hiding it."
+    },
+    {
+      "n": 19,
+      "title": "Six Days",
+      "summary": "Mirabel's POV. With the notebook gone, Mirabel reconstructs the cipher from memory under pressure, racing a deadline that keeps moving. The beat is quiet endurance—Mirabel's crash-investigator discipline becomes the team's spine."
+    },
+    {
+      "n": 20,
+      "title": "The Corridor",
+      "summary": "Dana's POV. Dana narrows the spoofing hardware's placement to three coastal airfields. The team splits up to scout them. The beat is dread in wide-open spaces—each airfield is emptier than it should be, as if cleared in advance."
+    },
+    {
+      "n": 21,
+      "title": "Ambush at the Hangar",
+      "summary": "Tomás's POV. At the second airfield, Tomás walks into a staged ambush meant to capture, not kill—confirming someone wants them alive and talking. He escapes with a partial serial number from the spoofing unit. The beat is survival and the sick certainty that the enemy is choreographing them."
+    },
+    {
+      "n": 22,
+      "title": "The Leak Revealed",
+      "summary": "Mirabel's POV. Mirabel re-examines the intrusion logs and finds what Amara hid: the handler codes were forged, planted to frame Tomás. The real leak is a monitoring beacon in the safehouse's vintage radio. The beat is relief and shame in equal measure—Amara's lie nearly destroyed them."
+    },
+    {
+      "n": 23,
+      "title": "Confrontation in the Kitchen",
+      "summary": "Amara and Mirabel's alternating POV. Amara confesses why she hid it—she was terrified of being wrong and losing the first people who treated her like family. Mirabel forgives her, then admits their own secret: the family connection to the original cover-up. The beat is the found family's first real honesty."
+    },
+    {
+      "n": 24,
+      "title": "Four Days",
+      "summary": "Tomás's POV. The serial number traces to a shell company whose director is Alden Marsh's proxy. Tomás maps the full operation: the spoofing unit, a chartered 'empty' aircraft, and a kill switch on the delegation's real flight. The beat is the whole machine becoming visible—four days to dismantle it."
+    },
+    {
+      "n": 25,
+      "title": "What Mirabel's Mother Knew",
+      "summary": "Mirabel's POV. Reconstructing the cipher from memory, Mirabel recovers the final entry: the program's master authorization key, and proof the mother hid it inside the voiceprint itself. The beat is a message across death—her last act was leaving Mirabel the key."
+    },
+    {
+      "n": 26,
+      "title": "The Key and the Price",
+      "summary": "Mirabel's POV. Using the key means broadcasting Mirabel's own voiceprint on open channels, permanently exposing them to the program. The team argues: Tomás says use it, Dana says find another way, Amara says it's Mirabel's choice. The beat is the theme made explicit—truth at the cost of self."
+    },
+    {
+      "n": 27,
+      "title": "Three Days",
+      "summary": "Dana's POV. Dana identifies the exact spoof window: a ninety-second gap in corridor coverage. If they can occupy the chartered aircraft with a transponder matching the delegation's, the attack will 'hit' an empty plane. The beat is a plan with no margin—everything depends on flying a ghost."
+    },
+    {
+      "n": 28,
+      "title": "Recruiting a Pilot",
+      "summary": "Amara's POV. Amara leverages her father one last time, calling him directly. He doesn't believe her—until she reads him his own hidden contingency file. He gives her the charter access codes and, for the first time in five years, says he's proud of her. The beat is reconciliation bought with proof."
+    },
+    {
+      "n": 29,
+      "title": "Marsh",
+      "summary": "Tomás's POV. Tomás confronts Alden Marsh in a government parking garage, recording everything. Marsh is unafraid: 'Accidents are the most honest thing we do.' Tomás walks away with the recording and a tail he can't shake. The beat is the villain's banal, chilling certainty."
+    },
+    {
+      "n": 30,
+      "title": "The Tail",
+      "summary": "Mirabel's POV. The team realizes the tail on Tomás means the safehouse's location is compromised. They evacuate in ninety minutes, scattering evidence across three vehicles. The beat is a family moving as one unit for the first time—drilled, wordless, trusting."
+    },
+    {
+      "n": 31,
+      "title": "Two Days",
+      "summary": "Mirabel's POV. Regrouping in a fishing cabin, they finalize the ghost-flight plan: Dana will spoof from the ground, Amara will fly the charter, Tomás will trigger the kill switch remotely, and Mirabel will broadcast the key. The beat is the calm before—each person privately writing the words they'd regret not saying."
+    },
+    {
+      "n": 32,
+      "title": "Dana's Window",
+      "summary": "Dana's POV. Dana pre-positions at a coastal radar annex and must quietly disable two colleagues' access without raising alarms. The beat is a decent person committing small betrayals for a large truth, hating every keystroke."
+    },
+    {
+      "n": 33,
+      "title": "Amara Pre-Flight",
+      "summary": "Amara's POV. Alone on the charter, Amara runs pre-flight checks on an aircraft meant to die. She records a message for her father. The beat is courage as solitude—she chose the empty plane, and the empty plane is listening."
+    },
+    {
+      "n": 34,
+      "title": "One Day: The Broadcast",
+      "summary": "Mirabel's POV. Mirabel broadcasts the master key in their own voice across the program's channels, burning their identity forever. Within minutes, LANTERN FALL begins to unravel—and Marsh's people begin hunting the voice. The beat is liberation and exposure at once; there is no going back."
+    },
+    {
+      "n": 35,
+      "title": "Lantern Fall",
+      "summary": "Tomás's POV. The kill switch fails—Marsh anticipated it. The attack proceeds manually, and the spoof window opens with the delegation's real flight ninety seconds from the corridor. Tomás does the only thing left: he walks into the radar annex behind Marsh's operator. The beat is sacrifice in motion."
+    },
+    {
+      "n": 36,
+      "title": "Ninety Seconds",
+      "summary": "Mirabel, Dana, and Amara's rapid alternating POV. Amara flies the charter into the corridor; Dana spoofs the delegation's transponder onto it; the 'accident' triggers—on an empty plane. Tomás disables the operator as the spoofed signal dies. The beat is the climax: the crash that was scheduled happens, and no one is in row twelve."
+    },
+    {
+      "n": 37,
+      "title": "The Recording",
+      "summary": "Tomás's POV. In the aftermath, Tomás releases the parking-garage recording and the Lisbon files to three newsrooms simultaneously. Marsh is arrested within the day; the program's proxies collapse. The beat is vindication that feels strangely quiet—truth landed, and the world barely flinched."
+    },
+    {
+      "n": 38,
+      "title": "What the Inquiry Found",
+      "summary": "Mirabel's POV. Months later, a public inquiry restores flight 4471 to the record and names Mirabel's mother as the first whistleblower. Mirabel testifies, voice shaking, and reads the row twelve manifest aloud. The beat is grief finally given a public home."
+    },
+    {
+      "n": 39,
+      "title": "A Table for Four",
+      "summary": "Mirabel, Dana, Amara, and Tomás's rotating POV, one paragraph each. The four share a slow dinner in Nova Scotia—no case, no countdown, no aliases. Each admits what the others became for them. The beat is belonging earned, not granted: the found family, whole and unhidden."
+    },
+    {
+      "n": 40,
+      "title": "The Voice in the Server",
+      "summary": "Mirabel's POV, epilogue. A final encrypted package arrives: a nine-second clip of Mirabel's own voice, but this time Mirabel recorded it—leaving a key of their own for whoever comes next, and a note: 'You are not alone. Check row twelve.' The beat is the cycle turned generous—the safehouse now has an open door."
+    }
+  ]
+}

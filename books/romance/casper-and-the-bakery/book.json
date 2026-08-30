@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06951",
+  "title": "Casper and the Bakery",
+  "author": "Lena Joubert",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Wendell Montrose, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. But when the person behind a decade of letters moves in next door, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6951
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07581",
+  "title": "Hazel and the Echo",
+  "author": "Isandro Ashgrove",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Sable Eriksen, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. To get through this, she must prove a massacre happened when every record says otherwise before the fleet's truce expires.",
+  "themes": [
+    "memory",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7581
+  }
+}

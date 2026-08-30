@@ -1,0 +1,29 @@
+{
+  "title": "The Quiet Wardrobe",
+  "slug": "literary-fiction/the-quiet-wardrobe",
+  "model": "stealth/ox-alpha",
+  "premise": "After his mother's funeral, Isandro Almeida returns to the family house to catalog its contents for sale, treating grief as an inventory problem. A stranger at the funeral calls the family by 'Almeida do Armário'—a name tied to a locked wardrobe and a sentence his mother wrote in a language he can't read, hidden inside it. Opening the wardrobe forces Isandro to confront what his mother's silence protected: her complicity, as executor of her own father's estate, in dispossessing their servants of the very house he now stands in. He ends by translating the sentence—'What we kept, we stole'—and, instead of selling, transfers the house to the descendants of the family it was taken from, finally becoming a tenant of his own inheritance.",
+  "about_author": "Silas Joubert is a former archivist from Porto who spent a decade cataloging the estates of families who preferred their pasts unlabeled. The Quiet Wardrobe is his second novel, written in the margins of other people's inventories.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Inventory of Silence",
+      "summary": "In Isandro's close third-person POV, he returns to the house after the funeral, methodically cataloging rooms for the estate sale while avoiding the locked wardrobe in his mother's study. He narrates his grief as a tenant would: noting fixtures, not memories. The emotional beat is numb avoidance—grief deferred into paperwork, the house already feeling like property rather than home."
+    },
+    {
+      "n": 2,
+      "title": "The Name Nobody Uses",
+      "summary": "Still Isandro's POV. At the post-funeral gathering, an elderly stranger, Beatriz, calls the family 'Almeida do Armário'—the wardrobe name—and leaves before he can question her. Searching his mother's papers, Isandro finds a handwritten sentence in an old dialect and a key taped beneath a drawer. The emotional beat shifts from avoidance to unease: the house has begun speaking."
+    },
+    {
+      "n": 3,
+      "title": "What the Wardrobe Kept",
+      "summary": "Isandro opens the wardrobe and finds letters, a servant family's confiscated deeds, and his mother's unsent confession naming her own father's theft—and her silence as its continuation. Beatriz, revealed as the daughter of the dispossessed housekeeper, helps him begin translating the sentence. The emotional beat is vertigo: inheritance inverted into debt, and Isandro realizing the sale would complete the theft."
+    },
+    {
+      "n": 4,
+      "title": "The Tenant",
+      "summary": "As the buyer's deadline arrives, Isandro finishes the translation—'What we kept, we stole'—and must choose between closing the sale or breaking his mother's final silence publicly. In the climax, he reads her confession aloud at the house and signs it over to Beatriz's family, keeping only a tenant's room. The emotional beat is release: grief finally inhabited, not inventoried."
+    }
+  ]
+}

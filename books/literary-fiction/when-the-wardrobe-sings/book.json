@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04406",
+  "title": "When the Wardrobe Sings",
+  "author": "Marguerite Eriksen",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Xanthe Halloran, a restaurant critic who has forgotten how food tastes, has spent twelve years practicing the art of almost saying it. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. Now they must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4406
+  }
+}

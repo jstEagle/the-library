@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01353",
+  "title": "A Hollow for the Sigil",
+  "author": "Cyrus Zhou",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ada Ashgrove, the youngest member of a dying guild, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. To get through this, they must unbind a king from the thing wearing his crown before the long winter finishes falling.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1353
+  }
+}

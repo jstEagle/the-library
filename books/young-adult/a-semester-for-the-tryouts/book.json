@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09714",
+  "title": "A Semester for the Tryouts",
+  "author": "Noor Thackeray",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Emrys Winterbourne, a baker's kid who bakes feelings into bread, has spent fifteen years being so careful it hurts. But when the college essay prompt asks one honest question nobody can stop answering, he discovers that staying invisible was never really an option. Now he must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9714
+  }
+}

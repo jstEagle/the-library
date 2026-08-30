@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04491",
+  "title": "When the Language Wakes",
+  "author": "Wren Eriksen",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Casper Hartwell, an heir cataloging a parent's silence after the funeral, has perfected the smile that ends conversations. Then the last speaker of a language asks for one final student — and they are pulled straight into the middle of it. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4491
+  }
+}

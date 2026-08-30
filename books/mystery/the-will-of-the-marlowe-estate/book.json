@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04897",
+  "title": "The Will of the Marlowe Estate",
+  "author": "S. M. Thornbury",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Odile Halloran, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, she discovers that staying invisible was never really an option. To get through this, she must decode a ledger hidden in plain sight before the statute expires.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4897
+  }
+}

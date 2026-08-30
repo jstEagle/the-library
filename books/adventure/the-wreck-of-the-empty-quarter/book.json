@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00283",
+  "title": "The Wreck of the Empty Quarter",
+  "author": "Mirabel Pemberton",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Vesper Ravensworth, a railroad engineer with a map of closed lines, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, he discovers that staying invisible was never really an option. To get through this, he must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 283
+  }
+}

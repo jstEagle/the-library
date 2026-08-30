@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06904",
+  "title": "Maple Hollow Rising Revisited",
+  "author": "L. M. Sterling",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Dominic Okonkwo, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6904
+  }
+}

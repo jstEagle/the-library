@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05463",
+  "title": "When the Alibi Falls",
+  "author": "Beatrix Almeida",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Bram Dravenmoor, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5463
+  }
+}

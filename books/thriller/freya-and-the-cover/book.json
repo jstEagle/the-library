@@ -1,0 +1,21 @@
+{
+  "id": "THR-09085",
+  "title": "Freya and the Cover",
+  "author": "Tamsin Eastwick",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Silas Iversen, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "memory",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9085
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07358",
+  "title": "Emrys and the Machine",
+  "author": "Odile Pemberton",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Silas Marchetti, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. To get through this, they must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7358
+  }
+}

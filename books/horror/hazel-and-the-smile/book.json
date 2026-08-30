@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03844",
+  "title": "Hazel and the Smile",
+  "author": "Silas Crane",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Oscar Ashgrove, a pest controller called to something with fingerprints, keeps the lights on and the doors counted. Then the excavation crew unearths a door, sealed from the inside — and he is pulled straight into the middle of it. To get through this, he must learn the song's last verse without singing along before the harvest moon rises.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3844
+  }
+}

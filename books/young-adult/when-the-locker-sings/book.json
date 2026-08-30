@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09798",
+  "title": "When the Locker Sings",
+  "author": "G. M. Villalobos",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Mara Quintana, a debate champion who can't win the argument at home, has spent five years being so careful it hurts. But when grandma's recipe box contains directions that aren't for food, she discovers that staying invisible was never really an option. To get through this, she must expose what the school board buried before graduation.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9798
+  }
+}

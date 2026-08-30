@@ -1,0 +1,21 @@
+{
+  "id": "THR-08838",
+  "title": "Tamsin and the Border",
+  "author": "Tamsin Quintana",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Cyrus Marchetti, a burnt analyst bounced from three agencies, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. To get through this, she must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8838
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04332",
+  "title": "The Small Undertow",
+  "author": "Ansel Okafor",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Silas Nystrom, a night librarian in a city that sleeps less every year, moves through the days like a tenant, not an owner. But when a childhood home goes up for auction, she discovers that staying invisible was never really an option. To get through this, she must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "memory",
+    "identity",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4332
+  }
+}

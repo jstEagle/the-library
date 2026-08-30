@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00681",
+  "title": "When the Compass Turns",
+  "author": "Juniper Iversen",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Felix Nakamura, an archaeologist's estranged child and better digger, has spent twenty years measuring life in miles rather than years. But when a government survey team vanishes, leaving gear and no tracks, he discovers that staying invisible was never really an option. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 681
+  }
+}

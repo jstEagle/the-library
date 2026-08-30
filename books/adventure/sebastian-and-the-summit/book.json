@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00387",
+  "title": "Sebastian and the Summit",
+  "author": "Marguerite Yarrow",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Isandro Vane, a railroad engineer with a map of closed lines, keeps moving because stopping costs more. But when a government survey team vanishes, leaving gear and no tracks, they discover that staying invisible was never really an option. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 387
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07243",
+  "title": "Signal and Protocol",
+  "author": "O. M. Galloway",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Tamsin Marchetti, a xenolinguist who can no longer dream in human languages, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. To get through this, he must deliver a message that will end the war — or start it before the fleet's truce expires.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7243
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01500",
+  "title": "Sebastian and the Salt",
+  "author": "Emrys Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Hazel Voss, the last oath-bound swordspeaker, has spent three years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1500
+  }
+}

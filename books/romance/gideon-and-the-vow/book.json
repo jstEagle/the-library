@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06190",
+  "title": "Gideon and the Vow",
+  "author": "Mirabel Crane",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Freya Villalobos, a marine biologist counting turtles instead of heartbreaks, has spent five years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6190
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02398",
+  "title": "The Winter Lantern",
+  "author": "M. M. Voss",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ines Whitlock, a typeface cutter's daughter in a print shop on the eve of a revolution, keeps a low profile and busy hands. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. To get through this, he must smuggle the evidence past three checkpoints before the ice breaks on the river.",
+  "themes": [
+    "identity",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2398
+  }
+}

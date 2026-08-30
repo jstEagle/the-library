@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00672",
+  "title": "Lior and the Horizon",
+  "author": "Paloma Amberdale",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Gideon Reyes, an archaeologist's estranged child and better digger, keeps moving because stopping costs more. Then an expedition upriver stops answering the radio — and they are pulled straight into the middle of it. To get through this, they must cross the range ahead of the snows before the dry season ends.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 672
+  }
+}

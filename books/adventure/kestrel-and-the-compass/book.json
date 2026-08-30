@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00296",
+  "title": "Kestrel and the Compass",
+  "author": "Tamsin Nystrom",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Sterling, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. Then an old rival hires the crew for the one job that was sworn off long ago — and she is pulled straight into the middle of it. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 296
+  }
+}

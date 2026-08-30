@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04943",
+  "title": "Confession and Alibi",
+  "author": "Sebastian Dravenmoor",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Rafael Amberdale, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the statute expires.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4943
+  }
+}

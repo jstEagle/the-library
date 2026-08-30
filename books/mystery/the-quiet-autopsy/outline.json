@@ -1,0 +1,29 @@
+{
+  "title": "The Quiet Autopsy",
+  "slug": "mystery/the-quiet-autopsy",
+  "model": "stealth/ox-alpha",
+  "premise": "True-crime podcaster Sebastian Eriksen receives a confession letter for the 1994 disappearance of a girl named Wren Halloway — postmarked the day after the sender's funeral, and naming Sebastian's own late mother as an accomplice. Digging into alibis woven three decades ago, he discovers his mother helped hide not a murder but a living girl fleeing an abusive home, and that 'Wren' has been hiding in plain sight as the small town's beloved librarian. When the letter's true author — the girl's now-dying brother — tries to silence her before her story can be told, Sebastian must choose between closing his perfect record and protecting the found family his mother built in secret.",
+  "about_author": "Elodie Nystrom is a former archivist who spent a decade cataloguing unsolved-case files before turning to fiction. She writes mysteries about the stories families refuse to tell, from a farmhouse office full of other people's letters.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Postmarked Grief",
+      "summary": "Sebastian's POV. A confession letter arrives for a case older than his career, naming his dead mother as accomplice to the 1994 Halloway disappearance. Shaken and defensive of her memory, he travels to the fog-bound coastal town of Aldermoor, where the funeral was held — and finds the confessor's grave already visited by someone leaving fresh lilies. Emotional beat: grief curdling into obsession."
+    },
+    {
+      "n": 2,
+      "title": "Thirty Years of Alibis",
+      "summary": "Alternating Sebastian's investigation with fragments of his mother's 1994 diary. Every townsperson's alibi is airtight because they were all covering something smaller: affairs, debts, shame. The librarian, Maren Voss, keeps redirecting him with unsettling precision. He discovers his mother's car logged at the Halloway house the night Wren vanished. Emotional beat: the ground shifting under everything he believed about his mother."
+    },
+    {
+      "n": 3,
+      "title": "The Living Girl",
+      "summary": "Sebastian confronts Maren and uncovers the truth: she is Wren, alive, hidden by his mother after fleeing a violent father whom the town chose to protect. But the confession letter wasn't written by the dead man — his brother Tomas forged it, dying and bitter, to drag the past into the light on his own terms. When Maren disappears, Sebastian realizes Tomas means to finish what he started. Emotional beat: horror reframed as tenderness, then terror."
+    },
+    {
+      "n": 4,
+      "title": "What the Tide Keeps",
+      "summary": "Climax at the sea caves where Wren was meant to die thirty years ago; Tomas, weakened and desperate, wants a confession that makes him innocent of complicity. Sebastian talks him down not with evidence but with the truth of the family his mother built — then chooses to bury the case publicly, ending his podcast's perfect streak. Resolution: Maren tells her story on her own terms, and Sebastian inherits a sister instead of a solved case. Emotional beat: release."
+    }
+  ]
+}

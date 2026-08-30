@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06259",
+  "title": "Bakery and Harbor",
+  "author": "Noor Lockridge",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Hazel Lockridge, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6259
+  }
+}

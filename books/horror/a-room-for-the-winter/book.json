@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03188",
+  "title": "A Room for the Winter",
+  "author": "Ada Zhou",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.6,
+  "blurb": "Coral Ravensworth, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. Then every mirror in the house starts reflecting the room one second late — and he is pulled straight into the middle of it. Now he must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3188
+  }
+}

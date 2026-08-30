@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01490",
+  "title": "Ulyana and the Garden",
+  "author": "Zephyrine Nakamura",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Yara Reyes, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, he discovers that staying invisible was never really an option. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1490
+  }
+}

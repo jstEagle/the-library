@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07890",
+  "title": "Mirabel and the Gravity",
+  "author": "Felix Nystrom",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mara Vane, a terraformer tending a garden meant for people not yet born, has spent twelve years hauling cargo through contested orbits. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7890
+  }
+}

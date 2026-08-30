@@ -1,0 +1,21 @@
+{
+  "id": "THR-08512",
+  "title": "The Ghost of Kowloon",
+  "author": "Dominic Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Dominic Whitlock, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8512
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03637",
+  "title": "The Hymn of the Bell House",
+  "author": "Lior Delacroix",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Noor Marchetti, a twin who came home to bury the wrong sibling, has spent seven years telling themselves the noises have explanations. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3637
+  }
+}

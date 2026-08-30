@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06666",
+  "title": "Casper and the Letters",
+  "author": "Lior Zhou",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Edmund Quintana, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6666
+  }
+}

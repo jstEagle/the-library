@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08365",
+  "title": "A Static for the Gravity Anew",
+  "author": "Ivo Eriksen",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Wren Nystrom, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. Now he must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8365
+  }
+}

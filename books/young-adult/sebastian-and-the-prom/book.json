@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09866",
+  "title": "Sebastian and the Prom",
+  "author": "Mirabel Delacroix",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Beatrix Oyelaran, the new kid at a school built over something old, is fine. Everything is fine. Obviously.. Then the teacher pairs nemesis with nemesis for a semester-long project — and they are pulled straight into the middle of it. To get through this, they must win the championship that doesn't matter — and the one that does before the final audition.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9866
+  }
+}

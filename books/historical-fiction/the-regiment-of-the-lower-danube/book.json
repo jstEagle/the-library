@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02321",
+  "title": "The Regiment of the Lower Danube",
+  "author": "Mara Crane",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Beatrix Iversen, a suffragist's driver who reads every letter before delivering it, has spent five years learning which silences keep people safe. But when a child is left at the door with instructions to forget the face, he discovers that staying invisible was never really an option. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the ice breaks on the river.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2321
+  }
+}

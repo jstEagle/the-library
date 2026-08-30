@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08165",
+  "title": "The Quiet Gravity Again",
+  "author": "Wendell Zhou",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Beatrix Crane, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. But when gravity flickers across the entire system for exactly nine seconds, she discovers that staying invisible was never really an option. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8165
+  }
+}

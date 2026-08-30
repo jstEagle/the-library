@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00205",
+  "title": "The Uncharted Escarpment",
+  "author": "Wendell Joubert",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Sable Marchetti, a railroad engineer with a map of closed lines, has spent twelve years measuring life in miles rather than years. Then the tide reveals a cave that legends charge admission to — and he is pulled straight into the middle of it. To get through this, he must cross the range ahead of the snows before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 205
+  }
+}

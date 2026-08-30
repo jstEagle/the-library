@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04805",
+  "title": "The Last Will",
+  "author": "August Dunmore",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Kestrel Crane, a retired detective running a failing bookshop, prides themselves on never taking a case they can't close. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4805
+  }
+}

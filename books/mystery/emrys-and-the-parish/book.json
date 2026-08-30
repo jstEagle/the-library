@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05518",
+  "title": "Emrys and the Parish",
+  "author": "Gideon Marchetti",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Marguerite Dravenmoor, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5518
+  }
+}

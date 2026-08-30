@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08004",
+  "title": "Quentin and the Terminal",
+  "author": "August Thackeray",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Zephyrine Sterling, a terraformer tending a garden meant for people not yet born, records the slow death of a colony everyone else forgot. But when a ship returns from deep space with everyone aboard aged backward, she discovers that staying invisible was never really an option. Now she must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8004
+  }
+}

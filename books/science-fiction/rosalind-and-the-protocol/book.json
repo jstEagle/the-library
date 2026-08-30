@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08052",
+  "title": "Rosalind and the Protocol",
+  "author": "August Blackwood",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Felix Pemberton, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. To get through this, he must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "belonging",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8052
+  }
+}

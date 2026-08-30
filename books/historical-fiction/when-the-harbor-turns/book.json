@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02301",
+  "title": "When the Harbor Turns",
+  "author": "Kestrel Yarrow",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Dominic Thornbury, a battlefield nurse keeping a ledger of the names officers omit, has spent fifteen years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. To get through this, they must finish the work while the workshop still stands before the century turns.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2301
+  }
+}

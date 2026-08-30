@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04606",
+  "title": "A Glasshouse for the Postcards",
+  "author": "Wren Lockridge",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Lena Galloway, a former prodigy returning to the conservatory as a janitor, has spent five years practicing the art of almost saying it. But when a childhood home goes up for auction, he discovers that staying invisible was never really an option. To get through this, he must ask the question the whole family arranged itself around before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4606
+  }
+}

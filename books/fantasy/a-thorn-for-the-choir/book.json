@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01259",
+  "title": "A Thorn for the Choir",
+  "author": "J. M. Villalobos",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Ines Ishikawa, a cartographer of unmapped realms, has spent three years selling small charms in a city that outlawed magic. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. Now he must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1259
+  }
+}

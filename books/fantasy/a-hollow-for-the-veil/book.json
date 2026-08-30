@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00959",
+  "title": "A Hollow for the Veil",
+  "author": "Beatrix Vane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Sebastian Villalobos, an exiled storm-caller, has spent ten years selling small charms in a city that outlawed magic. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 959
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02032",
+  "title": "The Gilded Sigil Again",
+  "author": "Emrys Montrose",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Ada Winterbourne, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2032
+  }
+}

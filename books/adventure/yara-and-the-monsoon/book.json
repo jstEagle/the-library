@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00313",
+  "title": "Yara and the Monsoon",
+  "author": "E. M. Quintana",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Jonah Iversen, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. To get through this, they must cross the range ahead of the snows before the concession permits expire.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 313
+  }
+}

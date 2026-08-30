@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01664",
+  "title": "Felix and the Salt",
+  "author": "Lior Ravensworth",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Vesper Eastwick, a mercenary sworn to a god that went silent, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1664
+  }
+}

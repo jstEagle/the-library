@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00652",
+  "title": "Astrid and the Landfall",
+  "author": "Yara Kavanagh",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Edmund Amberdale, a riverboat captain who knows every sandbar's mood, has spent five years measuring life in miles rather than years. Then the river gives up a chest stamped with a dead nation's seal — and he is pulled straight into the middle of it. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 652
+  }
+}

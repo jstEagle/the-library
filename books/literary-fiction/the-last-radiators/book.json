@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04065",
+  "title": "The Last Radiators",
+  "author": "Juniper Thackeray",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Vesper Okafor, a restaurant critic who has forgotten how food tastes, has spent three years practicing the art of almost saying it. But when a childhood home goes up for auction, he discovers that staying invisible was never really an option. Now he must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4065
+  }
+}

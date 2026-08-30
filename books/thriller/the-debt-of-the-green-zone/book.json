@@ -1,0 +1,21 @@
+{
+  "id": "THR-08480",
+  "title": "The Debt of the Green Zone",
+  "author": "Yara Eriksen",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Noor Zhou, a financial-crimes investigator drowning in clean money, has spent five years following rules that keep getting rewritten. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8480
+  }
+}

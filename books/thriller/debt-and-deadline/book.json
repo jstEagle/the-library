@@ -1,0 +1,21 @@
+{
+  "id": "THR-08993",
+  "title": "Debt and Deadline",
+  "author": "Quentin Okonkwo",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Jonah Blackwood, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and he is pulled straight into the middle of it. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8993
+  }
+}

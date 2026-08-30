@@ -1,0 +1,21 @@
+{
+  "id": "THR-09215",
+  "title": "A Ghost for the Debt",
+  "author": "Rosalind Iversen",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Cyrus Eastwick, a fixer for an embassy that doesn't officially exist, has spent seven years following rules that keep getting rewritten. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. To get through this, she must extract a defector who may be the bait before the extraction flight leaves at dawn.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9215
+  }
+}

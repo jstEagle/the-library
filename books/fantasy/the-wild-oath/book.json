@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01605",
+  "title": "The Wild Oath",
+  "author": "W. M. Winterbourne",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Theo Dunmore, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1605
+  }
+}

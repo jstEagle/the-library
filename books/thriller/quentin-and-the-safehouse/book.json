@@ -1,0 +1,21 @@
+{
+  "id": "THR-09379",
+  "title": "Quentin and the Safehouse",
+  "author": "Hazel Amberdale",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Rosalind Marchetti, a burnt analyst bounced from three agencies, hasn't slept through the night since the incident. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9379
+  }
+}

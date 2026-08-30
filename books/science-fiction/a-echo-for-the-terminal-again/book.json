@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08377",
+  "title": "A Echo for the Terminal Again",
+  "author": "Marguerite Vane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Orsen Nakamura, an insurance investigator of impossible accidents, maintains the beacon nobody remembers commissioning. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8377
+  }
+}

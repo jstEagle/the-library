@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05443",
+  "title": "Juniper and the Verdict",
+  "author": "Beatrix Thornbury",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Edmund Lockridge, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5443
+  }
+}

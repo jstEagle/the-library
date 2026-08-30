@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06107",
+  "title": "The Small Vow",
+  "author": "Rosalind Vane",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Marguerite Brightwater, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. But when a snowstorm strands two rivals with the best mistake of their twenties, she discovers that staying invisible was never really an option. To get through this, she must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6107
+  }
+}

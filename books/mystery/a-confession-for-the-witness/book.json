@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05418",
+  "title": "A Confession for the Witness",
+  "author": "Vesper Okafor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Orsen Nakamura, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5418
+  }
+}

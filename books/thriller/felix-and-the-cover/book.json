@@ -1,0 +1,21 @@
+{
+  "id": "THR-09249",
+  "title": "Felix and the Cover",
+  "author": "Isandro Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Noor Kavanagh, a crash investigator whose family died in row twelve, has spent twelve years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9249
+  }
+}

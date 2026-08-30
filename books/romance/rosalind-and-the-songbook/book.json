@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06608",
+  "title": "Rosalind and the Songbook",
+  "author": "Oscar Quintana",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Zephyrine Brightwater, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6608
+  }
+}

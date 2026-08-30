@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06149",
+  "title": "Harbor and Postcard",
+  "author": "Freya Winterbourne",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 3.6,
+  "blurb": "Marguerite Whitlock, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. Then the person behind a decade of letters moves in next door — and he is pulled straight into the middle of it. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6149
+  }
+}

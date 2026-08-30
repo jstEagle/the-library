@@ -1,0 +1,29 @@
+{
+  "title": "Astrid and the Will",
+  "slug": "mystery/astrid-and-the-will",
+  "model": "stealth/ox-alpha",
+  "premise": "Coroner Edmund Okonkwo is handed the diary of Astrid Vale, a woman who vanished eleven years ago, and discovers entries written after her disappearance — including one that names him. As Edmund investigates, he uncovers that Astrid faked her death to escape a powerful family's cover-up, and that the town's beloved matriarch, Delphine, orchestrated it with his own late mentor's help. At the anniversary dinner where the town toasts Astrid's memory, Edmund must choose between protecting the found family who lied to shield her and exposing the truth. He closes the case by declaring Astrid legally alive in absentia, freeing her to finally come home.",
+  "about_author": "Lena Quintana is a former small-town journalist whose beat included obituaries and court records, giving her an ear for the secrets communities keep. She writes mysteries about people bound together by the stories they tell themselves.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Grave That Wasn't Empty",
+      "summary": "Edmund Okonkwo's POV. While cataloguing the cemetery ahead of Astrid Vale's eleventh-anniversary memorial, Edmund receives her diary from an anonymous sender and finds entries dated years after she vanished — the last one naming him by name. The emotional beat is unease: the man who knows every grave realizes one of them may be lying."
+    },
+    {
+      "n": 2,
+      "title": "Entries After the End",
+      "summary": "Alternating Edmund's POV with diary excerpts from Astrid. Edmund traces the handwriting to a retired teacher who admits mailing the diary on Astrid's instruction, then finds his late mentor's signature on Astrid's forged death certificate. The beat is betrayal: the duty-bound coroner learns the institutions he trusted built the lie."
+    },
+    {
+      "n": 3,
+      "title": "What Delphine Swore",
+      "summary": "Edmund's POV, with a flashback chapter from Delphine. Confronting matriarch Delphine Hale on the eve of the dinner, Edmund learns Astrid fled to escape the Hales' fatal secret and that his mentor helped fake her death out of love for them both. The beat is loyalty vs. truth: Edmund holds the truth that will shatter everyone he loves."
+    },
+    {
+      "n": 4,
+      "title": "A Toast to the Living",
+      "summary": "Edmund's POV, closing with Astrid's. At the anniversary dinner, Edmund stands before the town, declares Astrid alive, and files papers voiding the death certificate — as a letter arrives in Astrid's hand asking only whether she can come home. The beat is resolution: love against duty resolved by choosing both, and a family remade around truth."
+    }
+  ]
+}

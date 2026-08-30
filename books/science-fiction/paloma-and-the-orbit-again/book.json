@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08221",
+  "title": "Paloma and the Orbit Again",
+  "author": "Ansel Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Marguerite Winterbourne, a xenolinguist who can no longer dream in human languages, has spent twelve years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8221
+  }
+}

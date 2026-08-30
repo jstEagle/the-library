@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03158",
+  "title": "The Last Hymn",
+  "author": "Jonah Ishikawa",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Beatrix Delacroix, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. But when every mirror in the house starts reflecting the room one second late, he discovers that staying invisible was never really an option. Now he must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3158
+  }
+}

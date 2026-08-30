@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07649",
+  "title": "Cyrus and the Echo",
+  "author": "A. M. Iversen",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Emrys Yarrow, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. To get through this, they must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7649
+  }
+}

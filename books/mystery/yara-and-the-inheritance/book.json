@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05464",
+  "title": "Yara and the Inheritance",
+  "author": "Ulyana Zhou",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Freya Brightwater, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then the town's beloved founder is exhumed and the coffin is empty — and she is pulled straight into the middle of it. To get through this, she must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5464
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08721",
+  "title": "Extraction and Border",
+  "author": "J. M. Marchetti",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Ada Whitlock, a whistle-blower living under four names, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8721
+  }
+}

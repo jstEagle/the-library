@@ -1,0 +1,21 @@
+{
+  "id": "THR-09354",
+  "title": "Gideon and the Deadline",
+  "author": "Theo Thackeray",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Zephyrine Underhill, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9354
+  }
+}

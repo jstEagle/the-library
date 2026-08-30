@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00879",
+  "title": "The Broken Spire",
+  "author": "H. M. Ashgrove",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Marguerite Thornbury, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, they discover that staying invisible was never really an option. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 879
+  }
+}

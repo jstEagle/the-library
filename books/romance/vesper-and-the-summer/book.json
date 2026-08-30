@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06113",
+  "title": "Vesper and the Summer",
+  "author": "Dominic Montrose",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Dominic Montrose, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6113
+  }
+}

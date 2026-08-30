@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06938",
+  "title": "Juniper and the Harbor Revisited",
+  "author": "August Ashgrove",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ines Coldharbour, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. But when a fake date to survive a family reunion feels too real by dessert, they discover that staying invisible was never really an option. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6938
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08584",
+  "title": "The Sharp Cover",
+  "author": "Zephyrine Pemberton",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Theo Fairweather, a financial-crimes investigator drowning in clean money, has spent ten years following rules that keep getting rewritten. But when every record of a flight vanishes while it's still in the air, she discovers that staying invisible was never really an option. To get through this, she must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8584
+  }
+}

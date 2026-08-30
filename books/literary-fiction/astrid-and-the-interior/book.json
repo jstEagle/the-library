@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04490",
+  "title": "Astrid and the Interior",
+  "author": "Lior Iversen",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Isandro Zhou, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. Now she must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4490
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09882",
+  "title": "Homecoming and Scholarship",
+  "author": "Silas Villalobos",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Casper Hartwell, the eldest sibling raising the younger ones while mom works nights, counts days until graduation like a sentence being served. Then the teacher pairs nemesis with nemesis for a semester-long project — and they are pulled straight into the middle of it. To get through this, they must expose what the school board buried before graduation.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9882
+  }
+}

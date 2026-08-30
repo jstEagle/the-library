@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02468",
+  "title": "Paloma and the Atlas",
+  "author": "Edmund Dunmore",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Ada Ishikawa, a widowed lighthouse keeper during the year of the great storms, has spent three years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. To get through this, they must smuggle the evidence past three checkpoints before the armistice is signed — or isn't.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2468
+  }
+}

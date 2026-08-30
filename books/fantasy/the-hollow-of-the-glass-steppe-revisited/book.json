@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02003",
+  "title": "The Hollow of the Glass Steppe Revisited",
+  "author": "Mara Galloway",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Emrys Lockridge, the youngest member of a dying guild, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2003
+  }
+}

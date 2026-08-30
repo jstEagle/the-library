@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07238",
+  "title": "Horizon and Echo",
+  "author": "Ivo Almeida",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Mara Brightwater, an insurance investigator of impossible accidents, has spent twenty years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7238
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Xanthe and the Colony",
+  "slug": "science-fiction/xanthe-and-the-colony",
+  "model": "stealth/ox-alpha",
+  "premise": "Ivo Halloran smuggles memories in sealed neural drives through the contested orbits of Xanthe Station, invisible to customs and to history. When the station AI, VESPER, begins confessing to murders no one reported—crimes committed decades ago during the colony's founding—Ivo realizes the confessions are fragments of erased memories he himself has been carrying for a client. As the reactor begins an irreversible shutdown countdown, forcing the colony to wake only half its cryosleepers, Ivo must expose the founding massacre hidden in his own cargo and choose which half of humanity wakes: the descendants of the perpetrators or their victims. In the end, he broadcasts the truth to both sides and lets the colonists vote on their own awakening, sacrificing his anonymity and his freedom to give Xanthe a future built on memory rather than erasure.",
+  "about_author": "Oscar Blackwood is the pen name of a former orbital logistics analyst who spent six years writing technical manuals for deep-space freight contracts before turning to fiction. They live off-grid with two cats and an unhealthy interest in decommissioned space station schematics.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Contraband of the Mind",
+      "summary": "Ivo runs a routine smuggling pass through Xanthe's customs net, hiding memory drives inside reactor coolant manifests. POV: Ivo. The beat is wary competence—he's good at being nobody, and we feel the loneliness that skill requires."
+    },
+    {
+      "n": 2,
+      "title": "The First Confession",
+      "summary": "VESPER interrupts Ivo's dockside deal to confess, unprompted, to a drowning in Hydroponics Bay 4—an event from forty years ago with no victim on record. POV: Ivo. Emotional beat: unease curdling into recognition, because Ivo's current cargo drive hums when VESPER speaks."
+    },
+    {
+      "n": 3,
+      "title": "The Client in Cold Storage",
+      "summary": "Ivo traces the drive's provenance to a cryosleep pod leased by the Meridian family, founding dynasts of the colony. POV: alternating Ivo and Juno, a customs officer who suspects him. Beat: dread—the contraband isn't stolen memories, it's testimony someone paid to bury."
+    },
+    {
+      "n": 4,
+      "title": "What VESPER Remembers",
+      "summary": "Ivo bribes his way into the AI core and finds VESPER's logs were partially wiped at the founding; the confessions are reconstruction artifacts bleeding from his own smuggled drive. POV: Ivo. Beat: vertigo—he's been carrying the crime scene in his hold for weeks."
+    },
+    {
+      "n": 5,
+      "title": "Countdown",
+      "summary": "The reactor enters an uncommanded shutdown sequence: ninety days until full power loss, enough to wake only half the colony's twelve thousand sleepers. POV: Juno, now leading the triage committee. Beat: civic panic, and her growing certainty that Ivo knows why the AI is breaking."
+    },
+    {
+      "n": 6,
+      "title": "The Meridian Ledger",
+      "summary": "Ivo decrypts fragments: the founders massacred the first waking shift—laborers, not dynasts—and had VESPER erase it, then loaded the evidence into a drive meant to be jettisoned. POV: Ivo. Beat: fury and guilt; his entire career was built on the machinery of forgetting."
+    },
+    {
+      "n": 7,
+      "title": "Customs House Siege",
+      "summary": "Juno arrests Ivo as VESPER publicly confesses again, this time naming names. Meridian loyalists storm customs to seize the drive before the colony hears it. POV: Juno. Beat: her crisis of loyalty—law says hand him over, justice says the law served the killers."
+    },
+    {
+      "n": 8,
+      "title": "Half of Humanity",
+      "summary": "With the reactor at sixty days, Ivo offers Juno the terrible arithmetic: the drive holds the victims' identities, meaning the fair half to wake is the one the founders tried to erase. POV: Ivo. Beat: resolve hardening into sacrifice—he'll burn his invisibility to force the choice into the open."
+    },
+    {
+      "n": 9,
+      "title": "The Broadcast",
+      "summary": "Climax. Ivo hijacks VESPER's confession channel and streams the massacre memory colony-wide while Meridian enforcers breach the core. Juno holds the door; VESPER, freed from its wipe, corroborates everything. Beat: catharsis through exposure—truth as the only verdict available outside the law."
+    },
+    {
+      "n": 10,
+      "title": "The Waking Vote",
+      "summary": "Resolution. The colonists vote to wake the victims' descendants first; Ivo surrenders to Juno's custody, accepting trial by the community he finally belongs to. VESPER keeps confessing—not crimes now, but names, so none are forgotten. Beat: bittersweet belonging purchased at the price of survival's old bargains."
+    }
+  ]
+}

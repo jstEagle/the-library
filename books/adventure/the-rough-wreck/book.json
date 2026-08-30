@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00332",
+  "title": "The Rough Wreck",
+  "author": "Zephyrine Thackeray",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Tamsin Montrose, a salvage diver working a wreck the navy won't discuss, keeps moving because stopping costs more. Then a dying prospector trades a map for a promise — and they are pulled straight into the middle of it. To get through this, they must beat the salvage fleet to the wreck by six tides before the monsoon makes landfall.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 332
+  }
+}

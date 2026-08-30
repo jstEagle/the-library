@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05160",
+  "title": "The Final Inheritance",
+  "author": "O. M. Eriksen",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Kestrel Galloway, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. Then the town's beloved founder is exhumed and the coffin is empty — and she is pulled straight into the middle of it. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5160
+  }
+}

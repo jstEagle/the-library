@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07635",
+  "title": "A Colony for the Archive",
+  "author": "Yara Kavanagh",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Sable Sandoval, a starship navigator haunted by the backups sleeping in the hold, records the slow death of a colony everyone else forgot. Then the station AI begins confessing to crimes nobody reported — and she is pulled straight into the middle of it. To get through this, she must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7635
+  }
+}

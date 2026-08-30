@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03632",
+  "title": "The Harvest of Marrow Creek",
+  "author": "Mirabel Almeida",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Mirabel Almeida, a radio host taking calls from listeners who died last week, has spent three years telling themselves the noises have explanations. But when the childhood imaginary friend is waiting on the porch, unchanged, he discovers that staying invisible was never really an option. To get through this, he must get the family out ahead of the count before the well refills.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3632
+  }
+}

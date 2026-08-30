@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09565",
+  "title": "When the Group Chat Breaks",
+  "author": "Kestrel Coldharbour",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ines Ashgrove, a baker's kid who bakes feelings into bread, has spent fifteen years being so careful it hurts. Then a best friend goes missing, leaving only a set of keys behind — and they are pulled straight into the middle of it. Now they must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9565
+  }
+}

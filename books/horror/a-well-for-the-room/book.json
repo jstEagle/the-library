@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03487",
+  "title": "A Well for the Room",
+  "author": "J. M. Joubert",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Xanthe Vane, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. Then the sleep recordings capture a second voice answering questions — and she is pulled straight into the middle of it. To get through this, she must hold out until sunrise with the truth about what was invited in before the frost writes its final pattern.",
+  "themes": [
+    "memory",
+    "found family",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3487
+  }
+}

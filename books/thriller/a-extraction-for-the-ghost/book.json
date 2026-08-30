@@ -1,0 +1,21 @@
+{
+  "id": "THR-08805",
+  "title": "A Extraction for the Ghost",
+  "author": "Quentin Quintana",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Tamsin Brightwater, a whistle-blower living under four names, has spent five years following rules that keep getting rewritten. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. To get through this, he must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8805
+  }
+}

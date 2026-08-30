@@ -1,0 +1,21 @@
+{
+  "id": "THR-08671",
+  "title": "The Double Drop",
+  "author": "Zephyrine Pemberton",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Xanthe Voss, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the extraction flight leaves at dawn.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8671
+  }
+}

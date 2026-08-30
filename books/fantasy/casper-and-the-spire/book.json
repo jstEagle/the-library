@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01307",
+  "title": "Casper and the Spire",
+  "author": "L. M. Eriksen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Beatrix Ashgrove, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1307
+  }
+}

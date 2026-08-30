@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01502",
+  "title": "Ember and Veil Anew",
+  "author": "Ivo Oyelaran",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Amberdale, a debt-bound temple scribe, has spent five years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1502
+  }
+}

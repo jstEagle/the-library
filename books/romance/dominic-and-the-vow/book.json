@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06719",
+  "title": "Dominic and the Vow",
+  "author": "Theo Underhill",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Elodie Reyes, a single parent running the town's only bookshop, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6719
+  }
+}

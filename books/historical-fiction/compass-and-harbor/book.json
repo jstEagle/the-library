@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02467",
+  "title": "Compass and Harbor",
+  "author": "Lior Hartwell",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Silas Eastwick, a battlefield nurse keeping a ledger of the names officers omit, has spent ten years learning which silences keep people safe. But when the army requisitions the town and the ledger with all the names, she discovers that staying invisible was never really an option. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2467
+  }
+}

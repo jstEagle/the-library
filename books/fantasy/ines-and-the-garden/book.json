@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01360",
+  "title": "Ines and the Garden",
+  "author": "Odile Okonkwo",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Dominic Underhill, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1360
+  }
+}

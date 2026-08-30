@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08049",
+  "title": "Marguerite and the Colony",
+  "author": "Ulyana Sandoval",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Zephyrine Iversen, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8049
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05652",
+  "title": "Hazel and the Will",
+  "author": "R. M. Fairweather",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Sebastian Crane, a small-town coroner who knows every grave by name, has spent three years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. To get through this, she must close the one case everyone swore was closed for good before the statute expires.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5652
+  }
+}

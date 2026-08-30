@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04948",
+  "title": "Elodie and the Inheritance",
+  "author": "Jude Brightwater",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Gideon Dravenmoor, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. Then the town's beloved founder is exhumed and the coffin is empty — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4948
+  }
+}

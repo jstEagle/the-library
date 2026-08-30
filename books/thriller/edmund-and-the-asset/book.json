@@ -1,0 +1,21 @@
+{
+  "id": "THR-08598",
+  "title": "Edmund and the Asset",
+  "author": "Beatrix Okonkwo",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ivo Okonkwo, a whistle-blower living under four names, has spent seven years following rules that keep getting rewritten. But when a voiceprint unlocks a server on another continent, she discovers that staying invisible was never really an option. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8598
+  }
+}

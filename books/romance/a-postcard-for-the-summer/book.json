@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06689",
+  "title": "A Postcard for the Summer",
+  "author": "Kestrel Reyes",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Noor Hartwell, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6689
+  }
+}

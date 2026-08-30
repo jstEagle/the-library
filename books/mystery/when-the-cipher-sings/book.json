@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05254",
+  "title": "When the Cipher Sings",
+  "author": "Paloma Okafor",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Felix Marchetti, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5254
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08716",
+  "title": "The Drop of Geneva",
+  "author": "Bram Marchetti",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Ada Kavanagh, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the extraction flight leaves at dawn.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8716
+  }
+}

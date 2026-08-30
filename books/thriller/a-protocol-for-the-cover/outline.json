@@ -1,0 +1,119 @@
+{
+  "title": "A Protocol for the Cover",
+  "slug": "thriller/a-protocol-for-the-cover",
+  "model": "stealth/ox-alpha",
+  "premise": "Gideon Sterling, a crash investigator living under a fabricated identity, built her new life on the wreckage of Flight 4471, where her husband and daughter died in row twelve and where she alone walked away carrying a black-box memory core the airline's parent company will do anything to recover. When an anonymous voiceprint—her daughter's, aged by software—unlocks a server in Lisbon, Gideon learns the crash was engineered to silence her testimony about faulty flight-control code, and that her extraction is already scheduled whether she cooperates or not. Hunted across Europe by the company's fixer and betrayed by the one ally she trusted, she must decide whether to trade the memory core, which contains her final minutes with her family, for leverage against the corporation. In the end she releases the recordings publicly at dawn, boards the extraction flight as bait rather than passenger, and survives not by staying invisible but by making her grief impossible to erase.",
+  "about_author": "Tamsin Nystrom is a former aviation safety analyst who left the industry after a decade of accident reports she was never allowed to sign. She writes thrillers from a farmhouse in northern Norway, where the nearest airport is a gravel strip she refuses to name.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Gideon's POV. At a memorial for Flight 4471's fifth anniversary, she performs grief flawlessly while cataloguing exits, her go-bag hidden in a locker. A stranger photographs her from the balcony. Emotional beat: the polished lie cracking under ritual."
+    },
+    {
+      "n": 2,
+      "title": "The Go-Bag Protocol",
+      "summary": "Gideon's POV. Back in her flat, we see her tradecraft: cash, burner phones, three identities. She replays a corrupted audio file she has never dared finish listening to. Beat: discipline as a form of mourning."
+    },
+    {
+      "n": 3,
+      "title": "Voiceprint",
+      "summary": "Gideon's POV. An encrypted message arrives: a server in Lisbon unlocked by a voiceprint matching her dead daughter, aged forward eight years. The message contains one word—row twelve. Beat: terror disguised as hope."
+    },
+    {
+      "n": 4,
+      "title": "Invisible Was Never an Option",
+      "summary": "Gideon's POV. She runs counter-surveillance, confirms she's being followed, and burns her current identity early. Her handler contact goes silent mid-call. Beat: the machinery of her old life grinding awake against her will."
+    },
+    {
+      "n": 5,
+      "title": "Lisbon Rain",
+      "summary": "Gideon's POV, arriving in Portugal. She traces the server to a defunct telecom office and finds evidence someone has been maintaining her daughter's voice model for years—with data only the black box could contain. Beat: vertigo of being known."
+    },
+    {
+      "n": 6,
+      "title": "The Fixer",
+      "summary": "Viktor Hale's POV, introduced. The company's fixer receives orders: retrieve the core, leave no witnesses, deadline dawn plus seventy-two hours. He studies Gideon's file and notices what his employers missed—she wasn't a passenger; she was crew-adjacent. Beat: cold professional curiosity."
+    },
+    {
+      "n": 7,
+      "title": "What the Box Remembers",
+      "summary": "Gideon's POV. She decrypts a fragment: cockpit audio proving the flight-control software ignored pilot input for eleven seconds before impact. Her own voice is on it, reporting the fault weeks earlier. Beat: guilt reframed as evidence."
+    },
+    {
+      "n": 8,
+      "title": "An Ally With a Ledger",
+      "summary": "Gideon's POV. She meets Nadia Ferro, a disgraced aviation journalist who claims to have sent the voiceprint message—or did she? Their uneasy alliance forms over shared enemies. Beat: trust extended as a calculated risk."
+    },
+    {
+      "n": 9,
+      "title": "Eleven Seconds",
+      "summary": "Dual POV. Viktor closes in on Nadia's safehouse while Gideon listens to more of the recording, hearing her husband's last words. She stops the playback again. Beat: the price of survival measured in seconds of audio."
+    },
+    {
+      "n": 10,
+      "title": "Safehouse Fire",
+      "summary": "Gideon's POV. The safehouse burns; Nadia barely escapes, but the backup drives are destroyed. Gideon realizes only the original core remains—and Viktor now knows she still has it. Beat: loss sharpening into resolve."
+    },
+    {
+      "n": 11,
+      "title": "The Extraction Offer",
+      "summary": "Viktor's POV. Instead of killing Gideon, Viktor makes an offer sanctioned from above: the core for a clean identity and immunity. He genuinely believes he's offering mercy. Beat: the seduction of surrender."
+    },
+    {
+      "n": 12,
+      "title": "Duty's Arithmetic",
+      "summary": "Nadia's POV. Nadia argues for taking the deal and publishing later; Gideon calculates the odds and finds them unacceptable—but can't explain why without admitting what's on the core. First fracture between allies. Beat: love against duty, inverted."
+    },
+    {
+      "n": 13,
+      "title": "The Man Who Signed Off",
+      "summary": "Gideon's POV. She tracks the engineer who certified the faulty code and finds him dead, staged as suicide, dated two days after her message went out. Someone is erasing the chain of custody—including her. Beat: clock tightening."
+    },
+    {
+      "n": 14,
+      "title": "Interrogation of One",
+      "summary": "Gideon's POV, interior chapter. Alone in a chapel outside Porto, she finally plays the full recording: her own voice arguing with dispatch, then the impact, then forty seconds of her crawling out past row twelve. Beat: the secret worth killing for revealed—it's her survival itself."
+    },
+    {
+      "n": 15,
+      "title": "Betrayal at the Terminal",
+      "summary": "Nadia's POV. Nadia sells Gideon's location to Viktor—not for money, but because the company threatened her son. Gideon escapes the trap but loses the decoy core. Beat: betrayal that hurts because it's comprehensible."
+    },
+    {
+      "n": 16,
+      "title": "Hunted Across the Tejo",
+      "summary": "Gideon's POV. A night chase through Lisbon's docks; wounded, she turns the tables and captures Viktor's field kit, learning the extraction flight is real—and that its true cargo slot is reserved for her, alive. Beat: hunter becoming quarry becoming weapon."
+    },
+    {
+      "n": 17,
+      "title": "Confrontation",
+      "summary": "Dual POV. Gideon confronts Viktor with the truth: he lost a family too, and the company owns his grief the way it tried to own hers. He wavers; his handlers don't. Sniper fire ends the conversation. Beat: enemy humanized at gunpoint."
+    },
+    {
+      "n": 18,
+      "title": "Dawn Is a Deadline",
+      "summary": "Gideon's POV. With hours left, she and a redeemed-but-dying Viktor plan the endgame: upload the core publicly, board the extraction flight as bait, force the company to choose between silence and exposure. Beat: resolve forged from wreckage."
+    },
+    {
+      "n": 19,
+      "title": "Upload",
+      "summary": "Gideon's POV. From a rooftop uplink, she releases the black-box audio to every news wire at once, including row twelve—the sound the world was never meant to hear. Beat: grief made public, irreversible, freeing."
+    },
+    {
+      "n": 20,
+      "title": "Flight 77 to Nowhere",
+      "summary": "Gideon's POV. She boards the extraction plane knowing Viktor's superiors would rather crash it than let her testify. Mid-flight, she triggers the distress beacon and forces a diversion. Climax beat: using their protocol against them."
+    },
+    {
+      "n": 21,
+      "title": "Landing",
+      "summary": "Multiple POVs converging. The diversion works; arrests begin as the story detonates globally. Viktor, dying, gives Gideon the last piece: proof her daughter's voice model was built by someone inside who wanted the truth out. Beat: catharsis with cost."
+    },
+    {
+      "n": 22,
+      "title": "A Protocol for Living",
+      "summary": "Gideon's POV, epilogue. Months later, testifying under her real name, she unpacks the go-bag for the first time and keeps only the audio player. She visits a new memorial, stands anywhere but row twelve, and stays. Final beat: survival redefined as presence, not escape."
+    }
+  ]
+}

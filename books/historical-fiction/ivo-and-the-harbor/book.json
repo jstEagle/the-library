@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02918",
+  "title": "Ivo and the Harbor",
+  "author": "A. M. Quintana",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Sebastian Oyelaran, a mapmaker's apprentice finishing the atlas the master died for, has spent twenty years learning which silences keep people safe. But when the army requisitions the town and the ledger with all the names, they discover that staying invisible was never really an option. Now they must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2918
+  }
+}

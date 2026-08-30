@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02664",
+  "title": "Ledger and Atlas",
+  "author": "Wendell Hartwell",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ada Iversen, a mapmaker's apprentice finishing the atlas the master died for, believes history happens to other people, elsewhere. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and he is pulled straight into the middle of it. To get through this, he must smuggle the evidence past three checkpoints before the ice breaks on the river.",
+  "themes": [
+    "belonging",
+    "memory",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2664
+  }
+}

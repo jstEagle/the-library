@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08144",
+  "title": "Terminal and Orbit Anew",
+  "author": "Bram Coldharbour",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Bram Delacroix, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. To get through this, they must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "memory",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8144
+  }
+}

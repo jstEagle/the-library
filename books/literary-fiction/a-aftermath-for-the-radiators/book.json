@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04771",
+  "title": "A Aftermath for the Radiators",
+  "author": "Jonah Kavanagh",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Rafael Amberdale, a former prodigy returning to the conservatory as a janitor, keeps a careful inventory of everything unsaid. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "found family",
+    "memory",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4771
+  }
+}

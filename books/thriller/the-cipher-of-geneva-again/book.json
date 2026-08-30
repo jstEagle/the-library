@@ -1,0 +1,21 @@
+{
+  "id": "THR-09473",
+  "title": "The Cipher of Geneva Again",
+  "author": "Wren Kavanagh",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Elodie Sterling, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. But when every record of a flight vanishes while it's still in the air, they discover that staying invisible was never really an option. To get through this, they must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "identity",
+    "found family",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9473
+  }
+}

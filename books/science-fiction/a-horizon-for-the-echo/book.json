@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07624",
+  "title": "A Horizon for the Echo",
+  "author": "Oscar Ravensworth",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Beatrix Quintana, the last human technician on an automated relay station, has spent fifteen years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. To get through this, she must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7624
+  }
+}

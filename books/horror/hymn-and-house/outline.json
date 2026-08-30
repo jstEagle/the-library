@@ -1,0 +1,59 @@
+{
+  "title": "Hymn and House",
+  "slug": "horror/hymn-and-house",
+  "model": "stealth/ox-alpha",
+  "premise": "Beatrix Kavanagh, an urban explorer who has spent two decades rationalizing the sounds beneath her family's inherited farmhouse, maps a tunnel network that appears on no survey and predates the house itself. When her sleep-recording app captures a second voice answering questions she never asked aloud, she learns the house holds a covenant: the Kavanaghs were bound generations ago to keep a count — a tally of the things below — and the tally is due at the harvest moon. As the voice grows more intimate, mimicking the dead, Beatrix must choose between the duty she inherited and the love she feels for her niece Wren, the next name on the ledger. She breaks the count by giving the house what it truly wanted — a remembered name — and leads the family out as the tunnels collapse, though the final recording suggests something followed them up.",
+  "about_author": "Tamsin Sterling is the pen name of a former building surveyor from County Clare who spent years cataloguing unmapped cellars in old estate houses before turning to fiction. Their stories explore the horror of inherited obligations and the architecture of things best left uncounted.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Survey That Isn't",
+      "summary": "Beatrix's POV. She returns to Kavanagh House to settle her mother's estate, bringing her LiDAR scanner and her old habit of explaining away sounds. A scan reveals a tunnel beneath the cellar that appears on no map, older than the 1801 house. Emotional beat: dread disguised as professional curiosity — she has been here before, in dreams."
+    },
+    {
+      "n": 2,
+      "title": "Twenty Years of Explanations",
+      "summary": "Beatrix's POV, interwoven with flashbacks. She catalogues every noise from her childhood — pipes, settling beams, foxes — and realizes the explanations were taught to her, word for word, by her mother. Her niece Wren arrives for the summer and hears something Beatrix never did: knocking in threes. Emotional beat: the comfort of rationalization beginning to rot."
+    },
+    {
+      "n": 3,
+      "title": "The Second Voice",
+      "summary": "Beatrix's POV. Reviewing her sleep-recording app, she finds a low voice answering questions in her own cadence, asking about names in the family. She tests it deliberately, leaving a recorder running, and it answers a question she only thought. Emotional beat: terror curdling into a horrible intimacy — the voice knows her better than anyone living."
+    },
+    {
+      "n": 4,
+      "title": "What Grandmother Kept",
+      "summary": "Wren's POV. Exploring the attic, Wren finds a ledger of Kavanagh names with dates and tallies, the last entry her mother's handwriting: 'count kept, count owed.' She shows Beatrix, who recognizes the ledger from a memory she'd buried. Emotional beat: Wren's fearless curiosity forcing Beatrix to stop hiding from the family's past."
+    },
+    {
+      "n": 5,
+      "title": "Descent",
+      "summary": "Beatrix's POV. She enters the tunnel with Wren waiting at the rope's end, mapping as she goes. The walls are scored with tally marks in thousands of hands. At the far end: a door, and on the other side, her mother's voice, singing the lullaby exactly as it was sung. Emotional beat: love weaponized — the dead below use memory as bait."
+    },
+    {
+      "n": 6,
+      "title": "The Covenant",
+      "summary": "Beatrix's POV, with the voice's answers transcribed. Through the door, the thing explains the bargain: the Kavanaghs count what sleeps below, and the count keeps it sleeping. The tally is due at harvest moon — nine days away. It offers a trade: a name from the ledger, freely given, and the rest go free. Emotional beat: the horror of a contract that sounds almost reasonable."
+    },
+    {
+      "n": 7,
+      "title": "Wren's Name Is Written",
+      "summary": "Wren's POV. Beatrix tries to send Wren away; Wren discovers her own name has appeared in the ledger in fresh ink, the ink still wet. Family arrives for the harvest — aunts, cousins — unknowing. Beatrix lies to all of them, and the house seems pleased. Emotional beat: protective love curdling into complicity; Beatrix realizes she's been chosen as the keeper, not the saved."
+    },
+    {
+      "n": 8,
+      "title": "Nine Days",
+      "summary": "Alternating POV, Beatrix and Wren. Beatrix researches the original covenant in parish records and finds the first Kavanagh didn't inherit the duty — she volunteered it, to save a daughter, and gave the house a name to remember. Beatrix understands the mechanism: it doesn't want a count. It wants to be remembered. Emotional beat: hope with a terrible price attached."
+    },
+    {
+      "n": 9,
+      "title": "The Harvest Moon",
+      "summary": "Beatrix's POV. On the night of the moon, the tunnels open and the family sleeps too deeply to wake. Beatrix descends, speaks the founder's name — the name the house lost — into the recorder, and gives the thing what it starved for: to be known, named, and mourned. The count breaks. The house begins to come down. Emotional beat: sacrifice as an act of love against duty, grief and release at once."
+    },
+    {
+      "n": 10,
+      "title": "What Followed Them Up",
+      "summary": "Wren's POV, epilogue. The family resettles in a flat in Cork; Wren keeps the ledger, blank now. Beatrix sleeps without recordings — until Wren, unable to help herself, plays the final night's file and hears the second voice, gentle now, saying thank you. Emotional beat: bittersweet resolution — they are out, the debt is paid, but memory, once given, cannot be taken back."
+    }
+  ]
+}

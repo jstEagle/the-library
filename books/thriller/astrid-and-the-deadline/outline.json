@@ -1,0 +1,59 @@
+{
+  "title": "Astrid and the Deadline",
+  "slug": "thriller/astrid-and-the-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Ansel Dunmore, a crash investigator haunted by the death of their family in row twelve, receives a meeting invitation from a handler who died a year ago. Following the thread, Ansel uncovers a plot to stage a catastrophic 'accident' at the Meridian border checkpoint before the night shift changes—a scheme tied to the same network that downed the flight that killed their family. Torn between loyalty to the agency that raised them and the truth about who inside it is complicit, Ansel races to expose the attack while confronting the possibility that their own grief was engineered as cover. In the end, Ansel stops the checkpoint bombing at terrible personal cost, chooses truth over institutional loyalty, and finally sleeps through the night.",
+  "about_author": "Ada Pemberton is a former transport-safety analyst who spent a decade reviewing incident reports before turning to fiction. She writes thrillers about people whose careful lives are dismantled by a single impossible message.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Ansel's POV. A sleepless Ansel works cold cases by night, avoiding the sealed file on the flight that killed their family in row twelve. At 3:07 a.m., an encrypted invitation arrives from Handler Voss—dead eleven months—for a meeting tomorrow at dawn. The emotional beat: dread sharpening into reluctant curiosity; the past has found a door back in."
+    },
+    {
+      "n": 2,
+      "title": "The Empty Chair",
+      "summary": "Ansel's POV. At the abandoned rail depot, no Voss—but a dead-drop key and a partial manifest showing cargo routed through Meridian checkpoint, scheduled for the night of the next shift change. Ansel recognizes the routing code from their own old reports. Emotional beat: vertigo—the investigation they buried is being handed back to them by a ghost."
+    },
+    {
+      "n": 3,
+      "title": "Chain of Custody",
+      "summary": "Ansel's POV, with a brief interlude from Deputy Director Hale. Ansel quietly pulls the original flight file and finds evidence tampered with—by someone with internal access. Hale notices the access flag and begins asking gentle, dangerous questions. Emotional beat: paranoia blooming; the institution Ansel served may be the crime scene."
+    },
+    {
+      "n": 4,
+      "title": "The Woman Who Signed for Nothing",
+      "summary": "Ansel tracks the manifest's receiving signature to Ilse Marchetti, a customs clerk who officially never worked the relevant nights. She denies everything, then slips him a note: 'Voss knew. Ask what he was carrying.' Emotional beat: first alliance; Ansel realizes he cannot do this alone, and trust feels like exposure."
+    },
+    {
+      "n": 5,
+      "title": "What Voss Was Carrying",
+      "summary": "Ansel's POV. Decoding Voss's drop reveals surveillance photos: the 'cargo' is a vehicle-borne device meant to detonate during the shift-change window, when both crews stand in the open—staged to look like a fuel accident. Emotional beat: cold clarity replacing grief; this time Ansel can be there before it happens."
+    },
+    {
+      "n": 6,
+      "title": "Loyalty Audit",
+      "summary": "Hale's POV. Hale confronts Ansel with the unauthorized file access, offering protection in exchange for silence—an offer wrapped like kindness. Ansel lies for the first time in his career. Emotional beat: the loyalty-vs-truth theme made flesh; each lie costs Ansel something physical, like losing altitude."
+    },
+    {
+      "n": 7,
+      "title": "Ilse's Ledger",
+      "summary": "Alternating Ansel/Ilse POV. Ilse reveals she kept a private ledger of anomalous shipments for years after her brother died in a similar 'accident.' Cross-referencing, they identify the insider who sanitized the flight file—and realize that person now controls the checkpoint's security rotation. Emotional beat: shared grief becoming resolve; love against duty takes its first shape between them."
+    },
+    {
+      "n": 8,
+      "title": "The Trap They Built for Him",
+      "summary": "Ansel's POV. Ansel feeds a false report through official channels to force the conspirator to move early—but the response proves they've known about Ansel since chapter three; the ghost invitation was bait to flush out Voss's other assets. Ilse is taken. Emotional beat: devastation and fury; the hunter learns he was always the quarry."
+    },
+    {
+      "n": 9,
+      "title": "Shift Change",
+      "summary": "Split-timeline climax across Ansel, Ilse, and Hale. Ansel trades himself for Ilse, stalls the convoy carrying the device past the shift-change window using the one thing the conspirators can't fake—a genuine safety inspection—while Ilse broadcasts the ledger to every terminal on site. The device is discovered; the deputy director's complicity is exposed mid-betrayal. Emotional beat: white-knuckle sacrifice; duty and love finally pointing the same direction."
+    },
+    {
+      "n": 10,
+      "title": "Eight Hours",
+      "summary": "Ansel's POV, epilogue weeks later. Testimony delivered, the network dismantled, Ansel visits row twelve's memorial for the first time and leaves the decoded invitation there. That night, he sleeps eight hours and wakes to sunlight and a message from Ilse. Emotional beat: quiet release; truth cost everything except the thing that matters—he can rest now."
+    }
+  ]
+}

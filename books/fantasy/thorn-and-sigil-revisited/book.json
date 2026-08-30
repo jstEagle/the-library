@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02245",
+  "title": "Thorn and Sigil Revisited",
+  "author": "Noor Whitlock",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Freya Underhill, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2245
+  }
+}

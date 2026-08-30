@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05670",
+  "title": "Silas and the Cipher",
+  "author": "Emrys Pemberton",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Cyrus Oyelaran, the archivist of a cathedral with a locked crypt, has spent ten years keeping the town's secrets filed and alphabetized. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the statute expires.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5670
+  }
+}

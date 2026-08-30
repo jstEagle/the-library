@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04482",
+  "title": "The Half-Light Blue Hour",
+  "author": "Rafael Nakamura",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Juniper Villalobos, a translator losing a childhood language one borrowed word at a time, has spent twelve years practicing the art of almost saying it. But when a song on the radio is one that was written and never recorded, she discovers that staying invisible was never really an option. To get through this, she must translate the untranslatable sentence and live with it before the mother's memory goes entirely.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4482
+  }
+}

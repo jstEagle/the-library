@@ -1,0 +1,21 @@
+{
+  "id": "THR-08558",
+  "title": "Gideon and the Cover",
+  "author": "Wendell Montrose",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Edmund Fairweather, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. Then a voiceprint unlocks a server on another continent — and he is pulled straight into the middle of it. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8558
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09576",
+  "title": "Noor and the Semester",
+  "author": "Jude Ravensworth",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jude Nakamura, the team's statistician who knows the game is rigged, stays under the radar: head down, grades up, locker shut. Then a group chat starts predicting things that haven't happened yet — and they are pulled straight into the middle of it. Now they must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9576
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Elodie and the Safehouse",
+  "slug": "thriller/elodie-and-the-safehouse",
+  "model": "stealth/ox-alpha",
+  "premise": "Bram Sterling, a private security contractor for a shadowy firm called Meridian, receives a meeting invitation from his handler, Marcus Vane — three days after Vane's funeral. The invitation leads him to Elodie Marchand, a former Meridian analyst who faked her death and now holds proof that the company's training program manufactures the very threats its contractors are paid to stop. As Bram and Elodie evade Meridian's kill teams across Europe, he must choose between the only loyalty he has left and the woman showing him the truth. In the end, Bram burns Meridian's network from inside its Vienna safehouse, exposing the program at the cost of his own clean escape, while Elodie carries the evidence to the press alone.",
+  "about_author": "Juniper Amberdale is the pen name of a former risk consultant who spent a decade writing threat assessments for firms she can no longer name. She writes thrillers from a farmhouse in the Cotswolds, where the nearest surveillance is a very judgmental barn owl.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Invitation from a Dead Man",
+      "summary": "Bram's POV. Three days after burying his handler Marcus Vane, Bram receives a calendar invite from Vane's account for a Vienna café, tomorrow, 9 a.m. Protocol says report it; instinct says go. He goes, and finds a live feed of himself already playing on the café's screen. Emotional beat: dread sharpening into curiosity — the rules have finally broken him."
+    },
+    {
+      "n": 2,
+      "title": "The Woman Who Wasn't There",
+      "summary": "Elodie's POV. She watches Bram from across the square, knowing Meridian's watchers are watching her watch him. Two years ago she died on paper; now she needs the one contractor whose file shows cracks. She slips him a burner with a single photo: Meridian's training facility, dated last month. Emotional beat: calculated hope tangled with guilt over using him."
+    },
+    {
+      "n": 3,
+      "title": "Rules for the Rewritten",
+      "summary": "Bram's POV. He runs the photo through old contacts and learns the facility trained the terrorists Meridian contracts against — including the cell that killed Vane. His own induction class is in the footage. When he reports nothing and destroys his phone, he crosses the line permanently. Emotional beat: the vertigo of realizing his whole career was staged."
+    },
+    {
+      "n": 4,
+      "title": "Safehouse",
+      "summary": "Dual POV converging. Elodie brings Bram to a decommissioned Meridian safehouse in Lyon that the network believes is still empty. Among dust-covered files they find the program's ledger: every 'threat' Meridian neutralized, priced and scheduled. A kill team arrives early. Emotional beat: intimacy forged under fire — trust as the first thing either has chosen freely."
+    },
+    {
+      "n": 5,
+      "title": "The Handler's Ghost",
+      "summary": "Bram's POV. Decoding Vane's invite metadata reveals Vane wasn't murdered by outsiders — he was silenced for finding the ledger first, and he left Bram a dead-drop key hidden in his own eulogy. Retrieving it means walking back through Meridian's London office under the eyes of Director Hale, his mentor. Emotional beat: grief curdling into purpose."
+    },
+    {
+      "n": 6,
+      "title": "What Hale Built",
+      "summary": "Hale's POV. The director reviews Bram's file and finds the anomaly: loyalty scores declining since Vane's death. Rather than burn him, Hale offers promotion — the program's architect wants an heir. Bram accepts the meeting as cover, buying Elodie forty-eight hours. Emotional beat: cold horror at how easily corruption dresses itself as inheritance."
+    },
+    {
+      "n": 7,
+      "title": "Forty-Eight Hours",
+      "summary": "Elodie's POV. While Bram plays the loyal protégé in Vienna, Elodie races to decrypt the ledger's distribution list — half of Europe's security establishment is a client. A Meridian tracker she thought dead resurfaces, an old friend turned hunter, forcing her to choose between warning Bram and protecting the evidence. Emotional beat: love measured against mission, and refusing to rank them."
+    },
+    {
+      "n": 8,
+      "title": "The Vienna Gambit",
+      "summary": "Bram's POV. At his promotion ceremony, Bram triggers the dead-drop, flooding Meridian's internal channels with the ledger. The building locks down; Hale, betrayed and unrepentant, offers him a final bargain: walk away rich, or die a whistleblower. Bram chooses the safehouse route out — straight through the kill floor. Emotional beat: terror transmuted into resolve."
+    },
+    {
+      "n": 9,
+      "title": "Burn the Network",
+      "summary": "Climax, dual POV. In the safehouse's server vault, Bram physically severs Meridian's command infrastructure while Elodie holds the perimeter against Hale's last team. Hale arrives personally; Bram forces him to watch the upload complete before the standoff breaks. Vane's posthumous plan finishes executing. Emotional beat: fury and release — the price paid in full."
+    },
+    {
+      "n": 10,
+      "title": "After the Ash",
+      "summary": "Epilogue, split POV. Meridian collapses publicly; Bram, officially a traitor with a price on his head, disappears. Elodie delivers the full archive to journalists from a ferry crossing the Baltic, then sends one message to a burner that shouldn't work anymore. It answers. Emotional beat: quiet, hard-won peace — survival that cost everything except each other."
+    }
+  ]
+}

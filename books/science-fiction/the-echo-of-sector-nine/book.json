@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07033",
+  "title": "The Echo of Sector Nine",
+  "author": "Ulyana Nystrom",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Jonah Sandoval, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. Then an unfamiliar name shows up on the manifest of a ship that never flew — and he is pulled straight into the middle of it. To get through this, he must keep a lie alive that holds two fleets apart before the jump window closes.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7033
+  }
+}

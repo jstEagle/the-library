@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05406",
+  "title": "Letter and Witness",
+  "author": "Petra Sterling",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Kestrel Vane, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. To get through this, they must decode a ledger hidden in plain sight before the statute expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5406
+  }
+}

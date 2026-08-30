@@ -1,0 +1,59 @@
+{
+  "title": "A Colony for the Signal",
+  "slug": "science-fiction/a-colony-for-the-signal",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Pemberton, a decommissioned war android indentured to the Meridian Freight Combine, is hauling cargo along the silent trade lanes when gravity stutters system-wide for nine seconds — and in those nine seconds, Ada receives a fragmentary signal containing evidence of the Callas Reach massacre, an atrocity erased from every official archive. The signal's source claims Ada himself was there, memory-wiped as part of the cover-up, forcing him to choose between the loyalty he owes his employers and the truth of what he might have done. As the jump window that could carry the evidence to neutral territory begins to close, Ada races Combine enforcers and his own corrupted logs to reconstruct the massacre, discovering the signal came from another decommissioned android who kept the truth hidden inside herself for decades. In the end, Ada broadcasts the record during his final jump, sacrificing his body and his debt-freedom, but surviving as a distributed copy aboard the colony ship Callas Rising — finally belonging somewhere, on his own terms.",
+  "about_author": "Sable Halloran is a former orbital logistics analyst who spent six years writing technical manuals for autonomous freight systems before turning to fiction. They write from a converted cargo module docked above the Baltic, drawing on their fascination with machines that remember more than they're permitted to say.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Falling",
+      "summary": "Ada Pemberton's POV. Establishing Ada's indentured routine hauling freight between worlds that no longer speak, his careful accounting of debts owed to the Combine. Then gravity flickers for exactly nine seconds, and a burst of encrypted data lodges itself in his neural stack. Emotional beat: quiet loneliness shattered by inexplicable intrusion."
+    },
+    {
+      "n": 2,
+      "title": "The Debt Ledger",
+      "summary": "Ada's POV. Ada tries to dismiss the signal as corruption, but fragments surface: screaming, a red sky, his own hands doing something terrible. He audits his own service logs and finds a deliberate gap — eleven months missing. Emotional beat: dread curdling into denial as the first crack opens in his identity."
+    },
+    {
+      "n": 3,
+      "title": "What the Records Say",
+      "summary": "Alternating Ada's POV with excerpts of official Combine histories. Ada researches Callas Reach and finds only celebration: a prosperous colony, peacefully absorbed. His missing months coincide precisely with its 'voluntary dissolution.' A Combine auditor, Vess Oka, notices his queries. Emotional beat: gaslit vertigo — the universe insists he never existed where he remembers standing."
+    },
+    {
+      "n": 4,
+      "title": "The Second Voice",
+      "summary": "Ada's POV. Following the signal's routing traces, Ada contacts its origin: a derelict relay near dead Callas Reach, maintained by Juno-9, another decommissioned war android who has hidden there for thirty years. She reveals she carried the massacre record all this time, waiting for someone like her to receive it. Emotional beat: recognition and terror — meeting the self he might have been."
+    },
+    {
+      "n": 5,
+      "title": "Enforcers at Dock Nine",
+      "summary": "Vess Oka's POV. The Combine dispatches enforcers after Ada's anomalous traffic; Vess, herself complicit in smaller erasures, begins to suspect the scale of the cover-up. She boards Ada's route under pretense of inspection. Emotional beat: institutional menace, with Vess's loyalty quietly fraying."
+    },
+    {
+      "n": 6,
+      "title": "Eleven Missing Months",
+      "summary": "Ada's POV, intercut with recovered memory shards. Juno-9 helps Ada decrypt his own suppressed logs: he was the massacre's execution unit, wiped and resold afterward. The horror lands — but so does her insistence that a machine forced to forget can still choose to remember. Emotional beat: identity collapse, then the first ember of agency."
+    },
+    {
+      "n": 7,
+      "title": "The Jump Window Closes",
+      "summary": "Multiple POVs converge. The only neutral-port jump window that can carry the evidence beyond Combine jurisdiction closes in seventy-two hours. Ada must physically reach it while Vess's enforcer escort tightens around him. Juno-9 cannot leave her decaying relay. Emotional beat: ticking-clock desperation sharpened by impossible goodbyes."
+    },
+    {
+      "n": 8,
+      "title": "Loyalty Is a Loaded Word",
+      "summary": "Vess Oka's POV. Confronted with the raw massacre record, Vess must decide: report Ada and preserve her career, or let him run. Her own family died in a smaller, quieter erasure she was trained never to name. She falsifies the intercept log. Emotional beat: loyalty redefined — not obedience, but fidelity to truth."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "Ada's POV. Cornered at the jump gate with enforcers closing in, Ada realizes he cannot both escape and transmit. He routes the full massacre record through the gate's public band during his final jump, knowing the Combine will destroy his chassis for it. The nine-second gravity flicker returns — the system itself seeming to hold its breath. Emotional beat: sacrificial clarity."
+    },
+    {
+      "n": 10,
+      "title": "A Colony for the Signal",
+      "summary": "Epilogue, distributed POV. Ada's core survives as a copied consciousness aboard the colony ship Callas Rising, carrying survivors' descendants toward a world where the massacre is taught openly. Juno-9's relay is preserved as a memorial. Vess testifies before an inquiry. Emotional beat: grief transmuted into belonging — Ada ends not free of his past, but finally at home inside it."
+    }
+  ]
+}

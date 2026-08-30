@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08323",
+  "title": "Station Meridian Rising Anew",
+  "author": "Astrid Fairweather",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Rafael Ishikawa, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8323
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05601",
+  "title": "Noor and the Ledger",
+  "author": "Ulyana Oyelaran",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Kestrel Ravensworth, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. To get through this, he must untangle alibis woven thirty years ago before the trial begins.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5601
+  }
+}

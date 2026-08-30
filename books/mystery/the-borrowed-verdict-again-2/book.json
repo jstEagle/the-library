@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05924",
+  "title": "The Borrowed Verdict Again",
+  "author": "S. M. Okonkwo",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Ines Voss, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. To get through this, he must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5924
+  }
+}

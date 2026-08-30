@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09609",
+  "title": "A Semester for the Homecoming",
+  "author": "Ansel Crane",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Odile Almeida, a baker's kid who bakes feelings into bread, counts days until graduation like a sentence being served. Then a group chat starts predicting things that haven't happened yet — and they are pulled straight into the middle of it. Now they must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9609
+  }
+}

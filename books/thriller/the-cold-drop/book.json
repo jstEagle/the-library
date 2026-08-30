@@ -1,0 +1,21 @@
+{
+  "id": "THR-09200",
+  "title": "The Cold Drop",
+  "author": "Rafael Montrose",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ada Fairweather, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. Now she must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9200
+  }
+}

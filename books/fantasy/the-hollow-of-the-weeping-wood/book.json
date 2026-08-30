@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00875",
+  "title": "The Hollow of the Weeping Wood",
+  "author": "Yara Thornbury",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Casper Lockridge, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 875
+  }
+}

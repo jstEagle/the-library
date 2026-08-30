@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06578",
+  "title": "The Small Promise",
+  "author": "Tamsin Okafor",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Freya Fairweather, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. Now she must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6578
+  }
+}

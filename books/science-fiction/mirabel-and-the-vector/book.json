@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07920",
+  "title": "Mirabel and the Vector",
+  "author": "Ulyana Eriksen",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Lena Galloway, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7920
+  }
+}

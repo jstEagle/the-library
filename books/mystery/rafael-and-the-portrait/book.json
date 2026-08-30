@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05629",
+  "title": "Rafael and the Portrait",
+  "author": "Sebastian Sandoval",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Wren Voss, a hotel concierge who notices everything, thought they had seen every way a life can end. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must trap a killer who knows the case file better than the investigators do before the statute expires.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5629
+  }
+}

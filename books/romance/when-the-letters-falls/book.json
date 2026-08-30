@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06079",
+  "title": "When the Letters Falls",
+  "author": "Beatrix Delacroix",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Emrys Dravenmoor, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6079
+  }
+}

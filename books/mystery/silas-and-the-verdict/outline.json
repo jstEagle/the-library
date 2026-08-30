@@ -1,0 +1,59 @@
+{
+  "title": "Silas and the Verdict",
+  "slug": "mystery/silas-and-the-verdict",
+  "model": "stealth/ox-alpha",
+  "premise": "True-crime podcaster Ulyana Nakamura has spent three years documenting the unsolved 1971 disappearance of heiress Marguerite Voss when a letter arrives from a man named Silas Brandt, confessing to the crime and claiming he'll be dead before she can reach him. Following his trail to the decaying Voss estate, Ulyana discovers that Silas was not the killer but the estate's groundskeeper, who witnessed the murder and spent fifty years hiding the truth inside a coded ledger of garden expenses. As Ulyana decodes it with help from the estranged Voss grandchildren — a found family forged in shared suspicion — she realizes the surviving heir, Judge Edmund Voss, silenced Marguerite over her inheritance and has been eliminating witnesses ever since. In the climax, Edmund burns the ledger's final page and traps them in the greenhouse; Silas, dying but alive, delivers the verdict he always owed: testimony recorded in Ulyana's final episode, broadcast as police arrive. The story ends with justice rendered outside the courtroom, the inheritance redirected to a trust in Marguerite's name, and Ulyana gaining the family she never had.",
+  "about_author": "Lena Zhou is a former court stenographer turned novelist who spent a decade transcribing small-town trials before writing fiction full-time. She lives in coastal Oregon, where she records oral histories of families whose secrets never made the news.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Postmarked the Day After",
+      "summary": "Ulyana Nakamura, mid-production on her podcast about the 1971 Voss disappearance, receives a confession letter postmarked one day after Silas Brandt's reported funeral. The handwriting trembles; the confession names no weapon, only a ledger. Her POV. Emotional beat: professional skepticism cracking into obsession as she books a ticket to Ashfall County."
+    },
+    {
+      "n": 2,
+      "title": "The Groundskeeper's Grave",
+      "summary": "In Ashfall, Ulyana finds Silas's grave freshly dug but oddly shallow, and the funeral home has no record of a body. A groundskeeper's cottage on the Voss estate still holds his belongings. Her POV. Emotional beat: unease deepening into dread — someone wanted Silas erased twice, once by paper, once by earth."
+    },
+    {
+      "n": 3,
+      "title": "Ledger of Small Sums",
+      "summary": "Ulyana breaks into the cottage and finds fifty years of garden ledgers where certain entries — rose plantings, lime purchases, a 'deep trench, November' — recur in odd patterns. She meets Wren Voss, Marguerite's grandniece, who resents the family but guards its ruins. Alternating POV. Emotional beat: two lonely investigators recognizing each other."
+    },
+    {
+      "n": 4,
+      "title": "The Judge's House",
+      "summary": "Retired Judge Edmund Voss welcomes Ulyana with impeccable courtesy, offering archives and warnings in equal measure: 'My aunt's story attracts unstable people.' Ulyana notices fresh paint over a doorframe and a greenhouse kept locked. His POV briefly, then hers. Emotional beat: charm as menace; the reader feels the trap closing politely."
+    },
+    {
+      "n": 5,
+      "title": "What the Roses Were For",
+      "summary": "Wren decodes the first cipher layer: ledger entries map to dates and locations across the estate. One cluster points beneath the rose terrace, where soil tests Ulyana commissions come back anomalous. Someone reports their trespass; a sheriff's deputy warns them off. Ulyana's POV. Emotional beat: triumph curdling into fear — they are being watched by someone with local power."
+    },
+    {
+      "n": 6,
+      "title": "Silas, Alive Enough",
+      "summary": "A note in Silas's hand leads Ulyana to a retired nurse's cabin in the hills: Silas faked his death to survive long enough to talk. He confesses he saw Edmund kill Marguerite during an inheritance dispute and buried evidence instead of reporting it, bound by loyalty and terror. Silas's POV. Emotional beat: guilt finally spoken after fifty years of silence."
+    },
+    {
+      "n": 7,
+      "title": "The Third Grandchild",
+      "summary": "Wren discovers a hidden codicil: Marguerite left everything to an unborn child, meaning an heir may still live. Edmund learns of their progress when the county clerk tips him off. Theo, Wren's estranged brother, arrives uninvited — and Ulyana suspects him of being Edmund's informant. Multiple POVs. Emotional beat: found family fracturing under suspicion just as it forms."
+    },
+    {
+      "n": 8,
+      "title": "Ashes on the Terrace",
+      "summary": "Edmund excavates the rose terrace himself at night, burning what he finds. Ulyana and Wren arrive too late for the bones but catch him in the act — and realize the ledger's true key was never the entries but the binding thread sewn through each page. Edmund knows they know. Ulyana's POV. Emotional beat: horror and resolve fused; no way back to safety."
+    },
+    {
+      "n": 9,
+      "title": "Verdict in the Greenhouse",
+      "summary": "Edmund lures them to the locked greenhouse to destroy the ledger and stage an accident. Silas arrives, frail and armed only with the truth, and confronts the man he served. Ulyana records everything live as Theo — cleared at last — cuts the power and opens the doors for arriving deputies tipped by listeners streaming the episode. Climax. Emotional beat: terror transfigured into testimony."
+    },
+    {
+      "n": 10,
+      "title": "Marguerite's Trust",
+      "summary": "Edmund is charged; the codicil's heir is located — Silas's own granddaughter, Marguerite's secret daughter's child. The inheritance becomes a trust restoring the estate as a community archive, and Silas spends his last weeks teaching Ulyana the ledger's remaining secrets. Epilogue-style, Ulyana's POV. Emotional beat: grief braided with belonging — justice done, family found, silence ended."
+    }
+  ]
+}

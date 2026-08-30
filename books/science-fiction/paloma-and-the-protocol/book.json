@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07589",
+  "title": "Paloma and the Protocol",
+  "author": "Freya Delacroix",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Mirabel Brightwater, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7589
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01213",
+  "title": "When the Spire Sings",
+  "author": "Gideon Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Beatrix Dunmore, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "belonging",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1213
+  }
+}

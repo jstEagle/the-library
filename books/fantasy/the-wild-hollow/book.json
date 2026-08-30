@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00747",
+  "title": "The Wild Hollow",
+  "author": "Felix Joubert",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Zephyrine Vasquez, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 747
+  }
+}

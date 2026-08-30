@@ -1,0 +1,29 @@
+{
+  "title": "When the Signal Falls Again",
+  "slug": "science-fiction/when-the-signal-falls-again",
+  "model": "stealth/ox-alpha",
+  "premise": "Zephyrine Thornbury, navigator of the salvage hauler Vesper's Loom, has spent years tending a beacon whose original commissioning records were erased — and whose hold contains the neural backups of the war's first casualties. When gravity across the Halcyon system stutters for nine seconds, the beacon transmits a message Zephyrine never wrote: proof that the war's founding atrocity was staged by the Admiralty itself. Hunted by both fleets, they must carry the message through the collapsing jump window to the neutral archive station Meridian, where it will end the war by exposing everyone who profited from it — including the family line that produced Zephyrine's own backups. In the end, Zephyrine broadcasts the truth themselves rather than deliver it to any faction, choosing to become the signal instead of its courier.",
+  "about_author": "Wendell Hartwell is the pen name of a former orbital logistics analyst who spent a decade writing routing software for deep-space freight before turning to fiction. They live in a coastal town with too many radios and write stories about people who inherit machines they never asked for.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Falling",
+      "summary": "Zephyrine's POV. A routine maintenance shift on the forgotten beacon turns catastrophic when gravity flickers system-wide for exactly nine seconds, and the beacon wakes, broadcasting a message in Zephyrine's own voiceprint that they never recorded. The emotional beat is vertigo — the horror of discovering your identity has been used without you, and that something in the hold answered."
+    },
+    {
+      "n": 2,
+      "title": "The Backups Wake",
+      "summary": "Zephyrine's POV, intercut with fragments from the oldest backup, a woman named Odile Thornbury. The message's contents reveal the Admiralty staged the atrocity that started the war; both fleets converge on the Vesper's Loom. Zephyrine must decide whether to trust the sleeping copies of their own genetic line. The beat is dread sharpening into resolve as flight becomes necessity."
+    },
+    {
+      "n": 3,
+      "title": "The Window Closes",
+      "summary": "Dual POV: Zephyrine piloting through the blockade while Odile's backup, briefly booted, argues that delivering the message to any faction just recreates the corruption it exposes. A boarding action forces Zephyrine to burn the jump window early, stranding them short of Meridian with minutes of power left. The climax beat is sacrifice — Zephyrine chooses to broadcast the full message on open channels, ending the war's secrecy but surrendering any claim to credit or safety."
+    },
+    {
+      "n": 4,
+      "title": "What Remains Broadcasting",
+      "summary": "Odile's POV, now awake and permanent. The fleets stand down as the truth spreads; the beacon is decommissioned at last, its purpose fulfilled. Zephyrine, stripped of rank and hunted by no one, helps Odile choose what to do with an inherited life. The resolution beat is quiet inheritance — identity not as something given or stolen, but something rebuilt in the open."
+    }
+  ]
+}

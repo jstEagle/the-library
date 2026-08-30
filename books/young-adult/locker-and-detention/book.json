@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09989",
+  "title": "Locker and Detention",
+  "author": "Paloma Oyelaran",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Kestrel Ashgrove, a scholarship student at an academy with too many secrets, counts days until graduation like a sentence being served. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, he discovers that staying invisible was never really an option. To get through this, he must expose what the school board buried before the last game of the season.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9989
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08294",
+  "title": "When the Static Burns Revisited",
+  "author": "Astrid Reyes",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Jonah Ashgrove, the last human technician on an automated relay station, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before the reactor finishes its countdown.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8294
+  }
+}

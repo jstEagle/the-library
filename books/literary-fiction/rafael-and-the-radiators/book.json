@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04352",
+  "title": "Rafael and the Radiators",
+  "author": "Isandro Coldharbour",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Wren Nystrom, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. Then a box of undelivered letters surfaces behind a wardrobe — and he is pulled straight into the middle of it. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4352
+  }
+}

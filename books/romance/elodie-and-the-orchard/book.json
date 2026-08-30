@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05998",
+  "title": "Elodie and the Orchard",
+  "author": "Juniper Blackwood",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Freya Underhill, a ghostwriter secretly penning a rival's memoirs, has spent twenty years rebuilding a life measured in small safe steps. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5998
+  }
+}

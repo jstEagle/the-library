@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07967",
+  "title": "Lena and the Orbit",
+  "author": "Lior Eastwick",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Kestrel Hartwell, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7967
+  }
+}

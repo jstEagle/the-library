@@ -1,0 +1,21 @@
+{
+  "id": "THR-09158",
+  "title": "The Safehouse of Geneva",
+  "author": "Lena Villalobos",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Gideon Nystrom, a fixer for an embassy that doesn't officially exist, hasn't slept through the night since the incident. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9158
+  }
+}

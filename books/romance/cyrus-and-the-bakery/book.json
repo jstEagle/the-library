@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06865",
+  "title": "Cyrus and the Bakery",
+  "author": "R. M. Dunmore",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Ivo Halloran, a wedding planner who doesn't believe in weddings anymore, has spent three years rebuilding a life measured in small safe steps. But when the person behind a decade of letters moves in next door, she discovers that staying invisible was never really an option. To get through this, she must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6865
+  }
+}

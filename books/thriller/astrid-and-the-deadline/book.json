@@ -1,0 +1,21 @@
+{
+  "id": "THR-09138",
+  "title": "Astrid and the Deadline",
+  "author": "Ada Pemberton",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ansel Dunmore, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, they discover that staying invisible was never really an option. To get through this, they must stop an attack scheduled to look like an accident before the border checkpoint shifts change.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9138
+  }
+}

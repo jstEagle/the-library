@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06439",
+  "title": "The Whole Kitchen",
+  "author": "Jonah Nakamura",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Bram Underhill, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. But when a lost letter surfaces, postmarked eleven years ago, she discovers that staying invisible was never really an option. Now she must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6439
+  }
+}

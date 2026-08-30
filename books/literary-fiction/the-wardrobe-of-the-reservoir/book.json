@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04580",
+  "title": "The Wardrobe of the reservoir",
+  "author": "Ulyana Nakamura",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wendell Marchetti, a translator losing a childhood language one borrowed word at a time, has spent ten years practicing the art of almost saying it. Then a childhood home goes up for auction — and he is pulled straight into the middle of it. Now he must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4580
+  }
+}

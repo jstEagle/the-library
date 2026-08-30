@@ -1,0 +1,21 @@
+{
+  "id": "THR-09183",
+  "title": "Ines and the Debt",
+  "author": "Sebastian Vane",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Xanthe Yarrow, a whistle-blower living under four names, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the border checkpoint shifts change.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9183
+  }
+}

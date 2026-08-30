@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00285",
+  "title": "A Escarpment for the Landfall",
+  "author": "Oscar Sandoval",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ivo Ashgrove, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. But when the tide reveals a cave that legends charge admission to, she discovers that staying invisible was never really an option. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 285
+  }
+}

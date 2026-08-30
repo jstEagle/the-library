@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04148",
+  "title": "Postcards and Undertow",
+  "author": "Juniper Thackeray",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Orsen Delacroix, a piano tuner who hears the house's history in its radiators, has spent ten years practicing the art of almost saying it. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. To get through this, he must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4148
+  }
+}

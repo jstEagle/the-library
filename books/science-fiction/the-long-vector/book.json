@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07350",
+  "title": "The Long Vector",
+  "author": "Isandro Whitlock",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Mirabel Nystrom, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "found family",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7350
+  }
+}

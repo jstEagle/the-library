@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00735",
+  "title": "A Choir for the Wolf",
+  "author": "Ansel Eastwick",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Odile Voss, a cartographer of unmapped realms, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, she discovers that staying invisible was never really an option. To get through this, she must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 735
+  }
+}

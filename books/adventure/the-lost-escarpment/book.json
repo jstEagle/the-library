@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00258",
+  "title": "The Lost Escarpment",
+  "author": "Sebastian Voss",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Orsen Blackwood, a bush pilot flying medicine and rumors into the interior, keeps moving because stopping costs more. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "identity",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 258
+  }
+}

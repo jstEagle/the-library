@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01262",
+  "title": "A Ember for the Veil",
+  "author": "Ulyana Oyelaran",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Odile Coldharbour, a hedge-witch's runaway apprentice, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, he discovers that staying invisible was never really an option. To get through this, he must find the door out of a country that no longer exists before the usurper's armies reach the free cities.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1262
+  }
+}

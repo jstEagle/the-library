@@ -1,0 +1,21 @@
+{
+  "id": "THR-08736",
+  "title": "A Extraction for the Cover",
+  "author": "Elodie Reyes",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Casper Villalobos, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. Then a voiceprint unlocks a server on another continent — and she is pulled straight into the middle of it. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8736
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08527",
+  "title": "Dominic and the Asset",
+  "author": "Dominic Voss",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Jonah Sandoval, an interpreter attached to a peace delegation destined to fail, has spent seven years following rules that keep getting rewritten. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. To get through this, he must burn the network that did the training before the summit convenes.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8527
+  }
+}

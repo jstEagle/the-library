@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05770",
+  "title": "Lior and the Cipher",
+  "author": "Vesper Quintana",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Dominic Iversen, a true-crime podcaster chasing the coldest case on record, has spent seven years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5770
+  }
+}

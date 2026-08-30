@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02771",
+  "title": "Sebastian and the Clock",
+  "author": "Oscar Hartwell",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "August Crane, a widowed lighthouse keeper during the year of the great storms, measures the world in what can be carried when the orders come. Then the army requisitions the town and the ledger with all the names — and he is pulled straight into the middle of it. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2771
+  }
+}

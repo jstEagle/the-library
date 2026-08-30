@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05172",
+  "title": "The Ledger of the Fens",
+  "author": "Sable Okonkwo",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Wren Okafor, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5172
+  }
+}

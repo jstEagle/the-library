@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02068",
+  "title": "The Last Choir Revisited",
+  "author": "Ada Winterbourne",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Sebastian Sterling, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. But when the old gods begin answering prayers again, he discovers that staying invisible was never really an option. To get through this, he must steal back a soul sold to the court beneath the mountain before the last dragon-fire gutters out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2068
+  }
+}

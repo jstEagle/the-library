@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04414",
+  "title": "The Ordinary Postcards",
+  "author": "Paloma Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "August Crane, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4414
+  }
+}

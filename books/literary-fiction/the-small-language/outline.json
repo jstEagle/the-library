@@ -1,0 +1,29 @@
+{
+  "title": "The Small Language",
+  "slug": "literary-fiction/the-small-language",
+  "model": "stealth/ox-alpha",
+  "premise": "Lior Whitlock, a translator who has spent a decade translating everything except the dying language of their childhood, attends the funeral of their grandmother and is approached by a stranger who calls the family by an old name no one has spoken aloud in years. The name unlocks fragments of a suppressed family history — a forced relocation from the old neighborhood, a grandmother who deliberately stopped teaching the language to protect her children. Lior must return to the condemned district before its last bus route is rerouted, recovering words, recordings, and a buried truth about why the language was abandoned. In the end, Lior cannot save the language, but they choose to speak what remains of it aloud at the neighborhood's demolition, passing the broken whole to a younger cousin rather than letting it die in silence.",
+  "about_author": "Wendell Winterbourne is the pen name of a former court interpreter who spent fifteen years listening to other people's most important sentences. They write about the spaces between languages and the families that live there.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Borrowed Word",
+      "summary": "Lior's POV. At their grandmother's funeral, Lior delivers a eulogy in three languages but stumbles on the fourth, the one from childhood, now reduced to a handful of borrowed words. A stranger named Ada presses a card into their hand bearing the family's old surname. Emotional beat: grief tangled with shame at how much has already been lost."
+    },
+    {
+      "n": 2,
+      "title": "A Name Nobody Uses",
+      "summary": "Alternating POV between Lior and their mother, Ruth. Ruth refuses to explain the old name, insisting the past was buried for good reason; Lior secretly researches it and finds records of the neighborhood's relocation decades ago. Emotional beat: rising suspicion as Lior realizes the language's death was not natural but chosen."
+    },
+    {
+      "n": 3,
+      "title": "The Last Bus to Marrow Street",
+      "summary": "Lior's POV. Lior tracks Ada to the condemned old neighborhood and rides the final bus before the route is rerouted. Ada reveals she knew Lior's grandmother — and plays a cassette of her singing in the language, recorded after she supposedly let it go. Emotional beat: the climax, where Lior confronts Ruth by phone and hears, for the first time, why her mother went silent: fear, not betrayal."
+    },
+    {
+      "n": 4,
+      "title": "What Remains Is Spoken",
+      "summary": "Lior's POV with a closing passage from young cousin Noa. At the neighborhood's demolition, Lior speaks the recovered words aloud — imperfect, incomplete — and teaches them to Noa, refusing both nostalgia and silence. Emotional beat: resolution through acceptance; belonging redefined not as fluency but as the willingness to carry what survives."
+    }
+  ]
+}

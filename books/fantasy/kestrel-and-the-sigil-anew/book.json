@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01999",
+  "title": "Kestrel and the Sigil Anew",
+  "author": "Zephyrine Winterbourne",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Zephyrine Ravensworth, a beast-speaker hiding a forbidden gift, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1999
+  }
+}

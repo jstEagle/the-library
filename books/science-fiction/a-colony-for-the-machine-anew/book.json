@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08275",
+  "title": "A Colony for the Machine Anew",
+  "author": "Sable Underhill",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Beatrix Eastwick, an insurance investigator of impossible accidents, has spent twelve years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. To get through this, they must reach the relay at the edge of dead space, racing the signal before the reactor finishes its countdown.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8275
+  }
+}

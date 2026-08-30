@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00578",
+  "title": "Silas and the Provision",
+  "author": "Rafael Almeida",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Wren Kavanagh, a mountain guide blacklisted from two countries, carries a compass, a debt, and very little else. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 578
+  }
+}

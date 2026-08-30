@@ -1,0 +1,119 @@
+{
+  "title": "Lena and the Deadline",
+  "slug": "thriller/lena-and-the-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Felix Oyelaran, a whistle-blower who has lived under four identities since exposing a data-brokerage cartel, receives a voiceprint-locked message from his dead sister's account. The voiceprint belongs to Lena Vasquez, a forensic accountant who has been quietly assembling the cartel's ledger for years, and her message unlocks a server in Lagos containing proof that the cartel plans to stage an infrastructure 'accident' in Frankfurt before markets open, shorting billions off the panic. As Felix and Lena race across three countries pursued by both the cartel's fixers and the intelligence service that once burned Felix, they discover the attack is scheduled using Felix's own stolen identity as the fall guy. In the end they can't stop the attack through legal channels — the courts are compromised — so they weaponize the cartel's own trading algorithms against it, publicly detonating the fraud instead of the pipeline, and Felix chooses to surrender his fourth name and testify under his real one.",
+  "about_author": "U. M. Vasquez is the pen name of a former compliance analyst who spent a decade inside financial institutions before leaving to write about the people systems fail. They live between Lisbon and Accra and write only at night.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Fourth Name",
+      "summary": "POV Felix. Living quietly in Porto as 'Daniel Reyes,' Felix follows his rigid safety rituals until a routine errand triggers a voiceprint prompt on an old burner: a woman's voice asking for 'the brother of Adaeze.' The emotional beat is the vertigo of a buried past knocking on a door he sealed twelve years ago."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "POV Felix. The message plays fully: Lena Vasquez, a forensic accountant, found Adaeze's hidden archive and needs Felix to unlock a server in Lagos before someone else does. He refuses — then sees his own current alias listed in the attached files. Beat: dread curdling into inevitability."
+    },
+    {
+      "n": 3,
+      "title": "What Adaeze Left",
+      "summary": "POV Lena. In Lagos, Lena explains how she traced the cartel, Meridian Concord, through shell companies after her firm was bought and scrubbed. She reveals the server requires Felix's childhood voiceprint — a biometric from a life only he remembers. Beat: wary alliance formed over shared grief."
+    },
+    {
+      "n": 4,
+      "title": "The Server Room",
+      "summary": "POV Felix. In a decommissioned bank vault, Felix speaks his dead sister's pet name aloud and the archive opens: trade schedules, bribed regulators, and a countdown tied to Frankfurt. Someone else has accessed it recently. Beat: awe followed by the cold realization they are not alone."
+    },
+    {
+      "n": 5,
+      "title": "Fixer",
+      "summary": "POV antagonist — Ivo Brandt, Meridian's fixer, ordered to retrieve the archive and erase everyone who touched it. We see his methodical competence and one flicker of doubt about the Frankfurt operation's body count. Beat: menace established; the hunt begins."
+    },
+    {
+      "n": 6,
+      "title": "Twelve Years of Rules",
+      "summary": "POV Felix. Fleeing Lagos by night bus, Felix recounts how each of his four names was born from a betrayal — including by the intelligence officer, Halloran, who once promised him protection. Beat: the cost of whistle-blowing made intimate and specific."
+    },
+    {
+      "n": 7,
+      "title": "Ledger of Ghosts",
+      "summary": "POV Lena. Decoding the archive on a moving ferry to Accra, Lena finds the Frankfurt event is designed to look like a gas-pipeline accident timed to market open — and that the patsy is Felix's third identity. Beat: rising urgency; the deadline becomes concrete."
+    },
+    {
+      "n": 8,
+      "title": "Halloran",
+      "summary": "POV Felix. A contact arranges a meeting with retired officer Halloran, who seems to offer help — then tips off Brandt. Felix escapes because Lena ignored his instructions and staked out the café. Beat: trust tested and unexpectedly earned."
+    },
+    {
+      "n": 9,
+      "title": "Accra Interlude",
+      "summary": "POV Lena. Hiding in a cousin's print shop, Lena and Felix argue strategy: go to regulators (her instinct) or go dark and strike directly (his hard-won rule). They discover a second countdown embedded in the archive — someone moved the timeline up. Beat: intimacy deepening under pressure."
+    },
+    {
+      "n": 10,
+      "title": "The Man Who Was Daniel",
+      "summary": "POV Felix. Brandt burns Felix's 'Daniel' identity publicly, framing him for money laundering in Portuguese press. Felix watches his safe life get executed in real time. Beat: grief and rage; no way back to ordinary life."
+    },
+    {
+      "n": 11,
+      "title": "Frankfurt Bound",
+      "summary": "POV Lena. Using forged credentials bought from a sympathetic archivist, the pair fly into Europe separately. Lena infiltrates a Meridian front charity gala to photograph a key trader. Beat: nerve-shredding competence; first taste of offense rather than flight."
+    },
+    {
+      "n": 12,
+      "title": "Gala",
+      "summary": "POV Felix. Working security-floor access, Felix comes face to face with Brandt and talks his way past him using his fourth name — the one identity Brandt doesn't yet have. Beat: cat-and-mouse tension; Felix discovers his own composure again."
+    },
+    {
+      "n": 13,
+      "title": "Compromised Courts",
+      "summary": "POV Lena. A whistleblower lawyer agrees to file an emergency injunction, then withdraws within hours after a judge's clerk leaks their location. The legal system is shown to be part of the machine. Beat: despair — justice inside the law is closed to them."
+    },
+    {
+      "n": 14,
+      "title": "The Algorithm Knows",
+      "summary": "POV Felix. Studying Meridian's trading code, Felix realizes the short positions are automated against a trigger signal — meaning if the 'accident' never happens, the algorithm will still fire and expose the fraud. Beat: the plan crystallizes; hope with teeth."
+    },
+    {
+      "n": 15,
+      "title": "Pipeline Country",
+      "summary": "POV Lena. They trace the staged accident site to a compressor station outside Frankfurt and find it already rigged with failsafe-looking sabotage meant to be discovered post-hoc. Beat: horror at the craftsmanship of the lie; the clock under 48 hours."
+    },
+    {
+      "n": 16,
+      "title": "Brandt's Doubt",
+      "summary": "POV Brandt. Ordered to accelerate the timeline, Brandt pulls the maintenance logs and realizes the operation will kill a night crew deliberately. He hesitates — and Meridian notices. Beat: the antagonist cracks; a thread of conscience."
+    },
+    {
+      "n": 17,
+      "title": "Signal Jam",
+      "summary": "POV Felix. To stop the physical blast, Felix and Lena must spoof the station's sensor network while evading Meridian's technical team. The infiltration half-succeeds: the blast is prevented, but Lena is captured covering Felix's escape. Beat: victory poisoned by sacrifice."
+    },
+    {
+      "n": 18,
+      "title": "Trade Date",
+      "summary": "POV Felix. With hours to market open and Lena in Meridian's hands, Felix faces the choice: trade himself for her or let the algorithm fire and expose everything, knowing Meridian may kill her anyway. Beat: the moral crux — justice versus the person he loves."
+    },
+    {
+      "n": 19,
+      "title": "Open",
+      "summary": "POV alternating Felix/Lena. At 9:00 Frankfurt time, Felix feeds the doctored trigger into Meridian's own feed; the algorithm shorts a catastrophe that never occurs, and the positions unravel publicly on every screen. Simultaneously Brandt, choosing his conscience, releases Lena. Beat: climax — the machine devours its makers."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath in Real Time",
+      "summary": "POV Lena. Markets reel, journalists swarm, and Meridian executives begin destroying documents while prosecutors — suddenly brave — open cases. Lena and Felix watch from a safehouse, too numb to celebrate. Beat: hollow triumph; the cost tallied."
+    },
+    {
+      "n": 21,
+      "title": "The Fifth Name",
+      "summary": "POV Felix. Offered new papers and a quiet exit, Felix instead decides to testify under his birth name, Oyelaran, ending twelve years of aliases. He visits Adaeze's grave in Lagos and finally says her name out loud in public. Beat: reclamation of identity; grief transmuted into resolve."
+    },
+    {
+      "n": 22,
+      "title": "Lena and the Deadline",
+      "summary": "POV Lena. Months later, at the hearing's opening, Lena publishes the full ledger under her own name, refusing anonymity. She and Felix meet outside the courthouse, unremarkable and free, as the first verdicts land. Beat: resolution — justice achieved outside the law, owned openly at last."
+    }
+  ]
+}

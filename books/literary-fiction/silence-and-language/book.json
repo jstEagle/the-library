@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04519",
+  "title": "Silence and Language",
+  "author": "Q. M. Amberdale",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Oscar Vane, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. Then the last speaker of a language asks for one final student — and she is pulled straight into the middle of it. To get through this, she must ask the question the whole family arranged itself around before the mother's memory goes entirely.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4519
+  }
+}

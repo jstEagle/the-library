@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09963",
+  "title": "Lior and the Recipe",
+  "author": "Ansel Hartwell",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Sable Reyes, the new kid at a school built over something old, has spent seven years being so careful it hurts. But when grandma's recipe box contains directions that aren't for food, they discover that staying invisible was never really an option. Now they must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9963
+  }
+}

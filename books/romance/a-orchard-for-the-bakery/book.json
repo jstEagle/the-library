@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06143",
+  "title": "A Orchard for the Bakery",
+  "author": "Ansel Pemberton",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Oscar Ishikawa, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. Now he must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6143
+  }
+}

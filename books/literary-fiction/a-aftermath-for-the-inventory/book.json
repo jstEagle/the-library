@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04321",
+  "title": "A Aftermath for the Inventory",
+  "author": "Elodie Galloway",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Coral Reyes, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. Then a stranger at the funeral knows the family by a name nobody uses — and he is pulled straight into the middle of it. To get through this, he must say goodbye properly, at last, out loud before the house sale closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4321
+  }
+}

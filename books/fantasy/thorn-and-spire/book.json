@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01038",
+  "title": "Thorn and Spire",
+  "author": "August Winterbourne",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Orsen Delacroix, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1038
+  }
+}

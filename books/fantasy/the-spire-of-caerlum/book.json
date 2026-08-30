@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01082",
+  "title": "The Spire of Caerlum",
+  "author": "Juniper Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Xanthe Nystrom, a bone-carver who hears the dead, has spent three years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1082
+  }
+}

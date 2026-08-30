@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06568",
+  "title": "Yara and the Promise",
+  "author": "Mara Crane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Hazel Ishikawa, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. But when a fake date to survive a family reunion feels too real by dessert, they discover that staying invisible was never really an option. To get through this, they must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6568
+  }
+}

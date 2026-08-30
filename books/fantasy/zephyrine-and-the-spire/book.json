@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01119",
+  "title": "Zephyrine and the Spire",
+  "author": "Yara Almeida",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Wendell Delacroix, a thief who steals memories, has spent seven years selling small charms in a city that outlawed magic. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must steal back a soul sold to the court beneath the mountain before the last dragon-fire gutters out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1119
+  }
+}

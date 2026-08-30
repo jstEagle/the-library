@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09766",
+  "title": "The Quiet Semester",
+  "author": "L. M. Ashgrove",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Coral Crane, the team's statistician who knows the game is rigged, counts days until graduation like a sentence being served. But when a best friend goes missing, leaving only a set of keys behind, she discovers that staying invisible was never really an option. To get through this, she must tell the truth even if it costs the friendship before prom.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9766
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07055",
+  "title": "The Last Colony",
+  "author": "Dominic Lockridge",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Cyrus Ashgrove, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7055
+  }
+}

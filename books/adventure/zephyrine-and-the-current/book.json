@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00575",
+  "title": "Zephyrine and the Current",
+  "author": "Freya Okafor",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Paloma Montrose, a bush pilot flying medicine and rumors into the interior, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, they discover that staying invisible was never really an option. To get through this, they must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 575
+  }
+}

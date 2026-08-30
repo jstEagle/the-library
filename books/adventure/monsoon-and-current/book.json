@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00183",
+  "title": "Monsoon and Current",
+  "author": "Ulyana Fairweather",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Jude Vasquez, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and she is pulled straight into the middle of it. Now she must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 183
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05591",
+  "title": "Wren and the Alibi",
+  "author": "Wendell Nystrom",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Bram Marchetti, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5591
+  }
+}

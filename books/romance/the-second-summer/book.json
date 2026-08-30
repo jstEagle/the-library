@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05954",
+  "title": "The Second Summer",
+  "author": "Sebastian Villalobos",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Sable Okafor, a wedding planner who doesn't believe in weddings anymore, has spent twelve years rebuilding a life measured in small safe steps. Then a fake date to survive a family reunion feels too real by dessert — and she is pulled straight into the middle of it. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5954
+  }
+}

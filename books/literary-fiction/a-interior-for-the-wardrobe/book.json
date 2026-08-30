@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04319",
+  "title": "A Interior for the Wardrobe",
+  "author": "Rosalind Joubert",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ivo Dravenmoor, a former prodigy returning to the conservatory as a janitor, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. Now they must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4319
+  }
+}

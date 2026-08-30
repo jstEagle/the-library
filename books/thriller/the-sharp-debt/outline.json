@@ -1,0 +1,119 @@
+{
+  "title": "The Sharp Debt",
+  "slug": "thriller/the-sharp-debt",
+  "model": "stealth/ox-alpha",
+  "premise": "Dominic Fairweather, a private security contractor whose clients pay for discretion more than protection, is hired to guard a data broker's server farm in Lisbon. When a voiceprint he recorded years ago unlocks a hidden partition, Dominic discovers his old mentor — presumed dead — is alive and has defected from a covert intelligence cell, carrying proof of a trafficking network the cell protects. Tasked with extracting the defector before the cell's hunters reach him, Dominic realizes the man may be bait designed to flush out anyone loyal enough to come. As his found crew of misfit operators closes ranks around him, Dominic must choose between the debt he owes the dead and the family he never expected. In the end, he burns his own anonymity to expose the network, loses his mentor a second time for good, and finds that belonging was the one thing no contract ever covered.",
+  "about_author": "Vesper Almeida is the pen name of a former risk consultant who spent a decade advising security firms across three continents before turning to fiction. They write thrillers about people whose loyalties are bought, borrowed, and occasionally given away free.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Retainer",
+      "summary": "POV Dominic. A wealthy but nervous client hires Fairweather Solutions to guard a Lisbon server facility nobody will name on paper. Dominic takes the job out of habit, noting the client's fear feels rehearsed. Emotional beat: professional detachment masking a quiet loneliness he refuses to examine."
+    },
+    {
+      "n": 2,
+      "title": "The Quiet Floor",
+      "summary": "POV Dominic. During a routine sweep, Dominic notices an air-gapped rack drawing power it shouldn't. His tech, Priya, finds a voice-locked partition humming behind the firewall. Emotional beat: the first itch of wrongness — the building is guarding something back."
+    },
+    {
+      "n": 3,
+      "title": "Voiceprint",
+      "summary": "POV Dominic. Testing the lock, Priya plays archived audio from an old case file; a phrase in Dominic's own recorded voice cracks the partition open. Inside: encrypted dossiers and a message addressed to him by name. Emotional beat: cold shock — someone planned this years ago."
+    },
+    {
+      "n": 4,
+      "title": "The Man Who Was Dead",
+      "summary": "POV Dominic. The message is signed by Elias Voss, Dominic's mentor, officially killed in 2019. Flashbacks interleave with Dominic reading: training, betrayal, the funeral he drank through. Emotional beat: grief reopened like a wound kept deliberately unhealed."
+    },
+    {
+      "n": 5,
+      "title": "Crew Assembly",
+      "summary": "POV alternating between Dominic, ex-medic Tomas, and forger Wren as Dominic calls in favors without explaining why. Each arrives with their own debts to him. Emotional beat: the found family assembling — loyalty offered before questions asked."
+    },
+    {
+      "n": 6,
+      "title": "What the Server Knew",
+      "summary": "POV Priya. Decrypted files reveal a trafficking pipeline run through a covert intelligence cell called Meridian, laundered via the very clients Dominic guards. Emotional beat: nausea of complicity — his discretion had a body count."
+    },
+    {
+      "n": 7,
+      "title": "Safehouse, Porto",
+      "summary": "POV Elias (interlude). Voss, hiding in Porto, records a contingency video: if you're hearing this, they've found me, or I'm leading them to you. He admits he may be bait. Emotional beat: a mentor's guilt, love disguised as manipulation."
+    },
+    {
+      "n": 8,
+      "title": "Contract Terms",
+      "summary": "POV Dominic. The anonymous client offers a fortune to destroy the partition and forget it. Dominic declines and torches the retainer instead. Emotional beat: the moment justice stops being billable."
+    },
+    {
+      "n": 9,
+      "title": "Hunters",
+      "summary": "POV Wren. Meridian's cleaners arrive in Lisbon posing as auditors; Wren spots the tradecraft because she used to be them. The crew realizes they're already flagged. Emotional beat: paranoia sharpening into resolve."
+    },
+    {
+      "n": 10,
+      "title": "Extraction Plan",
+      "summary": "POV Tomas. The crew plans Voss's extraction: three routes, one decoy convoy, Priya spoofing border telemetry. Tomas argues the plan is too clean — real ops bleed. Emotional beat: dread braided with dark crew humor."
+    },
+    {
+      "n": 11,
+      "title": "Contact",
+      "summary": "POV Dominic. Dominic meets Voss at a rail yard outside Porto; the reunion is all business until Voss says his name like an apology. Voss warns him: they let me defect so you'd come. Emotional beat: tenderness weaponized by circumstance."
+    },
+    {
+      "n": 12,
+      "title": "The Bait Question",
+      "summary": "POV Dominic. On the road south, Dominic interrogates the possibility that Voss is a plant — the evidence fits too neatly. Voss neither confirms nor denies. Emotional beat: trust as a calculated gamble, not a feeling."
+    },
+    {
+      "n": 13,
+      "title": "Checkpoint",
+      "summary": "POV Wren. The decoy convoy is hit; Wren burns her cover identity to pull the team off the motorway. First blood of the operation. Emotional beat: cost made concrete — competence can't undo loss."
+    },
+    {
+      "n": 14,
+      "title": "Meridian's Offer",
+      "summary": "POV Dominic. A Meridian handler contacts Dominic directly: walk away, keep your crew alive, get your anonymity back. He asks for one night to decide. Emotional beat: temptation framed precisely in the currency of belonging."
+    },
+    {
+      "n": 15,
+      "title": "The Vote",
+      "summary": "POV Tomas. Dominic puts the choice to the crew — take the deal or go to war. Everyone votes to fight, each citing what Dominic once did for them. Emotional beat: found family crystallizing into a deliberate act, not an accident."
+    },
+    {
+      "n": 16,
+      "title": "Counterstrike",
+      "summary": "POV Priya. Instead of running, the crew leaks fragments of the dossier to journalists and hostile agencies simultaneously, making themselves too hot to kill quietly. Emotional beat: turning hunted into dangerous."
+    },
+    {
+      "n": 17,
+      "title": "Safehouse Siege",
+      "summary": "POV Dominic. Meridian's cleaners breach the mountain safehouse at dawn. A brutal close-quarters fight; Tomas is gravely wounded shielding Voss. Emotional beat: terror and ferocity — protecting family with hands, not arguments."
+    },
+    {
+      "n": 18,
+      "title": "Voss's Choice",
+      "summary": "POV Elias. Cornered, Voss reveals the full truth: he engineered everything to force Dominic to finish what got him 'killed' — exposing Meridian. He surrenders himself as a diversion. Emotional beat: sacrifice as final mentorship."
+    },
+    {
+      "n": 19,
+      "title": "The Sharp Debt",
+      "summary": "POV Dominic. Climax: Dominic chooses between saving Voss and delivering the complete dossier to a waiting tribunal contact. He sends the files; Voss is taken. Emotional beat: the debt paid in the only currency that mattered — truth over the man."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath",
+      "summary": "POV Tomas, recovering. News breaks: arrests across four countries, Meridian dismantled publicly. The crew hides in plain sight, tending wounds and silence. Emotional beat: exhausted relief shadowed by what it cost."
+    },
+    {
+      "n": 21,
+      "title": "Loose Threads",
+      "summary": "POV Dominic. A postcard arrives, unsigned, in Voss's handwriting: a single coordinate and the words 'debt cleared.' Dominic doesn't go — not yet. Emotional beat: hope held carefully, like something breakable."
+    },
+    {
+      "n": 22,
+      "title": "Fairweather",
+      "summary": "POV Dominic, closing. The crew reopens shop under a new name, taking only cases they choose. Dominic finally answers the question of who he works for: these people. Emotional beat: belonging earned, chosen, and kept."
+    }
+  ]
+}

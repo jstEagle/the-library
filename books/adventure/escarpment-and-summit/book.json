@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00337",
+  "title": "Escarpment and Summit",
+  "author": "Elodie Iversen",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Lena Marchetti, a storm chaser who owes money to dangerous optimists, has spent twenty years measuring life in miles rather than years. But when a government survey team vanishes, leaving gear and no tracks, she discovers that staying invisible was never really an option. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the concession permits expire.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 337
+  }
+}

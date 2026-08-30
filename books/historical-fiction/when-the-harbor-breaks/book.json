@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02310",
+  "title": "When the Harbor Breaks",
+  "author": "August Villalobos",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Mirabel Halloran, a battlefield nurse keeping a ledger of the names officers omit, has spent fifteen years learning which silences keep people safe. But when the census taker asks one question too many, he discovers that staying invisible was never really an option. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2310
+  }
+}

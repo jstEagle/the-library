@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08298",
+  "title": "When the Protocol Falls Anew",
+  "author": "Ada Nakamura",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Mara Okafor, the caretaker of Earth's abandoned seed vault, has spent fifteen years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8298
+  }
+}

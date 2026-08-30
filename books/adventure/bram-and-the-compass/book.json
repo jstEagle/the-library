@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00573",
+  "title": "Bram and the Compass",
+  "author": "Tamsin Vane",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Astrid Montrose, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. But when the tide reveals a cave that legends charge admission to, she discovers that staying invisible was never really an option. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 573
+  }
+}

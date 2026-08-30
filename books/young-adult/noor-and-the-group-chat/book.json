@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09855",
+  "title": "Noor and the Group Chat",
+  "author": "Astrid Montrose",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Wren Ishikawa, the eldest sibling raising the younger ones while mom works nights, is fine. Everything is fine. Obviously.. But when a best friend goes missing, leaving only a set of keys behind, they discover that staying invisible was never really an option. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9855
+  }
+}

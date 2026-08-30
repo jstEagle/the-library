@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04639",
+  "title": "A Aftermath for the Undertow",
+  "author": "Noor Eastwick",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Oscar Halloran, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. To get through this, they must translate the untranslatable sentence and live with it before the mother's memory goes entirely.",
+  "themes": [
+    "memory",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4639
+  }
+}

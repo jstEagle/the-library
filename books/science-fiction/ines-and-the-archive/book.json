@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08056",
+  "title": "Ines and the Archive",
+  "author": "Rosalind Oyelaran",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Odile Iversen, a terraformer tending a garden meant for people not yet born, has spent twenty years hauling cargo through contested orbits. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8056
+  }
+}

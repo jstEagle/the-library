@@ -1,0 +1,21 @@
+{
+  "id": "THR-09353",
+  "title": "Asset and Drop Again",
+  "author": "Edmund Ashgrove",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Odile Villalobos, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9353
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09708",
+  "title": "Recipe and Group Chat",
+  "author": "Dominic Thornbury",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Wren Delacroix, a baker's kid who bakes feelings into bread, has spent fifteen years being so careful it hurts. Then a group chat starts predicting things that haven't happened yet — and they are pulled straight into the middle of it. Now they must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9708
+  }
+}

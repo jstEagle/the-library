@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06796",
+  "title": "Isandro and the Kitchen",
+  "author": "Lena Whitlock",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ivo Thornbury, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. Now she must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6796
+  }
+}

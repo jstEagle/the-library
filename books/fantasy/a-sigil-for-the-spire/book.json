@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01514",
+  "title": "A Sigil for the Spire",
+  "author": "Mara Marchetti",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Rosalind Winterbourne, a thief who steals memories, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. To get through this, they must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1514
+  }
+}

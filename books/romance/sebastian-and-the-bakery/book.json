@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06903",
+  "title": "Sebastian and the Bakery",
+  "author": "Ada Okonkwo",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Lior Halloran, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6903
+  }
+}

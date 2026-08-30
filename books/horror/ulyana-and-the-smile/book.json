@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03913",
+  "title": "Ulyana and the Smile",
+  "author": "K. M. Coldharbour",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Cyrus Ishikawa, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. But when the childhood imaginary friend is waiting on the porch, unchanged, he discovers that staying invisible was never really an option. Now he must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3913
+  }
+}

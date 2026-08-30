@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03649",
+  "title": "The Smiling Portrait",
+  "author": "Theo Dunmore",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Wendell Winterbourne, a hospice nurse who hears the dying count backwards, keeps the lights on and the doors counted. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3649
+  }
+}

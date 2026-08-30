@@ -1,0 +1,21 @@
+{
+  "id": "THR-08845",
+  "title": "The Asset of the DMZ",
+  "author": "Isandro Okonkwo",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Jude Okonkwo, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8845
+  }
+}

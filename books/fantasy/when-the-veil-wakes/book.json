@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00865",
+  "title": "When the Veil Wakes",
+  "author": "Sable Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Theo Marchetti, a debt-bound temple scribe, knows every smuggler's road through the Thornfell mountains. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 865
+  }
+}

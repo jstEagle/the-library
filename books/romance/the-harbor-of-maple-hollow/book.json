@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06437",
+  "title": "The Harbor of Maple Hollow",
+  "author": "Ines Voss",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jude Kavanagh, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6437
+  }
+}

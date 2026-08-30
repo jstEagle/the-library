@@ -1,0 +1,21 @@
+{
+  "id": "THR-08920",
+  "title": "The Contact of the Green Zone",
+  "author": "Juniper Crane",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Petra Thackeray, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8920
+  }
+}

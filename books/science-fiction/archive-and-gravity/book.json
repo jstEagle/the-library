@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07529",
+  "title": "Archive and Gravity",
+  "author": "Mirabel Thackeray",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Wendell Quintana, a terraformer tending a garden meant for people not yet born, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. To get through this, she must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7529
+  }
+}

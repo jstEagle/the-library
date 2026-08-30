@@ -1,0 +1,21 @@
+{
+  "id": "THR-09096",
+  "title": "Tamsin and the Deadline",
+  "author": "Marguerite Vasquez",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Isandro Okafor, a burnt analyst bounced from three agencies, hasn't slept through the night since the incident. But when every record of a flight vanishes while it's still in the air, he discovers that staying invisible was never really an option. To get through this, he must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9096
+  }
+}

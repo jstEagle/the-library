@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09612",
+  "title": "When the Semester Sings",
+  "author": "Jonah Okafor",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Sebastian Nakamura, the new kid at a school built over something old, has spent three years being so careful it hurts. Then the teacher pairs nemesis with nemesis for a semester-long project — and they are pulled straight into the middle of it. To get through this, they must tell the truth even if it costs the friendship before the final audition.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9612
+  }
+}

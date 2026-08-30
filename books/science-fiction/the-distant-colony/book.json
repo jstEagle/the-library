@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07112",
+  "title": "The Distant Colony",
+  "author": "August Montrose",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ansel Lockridge, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7112
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08156",
+  "title": "Gravity and Protocol Again",
+  "author": "Sebastian Quintana",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Emrys Iversen, an insurance investigator of impossible accidents, maintains the beacon nobody remembers commissioning. Then the station AI begins confessing to crimes nobody reported — and they are pulled straight into the middle of it. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8156
+  }
+}

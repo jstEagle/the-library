@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08334",
+  "title": "The Archive of Sector Nine Revisited",
+  "author": "Juniper Dravenmoor",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Jude Quintana, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. Then gravity flickers across the entire system for exactly nine seconds — and she is pulled straight into the middle of it. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8334
+  }
+}

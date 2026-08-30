@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05659",
+  "title": "August and the Confession",
+  "author": "Ivo Pemberton",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Rosalind Nystrom, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5659
+  }
+}

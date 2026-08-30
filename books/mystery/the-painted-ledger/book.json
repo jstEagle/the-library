@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04914",
+  "title": "The Painted Ledger",
+  "author": "Marguerite Nakamura",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ivo Villalobos, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. To get through this, they must decode a ledger hidden in plain sight before the statute expires.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4914
+  }
+}

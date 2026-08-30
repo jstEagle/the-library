@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07555",
+  "title": "The Long Orbit",
+  "author": "Felix Almeida",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Emrys Galloway, a terraformer tending a garden meant for people not yet born, has spent ten years hauling cargo through contested orbits. Then the station AI begins confessing to crimes nobody reported — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7555
+  }
+}

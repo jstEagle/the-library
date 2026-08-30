@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07980",
+  "title": "Juniper and the Orbit",
+  "author": "Gideon Kavanagh",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Orsen Eriksen, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. To get through this, she must keep a lie alive that holds two fleets apart before the jump window closes.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7980
+  }
+}

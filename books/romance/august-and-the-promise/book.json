@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05993",
+  "title": "August and the Promise",
+  "author": "Sebastian Brightwater",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Casper Montrose, a marine biologist counting turtles instead of heartbreaks, has spent twenty years rebuilding a life measured in small safe steps. But when a fake date to survive a family reunion feels too real by dessert, they discover that staying invisible was never really an option. To get through this, they must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5993
+  }
+}

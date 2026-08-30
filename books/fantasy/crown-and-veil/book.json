@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00712",
+  "title": "Crown and Veil",
+  "author": "Marguerite Voss",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Quentin Sterling, a cartographer of unmapped realms, keeps the ledgers of a guild that trades in impossible things. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. Now she must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 712
+  }
+}

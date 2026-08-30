@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06851",
+  "title": "The Vow of Bellbird Bay Again",
+  "author": "Quentin Iversen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Juniper Nystrom, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "found family",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6851
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02369",
+  "title": "The Long Uniform",
+  "author": "August Okonkwo",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Vesper Okonkwo, a battlefield nurse keeping a ledger of the names officers omit, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. To get through this, they must smuggle the evidence past three checkpoints before the armistice is signed — or isn't.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2369
+  }
+}

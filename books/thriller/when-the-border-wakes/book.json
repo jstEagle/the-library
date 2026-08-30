@@ -1,0 +1,21 @@
+{
+  "id": "THR-08675",
+  "title": "When the Border Wakes",
+  "author": "Juniper Blackwood",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mara Coldharbour, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. To get through this, he must extract a defector who may be the bait before the extraction flight leaves at dawn.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8675
+  }
+}

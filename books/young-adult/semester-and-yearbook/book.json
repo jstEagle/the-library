@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09990",
+  "title": "Semester and Yearbook",
+  "author": "Isandro Nakamura",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Bram Hartwell, a debate champion who can't win the argument at home, is fine. Everything is fine. Obviously.. But when a best friend goes missing, leaving only a set of keys behind, they discover that staying invisible was never really an option. To get through this, they must win the championship that doesn't matter — and the one that does before the final audition.",
+  "themes": [
+    "found family",
+    "identity",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9990
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05287",
+  "title": "Cipher and Alibi",
+  "author": "Tamsin Quintana",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Isandro Blackwood, an estate lawyer reading a will that shouldn't exist, has spent twenty years keeping the town's secrets filed and alphabetized. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5287
+  }
+}

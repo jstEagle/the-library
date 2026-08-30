@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04385",
+  "title": "When the Weather Wakes",
+  "author": "Wendell Coldharbour",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Theo Joubert, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. To get through this, she must return to the place where the story went wrong before the mother's memory goes entirely.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4385
+  }
+}

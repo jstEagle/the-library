@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07498",
+  "title": "Terminal and Machine",
+  "author": "Yara Crane",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Isandro Brightwater, an insurance investigator of impossible accidents, has spent ten years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7498
+  }
+}

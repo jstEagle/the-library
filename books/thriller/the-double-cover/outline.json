@@ -1,0 +1,59 @@
+{
+  "title": "The Double Cover",
+  "slug": "thriller/the-double-cover",
+  "model": "stealth/ox-alpha",
+  "premise": "Dominic Coldharbour's career-defining failure—a hostage exchange that ended in three deaths—was never an accident; the flight manifest that vanished mid-air was scrubbed by the same intelligence cell that used her as unwitting cover for a defector extraction gone wrong. When the defector, Elena Voss, surfaces alive and demands extraction, Dominic is ordered to bring her in, unaware Voss is the bait designed to draw out whoever buried the original flight. As Dominic peels back the double cover—her own record rewritten to make her deniable—she must choose between the loyalty of the service that raised her and the truth that could clear her name. She extracts Voss, exposes the cell's director, and walks away from the badge, trading institutional justice for a justice she enforces herself.",
+  "about_author": "Oscar Reyes is a former crisis-line counselor who spent a decade listening to people talk their way back from the edge before turning to fiction. He writes from a coastal town in the Pacific Northwest, where he collects maritime charts and old police-band radios.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Board",
+      "summary": "Dominic's POV. Three years after the Meridian flight failure, she negotiates a bank siege flawlessly, but the celebration rings hollow when she notices her own personnel file lists the failed flight as 'weather-diverted.' Emotional beat: controlled competence masking a wound that never closed, and the first crack of doubt."
+    },
+    {
+      "n": 2,
+      "title": "Vanishing Altitude",
+      "summary": "Dominic's POV. She pulls the flight records and watches them delete in real time while the aircraft is still airborne on a live tracker. Her request for an audit is denied within the hour—by an office that shouldn't know she asked. Beat: dread; the ground under her career is moving."
+    },
+    {
+      "n": 3,
+      "title": "The Voice on Line Two",
+      "summary": "Elena Voss's POV. The defector, hiding in a Riga safehouse, contacts Dominic directly, claiming the Meridian flight carried a prisoner who never existed—and that Dominic's name was on the cover authorization. Beat: vertigo; the failure that defined her may not be hers at all."
+    },
+    {
+      "n": 4,
+      "title": "Deniable",
+      "summary": "Dominic's POV. Her security clearance is quietly downgraded; her mentor, Assistant Director Hale, warns her to stand down while conspicuously not denying anything. She realizes she's being positioned as the expendable negotiator for an off-book extraction. Beat: betrayal sharpening into resolve."
+    },
+    {
+      "n": 5,
+      "title": "Riga Rules",
+      "summary": "Alternating POV. Dominic flies to Latvia off the books; Voss tests her with a partial recording of the Meridian cockpit, withholding the name on the authorization. A surveillance team arrives early—someone sold the meeting. Beat: wary alliance forged under pressure."
+    },
+    {
+      "n": 6,
+      "title": "Extraction, Interrupted",
+      "summary": "Dominic's POV. The extraction goes sideways when the surveillance team—private contractors, not government—hits the safehouse. Dominic improvises a hostage negotiation in reverse, talking Voss out of a burning building while talking the contractors into standing down. Beat: her old failure transmuted into mastery."
+    },
+    {
+      "n": 7,
+      "title": "What Hale Knew",
+      "summary": "Hale's POV. Flashback interleaf: three years ago, Hale authorized the Meridian cover to protect a mole inside the service, believing it a lesser evil—and chose Dominic because her clean record made her believable. Beat: the antagonist humanized; loyalty as a slow poison."
+    },
+    {
+      "n": 8,
+      "title": "The Bait Confirmed",
+      "summary": "Dominic's POV. Voss admits she was sent back deliberately—by the cell—to confirm Dominic would chase the truth, making her the final loose end. The cockpit recording's authorization signature is Hale's. Beat: the floor drops out; every ally was a hook."
+    },
+    {
+      "n": 9,
+      "title": "Double Cover",
+      "summary": "Dominic's POV, climax. She turns the cell's own protocol against them, staging a fake handover at a decommissioned airfield, negotiating live with Hale while broadcasting the Meridian recording to oversight channels. Hale concedes the truth but not the guilt. Beat: the negotiation of her life—truth as leverage, not mercy."
+    },
+    {
+      "n": 10,
+      "title": "Off the Board",
+      "summary": "Dominic and Voss POV, alternating. The cell fractures; Hale resigns rather than face the inquiry, and Dominic's record is restored—but the institution that rewrote her once can rewrite her again. She declines reinstatement, hands Voss the recording, and disappears into civilian life. Beat: quiet, hard-won freedom; justice outside the law, inheritance refused."
+    }
+  ]
+}

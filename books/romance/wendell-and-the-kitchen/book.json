@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06120",
+  "title": "Wendell and the Kitchen",
+  "author": "Lior Underhill",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Elodie Villalobos, a vineyard owner who inherited debts instead of grapes, has spent twenty years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6120
+  }
+}

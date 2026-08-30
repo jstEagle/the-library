@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05080",
+  "title": "A Inheritance for the Autopsy",
+  "author": "Lena Winterbourne",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Paloma Lockridge, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5080
+  }
+}

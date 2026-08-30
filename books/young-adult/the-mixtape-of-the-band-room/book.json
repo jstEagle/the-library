@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09661",
+  "title": "The Mixtape of the band room",
+  "author": "Coral Dunmore",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Oscar Sandoval, a scholarship student at an academy with too many secrets, has spent three years being so careful it hurts. But when the college essay prompt asks one honest question nobody can stop answering, they discover that staying invisible was never really an option. Now they must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9661
+  }
+}

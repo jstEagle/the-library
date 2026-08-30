@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03696",
+  "title": "Kestrel and the Room",
+  "author": "R. M. Montrose",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Wendell Voss, an urban explorer mapping tunnels that aren't on any survey, has spent ten years telling themselves the noises have explanations. Then the sleep recordings capture a second voice answering questions — and she is pulled straight into the middle of it. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3696
+  }
+}

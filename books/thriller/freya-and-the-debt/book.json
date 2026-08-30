@@ -1,0 +1,21 @@
+{
+  "id": "THR-08988",
+  "title": "Freya and the Debt",
+  "author": "Odile Dravenmoor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Beatrix Okafor, a whistle-blower living under four names, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. To get through this, he must burn the network that did the training before the border checkpoint shifts change.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8988
+  }
+}

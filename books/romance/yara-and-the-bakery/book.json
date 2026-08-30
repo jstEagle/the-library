@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06358",
+  "title": "Yara and the Bakery",
+  "author": "August Eriksen",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Dominic Montrose, a pastry chef whose café is three missed payments from gone, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the vineyard's first harvest comes in.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6358
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01510",
+  "title": "A Crown for the Thorn",
+  "author": "Theo Fairweather",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jonah Blackwood, the last oath-bound swordspeaker, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1510
+  }
+}

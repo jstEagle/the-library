@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02781",
+  "title": "Jude and the Clock",
+  "author": "Sebastian Blackwood",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ulyana Blackwood, an apprentice clockmaker summoned to repair the observatory's master clock, keeps a low profile and busy hands. But when a sealed letter names the family in a plot no one wants a part of, she discovers that staying invisible was never really an option. To get through this, she must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2781
+  }
+}

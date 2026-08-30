@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06960",
+  "title": "Coral and the Summer Anew",
+  "author": "Zephyrine Almeida",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Petra Eastwick, a vineyard owner who inherited debts instead of grapes, swears the heart is a muscle like any other: trainable, containable. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6960
+  }
+}

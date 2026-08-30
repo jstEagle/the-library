@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05785",
+  "title": "Emrys and the Will",
+  "author": "Mara Vane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Vesper Delacroix, a true-crime podcaster chasing the coldest case on record, has spent three years keeping the town's secrets filed and alphabetized. But when the town's beloved founder is exhumed and the coffin is empty, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5785
+  }
+}

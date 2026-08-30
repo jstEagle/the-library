@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03775",
+  "title": "A Portrait for the Room",
+  "author": "Noor Voss",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Theo Iversen, a twin who came home to bury the wrong sibling, doesn't believe, has never believed, will not begin believing now. Then the sleep recordings capture a second voice answering questions — and he is pulled straight into the middle of it. Now he must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3775
+  }
+}

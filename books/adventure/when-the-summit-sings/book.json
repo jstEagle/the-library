@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00220",
+  "title": "When the Summit Sings",
+  "author": "Theo Whitlock",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Bram Coldharbour, a storm chaser who owes money to dangerous optimists, has spent twelve years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, they discover that staying invisible was never really an option. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 220
+  }
+}

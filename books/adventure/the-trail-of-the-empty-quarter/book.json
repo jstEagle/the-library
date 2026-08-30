@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00461",
+  "title": "The Trail of the Empty Quarter",
+  "author": "Astrid Voss",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Felix Whitlock, a bush pilot flying medicine and rumors into the interior, knows the wilderness forgives nothing and forgets less. Then an old rival hires the crew for the one job that was sworn off long ago — and they are pulled straight into the middle of it. To get through this, they must bring the expedition home without telling anyone what it found before the monsoon makes landfall.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 461
+  }
+}

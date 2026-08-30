@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06811",
+  "title": "Elodie and the Tide",
+  "author": "W. M. Eriksen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Jude Thackeray, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. But when the person behind a decade of letters moves in next door, they discover that staying invisible was never really an option. To get through this, they must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6811
+  }
+}

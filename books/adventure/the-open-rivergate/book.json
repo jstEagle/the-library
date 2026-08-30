@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00314",
+  "title": "The Open Rivergate",
+  "author": "Tamsin Sterling",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Lior Almeida, a mountain guide blacklisted from two countries, knows the wilderness forgives nothing and forgets less. But when a government survey team vanishes, leaving gear and no tracks, she discovers that staying invisible was never really an option. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 314
+  }
+}

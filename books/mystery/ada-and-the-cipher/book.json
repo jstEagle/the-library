@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05884",
+  "title": "Ada and the Cipher",
+  "author": "O. M. Almeida",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Coral Quintana, an insurance investigator with a photographic memory, has spent three years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, he discovers that staying invisible was never really an option. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5884
+  }
+}

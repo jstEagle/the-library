@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06083",
+  "title": "A Promise for the Songbook",
+  "author": "August Halloran",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Mirabel Okafor, a wedding planner who doesn't believe in weddings anymore, believes second chances are for people with better timing. But when the person behind a decade of letters moves in next door, he discovers that staying invisible was never really an option. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6083
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03969",
+  "title": "Lior and the Winter",
+  "author": "Emrys Dravenmoor",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Marguerite Galloway, a folklorist recording songs the village refuses to sing twice, doesn't believe, has never believed, will not begin believing now. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. To get through this, he must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "memory",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3969
+  }
+}

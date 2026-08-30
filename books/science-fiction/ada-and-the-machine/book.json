@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07868",
+  "title": "Ada and the Machine",
+  "author": "Wren Pemberton",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Lior Sterling, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. Now she must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7868
+  }
+}

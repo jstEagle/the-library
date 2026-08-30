@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06146",
+  "title": "The Unexpected Garden",
+  "author": "Edmund Eriksen",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Cyrus Villalobos, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6146
+  }
+}

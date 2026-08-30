@@ -1,0 +1,21 @@
+{
+  "id": "THR-08870",
+  "title": "The Contact of Vienna",
+  "author": "Ada Nakamura",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Zephyrine Montrose, an interpreter attached to a peace delegation destined to fail, has spent twelve years following rules that keep getting rewritten. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. To get through this, they must burn the network that did the training before the border checkpoint shifts change.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8870
+  }
+}

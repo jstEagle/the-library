@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05878",
+  "title": "Lena and the Alibi",
+  "author": "Freya Vane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ansel Sterling, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5878
+  }
+}

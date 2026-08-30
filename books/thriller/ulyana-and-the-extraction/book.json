@@ -1,0 +1,21 @@
+{
+  "id": "THR-09396",
+  "title": "Ulyana and the Extraction",
+  "author": "Bram Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Odile Nystrom, a whistle-blower living under four names, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9396
+  }
+}

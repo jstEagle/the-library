@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01243",
+  "title": "Freya and the Hollow",
+  "author": "P. M. Crane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Juniper Vane, a cartographer of unmapped realms, has spent seven years selling small charms in a city that outlawed magic. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1243
+  }
+}

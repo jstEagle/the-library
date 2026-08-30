@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05050",
+  "title": "When the Inheritance Burns",
+  "author": "Sable Hartwell",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ada Sterling, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, she discovers that staying invisible was never really an option. To get through this, she must untangle alibis woven thirty years ago before the statute expires.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5050
+  }
+}

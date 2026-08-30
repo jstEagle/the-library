@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05587",
+  "title": "Noor and the Alibi",
+  "author": "Freya Lockridge",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Edmund Yarrow, the archivist of a cathedral with a locked crypt, prides themselves on never taking a case they can't close. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5587
+  }
+}

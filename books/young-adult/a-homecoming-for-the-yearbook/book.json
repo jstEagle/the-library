@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09677",
+  "title": "A Homecoming for the Yearbook",
+  "author": "Edmund Ishikawa",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Orsen Nakamura, a baker's kid who bakes feelings into bread, stays under the radar: head down, grades up, locker shut. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. To get through this, he must save the tradition that made the town before prom.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9677
+  }
+}

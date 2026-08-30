@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04878",
+  "title": "The Late Will",
+  "author": "Ansel Galloway",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Sebastian Eriksen, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. To get through this, they must find the witness everyone swears is dead before the statute expires.",
+  "themes": [
+    "belonging",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4878
+  }
+}

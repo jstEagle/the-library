@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04347",
+  "title": "The Blue Hour of the reservoir",
+  "author": "Mirabel Sandoval",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Marguerite Hartwell, a night librarian in a city that sleeps less every year, keeps a careful inventory of everything unsaid. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. Now he must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4347
+  }
+}

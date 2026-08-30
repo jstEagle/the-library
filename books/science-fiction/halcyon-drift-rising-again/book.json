@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08150",
+  "title": "Halcyon Drift Rising Again",
+  "author": "X. M. Hartwell",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Silas Thackeray, a decommissioned war android paying off its debts, has spent five years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8150
+  }
+}

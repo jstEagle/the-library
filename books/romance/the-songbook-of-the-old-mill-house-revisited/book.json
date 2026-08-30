@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06983",
+  "title": "The Songbook of the Old Mill House Revisited",
+  "author": "Oscar Galloway",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Isandro Blackwood, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6983
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02481",
+  "title": "Harbor and Clock",
+  "author": "Silas Kavanagh",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Zephyrine Sterling, a code-carrying courier on the last diplomatic mission of a doomed republic, measures the world in what can be carried when the orders come. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the armistice is signed — or isn't.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2481
+  }
+}

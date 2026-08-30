@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02563",
+  "title": "The Atlas of Nagasaki's harbor",
+  "author": "Marguerite Ravensworth",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Rosalind Amberdale, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. Then the census taker asks one question too many — and they are pulled straight into the middle of it. To get through this, they must finish the work while the workshop still stands before the ship sails on the morning tide.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2563
+  }
+}

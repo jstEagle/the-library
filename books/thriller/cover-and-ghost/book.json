@@ -1,0 +1,21 @@
+{
+  "id": "THR-08506",
+  "title": "Cover and Ghost",
+  "author": "Casper Vane",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Orsen Delacroix, a burnt analyst bounced from three agencies, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the border checkpoint shifts change.",
+  "themes": [
+    "found family",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8506
+  }
+}

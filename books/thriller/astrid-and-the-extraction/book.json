@@ -1,0 +1,21 @@
+{
+  "id": "THR-09202",
+  "title": "Astrid and the Extraction",
+  "author": "Ines Ishikawa",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Paloma Lockridge, a crash investigator whose family died in row twelve, has spent twelve years following rules that keep getting rewritten. Then a stranger returns a favor that never happened, with interest owed — and he is pulled straight into the middle of it. To get through this, he must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9202
+  }
+}

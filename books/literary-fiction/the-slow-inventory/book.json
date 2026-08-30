@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04226",
+  "title": "The Slow Inventory",
+  "author": "Rafael Galloway",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Edmund Ashgrove, a letter-writer sending postcards to an address that burned down years ago, moves through the days like a tenant, not an owner. But when a childhood home goes up for auction, she discovers that staying invisible was never really an option. To get through this, she must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4226
+  }
+}

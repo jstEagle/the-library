@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05200",
+  "title": "The Third Confession",
+  "author": "Ada Nystrom",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Juniper Pemberton, the archivist of a cathedral with a locked crypt, has spent fifteen years keeping the town's secrets filed and alphabetized. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5200
+  }
+}

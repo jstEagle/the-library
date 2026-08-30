@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05206",
+  "title": "Inheritance and Verdict",
+  "author": "Felix Underhill",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Quentin Winterbourne, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5206
+  }
+}

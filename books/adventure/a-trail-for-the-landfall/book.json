@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00152",
+  "title": "A Trail for the Landfall",
+  "author": "Jude Crane",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Edmund Joubert, a railroad engineer with a map of closed lines, knows the wilderness forgives nothing and forgets less. But when the tide reveals a cave that legends charge admission to, they discover that staying invisible was never really an option. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 152
+  }
+}

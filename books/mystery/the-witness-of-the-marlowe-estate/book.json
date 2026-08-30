@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05106",
+  "title": "The Witness of the Marlowe Estate",
+  "author": "Odile Lockridge",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Hazel Joubert, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when the town's beloved founder is exhumed and the coffin is empty, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the anniversary dinner raises its glass.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5106
+  }
+}

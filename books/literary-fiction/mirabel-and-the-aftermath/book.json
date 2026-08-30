@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04683",
+  "title": "Mirabel and the Aftermath",
+  "author": "Tamsin Vane",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Cyrus Nystrom, a night librarian in a city that sleeps less every year, keeps a careful inventory of everything unsaid. Then the last speaker of a language asks for one final student — and they are pulled straight into the middle of it. Now they must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4683
+  }
+}

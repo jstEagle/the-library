@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04391",
+  "title": "When the Glasshouse Sings",
+  "author": "Rosalind Reyes",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Lockridge, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4391
+  }
+}

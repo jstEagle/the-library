@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07572",
+  "title": "The Final Vector",
+  "author": "Sebastian Reyes",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Freya Quintana, a starship navigator haunted by the backups sleeping in the hold, runs the long route between worlds that no longer speak. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7572
+  }
+}

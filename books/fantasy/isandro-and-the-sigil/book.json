@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01649",
+  "title": "Isandro and the Sigil",
+  "author": "Gideon Eastwick",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.8,
+  "blurb": "Bram Kavanagh, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. To get through this, they must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1649
+  }
+}

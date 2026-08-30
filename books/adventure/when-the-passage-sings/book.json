@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00355",
+  "title": "When the Passage Sings",
+  "author": "Gideon Coldharbour",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.9,
+  "blurb": "Ines Joubert, an archaeologist's estranged child and better digger, keeps moving because stopping costs more. But when an old rival hires the crew for the one job that was sworn off long ago, they discover that staying invisible was never really an option. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the concession permits expire.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 355
+  }
+}

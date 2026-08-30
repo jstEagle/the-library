@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08130",
+  "title": "When the Protocol Burns Again",
+  "author": "Ada Iversen",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Paloma Joubert, the last human technician on an automated relay station, has spent ten years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8130
+  }
+}

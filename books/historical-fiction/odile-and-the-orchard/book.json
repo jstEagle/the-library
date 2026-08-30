@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02893",
+  "title": "Odile and the Orchard",
+  "author": "August Almeida",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Paloma Vasquez, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. Then the census taker asks one question too many — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2893
+  }
+}

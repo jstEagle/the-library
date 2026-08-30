@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00376",
+  "title": "Compass and Wreck",
+  "author": "Rafael Galloway",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Cyrus Quintana, a desert ranger tracking a thief across nothing, knows the wilderness forgives nothing and forgets less. But when the river gives up a chest stamped with a dead nation's seal, she discovers that staying invisible was never really an option. To get through this, she must follow a river upstream to its forbidden source before the monsoon makes landfall.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 376
+  }
+}

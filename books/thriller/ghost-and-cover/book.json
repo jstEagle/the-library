@@ -1,0 +1,21 @@
+{
+  "id": "THR-08556",
+  "title": "Ghost and Cover",
+  "author": "Rafael Vasquez",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lior Sterling, a burnt analyst bounced from three agencies, has spent five years following rules that keep getting rewritten. But when every record of a flight vanishes while it's still in the air, she discovers that staying invisible was never really an option. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8556
+  }
+}

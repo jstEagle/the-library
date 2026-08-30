@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06929",
+  "title": "Casper and the Tide",
+  "author": "Gideon Okafor",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Vesper Halloran, a pastry chef whose café is three missed payments from gone, keeps love in the past tense where it belongs. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. Now he must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6929
+  }
+}

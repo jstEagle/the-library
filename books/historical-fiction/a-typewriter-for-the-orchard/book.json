@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02442",
+  "title": "A Typewriter for the Orchard",
+  "author": "Coral Nystrom",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Wren Sandoval, a widowed lighthouse keeper during the year of the great storms, believes history happens to other people, elsewhere. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, they discover that staying invisible was never really an option. Now they must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2442
+  }
+}

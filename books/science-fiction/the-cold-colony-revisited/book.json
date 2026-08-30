@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08355",
+  "title": "The Cold Colony Revisited",
+  "author": "August Iversen",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Beatrix Crane, a memory-smuggler running contraband past orbital customs, runs the long route between worlds that no longer speak. But when gravity flickers across the entire system for exactly nine seconds, she discovers that staying invisible was never really an option. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8355
+  }
+}

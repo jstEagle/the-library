@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03944",
+  "title": "Visitor and Hymn",
+  "author": "J. M. Amberdale",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Tamsin Whitlock, an urban explorer mapping tunnels that aren't on any survey, has spent twenty years telling themselves the noises have explanations. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. To get through this, he must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3944
+  }
+}

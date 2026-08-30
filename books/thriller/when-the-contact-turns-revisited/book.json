@@ -1,0 +1,21 @@
+{
+  "id": "THR-09423",
+  "title": "When the Contact Turns Revisited",
+  "author": "Mirabel Underhill",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Lior Lockridge, a burnt analyst bounced from three agencies, has spent five years following rules that keep getting rewritten. But when a dead handler sends a meeting invitation for tomorrow, they discover that staying invisible was never really an option. To get through this, they must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "belonging",
+    "found family",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9423
+  }
+}

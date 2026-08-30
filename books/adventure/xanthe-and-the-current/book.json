@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00497",
+  "title": "Xanthe and the Current",
+  "author": "Sable Yarrow",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Sable Reyes, a riverboat captain who knows every sandbar's mood, has spent twelve years measuring life in miles rather than years. But when a government survey team vanishes, leaving gear and no tracks, she discovers that staying invisible was never really an option. To get through this, she must beat the salvage fleet to the wreck by six tides before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 497
+  }
+}

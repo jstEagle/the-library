@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02888",
+  "title": "The Quiet Atlas",
+  "author": "Orsen Brightwater",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Lior Vasquez, a suffragist's driver who reads every letter before delivering it, has spent five years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and he is pulled straight into the middle of it. Now he must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2888
+  }
+}

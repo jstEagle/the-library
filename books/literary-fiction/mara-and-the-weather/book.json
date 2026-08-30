@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04485",
+  "title": "Mara and the Weather",
+  "author": "Emrys Fairweather",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Felix Vasquez, a night librarian in a city that sleeps less every year, has spent fifteen years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. To get through this, she must forgive the stranger in the old photographs before the house sale closes.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4485
+  }
+}

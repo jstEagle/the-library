@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05419",
+  "title": "A Inheritance for the Ledger",
+  "author": "Oscar Marchetti",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Dominic Reyes, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "belonging",
+    "found family",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5419
+  }
+}

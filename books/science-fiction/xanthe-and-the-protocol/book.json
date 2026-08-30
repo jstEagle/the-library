@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07547",
+  "title": "Xanthe and the Protocol",
+  "author": "Edmund Crane",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Casper Nystrom, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. Now she must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7547
+  }
+}

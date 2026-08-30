@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02114",
+  "title": "A Crown for the Spire Anew",
+  "author": "Oscar Voss",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Quentin Ashgrove, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2114
+  }
+}

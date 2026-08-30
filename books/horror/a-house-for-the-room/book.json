@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03873",
+  "title": "A House for the Room",
+  "author": "Hazel Brightwater",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ulyana Yarrow, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. Then every mirror in the house starts reflecting the room one second late — and he is pulled straight into the middle of it. To get through this, he must hold out until sunrise with the truth about what was invited in before the well refills.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3873
+  }
+}

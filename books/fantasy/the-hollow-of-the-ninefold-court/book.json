@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00893",
+  "title": "The Hollow of the Ninefold Court",
+  "author": "Theo Quintana",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Wren Sterling, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. To get through this, he must steal back a soul sold to the court beneath the mountain before the moon completes its thirteenth turn.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 893
+  }
+}

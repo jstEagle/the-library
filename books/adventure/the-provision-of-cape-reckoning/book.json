@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00088",
+  "title": "The Provision of Cape Reckoning",
+  "author": "Paloma Almeida",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Isandro Fairweather, a mountain guide blacklisted from two countries, has spent twenty years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, they discover that staying invisible was never really an option. To get through this, they must follow a river upstream to its forbidden source before the dry season ends.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 88
+  }
+}

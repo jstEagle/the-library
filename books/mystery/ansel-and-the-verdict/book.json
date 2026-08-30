@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05323",
+  "title": "Ansel and the Verdict",
+  "author": "Oscar Pemberton",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Wren Oyelaran, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. To get through this, they must find the witness everyone swears is dead before the statute expires.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5323
+  }
+}

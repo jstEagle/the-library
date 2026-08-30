@@ -1,0 +1,21 @@
+{
+  "id": "THR-09281",
+  "title": "Freya and the Ghost",
+  "author": "R. M. Joubert",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Paloma Okafor, a hostage negotiator with one failure still on the board, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. To get through this, she must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9281
+  }
+}

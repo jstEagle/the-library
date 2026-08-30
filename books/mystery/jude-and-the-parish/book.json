@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05812",
+  "title": "Jude and the Parish",
+  "author": "Vesper Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ivo Villalobos, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. To get through this, they must decode a ledger hidden in plain sight before the statute expires.",
+  "themes": [
+    "found family",
+    "belonging",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5812
+  }
+}

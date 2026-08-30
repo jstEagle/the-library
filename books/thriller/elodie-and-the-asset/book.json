@@ -1,0 +1,21 @@
+{
+  "id": "THR-09136",
+  "title": "Elodie and the Asset",
+  "author": "Vesper Delacroix",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Astrid Oyelaran, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. But when a voiceprint unlocks a server on another continent, they discover that staying invisible was never really an option. To get through this, they must burn the network that did the training before the summit convenes.",
+  "themes": [
+    "belonging",
+    "identity",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9136
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01160",
+  "title": "Quentin and the Crown",
+  "author": "Ada Voss",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Mara Pemberton, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. Now he must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1160
+  }
+}

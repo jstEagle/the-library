@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02526",
+  "title": "Uniform and Bridge",
+  "author": "Oscar Almeida",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sebastian Joubert, a widowed lighthouse keeper during the year of the great storms, keeps a low profile and busy hands. But when a sealed letter names the family in a plot no one wants a part of, he discovers that staying invisible was never really an option. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2526
+  }
+}

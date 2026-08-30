@@ -1,0 +1,209 @@
+{
+  "title": "Parish and Verdict",
+  "slug": "mystery/parish-and-verdict",
+  "model": "stealth/ox-alpha",
+  "premise": "Orsen Pemberton, archivist of St. Aldhelm's Cathedral, has spent years quietly untangling deaths the police ruled accidents, guided by her gift for reading the cathedral's records the way others read faces. When an unsigned confession letter arrives — postmarked the day after the funeral of verger Edmund Hale — it claims a fourth death was murder and points to a locked crypt and an inheritance dispute buried thirty years ago. As Orsen investigates, she discovers the letter's author is dying and using her as a proxy conscience, while the true killer, now a respected parish benefactor, manipulates the upcoming inquest to bury the past. Orsen must reconstruct three decades of alibis from parish registers, wills, and a witness's fading memory, risking her own position and safety, before the trial opens and the crypt is sealed forever. In the end, she forces a confession in the crypt itself, but the price is the cathedral's reputation, her mentor's freedom, and her own belonging in the parish she called home.",
+  "about_author": "Lior Vasquez is the pen name of a former parish records volunteer who spent five years transcribing Victorian burial registers in northern England. They write mysteries where the archive itself becomes a witness, and where belonging is always conditional.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Day After",
+      "summary": "Orsen Pemberton, POV. A week after verger Edmund Hale's funeral, a letter arrives postmarked the day after he died — an unsigned confession claiming his death was murder. Orsen's quiet grief curdles into dread as she recognizes the handwriting style from old parish ledgers. Emotional beat: unease disguised as duty."
+    },
+    {
+      "n": 2,
+      "title": "Accidents, Plural",
+      "summary": "Orsen, POV. She reviews her private file: three deaths over nine years, each ruled accidental, each with a small archival discrepancy only she noticed. The confession letter's phrasing echoes a phrase in Edmund's own 1994 diary. Emotional beat: the loneliness of being the only one who sees patterns."
+    },
+    {
+      "n": 3,
+      "title": "The Locked Crypt",
+      "summary": "Orsen, POV. She petitions the dean to open the sealed crypt beneath the north transept, locked since 1994. He refuses, citing a legal hold related to the Hale estate. She notices fresh scratch marks on the lock — someone else has been down there recently. Emotional beat: institutional stonewalling."
+    },
+    {
+      "n": 4,
+      "title": "Benefactor",
+      "summary": "Orsen, POV. She meets Aldous Cray, the cathedral's largest donor, charming and solicitous, who offers to fund a new archive in Edmund's memory. His generosity feels like a leash. Detective Inspector Sorrel Nkemelu arrives asking questions about the letter. Emotional beat: charm with teeth."
+    },
+    {
+      "n": 5,
+      "title": "Registers and Wills",
+      "summary": "Orsen, POV. In the archive she pulls the 1994 will of Josiah Fenwick, the last man buried in the crypt, whose estate — a row of cottages — was contested. Edmund Hale witnessed the will; so did Cray. Emotional beat: the thrill of the paper trail."
+    },
+    {
+      "n": 6,
+      "title": "The Verger's Diary",
+      "summary": "Orsen, POV. Edmund's diary, kept in a locked drawer, describes a night in March 1994 when he saw someone in the crypt who 'was not supposed to be there.' Pages for the following fortnight are torn out. Emotional beat: a dead man reaching across thirty years."
+    },
+    {
+      "n": 7,
+      "title": "Sorrel",
+      "summary": "Sorrel Nkemelu, POV. The detective interviews Orsen, suspicious of an amateur with a history of 'noticing things.' Orsen withholds the diary. Sorrel reveals Edmund's death certificate lists heart failure — but the postmortem was waived at the family's request. Emotional beat: wary mutual sizing-up."
+    },
+    {
+      "n": 8,
+      "title": "The Fenwick Heirs",
+      "summary": "Orsen, POV. She tracks the Fenwick inheritance: Josiah's cottages passed to a niece, Maren, who signed them over to a trust controlled by Cray within a year. Maren now lives in a care home, her memory failing. Emotional beat: inheritance as a trap."
+    },
+    {
+      "n": 9,
+      "title": "What Maren Remembers",
+      "summary": "Orsen, POV. Maren, lucid in fragments, recalls a quarrel at Josiah's deathbed — someone demanding he change the will. She remembers Edmund holding a lantern. Her account contradicts the official timeline. Emotional beat: grief for a mind dissolving."
+    },
+    {
+      "n": 10,
+      "title": "Torn Pages",
+      "summary": "Orsen, POV. Using watermark analysis on the diary, Orsen finds the torn pages were removed recently, not in 1994 — the paper edges are clean, cut, not ripped. Someone with archive access. Her hands shake. Emotional beat: the archive has been violated from inside."
+    },
+    {
+      "n": 11,
+      "title": "The Assistant",
+      "summary": "Orsen, POV. Suspicion falls on her volunteer assistant, Theo, who has keys and debts. Confronting him, she finds he's been copying documents for a genealogy client — Cray. Theo is terrified, not guilty. Emotional beat: misplaced suspicion, then shame."
+    },
+    {
+      "n": 12,
+      "title": "Alibi, 1994",
+      "summary": "Sorrel, POV. Sorrel reopens the file on Josiah Fenwick's death — officially a fall on the crypt stairs. Cray's alibi from 1994: he was at a diocesan dinner with the then-dean, now dead. The only living witness is a retired verger, Silas Dunn, who has gone silent. Emotional beat: the past resisting excavation."
+    },
+    {
+      "n": 13,
+      "title": "Silas Dunn",
+      "summary": "Orsen, POV. She finds Silas living above a garden center, drinking. He tells her Edmund came to him in 1994, frightened, saying 'the crypt isn't empty.' Then Silas clams up: 'You don't know what it cost me to stay quiet.' Emotional beat: fear older than the case."
+    },
+    {
+      "n": 14,
+      "title": "The Price of Survival",
+      "summary": "Silas, POV. A flashback chapter: 1994, Silas watched Cray leave the crypt the night Josiah died and said nothing because Cray held his gambling debts — and his son's school fees. Emotional beat: the slow corrosion of a small compromise."
+    },
+    {
+      "n": 15,
+      "title": "Postmark",
+      "summary": "Sorrel, POV. Sorrel investigates the confession letter's postmark: it was mailed from the cathedral's own postbox the day after Edmund died — while Edmund was still alive. Either the author lied about his death, or Edmund wrote his own confession in advance. Emotional beat: the ground tilting."
+    },
+    {
+      "n": 16,
+      "title": "Edmund's Confession",
+      "summary": "Orsen, POV. Rereading the diary's final entries, Orsen realizes Edmund believed he was dying and had decided to confess his 1994 silence — and perhaps his complicity in covering Josiah's death. Was his heart failure natural, or hastened? Emotional beat: a mentor's guilt reframed."
+    },
+    {
+      "n": 17,
+      "title": "The Dean's Hold",
+      "summary": "Orsen, POV. Orsen pressures the dean about the legal hold on the crypt. He admits Cray's trust filed it, claiming the Fenwick cottages' deeds are stored below. The crypt is being used as a private vault. Emotional beat: sacred space made collateral."
+    },
+    {
+      "n": 18,
+      "title": "Breaking and Entering",
+      "summary": "Orsen, POV. At night, Orsen and Theo pick the crypt lock. Inside: sealed deed boxes, Josiah's coffin — and a second coffin, unmarked, holding papers including Edmund's torn diary pages and a 1994 letter in Cray's hand. Footsteps above. Emotional beat: trespass and discovery."
+    },
+    {
+      "n": 19,
+      "title": "Caught",
+      "summary": "Sorrel, POV. Sorrel arrests Orsen and Theo for breaking into the crypt — tipped off by an anonymous call. In custody, Orsen realizes only three people knew her plan. The leak is inside her small circle. Emotional beat: betrayal in a holding cell."
+    },
+    {
+      "n": 20,
+      "title": "The Inquest Opens",
+      "summary": "Orsen, POV. Released on bail, Orsen attends the reopened inquest into Edmund's death as a spectator. Cray testifies beautifully, mourning Edmund, mourning Josiah, offering to fund the trial's costs. The coroner leans toward accidental death. Emotional beat: watching the truth being buried in public."
+    },
+    {
+      "n": 21,
+      "title": "The Letter in Cray's Hand",
+      "summary": "Orsen, POV. The 1994 letter she stole from the crypt is a draft of Josiah's will — in Cray's handwriting, with Fenwick's shaky signature traced over. Forgery. But stolen evidence is inadmissible, and possessing it makes her a criminal. Emotional beat: proof that damns her too."
+    },
+    {
+      "n": 22,
+      "title": "Theo's Choice",
+      "summary": "Theo, POV. Cray's people approach Theo: return the letter and testify that Orsen coerced him, and his debts vanish. Theo, drowning, almost says yes — then remembers Orsen defending him to the police. Emotional beat: temptation and loyalty at war."
+    },
+    {
+      "n": 23,
+      "title": "Maren's Signature",
+      "summary": "Orsen, POV. Orsen compares Maren's signature on the cottage transfer deed with her known hand: the transfer, too, was forged — Maren never signed away her inheritance. The trust was built on two forgeries and one death. Emotional beat: the architecture of theft laid bare."
+    },
+    {
+      "n": 24,
+      "title": "Silas Comes In",
+      "summary": "Sorrel, POV. Silas Dunn walks into the police station, sober for the first time in weeks, and gives a statement about the night of March 1994. He names Cray. Within hours, Silas's flat is ransacked. Emotional beat: courage arriving too late to be safe."
+    },
+    {
+      "n": 25,
+      "title": "Threats",
+      "summary": "Orsen, POV. Orsen receives a note: 'Archives burn.' That night, a small fire in the archive room destroys the 1994 parish registers — the very records she needed. Theo saves the microfilm backups, but the message is clear. Emotional beat: fear made physical."
+    },
+    {
+      "n": 26,
+      "title": "The Fourth Accident",
+      "summary": "Sorrel, POV. Silas Dunn is found dead in his garden center flat — gas leak, ruled accidental. Sorrel, now convinced, formally suspects Cray but lacks admissible evidence. She turns to Orsen as a reluctant partner. Emotional beat: alliance forged in failure."
+    },
+    {
+      "n": 27,
+      "title": "Reading the Dead",
+      "summary": "Orsen, POV. Orsen reconstructs Josiah's final months from hospital records, letters, and the cathedral's maintenance logs: Josiah was planning to revoke the will and expose Cray. Edmund knew. The torn pages were Edmund's own confession draft. Emotional beat: the dead assembling their own testimony."
+    },
+    {
+      "n": 28,
+      "title": "The Confession Letter's Author",
+      "summary": "Orsen, POV. Handwriting analysis of the confession letter: it's Edmund's hand, but written in the last month of his life — he mailed it to himself, postdated by a day, to be found after his death. He knew he might not die naturally. Emotional beat: a dead man's insurance policy."
+    },
+    {
+      "n": 29,
+      "title": "The Trial Begins",
+      "summary": "Orsen, POV. Cray, tipped off, preempts: he petitions to have the Fenwick trust's deeds validated before any criminal case, forcing the crypt's contents sealed as evidence — against Orsen. The courtroom becomes the battlefield. Emotional beat: the law as a weapon turned around."
+    },
+    {
+      "n": 30,
+      "title": "Witness for the Defense",
+      "summary": "Orsen, POV. Cray's barrister dismantles Maren's testimony, her memory, and Orsen's credibility — the break-in, the stolen letter. Orsen, on the stand, holds her composure until asked why she kept a private file of 'accidents.' Her answer: 'Because nobody else was counting.' Emotional beat: dignity under fire."
+    },
+    {
+      "n": 31,
+      "title": "The Missing Night",
+      "summary": "Sorrel, POV. Sorrel finds the hole in Cray's 1994 alibi: the diocesan dinner ran late, but the cathedral's own visitor log — recovered from microfilm — records Cray signing out at 11:40 p.m., an hour after Josiah's estimated death. The archive Orsen keeps is the witness. Emotional beat: vindication of the unglamorous record."
+    },
+    {
+      "n": 32,
+      "title": "What Edmund Saw",
+      "summary": "Orsen, POV. The reconstructed diary pages, found in the second coffin, describe Edmund watching Cray and Josiah argue on the crypt stairs — and watching Josiah fall, and watching Cray stage it, and watching Edmund himself choose silence in exchange for the verger's post and his mother's care. Emotional beat: complicity as inheritance."
+    },
+    {
+      "n": 33,
+      "title": "Offer",
+      "summary": "Cray, POV. Cray visits Orsen privately: he offers to end the trial, restore the archive, endow her position for life — if the letter and diary pages disappear. He speaks of survival as the only virtue. Orsen sees her own reflection in his logic and recoils. Emotional beat: the devil's reasonable voice."
+    },
+    {
+      "n": 34,
+      "title": "Refusal",
+      "summary": "Orsen, POV. Orsen declines, knowing it may cost her everything. She and Sorrel plan a final move: get the crypt's contents admitted through a chain-of-custody argument built on the cathedral's own inventories — Orsen's meticulous annual audits. Emotional beat: quiet resolve."
+    },
+    {
+      "n": 35,
+      "title": "The Dean's Reckoning",
+      "summary": "Orsen, POV. Orsen confronts the dean: he knew in 1994 and accepted Cray's donations to keep the cathedral solvent. His collapse and confession to Sorrel breaks the institutional wall. Emotional beat: an institution's sin confessed."
+    },
+    {
+      "n": 36,
+      "title": "Admissible",
+      "summary": "Sorrel, POV. The judge admits the crypt evidence: the forged will, the diary pages, the second coffin's contents, tied to the cathedral inventories Orsen signed. The inquest becomes a manslaughter and forgery inquiry. Cray's composure cracks for the first time. Emotional beat: the paper trail closing like a door."
+    },
+    {
+      "n": 37,
+      "title": "The Crypt, Again",
+      "summary": "Orsen, POV. Cray, facing ruin, comes to the crypt at night to destroy the last originals — and finds Orsen waiting, the dean and Sorrel nearby. He confesses in the dark, to the dead and the living: Josiah's death, Maren's forged signature, Edmund's pressured silence, Silas's gas. Emotional beat: confession in the house of the dead."
+    },
+    {
+      "n": 38,
+      "title": "Verdict",
+      "summary": "Orsen, POV. Cray pleads guilty to manslaughter and forgery; the trust is dissolved, the cottages returned to Maren's estate, and the crypt is consecrated open ground. Orsen testifies at the final hearing and watches the verdict land. Emotional beat: justice, imperfect and arrived at."
+    },
+    {
+      "n": 39,
+      "title": "What Belonging Costs",
+      "summary": "Orsen, POV. The parish turns on Orsen — she cost the cathedral its benefactor and its reputation. Some doors close; Theo stands by her; Sorrel offers a consulting arrangement. Orsen re-catalogues the damaged archive, keeping what burned only in memory. Emotional beat: exile and chosen family."
+    },
+    {
+      "n": 40,
+      "title": "Open Ground",
+      "summary": "Orsen, POV. Spring: the crypt is reopened as a memorial space, Josiah and the unmarked coffin properly interred. Orsen files Edmund's confession letter in the public archive, his name cleared of complicity. She lights two candles — for the man who stayed silent too long, and for the one who finally spoke. Emotional beat: belonging rebuilt on truth."
+    }
+  ]
+}

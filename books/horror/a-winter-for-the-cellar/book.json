@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03781",
+  "title": "A Winter for the Cellar",
+  "author": "Ansel Iversen",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ulyana Sterling, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. Then the excavation crew unearths a door, sealed from the inside — and she is pulled straight into the middle of it. To get through this, she must finish the ritual the founders started before the frost writes its final pattern.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3781
+  }
+}

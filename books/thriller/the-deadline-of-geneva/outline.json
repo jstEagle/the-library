@@ -1,0 +1,29 @@
+{
+  "title": "The Deadline of Geneva",
+  "slug": "thriller/the-deadline-of-geneva",
+  "model": "stealth/ox-alpha",
+  "premise": "Isandro Fairweather, a deniable fixer for the Meridian Bureau—a Geneva embassy that exists on no registry—receives a debt notice for a favor he never performed, signed in his dead mother's handwriting. Following the paper trail, he uncovers an inheritance scheme in which the Bureau laundered the identities of disappeared persons, including his own, and an assassin contracted to erase everyone who could prove it. With three governments racing to bury the files and the assassin closing in, Isandro must smuggle the truth across borders in seventy-two hours. In the end, he trades his own anonymity—his greatest asset—for public exposure of the Bureau, choosing to belong to a real name and a real past over the safety of invisibility.",
+  "about_author": "Rosalind Marchetti is a former archivist who spent a decade cataloging diplomatic records before turning to fiction. She writes thrillers about paper trails, quiet betrayals, and the people history files under 'unresolved.'",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Favor Never Given",
+      "summary": "Isandro's POV. A courier delivers a notarized debt notice referencing a favor Isandro never performed, signed with his mother's signature—dead eleven years. When he investigates, the courier vanishes and his Bureau access quietly evaporates. The beat is cold unease: the machinery he served is turning toward him."
+    },
+    {
+      "n": 2,
+      "title": "Ledger of the Disappeared",
+      "summary": "Alternating Isandro's POV with the assassin Veyra's. Isandro traces the notice to a Zurich vault holding the Bureau's identity-laundering ledger—his own original name among the disappeared. Veyra receives her contract: erase the ledger and everyone who read it. The beat is dread and vertigo as Isandro realizes his invisibility was manufactured."
+    },
+    {
+      "n": 3,
+      "title": "Three Borders, One Bullet",
+      "summary": "Isandro's POV, with an interlude from a compromised Swiss archivist ally. Racing a 72-hour deadline, Isandro smuggles copies of the ledger through Lyon and Turin while three governments maneuver to intercept him; the archivist is killed, and Veyra corners him on a night train. The beat is desperate momentum and the cost of every ally."
+    },
+    {
+      "n": 4,
+      "title": "A Name Worth Dying For",
+      "summary": "Isandro's POV. Rather than flee, he walks the ledger into a Geneva press conference, forcing exposure and making himself too public to kill cleanly. Veyra, revealed to be another erased child of the ledger, stands down and testifies. The beat is bittersweet resolution: Isandro loses his cover forever but gains a name, a history, and a place to belong."
+    }
+  ]
+}

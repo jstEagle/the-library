@@ -1,0 +1,21 @@
+{
+  "id": "THR-08857",
+  "title": "The Debt of Kowloon",
+  "author": "Zephyrine Sandoval",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Rafael Whitlock, a whistle-blower living under four names, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8857
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04536",
+  "title": "The Interior of Room 214",
+  "author": "Paloma Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Rosalind Voss, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. Then a box of undelivered letters surfaces behind a wardrobe — and she is pulled straight into the middle of it. Now she must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4536
+  }
+}

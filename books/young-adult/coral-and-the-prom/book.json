@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09589",
+  "title": "Coral and the Prom",
+  "author": "Jude Zhou",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ivo Underhill, the only out kid in a town of nine hundred, has spent fifteen years being so careful it hurts. But when grandma's recipe box contains directions that aren't for food, they discover that staying invisible was never really an option. To get through this, they must decide who to be when the labels come off before prom.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9589
+  }
+}

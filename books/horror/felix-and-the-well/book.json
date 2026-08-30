@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03743",
+  "title": "Felix and the Well",
+  "author": "N. M. Hartwell",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Jonah Okonkwo, a hospice nurse who hears the dying count backwards, keeps the lights on and the doors counted. But when every mirror in the house starts reflecting the room one second late, he discovers that staying invisible was never really an option. Now he must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3743
+  }
+}

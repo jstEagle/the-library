@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06413",
+  "title": "The Bakery of the Old Mill House",
+  "author": "P. M. Dravenmoor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Tamsin Winterbourne, a single parent running the town's only bookshop, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6413
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00144",
+  "title": "Juniper and the Trail",
+  "author": "Orsen Ishikawa",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Cyrus Nystrom, an archaeologist's estranged child and better digger, has spent five years measuring life in miles rather than years. Then an old rival hires the crew for the one job that was sworn off long ago — and he is pulled straight into the middle of it. To get through this, he must follow a river upstream to its forbidden source before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 144
+  }
+}

@@ -1,0 +1,16 @@
+# Rosalind and the Vector
+
+**by I. M. Montrose**
+
+> Jonah Joubert, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. Then gravity flickers across the entire system for exactly nine seconds — and she is pulled straight into the middle of it. To get through this, she must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.
+
+---
+Rating: **** 4.4/5  |  Genre: Science Fiction  |  Length: 10 chapters
+
+---
+
+## About the author
+
+I. M. Montrose is the pen name of a former orbital logistics analyst who spent six years writing route manifests between mining stations before turning to fiction. They live somewhere with too much sky and write about people who keep promises across impossible distances.
+
+*Generated with AI as part of The Library.*

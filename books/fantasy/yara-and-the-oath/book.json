@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01581",
+  "title": "Yara and the Oath",
+  "author": "Sable Sterling",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jude Yarrow, a thief who steals memories, knows every smuggler's road through the Thornfell mountains. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1581
+  }
+}

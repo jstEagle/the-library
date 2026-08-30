@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07233",
+  "title": "The Vector of Halcyon Drift",
+  "author": "Ansel Fairweather",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Odile Ashgrove, the caretaker of Earth's abandoned seed vault, has spent twelve years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7233
+  }
+}

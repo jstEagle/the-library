@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03067",
+  "title": "Vesper and the Atlas",
+  "author": "Rosalind Thackeray",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Ines Galloway, a typeface cutter's daughter in a print shop on the eve of a revolution, believes history happens to other people, elsewhere. But when a child is left at the door with instructions to forget the face, they discover that staying invisible was never really an option. Now they must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3067
+  }
+}

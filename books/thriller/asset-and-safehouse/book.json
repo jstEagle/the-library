@@ -1,0 +1,21 @@
+{
+  "id": "THR-08962",
+  "title": "Asset and Safehouse",
+  "author": "Rafael Marchetti",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Rosalind Fairweather, a crash investigator whose family died in row twelve, has spent seven years following rules that keep getting rewritten. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8962
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Blue Hour and Weather",
+  "slug": "literary-fiction/blue-hour-and-weather",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Montrose, a night-shift proofreader who has spent eleven years mailing postcards to the house where his sister Vera died in a fire he survived, lives deliberately small: no photographs, no phone number, no past spoken aloud. When a radio station plays 'Blue Hour and Weather'—a song Vera wrote and never recorded, sung by a stranger who claims to have found her notebook—Ada's anonymity collapses, forcing him to confront the man who may have started the fire, the sister's unfinished letters, and his own cowardice. In the end, Ada testifies to what really happened that night, mails one final postcard signed with both their names, and finally moves out of the tenement, carrying Vera's song into daylight instead of hiding from it.",
+  "about_author": "Astrid Marchetti is the pen name of a former court stenographer who spent two decades transcribing other people's confessions before writing her own fiction. She lives near a lake in upstate New York, where she collects unsent letters at estate sales.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Tenant",
+      "summary": "Ada's POV. We meet Ada through his rituals: the 6 a.m. postcard to a burned address, the landlady's rent envelope left unsigned, the careful erasure of himself from every record. A coworker asks about family; Ada lies smoothly. Emotional beat: the eerie comfort of self-erasure, and its first hairline crack."
+    },
+    {
+      "n": 2,
+      "title": "Postcards to Ash",
+      "summary": "Ada's POV, with interpolated postcard texts. Flashbacks reveal Vera: nineteen, writing songs on the back of utility bills, the fire that took the house while Ada escaped through a window and never went back inside for her. He has never told anyone he heard her singing as he ran. Emotional beat: guilt dressed up as devotion."
+    },
+    {
+      "n": 3,
+      "title": "A Song That Was Never Recorded",
+      "summary": "Ada's POV. Half-asleep after his shift, Ada hears three bars of 'Blue Hour and Weather' on a late-night radio program—an interview with a folk singer named Callum Reyes who says he found the song in a notebook bought at an estate sale. Ada drops a coffee mug. The DJ gives the singer's tour dates. Emotional beat: shock curdling into possessive grief."
+    },
+    {
+      "n": 4,
+      "title": "The Man Who Bought the Notebook",
+      "summary": "Callum's POV. Reyes performs in a half-empty bar, haunted by the notebook's remaining pages—letters addressed to 'A,' describing a brother who left her behind. He has been searching for the addressee, half-hoping to apologize for singing a dead woman's secrets. Emotional beat: the thief's uneasy conscience."
+    },
+    {
+      "n": 5,
+      "title": "What the Fire Marshal Never Asked",
+      "summary": "Ada's POV. Ada tracks down the retired fire marshal, Delia Okafor, who closed the case as accidental wiring but kept a copy of her notes. She remembers him—the boy who wouldn't answer questions—and reveals a detail he never knew: someone had disabled the smoke alarm. Emotional beat: the ground tilting; survival re-examined as suspicion."
+    },
+    {
+      "n": 6,
+      "title": "Letters Addressed to A",
+      "summary": "Alternating Ada and Callum POVs. Ada confronts Callum backstage; Callum returns the notebook. Reading Vera's final pages, Ada learns she knew the alarm was cut, suspected their landlord's insurance scheme, and had planned to testify—she was silenced before she could. Emotional beat: grief converted, for the first time, into purpose."
+    },
+    {
+      "n": 7,
+      "title": "The Landlord's Quiet Decade",
+      "summary": "Ada's POV. Ada finds Gerald Voss, the former landlord, now respectable, running a property firm built on the insurance payout. Voss recognizes him and offers money for silence, polite and chilling. Ada refuses—but realizes Voss knows where Ada lives, and that staying invisible protected no one but the guilty. Emotional beat: fear met and walked through."
+    },
+    {
+      "n": 8,
+      "title": "Witness",
+      "summary": "Delia Okafor's POV. Delia reopens the file unofficially; Ada gives a full statement, including the detail he buried for eleven years—that he heard Vera singing and ran anyway. Delia tells him the truth alone won't convict Voss, but it will be on the record forever. Emotional beat: confession as both wound and release."
+    },
+    {
+      "n": 9,
+      "title": "Blue Hour",
+      "summary": "Climax. At Callum's concert, Ada takes the stage during the encore and tells the room whose song it is, what happened to her, and who profited. Voss is in the audience—he came to watch his leverage work—and walks out into reporters Delia quietly invited. Ada sings the last verse badly, out loud, for Vera. Emotional beat: terror transfigured into testimony."
+    },
+    {
+      "n": 10,
+      "title": "Weather",
+      "summary": "Resolution, Ada's POV. Months later: an investigation underway, Callum recording the song properly with co-credit to Vera Montrose, and Ada packing the tenement room. He writes one last postcard—to himself, at his new address—signed by both siblings, and mails it. Walking out into morning light, he is, for once, an owner of his own life. Emotional beat: goodbye completed; survival finally worth its price."
+    }
+  ]
+}

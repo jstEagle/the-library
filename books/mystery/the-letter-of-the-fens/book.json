@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05471",
+  "title": "The Letter of the Fens",
+  "author": "Elodie Thackeray",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Marguerite Okonkwo, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5471
+  }
+}

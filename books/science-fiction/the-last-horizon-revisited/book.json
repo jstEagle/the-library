@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08201",
+  "title": "The Last Horizon Revisited",
+  "author": "Dominic Lockridge",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Silas Eastwick, a decommissioned war android paying off its debts, has spent five years hauling cargo through contested orbits. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. To get through this, they must decide which half of humanity wakes from cryosleep before the jump window closes.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8201
+  }
+}

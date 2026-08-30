@@ -1,0 +1,209 @@
+{
+  "title": "Lior and the Verdict",
+  "slug": "mystery/lior-and-the-verdict",
+  "model": "stealth/ox-alpha",
+  "premise": "Lior Villalobos, a hotel concierge whose gift for noticing details has quietly solved three deaths the police ruled accidental, is handed a missing woman's diary by a dying guest. The diary keeps writing entries past the date its owner, Marisol Verne, vanished from the hotel's cliffside annex eleven years ago — and the newest entry describes Lior herself, checking in, holding the book. As Lior investigates the case everyone swore was closed, she discovers Marisol was silenced over an inheritance dispute within the founding family that owns the hotel, and that the diary's impossible entries are being written by someone who knows exactly how Marisol died. In the end, Lior exposes the killer — the beloved retired manager who raised her like a daughter — and chooses to claim her own inheritance: not money, but the truth, and a place at the hotel that finally feels like hers.",
+  "about_author": "Astrid Villalobos spent a decade working front desks in grand coastal hotels, where she learned that every lobby is a stage and every guest a suspect. She writes mysteries about people who belong nowhere until they solve something.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Guest Who Checked Out Forever",
+      "summary": "Lior's POV. A frail guest named Edmund presses a water-stained diary into Lior's hands at 3 a.m., whispering 'it kept writing,' then dies before dawn. The police call it natural; Lior notices his medication was swapped. Emotional beat: unease disguised as professional calm."
+    },
+    {
+      "n": 2,
+      "title": "Eleven Years of Quiet",
+      "summary": "Lior's POV. She researches Marisol Verne, the chambermaid who vanished in 2014 from the cliffside annex, presumed drowned. The staff still avoid the fourth floor. Beat: the weight of a building that remembers what people want forgotten."
+    },
+    {
+      "n": 3,
+      "title": "Entries Past the End",
+      "summary": "Lior's POV. Reading the diary by lamplight, she finds Marisol's final dated entry — then pages beyond it, written after her disappearance, describing the hotel as it is now. Beat: cold dread blooming into fascination."
+    },
+    {
+      "n": 4,
+      "title": "The Entry With My Name",
+      "summary": "Lior's POV. The latest entry describes a concierge with ink-stained cuffs reading this very page. Lior realizes the writer is watching her, now. Beat: terror sharpening into resolve."
+    },
+    {
+      "n": 5,
+      "title": "Detective Okafor Returns",
+      "summary": "Okafor's POV. The detective who once dismissed Lior's 'hunches' arrives to investigate Edmund's death and warns her off. But he privately admits the three earlier cases still itch at him. Beat: grudging alliance forming."
+    },
+    {
+      "n": 6,
+      "title": "The Founding Family",
+      "summary": "Lior's POV. She maps the hotel's ownership: the Aurelio family trust, due to dissolve on its fiftieth anniversary — weeks away. Marisol was the trustee's secretary. Beat: inheritance revealed as motive."
+    },
+    {
+      "n": 7,
+      "title": "Fourth Floor, Do Not Enter",
+      "summary": "Lior's POV. She breaks into the sealed annex and finds Marisol's room preserved under dust — a hairpin, a half-packed suitcase, scratch marks inside the closet door. Beat: grief for a stranger becoming personal."
+    },
+    {
+      "n": 8,
+      "title": "What the Keycard Remembers",
+      "summary": "Okafor's POV. He pulls archived access logs: someone used Marisol's old keycard last month. Either a ghost or a very careful living person. Beat: the case cracking open."
+    },
+    {
+      "n": 9,
+      "title": "The Manager Who Raised Me",
+      "summary": "Lior's POV. Flashback to young Lior, orphaned and taken in by head manager Beatrice Solano, who taught her to read guests. Present-day Beatrice urges her to let the dead rest. Beat: love shadowed by suspicion."
+    },
+    {
+      "n": 10,
+      "title": "A Diary That Writes Back",
+      "summary": "Lior's POV. A new entry appears overnight while the diary sat locked in her office safe. It apologizes — 'I never wanted you involved.' Beat: the watcher has access only she should have."
+    },
+    {
+      "n": 11,
+      "title": "The Anniversary Gala",
+      "summary": "Multiple POVs. The Aurelio family gathers for the trust's dissolution party; old rivalries surface over champagne. Cousin Rafael sneers at the 'servants' wing.' Beat: wealth as camouflage."
+    },
+    {
+      "n": 12,
+      "title": "Marisol's Sister",
+      "summary": "Lior's POV. In the fishing village below, she finds Rosa Verne, who never believed the drowning story and kept Marisol's letters. One letter mentions 'the second will.' Beat: hope with teeth."
+    },
+    {
+      "n": 13,
+      "title": "The Second Will",
+      "summary": "Okafor's POV. Records show old patriarch Aurelio amended his will weeks before dying, naming an unknown beneficiary. The amendment vanished from probate files. Beat: paper trail leading somewhere dangerous."
+    },
+    {
+      "n": 14,
+      "title": "Someone Follows Her Home",
+      "summary": "Lior's POV. A gray sedan tails her from the village; her room is searched but nothing taken except one diary page. Beat: violation, and proof she's close."
+    },
+    {
+      "n": 15,
+      "title": "The Page They Took",
+      "summary": "Lior's POV. Reconstructing the stolen page from memory: it described a night in October 2014, rain, the service elevator, and a voice saying 'sign it or the sea gets you too.' Beat: fear crystallizing."
+    },
+    {
+      "n": 16,
+      "title": "Beatrice's Locked Drawer",
+      "summary": "Lior's POV. She spots the key to Beatrice's private drawer on her mentor's chain and hesitates. Opening it feels like betrayal; not opening it feels like complicity. Beat: loyalty at war with truth."
+    },
+    {
+      "n": 17,
+      "title": "The Confession Tape",
+      "summary": "Okafor's POV. An old security tape surfaces showing Marisol alive the morning after her 'death' — escorted out by someone tall, coat collar up. Beat: the closed case officially reopening."
+    },
+    {
+      "n": 18,
+      "title": "Rafael's Bribe",
+      "summary": "Lior's POV. Rafael offers her a paid position and a quiet warning: some doors stay shut because the family pays for them to. She declines. Beat: temptation refused, target acquired."
+    },
+    {
+      "n": 19,
+      "title": "What Edmund Knew",
+      "summary": "Lior's POV. Digging into Edmund's past, she finds he was the estate lawyer's clerk in 2014 — the man who typed the second will. Beat: the dying guest reframed as messenger."
+    },
+    {
+      "n": 20,
+      "title": "Threats in the Nightshift",
+      "summary": "Lior's POV. A note in her locker: 'Three accidents made you famous. Don't make yourself the fourth.' For the first time, she's afraid of the hotel itself. Beat: hunter becomes hunted."
+    },
+    {
+      "n": 21,
+      "title": "Okafor's Doubt",
+      "summary": "Okafor's POV. His superiors order him to close Edmund's case; he refuses and is suspended. He comes to Lior not as police but as a partner. Beat: alliance sealed at personal cost."
+    },
+    {
+      "n": 22,
+      "title": "The Service Elevator",
+      "summary": "Lior's POV. She rides the old elevator at 3 a.m., timing its stops against the diary's account. It halts between floors — there's a door that shouldn't exist. Beat: the building confessing."
+    },
+    {
+      "n": 23,
+      "title": "Room Behind the Wall",
+      "summary": "Lior's POV. Behind the hidden door: a small room with a desk, fresh ink, and hundreds of pages in Marisol's hand — plus a photograph of Lior as a child. Beat: vertigo; the mystery turns inward."
+    },
+    {
+      "n": 24,
+      "title": "She Was Never Missing",
+      "summary": "Lior's POV. The handwriting analysis confirms it: Marisol wrote everything, including the recent entries. She has been living hidden in the hotel for eleven years. Beat: revelation that rewrites the whole story."
+    },
+    {
+      "n": 25,
+      "title": "Why She Hid",
+      "summary": "Marisol's POV (diary voice). She witnessed the patriarch's murder staged as a heart attack, was forced to sign away the second will, and chose disappearance over death — writing in secret ever since. Beat: survivor's guilt laid bare."
+    },
+    {
+      "n": 26,
+      "title": "The Name on the Second Will",
+      "summary": "Lior's POV. The beneficiary wasn't a family member. It was Beatrice Solano — the loyal manager, promised the hotel if she helped bury the truth. Beat: the floor dropping out of Lior's world."
+    },
+    {
+      "n": 27,
+      "title": "Confrontation in the Orchid Room",
+      "summary": "Lior's POV. She asks Beatrice directly. Beatrice weeps, admits knowing about the will, denies killing anyone — and reveals who did: 'Ask your father's old friend. Ask the doorman.' Beat: betrayal without resolution."
+    },
+    {
+      "n": 28,
+      "title": "The Doorman's Long Shift",
+      "summary": "Okafor's POV. Gregor, the ancient doorman, was the tall figure on the tape — the patriarch's enforcer, still on payroll, still protecting someone. Beat: menace in a familiar uniform."
+    },
+    {
+      "n": 29,
+      "title": "Gregor Talks",
+      "summary": "Okafor's POV. Cornered with the tape, Gregor confesses to moving Marisol out on orders — but insists the murder order came from above him, from the person who now controls the trust. Beat: the pyramid of guilt narrowing."
+    },
+    {
+      "n": 30,
+      "title": "Who Controls the Trust",
+      "summary": "Lior's POV. With the family scattered and Beatrice disgraced, the trust's executor is quiet accountant Hélène Aurelio — invisible at every gala, present at every signing. Beat: the obvious-in-hindsight villain emerges."
+    },
+    {
+      "n": 31,
+      "title": "Hélène's Ledger",
+      "summary": "Okafor's POV. Hidden accounts show Hélène siphoned the estate for years; the second will would have exposed her. Edmund found it and was poisoned. Beat: motive, means, opportunity aligned."
+    },
+    {
+      "n": 32,
+      "title": "They Know We Know",
+      "summary": "Lior's POV. The power fails; the annex door hangs open; Marisol's hiding place is empty. A message scrawled in ledger ink: 'Last entry tonight.' Beat: sprint toward the climax."
+    },
+    {
+      "n": 33,
+      "title": "Storm Warning",
+      "summary": "Marisol's POV. Dragged from hiding, Marisol leaves a torn trail of diary pages toward the cliff path, trusting the concierge who reads everything will read them. Beat: desperate hope as navigation."
+    },
+    {
+      "n": 34,
+      "title": "The Cliff Path",
+      "summary": "Lior's POV. In rising wind, Lior follows the pages up the storm-lashed cliff where Marisol 'drowned' eleven years ago. Beat: fear transmuted into purpose."
+    },
+    {
+      "n": 35,
+      "title": "Verdict at the Edge",
+      "summary": "Lior's POV. On the clifftop, Hélène holds Marisol at the edge, reciting her justification: the family deserved to fall, so she simply pushed it. Lior talks, notices, stalls — until Okafor's lights sweep the path. Beat: climax; words as weapons."
+    },
+    {
+      "n": 36,
+      "title": "The Fall She Didn't Take",
+      "summary": "Multiple POVs. Hélène lunges; Marisol grabs Lior's hand; Okafor tackles Hélène back from the edge as the storm breaks. Arrests, sirens, salt air. Beat: release after suffocating tension."
+    },
+    {
+      "n": 37,
+      "title": "Testimony",
+      "summary": "Marisol's POV. Eleven years silent, Marisol testifies — about the murder, the forged signature, the years in the walls. Her voice steadies with every sentence. Beat: reclamation."
+    },
+    {
+      "n": 38,
+      "title": "What the Hotel Owes",
+      "summary": "Lior's POV. Probate honors the second will: the hotel passes to a trust benefiting the staff, with Marisol and Beatrice — serving her sentence — named. Lior is offered the manager's office. Beat: inheritance redefined."
+    },
+    {
+      "n": 39,
+      "title": "Beatrice's Last Lesson",
+      "summary": "Lior's POV. Visiting Beatrice in custody, Lior returns the drawer key. 'You taught me to notice everything,' she says. 'That includes you.' Forgiveness withheld, love acknowledged. Beat: bittersweet closure."
+    },
+    {
+      "n": 40,
+      "title": "Concierge, On Duty",
+      "summary": "Lior's POV. One year later: Lior behind the front desk, Marisol tending the annex garden, a new diary blank on the shelf. A nervous guest checks in; Lior notices everything, and smiles. Beat: belonging, earned."
+    }
+  ]
+}

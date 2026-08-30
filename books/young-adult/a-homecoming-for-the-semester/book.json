@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09957",
+  "title": "A Homecoming for the Semester",
+  "author": "Orsen Lockridge",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Wren Winterbourne, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. Now she must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9957
+  }
+}

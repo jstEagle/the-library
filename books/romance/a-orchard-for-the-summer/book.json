@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06629",
+  "title": "A Orchard for the Summer",
+  "author": "Rafael Dravenmoor",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Emrys Reyes, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. Then a snowstorm strands two rivals with the best mistake of their twenties — and they are pulled straight into the middle of it. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6629
+  }
+}

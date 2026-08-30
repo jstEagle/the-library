@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05740",
+  "title": "Sable and the Will",
+  "author": "Kestrel Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "August Sterling, a hotel concierge who notices everything, thought they had seen every way a life can end. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. Now she must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5740
+  }
+}

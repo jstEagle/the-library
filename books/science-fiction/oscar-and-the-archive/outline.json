@@ -1,0 +1,29 @@
+{
+  "title": "Oscar and the Archive",
+  "slug": "science-fiction/oscar-and-the-archive",
+  "model": "stealth/ox-alpha",
+  "premise": "Emrys Sterling, a clone of the murdered archivist Oscar Sterling, tends the decaying colony archive on Meridian Station, invisible to a fleet that signed a truce built on forgetting. When gravity flickers for nine seconds system-wide, Emrys discovers the pulse was a signal from hidden survivors of the massacre Oscar documented—proof erased from every official record. As the truce expires and fleet auditors arrive to seal the station forever, Emrys must smuggle the survivors' testimony out through the flickering gravity network itself. In the end, Emrys broadcasts the massacre to every colony at once, choosing to inherit not just Oscar's case but his name, his purpose, and a community that finally claims them.",
+  "about_author": "Ada Sterling is the pen name of a former orbital-mechanics engineer who spent six years maintaining life-support systems on remote research stations before turning to fiction. They write about people who keep things running long after anyone remembers why it matters.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Weightlessness",
+      "summary": "POV: Emrys Sterling. Emrys catalogs the dying colony's records alone, haunted by fragments of Oscar's memories they never asked for. Then gravity fails for exactly nine seconds across the entire system—and in the silence afterward, Emrys finds an encrypted message buried in the archive's oldest drive, addressed to 'whoever inherits my murder.' The beat: loneliness cracked open by a summons."
+    },
+    {
+      "n": 2,
+      "title": "The Survivors in the Walls",
+      "summary": "POV: Emrys Sterling. Following the message into the station's sealed lower decks, Emrys finds descendants of the massacre's victims living off-grid, keeping oral testimony because no record survived. Fleet auditors announce early arrival; the truce expires in days. The survivors distrust Emrys as a copy of the man who failed them. The beat: belonging offered and refused, then grudgingly tested."
+    },
+    {
+      "n": 3,
+      "title": "Every Record Says Otherwise",
+      "summary": "POV: Emrys Sterling. The auditors begin purging the archive, and Emrys races to authenticate the testimony using Oscar's forensic methods—memories that finally feel like inheritance rather than theft. When a survivor is detained, Emrys must choose: stay invisible or expose themselves by claiming Oscar's identity before the tribunal. The beat: identity claimed at the moment it becomes dangerous."
+    },
+    {
+      "n": 4,
+      "title": "Broadcast",
+      "summary": "POV: Emrys Sterling. Using the nine-second gravity pulse as a carrier wave, Emrys hijacks the fleet's own network during the final audit, transmitting the massacre testimony to every colony simultaneously. The truce collapses into scandal, but the truth is loose and cannot be retracted. The survivors claim Emrys as one of their own. The beat: resolution—the archive becomes a living community, and invisibility ends."
+    }
+  ]
+}

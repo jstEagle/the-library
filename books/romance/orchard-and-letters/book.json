@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06355",
+  "title": "Orchard and Letters",
+  "author": "H. M. Okonkwo",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Mirabel Hartwell, a vineyard owner who inherited debts instead of grapes, swears the heart is a muscle like any other: trainable, containable. But when two estranged names appear on the same impossibly stubborn orchard deed, they discover that staying invisible was never really an option. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6355
+  }
+}

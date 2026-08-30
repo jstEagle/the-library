@@ -1,0 +1,21 @@
+{
+  "id": "THR-09494",
+  "title": "Cover and Cipher Revisited",
+  "author": "Wendell Quintana",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Orsen Galloway, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9494
+  }
+}

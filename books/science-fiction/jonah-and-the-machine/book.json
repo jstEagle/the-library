@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07620",
+  "title": "Jonah and the Machine",
+  "author": "Cyrus Delacroix",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Silas Ravensworth, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7620
+  }
+}

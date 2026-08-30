@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03881",
+  "title": "Room and Winter",
+  "author": "Ada Iversen",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Quentin Hartwell, a hospice nurse who hears the dying count backwards, has spent seven years telling themselves the noises have explanations. Then every mirror in the house starts reflecting the room one second late — and she is pulled straight into the middle of it. To get through this, she must get the family out ahead of the count before the harvest moon rises.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3881
+  }
+}

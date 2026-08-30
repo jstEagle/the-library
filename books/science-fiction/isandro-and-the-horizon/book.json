@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07487",
+  "title": "Isandro and the Horizon",
+  "author": "Lena Kavanagh",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Silas Lockridge, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the reactor finishes its countdown.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7487
+  }
+}

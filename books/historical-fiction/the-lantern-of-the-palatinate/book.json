@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02717",
+  "title": "The Lantern of the Palatinate",
+  "author": "Ansel Fairweather",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Edmund Fairweather, an apprentice clockmaker summoned to repair the observatory's master clock, has spent twelve years learning which silences keep people safe. But when the census taker asks one question too many, she discovers that staying invisible was never really an option. To get through this, she must choose which family member gets the last berth before the ship sails on the morning tide.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2717
+  }
+}

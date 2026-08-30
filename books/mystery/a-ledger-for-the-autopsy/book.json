@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05068",
+  "title": "A Ledger for the Autopsy",
+  "author": "A. M. Nakamura",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Emrys Sterling, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. But when a body turns up dressed in clothes stolen from the witness's own closet, she discovers that staying invisible was never really an option. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5068
+  }
+}

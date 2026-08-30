@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03945",
+  "title": "Mirabel and the Visitor",
+  "author": "Gideon Blackwood",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Orsen Blackwood, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. But when the childhood imaginary friend is waiting on the porch, unchanged, he discovers that staying invisible was never really an option. Now he must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3945
+  }
+}

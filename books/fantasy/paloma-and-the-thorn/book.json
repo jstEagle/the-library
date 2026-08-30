@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01603",
+  "title": "Paloma and the Thorn",
+  "author": "Mara Galloway",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Quentin Nakamura, a mercenary sworn to a god that went silent, keeps the ledgers of a guild that trades in impossible things. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1603
+  }
+}

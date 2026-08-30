@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06217",
+  "title": "A Summer for the Orchard",
+  "author": "Ada Kavanagh",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Emrys Brightwater, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and he is pulled straight into the middle of it. To get through this, he must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6217
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03085",
+  "title": "Marguerite and the Letter Revisited",
+  "author": "Jonah Reyes",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Ivo Joubert, a code-carrying courier on the last diplomatic mission of a doomed republic, has spent fifteen years learning which silences keep people safe. But when the army requisitions the town and the ledger with all the names, they discover that staying invisible was never really an option. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "belonging",
+    "identity",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3085
+  }
+}

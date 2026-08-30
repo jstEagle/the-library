@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04568",
+  "title": "Rosalind and the Inventory",
+  "author": "Edmund Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Paloma Blackwood, a restaurant critic who has forgotten how food tastes, has spent fifteen years practicing the art of almost saying it. But when a childhood home goes up for auction, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4568
+  }
+}

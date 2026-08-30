@@ -1,0 +1,21 @@
+{
+  "id": "THR-08932",
+  "title": "Rosalind and the Contact",
+  "author": "Felix Sandoval",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Silas Quintana, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. To get through this, she must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "memory",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8932
+  }
+}

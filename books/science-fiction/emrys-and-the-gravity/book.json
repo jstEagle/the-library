@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08272",
+  "title": "Emrys and the Gravity",
+  "author": "Wren Okafor",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Orsen Ishikawa, a pilot bonded to an AI that lies, has spent three years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, she discovers that staying invisible was never really an option. To get through this, she must keep a lie alive that holds two fleets apart before the fleet's truce expires.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8272
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03878",
+  "title": "Zephyrine and the Portrait",
+  "author": "Paloma Almeida",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Bram Vane, a twin who came home to bury the wrong sibling, documents everything, because documentation is a kind of prayer. But when the excavation crew unearths a door, sealed from the inside, she discovers that staying invisible was never really an option. To get through this, she must get the family out ahead of the count before the last resident signs the papers.",
+  "themes": [
+    "memory",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3878
+  }
+}

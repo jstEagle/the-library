@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08035",
+  "title": "When the Terminal Falls Again",
+  "author": "Sebastian Villalobos",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Jonah Oyelaran, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and she is pulled straight into the middle of it. To get through this, she must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8035
+  }
+}

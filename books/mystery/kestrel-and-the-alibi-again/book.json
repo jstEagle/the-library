@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05722",
+  "title": "Kestrel and the Alibi Again",
+  "author": "August Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Lior Amberdale, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5722
+  }
+}

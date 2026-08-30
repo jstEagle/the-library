@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00495",
+  "title": "When the Summit Burns",
+  "author": "Astrid Nystrom",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Astrid Underhill, a salvage diver working a wreck the navy won't discuss, keeps moving because stopping costs more. But when a dying prospector trades a map for a promise, she discovers that staying invisible was never really an option. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 495
+  }
+}

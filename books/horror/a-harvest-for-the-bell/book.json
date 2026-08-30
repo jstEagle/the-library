@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03519",
+  "title": "A Harvest for the Bell",
+  "author": "Cyrus Vane",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Cyrus Marchetti, a hospice nurse who hears the dying count backwards, has spent seven years telling themselves the noises have explanations. Then every mirror in the house starts reflecting the room one second late — and he is pulled straight into the middle of it. To get through this, he must hold out until sunrise with the truth about what was invited in before the well refills.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3519
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09614",
+  "title": "Cedar Falls Rising",
+  "author": "G. M. Winterbourne",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "August Fairweather, a scholarship student at an academy with too many secrets, is fine. Everything is fine. Obviously.. But when a best friend goes missing, leaving only a set of keys behind, they discover that staying invisible was never really an option. To get through this, they must save the tradition that made the town before the last game of the season.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9614
+  }
+}

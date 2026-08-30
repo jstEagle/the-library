@@ -1,0 +1,21 @@
+{
+  "id": "THR-08963",
+  "title": "Border and Deadline",
+  "author": "Beatrix Pemberton",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "August Villalobos, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. Now they must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8963
+  }
+}

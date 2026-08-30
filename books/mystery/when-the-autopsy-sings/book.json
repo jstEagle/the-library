@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04855",
+  "title": "When the Autopsy Sings",
+  "author": "E. M. Underhill",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Emrys Dravenmoor, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. But when the town's beloved founder is exhumed and the coffin is empty, she discovers that staying invisible was never really an option. To get through this, she must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4855
+  }
+}

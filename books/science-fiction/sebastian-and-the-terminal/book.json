@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08286",
+  "title": "Sebastian and the Terminal",
+  "author": "Tamsin Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Edmund Eriksen, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. To get through this, they must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8286
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02562",
+  "title": "When the Letter Wakes",
+  "author": "Isandro Iversen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Edmund Vane, a widowed lighthouse keeper during the year of the great storms, believes history happens to other people, elsewhere. But when a sealed letter names the family in a plot no one wants a part of, she discovers that staying invisible was never really an option. Now she must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "memory",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2562
+  }
+}

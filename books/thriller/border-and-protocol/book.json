@@ -1,0 +1,21 @@
+{
+  "id": "THR-08670",
+  "title": "Border and Protocol",
+  "author": "Mara Amberdale",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Lena Marchetti, an interpreter attached to a peace delegation destined to fail, has spent fifteen years following rules that keep getting rewritten. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8670
+  }
+}

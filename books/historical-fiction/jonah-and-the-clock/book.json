@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02923",
+  "title": "Jonah and the Clock",
+  "author": "Kestrel Amberdale",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Silas Almeida, a code-carrying courier on the last diplomatic mission of a doomed republic, keeps a low profile and busy hands. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2923
+  }
+}

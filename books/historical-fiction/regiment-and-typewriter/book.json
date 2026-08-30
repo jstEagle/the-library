@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02538",
+  "title": "Regiment and Typewriter",
+  "author": "Coral Galloway",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Mara Whitlock, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. To get through this, they must choose which family member gets the last berth before the ship sails on the morning tide.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2538
+  }
+}

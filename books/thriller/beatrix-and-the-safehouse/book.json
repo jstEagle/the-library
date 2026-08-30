@@ -1,0 +1,21 @@
+{
+  "id": "THR-09112",
+  "title": "Beatrix and the Safehouse",
+  "author": "Oscar Iversen",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ulyana Blackwood, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "found family",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9112
+  }
+}

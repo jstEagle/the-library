@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00619",
+  "title": "Bram and the Landfall",
+  "author": "C. M. Kavanagh",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Mirabel Iversen, a riverboat captain who knows every sandbar's mood, knows the wilderness forgives nothing and forgets less. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. Now she must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 619
+  }
+}

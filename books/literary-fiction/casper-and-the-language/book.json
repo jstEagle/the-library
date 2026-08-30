@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04541",
+  "title": "Casper and the Language",
+  "author": "Orsen Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Xanthe Thackeray, a letter-writer sending postcards to an address that burned down years ago, moves through the days like a tenant, not an owner. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. Now they must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4541
+  }
+}

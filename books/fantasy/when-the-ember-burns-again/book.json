@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02016",
+  "title": "When the Ember Burns Again",
+  "author": "Petra Voss",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Vesper Crane, a hedge-witch's runaway apprentice, has never left the valley where magic cannot follow. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. Now she must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2016
+  }
+}

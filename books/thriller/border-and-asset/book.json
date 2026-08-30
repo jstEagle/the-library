@@ -1,0 +1,21 @@
+{
+  "id": "THR-08720",
+  "title": "Border and Asset",
+  "author": "Tamsin Ashgrove",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Theo Marchetti, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, they discover that staying invisible was never really an option. To get through this, they must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8720
+  }
+}

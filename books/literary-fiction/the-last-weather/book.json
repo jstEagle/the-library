@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04190",
+  "title": "The Last Weather",
+  "author": "T. M. Thackeray",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Coral Fairweather, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. To get through this, they must ask the question the whole family arranged itself around before the mother's memory goes entirely.",
+  "themes": [
+    "belonging",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4190
+  }
+}

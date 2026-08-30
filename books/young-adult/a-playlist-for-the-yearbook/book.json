@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09926",
+  "title": "A Playlist for the Yearbook",
+  "author": "Astrid Winterbourne",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Hazel Joubert, the team's statistician who knows the game is rigged, is fine. Everything is fine. Obviously.. Then grandma's recipe box contains directions that aren't for food — and they are pulled straight into the middle of it. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9926
+  }
+}

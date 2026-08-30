@@ -1,0 +1,21 @@
+{
+  "id": "THR-08853",
+  "title": "The Hard Extraction",
+  "author": "Petra Vasquez",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Rosalind Reyes, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. To get through this, they must extract a defector who may be the bait before the markets open in Frankfurt.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8853
+  }
+}

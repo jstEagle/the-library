@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04211",
+  "title": "The Slow Blue Hour",
+  "author": "Jonah Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Emrys Blackwood, a former prodigy returning to the conservatory as a janitor, has perfected the smile that ends conversations. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4211
+  }
+}

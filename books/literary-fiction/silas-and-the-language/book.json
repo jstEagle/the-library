@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04679",
+  "title": "Silas and the Language",
+  "author": "Ines Brightwater",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Kestrel Dravenmoor, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4679
+  }
+}

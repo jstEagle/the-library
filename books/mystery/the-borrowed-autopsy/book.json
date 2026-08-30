@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04890",
+  "title": "The Borrowed Autopsy",
+  "author": "Gideon Marchetti",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Jonah Vasquez, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. To get through this, he must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4890
+  }
+}

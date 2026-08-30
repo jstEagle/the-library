@@ -1,0 +1,21 @@
+{
+  "id": "THR-08535",
+  "title": "Protocol and Deadline",
+  "author": "Sable Winterbourne",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Coral Villalobos, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, he discovers that staying invisible was never really an option. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8535
+  }
+}

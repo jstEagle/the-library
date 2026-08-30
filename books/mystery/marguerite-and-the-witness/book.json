@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05621",
+  "title": "Marguerite and the Witness",
+  "author": "Mirabel Dravenmoor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Orsen Marchetti, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5621
+  }
+}

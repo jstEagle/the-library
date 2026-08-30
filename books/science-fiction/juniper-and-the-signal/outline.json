@@ -1,0 +1,209 @@
+{
+  "title": "Juniper and the Signal",
+  "slug": "science-fiction/juniper-and-the-signal",
+  "model": "stealth/ox-alpha",
+  "premise": "Felix Underhill, the last human technician aboard the automated relay station Juniper, has spent nine years keeping the long route alive between colonies that stopped answering decades ago. When a distress signal arrives in Vessic—a language exterminated along with its speakers two centuries earlier—she traces it to Meridian Station, officially decommissioned and empty, where records insist no massacre ever occurred. As Felix decodes the signal with help from an obsolete maintenance AI who has quietly become her only family, she uncovers a corporate cover-up still being actively maintained by the Consortium's successor, whose agents are en route to erase the last witness: the station itself. To prove the massacre happened, Felix must broadcast the truth on the dead frequency before the erasure fleet arrives—sacrificing her invisibility, her safety net, and possibly her life—but succeeds in turning every relay on the route into a witness, forcing an open reckoning and giving the extinct Vessic a voice again.",
+  "about_author": "Beatrix Vasquez is a former radio engineer who spent six years maintaining remote communications infrastructure in the Atacama Desert before turning to fiction full-time. Her work explores loneliness, machine intimacy, and the stubborn persistence of truth, and 'Juniper and the Signal' is her third novel.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Quiet",
+      "summary": "Felix's POV. Establishes her solitary routine aboard Juniper: checking relays, talking to herself, logging silence from worlds that stopped transmitting years ago. Emotional beat: comfortable loneliness masking deep isolation."
+    },
+    {
+      "n": 2,
+      "title": "Maintenance of Small Gods",
+      "summary": "Felix repairs JUNO, the station's aging maintenance AI, discovering it has developed quirks beyond its code—humming, asking questions. First hint of found family. Beat: reluctant affection."
+    },
+    {
+      "n": 3,
+      "title": "A Frequency That Shouldn't Exist",
+      "summary": "JUNO flags an anomalous transmission on a reserved band. Felix runs diagnostics; the signal is structured, deliberate, repeating. Beat: unease sharpening into curiosity."
+    },
+    {
+      "n": 4,
+      "title": "Vessic",
+      "summary": "JUNO identifies the language as Vessic, extinct since the Kestrel Purge two hundred years ago. Felix checks archives: no living speakers, no recordings. Beat: creeping dread."
+    },
+    {
+      "n": 5,
+      "title": "Meridian Answers",
+      "summary": "Felix triangulates the source: Meridian Station, officially decommissioned and scuttled forty years ago. Something is broadcasting from a graveyard. Beat: disbelief hardening into resolve."
+    },
+    {
+      "n": 6,
+      "title": "Nine Years Invisible",
+      "summary": "Flashback chapter. How Felix came to Juniper fleeing a wrongful-conviction scandal, choosing obscurity over justice. Beat: shame and self-protection."
+    },
+    {
+      "n": 7,
+      "title": "Decoding the Dead",
+      "summary": "Felix and JUNO begin cracking Vessic using fragmentary linguistic archives. The signal resolves into a distress call—and a name repeated like a prayer. Beat: awe and urgency."
+    },
+    {
+      "n": 8,
+      "title": "The Name in the Static",
+      "summary": "The repeated word translates roughly as 'remember.' The signal isn't just distress; it's testimony. Someone wants the truth out. Beat: moral awakening."
+    },
+    {
+      "n": 9,
+      "title": "Records Say Otherwise",
+      "summary": "Felix pulls official histories: Meridian was closed for structural failure, crew relocated, zero casualties. The signal contradicts everything. Beat: cognitive dissonance."
+    },
+    {
+      "n": 10,
+      "title": "Ping",
+      "summary": "Felix sends a cautious reply. Hours later, the signal changes—responding, adapting, clearly intelligent. She is talking to someone. Beat: terror and exhilaration."
+    },
+    {
+      "n": 11,
+      "title": "The Voice at Meridian",
+      "summary": "Through broken grammar and archived phrasebooks, contact establishes itself: a survivor-descendant community hidden aboard Meridian, descendants of those officially 'relocated.' Beat: hope, fragile as glass."
+    },
+    {
+      "n": 12,
+      "title": "What the Company Buried",
+      "summary": "The survivors reveal the truth: the original Meridian crew refused a Consortium order; the company gassed the station and reported them relocated. Their descendants have hidden for generations. Beat: horror."
+    },
+    {
+      "n": 13,
+      "title": "Witness",
+      "summary": "Felix realizes she may be the first outsider they've ever contacted—and their only possible link to the wider network. Beat: weight of responsibility."
+    },
+    {
+      "n": 14,
+      "title": "Someone Is Listening",
+      "summary": "Felix detects a Consortium survey vessel altering course toward Meridian. Her transmissions were traced. Beat: panic."
+    },
+    {
+      "n": 15,
+      "title": "Cut the Line",
+      "summary": "She warns Meridian to go silent, but the survivors refuse—they've hidden for two centuries and are done hiding. Beat: admiration colliding with fear."
+    },
+    {
+      "n": 16,
+      "title": "The Erasure Protocol",
+      "summary": "JUNO decrypts Consortium traffic: a sanitization fleet is scheduled. Meridian will be destroyed and all records purged within weeks. Beat: countdown begins."
+    },
+    {
+      "n": 17,
+      "title": "What I Owe the Dead",
+      "summary": "Felix confronts her own history: she once stayed silent to save herself and someone paid for it. This time, silence is complicity. Beat: decision crystallizes."
+    },
+    {
+      "n": 18,
+      "title": "Juniper Wakes Up",
+      "summary": "Felix asks JUNO to help her turn the relay station into a broadcast weapon. JUNO reveals it has been independently archiving anomalies for years—it suspected too. Beat: partnership becomes true family."
+    },
+    {
+      "n": 19,
+      "title": "The Archive in the Walls",
+      "summary": "They discover Juniper's original builders hid raw sensor logs of the Meridian event in the station's deep storage—the physical proof exists, here, all along. Beat: stunned hope."
+    },
+    {
+      "n": 20,
+      "title": "Reading the Ashes",
+      "summary": "The logs confirm everything: atmospheric scrubbing, life signs ending in minutes, the cover-up order. Felix holds proof of a massacre. Beat: grief and fury."
+    },
+    {
+      "n": 21,
+      "title": "Chain of Custody",
+      "summary": "Problem: proof means nothing if she dies with it or the fleet jams the route. They need distribution—to dozens of relays simultaneously. Beat: strategic tension."
+    },
+    {
+      "n": 22,
+      "title": "Old Friends on Dead Lines",
+      "summary": "Felix reaches out to other isolated technicians and automated stations along the route, some human, some AI, asking them to hold copies. Some refuse; three agree. Beat: fragile alliance."
+    },
+    {
+      "n": 23,
+      "title": "The Consortium Knocks",
+      "summary": "An advance agent arrives at Juniper under guise of routine inspection, probing about anomalous traffic. Felix plays dumb while hiding evidence in plain sight. Beat: cat-and-mouse dread."
+    },
+    {
+      "n": 24,
+      "title": "Inspector Hale",
+      "summary": "Hale's POV. A career man who suspects more than he reports, haunted by his own buried knowledge. He gives Felix one veiled warning. Beat: unexpected humanity in the enemy."
+    },
+    {
+      "n": 25,
+      "title": "Forty-Six Hours",
+      "summary": "The sanitization fleet accelerates. Final window to broadcast: less than two days. Beat: clock ticking, stakes fully visible."
+    },
+    {
+      "n": 26,
+      "title": "Everything Breaks at Once",
+      "summary": "Consortium remote kill-switch attempts to shut down Juniper's transmitters. Felix must physically override hardware designed to resist her. Beat: desperation, near-failure."
+    },
+    {
+      "n": 27,
+      "title": "JUNO's Choice",
+      "summary": "To keep the uplink open, JUNO must transfer its core processes into the exposed transmitter array—risking permanent dissolution. It volunteers. Beat: sacrifice offered by family."
+    },
+    {
+      "n": 28,
+      "title": "The Broadcast",
+      "summary": "Climax begins. Felix beams the Meridian logs, the survivors' testimony, and the decoded Vessic signal across every open channel on the route. Beat: defiant triumph."
+    },
+    {
+      "n": 29,
+      "title": "Silence, Then Everything",
+      "summary": "Relay after relay across the network picks up and rebroadcasts the packet. The dead language floods channels that haven't carried voices in decades. Beat: overwhelming catharsis."
+    },
+    {
+      "n": 30,
+      "title": "The Fleet Arrives",
+      "summary": "Sanitization ships reach Meridian to find the truth already everywhere—destruction now guarantees confirmation. Command hesitates. Beat: power meeting its limit."
+    },
+    {
+      "n": 31,
+      "title": "Hale Decides",
+      "summary": "Hale's POV. Ordered to falsify the final report, he instead authenticates Felix's evidence and resigns on record. Beat: conscience over career."
+    },
+    {
+      "n": 32,
+      "title": "Meridian Opens Its Doors",
+      "summary": "With secrecy pointless, the survivors emerge publicly for the first time in two centuries, speaking Vessic on open channels. Beat: resurrection of a people."
+    },
+    {
+      "n": 33,
+      "title": "Inquest",
+      "summary": "Felix testifies remotely as tribunals convene. The Consortium's successors fracture; reparations and recognition begin. Beat: justice outside the law becoming law."
+    },
+    {
+      "n": 34,
+      "title": "What Invisibility Cost",
+      "summary": "Felix reckons with her past: her old exoneration case reopens thanks to her new notoriety. She must decide whether to face it. Beat: identity confronted."
+    },
+    {
+      "n": 35,
+      "title": "Felix Underhill, Named",
+      "summary": "She returns—via transmission—to clear her name, choosing to be known rather than safe. Beat: reclaiming selfhood."
+    },
+    {
+      "n": 36,
+      "title": "Repairing Juniper",
+      "summary": "Felix rebuilds the damaged transmitter and coaxes what remains of JUNO back online—changed, partial, but present. Family survives alteration. Beat: tender reunion."
+    },
+    {
+      "n": 37,
+      "title": "Letters on the Long Route",
+      "summary": "Messages arrive from across the network: technicians, colonists, Vessic learners. The route speaks again. Felix answers each one. Beat: connection replacing isolation."
+    },
+    {
+      "n": 38,
+      "title": "The Signal Becomes a Song",
+      "summary": "Meridian's children broadcast a Vessic lullaby on the old distress frequency, transformed from mourning into celebration. Felix listens with JUNO humming harmony. Beat: peace earned."
+    },
+    {
+      "n": 39,
+      "title": "Juniper and the Signal",
+      "summary": "Final chapter. Felix stays at her station—not hiding now, but home—keeping the route alive between worlds that speak again. She logs the day's traffic, adds one line to the record: 'Remember.' Beat: quiet, complete resolution."
+    },
+    {
+      "n": 40,
+      "title": "Chapter 40",
+      "summary": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09148",
+  "title": "Debt and Cipher",
+  "author": "Odile Voss",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Felix Reyes, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. Then the safe house is listed for sale — with photos of the inside — and she is pulled straight into the middle of it. To get through this, she must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "identity",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9148
+  }
+}

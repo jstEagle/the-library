@@ -1,0 +1,29 @@
+{
+  "title": "A Cipher for the Safehouse",
+  "slug": "thriller/a-cipher-for-the-safehouse",
+  "model": "stealth/ox-alpha",
+  "premise": "Sebastian Yarrow, a hostage negotiator haunted by the one call he couldn't save, is pulled off suspension when a voiceprint matching his own dead partner unlocks a black-site server in Lisbon. The defector inside it, Ilse Marchetti, holds proof that the agency rewrote the rules that doomed his partner — and she may be bait in a trap set by Yarrow's own director. With his protégé Nadia and a burned courier named Okafor, Yarrow runs an extraction that becomes a betrayal, forcing him to choose between the institution he served and the makeshift family risking everything for justice outside the law. In the end, Yarrow trades himself as collateral to get Ilse out alive, exposes the director with her decrypted files, and walks away from the badge — alive, disgraced, and finally free.",
+  "about_author": "Tamsin Reyes is a former crisis-line counselor who spent six years listening to the worst nights of strangers' lives before turning them into fiction. She writes thrillers about people who break rules for the right reasons and lives in coastal Maine with two rescue dogs.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Voice That Shouldn't Exist",
+      "summary": "POV Sebastian. Suspended after a botched negotiation, Yarrow receives a server alert: a voiceprint match for Marcus Hale, his partner who died twelve years ago on the Kestrel job. The recording leads to Lisbon and a defector named Ilse Marchetti who claims the agency falsified the rules of engagement that killed Hale. Emotional beat: grief reignited into purpose; Yarrow accepts the extraction against direct orders."
+    },
+    {
+      "n": 2,
+      "title": "Twelve Hours in Alfama",
+      "summary": "POV alternating Yarrow and Nadia. The team — Yarrow, his protégé Nadia, and burned courier Okafor — infiltrates Lisbon's safehouse while surveillance closes in. Ilse reveals she's dying and wants the files released regardless of whether she survives. Yarrow realizes the extraction window was leaked from inside. Emotional beat: found family crystallizes under pressure as trust becomes survival."
+    },
+    {
+      "n": 3,
+      "title": "The Bait Confesses",
+      "summary": "POV Ilse, then Yarrow. Ambushed at the marina rendezvous, the team learns Ilse was knowingly sent as bait by Director Voss to flush out dissenters — including Yarrow. Okafor takes a bullet covering their escape; Ilse decrypts the final file mid-firefight, proving Voss authored the rewritten protocols. Emotional beat: love against duty — Yarrow chooses the people over the institution, burning his last bridge."
+    },
+    {
+      "n": 4,
+      "title": "Collateral",
+      "summary": "POV Yarrow. Cornered at the airfield, Yarrow offers himself as collateral so Ilse and the wounded Okafor can fly out while Nadia streams the decrypted files to every press outlet alive. Voss's own negotiators defect when the truth lands. Weeks later, Yarrow — stripped of rank, facing inquiry — meets Ilse and Nadia at a safehouse of their own making. Emotional beat: justice outside the law achieved; failure redeemed into freedom."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05466",
+  "title": "Isandro and the Alibi",
+  "author": "Felix Thackeray",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Marguerite Joubert, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5466
+  }
+}

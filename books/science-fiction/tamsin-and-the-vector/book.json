@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07604",
+  "title": "Tamsin and the Vector",
+  "author": "August Crane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Silas Kavanagh, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. To get through this, he must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "belonging",
+    "identity",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7604
+  }
+}

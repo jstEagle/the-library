@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03606",
+  "title": "A House for the Well",
+  "author": "Freya Quintana",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Orsen Ashgrove, a pest controller called to something with fingerprints, documents everything, because documentation is a kind of prayer. But when the childhood imaginary friend is waiting on the porch, unchanged, they discover that staying invisible was never really an option. Now they must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "found family",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3606
+  }
+}

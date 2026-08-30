@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03046",
+  "title": "The Unwritten Orchard",
+  "author": "Lena Eriksen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Ansel Eastwick, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. To get through this, she must choose which family member gets the last berth before the century turns.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3046
+  }
+}

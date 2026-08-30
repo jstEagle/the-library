@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00462",
+  "title": "Juniper and the Summit",
+  "author": "Lior Almeida",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Yara Iversen, a storm chaser who owes money to dangerous optimists, knows the wilderness forgives nothing and forgets less. Then a government survey team vanishes, leaving gear and no tracks — and she is pulled straight into the middle of it. Now she must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 462
+  }
+}

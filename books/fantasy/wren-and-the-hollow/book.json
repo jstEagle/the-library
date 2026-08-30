@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01339",
+  "title": "Wren and the Hollow",
+  "author": "J. M. Pemberton",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Tamsin Kavanagh, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1339
+  }
+}

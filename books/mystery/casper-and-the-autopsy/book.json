@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05317",
+  "title": "Casper and the Autopsy",
+  "author": "Quentin Iversen",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "August Voss, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5317
+  }
+}

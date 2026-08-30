@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07474",
+  "title": "Echo and Machine",
+  "author": "Edmund Coldharbour",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Lior Eriksen, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7474
+  }
+}

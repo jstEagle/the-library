@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01444",
+  "title": "Sebastian and the Choir",
+  "author": "Freya Amberdale",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Ulyana Thornbury, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. To get through this, they must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1444
+  }
+}

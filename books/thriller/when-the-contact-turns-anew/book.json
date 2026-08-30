@@ -1,0 +1,21 @@
+{
+  "id": "THR-09429",
+  "title": "When the Contact Turns Anew",
+  "author": "Jude Okafor",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Ulyana Underhill, a hostage negotiator with one failure still on the board, has spent five years following rules that keep getting rewritten. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9429
+  }
+}

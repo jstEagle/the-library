@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04597",
+  "title": "Paloma and the Weather",
+  "author": "Emrys Thackeray",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Mara Eriksen, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. But when a childhood home goes up for auction, he discovers that staying invisible was never really an option. To get through this, he must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "identity",
+    "memory",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4597
+  }
+}

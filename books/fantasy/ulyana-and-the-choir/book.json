@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01595",
+  "title": "Ulyana and the Choir",
+  "author": "Beatrix Crane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Tamsin Zhou, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. To get through this, he must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1595
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06954",
+  "title": "Astrid and the Summer",
+  "author": "Dominic Oyelaran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Hazel Whitlock, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. To get through this, they must let someone stay after the last train leaves before the vineyard's first harvest comes in.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6954
+  }
+}

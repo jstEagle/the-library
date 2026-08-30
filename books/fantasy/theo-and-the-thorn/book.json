@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00997",
+  "title": "Theo and the Thorn",
+  "author": "Dominic Halloran",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Ulyana Zhou, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. To get through this, she must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 997
+  }
+}

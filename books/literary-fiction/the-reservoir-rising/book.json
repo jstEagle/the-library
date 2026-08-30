@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04073",
+  "title": "the reservoir Rising",
+  "author": "August Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "August Coldharbour, an heir cataloging a parent's silence after the funeral, has spent ten years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4073
+  }
+}

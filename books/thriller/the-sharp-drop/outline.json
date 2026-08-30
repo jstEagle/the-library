@@ -1,0 +1,119 @@
+{
+  "title": "The Sharp Drop",
+  "slug": "thriller/the-sharp-drop",
+  "model": "stealth/ox-alpha",
+  "premise": "Theo Sterling, a crash investigator who lost their family in the unexplained downing of Flight 4471, has spent six years buried in cases airlines want forgotten. When a routine voiceprint analysis unlocks a server in Lisbon containing flight data that was officially destroyed, Theo discovers a cover-up that reaches into the agency that employs them—and learns their family's row twelve was not random. Hunted by both the conspirators and their own former mentor, Theo must trade the server's one killable secret: proof that a government ally ordered the crash to bury a defect. In the end, Theo chooses love over duty, exposing the truth at the cost of their career and anonymity, and finally grieving openly beside the sea where row twelve fell.",
+  "about_author": "Lior Eriksen is a former aviation safety analyst who left the industry after a decade of investigating accidents no one wanted explained. They write thrillers from a coastal town in Norway, where the fog does most of the atmospheric heavy lifting.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Theo's POV. Opening on the anniversary of Flight 4471, Theo works a thankless cargo-crash case while avoiding the memorial their sister keeps inviting them to. A flashback establishes the family they lost and the numbness that replaced them. Emotional beat: grief worn as professionalism."
+    },
+    {
+      "n": 2,
+      "title": "Cases No One Wants",
+      "summary": "Theo's POV. Theo's supervisor assigns another 'unattributed' file—a regional crash quietly stripped from public record. Theo notices the same maintenance contractor appears in three cold cases. Emotional beat: the first itch of pattern recognition, and the fear of looking."
+    },
+    {
+      "n": 3,
+      "title": "The Voiceprint",
+      "summary": "Theo's POV. Running audio from the new file through restoration software, Theo isolates a cockpit voiceprint matching a pilot officially listed as dead for years. The match triggers an automated handshake with a server in Lisbon. Emotional beat: curiosity tipping into obsession."
+    },
+    {
+      "n": 4,
+      "title": "Handshake",
+      "summary": "Theo's POV. The Lisbon server opens—then locks again—but not before Theo screenshots a fragment: Flight 4471's true telemetry, marked DESTROYED. Someone pings Theo's access within minutes. Emotional beat: vertigo; invisibility was always someone else's permission."
+    },
+    {
+      "n": 5,
+      "title": "Mara",
+      "summary": "Mara Okonkwo's POV. Introduce Mara, a Lisbon-based data archivist and whistleblower who built the server as insurance. She detects Theo's intrusion and must decide whether to trace or trust them. Emotional beat: lonely vigilance meeting an unexpected variable."
+    },
+    {
+      "n": 6,
+      "title": "The Mentor",
+      "summary": "Theo's POV. Theo's former mentor, Director Aldous Vane, summons them with warm concern that reads as warning—he knows about the Lisbon ping. He offers Theo a promotion and a long vacation in the same breath. Emotional beat: the sick realization that the institution is watching back."
+    },
+    {
+      "n": 7,
+      "title": "Contact",
+      "summary": "Alternating POV. Mara reaches out through a dead-drop channel, testing Theo with questions only a 4471 family member could answer. Theo passes, barely, hiding how much the answers cost. Emotional beat: two guarded people negotiating the first inch of trust."
+    },
+    {
+      "n": 8,
+      "title": "What Was Destroyed",
+      "summary": "Mara's POV. Mara reveals the server holds full telemetry proving 4471's flight controls were compromised by a known defect—one the manufacturer paid to erase. Row twelve held the only witnesses to the pre-flight anomaly. Emotional beat: rage crystallizing into purpose."
+    },
+    {
+      "n": 9,
+      "title": "The Contractor Thread",
+      "summary": "Theo's POV. Theo pulls the maintenance contractor's records off-book and finds payments routed through a shell company tied to a defense ministry office. Vane's name sits two signatures away. Emotional beat: dread—the conspiracy isn't corporate greed, it's statecraft."
+    },
+    {
+      "n": 10,
+      "title": "Tail",
+      "summary": "Theo's POV. Theo realizes they're being followed through the city; a staged break-in takes their home copies but misses the encrypted drive in a storage unit. They go dark, staying with their estranged sister under a false pretext. Emotional beat: paranoia sharpening into resolve; family re-entering the frame."
+    },
+    {
+      "n": 11,
+      "title": "Lisbon",
+      "summary": "Theo's POV. Theo flies to Lisbon off-grid and meets Mara in person amid the Alfama crowds. Their working chemistry sparks something warmer; Mara shows them the archive's second layer—a recording of the order being given. Emotional beat: belonging, briefly, in a shared mission."
+    },
+    {
+      "n": 12,
+      "title": "The Order",
+      "summary": "Mara's POV. The recording implicates Deputy Minister Corven Hale, who ordered 4471 down to prevent a defect scandal from collapsing a defense export deal. Mara explains why she never released it: the file also names her brother, a coerced participant now in protective custody. Emotional beat: love against duty, stated plainly."
+    },
+    {
+      "n": 13,
+      "title": "Vane's Offer",
+      "summary": "Theo's POV. Vane tracks Theo to Lisbon—not to arrest them, but to bargain: hand over the server credentials and Theo gets their old life back, plus the official truth about row twelve, redacted. Theo refuses. Emotional beat: the price of survival made explicit, and declined."
+    },
+    {
+      "n": 14,
+      "title": "Burned",
+      "summary": "Alternating POV. Hale's operatives hit Mara's safehouse; she and Theo escape with the drive but lose the archive's physical backup. Mara's handler is killed. Emotional beat: the game turns lethal; no more observing from inside systems."
+    },
+    {
+      "n": 15,
+      "title": "The One Secret Worth Killing For",
+      "summary": "Theo's POV. Theo understands the drive's real value: it contains the authentication key to the manufacturer's live fleet-diagnostic network—Hale's people will kill to keep it buried because thousands of aircraft still carry the defect. Emotional beat: the stakes widen from justice to prevention."
+    },
+    {
+      "n": 16,
+      "title": "Sister",
+      "summary": "Theo's POV. Theo's sister, having pieced together why Theo vanished, confronts them—not with anger but with the memorial photos Theo has avoided for six years. Theo finally says their family's names aloud. Emotional beat: grief unsealed; what Theo is fighting for becomes human-sized."
+    },
+    {
+      "n": 17,
+      "title": "Trap at the Archive",
+      "summary": "Mara's POV. Attempting a mirror backup through a university node, Mara walks into a sting. Theo extracts her in a brutal chase through the city's tram tunnels, taking a knife wound. Emotional beat: duty to each other overtaking the mission's abstraction."
+    },
+    {
+      "n": 18,
+      "title": "The Trade",
+      "summary": "Theo's POV. Cornered, Theo offers Vane the deal inverted: the credentials in exchange for Hale's arrest warrant going through untouched. Vane, whose loyalty was always institutional rather than personal, hesitates—then agrees, gambling his career on Theo's word. Emotional beat: betrayal repurposed as alliance."
+    },
+    {
+      "n": 19,
+      "title": "Forty Minutes",
+      "summary": "Alternating POV. While prosecutors move on Hale, his remaining operatives launch a wipe attack on the diagnostic network itself. Theo and Mara have forty minutes to push the defect alert to every carrier before the key dies. Emotional beat: countdown tension; competence as catharsis."
+    },
+    {
+      "n": 20,
+      "title": "Grounding",
+      "summary": "Theo's POV. The alerts land; carriers worldwide ground affected fleets, and Hale is arrested mid-broadcast denying everything. Vane resigns rather than face inquiry, leaving Theo a single line: 'You were right to be loud.' Emotional beat: victory that feels like exhaling after holding breath for six years."
+    },
+    {
+      "n": 21,
+      "title": "Attribution",
+      "summary": "Mara's POV. At the reopened 4471 inquiry, Theo testifies under their own name, ending their invisibility by choice. Mara's brother is cleared as coerced. The report names row twelve's passengers as witnesses, not casualties of chance. Emotional beat: the price of survival, paid and accounted."
+    },
+    {
+      "n": 22,
+      "title": "Where the Fog Lifts",
+      "summary": "Theo's POV, coda. Months later, Theo and Mara stand on the coast near the crash site, no longer investigators of other people's losses. Theo's sister joins them; the memorial is finally attended. Emotional beat: belonging chosen, love kept, survival redefined as living."
+    }
+  ]
+}

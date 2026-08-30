@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03773",
+  "title": "The Smile of Vessel Farm",
+  "author": "I. M. Delacroix",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Zephyrine Kavanagh, a property surveyor appraising a house that appraises back, has spent fifteen years telling themselves the noises have explanations. Then all the photographs from grandma's house now include an extra chair — and she is pulled straight into the middle of it. To get through this, she must finish the ritual the founders started before the well refills.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3773
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01189",
+  "title": "A Crown for the Hollow",
+  "author": "Ulyana Nakamura",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Edmund Brightwater, an exiled storm-caller, has never left the valley where magic cannot follow. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1189
+  }
+}

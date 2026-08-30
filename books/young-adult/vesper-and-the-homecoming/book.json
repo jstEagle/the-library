@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09744",
+  "title": "Vesper and the Homecoming",
+  "author": "Wendell Winterbourne",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Jonah Iversen, a coder whose anonymous account knows too much, stays under the radar: head down, grades up, locker shut. Then the college essay prompt asks one honest question nobody can stop answering — and they are pulled straight into the middle of it. To get through this, they must expose what the school board buried before prom.",
+  "themes": [
+    "identity",
+    "belonging",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9744
+  }
+}

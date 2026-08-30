@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04134",
+  "title": "Quentin and the Language",
+  "author": "Mirabel Whitlock",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Rafael Dunmore, a restaurant critic who has forgotten how food tastes, keeps a careful inventory of everything unsaid. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the house sale closes.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4134
+  }
+}

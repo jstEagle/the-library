@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04208",
+  "title": "The Last Silence",
+  "author": "Quentin Fairweather",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Gideon Villalobos, a night librarian in a city that sleeps less every year, has perfected the smile that ends conversations. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. To get through this, she must ask the question the whole family arranged itself around before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4208
+  }
+}

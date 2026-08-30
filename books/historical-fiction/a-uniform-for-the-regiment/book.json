@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02909",
+  "title": "A Uniform for the Regiment",
+  "author": "Petra Brightwater",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Xanthe Ashgrove, a battlefield nurse keeping a ledger of the names officers omit, has spent twenty years learning which silences keep people safe. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. To get through this, he must smuggle the evidence past three checkpoints before the ice breaks on the river.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2909
+  }
+}

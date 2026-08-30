@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03725",
+  "title": "Edmund and the Harvest",
+  "author": "Gideon Voss",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Felix Ashgrove, a radio host taking calls from listeners who died last week, has spent five years telling themselves the noises have explanations. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3725
+  }
+}

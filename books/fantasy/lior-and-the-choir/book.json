@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00990",
+  "title": "Lior and the Choir",
+  "author": "Ivo Eriksen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Tamsin Brightwater, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 990
+  }
+}

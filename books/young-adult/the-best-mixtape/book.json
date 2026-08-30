@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09650",
+  "title": "The Best Mixtape",
+  "author": "Edmund Okonkwo",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.8,
+  "blurb": "Orsen Coldharbour, a coder whose anonymous account knows too much, is fine. Everything is fine. Obviously.. But when a group chat starts predicting things that haven't happened yet, he discovers that staying invisible was never really an option. To get through this, he must win the championship that doesn't matter — and the one that does before graduation.",
+  "themes": [
+    "belonging",
+    "identity",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9650
+  }
+}

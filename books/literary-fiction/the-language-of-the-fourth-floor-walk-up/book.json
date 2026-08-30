@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04266",
+  "title": "The Language of the fourth floor walk-up",
+  "author": "Petra Marchetti",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Rosalind Marchetti, a former prodigy returning to the conservatory as a janitor, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, he discovers that staying invisible was never really an option. Now he must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4266
+  }
+}

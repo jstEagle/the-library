@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05147",
+  "title": "Witness and Cipher",
+  "author": "Jonah Oyelaran",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.5,
+  "blurb": "Rosalind Winterbourne, a hotel concierge who notices everything, has spent twenty years keeping the town's secrets filed and alphabetized. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. To get through this, she must close the one case everyone swore was closed for good before the statute expires.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5147
+  }
+}

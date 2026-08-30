@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04182",
+  "title": "The Necessary Language",
+  "author": "Silas Voss",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Noor Ravensworth, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. But when the last speaker of a language asks for one final student, she discovers that staying invisible was never really an option. To get through this, she must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "found family",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4182
+  }
+}

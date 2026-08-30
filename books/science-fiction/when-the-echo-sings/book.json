@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07691",
+  "title": "When the Echo Sings",
+  "author": "Bram Voss",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Juniper Underhill, an insurance investigator of impossible accidents, has spent ten years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. Now he must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7691
+  }
+}

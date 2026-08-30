@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03441",
+  "title": "The Portrait of Marrow Creek",
+  "author": "Zephyrine Marchetti",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ivo Lockridge, a pest controller called to something with fingerprints, keeps the lights on and the doors counted. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. To get through this, they must get the family out ahead of the count before the well refills.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3441
+  }
+}

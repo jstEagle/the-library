@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02348",
+  "title": "Felix and the Uniform",
+  "author": "Emrys Oyelaran",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Casper Nakamura, a widowed lighthouse keeper during the year of the great storms, believes history happens to other people, elsewhere. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, they discover that staying invisible was never really an option. To get through this, they must finish the work while the workshop still stands before the armistice is signed — or isn't.",
+  "themes": [
+    "identity",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2348
+  }
+}

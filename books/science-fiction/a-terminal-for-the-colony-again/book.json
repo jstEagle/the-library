@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08175",
+  "title": "A Terminal for the Colony Again",
+  "author": "Sable Sandoval",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sable Kavanagh, the last human technician on an automated relay station, has spent seven years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8175
+  }
+}

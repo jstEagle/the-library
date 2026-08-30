@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07822",
+  "title": "Noor and the Archive",
+  "author": "Noor Okafor",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Xanthe Ravensworth, a xenolinguist who can no longer dream in human languages, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. To get through this, they must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7822
+  }
+}

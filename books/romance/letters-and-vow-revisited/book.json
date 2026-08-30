@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06829",
+  "title": "Letters and Vow Revisited",
+  "author": "Jude Thornbury",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Emrys Halloran, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. But when a fake date to survive a family reunion feels too real by dessert, she discovers that staying invisible was never really an option. To get through this, she must forgive the person in the mirror first before the vineyard's first harvest comes in.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6829
+  }
+}

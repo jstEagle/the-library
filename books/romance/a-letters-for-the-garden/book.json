@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06353",
+  "title": "A Letters for the Garden",
+  "author": "Rafael Thornbury",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Wendell Blackwood, a pastry chef whose café is three missed payments from gone, has spent seven years rebuilding a life measured in small safe steps. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. Now he must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6353
+  }
+}

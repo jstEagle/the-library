@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01548",
+  "title": "Jonah and the Wolf",
+  "author": "Kestrel Thornbury",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Lior Hartwell, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1548
+  }
+}

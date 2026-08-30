@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04288",
+  "title": "When the Undertow Sings",
+  "author": "Isandro Sterling",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Juniper Ravensworth, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. To get through this, they must forgive the stranger in the old photographs before the demolition date arrives.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4288
+  }
+}

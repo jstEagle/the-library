@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00001",
+  "title": "The Monsoon of Devil's Throat",
+  "author": "Petra Amberdale",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Elodie Winterbourne, a railroad engineer with a map of closed lines, has spent seven years measuring life in miles rather than years. Then the tide reveals a cave that legends charge admission to — and she is pulled straight into the middle of it. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1
+  }
+}

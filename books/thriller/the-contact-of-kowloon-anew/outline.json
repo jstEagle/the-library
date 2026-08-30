@@ -1,0 +1,119 @@
+{
+  "title": "The Contact of Kowloon Anew",
+  "slug": "thriller/the-contact-of-kowloon-anew",
+  "model": "stealth/ox-alpha",
+  "premise": "Orsen Whitlock, a Hong Kong-based financial-crimes investigator who faked his own quiet exit after a raid that killed his partner, is pulled back in when an anonymous voiceprint—his own, aged and altered—unlocks a server in Lagos holding proof that the 'clean money' he's been laundering for his employer funds assassinations disguised as market corrections. Hunted by his former firm's fixer, pursued by investigators in three jurisdictions who each want to bury or weaponize the evidence, Orsen assembles a fragile found family of exiles: a disgraced Lagos forensic accountant, a Kowloon noodle-shop matriarch who shelters him, and the assassin sent to kill him, who defects when she learns her last contract was her own brother. In the end, Orsen broadcasts the ledger minutes before Frankfurt opens, collapsing the scheme but surrendering himself to testify—the first full night's sleep he's had since the incident comes in a holding cell, surrounded by people who chose him.",
+  "about_author": "Dominic Nakamura is a former compliance analyst who spent six years tracing money through Asian markets before turning to fiction full-time. He writes from a small flat above a cha chaan teng in Kowloon, where the regulars insist they can spot themselves in every book.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Clean Money",
+      "summary": "POV Orsen. Establishes Orsen's insomnia and hollow routine auditing legitimate accounts at Meridian Crest's Hong Kong office; flashbacks hint at 'the incident' without naming it. He notices one impossibly clean account and flags it out of habit. Emotional beat: numbness cracked by a flicker of the investigator he used to be."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "POV Orsen. A routine server ping from Lagos requests biometric authentication—and accepts a synthesized version of Orsen's voice, older, rougher. Inside: fragments of a ledger linking Meridian Crest to contract killings timed as market events. Emotional beat: dread curdling into purpose as invisibility dies."
+    },
+    {
+      "n": 3,
+      "title": "The Noodle Shop at 3 A.M.",
+      "summary": "POV Orsen. Fleeing his apartment after someone ransacks it, Orsen lands at Auntie Wai's Kowloon noodle shop, his old refuge. She asks no questions, feeds him, gives him a cot upstairs. Emotional beat: first warmth; belonging offered without conditions."
+    },
+    {
+      "n": 4,
+      "title": "The Woman Who Missed",
+      "summary": "POV Ilse, the assassin. We see her surveil Orsen, take the shot she deliberately widens, and report a miss to her handler. Flashback to her brother Tomas, also a contractor, recently dead on a 'market correction' job. Emotional beat: guilt masquerading as professionalism."
+    },
+    {
+      "n": 5,
+      "title": "Ledger of Ghosts",
+      "summary": "POV Orsen. With help from Auntie Wai's grandnephew, a hacker, Orsen decrypts more of the Lagos server: eleven deaths dressed as financial accidents, including the raid that killed his partner Daniel. Emotional beat: grief given a name and an enemy."
+    },
+    {
+      "n": 6,
+      "title": "Three Governments, One Truth",
+      "summary": "POV Orsen. Orsen contacts a UK Serious Fraud Office contact, a US Treasury analyst, and a Hong Kong ICAC officer; each wants the evidence sealed or shaped to their agenda. He realizes no institution is safe. Emotional beat: disillusionment hardening into resolve to go outside the law."
+    },
+    {
+      "n": 7,
+      "title": "Frankfurt Countdown",
+      "summary": "POV Ilse. Her handler reveals the next 'correction' targets a Frankfurt-listed firm—and orders her to finish Orsen before European pre-market opens in nine days. She stalls, digging into Tomas's final contract instead. Emotional beat: loyalty fracturing."
+    },
+    {
+      "n": 8,
+      "title": "Adaeze",
+      "summary": "POV Adaeze, the Lagos forensic accountant who built the original ledger and has been hiding since. Orsen flies to Lagos using a dead man's passport; she tests him brutally before agreeing to help reconstruct the full chain of custody. Emotional beat: two fugitives recognizing each other."
+    },
+    {
+      "n": 9,
+      "title": "The Server Room Ambush",
+      "summary": "POV Orsen. Retrieving the master key from a Lagos data center, Orsen walks into a trap set by Meridian Crest's fixer, Callum Voss. Adaeze's quick thinking saves him; they escape with partial data and a bullet graze. Emotional beat: terror transformed into trust."
+    },
+    {
+      "n": 10,
+      "title": "What Ilse Found",
+      "summary": "POV Ilse. Following Tomas's payment trail, Ilse discovers his death was ordered by the same program she now serves—a culling of contractors who knew too much. She photographs the order and doesn't report it. Emotional beat: betrayal becoming defection."
+    },
+    {
+      "n": 11,
+      "title": "Auntie Wai's Price",
+      "summary": "POV Orsen. Back in Kowloon, Orsen learns Voss has leaned on Auntie Wai's lease and family to flush him out. She refuses to give him up and finally demands his story; he tells her everything about Daniel. Emotional beat: confession as the price of shelter, freely paid."
+    },
+    {
+      "n": 12,
+      "title": "The Defector's Offer",
+      "summary": "POV Ilse. Ilse approaches Orsen openly, gun visible, offering her evidence in exchange for inclusion in the broadcast. Orsen must decide whether to trust the woman hired to kill him. The hacker verifies her documents overnight. Emotional beat: dangerous hope."
+    },
+    {
+      "n": 13,
+      "title": "Voss Closes In",
+      "summary": "POV Orsen. Voss raids the noodle shop network, takes the hacker hostage, and leaves a message: hand over the ledger or the boy pays. Orsen's plan to broadcast safely collapses. Emotional beat: rage and helplessness; the cost of found family."
+    },
+    {
+      "n": 14,
+      "title": "Trade",
+      "summary": "POV Orsen. Orsen offers himself to Voss in exchange for the hacker, recording the exchange covertly via Ilse's overwatch. The trade succeeds, but Voss seizes what he believes is the master ledger—it's Adaeze's honeypot. Emotional beat: sacrifice rewarded with a sliver of leverage."
+    },
+    {
+      "n": 15,
+      "title": "Burning the Honeypot",
+      "summary": "POV Adaeze. Voss discovers the fake ledger, traces its construction, and identifies Adaeze. She goes dark, feeding false locations while the team races to complete authentication of the real file across three servers. Emotional beat: quiet heroism under erasure."
+    },
+    {
+      "n": 16,
+      "title": "Pre-Market",
+      "summary": "POV Orsen. Six hours before Frankfurt opens, the team splits: Ilse to neutralize Voss's kill team, Adaeze to hold the uplink, Orsen to face final biometric verification—which requires him to confess the incident aloud, on record. Emotional beat: the truth as the last key."
+    },
+    {
+      "n": 17,
+      "title": "The Incident, Named",
+      "summary": "POV Orsen. In flashback interwoven with the present, we finally learn the full story: Orsen falsified a report to protect Daniel, and the falsified report got Daniel killed. His recorded confession doubles as testimony. Emotional beat: shame transmuted into accountability."
+    },
+    {
+      "n": 18,
+      "title": "Frankfurt Opens",
+      "summary": "POV multiple, primarily Orsen. At 8:00 CET the ledger hits regulators, exchanges, and newsrooms simultaneously. Meridian Crest stock craters; arrests begin in three countries within hours. Voss, exposed, comes for Orsen personally. Emotional beat: vindication shadowed by imminent danger."
+    },
+    {
+      "n": 19,
+      "title": "Voss",
+      "summary": "POV Ilse. Voss corners Orsen on a container pier; Ilse intervenes, choosing openly against her old life. She wounds Voss but refuses to execute him—'You don't get to make me your mirror.' Police arrive to find everything documented. Emotional beat: breaking the cycle of violence."
+    },
+    {
+      "n": 20,
+      "title": "Testimony",
+      "summary": "POV Orsen. Orsen surrenders voluntarily to the SFO, trading silence for full cooperation. Interrogation scenes show him calm, complete, unafraid. Adaeze and Ilse watch via secure link; the hacker is released. Emotional beat: justice accepted, not evaded."
+    },
+    {
+      "n": 21,
+      "title": "Sentencing Eve",
+      "summary": "POV Ilse. On the eve of sentencing, Ilse visits Tomas's grave, leaving a copy of the broadcast transcript. Adaeze starts a nonprofit auditing 'clean money.' Auntie Wai sends noodles to the courthouse. Emotional beat: grief metabolized into repair."
+    },
+    {
+      "n": 22,
+      "title": "First Sleep",
+      "summary": "POV Orsen. Sentenced but credited for cooperation, Orsen serves a reduced term. In the final scene, in his cell, lights out, he sleeps through the night—dreaming of Daniel, at peace. A letter from Auntie Wai waits for morning. Emotional beat: belonging earned; rest finally possible."
+    }
+  ]
+}

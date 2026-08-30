@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04096",
+  "title": "Wardrobe and Language",
+  "author": "Bram Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Dominic Voss, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must return to the place where the story went wrong before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4096
+  }
+}

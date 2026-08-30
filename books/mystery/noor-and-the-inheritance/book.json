@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05697",
+  "title": "Noor and the Inheritance",
+  "author": "Noor Almeida",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Noor Okafor, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5697
+  }
+}

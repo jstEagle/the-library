@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04700",
+  "title": "The Late Postcards",
+  "author": "Kestrel Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Sable Dravenmoor, a night librarian in a city that sleeps less every year, moves through the days like a tenant, not an owner. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. Now she must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4700
+  }
+}

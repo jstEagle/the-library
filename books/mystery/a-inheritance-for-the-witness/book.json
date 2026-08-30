@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05668",
+  "title": "A Inheritance for the Witness",
+  "author": "Oscar Ravensworth",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Xanthe Kavanagh, a retired detective running a failing bookshop, prides themselves on never taking a case they can't close. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5668
+  }
+}

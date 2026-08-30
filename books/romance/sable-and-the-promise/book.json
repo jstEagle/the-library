@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06215",
+  "title": "Sable and the Promise",
+  "author": "Lior Crane",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Jonah Hartwell, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6215
+  }
+}

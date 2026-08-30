@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00790",
+  "title": "The Last Ember",
+  "author": "Jude Pemberton",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Quentin Ashgrove, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. To get through this, he must find the door out of a country that no longer exists before the moon completes its thirteenth turn.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 790
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07483",
+  "title": "Echo and Colony",
+  "author": "C. M. Vasquez",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Wren Sandoval, a terraformer tending a garden meant for people not yet born, has spent ten years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7483
+  }
+}

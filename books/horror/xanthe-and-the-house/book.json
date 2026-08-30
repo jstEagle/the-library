@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03946",
+  "title": "Xanthe and the House",
+  "author": "Ulyana Hartwell",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Isandro Voss, a property surveyor appraising a house that appraises back, doesn't believe, has never believed, will not begin believing now. Then all the photographs from grandma's house now include an extra chair — and she is pulled straight into the middle of it. To get through this, she must hold out until sunrise with the truth about what was invited in before the harvest moon rises.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3946
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04207",
+  "title": "The Weather of the coast road",
+  "author": "Mara Eriksen",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Lior Lockridge, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. To get through this, they must say goodbye properly, at last, out loud before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4207
+  }
+}

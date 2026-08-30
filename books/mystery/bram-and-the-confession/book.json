@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05524",
+  "title": "Bram and the Confession",
+  "author": "Casper Eriksen",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Emrys Ishikawa, a retired detective running a failing bookshop, has spent seven years keeping the town's secrets filed and alphabetized. Then a body turns up dressed in clothes stolen from the witness's own closet — and he is pulled straight into the middle of it. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5524
+  }
+}

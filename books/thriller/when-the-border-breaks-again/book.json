@@ -1,0 +1,21 @@
+{
+  "id": "THR-09463",
+  "title": "When the Border Breaks Again",
+  "author": "Coral Underhill",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Theo Okafor, a financial-crimes investigator drowning in clean money, has spent fifteen years following rules that keep getting rewritten. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. Now she must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9463
+  }
+}

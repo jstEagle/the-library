@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09960",
+  "title": "A Homecoming for the Scholarship",
+  "author": "Zephyrine Hartwell",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Felix Vane, a scholarship student at an academy with too many secrets, is fine. Everything is fine. Obviously.. Then the college essay prompt asks one honest question nobody can stop answering — and they are pulled straight into the middle of it. Now they must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9960
+  }
+}

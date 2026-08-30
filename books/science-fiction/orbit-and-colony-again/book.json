@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08108",
+  "title": "Orbit and Colony Again",
+  "author": "Xanthe Underhill",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Elodie Sterling, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. But when the station AI begins confessing to crimes nobody reported, he discovers that staying invisible was never really an option. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8108
+  }
+}

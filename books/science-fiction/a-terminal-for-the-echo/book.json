@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07851",
+  "title": "A Terminal for the Echo",
+  "author": "Odile Delacroix",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Freya Lockridge, the last human technician on an automated relay station, has spent five years hauling cargo through contested orbits. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7851
+  }
+}

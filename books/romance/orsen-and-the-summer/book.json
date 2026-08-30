@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06647",
+  "title": "Orsen and the Summer",
+  "author": "Beatrix Hartwell",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Astrid Pemberton, a single parent running the town's only bookshop, has spent seven years rebuilding a life measured in small safe steps. But when a fake date to survive a family reunion feels too real by dessert, they discover that staying invisible was never really an option. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6647
+  }
+}

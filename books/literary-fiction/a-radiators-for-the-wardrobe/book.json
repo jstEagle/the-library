@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04564",
+  "title": "A Radiators for the Wardrobe",
+  "author": "Petra Sterling",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Gideon Crane, a night librarian in a city that sleeps less every year, keeps a careful inventory of everything unsaid. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the house sale closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4564
+  }
+}

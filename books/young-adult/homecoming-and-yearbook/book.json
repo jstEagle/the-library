@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09588",
+  "title": "Homecoming and Yearbook",
+  "author": "Lena Ravensworth",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Jonah Yarrow, the team's statistician who knows the game is rigged, stays under the radar: head down, grades up, locker shut. Then the teacher pairs nemesis with nemesis for a semester-long project — and he is pulled straight into the middle of it. Now he must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9588
+  }
+}

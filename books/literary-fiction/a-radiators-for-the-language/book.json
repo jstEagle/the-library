@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04162",
+  "title": "A Radiators for the Language",
+  "author": "Petra Amberdale",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Hazel Nakamura, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, he discovers that staying invisible was never really an option. To get through this, he must forgive the stranger in the old photographs before the mother's memory goes entirely.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4162
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08398",
+  "title": "The Vector of New Lagos Anew",
+  "author": "Orsen Nystrom",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Rosalind Villalobos, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. To get through this, they must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8398
+  }
+}

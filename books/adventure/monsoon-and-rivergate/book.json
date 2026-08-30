@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00537",
+  "title": "Monsoon and Rivergate",
+  "author": "Petra Vasquez",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Lena Almeida, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. But when an old rival hires the crew for the one job that was sworn off long ago, they discover that staying invisible was never really an option. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 537
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04142",
+  "title": "The Silence of the reservoir",
+  "author": "Petra Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Silas Yarrow, a piano tuner who hears the house's history in its radiators, has perfected the smile that ends conversations. But when a song on the radio is one that was written and never recorded, he discovers that staying invisible was never really an option. Now he must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4142
+  }
+}

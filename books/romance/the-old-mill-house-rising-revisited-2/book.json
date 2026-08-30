@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06972",
+  "title": "the Old Mill House Rising Revisited",
+  "author": "Ada Nystrom",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Lena Voss, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6972
+  }
+}

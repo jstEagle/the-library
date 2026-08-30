@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01861",
+  "title": "Xanthe and the Spire",
+  "author": "August Whitlock",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Jonah Quintana, a bone-carver who hears the dead, has spent five years selling small charms in a city that outlawed magic. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1861
+  }
+}

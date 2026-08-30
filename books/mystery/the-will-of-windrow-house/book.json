@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05004",
+  "title": "The Will of Windrow House",
+  "author": "Dominic Delacroix",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Silas Eastwick, an insurance investigator with a photographic memory, thought they had seen every way a life can end. But when a client pays in advance to prove a murder hasn't happened — yet, she discovers that staying invisible was never really an option. To get through this, she must decode a ledger hidden in plain sight before the statute expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5004
+  }
+}

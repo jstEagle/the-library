@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09616",
+  "title": "A Scholarship for the Prom",
+  "author": "Sebastian Okafor",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Yara Halloran, the new kid at a school built over something old, stays under the radar: head down, grades up, locker shut. But when a best friend goes missing, leaving only a set of keys behind, they discover that staying invisible was never really an option. Now they must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9616
+  }
+}

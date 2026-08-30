@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06252",
+  "title": "Xanthe and the Kitchen",
+  "author": "Ansel Nystrom",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Rafael Amberdale, a wedding planner who doesn't believe in weddings anymore, swears the heart is a muscle like any other: trainable, containable. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6252
+  }
+}

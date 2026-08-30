@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04939",
+  "title": "The Autopsy of Ashcombe",
+  "author": "Quentin Almeida",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Paloma Underhill, a hotel concierge who notices everything, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. To get through this, they must close the one case everyone swore was closed for good before the statute expires.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4939
+  }
+}

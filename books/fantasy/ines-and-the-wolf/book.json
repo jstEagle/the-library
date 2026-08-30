@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01746",
+  "title": "Ines and the Wolf",
+  "author": "Xanthe Blackwood",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Orsen Villalobos, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and he is pulled straight into the middle of it. Now he must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "memory",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1746
+  }
+}

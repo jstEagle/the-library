@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07618",
+  "title": "A Terminal for the Orbit",
+  "author": "Ada Thornbury",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Casper Blackwood, a pilot bonded to an AI that lies, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7618
+  }
+}

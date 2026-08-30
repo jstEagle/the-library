@@ -1,0 +1,21 @@
+{
+  "id": "THR-08829",
+  "title": "Isandro and the Deadline",
+  "author": "Zephyrine Fairweather",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Tamsin Eastwick, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. Then the safe house is listed for sale — with photos of the inside — and he is pulled straight into the middle of it. To get through this, he must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8829
+  }
+}

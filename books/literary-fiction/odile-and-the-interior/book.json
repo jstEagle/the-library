@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04785",
+  "title": "Odile and the Interior",
+  "author": "Odile Whitlock",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Vesper Eriksen, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. Now they must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4785
+  }
+}

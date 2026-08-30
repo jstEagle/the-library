@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00261",
+  "title": "When the Compass Falls",
+  "author": "Bram Quintana",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Edmund Nakamura, an archaeologist's estranged child and better digger, knows the wilderness forgives nothing and forgets less. But when an old rival hires the crew for the one job that was sworn off long ago, he discovers that staying invisible was never really an option. To get through this, he must cross the range ahead of the snows before the concession permits expire.",
+  "themes": [
+    "found family",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 261
+  }
+}

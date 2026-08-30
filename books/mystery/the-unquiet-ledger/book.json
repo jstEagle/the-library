@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04807",
+  "title": "The Unquiet Ledger",
+  "author": "Jude Crane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Orsen Brightwater, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must trap a killer who knows the case file better than the investigators do before the statute expires.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4807
+  }
+}

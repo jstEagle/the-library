@@ -1,0 +1,21 @@
+{
+  "id": "THR-09392",
+  "title": "Zephyrine and the Debt",
+  "author": "Oscar Almeida",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Sable Vane, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9392
+  }
+}

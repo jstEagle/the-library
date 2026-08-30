@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09703",
+  "title": "The Sixteenth Scholarship",
+  "author": "N. M. Yarrow",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Hazel Eriksen, the new kid at a school built over something old, stays under the radar: head down, grades up, locker shut. But when the teacher pairs nemesis with nemesis for a semester-long project, he discovers that staying invisible was never really an option. To get through this, he must save the tradition that made the town before the final audition.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9703
+  }
+}

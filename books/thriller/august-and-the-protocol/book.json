@@ -1,0 +1,21 @@
+{
+  "id": "THR-08731",
+  "title": "August and the Protocol",
+  "author": "Theo Thornbury",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Yara Eastwick, a fixer for an embassy that doesn't officially exist, has spent ten years following rules that keep getting rewritten. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. Now they must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8731
+  }
+}

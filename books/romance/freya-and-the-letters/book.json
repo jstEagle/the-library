@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06884",
+  "title": "Freya and the Letters",
+  "author": "Noor Ravensworth",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Wren Thornbury, a ghostwriter secretly penning a rival's memoirs, swears the heart is a muscle like any other: trainable, containable. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. To get through this, they must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6884
+  }
+}

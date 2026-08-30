@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03427",
+  "title": "The Pale Winter",
+  "author": "Paloma Coldharbour",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Theo Brightwater, a pest controller called to something with fingerprints, documents everything, because documentation is a kind of prayer. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. To get through this, he must return what was taken in 1974 before the well refills.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3427
+  }
+}

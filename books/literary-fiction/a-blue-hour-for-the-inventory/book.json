@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04322",
+  "title": "A Blue Hour for the Inventory",
+  "author": "Tamsin Vasquez",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Petra Pemberton, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. Then a song on the radio is one that was written and never recorded — and he is pulled straight into the middle of it. To get through this, he must forgive the stranger in the old photographs before the mother's memory goes entirely.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4322
+  }
+}

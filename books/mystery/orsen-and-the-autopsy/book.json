@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05650",
+  "title": "Orsen and the Autopsy",
+  "author": "August Joubert",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Casper Nystrom, an estate lawyer reading a will that shouldn't exist, has spent five years keeping the town's secrets filed and alphabetized. Then the missing person's diary continues past the date she disappeared — and she is pulled straight into the middle of it. To get through this, she must untangle alibis woven thirty years ago before the statute expires.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5650
+  }
+}

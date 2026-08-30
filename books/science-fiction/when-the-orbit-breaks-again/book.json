@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08170",
+  "title": "When the Orbit Breaks Again",
+  "author": "M. M. Delacroix",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Lior Sandoval, a terraformer tending a garden meant for people not yet born, has spent fifteen years hauling cargo through contested orbits. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. To get through this, she must prove a massacre happened when every record says otherwise before Earth's last transmission loop ends.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8170
+  }
+}

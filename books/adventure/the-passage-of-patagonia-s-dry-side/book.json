@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00466",
+  "title": "The Passage of Patagonia's dry side",
+  "author": "Juniper Pemberton",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Odile Amberdale, a salvage diver working a wreck the navy won't discuss, has spent ten years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and they are pulled straight into the middle of it. To get through this, they must follow a river upstream to its forbidden source before the dry season ends.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 466
+  }
+}

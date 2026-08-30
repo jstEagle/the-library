@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01433",
+  "title": "Coral and the Crown",
+  "author": "Cyrus Quintana",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Emrys Pemberton, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1433
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09333",
+  "title": "Geneva Rising Again",
+  "author": "Hazel Okafor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Casper Thornbury, a crash investigator whose family died in row twelve, has spent three years following rules that keep getting rewritten. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. Now they must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9333
+  }
+}

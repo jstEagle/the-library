@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08371",
+  "title": "Isandro and the Protocol Anew",
+  "author": "Odile Halloran",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Ines Pemberton, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must prove a massacre happened when every record says otherwise before the reactor finishes its countdown.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8371
+  }
+}

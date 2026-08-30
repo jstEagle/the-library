@@ -1,0 +1,21 @@
+{
+  "id": "THR-09441",
+  "title": "The Contact of Vienna Again",
+  "author": "Hazel Voss",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Rosalind Sandoval, a whistle-blower living under four names, works cases no one wants attributed. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. Now they must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9441
+  }
+}

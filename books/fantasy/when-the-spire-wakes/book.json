@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00898",
+  "title": "When the Spire Wakes",
+  "author": "U. M. Ashgrove",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ada Nakamura, a bone-carver who hears the dead, has spent five years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. To get through this, she must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "identity",
+    "found family",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 898
+  }
+}

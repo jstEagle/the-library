@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05752",
+  "title": "Oscar and the Verdict",
+  "author": "Quentin Joubert",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ulyana Marchetti, the archivist of a cathedral with a locked crypt, has spent three years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, they discover that staying invisible was never really an option. To get through this, they must trap a killer who knows the case file better than the investigators do before the trial begins.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5752
+  }
+}

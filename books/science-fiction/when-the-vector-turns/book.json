@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07044",
+  "title": "When the Vector Turns",
+  "author": "Noor Nakamura",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Astrid Ishikawa, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. To get through this, he must keep a lie alive that holds two fleets apart before the jump window closes.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7044
+  }
+}

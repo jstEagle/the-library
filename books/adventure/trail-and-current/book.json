@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00190",
+  "title": "Trail and Current",
+  "author": "Hazel Okonkwo",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Zephyrine Oyelaran, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. Then an old rival hires the crew for the one job that was sworn off long ago — and he is pulled straight into the middle of it. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 190
+  }
+}

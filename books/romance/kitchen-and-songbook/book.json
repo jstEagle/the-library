@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06585",
+  "title": "Kitchen and Songbook",
+  "author": "Beatrix Sandoval",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Ines Yarrow, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6585
+  }
+}

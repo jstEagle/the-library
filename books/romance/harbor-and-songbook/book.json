@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06235",
+  "title": "Harbor and Songbook",
+  "author": "Mirabel Quintana",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Ada Sandoval, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. Then two estranged names appear on the same impossibly stubborn orchard deed — and she is pulled straight into the middle of it. To get through this, she must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6235
+  }
+}

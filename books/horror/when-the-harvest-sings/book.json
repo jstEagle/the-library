@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03248",
+  "title": "When the Harvest Sings",
+  "author": "A. M. Amberdale",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Lior Kavanagh, a twin who came home to bury the wrong sibling, has spent ten years telling themselves the noises have explanations. Then the excavation crew unearths a door, sealed from the inside — and she is pulled straight into the middle of it. Now she must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3248
+  }
+}

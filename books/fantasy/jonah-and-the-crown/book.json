@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01381",
+  "title": "Jonah and the Crown",
+  "author": "Felix Zhou",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Noor Ravensworth, an exiled storm-caller, has never left the valley where magic cannot follow. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. To get through this, he must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1381
+  }
+}

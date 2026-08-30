@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00084",
+  "title": "The Horizon of the Empty Quarter",
+  "author": "Mara Ishikawa",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Beatrix Galloway, a railroad engineer with a map of closed lines, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and he is pulled straight into the middle of it. Now he must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 84
+  }
+}

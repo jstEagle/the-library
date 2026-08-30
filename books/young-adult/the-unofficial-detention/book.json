@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09776",
+  "title": "The Unofficial Detention",
+  "author": "Petra Okonkwo",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Sebastian Yarrow, a baker's kid who bakes feelings into bread, has spent three years being so careful it hurts. Then the teacher pairs nemesis with nemesis for a semester-long project — and he is pulled straight into the middle of it. To get through this, he must expose what the school board buried before the final audition.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9776
+  }
+}

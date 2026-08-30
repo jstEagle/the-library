@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07328",
+  "title": "Beatrix and the Protocol",
+  "author": "Vesper Ishikawa",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Cyrus Ashgrove, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. To get through this, they must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7328
+  }
+}

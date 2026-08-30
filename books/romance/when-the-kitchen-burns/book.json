@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06240",
+  "title": "When the Kitchen Burns",
+  "author": "Paloma Reyes",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Felix Ashgrove, a marine biologist counting turtles instead of heartbreaks, has spent three years rebuilding a life measured in small safe steps. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. To get through this, he must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6240
+  }
+}

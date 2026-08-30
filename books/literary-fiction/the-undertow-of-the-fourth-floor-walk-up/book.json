@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04218",
+  "title": "The Undertow of the fourth floor walk-up",
+  "author": "Wendell Dunmore",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Rosalind Ashgrove, a former prodigy returning to the conservatory as a janitor, has spent twenty years practicing the art of almost saying it. Then a song on the radio is one that was written and never recorded — and she is pulled straight into the middle of it. To get through this, she must forgive the stranger in the old photographs before the demolition date arrives.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4218
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03648",
+  "title": "A House for the Choir",
+  "author": "Orsen Reyes",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Petra Coldharbour, a radio host taking calls from listeners who died last week, has spent seven years telling themselves the noises have explanations. But when the sleep recordings capture a second voice answering questions, she discovers that staying invisible was never really an option. To get through this, she must finish the ritual the founders started before the well refills.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3648
+  }
+}

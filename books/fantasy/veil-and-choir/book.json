@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01253",
+  "title": "Veil and Choir",
+  "author": "Cyrus Amberdale",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Paloma Brightwater, a thief who steals memories, has never left the valley where magic cannot follow. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1253
+  }
+}

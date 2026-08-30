@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08358",
+  "title": "Paloma and the Signal",
+  "author": "Odile Lockridge",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Jude Sandoval, a clone who inherited the original's murder case, has spent seven years hauling cargo through contested orbits. But when an unfamiliar name shows up on the manifest of a ship that never flew, he discovers that staying invisible was never really an option. To get through this, he must prove a massacre happened when every record says otherwise before the jump window closes.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8358
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "A Machine for the Terminal",
+  "slug": "science-fiction/a-machine-for-the-terminal",
+  "model": "stealth/ox-alpha",
+  "premise": "Gideon Kavanagh, sole awake crewman of the derelict freighter Vesperine, has spent eleven years tending a navigation beacon no one ordered built, while four hundred cryosleeping colonists—his own earlier backups among them—drift in the hold. When a distress call arrives in Old Meridian, a language extinct since the Collapse, he traces it to a sister ship that was supposed to have burned up with Earth's archives, and learns his beacon is actually a lure: the Vesperine's owners seeded sleeper ships with duplicate minds to test which copies would sacrifice the originals to survive. The signal's sender is Gideon's own first backup, awake for decades and dying, who offers him a choice—wake the colonists and let the corporate audit fleet find them, or stay hidden forever as the last transmission loop decays. In the end Gideon wakes the colonists, broadcasts the truth in Old Meridian so it can't be quietly erased, and surrenders himself to the fleet so that belonging costs him everything except the people.",
+  "about_author": "Marguerite Iversen is a former maritime radio operator from the Faroe Islands whose short fiction has appeared in three obscure genre anthologies. She writes about isolation, obsolete technology, and the voices that refuse to go silent.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Beacon Nobody Ordered",
+      "summary": "Gideon's POV. A day-cycle aboard the Vesperine: calibrating the beacon, logging phantom maintenance requests, eating alone. He visits the hold and speaks to the sleepers as he always does, especially the pod labeled KAVANAGH, G. (0). The emotional beat is ritualized loneliness mistaken for peace."
+    },
+    {
+      "n": 2,
+      "title": "A Language With No Speakers",
+      "summary": "Gideon's POV. The distress signal arrives on a dead band, encoded in Old Meridian—a language he only knows because his mother sang lullabies in it. He verifies it isn't an echo of his own equipment. The beat: wonder cracking through routine, and the first fear that someone out there knows he exists."
+    },
+    {
+      "n": 3,
+      "title": "Hold Four, Pod Nine",
+      "summary": "Gideon's POV, intercut with log entries from the ship's previous navigator. Tracing the signal's origin, he finds sealed records showing the Vesperine was never a colony mission—it was a duplication trial, and his own backup was the control subject. Beat: betrayal by his own past."
+    },
+    {
+      "n": 4,
+      "title": "The Man Who Was Me First",
+      "summary": "Gideon's POV. Following the signal to a drifting hulk, he docks and meets Emeric—the original Gideon, awake thirty years, ravaged and dying, who sent the call deliberately. Emeric explains the audit fleet still hunts surviving trials. Beat: uncanny kinship; two versions of one man negotiating what either of them owes the other."
+    },
+    {
+      "n": 5,
+      "title": "What the Sleepers Signed",
+      "summary": "Emeric's POV via recorded testimony. Flashback chapters of the trial: volunteers were told they'd be backups; they weren't told duplicates would be woken selectively based on loyalty tests. Gideon listens, furious. Beat: the price of survival made explicit—his invisibility was engineered, not chosen."
+    },
+    {
+      "n": 6,
+      "title": "Loyalty Is a Kind of Silence",
+      "summary": "Gideon's POV. The audit fleet's scout probe enters the system, drawn by the beacon he maintained. He realizes his faithful service has been the trap all along—he was the loyal copy, rewarded with solitude. Beat: guilt curdling into resolve as he begins planning to wake the colonists."
+    },
+    {
+      "n": 7,
+      "title": "Four Hundred Heartbeats",
+      "summary": "Gideon's POV. Revival sequence: he brings pods online in batches, improvising medical care with Emeric's guidance over a failing link. The first colonists wake confused, frightened, some hostile at learning they're duplicates too. Beat: chaos of birth, and Gideon discovering he can belong to people rather than a machine."
+    },
+    {
+      "n": 8,
+      "title": "The Last Transmission Loop",
+      "summary": "Multiple POV. Earth's archival loop—the source of Old Meridian and the trial records—degrades past recovery. The colonists vote: hide, run, or broadcast everything. Gideon argues for truth in a language the corporation can't suppress without admitting it exists. Beat: collective courage replacing individual survival."
+    },
+    {
+      "n": 9,
+      "title": "Which Half Wakes",
+      "summary": "Gideon's POV. Climax. The audit fleet arrives; Emeric dies mid-transmission after handing Gideon the full archive. Gideon broadcasts the trial records in Old Meridian across all bands, then powers down the beacon forever and opens the airlock channel to surrender—choosing the colonists' future over his own freedom. Beat: sacrifice as authorship."
+    },
+    {
+      "n": 10,
+      "title": "Beacon, Extinguished",
+      "summary": "Colonist Sefa Okonkwo's POV, one year later. The fleet's scandal has grounded the trial program; the colonists orbit a habitable moon, building something unnamed but shared. Gideon serves out detention, and Sefa sends him daily transmissions in Old Meridian—lullabies, then news, then invitations home. Beat: belonging finally arriving, addressed to the man who paid for it."
+    }
+  ]
+}

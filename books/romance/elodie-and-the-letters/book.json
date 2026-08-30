@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06720",
+  "title": "Elodie and the Letters",
+  "author": "Silas Nystrom",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Wren Winterbourne, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. To get through this, she must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6720
+  }
+}

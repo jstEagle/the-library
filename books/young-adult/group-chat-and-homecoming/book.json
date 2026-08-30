@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09931",
+  "title": "Group Chat and Homecoming",
+  "author": "Bram Voss",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Edmund Okafor, a coder whose anonymous account knows too much, counts days until graduation like a sentence being served. Then the college essay prompt asks one honest question nobody can stop answering — and they are pulled straight into the middle of it. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9931
+  }
+}

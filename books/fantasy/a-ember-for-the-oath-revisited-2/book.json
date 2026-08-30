@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02242",
+  "title": "A Ember for the Oath Revisited",
+  "author": "Rosalind Almeida",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Silas Fairweather, an exiled storm-caller, has spent five years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2242
+  }
+}

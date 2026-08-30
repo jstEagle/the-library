@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05660",
+  "title": "Ada and the Autopsy",
+  "author": "E. M. Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Elodie Sandoval, an insurance investigator with a photographic memory, has quietly solved three deaths the police called accidents. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5660
+  }
+}

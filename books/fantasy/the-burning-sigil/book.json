@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01059",
+  "title": "The Burning Sigil",
+  "author": "Emrys Almeida",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Felix Yarrow, a thief who steals memories, has spent fifteen years selling small charms in a city that outlawed magic. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1059
+  }
+}

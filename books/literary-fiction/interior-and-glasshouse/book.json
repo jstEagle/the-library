@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04272",
+  "title": "Interior and Glasshouse",
+  "author": "W. M. Coldharbour",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Emrys Pemberton, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. But when a song on the radio is one that was written and never recorded, she discovers that staying invisible was never really an option. To get through this, she must say goodbye properly, at last, out loud before the mother's memory goes entirely.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4272
+  }
+}

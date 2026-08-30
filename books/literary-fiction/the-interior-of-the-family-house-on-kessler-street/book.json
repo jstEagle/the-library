@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04172",
+  "title": "The Interior of the family house on Kessler Street",
+  "author": "Theo Montrose",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Sable Oyelaran, a night librarian in a city that sleeps less every year, has spent ten years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. To get through this, they must ask the question the whole family arranged itself around before the mother's memory goes entirely.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4172
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04177",
+  "title": "When the Weather Burns",
+  "author": "Felix Halloran",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Beatrix Whitlock, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the mother's memory goes entirely.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4177
+  }
+}

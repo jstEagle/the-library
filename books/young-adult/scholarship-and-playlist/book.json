@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09694",
+  "title": "Scholarship and Playlist",
+  "author": "Dominic Blackwood",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Sebastian Okafor, a scholarship student at an academy with too many secrets, counts days until graduation like a sentence being served. Then a best friend goes missing, leaving only a set of keys behind — and she is pulled straight into the middle of it. To get through this, she must tell the truth even if it costs the friendship before the last game of the season.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9694
+  }
+}

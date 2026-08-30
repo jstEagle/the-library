@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09927",
+  "title": "Recipe and Scholarship",
+  "author": "Elodie Pemberton",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ivo Sandoval, a coder whose anonymous account knows too much, has spent three years being so careful it hurts. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and they are pulled straight into the middle of it. Now they must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9927
+  }
+}

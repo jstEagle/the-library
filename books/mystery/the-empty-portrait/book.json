@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05019",
+  "title": "The Empty Portrait",
+  "author": "Vesper Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Vesper Joubert, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5019
+  }
+}

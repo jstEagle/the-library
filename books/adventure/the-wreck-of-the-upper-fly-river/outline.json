@@ -1,0 +1,59 @@
+{
+  "title": "The Wreck of the Upper Fly River",
+  "slug": "adventure/the-wreck-of-the-upper-fly-river",
+  "model": "stealth/ox-alpha",
+  "premise": "Wren Okonkwo, a salvage diver haunted by the drowning of his brother, is hired to recover equipment from the Upper Fly River after a government survey team vanishes without a trace. As monsoon rains trap him and his reluctant ally, survey cartographer Ilsa Reyes, on a leaking boat, they discover the team found evidence of an illegal mining operation the state will kill to bury. Racing the brief window before glacier calving opens the river route, Wren must choose between escaping with proof and saving the last surviving surveyor. He chooses the man, loses the evidence to the flood, but broadcasts the truth from a mountain radio shack — justice delivered not by law, but by witness.",
+  "about_author": "Marguerite Nystrom is a former river pilot who spent a decade running cargo through Papua New Guinea's highland waterways before turning to writing. She lives in a converted ferry house with her partner and an unreasonable number of tide charts.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Miles, Not Years",
+      "summary": "Wren's POV. Establishes his salvage work on the navy-sealed wreck, his ritual of measuring life in river miles, and his grief for his drowned brother. When a government fixer offers triple pay to recover the vanished survey team's gear, he takes it despite his instincts. Emotional beat: a man asleep at the wheel of his own life, agreeing to wake up."
+    },
+    {
+      "n": 2,
+      "title": "The Quiet Camp",
+      "summary": "Wren's POV. He reaches the survey camp: tents intact, meals half-eaten, a radio smashed from inside, and no tracks in the mud. He finds a waterproof journal with pages torn out and a hand-drawn map of an unmapped tributary. Emotional beat: creeping dread as competence curdles into the realization that people don't just evaporate."
+    },
+    {
+      "n": 3,
+      "title": "The Stranger on the Water",
+      "summary": "Wren's POV. He finds Ilsa Reyes, a cartographer who missed the survey's final leg, hiding downstream with a bullet graze. Neither trusts the other; she suspects he's the cleanup crew. A patrol boat forces them to flee together into the narrowing gorge. Emotional beat: two loners bound by necessity, testing each other with sharp words."
+    },
+    {
+      "n": 4,
+      "title": "What the Survey Found",
+      "summary": "Ilsa's POV. She reveals the team's discovery: an illegal dredging operation poisoning the headwaters, sanctioned by officials who then ordered the survey erased. She has half the data; her team leader, Amos, fled upstream with the rest. Emotional beat: guilt — she survived because she was late, and she knows it."
+    },
+    {
+      "n": 5,
+      "title": "Monsoon",
+      "summary": "Alternating POV. The rains trap them; the boat takes on water faster than the bilge pump can manage, and they shelter in a drowned church, bailing and arguing about whether Amos could still be alive. Emotional beat: forced intimacy — shared labor and shared stories crack open their defenses."
+    },
+    {
+      "n": 6,
+      "title": "The Wreck Below",
+      "summary": "Wren's POV. Diving to patch the hull, Wren finds the navy wreck is no wreck at all but a scuttled patrol boat, deliberately sunk over mining equipment — the reason for the seal, the reason his brother's charter was in the area that night. Emotional beat: grief transmuted into purpose; the mystery of his brother's death and the survey's fate are the same crime."
+    },
+    {
+      "n": 7,
+      "title": "Amos, Alive, Barely",
+      "summary": "Ilsa's POV. They find Amos in a cave above the tributary, feverish, clutching the data drive. He tells them the patrol is waiting at the calving lake — the only exit — and that the drive is corrupted unless decrypted at the survey's uplink shack. Emotional beat: hope arriving as a burden; now they can't simply run."
+    },
+    {
+      "n": 8,
+      "title": "The Calving Season Opens",
+      "summary": "Wren's POV. The glacier calves, opening the route for exactly days. They run the ice-choked rapids toward the uplink shack as the patrol closes in. The boat is holed for good; they finish on foot, Amos carried. Emotional beat: desperate momentum, the river itself turning from prison to ally."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "Alternating POV. At the shack, Ilsa decrypts and transmits the survey data to every news desk and ministry address she knows while Wren holds the door against the patrol. Amos's fever breaks; the transmission goes out seconds before the patrol breaches. Emotional beat: the climax — courage as a decision made with shaking hands."
+    },
+    {
+      "n": 10,
+      "title": "The Long Way Down",
+      "summary": "Wren's POV. They escape overland as the evidence spreads; an inquiry is announced, and the fixer who hired Wren is arrested. Wren scatters his brother's ashes at the confluence, finally measuring life in years. Ilsa asks what he'll do now. 'Dive,' he says — for himself this time. Emotional beat: found family, grief laid down, justice witnessed rather than decreed."
+    }
+  ]
+}

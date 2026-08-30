@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04979",
+  "title": "Inheritance and Cipher",
+  "author": "Theo Zhou",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ines Blackwood, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. To get through this, they must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4979
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08798",
+  "title": "The Safehouse of the Green Zone",
+  "author": "Ada Nakamura",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Noor Yarrow, a crash investigator whose family died in row twelve, works cases no one wants attributed. But when every record of a flight vanishes while it's still in the air, she discovers that staying invisible was never really an option. To get through this, she must extract a defector who may be the bait before the border checkpoint shifts change.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8798
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09593",
+  "title": "The Last Semester",
+  "author": "J. M. Lockridge",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Marguerite Nakamura, the new kid at a school built over something old, stays under the radar: head down, grades up, locker shut. But when the teacher pairs nemesis with nemesis for a semester-long project, she discovers that staying invisible was never really an option. To get through this, she must decide who to be when the labels come off before graduation.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9593
+  }
+}

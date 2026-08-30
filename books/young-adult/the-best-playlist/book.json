@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09871",
+  "title": "The Best Playlist",
+  "author": "U. M. Lockridge",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Elodie Reyes, a debate champion who can't win the argument at home, has spent twenty years being so careful it hurts. But when the college essay prompt asks one honest question nobody can stop answering, she discovers that staying invisible was never really an option. Now she must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9871
+  }
+}

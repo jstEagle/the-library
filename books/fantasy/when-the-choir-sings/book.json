@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00815",
+  "title": "When the Choir Sings",
+  "author": "Wren Pemberton",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Yara Underhill, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 815
+  }
+}

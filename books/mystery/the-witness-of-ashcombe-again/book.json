@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05870",
+  "title": "The Witness of Ashcombe Again",
+  "author": "X. M. Almeida",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Vesper Dunmore, an insurance investigator with a photographic memory, has quietly solved three deaths the police called accidents. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. To get through this, they must close the one case everyone swore was closed for good before the anniversary dinner raises its glass.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5870
+  }
+}

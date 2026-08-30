@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01764",
+  "title": "The Last Hollow Again",
+  "author": "Mara Quintana",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Quentin Blackwood, a thief who steals memories, has spent seven years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1764
+  }
+}

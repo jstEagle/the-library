@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02110",
+  "title": "Isandro and the Thorn",
+  "author": "Casper Sterling",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Wendell Almeida, an exiled storm-caller, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2110
+  }
+}

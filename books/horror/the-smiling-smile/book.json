@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03651",
+  "title": "The Smiling Smile",
+  "author": "Orsen Yarrow",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Juniper Hartwell, a pest controller called to something with fingerprints, has spent seven years telling themselves the noises have explanations. Then the village's church bell rings although the bell was melted down in 1911 — and they are pulled straight into the middle of it. Now they must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3651
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01737",
+  "title": "Dominic and the Wolf",
+  "author": "Noor Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Coral Blackwood, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1737
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02626",
+  "title": "A Uniform for the Letter",
+  "author": "Y. M. Kavanagh",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ivo Okafor, a widowed lighthouse keeper during the year of the great storms, has spent seven years learning which silences keep people safe. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and he is pulled straight into the middle of it. Now he must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2626
+  }
+}

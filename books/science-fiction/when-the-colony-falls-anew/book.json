@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08385",
+  "title": "When the Colony Falls Anew",
+  "author": "Coral Iversen",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Emrys Brightwater, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8385
+  }
+}

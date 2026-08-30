@@ -1,0 +1,21 @@
+{
+  "id": "THR-09367",
+  "title": "Kestrel and the Safehouse",
+  "author": "Rosalind Okafor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Orsen Quintana, a hostage negotiator with one failure still on the board, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. To get through this, she must burn the network that did the training before the border checkpoint shifts change.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9367
+  }
+}

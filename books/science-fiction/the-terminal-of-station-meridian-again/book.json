@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08232",
+  "title": "The Terminal of Station Meridian Again",
+  "author": "Lior Joubert",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Elodie Vane, a pilot bonded to an AI that lies, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8232
+  }
+}

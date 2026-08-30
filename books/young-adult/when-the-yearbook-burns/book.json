@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09510",
+  "title": "When the Yearbook Burns",
+  "author": "Bram Fairweather",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Quentin Okafor, a baker's kid who bakes feelings into bread, is fine. Everything is fine. Obviously.. But when a best friend goes missing, leaving only a set of keys behind, she discovers that staying invisible was never really an option. Now she must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9510
+  }
+}

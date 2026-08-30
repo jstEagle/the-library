@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09682",
+  "title": "Tryouts and Mixtape",
+  "author": "Yara Montrose",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Coral Zhou, a debate champion who can't win the argument at home, has spent ten years being so careful it hurts. But when the teacher pairs nemesis with nemesis for a semester-long project, he discovers that staying invisible was never really an option. To get through this, he must tell the truth even if it costs the friendship before prom.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9682
+  }
+}

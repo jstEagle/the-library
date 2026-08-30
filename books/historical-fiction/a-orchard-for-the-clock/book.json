@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02987",
+  "title": "A Orchard for the Clock",
+  "author": "R. M. Okonkwo",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Silas Nakamura, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. Then the census taker asks one question too many — and he is pulled straight into the middle of it. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the ice breaks on the river.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2987
+  }
+}

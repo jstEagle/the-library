@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04868",
+  "title": "Windrow House Rising",
+  "author": "Quentin Marchetti",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Zephyrine Whitlock, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4868
+  }
+}

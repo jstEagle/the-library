@@ -1,0 +1,29 @@
+{
+  "title": "Passage and Trail",
+  "slug": "adventure/passage-and-trail",
+  "model": "stealth/ox-alpha",
+  "premise": "Jonah Brightwater has spent three years flying medicine and mail over the Kestrel Range, keeping his past sealed behind a cockpit door. When his old rival Mara Voss hires his crew for a supply run, the route bends toward Alder Pass — the valley Jonah swore off after a crash that killed his mentor and estranged him from the woman he loved. Trapped by early snows and a rival expedition racing for the same calving-window crossing, Jonah must choose between loyalty to his crew and the truth he buried about that night. In the end, he confesses everything mid-storm, loses the contract but wins back trust, and flies out of the pass with Mara beside him as the glacier finally opens.",
+  "about_author": "Vesper Eastwick is the pen name of a former bush pilot turned novelist who writes adventure stories from a cabin outside Whitehorse. Their work is known for spare prose, brutal weather, and characters who measure redemption in nautical miles.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Fuel, Ice, and Old Debts",
+      "summary": "Jonah's POV. A routine medevac season ends when Mara Voss walks into the hangar offering triple pay for a run into the interior — routed through Alder Pass. His crewmate Dez urges refusal; the money is too good to refuse outright. Jonah signs, telling himself it's just miles. Emotional beat: dread disguised as pragmatism as the old wound reopens."
+    },
+    {
+      "n": 2,
+      "title": "The Weight We Carry",
+      "summary": "Alternating POV between Jonah and Mara. The crew loads supplies while weather windows shrink; Mara reveals the cargo includes equipment for a scientific team already stranded beyond the pass. En route, turbulence forces an unplanned landing where Jonah finds his mentor's old wreck still half-buried in ice. Emotional beat: grief resurfaces; loyalty to the crew strains against the secret Jonah keeps about who was really at fault."
+    },
+    {
+      "n": 3,
+      "title": "Calving Season",
+      "summary": "Jonah's POV, climax. Snow closes in ahead of schedule; the glacier route will open for hours, not days. With fuel failing and the rival expedition sabotaging their cache, Jonah must fly the pass in near-whiteout. Mid-storm, he confesses the truth of the crash to Dez and Mara over the radio — that he ignored his mentor's warning turn. Emotional beat: truth costs everything except the one thing worth keeping."
+    },
+    {
+      "n": 4,
+      "title": "What the Miles Return",
+      "summary": "Mara's POV, resolution. The damaged plane limps through on the calving window; the stranded scientists are reached, the rival expedition turns back in disgrace. Jonah offers Mara the contract money as penance; she tears up the invoice instead. They rebuild the hangar together as first snow settles. Emotional beat: belonging found not in distance flown, but in choosing to land."
+    }
+  ]
+}

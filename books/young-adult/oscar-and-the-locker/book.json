@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09973",
+  "title": "Oscar and the Locker",
+  "author": "Casper Amberdale",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Xanthe Villalobos, the only out kid in a town of nine hundred, is fine. Everything is fine. Obviously.. But when the teacher pairs nemesis with nemesis for a semester-long project, he discovers that staying invisible was never really an option. Now he must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9973
+  }
+}

@@ -1,0 +1,16 @@
+# Crown and Oath Again
+
+**by Sebastian Voss**
+
+> Rafael Eriksen, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must steal back a soul sold to the court beneath the mountain, and time is already running out.
+
+---
+Rating: **** 4.3/5  |  Genre: Fantasy  |  Length: 22 chapters
+
+---
+
+## About the author
+
+Sebastian Voss is the pen name of a former archivist who spent a decade cataloguing border treaties and smugglers' confessions before turning to fantasy. They write about people who keep promises the law forgot, and live somewhere within sight of mountains they refuse to name.
+
+*Generated with AI as part of The Library.*

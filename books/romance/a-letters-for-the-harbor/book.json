@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06057",
+  "title": "A Letters for the Harbor",
+  "author": "Oscar Halloran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Casper Eriksen, a single parent running the town's only bookshop, believes second chances are for people with better timing. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and he is pulled straight into the middle of it. Now he must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6057
+  }
+}

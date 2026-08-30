@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06454",
+  "title": "A Bakery for the Songbook",
+  "author": "Ada Zhou",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Marguerite Quintana, a lighthouse keeper's granddaughter and part-time novelist, has spent fifteen years rebuilding a life measured in small safe steps. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6454
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04512",
+  "title": "The Necessary Wardrobe",
+  "author": "U. M. Villalobos",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ansel Coldharbour, a restaurant critic who has forgotten how food tastes, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, he discovers that staying invisible was never really an option. To get through this, he must translate the untranslatable sentence and live with it before the house sale closes.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4512
+  }
+}

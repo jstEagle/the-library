@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02131",
+  "title": "Wolf and Crown Again",
+  "author": "Lior Quintana",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Paloma Blackwood, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. Now he must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2131
+  }
+}

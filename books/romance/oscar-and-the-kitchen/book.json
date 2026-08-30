@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06749",
+  "title": "Oscar and the Kitchen",
+  "author": "Coral Whitlock",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Vesper Galloway, a lighthouse keeper's granddaughter and part-time novelist, has spent three years rebuilding a life measured in small safe steps. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. To get through this, he must forgive the person in the mirror first before the bakery lease runs out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6749
+  }
+}

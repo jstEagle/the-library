@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04363",
+  "title": "The Radiators of the old quarter",
+  "author": "O. M. Oyelaran",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Cyrus Sandoval, a restaurant critic who has forgotten how food tastes, has spent three years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4363
+  }
+}

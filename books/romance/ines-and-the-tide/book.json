@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06579",
+  "title": "Ines and the Tide",
+  "author": "Silas Underhill",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Ivo Winterbourne, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. Now he must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6579
+  }
+}

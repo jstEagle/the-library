@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04056",
+  "title": "The Glasshouse of the family house on Kessler Street",
+  "author": "Zephyrine Ishikawa",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Zephyrine Underhill, a restaurant critic who has forgotten how food tastes, has spent five years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, she discovers that staying invisible was never really an option. To get through this, she must ask the question the whole family arranged itself around before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4056
+  }
+}

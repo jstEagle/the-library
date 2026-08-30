@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03142",
+  "title": "Casper and the Letter",
+  "author": "Hazel Ravensworth",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Wendell Montrose, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. To get through this, she must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3142
+  }
+}

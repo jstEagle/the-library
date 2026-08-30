@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05197",
+  "title": "A Verdict for the Confession",
+  "author": "Gideon Sterling",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Yara Hartwell, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. Now they must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5197
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01980",
+  "title": "The Last Sigil Anew",
+  "author": "Zephyrine Thackeray",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Silas Oyelaran, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1980
+  }
+}

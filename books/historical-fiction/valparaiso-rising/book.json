@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02316",
+  "title": "Valparaíso Rising",
+  "author": "Ines Yarrow",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Xanthe Nakamura, a pearl diver's child indentured to a trading company, has spent fifteen years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and he is pulled straight into the middle of it. Now he must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2316
+  }
+}

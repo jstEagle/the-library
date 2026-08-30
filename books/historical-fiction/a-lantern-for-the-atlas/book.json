@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02448",
+  "title": "A Lantern for the Atlas",
+  "author": "Vesper Brightwater",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lior Oyelaran, a mapmaker's apprentice finishing the atlas the master died for, has spent twenty years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the ship sails on the morning tide.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2448
+  }
+}

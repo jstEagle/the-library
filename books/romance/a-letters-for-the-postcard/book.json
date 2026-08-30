@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06521",
+  "title": "A Letters for the Postcard",
+  "author": "Kestrel Dunmore",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Noor Villalobos, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6521
+  }
+}

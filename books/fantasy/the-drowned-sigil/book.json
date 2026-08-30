@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00944",
+  "title": "The Drowned Sigil",
+  "author": "Quentin Fairweather",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Mirabel Villalobos, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. But when the crown announces a hunt for anyone with the gift, he discovers that staying invisible was never really an option. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 944
+  }
+}

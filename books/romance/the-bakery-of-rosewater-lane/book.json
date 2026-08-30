@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06029",
+  "title": "The Bakery of Rosewater Lane",
+  "author": "Astrid Winterbourne",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Sebastian Marchetti, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and she is pulled straight into the middle of it. To get through this, she must forgive the person in the mirror first before the vineyard's first harvest comes in.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6029
+  }
+}

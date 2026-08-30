@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04031",
+  "title": "Juniper and the House",
+  "author": "Sable Crane",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Ivo Halloran, a pest controller called to something with fingerprints, keeps the lights on and the doors counted. But when the childhood imaginary friend is waiting on the porch, unchanged, she discovers that staying invisible was never really an option. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4031
+  }
+}

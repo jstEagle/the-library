@@ -1,0 +1,21 @@
+{
+  "id": "THR-09490",
+  "title": "The Cover of the DMZ Again",
+  "author": "Rosalind Joubert",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Freya Galloway, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when every record of a flight vanishes while it's still in the air, she discovers that staying invisible was never really an option. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9490
+  }
+}

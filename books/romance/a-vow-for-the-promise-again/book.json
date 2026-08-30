@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06976",
+  "title": "A Vow for the Promise Again",
+  "author": "V. M. Iversen",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Astrid Joubert, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6976
+  }
+}

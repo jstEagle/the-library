@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07966",
+  "title": "Ada and the Orbit",
+  "author": "Jonah Lockridge",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Xanthe Thackeray, a starship navigator haunted by the backups sleeping in the hold, records the slow death of a colony everyone else forgot. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7966
+  }
+}

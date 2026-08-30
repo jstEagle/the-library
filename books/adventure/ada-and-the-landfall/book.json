@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00315",
+  "title": "Ada and the Landfall",
+  "author": "Paloma Sterling",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Kestrel Marchetti, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. To get through this, she must bring the expedition home without telling anyone what it found before the monsoon makes landfall.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 315
+  }
+}

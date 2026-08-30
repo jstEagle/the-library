@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07726",
+  "title": "Petra and the Colony",
+  "author": "Tamsin Sandoval",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Astrid Nystrom, an insurance investigator of impossible accidents, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and they are pulled straight into the middle of it. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7726
+  }
+}

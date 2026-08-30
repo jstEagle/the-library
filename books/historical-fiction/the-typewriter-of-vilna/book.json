@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02747",
+  "title": "The Typewriter of Vilna",
+  "author": "Jude Eastwick",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Juniper Hartwell, a pearl diver's child indentured to a trading company, has spent five years learning which silences keep people safe. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and they are pulled straight into the middle of it. To get through this, they must choose which family member gets the last berth before the armistice is signed — or isn't.",
+  "themes": [
+    "found family",
+    "memory",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2747
+  }
+}

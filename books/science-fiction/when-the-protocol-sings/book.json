@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07518",
+  "title": "When the Protocol Sings",
+  "author": "Lena Thornbury",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Casper Crane, a memory-smuggler running contraband past orbital customs, has spent ten years hauling cargo through contested orbits. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. Now he must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7518
+  }
+}

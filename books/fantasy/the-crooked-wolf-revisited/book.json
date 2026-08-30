@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02272",
+  "title": "The Crooked Wolf Revisited",
+  "author": "Rosalind Nakamura",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Tamsin Thornbury, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must unbind a king from the thing wearing his crown before the usurper's armies reach the free cities.",
+  "themes": [
+    "identity",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2272
+  }
+}

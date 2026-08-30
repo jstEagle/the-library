@@ -1,0 +1,21 @@
+{
+  "id": "THR-08947",
+  "title": "The Quiet Border",
+  "author": "Wren Lockridge",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Zephyrine Almeida, a fixer for an embassy that doesn't officially exist, has spent twelve years following rules that keep getting rewritten. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8947
+  }
+}

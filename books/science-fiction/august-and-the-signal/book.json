@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07826",
+  "title": "August and the Signal",
+  "author": "O. M. Thornbury",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Rosalind Amberdale, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. To get through this, they must prove a massacre happened when every record says otherwise before Earth's last transmission loop ends.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7826
+  }
+}

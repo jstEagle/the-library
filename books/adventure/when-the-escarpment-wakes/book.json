@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00524",
+  "title": "When the Escarpment Wakes",
+  "author": "Lior Iversen",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ivo Zhou, a desert ranger tracking a thief across nothing, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. To get through this, they must cross the range ahead of the snows before the concession permits expire.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 524
+  }
+}

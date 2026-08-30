@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00607",
+  "title": "A Compass for the Monsoon",
+  "author": "Felix Nakamura",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 3.5,
+  "blurb": "Edmund Villalobos, a bush pilot flying medicine and rumors into the interior, carries a compass, a debt, and very little else. Then the tide reveals a cave that legends charge admission to — and she is pulled straight into the middle of it. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the monsoon makes landfall.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 607
+  }
+}

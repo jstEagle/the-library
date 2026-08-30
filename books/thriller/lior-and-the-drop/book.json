@@ -1,0 +1,21 @@
+{
+  "id": "THR-09357",
+  "title": "Lior and the Drop",
+  "author": "Cyrus Eriksen",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Edmund Thackeray, a burnt analyst bounced from three agencies, has spent twenty years following rules that keep getting rewritten. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9357
+  }
+}

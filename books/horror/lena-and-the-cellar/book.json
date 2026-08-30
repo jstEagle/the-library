@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03759",
+  "title": "Lena and the Cellar",
+  "author": "Ulyana Vasquez",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Paloma Villalobos, a hospice nurse who hears the dying count backwards, documents everything, because documentation is a kind of prayer. But when the sleep recordings capture a second voice answering questions, she discovers that staying invisible was never really an option. To get through this, she must learn the song's last verse without singing along before the harvest moon rises.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3759
+  }
+}

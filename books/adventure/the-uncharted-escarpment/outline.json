@@ -1,0 +1,59 @@
+{
+  "title": "The Uncharted Escarpment",
+  "slug": "adventure/the-uncharted-escarpment",
+  "model": "stealth/ox-alpha",
+  "premise": "Sable Marchetti, a railroad surveyor who has spent twelve years mapping closed mountain lines to outrun a memory he refuses to name, discovers a tide-revealed cave on the Uncharted Escarpment bearing markings that match a map his dead brother left him. Joining a glaciologist and a disgraced guide with competing loyalties, he races the calving season across the range, only to learn the cave holds proof that the disaster he survived twelve years ago was caused by his own survey error — and that his brother died covering for him. When the glacier route opens for a single day, Sable must choose between sealing the truth inside the ice or carrying it down to the valley, where it will destroy the family of the man who saved his life. He chooses truth, and the book ends with him descending the escarpment lighter in miles and heavier in years, finally measuring his life honestly.",
+  "about_author": "Wendell Joubert is the pen name of a former railway surveyor turned novelist who spent a decade working the high passes of the Karakoram and the Alps. He writes adventure fiction obsessed with instruments, ice, and the arithmetic men use to avoid their own pasts.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Tide's Receipt",
+      "summary": "Sable's POV. Surveying a coastal cutoff, Sable watches an extreme low tide expose a cave mouth etched with survey marks identical to his brother Tomas's hand. He pockets a stone tablet fragment and tells no one. Emotional beat: the first crack in twelve years of careful numbness — curiosity overriding discipline."
+    },
+    {
+      "n": 2,
+      "title": "Miles Against Years",
+      "summary": "Sable's POV, with a flashback to the avalanche twelve years prior. In a rail-yard tavern he studies the fragment against Tomas's old map and realizes the cave lies on the closed Kestrel Line, beyond the escarpment, reachable only before calving season seals the glacier route. Emotional beat: grief re-armed as purpose."
+    },
+    {
+      "n": 3,
+      "title": "The Glaciologist's Bargain",
+      "summary": "Dr. Ines Okafor's POV. Ines, who needs access to the escarpment's ice cores before the season closes, finds Sable studying forbidden line maps and offers her expedition's gear and permits in exchange for his route knowledge — hiding that her funding comes from the Voss family, whose patriarch died in the same avalanche. Emotional beat: wary alliance, mutual use disguised as trust."
+    },
+    {
+      "n": 4,
+      "title": "A Guide with Nothing Left to Lose",
+      "summary": "Renn Voss's POV. The last guide willing to cross the escarpment is Renn, the avalanche's other survivor and son of the man Sable's reports blamed. Renn agrees to lead them for a reason he won't state: he believes his father was innocent and wants the mountain to say so. Emotional beat: two liars circling the same wound."
+    },
+    {
+      "n": 5,
+      "title": "The Closed Line",
+      "summary": "Sable's POV. The trio enters the abandoned Kestrel Line tunnel, where Sable's own twelve-year-old survey stakes still stand — and where he quietly falsifies a reading to keep the party on a route only he knows. Ines notices the altered instrument log. Emotional beat: the cost of control; loyalty beginning to strain against truth."
+    },
+    {
+      "n": 6,
+      "title": "White Silence",
+      "summary": "Ines's POV. A storm pins them at a derelict signal hut. Shelter-bound, Renn recounts the avalanche from his side, and his details contradict Sable's official account. Sable deflects; Ines says nothing but begins cross-checking his field notes. Emotional beat: the storm outside mirrored by suspicion inside; survival depends on people who may be lying."
+    },
+    {
+      "n": 7,
+      "title": "What the Ice Keeps",
+      "summary": "Renn's POV. At the glacier face, Ines's ice cores reveal the slope above the old camp failed days before the avalanche — triggered, the survey data shows, by a benchmark miscalculation. Renn realizes Sable made that calculation. He says nothing, but stops sleeping near him. Emotional beat: betrayal discovered, vengeance deferred by necessity."
+    },
+    {
+      "n": 8,
+      "title": "The Calving",
+      "summary": "Sable's POV. The glacier begins calving early; the route will open for one day, maybe less. Crossing the icefall, Renn saves Sable's life at the exact spot where Sable's error killed Renn's father, and demands the truth as payment. Sable confesses — and reveals Tomas altered the final report to shield him, dying in the slide he tried to warn them about. Emotional beat: the climax's moral peak — truth spoken at the price of the only loyalty he has left."
+    },
+    {
+      "n": 9,
+      "title": "One Day of Passage",
+      "summary": "Ines's POV. The route opens; they have hours. Renn walks ahead without a word while Ines forces the choice into the open: the cores and Sable's confession will exonerate Renn's father but brand Sable, and possibly reopen the closed line over the town's objections. Sable must decide whether the cave — and Tomas's last survey — goes public. Emotional beat: the falling action where survival is no longer the question; honesty is."
+    },
+    {
+      "n": 10,
+      "title": "The Descent",
+      "summary": "Sable's POV, closing with a short coda in Renn's. They reach the cave: Tomas's final benchmark, a correction that would have saved everyone, and a note to Sable. Sable signs the true report and files it in the valley below. Renn, not forgiving but no longer carrying his father's blame, walks with him to the railhead. Emotional beat: resolution — Sable stops measuring his life in miles and begins measuring it in what he's willing to lose."
+    }
+  ]
+}

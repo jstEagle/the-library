@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03215",
+  "title": "Marrow Creek Rising",
+  "author": "Oscar Amberdale",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Theo Villalobos, a pest controller called to something with fingerprints, documents everything, because documentation is a kind of prayer. But when all the photographs from grandma's house now include an extra chair, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3215
+  }
+}

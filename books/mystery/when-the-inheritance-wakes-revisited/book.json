@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05949",
+  "title": "When the Inheritance Wakes Revisited",
+  "author": "Emrys Vane",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Jonah Amberdale, an estate lawyer reading a will that shouldn't exist, has spent five years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5949
+  }
+}

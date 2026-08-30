@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03817",
+  "title": "The Bell of Vessel Farm",
+  "author": "Mirabel Blackwood",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "August Yarrow, a folklorist recording songs the village refuses to sing twice, doesn't believe, has never believed, will not begin believing now. Then the village's church bell rings although the bell was melted down in 1911 — and they are pulled straight into the middle of it. Now they must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3817
+  }
+}

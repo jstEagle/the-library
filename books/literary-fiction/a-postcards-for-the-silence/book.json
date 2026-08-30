@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04487",
+  "title": "A Postcards for the Silence",
+  "author": "Jude Thackeray",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Tamsin Sterling, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4487
+  }
+}

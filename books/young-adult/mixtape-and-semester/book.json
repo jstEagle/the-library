@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09862",
+  "title": "Mixtape and Semester",
+  "author": "Yara Delacroix",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Edmund Eastwick, the new kid at a school built over something old, counts days until graduation like a sentence being served. Then the teacher pairs nemesis with nemesis for a semester-long project — and they are pulled straight into the middle of it. Now they must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9862
+  }
+}

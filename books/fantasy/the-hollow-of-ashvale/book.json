@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00978",
+  "title": "The Hollow of Ashvale",
+  "author": "Wendell Zhou",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Hazel Sterling, a debt-bound temple scribe, keeps the ledgers of a guild that trades in impossible things. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 978
+  }
+}

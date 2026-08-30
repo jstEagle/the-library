@@ -1,0 +1,29 @@
+{
+  "title": "Echo and Orbit",
+  "slug": "science-fiction/echo-and-orbit",
+  "model": "stealth/ox-alpha",
+  "premise": "Xanthe Okonkwo, navigator aboard the salvage freighter Echo, has spent years quietly logging the decay of Meridian Colony, whose cryosleeping population was written off as dead. When a manifest audit reveals Xanthe's own name on the Echo—a ship that officially never flew—they realize the corporation that abandoned Meridian is coming back to erase both the colonists and anyone who knows they survived. The crew of misfits Xanthe calls family must choose between loyalty to each other and exposing the truth, and in the end Xanthe wakes half the colony and broadcasts the evidence, sacrificing their own anonymity and nearly their life to force humanity to reckon with its forgotten half.",
+  "about_author": "P. M. Fairweather is the pen name of a former maritime radio operator who spent a decade listening to ships that never answered back. They write science fiction about people who keep records no one asked for.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Manifest",
+      "summary": "Xanthe's POV. Aboard the Echo, Xanthe logs another silent year over Meridian Colony while hiding their illegal archive of the colonists' last transmissions. When an automated audit flags Xanthe's name on a ship with no flight history, dread sets in: someone knows. Emotional beat: the loneliness of witness turning into fear of exposure."
+    },
+    {
+      "n": 2,
+      "title": "Half a Family",
+      "summary": "Crew POV rotation through engineer Sefa, captain Idris, and medic Bo. Each privately confronts what the Echo means to them as the corporation's retrieval ship, Vantage, hails them with orders to surrender all data on Meridian. Idris proposes running; Sefa wants to fight; Bo quietly reveals she has family among the sleepers. Emotional beat: found family tested by diverging loyalties."
+    },
+    {
+      "n": 3,
+      "title": "Which Half Wakes",
+      "summary": "Xanthe's POV. Boarded by Vantage, Xanthe discovers the corporation plans to wake only colonists with corporate debt-value—half the hold—and vaporize the rest. Cornered in the navigation bay, Xanthe must choose between handing over the archive to save the crew or triggering the colony's emergency wake protocol, which will burn out the Echo's engines and strand them all. Emotional beat: loyalty versus truth at knife-point; climax."
+    },
+    {
+      "n": 4,
+      "title": "Signal, Answered",
+      "summary": "Multiple POVs converging. Xanthe triggers the wake protocol; the Echo goes dark as five hundred colonists open their eyes to a live broadcast of the corporation's orders, relayed by every relay Xanthe ever built. The crew survives in the crippled ship's shadow, and the first woken colonist to answer Xanthe's hail is Bo's sister. Emotional beat: grief transmuted into belonging—the invisible made undeniable."
+    }
+  ]
+}

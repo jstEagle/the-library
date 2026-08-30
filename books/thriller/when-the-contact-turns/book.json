@@ -1,0 +1,21 @@
+{
+  "id": "THR-08628",
+  "title": "When the Contact Turns",
+  "author": "Z. M. Blackwood",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Silas Kavanagh, an interpreter attached to a peace delegation destined to fail, has spent ten years following rules that keep getting rewritten. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8628
+  }
+}

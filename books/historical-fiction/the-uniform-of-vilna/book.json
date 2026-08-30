@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02837",
+  "title": "The Uniform of Vilna",
+  "author": "Theo Reyes",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Mirabel Whitlock, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2837
+  }
+}

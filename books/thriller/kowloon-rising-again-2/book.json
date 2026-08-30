@@ -1,0 +1,21 @@
+{
+  "id": "THR-09498",
+  "title": "Kowloon Rising Again",
+  "author": "Ada Montrose",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Juniper Nystrom, a burnt analyst bounced from three agencies, has spent three years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, she discovers that staying invisible was never really an option. To get through this, she must burn the network that did the training before the summit convenes.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9498
+  }
+}

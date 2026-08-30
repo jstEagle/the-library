@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05458",
+  "title": "Silas and the Parish",
+  "author": "Bram Vasquez",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Sable Vane, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5458
+  }
+}

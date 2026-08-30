@@ -1,0 +1,59 @@
+{
+  "title": "The Ghost of the Free Port",
+  "slug": "thriller/the-ghost-of-the-free-port",
+  "model": "stealth/ox-alpha",
+  "premise": "Coral Vasquez, a crash investigator whose family died in row twelve of an unexplained downing, is assigned a case where every digital and paper record of a passenger flight vanishes mid-flight—yet the aircraft still lands, carrying one extra person no manifest ever listed. Digging in, Coral uncovers a private network that trains 'ghost passengers' to move capital and people across borders invisibly, the same network responsible for the crash that killed their family. As the network's handlers close in and Coral's last ally is compromised by old loyalty, Coral must choose between exposing the truth through official channels that will bury it, or destroying the network's Frankfurt clearinghouse before markets open—knowing the blast will also erase the only surviving records of row twelve. Coral burns the network, learns their family's death was collateral in a test run, and walks away alive but unattributed, finally free of the file no one wanted to exist.",
+  "about_author": "M. M. Ishikawa is the pen name of a former aviation-adjacent analyst who spent years reading accident reports no one else would sign. They write thrillers about people erased from systems, and live somewhere between two time zones.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Coral's POV. Opening on the anniversary of the crash that killed Coral's family, Coral takes a routine assignment: a flight whose records are deleting themselves while still airborne. The emotional beat is grief worn as professionalism—Coral treats the case like any other, but the vanishing manifest feels like the past reaching forward."
+    },
+    {
+      "n": 2,
+      "title": "The Extra Passenger",
+      "summary": "Coral's POV. The plane lands with one person more than any manifest ever listed, and the airline has no memory of the flight number. Coral interviews a shaken flight attendant who remembers serving a seat that doesn't exist. The beat is creeping dread: the system isn't failing—it's protecting something."
+    },
+    {
+      "n": 3,
+      "title": "Attribution Denied",
+      "summary": "Alternating POV with network handler 'Alder.' Coral's supervisor quietly reassigns the case; Coral copies the files first. Alder is ordered to handle the investigator without violence. The beat is the first collision of two invisible professions—Coral's and the network's."
+    },
+    {
+      "n": 4,
+      "title": "Ghost Training",
+      "summary": "Coral's POV, aided by archivist friend Tomas. They trace the phantom passenger to a defunct aviation academy and find a curriculum for erasure: forged biometrics, market-timed crossings. Tomas hesitates—he trained there decades ago. The beat is loyalty cracking under evidence."
+    },
+    {
+      "n": 5,
+      "title": "What the Black Box Kept",
+      "summary": "Coral's POV. Coral recovers an analog backup from the old crash—row twelve's true flight data—showing the network's first live test. The family died so the method could be proven. The beat is rage transmuted into purpose; Coral stops investigating and starts hunting."
+    },
+    {
+      "n": 6,
+      "title": "The Handler's Hand",
+      "summary": "Alder's POV. Alder, ordered to erase Coral, instead warns them—revealing Alder trained the crew of row twelve's flight and has carried the guilt silently. The beat is an enemy becoming the story's most reluctant ally, love and duty pulling opposite directions."
+    },
+    {
+      "n": 7,
+      "title": "Frankfurt Before Open",
+      "summary": "Coral and Alder's alternating POV. They learn the network's clearinghouse—physical servers under a Frankfurt trading floor—purges and reconstitutes itself at market open. Tomas, pressured by his old handlers, betrays their location. The beat is the trap closing: thirty hours until open."
+    },
+    {
+      "n": 8,
+      "title": "The Price of Records",
+      "summary": "Coral's POV. Cornered in Hamburg, Coral realizes destroying the servers destroys row twelve's only surviving evidence—the truth their family deserves. Alder offers an alternative that saves the records but dooms Alder. The beat is love against duty, stated plainly and refused."
+    },
+    {
+      "n": 9,
+      "title": "Market Open",
+      "summary": "Coral's POV, real-time. Coral infiltrates the clearinghouse during the pre-open window, uploads row twelve's data to a hundred dead-man's-switch inboxes, and burns the network's core as the Frankfurt bell rings. Alder holds the door and doesn't come out. The beat is catharsis at cost."
+    },
+    {
+      "n": 10,
+      "title": "Unattributed",
+      "summary": "Coral's POV, weeks later. The data goes public; investigations bloom; Coral's name appears in no filing. At the row twelve memorial, Coral finally reads the victims' names aloud without flinching. The beat is quiet resolution: the ghost of the free port is laid to rest, and Coral chooses to remain invisible—by choice, not erasure."
+    }
+  ]
+}

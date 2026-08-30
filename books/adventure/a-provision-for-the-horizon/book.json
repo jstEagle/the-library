@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00685",
+  "title": "A Provision for the Horizon",
+  "author": "Lena Brightwater",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Bram Vane, an archaeologist's estranged child and better digger, has spent five years measuring life in miles rather than years. Then the river gives up a chest stamped with a dead nation's seal — and he is pulled straight into the middle of it. To get through this, he must beat the salvage fleet to the wreck by six tides before the dry season ends.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 685
+  }
+}

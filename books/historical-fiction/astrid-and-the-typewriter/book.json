@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03038",
+  "title": "Astrid and the Typewriter",
+  "author": "Mirabel Eriksen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Brightwater, a mapmaker's apprentice finishing the atlas the master died for, measures the world in what can be carried when the orders come. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3038
+  }
+}

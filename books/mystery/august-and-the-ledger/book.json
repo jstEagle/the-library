@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05212",
+  "title": "August and the Ledger",
+  "author": "Silas Hartwell",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Ulyana Sandoval, a retired detective running a failing bookshop, thought they had seen every way a life can end. Then a body turns up dressed in clothes stolen from the witness's own closet — and he is pulled straight into the middle of it. To get through this, he must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5212
+  }
+}

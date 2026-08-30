@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06992",
+  "title": "Mara and the Orchard Anew",
+  "author": "Lior Okafor",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Mara Ishikawa, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "found family",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6992
+  }
+}

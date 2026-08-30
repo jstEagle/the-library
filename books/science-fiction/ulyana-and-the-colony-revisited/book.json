@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08078",
+  "title": "Ulyana and the Colony Revisited",
+  "author": "Oscar Vane",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Vesper Eriksen, a clone who inherited the original's murder case, has spent five years hauling cargo through contested orbits. Then an unfamiliar name shows up on the manifest of a ship that never flew — and they are pulled straight into the middle of it. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8078
+  }
+}

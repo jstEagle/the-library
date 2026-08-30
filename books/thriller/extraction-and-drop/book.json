@@ -1,0 +1,21 @@
+{
+  "id": "THR-08700",
+  "title": "Extraction and Drop",
+  "author": "Felix Villalobos",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Coral Oyelaran, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8700
+  }
+}

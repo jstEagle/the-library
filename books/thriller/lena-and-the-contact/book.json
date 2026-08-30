@@ -1,0 +1,21 @@
+{
+  "id": "THR-09476",
+  "title": "Lena and the Contact",
+  "author": "Hazel Almeida",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Kestrel Zhou, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. To get through this, she must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9476
+  }
+}

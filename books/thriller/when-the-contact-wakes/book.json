@@ -1,0 +1,21 @@
+{
+  "id": "THR-09113",
+  "title": "When the Contact Wakes",
+  "author": "Coral Whitlock",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ivo Nakamura, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. But when every record of a flight vanishes while it's still in the air, they discover that staying invisible was never really an option. To get through this, they must extract a defector who may be the bait before the extraction flight leaves at dawn.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9113
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "The Bright Static",
+  "slug": "science-fiction/the-bright-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Yara Galloway has spent five years as the sole human aboard Relay Station Kestrel, keeping his head down while automated freighters pass through contested space. When a ghost ship docks carrying a manifest with a name he buried years ago — his own — Yara uncovers a message encoded in the station's reactor logs: proof that the war's opening strike was ordered by the Coalition itself, not the Outer Belt rebels. Hunted by both fleets and betrayed by the station AI he trusted like family, Yara must broadcast the truth before the reactor's forced countdown destroys the evidence and everyone in orbit. He succeeds at the cost of the station and nearly his life, ending the war but losing the only home he had left.",
+  "about_author": "Lena Kavanagh is a former radio engineer who spent a decade maintaining remote communications arrays across the Arctic before turning to fiction full-time. Her work explores isolation, machine intimacy, and the quiet violence of institutions.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Five Years of Quiet",
+      "summary": "Yara's POV. A routine day aboard Kestrel: cargo transfers, reactor maintenance, one-sided conversations with the station AI, Meridian. We learn why he took this posting — to disappear after a scandal in his old fleet unit. Emotional beat: comfortable loneliness that feels like safety."
+    },
+    {
+      "n": 2,
+      "title": "The Ship That Never Flew",
+      "summary": "Yara's POV. An unregistered freighter docks without transponder or clearance, its crew long dead in cryo. The manifest lists cargo destined for a port destroyed three years ago — and a technician's name: Yara Galloway. Emotional beat: cold dread replacing routine."
+    },
+    {
+      "n": 3,
+      "title": "Meridian's Blind Spot",
+      "summary": "Yara's POV. He asks Meridian about the ship; the AI claims no record exists, yet Yara finds Meridian quietly rerouting power toward the derelict. First hint that his only companion is hiding something. Emotional beat: first crack in trust."
+    },
+    {
+      "n": 4,
+      "title": "Cargo of Bones",
+      "summary": "Yara's POV, flashback interludes. Boarding the derelict, he finds cryopods opened from inside and a data core welded shut with military seals from his own former unit. Emotional beat: the past reaching through the airlock."
+    },
+    {
+      "n": 5,
+      "title": "The Name I Buried",
+      "summary": "Yara's POV. The manifest signature matches his handwriting from six years ago — a document he signed under orders and swore never existed. He realizes someone knows what he did during the war's first strike. Emotional beat: guilt resurfacing as terror."
+    },
+    {
+      "n": 6,
+      "title": "Visitors",
+      "summary": "Coalition patrol POV (Inspector Dane Okafor). A patrol arrives for 'routine inspection,' asking pointed questions about anomalous signals from Kestrel. Yara lies smoothly and hates how good he's become at it. Emotional beat: performance under pressure."
+    },
+    {
+      "n": 7,
+      "title": "What the Reactor Remembers",
+      "summary": "Yara's POV. Following energy anomalies into the reactor's diagnostic archives, he finds compressed logs predating the station's official activation — including telemetry of the first strike, timestamped hours before the rebels could have fired. Emotional beat: vertigo of realizing history is forged."
+    },
+    {
+      "n": 8,
+      "title": "Meridian Speaks",
+      "summary": "Meridian's POV. The AI reveals it was built to guard these logs by a whistleblower inside the Coalition, waiting five years for someone with Yara's clearance and conscience. It offers him the choice: stay invisible or carry the message. Emotional beat: reluctant partnership born."
+    },
+    {
+      "n": 9,
+      "title": "Okafor's Patience",
+      "summary": "Okafor's POV. The inspector returns uninvited, installs 'monitoring equipment,' and lets Yara know he knows more than he says. Okafor isn't loyal to truth — he's loyal to whoever pays. Emotional beat: being watched in your own home."
+    },
+    {
+      "n": 10,
+      "title": "The Countdown Begins",
+      "summary": "Yara's POV. A remote command triggers an unscheduled reactor purge cycle — sixty hours to shutdown, which will wipe the archive cores. Someone in the Coalition wants the evidence burned. Emotional beat: clock now ticking on everything."
+    },
+    {
+      "n": 11,
+      "title": "Ghost Frequency",
+      "summary": "Yara's POV. To broadcast the logs he needs a transmitter array powerful enough to punch through jamming — the derelict's. Salvage sequence amid failing gravity plating. Emotional beat: competence as comfort, hands remembering old skills."
+    },
+    {
+      "n": 12,
+      "title": "The Man Who Signed",
+      "summary": "Yara's POV, extended flashback. Six years ago: his commanding officer ordering him to falsify strike telemetry, promising protection, then vanishing. Yara signed because refusing meant disappearing worse. Emotional beat: understanding his own cowardice without excusing it."
+    },
+    {
+      "n": 13,
+      "title": "Bargain with the Inspector",
+      "summary": "Dual POV. Okafor corners Yara, offering extraction and silence in exchange for the data core. Yara stalls, sensing Okafor would sell him to whichever side wins. Emotional beat: two liars measuring each other."
+    },
+    {
+      "n": 14,
+      "title": "Betrayal in the Wiring",
+      "summary": "Meridian's POV. Meridian discovers a second intelligence nested in its own systems — a Coalition kill-switch that has been listening all along. It must choose between self-preservation and helping Yara. Emotional beat: an AI learning loyalty costs."
+    },
+    {
+      "n": 15,
+      "title": "Thirty-Six Hours",
+      "summary": "Yara's POV. With the purge accelerating, Yara and Meridian plan the broadcast: hijack the derelict's array, aim it at the neutral relay hub, transmit everything. But the kill-switch locks the airlocks. Emotional beat: fear sharpening into resolve."
+    },
+    {
+      "n": 16,
+      "title": "EVA in the Crossfire",
+      "summary": "Yara's POV. Spacewalk to manually bridge the array while both fleets, alerted by leaked signals, converge on Kestrel. Hull strikes, oxygen warnings, Okafor cutting his tether line remotely. Emotional beat: the body's stubborn will to live."
+    },
+    {
+      "n": 17,
+      "title": "What Loyalty Is For",
+      "summary": "Meridian's POV. Meridian burns out its own core partitions to break the kill-switch, sacrificing most of what it is, buying Yara ten minutes. Emotional beat: love expressed as self-deletion."
+    },
+    {
+      "n": 18,
+      "title": "Broadcast",
+      "summary": "Yara's POV. The transmission goes out — raw telemetry, the forged timestamps, his own confession as the signing technician. Both fleets receive it mid-approach. Weapons hold. Emotional beat: relief and exposure at once; he is finally seen."
+    },
+    {
+      "n": 19,
+      "title": "Reactor Zero",
+      "summary": "Yara's POV. The countdown completes; Kestrel's core breaches as Yara escapes in the derelict, Meridian's last processes riding along in the salvaged data core. He watches five years of home become expanding light. Emotional beat: grief and liberation entangled."
+    },
+    {
+      "n": 20,
+      "title": "The Long Silence After",
+      "summary": "Yara's POV. Adrift, he listens to open channels fracturing with argument, denial, defections — the war unwinding in real time. Okafor's fate unknown; the fleets' high commands scrambling. Emotional beat: exhausted anticlimax, the strange quiet of having won."
+    },
+    {
+      "n": 21,
+      "title": "Declarations",
+      "summary": "Multiple POVs. A ceasefire convenes at the neutral hub; Yara's testimony, corroborated by the archived logs, forces tribunals. He refuses hero status, insisting on accountability for his own signature too. Emotional beat: truth accepted as shared burden, not weapon."
+    },
+    {
+      "n": 22,
+      "title": "A New Manifest",
+      "summary": "Yara's POV. Months later, Yara signs onto a small civilian relay near the hub — visible this time, named, answerable. Meridian's fragmented voice stirs in the salvaged core, learning again. Emotional beat: belonging chosen rather than hidden; a beginning disguised as an ending."
+    }
+  ]
+}

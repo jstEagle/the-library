@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00132",
+  "title": "When the Escarpment Burns",
+  "author": "Sable Reyes",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Silas Voss, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. Then the river gives up a chest stamped with a dead nation's seal — and they are pulled straight into the middle of it. To get through this, they must cross the range ahead of the snows before the dry season ends.",
+  "themes": [
+    "identity",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 132
+  }
+}

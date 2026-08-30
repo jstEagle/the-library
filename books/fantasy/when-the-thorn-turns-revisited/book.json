@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02239",
+  "title": "When the Thorn Turns Revisited",
+  "author": "Ansel Quintana",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Astrid Thornbury, a thief who steals memories, has spent twenty years selling small charms in a city that outlawed magic. Then the crown announces a hunt for anyone with the gift — and she is pulled straight into the middle of it. Now she must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2239
+  }
+}

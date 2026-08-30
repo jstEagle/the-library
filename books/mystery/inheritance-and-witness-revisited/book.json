@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05923",
+  "title": "Inheritance and Witness Revisited",
+  "author": "Hazel Hartwell",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Sable Whitlock, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5923
+  }
+}

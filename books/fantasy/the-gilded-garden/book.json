@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01379",
+  "title": "The Gilded Garden",
+  "author": "J. M. Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Felix Thornbury, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, she discovers that staying invisible was never really an option. To get through this, she must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1379
+  }
+}

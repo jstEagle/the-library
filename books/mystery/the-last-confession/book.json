@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04828",
+  "title": "The Last Confession",
+  "author": "Quentin Yarrow",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Jude Zhou, a hotel concierge who notices everything, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. To get through this, they must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4828
+  }
+}

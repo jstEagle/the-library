@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04024",
+  "title": "Silas and the Hymn",
+  "author": "Elodie Fairweather",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Marguerite Halloran, a twin who came home to bury the wrong sibling, documents everything, because documentation is a kind of prayer. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. To get through this, they must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4024
+  }
+}

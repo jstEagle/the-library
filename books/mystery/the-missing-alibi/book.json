@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05260",
+  "title": "The Missing Alibi",
+  "author": "Astrid Thornbury",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ivo Dravenmoor, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. Then a body turns up dressed in clothes stolen from the witness's own closet — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5260
+  }
+}

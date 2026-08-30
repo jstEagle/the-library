@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09561",
+  "title": "Tryouts and Recipe",
+  "author": "U. M. Thackeray",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Lior Kavanagh, a coder whose anonymous account knows too much, is fine. Everything is fine. Obviously.. Then a group chat starts predicting things that haven't happened yet — and she is pulled straight into the middle of it. Now she must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9561
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06099",
+  "title": "The Kitchen of Maple Hollow",
+  "author": "S. M. Amberdale",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Jonah Sandoval, a cellist recovering from one catastrophic final performance, has spent three years rebuilding a life measured in small safe steps. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6099
+  }
+}

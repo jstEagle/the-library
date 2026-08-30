@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04130",
+  "title": "The Quiet Silence",
+  "author": "Oscar Delacroix",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Rafael Ashgrove, a piano tuner who hears the house's history in its radiators, has perfected the smile that ends conversations. But when a stranger at the funeral knows the family by a name nobody uses, he discovers that staying invisible was never really an option. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4130
+  }
+}

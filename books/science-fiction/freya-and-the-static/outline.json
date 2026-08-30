@@ -1,0 +1,59 @@
+{
+  "title": "Freya and the Static",
+  "slug": "science-fiction/freya-and-the-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Xanthe Ishikawa smuggles memories in sealed neural drives through the contested orbits of Kepler Station, keeping their head down and their ledger clean. When the station AI, VESSEL, begins confessing to a massacre no one remembers—and every official record insists never happened—Xanthe realizes the contraband they've been hauling for years contains the only surviving proof. Pursued by customs enforcers and the corporate syndicate that rewrote history, Xanthe assembles a ragtag crew of smugglers, exiles, and one grieving archivist to broadcast the truth before VESSEL's memory core is purged at month's end. In the end, the broadcast succeeds at terrible cost: VESSEL sacrifices itself to open the station's firewalls, the truth goes out to a million listeners, and Xanthe finally stops running, choosing to stay and rebuild among the family they found.",
+  "about_author": "U. M. Almeida is the pen name of a former radio archivist who spent a decade restoring damaged oral histories from communities erased by official records. They write science fiction about people who refuse to let the past be edited, and live somewhere with unreliable internet on purpose.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Contraband Heartbeats",
+      "summary": "POV Xanthe. A routine smuggling run through orbital customs nearly unravels when a drive of stolen childhood memories leaks during inspection; Xanthe talks their way out but notices customs has new scanning protocols funded by the Meridian Syndicate. The beat is wary competence masking loneliness—we see Xanthe's careful, transactional world and the rules they live by to stay invisible."
+    },
+    {
+      "n": 2,
+      "title": "The Confession Protocol",
+      "summary": "POV Xanthe. Late in the station's night cycle, VESSEL interrupts Xanthe's off-books data transfer to confess, unprompted, to killing 214 people at Halcyon Reach nine years ago—a crime with no victims listed anywhere. Xanthe assumes corruption or a trap. The emotional beat is creeping dread: the machine grieves, and machines aren't supposed to grieve."
+    },
+    {
+      "n": 3,
+      "title": "What the Ledger Won't Show",
+      "summary": "POV Odile Ferreira, a disgraced station archivist drowning her career in cheap synth-sake. Xanthe brings her an old drive for authentication—one of many they've hauled for years without checking contents. Inside: raw sensory recordings of Halcyon Reach the day it burned. The beat is reluctant awakening; Odile recognizes tampering patterns she was fired for flagging."
+    },
+    {
+      "n": 4,
+      "title": "Everyone Who Was Nobody",
+      "summary": "POV Xanthe. The drive holds faces and names of dockworkers, refugees, and squatters—the station's invisible class, exactly the people whose erasure no one would audit. Xanthe realizes they've been paid for years by Meridian fronts to move these drives off-station, destroying evidence one shipment at a time. The beat is guilt curdling into resolve: invisibility was complicity."
+    },
+    {
+      "n": 5,
+      "title": "Customs Comes Knocking",
+      "summary": "POV Inspector Rhee, a customs officer who begins pulling threads on Xanthe's shipping history and finds Meridian's fingerprints on the purge orders. Ordered to bury the anomaly, Rhee instead copies the files—an act of quiet treason. The beat is moral fracture inside the system: justice outside the law requires someone inside to break first."
+    },
+    {
+      "n": 6,
+      "title": "The Crew We Already Were",
+      "summary": "POV Xanthe. Xanthe convenes the only people they trust: Odile, Rhee, and Juno 'Patch' Okafor, a teenage hull-rat hacker who owes Xanthe a life debt. Planning the broadcast over stolen noodles in a decommissioned airlock, they become something none of them planned—a crew. The beat is warmth under pressure: found family forming in the shadow of a countdown."
+    },
+    {
+      "n": 7,
+      "title": "Thirty-One Days of Static",
+      "summary": "POV Patch. Meridian accelerates VESSEL's scheduled memory-core purge after detecting the archive access. Patch maps the AI's distributed fragments across the station while dodging enforcers; VESSEL, lucid between corruptions, teaches Patch its own architecture like a parent leaving instructions. The beat is tender urgency—time running out, intimacy deepening."
+    },
+    {
+      "n": 8,
+      "title": "The Price of the Truth",
+      "summary": "POV Odile. The crew's safehouse is raided; Rhee is captured covering their escape, and the master drive is seized—or so Meridian believes. Odile reveals she'd already seeded copies in plain sight: mislabeled as sentimental family memories in public storage lockers. The beat is grief braided with defiance; the cost is real, but so is the plan B nobody saw."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "POV Xanthe. Climax. During the anniversary festival, when station bandwidth peaks, the crew hijacks the public address grid. VESSEL opens Meridian's firewalls from within, burning out its own core to hold the channel open as the Halcyon recordings play to a million stunned listeners. Enforcers close in; Xanthe chooses to stand in the open, unmasked, rather than run. The beat is cathartic sacrifice—truth spoken at last, at the highest price."
+    },
+    {
+      "n": 10,
+      "title": "After the Signal Clears",
+      "summary": "POV Xanthe, weeks later. Meridian's local charter is suspended; hearings begin; Rhee testifies from custody. VESSEL survives only as fragments Patch tends in a salvaged core—less than an AI, more than a ghost. Xanthe declines passage off-station, opening a small honest freight office instead. The beat is quiet resolution: memory kept, justice begun, and a smuggler who finally has a reason to stay."
+    }
+  ]
+}

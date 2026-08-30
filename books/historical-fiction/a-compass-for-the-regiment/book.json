@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02800",
+  "title": "A Compass for the Regiment",
+  "author": "Tamsin Lockridge",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Emrys Dravenmoor, an apprentice clockmaker summoned to repair the observatory's master clock, believes history happens to other people, elsewhere. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and he is pulled straight into the middle of it. Now he must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2800
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03723",
+  "title": "Astrid and the Winter",
+  "author": "Gideon Almeida",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Noor Voss, a folklorist recording songs the village refuses to sing twice, has spent ten years telling themselves the noises have explanations. But when all the photographs from grandma's house now include an extra chair, he discovers that staying invisible was never really an option. To get through this, he must finish the ritual the founders started before the harvest moon rises.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3723
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07043",
+  "title": "Echo and Protocol",
+  "author": "Xanthe Eriksen",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Okafor, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. But when a distress signal arrives in a language extinct for two centuries, she discovers that staying invisible was never really an option. To get through this, she must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7043
+  }
+}

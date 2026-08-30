@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04841",
+  "title": "A Witness for the Letter",
+  "author": "Coral Quintana",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Marguerite Lockridge, the archivist of a cathedral with a locked crypt, has spent fifteen years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4841
+  }
+}

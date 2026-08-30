@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05773",
+  "title": "The Last Confession Revisited",
+  "author": "Kestrel Eastwick",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Casper Hartwell, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5773
+  }
+}

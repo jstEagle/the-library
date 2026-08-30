@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05527",
+  "title": "Will and Autopsy",
+  "author": "A. M. Pemberton",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Marguerite Pemberton, a small-town coroner who knows every grave by name, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5527
+  }
+}

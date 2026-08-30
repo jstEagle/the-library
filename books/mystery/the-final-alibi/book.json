@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05051",
+  "title": "The Final Alibi",
+  "author": "Gideon Ishikawa",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Gideon Ishikawa, a hotel concierge who notices everything, has spent ten years keeping the town's secrets filed and alphabetized. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5051
+  }
+}

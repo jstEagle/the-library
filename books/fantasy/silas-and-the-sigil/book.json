@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01798",
+  "title": "Silas and the Sigil",
+  "author": "Lena Blackwood",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.5,
+  "blurb": "Gideon Pemberton, a debt-bound temple scribe, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1798
+  }
+}

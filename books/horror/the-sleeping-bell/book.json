@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03481",
+  "title": "The Sleeping Bell",
+  "author": "Wendell Vane",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Paloma Dunmore, a hospice nurse who hears the dying count backwards, keeps the lights on and the doors counted. But when the village's church bell rings although the bell was melted down in 1911, she discovers that staying invisible was never really an option. Now she must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3481
+  }
+}

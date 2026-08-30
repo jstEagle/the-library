@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07489",
+  "title": "A Static for the Horizon",
+  "author": "Juniper Iversen",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Astrid Delacroix, a clone who inherited the original's murder case, maintains the beacon nobody remembers commissioning. Then an unfamiliar name shows up on the manifest of a ship that never flew — and she is pulled straight into the middle of it. To get through this, she must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7489
+  }
+}

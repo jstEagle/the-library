@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06117",
+  "title": "Zephyrine and the Vow",
+  "author": "Vesper Reyes",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Vesper Reyes, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6117
+  }
+}

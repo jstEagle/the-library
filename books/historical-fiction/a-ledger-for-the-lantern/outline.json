@@ -1,0 +1,59 @@
+{
+  "title": "A Ledger for the Lantern",
+  "slug": "historical-fiction/a-ledger-for-the-lantern",
+  "model": "stealth/ox-alpha",
+  "premise": "In 1913, in the mountain town of Vellbruck, Coral Ashgrove — an apprentice clockmaker raised by the observatory's aging horologist after being left at his door — is summoned to repair the master clock that keeps every train, tide table, and town ledger on time. When the army requisitions the town to stage a war-game mobilization, they seize the observatory's name-ledger, the record of every foundling, widow, and worker who ever belonged there, and Coral discovers their own origins are a page that has been cut out. As soldiers dismantle the workshop piece by piece and the requisition deadline looms, Coral races to finish the clock's repair while reconstructing their missing history from gears, letters, and the memories of the townspeople the ledger was meant to protect. In the end, Coral completes the clock, publicly reads the reconstructed names into it via a hidden chime mechanism so the army cannot erase them, and chooses to stay in Vellbruck not as an orphan or an apprentice but as the town's new keeper of both time and memory.",
+  "about_author": "Hazel Joubert is a former archivist who spent a decade cataloguing municipal records in small alpine towns before turning to fiction. She writes about the people history files under 'miscellaneous,' and about the objects that remember what paperwork forgets.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Small Hours",
+      "summary": "Coral's POV. Summoned before dawn to the observatory, Coral diagnoses the master clock's failing escapement while navigating the silences of Master Halloway, who grows evasive whenever the old name-ledger is mentioned. The chapter establishes Coral's craft, their habit of reading people like mechanisms, and the quiet dread that something in the tower's records concerns them personally."
+    },
+    {
+      "n": 2,
+      "title": "Requisition Papers",
+      "summary": "Coral's POV. Soldiers arrive with requisition orders: the town will host a full army mobilization, and all civic records — including the ledger — are seized for 'logistical audit.' Halloway argues and loses. Coral watches the ledger carried out and notices, with a lurch, that its binding has been repaired recently, by someone hiding a removal."
+    },
+    {
+      "n": 3,
+      "title": "What the Binding Remembers",
+      "summary": "Coral's POV. Examining the ledger's empty binding slot in Halloway's private papers, Coral finds glue residue and paper fibers matching pages from fifteen years ago. Confronted gently, Halloway admits he removed pages once — but claims he did it to protect someone, and refuses to say whom. The found-family bond strains under the first real lie between them."
+    },
+    {
+      "n": 4,
+      "title": "The Town That Keeps Time",
+      "summary": "Alternating POV with Marta, the observatory's cook and Coral's other anchor. Through Marta's rounds of the frightened town, we meet the people named in the ledger — widows, foundlings, retired workers — and learn how the document functioned as proof of belonging. The army begins fencing off districts, and neighbors start trading favors for information."
+    },
+    {
+      "n": 5,
+      "title": "Escapement",
+      "summary": "Coral's POV. Working under soldier supervision, Coral repairs the escapement while secretly designing a modification: a secondary chime train that can strike any sequence of names encoded as strikes. A young officer, Lieutenant Brenner, watches with unexpected interest and hints the army wants the clock running for reasons beyond punctuality."
+    },
+    {
+      "n": 6,
+      "title": "Pages in a Soldier's Pocket",
+      "summary": "Marta's POV. Marta discovers a requisition clerk selling loose ledger pages as scrap and buys back three — one bearing Coral's intake date, though the name field is blank. She brings them to Coral, who realizes Halloway didn't cut the pages out; the army did, years earlier, during a previous audit. The lie reframes everything."
+    },
+    {
+      "n": 7,
+      "title": "Halloway's Confession",
+      "summary": "Coral's POV. Halloway finally tells the truth: Coral arrived with a note naming parents lost in a factory collapse the town's owners buried; he hid the page from that earlier audit to keep Coral unclaimable and safe. His silence was protection, not betrayal. Reconciliation, and a plan: rebuild the missing names from witnesses before the army ships the archive out."
+    },
+    {
+      "n": 8,
+      "title": "Ninety-Nine Names",
+      "summary": "Ensemble POV, anchored by Coral. The town works through nights collecting testimony — signatures, birthmarks, remembered debts — while soldiers accelerate the dismantling of the workshop. Brenner catches them, and instead of reporting it, quietly hands Coral the final missing page he'd kept as leverage against his own superiors."
+    },
+    {
+      "n": 9,
+      "title": "The Strike",
+      "summary": "Climax. Coral's POV. On inspection day, with the workshop half-emptied, Coral finishes the modified clock. At noon, before the assembled officers, the master clock strikes not twelve but ninety-nine — each chime a name, ending with Coral's own read aloud by Halloway. The army cannot punish the whole town without proving the erasure true."
+    },
+    {
+      "n": 10,
+      "title": "A Ledger for the Lantern",
+      "summary": "Resolution. Coral's POV. The army withdraws, embarrassed; the archive is returned. Coral sews the recovered pages back into the binding, adds their own hand to the keeper's line, and lights the lantern Halloway once lit for every foundling arrival. The clock runs; the town endures; Coral stays, no longer waiting to be claimed."
+    }
+  ]
+}

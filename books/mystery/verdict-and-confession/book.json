@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04833",
+  "title": "Verdict and Confession",
+  "author": "Coral Joubert",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Isandro Kavanagh, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. To get through this, they must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4833
+  }
+}

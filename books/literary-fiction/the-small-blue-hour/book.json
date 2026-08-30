@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04292",
+  "title": "The Small Blue Hour",
+  "author": "Rafael Eastwick",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Lena Dunmore, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, she discovers that staying invisible was never really an option. Now she must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4292
+  }
+}

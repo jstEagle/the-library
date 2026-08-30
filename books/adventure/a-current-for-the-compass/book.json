@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00464",
+  "title": "A Current for the Compass",
+  "author": "P. M. Dravenmoor",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Oscar Lockridge, an archaeologist's estranged child and better digger, keeps moving because stopping costs more. Then the tide reveals a cave that legends charge admission to — and they are pulled straight into the middle of it. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 464
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09965",
+  "title": "The Sixteenth Prom",
+  "author": "Odile Ishikawa",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Ulyana Iversen, a baker's kid who bakes feelings into bread, stays under the radar: head down, grades up, locker shut. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. Now she must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9965
+  }
+}

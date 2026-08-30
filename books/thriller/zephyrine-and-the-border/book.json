@@ -1,0 +1,21 @@
+{
+  "id": "THR-08551",
+  "title": "Zephyrine and the Border",
+  "author": "Sebastian Almeida",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Vesper Coldharbour, a burnt analyst bounced from three agencies, works cases no one wants attributed. But when every record of a flight vanishes while it's still in the air, she discovers that staying invisible was never really an option. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8551
+  }
+}

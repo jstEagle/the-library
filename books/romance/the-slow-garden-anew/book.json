@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06800",
+  "title": "The Slow Garden Anew",
+  "author": "Theo Nystrom",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Isandro Fairweather, a vineyard owner who inherited debts instead of grapes, has spent ten years rebuilding a life measured in small safe steps. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6800
+  }
+}

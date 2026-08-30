@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06684",
+  "title": "The Songbook of Sandpiper Point",
+  "author": "Felix Winterbourne",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Quentin Voss, a pastry chef whose café is three missed payments from gone, keeps love in the past tense where it belongs. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6684
+  }
+}

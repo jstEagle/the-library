@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06491",
+  "title": "Harbor and Orchard",
+  "author": "Orsen Villalobos",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Astrid Ashgrove, a cellist recovering from one catastrophic final performance, has spent three years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6491
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01351",
+  "title": "A Thorn for the Ember",
+  "author": "Rosalind Underhill",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.8,
+  "blurb": "Lena Hartwell, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1351
+  }
+}

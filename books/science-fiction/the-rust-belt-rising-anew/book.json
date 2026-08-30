@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08308",
+  "title": "the Rust Belt Rising Anew",
+  "author": "Beatrix Sandoval",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Hazel Villalobos, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. To get through this, she must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8308
+  }
+}

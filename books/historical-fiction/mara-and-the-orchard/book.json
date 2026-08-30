@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03032",
+  "title": "Mara and the Orchard",
+  "author": "Sable Thackeray",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Isandro Nakamura, an apprentice clockmaker summoned to repair the observatory's master clock, believes history happens to other people, elsewhere. Then a child is left at the door with instructions to forget the face — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the ice breaks on the river.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3032
+  }
+}

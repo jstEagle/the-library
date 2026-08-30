@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05239",
+  "title": "When the Parish Wakes",
+  "author": "Gideon Eriksen",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Coral Yarrow, a night-shift dispatcher for a taxi company, has spent five years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5239
+  }
+}

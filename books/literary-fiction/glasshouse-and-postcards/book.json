@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04269",
+  "title": "Glasshouse and Postcards",
+  "author": "Silas Ishikawa",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Theo Okafor, a bridge inspector measuring the marriage in expansion joints, has spent twelve years practicing the art of almost saying it. Then a song on the radio is one that was written and never recorded — and she is pulled straight into the middle of it. To get through this, she must forgive the stranger in the old photographs before the demolition date arrives.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4269
+  }
+}

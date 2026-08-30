@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04634",
+  "title": "Jonah and the Postcards",
+  "author": "Wren Voss",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Emrys Sandoval, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must ask the question the whole family arranged itself around before the demolition date arrives.",
+  "themes": [
+    "found family",
+    "identity",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4634
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06670",
+  "title": "Mara and the Promise",
+  "author": "J. M. Amberdale",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Astrid Montrose, a lighthouse keeper's granddaughter and part-time novelist, has spent three years rebuilding a life measured in small safe steps. Then a snowstorm strands two rivals with the best mistake of their twenties — and he is pulled straight into the middle of it. To get through this, he must say the sentence that has been rehearsed for a decade before the festival ends.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6670
+  }
+}

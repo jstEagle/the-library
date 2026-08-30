@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00775",
+  "title": "Highmoor Rising",
+  "author": "Ines Coldharbour",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Petra Dunmore, a mercenary sworn to a god that went silent, keeps the ledgers of a guild that trades in impossible things. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 775
+  }
+}

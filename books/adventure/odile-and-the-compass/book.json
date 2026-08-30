@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00433",
+  "title": "Odile and the Compass",
+  "author": "Emrys Marchetti",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Petra Galloway, a railroad engineer with a map of closed lines, has spent fifteen years measuring life in miles rather than years. But when a government survey team vanishes, leaving gear and no tracks, he discovers that staying invisible was never really an option. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 433
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07201",
+  "title": "The Protocol of the Deep",
+  "author": "Rafael Ravensworth",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Jonah Winterbourne, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must deliver a message that will end the war — or start it before the jump window closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7201
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06359",
+  "title": "A Songbook for the Tide",
+  "author": "Jude Reyes",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Edmund Iversen, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. Then two estranged names appear on the same impossibly stubborn orchard deed — and they are pulled straight into the middle of it. To get through this, they must forgive the person in the mirror first before the last ferry of the season departs.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6359
+  }
+}

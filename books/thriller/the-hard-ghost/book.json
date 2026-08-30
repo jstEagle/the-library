@@ -1,0 +1,21 @@
+{
+  "id": "THR-08468",
+  "title": "The Hard Ghost",
+  "author": "Cyrus Nystrom",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Dominic Marchetti, a fixer for an embassy that doesn't officially exist, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8468
+  }
+}

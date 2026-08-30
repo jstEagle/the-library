@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09831",
+  "title": "The Best Yearbook",
+  "author": "Ada Pemberton",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Xanthe Vasquez, the new kid at a school built over something old, is fine. Everything is fine. Obviously.. But when a group chat starts predicting things that haven't happened yet, they discover that staying invisible was never really an option. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9831
+  }
+}

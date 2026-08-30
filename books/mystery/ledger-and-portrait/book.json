@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05566",
+  "title": "Ledger and Portrait",
+  "author": "Theo Ravensworth",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Silas Dravenmoor, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. Then twin letters arrive: one confessing, one promising more — and she is pulled straight into the middle of it. Now she must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5566
+  }
+}

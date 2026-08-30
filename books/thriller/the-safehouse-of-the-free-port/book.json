@@ -1,0 +1,21 @@
+{
+  "id": "THR-08570",
+  "title": "The Safehouse of the Free Port",
+  "author": "Yara Sterling",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Wren Blackwood, a burnt analyst bounced from three agencies, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. To get through this, he must trade the one secret worth killing for before the markets open in Frankfurt.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8570
+  }
+}

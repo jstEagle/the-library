@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07471",
+  "title": "Zephyrine and the Gravity",
+  "author": "Casper Reyes",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Ulyana Ravensworth, a pilot bonded to an AI that lies, records the slow death of a colony everyone else forgot. But when a ship returns from deep space with everyone aboard aged backward, she discovers that staying invisible was never really an option. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7471
+  }
+}

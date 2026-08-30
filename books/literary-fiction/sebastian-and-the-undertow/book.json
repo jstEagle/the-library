@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04281",
+  "title": "Sebastian and the Undertow",
+  "author": "Ines Crane",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Wren Whitlock, an heir cataloging a parent's silence after the funeral, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, she discovers that staying invisible was never really an option. To get through this, she must return to the place where the story went wrong before the house sale closes.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4281
+  }
+}

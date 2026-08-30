@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04961",
+  "title": "Bellwether Lane Rising",
+  "author": "Freya Dunmore",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Sebastian Crane, the archivist of a cathedral with a locked crypt, has spent seven years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4961
+  }
+}

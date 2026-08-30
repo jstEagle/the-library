@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09700",
+  "title": "The Fake Yearbook",
+  "author": "D. M. Zhou",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Silas Fairweather, a coder whose anonymous account knows too much, has spent five years being so careful it hurts. But when a group chat starts predicting things that haven't happened yet, she discovers that staying invisible was never really an option. Now she must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9700
+  }
+}

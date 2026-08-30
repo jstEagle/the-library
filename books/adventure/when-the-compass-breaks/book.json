@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00345",
+  "title": "When the Compass Breaks",
+  "author": "Paloma Ravensworth",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Felix Eriksen, a storm chaser who owes money to dangerous optimists, carries a compass, a debt, and very little else. Then an old rival hires the crew for the one job that was sworn off long ago — and they are pulled straight into the middle of it. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 345
+  }
+}

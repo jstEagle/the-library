@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07668",
+  "title": "The Pale Archive",
+  "author": "Kestrel Nystrom",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Lena Ashgrove, a terraformer tending a garden meant for people not yet born, has spent seven years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7668
+  }
+}

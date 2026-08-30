@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09983",
+  "title": "The Unexpected Semester",
+  "author": "Gideon Delacroix",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Coral Villalobos, the only out kid in a town of nine hundred, counts days until graduation like a sentence being served. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. Now she must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9983
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03984",
+  "title": "Hazel and the House",
+  "author": "Elodie Eriksen",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Wren Yarrow, a property surveyor appraising a house that appraises back, has spent twelve years telling themselves the noises have explanations. But when all the photographs from grandma's house now include an extra chair, she discovers that staying invisible was never really an option. Now she must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3984
+  }
+}

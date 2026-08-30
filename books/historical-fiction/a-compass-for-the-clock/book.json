@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03052",
+  "title": "A Compass for the Clock",
+  "author": "Lior Oyelaran",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Quentin Kavanagh, a code-carrying courier on the last diplomatic mission of a doomed republic, measures the world in what can be carried when the orders come. But when the census taker asks one question too many, they discover that staying invisible was never really an option. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3052
+  }
+}

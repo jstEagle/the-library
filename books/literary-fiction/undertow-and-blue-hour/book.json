@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04275",
+  "title": "Undertow and Blue Hour",
+  "author": "Elodie Almeida",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Beatrix Vasquez, a translator losing a childhood language one borrowed word at a time, has spent three years practicing the art of almost saying it. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. To get through this, she must translate the untranslatable sentence and live with it before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4275
+  }
+}

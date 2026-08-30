@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04311",
+  "title": "Glasshouse and Inventory",
+  "author": "E. M. Vasquez",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Wren Vane, a restaurant critic who has forgotten how food tastes, has spent twelve years practicing the art of almost saying it. Then a childhood home goes up for auction — and he is pulled straight into the middle of it. To get through this, he must return to the place where the story went wrong before the house sale closes.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4311
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02845",
+  "title": "Quentin and the Letter",
+  "author": "Jonah Eriksen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Orsen Fairweather, a typeface cutter's daughter in a print shop on the eve of a revolution, has spent five years learning which silences keep people safe. But when a child is left at the door with instructions to forget the face, he discovers that staying invisible was never really an option. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2845
+  }
+}

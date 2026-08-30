@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01542",
+  "title": "Yara and the Choir",
+  "author": "Gideon Pemberton",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Marguerite Okonkwo, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, she discovers that staying invisible was never really an option. To get through this, she must reforge a broken covenant between realms before the moon completes its thirteenth turn.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1542
+  }
+}

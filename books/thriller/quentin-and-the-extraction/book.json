@@ -1,0 +1,21 @@
+{
+  "id": "THR-09369",
+  "title": "Quentin and the Extraction",
+  "author": "Xanthe Vasquez",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Odile Crane, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9369
+  }
+}

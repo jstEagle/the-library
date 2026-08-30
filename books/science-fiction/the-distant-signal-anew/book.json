@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08244",
+  "title": "The Distant Signal Anew",
+  "author": "B. M. Joubert",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Zephyrine Almeida, the last human technician on an automated relay station, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8244
+  }
+}

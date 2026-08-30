@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02635",
+  "title": "Clock and Bridge",
+  "author": "Ada Brightwater",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Wendell Almeida, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. To get through this, she must get the truth on the record ahead of the victors' historians before the ship sails on the morning tide.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2635
+  }
+}

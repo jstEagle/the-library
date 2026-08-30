@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06688",
+  "title": "Juniper and the Vow",
+  "author": "S. M. Reyes",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Freya Ishikawa, a single parent running the town's only bookshop, believes second chances are for people with better timing. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. To get through this, they must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6688
+  }
+}

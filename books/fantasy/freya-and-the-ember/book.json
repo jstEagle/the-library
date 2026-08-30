@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00981",
+  "title": "Freya and the Ember",
+  "author": "Paloma Amberdale",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Juniper Lockridge, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. To get through this, they must find the door out of a country that no longer exists before the usurper's armies reach the free cities.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 981
+  }
+}

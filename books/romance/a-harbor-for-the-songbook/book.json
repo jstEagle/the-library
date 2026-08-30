@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06204",
+  "title": "A Harbor for the Songbook",
+  "author": "Isandro Galloway",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ada Kavanagh, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. Then the person behind a decade of letters moves in next door — and she is pulled straight into the middle of it. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6204
+  }
+}

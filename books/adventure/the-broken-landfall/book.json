@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00178",
+  "title": "The Broken Landfall",
+  "author": "E. M. Vane",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Paloma Oyelaran, a salvage diver working a wreck the navy won't discuss, knows the wilderness forgives nothing and forgets less. Then the river gives up a chest stamped with a dead nation's seal — and they are pulled straight into the middle of it. Now they must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 178
+  }
+}

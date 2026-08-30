@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08062",
+  "title": "Kestrel and the Archive",
+  "author": "Rosalind Dravenmoor",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Juniper Marchetti, the caretaker of Earth's abandoned seed vault, runs the long route between worlds that no longer speak. But when the station AI begins confessing to crimes nobody reported, she discovers that staying invisible was never really an option. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8062
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01194",
+  "title": "Thorn and Ember",
+  "author": "P. M. Iversen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Freya Almeida, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. To get through this, they must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1194
+  }
+}

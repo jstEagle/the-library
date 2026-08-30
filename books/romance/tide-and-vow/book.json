@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06364",
+  "title": "Tide and Vow",
+  "author": "Noor Eriksen",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Rafael Whitlock, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. Then a snowstorm strands two rivals with the best mistake of their twenties — and they are pulled straight into the middle of it. To get through this, they must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "belonging",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6364
+  }
+}

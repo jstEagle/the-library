@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02582",
+  "title": "The Unwritten Bridge",
+  "author": "A. M. Dunmore",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Hazel Yarrow, a typeface cutter's daughter in a print shop on the eve of a revolution, measures the world in what can be carried when the orders come. Then the census taker asks one question too many — and they are pulled straight into the middle of it. To get through this, they must finish the work while the workshop still stands before the ice breaks on the river.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2582
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02170",
+  "title": "the Weeping Wood Rising Anew",
+  "author": "I. M. Galloway",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "August Brightwater, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2170
+  }
+}

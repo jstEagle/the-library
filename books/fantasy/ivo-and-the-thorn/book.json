@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01342",
+  "title": "Ivo and the Thorn",
+  "author": "F. M. Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Beatrix Brightwater, a cartographer of unmapped realms, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. Now he must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1342
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03855",
+  "title": "Dominic and the Smile",
+  "author": "Coral Underhill",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Rafael Marchetti, a property surveyor appraising a house that appraises back, has spent ten years telling themselves the noises have explanations. Then the excavation crew unearths a door, sealed from the inside — and he is pulled straight into the middle of it. Now he must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3855
+  }
+}

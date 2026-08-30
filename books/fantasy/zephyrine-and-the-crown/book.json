@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00780",
+  "title": "Zephyrine and the Crown",
+  "author": "Paloma Whitlock",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Lena Lockridge, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 780
+  }
+}

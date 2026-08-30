@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04595",
+  "title": "Oscar and the Postcards",
+  "author": "Silas Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Hazel Lockridge, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. Then a box of undelivered letters surfaces behind a wardrobe — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4595
+  }
+}

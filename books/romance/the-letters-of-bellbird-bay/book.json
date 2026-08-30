@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06324",
+  "title": "The Letters of Bellbird Bay",
+  "author": "Cyrus Nystrom",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Juniper Nystrom, a single parent running the town's only bookshop, keeps love in the past tense where it belongs. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. To get through this, they must forgive the person in the mirror first before the festival ends.",
+  "themes": [
+    "identity",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6324
+  }
+}

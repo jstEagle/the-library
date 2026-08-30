@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05079",
+  "title": "Portrait and Autopsy",
+  "author": "Mirabel Almeida",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Dominic Blackwood, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. But when twin letters arrive: one confessing, one promising more, she discovers that staying invisible was never really an option. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5079
+  }
+}

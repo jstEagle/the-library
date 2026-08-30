@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05309",
+  "title": "Beatrix and the Verdict",
+  "author": "V. M. Sandoval",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "August Voss, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5309
+  }
+}

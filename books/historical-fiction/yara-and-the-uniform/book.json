@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03045",
+  "title": "Yara and the Uniform",
+  "author": "Sable Amberdale",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Yara Crane, a typeface cutter's daughter in a print shop on the eve of a revolution, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. Now they must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3045
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09683",
+  "title": "The Semester of Route 9",
+  "author": "Marguerite Blackwood",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Edmund Voss, the only out kid in a town of nine hundred, has spent twelve years being so careful it hurts. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and they are pulled straight into the middle of it. Now they must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9683
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01614",
+  "title": "Lior and the Sigil",
+  "author": "S. M. Okonkwo",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Oscar Kavanagh, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1614
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04255",
+  "title": "Interior and Weather",
+  "author": "Noor Dunmore",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Kestrel Dunmore, an heir cataloging a parent's silence after the funeral, has spent five years practicing the art of almost saying it. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4255
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06627",
+  "title": "The Whole Vow",
+  "author": "Marguerite Pemberton",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Noor Ishikawa, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must say the sentence that has been rehearsed for a decade before the festival ends.",
+  "themes": [
+    "love against duty",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6627
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09618",
+  "title": "Mixtape and Locker",
+  "author": "Ansel Marchetti",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Quentin Nystrom, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. Now she must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9618
+  }
+}

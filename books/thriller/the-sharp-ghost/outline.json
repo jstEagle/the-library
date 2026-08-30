@@ -1,0 +1,59 @@
+{
+  "title": "The Sharp Ghost",
+  "slug": "thriller/the-sharp-ghost",
+  "model": "stealth/ox-alpha",
+  "premise": "Casper Marchetti, a financial-crimes investigator who has spent three years untangling laundered money for a compliance firm, notices that Flight 447's passenger manifest and transaction trail have been erased mid-flight — a digital vanishing act only someone with institutional access could perform. Following the money instead of the plane, he discovers a shell network funding an 'accident' timed to the Geneva financial summit, and realizes the erasure was meant to hide not the flight but its one surviving witness: a teenage stowaway named Wren. Hunted by the very regulators who trained him, Casper assembles a fragile found family of a disgraced air-traffic controller and a whistleblower accountant to expose the plot, culminating in his choice to burn his own clean reputation to stop the attack — survival, he learns, is something you pay for with the self you were.",
+  "about_author": "Hazel Thornbury is a former forensic accountant who traded spreadsheets for suspense after a decade tracing money through three continents. She writes thrillers about ordinary people trapped inside systems designed to forget them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Clean Money",
+      "summary": "Casper's POV. A routine audit of a logistics firm reveals laundering so polished it feels sanctioned; his boss tells him to close the file. The emotional beat is quiet disillusionment — Casper is good at a job that punishes him for being good at it, and the reader feels the rules tightening around him before the story truly begins."
+    },
+    {
+      "n": 2,
+      "title": "Flight 447",
+      "summary": "Casper's POV. Mid-shift, every record of Flight 447 — manifests, payments, even radar logs he can subpoena — evaporates while the aircraft is still airborne. His escalation calls are stonewalled by people who should be alarmed. The beat is vertigo: the first crack in the world he trusted, and the realization that someone above him wanted this hole."
+    },
+    {
+      "n": 3,
+      "title": "The Stowaway",
+      "summary": "Alternating POV begins: Wren, sixteen, hid in the cargo hold to reach her estranged aunt in Geneva and is now officially nonexistent. Casper finds her through a prepaid card she used once. The beat is reluctant connection — two people erased by the same machine, each deciding whether the other is a threat or the only ally left."
+    },
+    {
+      "n": 4,
+      "title": "Rewritten Rules",
+      "summary": "Casper's POV. His firm suspends him for 'unauthorized access' to records that no longer exist; his mentor, Ilsa Brandt, warns him off with genuine fear in her eyes. He reconstructs the flight's funding from memory and paper backups. The beat is betrayal — the institutions that taught him rigor now use it as a weapon against him."
+    },
+    {
+      "n": 5,
+      "title": "The Controller",
+      "summary": "Dov Halabi's POV. A disgraced air-traffic controller fired after 447's 'incident,' Dov has kept a personal log the erasure missed. Casper and Wren recruit him; his guilt over signing off the flight plan drives him. The beat is found family taking shape — broken professionals choosing each other over the systems that discarded them."
+    },
+    {
+      "n": 6,
+      "title": "Shell Game",
+      "summary": "Casper's POV. The trio traces the money through nested shells to Meridian Concord, a summit sponsor whose 'security exercise' is scheduled forty minutes before heads of state land. Wren recognizes a Meridian handler from the airport. The beat is dread sharpening into purpose — the accident has a date, and the countdown starts here."
+    },
+    {
+      "n": 7,
+      "title": "What Survival Costs",
+      "summary": "Wren's POV. Cornered at a safehouse, Wren trades her testimony to a journalist to force protection, forcing Casper to go public before he's ready. Ilsa resurfaces, offering Casper reinstatement if he walks away. The beat is temptation and loyalty — the price of survival is named aloud, and Casper refuses to pay it in other people."
+    },
+    {
+      "n": 8,
+      "title": "The Erasure Protocol",
+      "summary": "Casper's POV. Infiltrating Meridian's data center during a pre-summit gala, they find the tool that deleted 447 — built on regulatory templates Casper himself helped draft. Ilsa appears; she didn't warn him off to save him but to save what's left of her. The beat is devastating recognition: the system's sharpest ghost was made from his own work."
+    },
+    {
+      "n": 9,
+      "title": "Forty Minutes",
+      "summary": "Multiple POVs converge. The attack — a spoofed transponder cascade meant to stage a midair collision over the summit — begins its final approach. Casper broadcasts the evidence while Dov talks the affected flights down manually and Wren trips the physical failsafe. The beat is white-knuckle climax: competence, trust, and sacrifice against a clock measured in minutes."
+    },
+    {
+      "n": 10,
+      "title": "The Sharp Ghost",
+      "summary": "Casper's POV, weeks later. The attack is public record; Casper is professionally dead but legally alive, testifying under immunity while Wren settles with her aunt and Dov returns to a control tower. Casper keeps a single burner file — proof the protocol had co-authors still unnamed. The beat is bittersweet resolution: survival paid in full, and a new hunt quietly begun."
+    }
+  ]
+}

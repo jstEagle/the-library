@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09555",
+  "title": "The Fake Prom",
+  "author": "Mara Vane",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "August Reyes, the eldest sibling raising the younger ones while mom works nights, is fine. Everything is fine. Obviously.. But when grandma's recipe box contains directions that aren't for food, she discovers that staying invisible was never really an option. To get through this, she must expose what the school board buried before prom.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9555
+  }
+}

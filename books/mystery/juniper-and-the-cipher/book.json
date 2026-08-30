@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05291",
+  "title": "Juniper and the Cipher",
+  "author": "Mara Vane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Xanthe Vane, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5291
+  }
+}

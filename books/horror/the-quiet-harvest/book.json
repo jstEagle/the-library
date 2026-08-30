@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03473",
+  "title": "The Quiet Harvest",
+  "author": "Ada Ravensworth",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Tamsin Ravensworth, a pest controller called to something with fingerprints, has spent twelve years telling themselves the noises have explanations. But when every mirror in the house starts reflecting the room one second late, he discovers that staying invisible was never really an option. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3473
+  }
+}

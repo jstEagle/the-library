@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00460",
+  "title": "Landfall and Escarpment",
+  "author": "Felix Almeida",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Felix Whitlock, a riverboat captain who knows every sandbar's mood, has spent five years measuring life in miles rather than years. Then an expedition upriver stops answering the radio — and he is pulled straight into the middle of it. Now he must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 460
+  }
+}

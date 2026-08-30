@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05457",
+  "title": "The Unquiet Inheritance",
+  "author": "Theo Blackwood",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Beatrix Dunmore, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5457
+  }
+}

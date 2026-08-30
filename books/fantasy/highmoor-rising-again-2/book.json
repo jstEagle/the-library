@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02072",
+  "title": "Highmoor Rising Again",
+  "author": "Felix Dravenmoor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ivo Brightwater, a beast-speaker hiding a forbidden gift, has spent twelve years selling small charms in a city that outlawed magic. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. To get through this, she must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "belonging",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2072
+  }
+}

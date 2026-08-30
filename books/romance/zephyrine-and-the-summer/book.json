@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06583",
+  "title": "Zephyrine and the Summer",
+  "author": "Zephyrine Brightwater",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Silas Fairweather, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. But when the person behind a decade of letters moves in next door, they discover that staying invisible was never really an option. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6583
+  }
+}

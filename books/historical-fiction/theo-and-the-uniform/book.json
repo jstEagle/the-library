@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02849",
+  "title": "Theo and the Uniform",
+  "author": "Paloma Coldharbour",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Mara Sterling, a suffragist's driver who reads every letter before delivering it, keeps a low profile and busy hands. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. Now they must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2849
+  }
+}

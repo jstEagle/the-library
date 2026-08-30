@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02209",
+  "title": "Sigil and Wolf Anew",
+  "author": "J. M. Pemberton",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Isandro Okonkwo, a royal food-taster building immunity one dish at a time, knows every smuggler's road through the Thornfell mountains. Then the crown announces a hunt for anyone with the gift — and they are pulled straight into the middle of it. To get through this, they must steal back a soul sold to the court beneath the mountain before the long winter finishes falling.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2209
+  }
+}

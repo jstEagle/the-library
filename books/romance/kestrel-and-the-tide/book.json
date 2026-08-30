@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06975",
+  "title": "Kestrel and the Tide",
+  "author": "A. M. Nakamura",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Bram Oyelaran, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6975
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08526",
+  "title": "Drop and Contact",
+  "author": "Wendell Oyelaran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Orsen Galloway, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8526
+  }
+}

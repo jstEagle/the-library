@@ -1,0 +1,21 @@
+{
+  "id": "THR-09330",
+  "title": "Casper and the Drop",
+  "author": "Mara Okafor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Quentin Nystrom, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9330
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09687",
+  "title": "A Locker for the Prom",
+  "author": "Jude Halloran",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Jude Villalobos, a coder whose anonymous account knows too much, counts days until graduation like a sentence being served. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and she is pulled straight into the middle of it. To get through this, she must expose what the school board buried before the last game of the season.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9687
+  }
+}

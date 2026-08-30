@@ -1,0 +1,21 @@
+{
+  "id": "THR-09046",
+  "title": "The Safehouse of Kowloon",
+  "author": "Isandro Ashgrove",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ada Villalobos, a crash investigator whose family died in row twelve, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. Now they must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9046
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02930",
+  "title": "Ledger and Letter",
+  "author": "N. M. Voss",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Ansel Pemberton, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. But when a child is left at the door with instructions to forget the face, they discover that staying invisible was never really an option. Now they must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2930
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "A Vector for the Terminal",
+  "slug": "science-fiction/a-vector-for-the-terminal",
+  "model": "stealth/ox-alpha",
+  "premise": "Rosalind Coldharbour investigates impossible insurance claims on Terminal, a decommissioned colony Earth quietly wrote off decades ago. When a ship that never flew appears on the docks carrying one passenger whose name predates the colony's founding, Rosalind discovers the manifest is a memory loop — her dead mother's final transmission, encoded as a passenger list. Delivering it means proving Earth abandoned Terminal deliberately to trigger a war that would void every claim, including her own family's. Rosalind broadcasts the loop at the moment the last transmission window closes, ending the war by making the lie public — and inheriting, at last, a truth instead of a debt.",
+  "about_author": "A. M. Galloway spent eleven years as a marine salvage clerk before turning to fiction, a job that taught her how paperwork remembers what people prefer to forget. She writes from a converted lighthouse keeper's cottage on the Atlantic coast, where she collects defunct shipping manifests.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Manifest of a Ship That Never Flew",
+      "summary": "Rosalind's POV. Investigating a dockside fire that destroyed nothing, Rosalind finds the Halcyon Vane's manifest listing a passenger, E. Coldharbour, born before the colony existed. The emotional beat is quiet dread — the professional thrill of an impossible claim curdling into personal recognition as she realizes the name is her mother's, misspelled the way only Rosalind herself spells it."
+    },
+    {
+      "n": 2,
+      "title": "What the Colony Was For",
+      "summary": "Alternating Rosalind's POV with fragments of the memory loop itself. Following the manifest's coordinates into Terminal's sealed archives, she learns the colony was an insurance experiment: a population whose deaths were pre-priced. The loop shows her mother refusing to sign the final waiver. Emotional beat: grief transmuting into fury as love and inheritance become the same document."
+    },
+    {
+      "n": 3,
+      "title": "Earth's Last Transmission Loop",
+      "summary": "Rosalind's POV, racing the countdown. Earth's liaison arrives to reclaim the loop before the final transmission window, offering Rosalind her family's claims settled in exchange for silence — and revealing the war fleet is already inbound, needing only the pretext of Terminal's 'unauthorized broadcast.' The beat is the cruelest choice: duty as temptation, dressed as mercy."
+    },
+    {
+      "n": 4,
+      "title": "Delivered",
+      "summary": "Rosalind's POV, with the loop's voice joining hers. In the transmission tower, she splices her mother's message into Earth's own closing signal, forcing the fleet to receive the truth on an official channel. The war dissolves into tribunals; the colony's dead are reclassified as people, not liabilities. Final beat: Rosalind files one last claim — for herself — and lets it be denied, because some inheritances aren't payable."
+    }
+  ]
+}

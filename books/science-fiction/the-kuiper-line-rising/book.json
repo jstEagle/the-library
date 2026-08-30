@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07062",
+  "title": "the Kuiper Line Rising",
+  "author": "Odile Villalobos",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Cyrus Dravenmoor, the last human technician on an automated relay station, records the slow death of a colony everyone else forgot. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. Now they must keep a lie alive that holds two fleets apart, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7062
+  }
+}

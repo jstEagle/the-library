@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05830",
+  "title": "Emrys and the Cipher",
+  "author": "M. M. Thackeray",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sebastian Ravensworth, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5830
+  }
+}

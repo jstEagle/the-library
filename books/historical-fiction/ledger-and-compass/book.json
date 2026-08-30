@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02471",
+  "title": "Ledger and Compass",
+  "author": "Marguerite Galloway",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Elodie Sandoval, a code-carrying courier on the last diplomatic mission of a doomed republic, keeps a low profile and busy hands. Then the bridge — the only road out — closes for the season — and she is pulled straight into the middle of it. To get through this, she must get the truth on the record ahead of the victors' historians before the century turns.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2471
+  }
+}

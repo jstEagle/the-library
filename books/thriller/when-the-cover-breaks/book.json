@@ -1,0 +1,21 @@
+{
+  "id": "THR-08850",
+  "title": "When the Cover Breaks",
+  "author": "Casper Eastwick",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Emrys Sandoval, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "found family",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8850
+  }
+}

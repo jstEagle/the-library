@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04851",
+  "title": "Sebastian and the Verdict",
+  "author": "Silas Thornbury",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Emrys Ravensworth, the archivist of a cathedral with a locked crypt, has spent twenty years keeping the town's secrets filed and alphabetized. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4851
+  }
+}

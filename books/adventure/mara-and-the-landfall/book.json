@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00654",
+  "title": "Mara and the Landfall",
+  "author": "Sebastian Brightwater",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Theo Kavanagh, a railroad engineer with a map of closed lines, carries a compass, a debt, and very little else. But when the river gives up a chest stamped with a dead nation's seal, she discovers that staying invisible was never really an option. Now she must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 654
+  }
+}

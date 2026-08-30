@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01053",
+  "title": "When the Ember Sings",
+  "author": "Paloma Whitlock",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Lena Joubert, a bone-carver who hears the dead, has spent twelve years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1053
+  }
+}

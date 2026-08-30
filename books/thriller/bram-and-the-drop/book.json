@@ -1,0 +1,21 @@
+{
+  "id": "THR-09301",
+  "title": "Bram and the Drop",
+  "author": "Emrys Yarrow",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ada Okafor, a burnt analyst bounced from three agencies, works cases no one wants attributed. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. To get through this, he must extract a defector who may be the bait before the border checkpoint shifts change.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9301
+  }
+}

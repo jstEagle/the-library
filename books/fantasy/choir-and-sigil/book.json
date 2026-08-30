@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01331",
+  "title": "Choir and Sigil",
+  "author": "Hazel Joubert",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Marguerite Underhill, the last oath-bound swordspeaker, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1331
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01647",
+  "title": "Kestrel and the Thorn",
+  "author": "Hazel Eriksen",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Noor Nakamura, a cartographer of unmapped realms, has never left the valley where magic cannot follow. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1647
+  }
+}

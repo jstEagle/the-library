@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09781",
+  "title": "A Group Chat for the Mixtape",
+  "author": "Oscar Nakamura",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Coral Vasquez, the eldest sibling raising the younger ones while mom works nights, is fine. Everything is fine. Obviously.. But when the college essay prompt asks one honest question nobody can stop answering, he discovers that staying invisible was never really an option. Now he must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9781
+  }
+}

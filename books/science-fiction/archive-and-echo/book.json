@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07593",
+  "title": "Archive and Echo",
+  "author": "Odile Galloway",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Sebastian Thackeray, an insurance investigator of impossible accidents, runs the long route between worlds that no longer speak. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. Now he must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7593
+  }
+}

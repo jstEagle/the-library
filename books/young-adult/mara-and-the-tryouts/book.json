@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09850",
+  "title": "Mara and the Tryouts",
+  "author": "Mirabel Vasquez",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Mirabel Joubert, the team's statistician who knows the game is rigged, is fine. Everything is fine. Obviously.. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and they are pulled straight into the middle of it. Now they must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9850
+  }
+}

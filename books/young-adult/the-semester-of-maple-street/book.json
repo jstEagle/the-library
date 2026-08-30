@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09621",
+  "title": "The Semester of Maple Street",
+  "author": "T. M. Kavanagh",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lior Lockridge, the new kid at a school built over something old, has spent twelve years being so careful it hurts. But when the teacher pairs nemesis with nemesis for a semester-long project, she discovers that staying invisible was never really an option. To get through this, she must tell the truth even if it costs the friendship before the final audition.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9621
+  }
+}

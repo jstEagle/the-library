@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05144",
+  "title": "Alibi and Autopsy",
+  "author": "Gideon Kavanagh",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Ines Dravenmoor, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5144
+  }
+}

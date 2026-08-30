@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04575",
+  "title": "Interior and Wardrobe",
+  "author": "A. M. Montrose",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Ulyana Fairweather, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, she discovers that staying invisible was never really an option. To get through this, she must return to the place where the story went wrong before the house sale closes.",
+  "themes": [
+    "belonging",
+    "memory",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4575
+  }
+}

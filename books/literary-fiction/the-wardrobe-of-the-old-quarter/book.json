@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04593",
+  "title": "The Wardrobe of the old quarter",
+  "author": "E. M. Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Rosalind Whitlock, a piano tuner who hears the house's history in its radiators, keeps a careful inventory of everything unsaid. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the house sale closes.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4593
+  }
+}

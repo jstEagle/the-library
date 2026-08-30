@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05928",
+  "title": "A Letter for the Will Revisited",
+  "author": "Lena Halloran",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Zephyrine Underhill, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. To get through this, she must trap a killer who knows the case file better than the investigators do before the statute expires.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5928
+  }
+}

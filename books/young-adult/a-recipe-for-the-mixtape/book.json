@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09825",
+  "title": "A Recipe for the Mixtape",
+  "author": "Sebastian Crane",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ulyana Pemberton, a baker's kid who bakes feelings into bread, counts days until graduation like a sentence being served. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. Now she must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9825
+  }
+}

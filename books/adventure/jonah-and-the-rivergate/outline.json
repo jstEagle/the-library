@@ -1,0 +1,119 @@
+{
+  "title": "Jonah and the Rivergate",
+  "slug": "adventure/jonah-and-the-rivergate",
+  "model": "stealth/ox-alpha",
+  "premise": "Marguerite Yarrow, a desert ranger who has spent nine years outrunning a warrant for a killing he may or may not have committed, is hired to find a vanished government survey team in the Rivergate badlands. He discovers the team alive but hiding: they found water — a vast aquifer under land already promised to a mining concession — and their own agency intends to bury the finding and the witnesses. Yarrow must smuggle eleven people and one sealed core sample across two hundred miles of open desert before the permits expire, pursued by the survey's own security detail. In the end he trades his anonymity for the truth, surrendering himself at the territorial courthouse with the evidence in hand, and learns the man he killed was the survey chief's brother.",
+  "about_author": "Rosalind Okonkwo is a former hydrological field technician who spent six years mapping seasonal rivers across semi-arid frontiers. She writes adventure fiction about landscapes that outlast every claim made upon them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Stopping",
+      "summary": "Yarrow tracks a horse thief across the flats, catching him only to let him go when the man begs. POV: Yarrow. Establishes his rule — keep moving, never stop — and the loneliness beneath it. Emotional beat: restless mercy."
+    },
+    {
+      "n": 2,
+      "title": "A Warrant with Legs",
+      "summary": "Back at the Rivergate station, Yarrow learns a marshal is asking after a ranger named Yarrow from nine years ago. His supervisor, half-drunk, warns him to take whatever work comes. POV: Yarrow. Emotional beat: dread tightening like a bootlace."
+    },
+    {
+      "n": 3,
+      "title": "Gear Without Ghosts",
+      "summary": "The survey team's supply cache is found intact — tents, instruments, even boots — but no tracks lead away. Yarrow is contracted by survey chief Ada Okonjo to find her missing team. POV: Yarrow. Emotional beat: professional unease curdling into fascination."
+    },
+    {
+      "n": 4,
+      "title": "Eleven Names",
+      "summary": "Okonjo gives Yarrow the roster and a sealed letter he is not to open. He notices the security contractor, Vess, watching him too closely. POV: Yarrow. Emotional beat: suspicion planted early, watered slowly."
+    },
+    {
+      "n": 5,
+      "title": "Into the Nothing",
+      "summary": "Yarrow rides out alone, reading sign no one else can: a cairn built wrong, a fire ring from three camps ago. He finds the first survivor, a geologist named Pell, half-mad with heat. POV: Yarrow. Emotional beat: grim competence rewarded with a broken man."
+    },
+    {
+      "n": 6,
+      "title": "What Pell Saw",
+      "summary": "Pell babbles about green stone and water where water cannot be, then goes silent when Vess's name is mentioned. Yarrow finds the team's trail deliberately obscured. POV: Yarrow. Emotional beat: the hunt turning inside out — he is being hunted too."
+    },
+    {
+      "n": 7,
+      "title": "The Hidden Camp",
+      "summary": "Yarrow walks into an ambush and wakes bound in a slot canyon, facing the 'vanished' team, armed and terrified. Their leader, surveyor Ruth Calloway, interrogates him. POV: Yarrow. Emotional beat: fear giving way to grudging mutual assessment."
+    },
+    {
+      "n": 8,
+      "title": "Green Stone",
+      "summary": "Calloway shows him the core samples: an enormous freshwater aquifer directly beneath the land leased to the Halvard Mining Concession. The agency ordered them to falsify findings; they refused and ran. POV: alternating Yarrow and Calloway. Emotional beat: awe shadowed by terror of what truth costs."
+    },
+    {
+      "n": 9,
+      "title": "The Sealed Letter",
+      "summary": "Calloway recognizes Okonjo's seal on Yarrow's letter and demands it be opened. Inside: instructions to confirm the aquifer exists, then eliminate the team as 'survey casualties.' POV: Calloway. Emotional beat: betrayal landing like a rockfall."
+    },
+    {
+      "n": 10,
+      "title": "Permits and Clocks",
+      "summary": "They calculate the timeline: the concession permits expire in nineteen days; after that, testimony can void the lease. They must reach the territorial courthouse with evidence and witnesses. POV: Yarrow. Emotional beat: purpose crystallizing into a plan with a deadline."
+    },
+    {
+      "n": 11,
+      "title": "Vess Closes In",
+      "summary": "Vess's riders burn the hidden camp's caches, forcing the team into the open. A night skirmish costs them two horses and their medic takes a bullet. POV: Calloway. Emotional beat: survival arithmetic getting uglier."
+    },
+    {
+      "n": 12,
+      "title": "The Dry Crossing",
+      "summary": "Yarrow leads them through the Sere Basin, a route only he knows, rationing water down to sips. An old woman on the team, cartographer Ilsa Brandt, begins failing. POV: Yarrow. Emotional beat: leadership as slow cruelty done lovingly."
+    },
+    {
+      "n": 13,
+      "title": "Brandt's Map",
+      "summary": "Dying Brandt finishes a hand-drawn map of the aquifer's extent and presses it on Yarrow, telling him maps outlive men. She dies at dawn; they bury her unmarked so Vess finds nothing. POV: Yarrow. Emotional beat: grief compressed, carried, not spent."
+    },
+    {
+      "n": 14,
+      "title": "The Thief Returns",
+      "summary": "The horse thief from chapter one reappears — he has been shadowing them, and offers horses in exchange for Yarrow vouching for him at the courthouse. Yarrow must decide whether to trust a stranger's word again. POV: Yarrow. Emotional beat: wary hope, the theme of justice outside the law embodied."
+    },
+    {
+      "n": 15,
+      "title": "Ambush at Split Rock",
+      "summary": "Vess corners them in a canyon; the thief's diversion lets most escape, but Calloway is captured along with the core samples. POV: Calloway. Emotional beat: guilt and fury braided together."
+    },
+    {
+      "n": 16,
+      "title": "Interrogation",
+      "summary": "Vess offers Calloway her life to recant publicly; she stalls, learning Vess answers not to Okonjo but to the concession company itself. POV: Calloway. Emotional beat: cold clarity — this was never about science."
+    },
+    {
+      "n": 17,
+      "title": "Nine Years Ago",
+      "summary": "In a flashback triggered by Vess's face, Yarrow finally admits to himself what happened the night of the killing — and that the dead man was connected to the survey. POV: Yarrow. Emotional beat: identity cracking open; he cannot run from this story anymore."
+    },
+    {
+      "n": 18,
+      "title": "The Rescue That Isn't",
+      "summary": "Yarrow infiltrates Vess's camp at night intending extraction, but Calloway refuses to leave without the core samples. The plan becomes a theft instead of a rescue. POV: Yarrow. Emotional beat: audacity born of having nothing left to lose."
+    },
+    {
+      "n": 19,
+      "title": "Sandstorm",
+      "summary": "A massive storm swallows both parties; in the whiteout, Vess and Yarrow fight hand to hand, and Yarrow spares him — choosing, this once, not to kill. POV: Yarrow. Emotional beat: the past almost repeating, then breaking its pattern."
+    },
+    {
+      "n": 20,
+      "title": "Two Hundred Miles in Six Days",
+      "summary": "A brutal forced march, the team unraveling and re-knitting itself around Calloway's quiet authority. They reach the courthouse town as the permit clock runs out. POV: Calloway. Emotional beat: exhausted solidarity at the edge of collapse."
+    },
+    {
+      "n": 21,
+      "title": "The Courthouse Steps",
+      "summary": "As the clerk stamps the final permit extension, Yarrow walks up the steps, opens his coat, and surrenders — presenting Brandt's map, the cores, and his own name and warrant. The marshal from chapter two takes him into custody as Calloway testifies. POV: Yarrow. Emotional beat: climax as sacrifice; stopping, finally, at great cost."
+    },
+    {
+      "n": 22,
+      "title": "Rivergate",
+      "summary": "Months later: the concession is voided, the aquifer protected, the team scattered into new work. Yarrow, sentence commuted to service, rangers the same desert — but now under his own name. The thief rides beside him, free. POV: Yarrow. Emotional beat: resolution — identity reclaimed, justice imperfect but real, the river running under everything."
+    }
+  ]
+}

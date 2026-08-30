@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04875",
+  "title": "The Late Verdict",
+  "author": "Ansel Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Marguerite Sandoval, an insurance investigator with a photographic memory, has spent three years keeping the town's secrets filed and alphabetized. Then the town's beloved founder is exhumed and the coffin is empty — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4875
+  }
+}

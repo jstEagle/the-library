@@ -1,0 +1,21 @@
+{
+  "id": "THR-08422",
+  "title": "Kowloon Rising",
+  "author": "J. M. Voss",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Sable Winterbourne, a whistle-blower living under four names, works cases no one wants attributed. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8422
+  }
+}

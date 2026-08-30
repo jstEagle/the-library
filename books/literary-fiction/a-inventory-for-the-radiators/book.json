@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04340",
+  "title": "A Inventory for the Radiators",
+  "author": "Oscar Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "August Voss, a letter-writer sending postcards to an address that burned down years ago, keeps a careful inventory of everything unsaid. But when a song on the radio is one that was written and never recorded, he discovers that staying invisible was never really an option. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4340
+  }
+}

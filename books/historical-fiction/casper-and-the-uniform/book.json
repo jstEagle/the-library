@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02495",
+  "title": "Casper and the Uniform",
+  "author": "Juniper Underhill",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 3.6,
+  "blurb": "Elodie Blackwood, a suffragist's driver who reads every letter before delivering it, believes history happens to other people, elsewhere. Then a child is left at the door with instructions to forget the face — and she is pulled straight into the middle of it. Now she must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "belonging",
+    "found family",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2495
+  }
+}

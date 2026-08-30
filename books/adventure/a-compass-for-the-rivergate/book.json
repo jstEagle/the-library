@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00339",
+  "title": "A Compass for the Rivergate",
+  "author": "Mirabel Zhou",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Zephyrine Halloran, a storm chaser who owes money to dangerous optimists, has spent ten years measuring life in miles rather than years. Then the tide reveals a cave that legends charge admission to — and she is pulled straight into the middle of it. Now she must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 339
+  }
+}

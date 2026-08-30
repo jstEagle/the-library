@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01632",
+  "title": "Kestrel and the Garden",
+  "author": "Lior Sterling",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Dominic Nystrom, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, they discover that staying invisible was never really an option. To get through this, they must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1632
+  }
+}

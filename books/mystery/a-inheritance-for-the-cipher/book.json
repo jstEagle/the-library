@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05012",
+  "title": "A Inheritance for the Cipher",
+  "author": "Kestrel Thornbury",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Zephyrine Vane, a true-crime podcaster chasing the coldest case on record, has spent five years keeping the town's secrets filed and alphabetized. But when the missing person's diary continues past the date she disappeared, they discover that staying invisible was never really an option. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5012
+  }
+}

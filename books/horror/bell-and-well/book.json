@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03827",
+  "title": "Bell and Well",
+  "author": "Rafael Coldharbour",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Casper Almeida, a radio host taking calls from listeners who died last week, keeps the lights on and the doors counted. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. Now he must learn the song's last verse without singing along, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3827
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06984",
+  "title": "The Sweet Orchard Again",
+  "author": "Coral Montrose",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Beatrix Whitlock, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the bakery lease runs out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6984
+  }
+}

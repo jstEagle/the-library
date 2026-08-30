@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02076",
+  "title": "Ashvale Rising Revisited",
+  "author": "Kestrel Crane",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Sable Brightwater, a hedge-witch's runaway apprentice, has never left the valley where magic cannot follow. Then tonight's date appears in a book of prophecies written a century ago — and she is pulled straight into the middle of it. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2076
+  }
+}

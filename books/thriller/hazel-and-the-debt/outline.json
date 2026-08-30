@@ -1,0 +1,209 @@
+{
+  "title": "Hazel and the Debt",
+  "slug": "thriller/hazel-and-the-debt",
+  "model": "stealth/ox-alpha",
+  "premise": "Wendell Amberdale, a private security contractor who has spent two decades guarding clients nobody trusts, receives a voiceprint authentication that unlocks a server in Zurich — a server holding proof that the debt-collection syndicate they've been protecting is laundering the stolen inheritances of thousands of families. The voiceprint belongs to Wendell's mother, who died twenty years ago and whose own inheritance was among the first taken. Pursued by an assassin named Corvane and stonewalled by three governments complicit in the scheme, Wendell races to deliver the truth to a Frankfurt regulator before markets open, discovering along the way that their entire career was engineered by the syndicate to keep them close and controllable. In the end Wendell chooses belonging over safety: they burn their contract, testify publicly as Hazel Amberdale, reclaiming the name and inheritance the syndicate erased, while Corvane — revealed to be another stolen child — turns her gun on the men who made them both.",
+  "about_author": "Hazel Montrose spent eleven years in corporate risk analysis before trading spreadsheets for sentences, writing thrillers about people trapped inside systems they helped build. She lives near the coast with a rescue dog named Ledger and a suspiciously well-organized filing cabinet.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Rules Keep Changing",
+      "summary": "Wendell's POV. A routine protection detail in Rotterdam goes sideways when the client's own lawyers try to have him disappeared; Wendell follows protocol anyway and saves him. Establishes Wendell's rigid rule-following and quiet loneliness. Emotional beat: competence masking emptiness."
+    },
+    {
+      "n": 2,
+      "title": "Voiceprint",
+      "summary": "Wendell's POV. At 3 a.m., an encrypted ping requests voice authentication. Wendell speaks one word — a childhood lullaby phrase — and a Zurich server unlocks, flooding his screen with ledger files. The authentication name reads AMBERDALE, H. His dead mother's initials. Beat: vertigo."
+    },
+    {
+      "n": 3,
+      "title": "What the Server Knew",
+      "summary": "Wendell's POV. The files map a laundering network moving inherited wealth through shell trusts, with Wendell's own security firm listed as 'asset retention.' He realizes he wasn't hired; he was kept. Beat: the floor tilts under twenty years of certainty."
+    },
+    {
+      "n": 4,
+      "title": "The Client Nobody Trusts",
+      "summary": "POV shift to Voss, Wendell's handler, briefing the syndicate board in London. Voss reports the breach and recommends termination. Introduces the assassin Corvane, calm and precise. Beat: cold institutional menace."
+    },
+    {
+      "n": 5,
+      "title": "Burn Notice at Dawn",
+      "summary": "Wendell's POV. His access cards stop working mid-shift; colleagues look through him. He grabs a go-bag built from old habits and catches a night train south. Beat: grief for a life that was never really his."
+    },
+    {
+      "n": 6,
+      "title": "Corvane Boards at Cologne",
+      "summary": "Corvane's POV. She identifies Wendell on the train but delays the kill, fascinated by the voiceprint anomaly — it matches a file she was given as a child. First cat-and-mouse exchange, nonviolent. Beat: predator recognizing prey as mirror."
+    },
+    {
+      "n": 7,
+      "title": "Zurich, Locked Doors",
+      "summary": "Wendell's POV. He reaches the server facility posing as an auditor, retrieves a physical archive drive, and finds his mother's name on a 1998 intake list marked 'processed.' Beat: mourning sharpened into purpose."
+    },
+    {
+      "n": 8,
+      "title": "Three Governments, One Lie",
+      "summary": "Voss's POV. The syndicate activates favors: a German interior ministry contact flags Wendell as a terrorist financier; a Swiss bank freezes the trail; a British agency quietly sits on its hands. Beat: the walls closing by paperwork."
+    },
+    {
+      "n": 9,
+      "title": "The Lullaby Key",
+      "summary": "Wendell's POV, flashback-heavy. Memory of his mother teaching him the authentication phrase as a game, 'in case I'm ever gone.' He understands she anticipated the theft and seeded the key decades ago. Beat: inheritance redefined as love."
+    },
+    {
+      "n": 10,
+      "title": "Safehouse in Basel",
+      "summary": "Wendell's POV. An old client, Ilse, shelters him off-book. They decrypt the drive partially: names of forty families, including Corvane's birth name. Beat: fragile warmth, first ally."
+    },
+    {
+      "n": 11,
+      "title": "First Blood",
+      "summary": "Corvane's POV. Ordered to finish it, she corners Wendell at a tram depot; he survives by knowing the depot's security grid better than she does — his own firm installed it. She lets him go, unsettled. Beat: rules versus instinct."
+    },
+    {
+      "n": 12,
+      "title": "The Frankfurt Deadline",
+      "summary": "Wendell's POV. Ilse explains BaFin, Frankfurt's financial regulator, can force disclosure if evidence arrives before quarterly market open — four days. The plan crystallizes. Beat: hope with a countdown attached."
+    },
+    {
+      "n": 13,
+      "title": "Interpol Wants a Word",
+      "summary": "Wendell's POV. Detained briefly in Mannheim, he talks his way out using procedural knowledge, but the interrogation tips off Voss to his route. Beat: outmaneuvered by his own notoriety."
+    },
+    {
+      "n": 14,
+      "title": "Voss's Version",
+      "summary": "Voss's POV. Flashback: how the syndicate recruited young Wendell, grooming the orphaned child of their first victim into loyal muscle. Voss feels something like regret, files it away. Beat: chilling tenderness."
+    },
+    {
+      "n": 15,
+      "title": "The Archive Beneath the Bank",
+      "summary": "Wendell's POV. Following his mother's notes, he breaks into a Lucerne vault holding paper originals of the trust deeds. He photographs them as alarms trigger. Beat: triumph curdling into flight."
+    },
+    {
+      "n": 16,
+      "title": "Running the Rhine",
+      "summary": "Alternating Wendell/Corvane POV. A chase downriver by boat and road; Corvane has orders but keeps choosing not-yet. They speak for the first time, trading truths across water. Beat: reluctant recognition."
+    },
+    {
+      "n": 17,
+      "title": "Ilse Pays the Price",
+      "summary": "Wendell's POV. Returning to Basel, he finds the safehouse burned and Ilse hospitalized. Guilt lands hard; the cost of involving people becomes real. Beat: grief as fuel."
+    },
+    {
+      "n": 18,
+      "title": "The Board Votes",
+      "summary": "Syndicate board POV. Voss loses a vote to handle Wendell quietly; the hardliners authorize scorched-earth — including burning the Frankfurt evidence chain and framing Wendell for Ilse's attack. Beat: escalation."
+    },
+    {
+      "n": 19,
+      "title": "A Journalist Named Okafor",
+      "summary": "Wendell's POV. He contacts Adaeze Okafor, a financial journalist who lost family land to the same trusts. She agrees to help but insists on publishing, not just delivering. Tension between secrecy and truth. Beat: alliance with friction."
+    },
+    {
+      "n": 20,
+      "title": "Corvane's File",
+      "summary": "Corvane's POV. She pulls her own intake record: sold at nine, trained, renamed. Her target list includes children now grown. She begins keeping evidence instead of destroying it. Beat: defection germinating."
+    },
+    {
+      "n": 21,
+      "title": "Checkpoint Trap",
+      "summary": "Wendell's POV. The frame job lands: his photo ties him to the Basel fire. Police box him in outside Karlsruhe; Okafor extracts him through a freight yard in a plan that nearly kills them both. Beat: desperation, deepened trust."
+    },
+    {
+      "n": 22,
+      "title": "The Second Key",
+      "summary": "Wendell's POV. Decrypted files reveal a second authentication layer — his mother's voice again, requiring a spoken confession. Wendell must say aloud what the syndicate did to her. He does, alone, at midnight. Beat: catharsis as security measure."
+    },
+    {
+      "n": 23,
+      "title": "Full Ledger",
+      "summary": "Okafor's POV. The complete ledger opens: three governments' officials listed as beneficiaries. Publishing means exposing allies of every state that could protect them. Okafor decides truth outranks safety. Beat: moral commitment."
+    },
+    {
+      "n": 24,
+      "title": "Voss Closes In",
+      "summary": "Voss's POV. Using Wendell's training against him — predicting his routes, his habits, his tells — Voss corners the team's location. Beat: being known as a weapon turned inward."
+    },
+    {
+      "n": 25,
+      "title": "Night at the Signal Box",
+      "summary": "Wendell's POV. Ambushed in a rail signal box outside Frankfurt, Wendell fights Voss hand-to-hand and wins by breaking his own rules — doing the unpredictable. Voss escapes, wounded. Beat: shedding the old self."
+    },
+    {
+      "n": 26,
+      "title": "Corvane Makes Her Choice",
+      "summary": "Corvane's POV. Ordered to kill Okafor, she instead delivers her evidence file to Wendell and burns her handler channel. Two hunted people, one cause. Beat: allegiance chosen, not assigned."
+    },
+    {
+      "n": 27,
+      "title": "Markets Open in Nine Hours",
+      "summary": "Wendell's POV. Dawn in Frankfurt. The regulator's window opens at 9:00; the syndicate has judges ready to seal everything by 9:15. Logistics montage: copies, witnesses, routes. Beat: ticking clock at full pressure."
+    },
+    {
+      "n": 28,
+      "title": "The Sealed Courthouse",
+      "summary": "Wendell's POV. Their filing is blocked by an emergency injunction. Okafor pivots: publish everything online simultaneously with the filing, making suppression meaningless. Beat: ingenuity under fire."
+    },
+    {
+      "n": 29,
+      "title": "Corvane's Reckoning",
+      "summary": "Corvane's POV. The syndicate sends cleaners after her. She leads them into a killing ground of her choosing and survives, barely, carrying proof of the order itself. Beat: survival as testimony."
+    },
+    {
+      "n": 30,
+      "title": "The Tower Meeting",
+      "summary": "Wendell's POV. A syndicate founder offers Wendell his old life back — money, erasure, his records restored — if the drive dies. Wendell sees his whole biography offered back as a bribe and refuses. Beat: identity over comfort."
+    },
+    {
+      "n": 31,
+      "title": "Eight Fifty-Nine",
+      "summary": "Multiple POVs intercut. Wendell runs the last kilometer to BaFin as police, cleaners, and cameras converge; Okafor's finger hovers over publish; Corvane holds the stairwell. Beat: breathless convergence."
+    },
+    {
+      "n": 32,
+      "title": "Filing and Flood",
+      "summary": "Wendell's POV. At 9:01 the evidence enters the record; at 9:03 Okafor publishes worldwide. Markets wobble; the trusts freeze; officials named in the ledger start resigning before lunch. Beat: detonation of truth."
+    },
+    {
+      "n": 33,
+      "title": "Aftermath, First Day",
+      "summary": "Wendell's POV. Hearings begin. Wendell testifies under his legal name — Hazel Amberdale — claiming the mother the syndicate erased. Beat: naming as reclamation."
+    },
+    {
+      "n": 34,
+      "title": "Voss's Last Rewrite",
+      "summary": "Voss's POV. Facing exposure, Voss attempts to rewrite history one final time, offering testimony that buries rivals and spares himself. Hazel's archived recordings contradict him line by line. Beat: the archivist defeats the author of lies."
+    },
+    {
+      "n": 35,
+      "title": "The Children's List",
+      "summary": "Hazel's POV. The recovered intake lists become a reunification project; families learn where their inheritances went. Hazel funds it with the first unfrozen assets. Beat: repair beginning."
+    },
+    {
+      "n": 36,
+      "title": "Corvane's Name",
+      "summary": "Corvane's POV. She surrenders to prosecutors with full cooperation, asking only to be tried under her birth name. Hazel attends, witness and kin. Beat: mercy earned."
+    },
+    {
+      "n": 37,
+      "title": "What Inheritance Means",
+      "summary": "Hazel's POV. Settling his mother's estate at last, Hazel finds her letter, written in 1998, addressed to whoever finally opened the server. It ends: 'Belonging is not given back. It is taken up.' Beat: thematic resolution."
+    },
+    {
+      "n": 38,
+      "title": "The Contract Burned",
+      "summary": "Hazel's POV. Offered a directorship rebuilding the security industry with oversight, Hazel declines — then accepts a smaller role writing the rules he once followed blindly. Beat: transformation integrated."
+    },
+    {
+      "n": 39,
+      "title": "Frankfurt, One Year On",
+      "summary": "Ensemble POV. One year later: trials concluding, Okafor's book releasing, Corvane sentenced but respected, Hazel visiting his mother's grave with the ledger's final page. Beat: quiet, earned peace."
+    },
+    {
+      "n": 40,
+      "title": "Hazel and the Debt",
+      "summary": "Hazel's POV, closing. Standing before the repurposed Zurich server hall — now a public archive — Hazel answers a child's question about what he inherited: 'A debt,' he says, 'and the means to pay it forward.' Final image: the lullaby phrase engraved at the entrance. Beat: belonging, at last."
+    }
+  ]
+}

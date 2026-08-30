@@ -1,0 +1,21 @@
+{
+  "id": "THR-09021",
+  "title": "Kestrel and the Deadline",
+  "author": "Quentin Ishikawa",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Mirabel Marchetti, a hostage negotiator with one failure still on the board, has spent seven years following rules that keep getting rewritten. But when every record of a flight vanishes while it's still in the air, she discovers that staying invisible was never really an option. Now she must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9021
+  }
+}

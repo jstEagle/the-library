@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05292",
+  "title": "Zephyrine and the Alibi",
+  "author": "Zephyrine Marchetti",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Ines Joubert, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. To get through this, he must untangle alibis woven thirty years ago before the statute expires.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5292
+  }
+}

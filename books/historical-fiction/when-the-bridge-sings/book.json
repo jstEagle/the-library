@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02521",
+  "title": "When the Bridge Sings",
+  "author": "Bram Yarrow",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Sebastian Halloran, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and he is pulled straight into the middle of it. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2521
+  }
+}

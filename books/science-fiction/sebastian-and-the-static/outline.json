@@ -1,0 +1,119 @@
+{
+  "title": "Sebastian and the Static",
+  "slug": "science-fiction/sebastian-and-the-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Mirabel Halloran tends the Verdance, a terraformed garden orbiting a dead colony world, and pilots supply runs between settlements that severed contact decades ago. When he discovers his own name on the manifest of the Meridian, a ship that never launched, he learns the cryosleep vaults beneath Earth's last transmission loop hold two halves of humanity — one curated by the founding families, one by everyone else — and only one can be woken before the loop decays. The manifest is an inheritance trap set by his grandmother, who built the loop and rigged its selection algorithm. Mirabel must choose between the justice of waking everyone's half against the law that says only one, and in the end he burns the loop's authority structure itself, broadcasting the wake signal to both halves and accepting that neither Earth nor the colonies will ever forgive him.",
+  "about_author": "Quentin Dunmore spent nine years as a systems auditor for orbital agriculture cooperatives before turning to fiction full-time. He writes from a converted shipping container on the Atlantic coast, where he claims the static between radio stations tells better stories than most novels.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Long Route",
+      "summary": "Mirabel's POV. He runs the supply circuit between silent colony stations, tending the Verdance garden meant for future generations. Establishes his loneliness, competence, and the ritual of recording messages no one answers. Emotional beat: quiet devotion shadowed by abandonment."
+    },
+    {
+      "n": 2,
+      "title": "A Name That Shouldn't Be There",
+      "summary": "Mirabel's POV. Docking at Relay Nine, he finds the Meridian — a ship class retired before his birth — with his name freshly inked on its never-flown manifest. Inside: a working cryo-cradle and a message addressed to him by first name. Beat: unease curdling into obsession."
+    },
+    {
+      "n": 3,
+      "title": "Grandmother's Voice",
+      "summary": "Mirabel's POV. A recorded message from Odile Halloran, dead forty years, explains only that 'the loop ends soon' and names three coordinates. Flashbacks reveal she raised him remotely, all instruction and no affection. Beat: grief weaponized into duty."
+    },
+    {
+      "n": 4,
+      "title": "Verdance Falling Behind",
+      "summary": "Sefa's POV, Mirabel's comms partner on Relay Nine. She covers for his detour while noticing the transmission loop's decay accelerating — static eating the archive of Earth's final years. Beat: loyalty tested by fear."
+    },
+    {
+      "n": 5,
+      "title": "First Coordinate",
+      "summary": "Mirabel's POV. A derelict habitat holds the Halloran family archive: ledgers proving the founding families wrote the selection algorithm deciding who sleeps in which vault. He finds his own childhood listed as collateral. Beat: betrayal."
+    },
+    {
+      "n": 6,
+      "title": "The Two Vaults",
+      "summary": "Dual POV chapter alternating Mirabel and Sefa. Exposition through discovery: Vault A holds the families' chosen; Vault B, everyone else, keyed to a signal that will never fire. Sefa realizes the loop's decay is deliberate sabotage. Beat: dawning horror."
+    },
+    {
+      "n": 7,
+      "title": "Passengers",
+      "summary": "Mirabel's POV. He intercepts a lifeboat carrying Ivo Renk, a former loop engineer fleeing the settlement enforcers. Ivo confirms the sabotage and offers the override codes — for a price: Mirabel wakes his daughter first. Beat: uneasy alliance."
+    },
+    {
+      "n": 8,
+      "title": "Second Coordinate",
+      "summary": "Mirabel and Ivo's POV. The second site is a courtroom frozen mid-session — the trial where Odile was condemned for building the loop. Recordings show her defense: justice outside the law, because the law wrote the crime. Beat: moral vertigo."
+    },
+    {
+      "n": 9,
+      "title": "What the Garden Is For",
+      "summary": "Mirabel's POV, intercut with memories of seeding the Verdance. He understands the garden was never decoration — it's the environmental proof-of-concept the woken will need, and it's failing faster than reported. Beat: responsibility crystallizing."
+    },
+    {
+      "n": 10,
+      "title": "Enforcers",
+      "summary": "Captain Brannoc Hale's POV, head of the settlement authority. He hunts Mirabel, believing the manifest theft threatens the succession pact among the families. His chapters reveal the law's logic: order over fairness. Beat: antagonist made sympathetic."
+    },
+    {
+      "n": 11,
+      "title": "Third Coordinate",
+      "summary": "Mirabel's POV. The third site is the loop's transmitter heart, buried under ice, still singing Earth's last broadcast into static. Ivo reveals the price of the codes: the daughter is already aboard the Meridian, asleep. Beat: trap sprung."
+    },
+    {
+      "n": 12,
+      "title": "The Half We Keep",
+      "summary": "Sefa's POV. She decodes the family ledger fully: the 'curated half' is mostly embryos and loyalists; the other half is everyone who ever protested. She broadcasts a warning to the settlements, breaking silence protocol. Beat: courage."
+    },
+    {
+      "n": 13,
+      "title": "Static Between Worlds",
+      "summary": "Mirabel's POV. Cut off after Sefa's broadcast, he navigates by dead-reckoning toward the Meridian while Hale's ships close in. A storm of solar interference erases his navigation — the static becomes literal. Beat: isolation at its peak."
+    },
+    {
+      "n": 14,
+      "title": "Ivo's Daughter",
+      "summary": "Mirabel's POV aboard the Meridian. He finds the girl, Nell Renk, sleeping beside a second cradle labeled HALLORAN — empty, waiting for him. He realizes Odile designed him as the loop's living key. Beat: identity shattered."
+    },
+    {
+      "n": 15,
+      "title": "Hale's Offer",
+      "summary": "Hale's POV then dialogue with Mirabel via tightbeam. Hale offers legitimacy: wake Vault A alone, be pardoned, keep the garden. Mirabel asks what happens to Vault B. Hale's silence answers. Beat: temptation refused."
+    },
+    {
+      "n": 16,
+      "title": "The Trial Replayed",
+      "summary": "Mirabel's POV. He plays Odile's full defense recording and hears her real argument: the loop wasn't a punishment, it was a mirror — humanity gets to choose which half it is. He stops hearing her as grandmother and starts hearing her as defendant. Beat: understanding without forgiveness."
+    },
+    {
+      "n": 17,
+      "title": "Severance",
+      "summary": "Sefa's POV. The settlements vote to side with Hale rather than risk the unknown half. Sefa is stripped of relay duty but keeps transmitting anyway, jamming Hale's kill-signal aimed at the Meridian. Beat: defiance at personal cost."
+    },
+    {
+      "n": 18,
+      "title": "Wake Signal",
+      "summary": "Mirabel's POV. At the transmitter heart, he inputs the override — but the algorithm demands a single-vault confirmation, biologically keyed to a Halloran. To send both signals he must splice himself into the system physically. Beat: sacrifice accepted."
+    },
+    {
+      "n": 19,
+      "title": "Which Half Wakes",
+      "summary": "Climax, Mirabel's POV. Wired into the loop as it dies, he sends both wake signals simultaneously, burning out the cradle interface and nearly himself. Hale's fleet arrives to find the vaults opening on their own. Beat: irreversible choice made."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath of Static",
+      "summary": "Multiple POVs — Sefa, Hale, Nell. The woken emerge into a garden half-ready and a polity in shock. Hale, seeing Vault B's faces, stands down rather than fire on children. Beat: exhausted, trembling relief."
+    },
+    {
+      "n": 21,
+      "title": "The Long Route, Again",
+      "summary": "Mirabel's POV, recovering. Neither Earth nor the colonies will sanction him; some call him thief, others founder. He resumes the supply run, now ferrying the newly awake. Beat: peace without absolution."
+    },
+    {
+      "n": 22,
+      "title": "Verdance, Full Bloom",
+      "summary": "Mirabel and Nell's shared POV. One year on, the garden feeds people it was always meant for, and the static has been replaced by too many voices to track. He plants a row for Odile and lets the record of her trial play once, then deletes it. Beat: inheritance transformed into choice."
+    }
+  ]
+}

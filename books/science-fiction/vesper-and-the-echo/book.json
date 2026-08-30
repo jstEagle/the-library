@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07977",
+  "title": "Vesper and the Echo",
+  "author": "Zephyrine Dunmore",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Astrid Dravenmoor, a clone who inherited the original's murder case, has spent three years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. To get through this, he must keep a lie alive that holds two fleets apart before the jump window closes.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7977
+  }
+}

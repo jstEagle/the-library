@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02317",
+  "title": "Compass and Typewriter",
+  "author": "N. M. Galloway",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Zephyrine Coldharbour, a code-carrying courier on the last diplomatic mission of a doomed republic, measures the world in what can be carried when the orders come. But when the army requisitions the town and the ledger with all the names, they discover that staying invisible was never really an option. Now they must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2317
+  }
+}

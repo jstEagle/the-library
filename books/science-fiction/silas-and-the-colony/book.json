@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07291",
+  "title": "Silas and the Colony",
+  "author": "Rosalind Voss",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Edmund Almeida, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. Then the colony's children start sharing the same dream — and he is pulled straight into the middle of it. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7291
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08039",
+  "title": "Edmund and the Signal",
+  "author": "F. M. Yarrow",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Emrys Iversen, a memory-smuggler running contraband past orbital customs, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. To get through this, they must keep a lie alive that holds two fleets apart before the fleet's truce expires.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8039
+  }
+}

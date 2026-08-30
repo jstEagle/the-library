@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02379",
+  "title": "A Letter for the Typewriter",
+  "author": "Mirabel Blackwood",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Juniper Fairweather, a suffragist's driver who reads every letter before delivering it, measures the world in what can be carried when the orders come. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. To get through this, they must choose which family member gets the last berth before the ship sails on the morning tide.",
+  "themes": [
+    "memory",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2379
+  }
+}

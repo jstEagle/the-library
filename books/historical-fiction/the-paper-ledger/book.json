@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02690",
+  "title": "The Paper Ledger",
+  "author": "Tamsin Vane",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Casper Ravensworth, a battlefield nurse keeping a ledger of the names officers omit, measures the world in what can be carried when the orders come. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. Now they must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2690
+  }
+}

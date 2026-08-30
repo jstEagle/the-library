@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06198",
+  "title": "The Impossible Summer",
+  "author": "Juniper Dravenmoor",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Orsen Hartwell, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6198
+  }
+}

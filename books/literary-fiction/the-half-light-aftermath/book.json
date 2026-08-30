@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04549",
+  "title": "The Half-Light Aftermath",
+  "author": "Yara Fairweather",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Quentin Eriksen, a translator losing a childhood language one borrowed word at a time, moves through the days like a tenant, not an owner. Then a song on the radio is one that was written and never recorded — and she is pulled straight into the middle of it. To get through this, she must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4549
+  }
+}

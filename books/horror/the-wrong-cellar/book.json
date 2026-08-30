@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03354",
+  "title": "The Wrong Cellar",
+  "author": "F. M. Eastwick",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Quentin Crane, a folklorist recording songs the village refuses to sing twice, keeps the lights on and the doors counted. But when the excavation crew unearths a door, sealed from the inside, they discover that staying invisible was never really an option. To get through this, they must hold out until sunrise with the truth about what was invited in before the well refills.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3354
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04613",
+  "title": "A Weather for the Radiators",
+  "author": "Vesper Fairweather",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Coral Eriksen, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. But when a song on the radio is one that was written and never recorded, she discovers that staying invisible was never really an option. To get through this, she must ask the question the whole family arranged itself around before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4613
+  }
+}

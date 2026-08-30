@@ -1,0 +1,59 @@
+{
+  "title": "Clock and Orchard",
+  "slug": "historical-fiction/clock-and-orchard",
+  "model": "stealth/ox-alpha",
+  "premise": "In 1899, in the garrison town of Marrow's Bend, apprentice mapmaker Cyrus Vane inherits his dead master's unfinished atlas — and the hidden ledger of names the master was killed to keep. When the army requisitions the town, burns the records office, and installs a victor's commission to rewrite what happened during the orchard clearances, Cyrus realizes the ledger is the only surviving record of the displaced and the dead. Hunted by Captain Ellery Voss, who needs the ledger destroyed before the century turns, Cyrus smuggles it toward the capital with help from a disgraced army clerk and a widow of the clearances. He finishes the atlas as an act of testimony, publishes it under his master's name, and survives — but only by accepting that justice arrived late, partial, and outside any courtroom.",
+  "about_author": "Noor Halloran is a former archivist who spent a decade cataloguing land disputes in colonial-era municipal records. She writes historical fiction about the people history files under 'miscellaneous.'",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Unfinished Coastline",
+      "summary": "Cyrus Vane, POV. Weeks after his master Aldous Crane's death, Cyrus works alone on the atlas, treating history as something that happens elsewhere. He discovers a locked drawer in Crane's desk containing a ledger of names he doesn't understand. Emotional beat: quiet grief curdling into unease."
+    },
+    {
+      "n": 2,
+      "title": "Requisition",
+      "summary": "Cyrus, POV. Soldiers occupy Marrow's Bend; Captain Voss requisitions the records office and demands all documents, including anything from Crane's estate. Cyrus hides the ledger inside a rolled survey map. Emotional beat: fear disguised as compliance, the first lie told to power."
+    },
+    {
+      "n": 3,
+      "title": "Names in the Margin",
+      "summary": "Cyrus, POV, with a flashback section in Crane's voice. Deciphering the ledger, Cyrus learns it records the orchard clearances: evictions, deaths, and the officials who profited — names that match men now on the victory commission. Emotional beat: the shattering of his belief that history happens to other people."
+    },
+    {
+      "n": 4,
+      "title": "The Widow of Row Nine",
+      "summary": "Maren Ostler, POV. Maren, whose family appears in the ledger, recognizes Crane's handwriting when Cyrus comes asking questions. She tests him, then tells him what the official record omits. Emotional beat: wary alliance forged through shared loss."
+    },
+    {
+      "n": 5,
+      "title": "A Clerk Without a Country",
+      "summary": "Tobias Finch, POV. Finch, an army clerk ordered to falsify the clearance record, defects and brings Cyrus proof the commission is rewriting dates and causes of death. The three form a fragile conspiracy. Emotional beat: shame transformed into purpose."
+    },
+    {
+      "n": 6,
+      "title": "What the River Keeps",
+      "summary": "Cyrus, POV. A raid on Crane's old print shop forces the group to flee downriver with the atlas plates and ledger. Voss takes hostages in the town to force their return. Emotional beat: guilt — survival now has a visible price paid by others."
+    },
+    {
+      "n": 7,
+      "title": "The Commission Sits",
+      "summary": "Voss, POV. Inside the inquiry, Voss manages witnesses and buries testimony, revealing his own complicity and ambition. He learns the ledger exists and that Cyrus holds it. Emotional beat: the banal mechanics of corruption, and the hunter's cold resolve."
+    },
+    {
+      "n": 8,
+      "title": "Winter Road",
+      "summary": "Cyrus and Maren, alternating POV. The overland journey to the capital; Finch is captured buying train tickets and refuses under interrogation to give them up. Maren falls ill; Cyrus must choose between speed and care. Emotional beat: sacrifice, and love neither will name."
+    },
+    {
+      "n": 9,
+      "title": "The Century Turns",
+      "summary": "Cyrus, POV. In the capital, on New Year's Eve, Cyrus prints the atlas with the ledger bound into its appendix under Crane's name while Voss closes in. A printer's riot and a sympathetic magistrate buy him the hours he needs. Climax: the truth enters the public record minutes before midnight; Voss arrives too late and is arrested by his own superiors for the exposure."
+    },
+    {
+      "n": 10,
+      "title": "Scale and Bearing",
+      "summary": "Cyrus, POV, years later. The atlas circulates; some officials fall, most do not; Maren has gone home to plant an orchard on returned land. Cyrus teaches apprentices that maps are arguments. Emotional beat: hard-won peace — justice incomplete, but the record stands, and that was always the point."
+    }
+  ]
+}

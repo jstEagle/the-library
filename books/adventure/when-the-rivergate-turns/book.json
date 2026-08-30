@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00026",
+  "title": "When the Rivergate Turns",
+  "author": "Mara Coldharbour",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Jude Thornbury, a railroad engineer with a map of closed lines, keeps moving because stopping costs more. Then a government survey team vanishes, leaving gear and no tracks — and she is pulled straight into the middle of it. To get through this, she must beat the salvage fleet to the wreck by six tides before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 26
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06918",
+  "title": "Ansel and the Bakery",
+  "author": "Theo Yarrow",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Orsen Ishikawa, a cellist recovering from one catastrophic final performance, believes second chances are for people with better timing. But when a fake date to survive a family reunion feels too real by dessert, they discover that staying invisible was never really an option. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6918
+  }
+}

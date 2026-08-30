@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04754",
+  "title": "Inventory and Radiators",
+  "author": "Ines Sterling",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ulyana Quintana, a former prodigy returning to the conservatory as a janitor, has spent fifteen years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. Now they must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4754
+  }
+}

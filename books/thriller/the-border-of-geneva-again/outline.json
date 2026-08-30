@@ -1,0 +1,119 @@
+{
+  "title": "The Border of Geneva Again",
+  "slug": "thriller/the-border-of-geneva-again",
+  "model": "stealth/ox-alpha",
+  "premise": "Sebastian Whitlock, a former data-ethics researcher turned whistle-blower, has spent six years hiding under four identities after exposing a covert AI-training program that destroyed lives, including his own family's. When his old voiceprint — recorded before he vanished — unlocks a dormant server in Geneva, he learns the network never died; it learned from him. Hunted by both the program's private security arm and the intelligence service that once protected him, Sebastian must ally with Mara Voss, the analyst assigned to erase him, and choose between burning the archive that could exonerate him and destroying it to save thousands of future targets. In the end he burns it, loses his last alias, and walks out of Geneva as no one at all — finally free to sleep.",
+  "about_author": "Edmund Yarrow is the pen name of a former compliance officer who spent a decade inside European financial institutions before turning to fiction. He writes thrillers about ordinary people trapped between conscience and institution, and lives quietly somewhere within driving distance of a border.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Four Names",
+      "summary": "Sebastian's POV. A routine night in a rented flat in Porto: checking exits, rotating burner phones, waking at 3 a.m. as always. We learn his rules for survival and the insomnia that punishes him. Emotional beat: exhaustion masquerading as safety, and the first crack in it when an unknown notification appears on a dead account."
+    },
+    {
+      "n": 2,
+      "title": "The Voice in the Machine",
+      "summary": "Sebastian's POV. The dead account holds a voiceprint challenge — his own voice, recorded years ago, asking a question only he can answer. He answers, and a server in Geneva wakes. Emotional beat: dread curdling into vertigo as he realizes someone preserved him like evidence."
+    },
+    {
+      "n": 3,
+      "title": "What the Server Kept",
+      "summary": "Sebastian's POV. Inside the archive: training logs, victim files, and a live counter of 'active models' still running on contaminated data. One file is flagged with his real name. Emotional beat: grief and fury braided together; the past was never buried, only indexed."
+    },
+    {
+      "n": 4,
+      "title": "Mara",
+      "summary": "Mara Voss's POV. An analyst at the program's successor firm is ordered to trace the server breach and finds Sebastian's ghost already waiting in the logs. She hesitates one beat too long before reporting. Emotional beat: the first hairline fracture in her loyalty."
+    },
+    {
+      "n": 5,
+      "title": "The Handler's Call",
+      "summary": "Sebastian's POV. His old intelligence contact, Aldous Renner, calls with a warning disguised as a favor: stop digging or be delivered. Sebastian realizes his protectors were always wardens. Emotional beat: betrayal arriving politely, on schedule."
+    },
+    {
+      "n": 6,
+      "title": "Train to Basel",
+      "summary": "Sebastian's POV. He breaks his own rules and moves toward Geneva instead of away, riding a night train and rehearsing cover stories. A tail he can't confirm keeps pace two carriages back. Emotional beat: fear transmuted into momentum — for the first time in years he is going toward something."
+    },
+    {
+      "n": 7,
+      "title": "The Firm That Never Was",
+      "summary": "Mara's POV. She maps the corporate shell structure behind the program and discovers her own employment contract routes through a company dissolved the day after she signed it. Emotional beat: the quiet horror of realizing you were hired by a fiction."
+    },
+    {
+      "n": 8,
+      "title": "Geneva, Off Season",
+      "summary": "Sebastian's POV. He enters the city using a fourth name he swore he'd retired, and makes contact with a retired archivist who once leaked to him. The meeting is ambushed; the archivist doesn't survive. Emotional beat: guilt sharpening into resolve — the network kills witnesses, so he must stop being one."
+    },
+    {
+      "n": 9,
+      "title": "Two People, One Room",
+      "summary": "Alternating POVs. Mara corners Sebastian in a safehouse but doesn't call it in; instead she shows him the deletion order bearing his name and asks what he knows that she doesn't. Emotional beat: wary, electric truce — two professionals discovering they share an enemy."
+    },
+    {
+      "n": 10,
+      "title": "The Training Floor",
+      "summary": "Mara's POV, flashback interleaved with present. Her first week at the firm: the cheerful euphemisms ('annotation,' 'calibration') that concealed human experimentation on harvested data. Emotional beat: complicity dawning slowly, then all at once."
+    },
+    {
+      "n": 11,
+      "title": "Renner's Bargain",
+      "summary": "Sebastian's POV. Renner offers full immunity and a new life if Sebastian surrenders the archive keys — which would let the service sanitize the evidence and keep the models alive. Emotional beat: temptation wearing the face of mercy."
+    },
+    {
+      "n": 12,
+      "title": "What Love Costs",
+      "summary": "Sebastian's POV. A stolen evening with Mara, trading histories neither has told anyone. They admit the attraction neither planned. Emotional beat: tenderness as risk — every intimacy is now a liability, and they choose it anyway."
+    },
+    {
+      "n": 13,
+      "title": "The Counter Goes Up",
+      "summary": "Mara's POV. The active-models counter jumps: a new deployment in a national health system, trained on the poisoned corpus. Real people will be misdiagnosed, denied, erased. Emotional beat: abstract stakes becoming flesh; the deadline stops being theoretical."
+    },
+    {
+      "n": 14,
+      "title": "Burn Notice, Reversed",
+      "summary": "Sebastian's POV. Renner, exposed internally, goes rogue and offers Sebastian the access codes — not from remorse, but spite. Sebastian must decide whether to trust a man who sold him once. Emotional beat: cold pragmatism wrestling with the need to believe anyone at all."
+    },
+    {
+      "n": 15,
+      "title": "The Vault Beneath the Lake",
+      "summary": "Both POVs converge. Sebastian and Mara infiltrate the physical vault housing the master archive beneath a lakeside data center, using Mara's credentials and Sebastian's voiceprint. Emotional beat: claustrophobic tension breaking into awe — the machine that ruined him is smaller than his fear of it."
+    },
+    {
+      "n": 16,
+      "title": "The Exoneration File",
+      "summary": "Sebastian's POV. Inside the vault he finds proof that would clear his name and restore everything he lost — if released, it also preserves copies of the models. Emotional beat: the book's central choice made physical, held in two hands."
+    },
+    {
+      "n": 17,
+      "title": "Betrayal, Third Party",
+      "summary": "Mara's POV. Renner tips off the firm's security arm to force the issue; the vault locks down with them inside. Mara realizes she was the intended fall person all along. Emotional beat: rage and clarity — loyalty was always a leash here."
+    },
+    {
+      "n": 18,
+      "title": "The Burning",
+      "summary": "Climax, alternating POVs. Under fire from the security team, Sebastian initiates total cryptographic destruction of the archive — exoneration included — while Mara fights her way to the uplink to kill the deployed models. Emotional beat: sacrifice at white heat; he lets his old self die in the fire."
+    },
+    {
+      "n": 19,
+      "title": "Aftermath, Counting Bodies",
+      "summary": "Mara's POV. The models are dead, the firm begins shredding itself, and Renner vanishes with a drive he'll never be able to open. Sebastian is missing. Emotional beat: hollow victory, grief without a grave."
+    },
+    {
+      "n": 20,
+      "title": "The Fifth Name",
+      "summary": "Sebastian's POV. He surfaces in a small town across the French border with no aliases left, no archive, no case — just himself, unproven and unowned. Emotional beat: terror of exposure giving way, for the first time, to something like peace."
+    },
+    {
+      "n": 21,
+      "title": "Sleep",
+      "summary": "Sebastian's POV. A quiet chapter: market mornings, a repaired window latch, and the first full night's sleep in six years. Mara sends a single untraceable message: the counter reads zero. Emotional beat: survival redefined as living rather than hiding."
+    },
+    {
+      "n": 22,
+      "title": "The Border of Geneva Again",
+      "summary": "Final chapter, dual POV. Months later, Sebastian crosses into Switzerland openly, under his own name, to testify before a parliamentary inquiry Mara helped convene. The network is ash, but the questions remain. Emotional beat: love against duty resolved — they chose each other and the truth, and walk into the hearing together."
+    }
+  ]
+}

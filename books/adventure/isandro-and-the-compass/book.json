@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00297",
+  "title": "Isandro and the Compass",
+  "author": "Ulyana Okonkwo",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Bram Galloway, a salvage diver working a wreck the navy won't discuss, has spent twenty years measuring life in miles rather than years. But when a government survey team vanishes, leaving gear and no tracks, they discover that staying invisible was never really an option. Now they must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 297
+  }
+}

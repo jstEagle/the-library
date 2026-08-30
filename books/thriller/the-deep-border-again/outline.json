@@ -1,0 +1,29 @@
+{
+  "title": "The Deep Border Again",
+  "slug": "thriller/the-deep-border-again",
+  "model": "stealth/ox-alpha",
+  "premise": "Xanthe Zhou, a private security contractor hiding in a coastal border town after a botched protection detail left a witness dead, receives calls on a burner phone from the voice of the man he failed to save. The caller knows Xanthe's real name, his location, and the encrypted drive he smuggled out of the incident—evidence that could expose the mercenary network that ordered the hit. Hunted by his former employer's cleaners and manipulated by a voice that may be blackmail, ghost, or survivor, Xanthe must decide whether to destroy the drive or trade it for passage on a dawn extraction flight. In the end, he leaks the evidence publicly at the airfield, sacrificing his own escape to burn the network down, and finally sleeps through the night.",
+  "about_author": "Isandro Delacroix is the pen name of a former maritime security consultant who spent a decade contracting along contested coastlines before turning to fiction. He writes lean, insomniac thrillers about people who do violence for a living and can't quite put it down.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Phone That Shouldn't Ring",
+      "summary": "Xanthe's POV. Working a dull protection gig in Puerto Aliso, Xanthe finds a burner phone in his gear bag—a model discontinued years ago. It rings: the voice of Marcus Vey, the client who died under his watch eight months ago, asking casually if he still has 'the package.' The beat is dread; the past has found a door back in."
+    },
+    {
+      "n": 2,
+      "title": "Cleaners at Low Tide",
+      "summary": "Xanthe's POV, with an intercut section from the perspective of Wren, a cleaner sent to retrieve him. Xanthe verifies the voice against old recordings—it matches perfectly—and realizes his safehouse was compromised long ago. A first assassination attempt fails messily at the docks. The emotional beat shifts from dread to paranoia: someone inside his old unit is feeding the hunters."
+    },
+    {
+      "n": 3,
+      "title": "What the Drive Remembers",
+      "summary": "Dual POV: Xanthe decrypts fragments of the drive—audio proving Vey was alive after the 'incident,' meaning either the death was staged or the recording is a deepfake built from stolen files. Wren corners him but hesitates, revealing she was on the original detail too and wants the truth more than the payout. The beat is grief curdling into resolve as memory becomes weapon."
+    },
+    {
+      "n": 4,
+      "title": "Extraction at Dawn",
+      "summary": "Alternating POV, converging at the airstrip. The caller offers Xanthe the flight in exchange for the drive intact; his ex-employer offers him survival in exchange for silence. Instead, Xanthe uploads everything mid-runway, letting Wren cover his retreat as the network's own clients turn on it. He misses the flight deliberately. The beat is costly justice—and, for the first time since the incident, sleep."
+    }
+  ]
+}

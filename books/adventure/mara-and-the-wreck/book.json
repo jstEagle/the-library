@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00399",
+  "title": "Mara and the Wreck",
+  "author": "P. M. Kavanagh",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Mirabel Voss, a desert ranger tracking a thief across nothing, carries a compass, a debt, and very little else. But when an expedition upriver stops answering the radio, they discover that staying invisible was never really an option. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 399
+  }
+}

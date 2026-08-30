@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03044",
+  "title": "Beatrix and the Ledger",
+  "author": "C. M. Okafor",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Petra Amberdale, a mapmaker's apprentice finishing the atlas the master died for, has spent seven years learning which silences keep people safe. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and he is pulled straight into the middle of it. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "belonging",
+    "identity",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3044
+  }
+}

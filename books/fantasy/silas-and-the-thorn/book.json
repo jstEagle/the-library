@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01556",
+  "title": "Silas and the Thorn",
+  "author": "Coral Dunmore",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Mirabel Nystrom, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. Now he must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1556
+  }
+}

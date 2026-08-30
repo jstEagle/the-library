@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08322",
+  "title": "The Last Colony Anew",
+  "author": "Wren Joubert",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ulyana Blackwood, a decommissioned war android paying off its debts, records the slow death of a colony everyone else forgot. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. Now they must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8322
+  }
+}

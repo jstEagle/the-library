@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07942",
+  "title": "Freya and the Orbit",
+  "author": "Lena Winterbourne",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Dominic Whitlock, a clone who inherited the original's murder case, records the slow death of a colony everyone else forgot. But when an unfamiliar name shows up on the manifest of a ship that never flew, she discovers that staying invisible was never really an option. To get through this, she must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7942
+  }
+}

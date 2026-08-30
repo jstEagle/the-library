@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03541",
+  "title": "The Sleeping Hymn",
+  "author": "Xanthe Galloway",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Marguerite Amberdale, a radio host taking calls from listeners who died last week, has spent twelve years telling themselves the noises have explanations. Then the excavation crew unearths a door, sealed from the inside — and he is pulled straight into the middle of it. To get through this, he must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3541
+  }
+}

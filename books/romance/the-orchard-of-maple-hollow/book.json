@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06245",
+  "title": "The Orchard of Maple Hollow",
+  "author": "Dominic Almeida",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Beatrix Nystrom, a lighthouse keeper's granddaughter and part-time novelist, has spent five years rebuilding a life measured in small safe steps. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. Now they must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6245
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06018",
+  "title": "Gideon and the Letters",
+  "author": "Ansel Ishikawa",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Rosalind Galloway, a ghostwriter secretly penning a rival's memoirs, has spent twenty years rebuilding a life measured in small safe steps. But when a fake date to survive a family reunion feels too real by dessert, he discovers that staying invisible was never really an option. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6018
+  }
+}

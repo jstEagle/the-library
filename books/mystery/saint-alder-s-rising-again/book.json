@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05695",
+  "title": "Saint Alder's Rising Again",
+  "author": "Odile Sandoval",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Theo Sterling, a small-town coroner who knows every grave by name, prides themselves on never taking a case they can't close. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. To get through this, they must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5695
+  }
+}

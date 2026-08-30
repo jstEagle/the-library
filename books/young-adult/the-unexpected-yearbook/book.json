@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09590",
+  "title": "The Unexpected Yearbook",
+  "author": "Cyrus Ashgrove",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Petra Villalobos, a scholarship student at an academy with too many secrets, stays under the radar: head down, grades up, locker shut. But when the teacher pairs nemesis with nemesis for a semester-long project, he discovers that staying invisible was never really an option. To get through this, he must tell the truth even if it costs the friendship before prom.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9590
+  }
+}

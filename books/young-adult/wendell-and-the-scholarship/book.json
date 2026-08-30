@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09739",
+  "title": "Wendell and the Scholarship",
+  "author": "Wendell Zhou",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Jonah Fairweather, a baker's kid who bakes feelings into bread, has spent fifteen years being so careful it hurts. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, he discovers that staying invisible was never really an option. To get through this, he must expose what the school board buried before the last game of the season.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9739
+  }
+}

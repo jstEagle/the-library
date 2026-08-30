@@ -1,0 +1,209 @@
+{
+  "title": "Vesper and the Parish",
+  "slug": "mystery/vesper-and-the-parish",
+  "model": "stealth/ox-alpha",
+  "premise": "When the coffin of Vesper's founder, Augustin Hale, is found empty during a flood-damage exhumation, insurance investigator Ivo Almeida is pulled into a mystery that predates her arrival in town. Her photographic memory of a decades-old claims file becomes both her greatest asset and a target on her back, as the parish's founding families close ranks around a secret: Hale never died—he vanished, and someone has been signing his name ever since. As Ivo traces alibis woven thirty years ago, she discovers her own late mother was the last person to see Hale alive, forcing her to choose between exposing the truth that will destroy Vesper and protecting the only community that ever felt like home. In the end, Ivo finds Hale alive but dying, extracts his confession, and chooses a third path—publishing the truth while testifying that the town's complicity was born of grief, not malice, allowing Vesper to survive its own history.",
+  "about_author": "Edmund Reyes is a former parish archivist who spent twelve years cataloguing small-town records before turning to fiction. He writes mysteries about the weight of communal memory from a farmhouse he restored with his own hands.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Wet Earth",
+      "summary": "Ivo Almeida, POV. Sent to assess flood damage at St. Brigid's cemetery, Ivo witnesses the exhumation of founder Augustin Hale—and the coffin comes up empty except for river stones. The gravedigger crosses himself; the priest goes pale. Emotional beat: quiet dread beneath professional detachment, the first crack in Ivo's practiced invisibility."
+    },
+    {
+      "n": 2,
+      "title": "A Town That Remembers Everything",
+      "summary": "Ivo, POV. She canvasses the parish office, noting how every resident offers the same polished story of Hale's 1994 funeral. Her photographic memory flags a discrepancy: the death certificate lists a doctor who didn't practice in Vesper until 1996. Beat: unease hardening into resolve as she realizes the lie is institutional, not individual."
+    },
+    {
+      "n": 3,
+      "title": "The File That Shouldn't Exist",
+      "summary": "Ivo, POV. In her company's archive, Ivo recalls a 1994 life-insurance claim on Hale, denied for 'insufficient proof of death'—then mysteriously reversed and paid. The adjuster who handled it was her own mother, Elena Almeida. Beat: vertigo; the case reaches into her past before she ever arrived in Vesper."
+    },
+    {
+      "n": 4,
+      "title": "Tea with the Widow Hale",
+      "summary": "Ivo, POV. She interviews Celeste Hale, the founder's elegant widow, now ninety and sharp as broken glass. Celeste serves tea and deflects every question, but her hands tremble when Ivo mentions the stones in the coffin. Beat: cat-and-mouse courtesy masking mutual recognition of two women who survive by watching."
+    },
+    {
+      "n": 5,
+      "title": "Thirty Years of Signatures",
+      "summary": "Ivo, POV. Reviewing parish ledgers, Ivo discovers documents 'signed' by Hale dated years after his supposed death—each signature subtly different, each witnessed by one of four founding families. Beat: cold clarity; this isn't one crime but a maintained conspiracy with rotating keepers."
+    },
+    {
+      "n": 6,
+      "title": "The Man Who Mows the Cemetery",
+      "summary": "Ivo, POV. Groundskeeper Tomas Reyes (no relation to the author), a taciturn fixture since childhood, warns Ivo off with a story about an investigator in 2001 who left town overnight and never returned. Beat: first explicit threat, delivered as kindness; Ivo's invisibility begins to feel like surveillance."
+    },
+    {
+      "n": 7,
+      "title": "Mother's Handwriting",
+      "summary": "Ivo, POV, with flashback. Sorting her mother's effects, Ivo finds a postcard from Vesper, postmarked three weeks after Hale's death, unsigned but unmistakably Elena's. Flashback reveals Elena took sudden leave in autumn 1994 and came back changed. Beat: grief colliding with suspicion; Ivo can no longer investigate neutrally."
+    },
+    {
+      "n": 8,
+      "title": "The Founders' Dinner",
+      "summary": "Ivo, POV. Invited to the parish's annual founders' dinner, Ivo endures toasts to Hale's legacy while cataloguing who avoids her gaze. Councilman Merrick Voss publicly welcomes her; privately his son Daniel slips her a note: 'Ask about the boathouse.' Beat: the town performs unity while fractures show."
+    },
+    {
+      "n": 9,
+      "title": "The Boathouse",
+      "summary": "Ivo and Daniel Voss, alternating. At the derelict lakeside boathouse, Daniel confesses his father keeps a locked room of Hale-era papers and that Daniel once saw an old man there at dusk. Ivo photographs water-stained floorboards bearing drag marks. Beat: alliance formed in secrecy; hope shadowed by the knowledge that Daniel is betraying his family."
+    },
+    {
+      "n": 10,
+      "title": "What the River Gave Back",
+      "summary": "Sheriff Dana Okafor, POV. A kayaker finds a rusted strongbox in the shallows containing Hale's real dentures and a wedding ring. Sheriff Okafor, under quiet pressure from the council, wants it logged as debris. Ivo insists on chain of custody. Beat: institutional friction; the law itself may be compromised."
+    },
+    {
+      "n": 11,
+      "title": "Alibi: Autumn 1994",
+      "summary": "Ivo, POV. She reconstructs the week of Hale's disappearance from weather records, receipts, and her mother's claim file. Four founding families each provide alibis for each other—too perfect, rehearsed across decades. One gap emerges: nobody accounts for the night of October 9th. Beat: methodical satisfaction turning to frustration at the wall of silence."
+    },
+    {
+      "n": 12,
+      "title": "Celeste Breaks a Cup",
+      "summary": "Ivo, POV. Confronted with the ring, Celeste admits Hale planned to dissolve the parish trust days before his death—a move that would have ruined the four families. Then she stops speaking entirely. Beat: motive revealed, but the widow's silence signals fear deeper than loyalty."
+    },
+    {
+      "n": 13,
+      "title": "The Investigator Who Vanished",
+      "summary": "Ivo, POV. Tracking the 2001 investigator, Ruth Calloway, Ivo finds her living under another name two states away. Ruth's warning: 'They don't hide a body. They hide a man. There's a difference, and it's worse.' Beat: dread reframed—the empty coffin means Hale may still be alive, and someone wants him kept that way or finished."
+    },
+    {
+      "n": 14,
+      "title": "Daniel's Mistake",
+      "summary": "Daniel Voss, POV. Daniel copies his father's key; Merrick notices the missing impression dust. Father and son have a brutal conversation where Merrick neither confirms nor denies anything but makes clear what betrayal costs. Beat: terror inside the conspirator's own house; Daniel commits fully to Ivo out of spite and love."
+    },
+    {
+      "n": 15,
+      "title": "Fire at the Archive",
+      "summary": "Ivo, POV. The county records annex burns overnight; the 1994 claim originals are ash. Ivo's photographic memory is now the only copy of the file in existence—which makes her the evidence. Beat: escalation from obstruction to open war; Ivo understands she can never be invisible again."
+    },
+    {
+      "n": 16,
+      "title": "The Priest's Confession",
+      "summary": "Father Ambrose, POV. The aging pastor, dying of congestive heart failure, summons Ivo. He heard Hale's last confession in 1994 and has kept seal ever since—but he reveals Hale did not die that October. He fled. Why, the seal forbids him to say. Beat: revelation and frustration entwined; the mystery deepens even as it opens."
+    },
+    {
+      "n": 17,
+      "title": "Someone Is Following Me",
+      "summary": "Ivo, POV. After noticing the same gray truck three days running, Ivo sets a trap with decoy notes and identifies her tail: a private investigator retained by the parish trust. She photographs him photographing her. Beat: paranoia sharpening into counter-surveillance competence; Ivo stops being prey."
+    },
+    {
+      "n": 18,
+      "title": "Elena's Postcards",
+      "summary": "Ivo, POV. Following the postcard trail, Ivo learns her mother corresponded with someone in Vesper for years after leaving—postmarked the same rural route where the boathouse stands. Elena wasn't investigating Hale's death. She was paying something. Or someone. Beat: maternal love recast as complicity; Ivo's foundation cracks."
+    },
+    {
+      "n": 19,
+      "title": "The Trust",
+      "summary": "Ivo, POV. Forensic accounting shows the parish trust has disbursed small monthly payments to a Route 9 address since 1995—signed off successively by all four founding families. Someone has been kept for thirty years. Beat: the hypothesis crystallizes into near-certainty; awe at the conspiracy's patience."
+    },
+    {
+      "n": 20,
+      "title": "Merrick Makes an Offer",
+      "summary": "Ivo, POV. Councilman Voss offers Ivo a permanent position, a house, belonging—if she closes her report as flood damage. He speaks warmly of her mother, revealing they knew each other well. Beat: temptation articulated perfectly; belonging offered as the price of silence."
+    },
+    {
+      "n": 21,
+      "title": "What Ivo Remembers",
+      "summary": "Ivo, POV, interior. Alone, Ivo interrogates her own memory: the exact wording of her mother's denial letter, a phrase about 'the arrangement,' a phone call cut short. She realizes Elena discovered Hale was alive and chose to protect him—or was made to. Beat: the investigator turns her gift inward; vulnerability as method."
+    },
+    {
+      "n": 22,
+      "title": "Route 9",
+      "summary": "Ivo and Daniel, POV alternating. They stake out the Route 9 farmhouse and see an elderly man in the garden—Augustin Hale, alive, frail, tended by a nurse. Before they can approach, the gray truck arrives and the nurse hurries Hale inside. Beat: breathless confirmation; the impossible made visible, and immediately threatened."
+    },
+    {
+      "n": 23,
+      "title": "The Nurse",
+      "summary": "Ivo, POV. Ivo tracks the nurse, Marisol, and confronts her gently. Marisol reveals she was hired by Celeste—not to imprison Hale, but because he is dying of dementia and asked, in lucid moments, never to be found. Beat: moral inversion; the captor is a caretaker, the prison a mercy."
+    },
+    {
+      "n": 24,
+      "title": "Why He Ran",
+      "summary": "Marisol and Ivo, POV shared. Through Marisol's account of Hale's lucid episodes: in 1994 Hale discovered the four families were embezzling the trust he'd built for the town. Rather than destroy Vesper with scandal, he staged his death and let them buy his silence with the payments. Beat: tragic grandeur; the founder sacrificed himself to the town's sins."
+    },
+    {
+      "n": 25,
+      "title": "The Empty Coffin Explained",
+      "summary": "Ivo, POV. Reconstructing the staging: Elena Almeida, the young adjuster, verified the death scene and was paid to reverse the denial—her price was the truth, which she carried alone for thirty years. The stones were her addition, a message she hoped someone would someday read. Beat: devastating tenderness; Ivo's mother left her the case like an inheritance."
+    },
+    {
+      "n": 26,
+      "title": "Calloway Returns",
+      "summary": "Ruth Calloway, POV. Ruth, alerted by Ivo's records requests, arrives in town and immediately gets herself arrested on an old warrant—engineered to keep her contained. From the holding cell she tells Ivo: 'They'll offer you everything. Then they'll offer you nothing. Watch for the switch.' Beat: mentorship under duress; the clock begins ticking audibly."
+    },
+    {
+      "n": 27,
+      "title": "The Switch",
+      "summary": "Ivo, POV. Merrick's warmth vanishes: Ivo's company receives fabricated misconduct allegations, her credentials are suspended, and Daniel is disowned publicly. The message is clear—cooperate or be destroyed. Beat: the floor drops out; isolation total, allies scattered, stakes existential."
+    },
+    {
+      "n": 28,
+      "title": "Hale Deteriorates",
+      "summary": "Marisol, POV. Hale's dementia accelerates; in a confused moment he nearly wanders onto the road calling for his wife. Celeste visits secretly, and the old couple's reunion—she pretending to be a nurse, he briefly knowing her—is witnessed by Ivo through a window. Beat: heartbreak; the human cost of thirty preserved years."
+    },
+    {
+      "n": 29,
+      "title": "Daniel's Choice",
+      "summary": "Daniel Voss, POV. Merrick orders Daniel to break into Ivo's motel room and retrieve her copied files. Daniel enters, finds Ivo waiting, and instead hands over his father's ledger—the original embezzlement records from 1994. Beat: defection complete; the son chooses truth over blood at last."
+    },
+    {
+      "n": 30,
+      "title": "The Ledger",
+      "summary": "Ivo, POV. The ledger proves all four families stole from the trust and that Hale knew. It also contains a page in Elena's handwriting: a signed statement she prepared but never filed. Ivo now holds everything—except a living witness able to testify. Beat: triumph shadowed by urgency; documents without a voice may not be enough."
+    },
+    {
+      "n": 31,
+      "title": "They Move Him",
+      "summary": "Ivo, POV. Marisol calls in panic: men are coming to relocate Hale before he dies, to a facility where he'll be unreachable. Ivo races to Route 9 through a storm, arriving to find the farmhouse empty and the gray truck's tracks filling with rain. Beat: peak panic; the race becomes physical, the storm erasing all trails."
+    },
+    {
+      "n": 32,
+      "title": "Where Rivers Meet",
+      "summary": "Ivo, POV. Using her memory of an old parish map, Ivo deduces they've taken Hale to the original Hale homestead at the river confluence—the one place tied to him no one would search. She calls no one. Beat: solitary resolve; the investigator trusts only herself now."
+    },
+    {
+      "n": 33,
+      "title": "The Homestead",
+      "summary": "Ivo, POV. At the homestead, Ivo confronts Merrick and the aging heads of the other families, gathered around the dying founder. Merrick argues they're protecting the town one last time. Ivo answers: 'You buried a living man's name. That's not protection. That's theft.' Beat: verbal climax; every theme—loyalty, truth, belonging—collides in one room."
+    },
+    {
+      "n": 34,
+      "title": "Augustin Speaks",
+      "summary": "Hale and Ivo, POV shared. In a rare lucid hour, Hale asks Ivo if the town still stands. Told it does, he dictates a full confession—naming the embezzlement, his flight, his consent to silence—and signs it with a shaking hand. Then he asks to see the river. Beat: catharsis; the truth finally has its voice, and it is gentle."
+    },
+    {
+      "n": 35,
+      "title": "The Standoff at the Water",
+      "summary": "Ivo, POV. Merrick blocks the door: the confession leaves with none of them. Sheriff Okafor arrives—called anonymously by Daniel—and must choose between the council that employs her and the law she swore to. She arrests Merrick for witness tampering. Beat: action climax; institutions bend toward justice when individuals risk everything."
+    },
+    {
+      "n": 36,
+      "title": "Death of the Founder",
+      "summary": "Celeste and Ivo, POV alternating. Hale dies at dawn with Celeste holding his hand, legally declared dead thirty years late. The four families face charges; two accept plea deals, one patriarch dies before trial, Merrick fights and loses. Beat: elegiac release; grief and accountability arriving together."
+    },
+    {
+      "n": 37,
+      "title": "Elena's Statement, Filed",
+      "summary": "Ivo, POV. Ivo files her mother's thirty-year-old statement alongside her own report, closing the 1994 claim honestly at last. The company reinstates her; she declines, resigning instead. Beat: quiet vindication; the daughter completes the mother's unfinished sentence."
+    },
+    {
+      "n": 38,
+      "title": "What Vesper Decides",
+      "summary": "Multiple townsfolk, POV mosaic. The town reckons publicly: the church reads Hale's confession aloud, the trust is restructured with community oversight, and some families leave in shame while others stay to rebuild. Tomas mows the cemetery around a new headstone with true dates. Beat: communal reckoning; truth wounds and then knits."
+    },
+    {
+      "n": 39,
+      "title": "The Offer of Belonging",
+      "summary": "Ivo, POV. Celeste, executor of Hale's revised will, offers Ivo the archivist position her mother once held—and a cottage on Route 9. Ivo, who came to Vesper invisible, is asked to stay seen. She says yes. Beat: resolution of the belonging theme; visibility chosen freely."
+    },
+    {
+      "n": 40,
+      "title": "Vesper and the Parish",
+      "summary": "Ivo, POV, epilogue. One year later, Ivo tends the parish archive, teaching a young clerk the difference between records and truth. On the anniversary, the whole town fills the church—not to remember a lie, but to mourn a man. Ivo lights two candles: one for Augustin, one for Elena. Final line: 'Memory is a parish too. Someone has to keep it.' Beat: peace earned; the themes resolved into quiet, durable hope."
+    }
+  ]
+}

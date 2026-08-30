@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02533",
+  "title": "The Iron Atlas",
+  "author": "August Joubert",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Sable Oyelaran, an apprentice clockmaker summoned to repair the observatory's master clock, has spent fifteen years learning which silences keep people safe. But when the census taker asks one question too many, they discover that staying invisible was never really an option. Now they must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2533
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Lena and the Static",
+  "slug": "science-fiction/lena-and-the-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Lena Voss has spent six years alone on Relay Station Kestrel, broadcasting maintenance logs to a colony world that stopped answering long ago. When a ghost ship called the Meridian appears on her scopes carrying a passenger who shouldn't exist — a woman named Ada whose memories were written into the ship's static — Lena discovers the colony wasn't destroyed but uploaded, its minds scattered through dead-space interference. Racing a decaying signal that will erase the colonists forever, Lena and Ada must rebuild the relay into an anchor for ten thousand fading minds, and in doing so decide what part of themselves is worth keeping. The story ends with the colony restored in fragmentary form aboard the station: not everyone survives intact, but Lena chooses to stay among them, no longer the last human, no longer quite only human herself.",
+  "about_author": "Yara Hartwell is the pen name of a former radio engineer who spent a decade maintaining remote communications arrays before turning to fiction. Their work explores loneliness at the edge of signal range, where technology becomes both witness and companion.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Six Years of Quiet",
+      "summary": "Lena's POV. A day-in-the-life establishing chapter: Lena repairs antenna couplings, records her log entries addressed to a colony that never replies, and talks to the station's aging AI, KEST. The emotional beat is tender routine masking grief — she maintains the fiction that someone is listening."
+    },
+    {
+      "n": 2,
+      "title": "The Ship That Never Flew",
+      "summary": "Lena's POV. A vessel matching no registry appears at the edge of sensor range: the Meridian, decommissioned before it ever launched. Its manifest lists one passenger, 'Ada Voss.' The beat is dread curdling into vertigo as Lena reads her own surname attached to a stranger."
+    },
+    {
+      "n": 3,
+      "title": "Passenger",
+      "summary": "Alternating POV begins. Lena docks with the derelict and finds Ada — disoriented, remembering a childhood on the colony world Halcyon that ended decades ago. Ada's memories are stored in the ship's corrupted signal core. The beat is wary connection between two people who are each other's only proof of anything."
+    },
+    {
+      "n": 4,
+      "title": "What the Static Remembers",
+      "summary": "Ada's POV. Inside the Meridian's memory banks, Ada relives fragments of Halcyon's final days — not destruction, but a mass upload gone wrong, minds smeared across interference. She realizes she is a copy, or a remainder. The beat is identity horror softened by wonder."
+    },
+    {
+      "n": 5,
+      "title": "The Dying Signal",
+      "summary": "Lena's POV. KEST detects the scattered colony-minds degrading; within weeks the pattern will dissolve below recoverable threshold. Lena calculates they must physically reposition the relay to catch the signal. The beat is resolve hardening — grief converted into a mission with a deadline."
+    },
+    {
+      "n": 6,
+      "title": "Dead Space",
+      "summary": "Alternating POV. The two pilot the Meridian toward the interference zone, navigating debris and failing systems. Ada experiences the static directly — voices brushing her mind — while Lena confronts how much she resents sharing her solitude. The beat is intimacy forged under pressure, and first real conflict."
+    },
+    {
+      "n": 7,
+      "title": "Ada Voss",
+      "summary": "Ada's POV. Ada reveals why the name matches Lena's: the upload used genetic and relational data from colony records, and Lena's family was among the first uploaded. Ada may be built partly from Lena's lost sister. The beat is betrayal, then reluctant forgiveness — found family means choosing, not inheriting."
+    },
+    {
+      "n": 8,
+      "title": "Anchor Point",
+      "summary": "Alternating POV. They reach the interference heart and begin converting the relay into a receiver-anchor for the colony-minds, but the process requires a living neural template to hold the pattern stable. The beat is sacrifice looming: someone must serve as the anchor, possibly permanently."
+    },
+    {
+      "n": 9,
+      "title": "The Weight of Ten Thousand Voices",
+      "summary": "Climax, alternating POV. As the upload begins, the anchor process overwhelms Ada, and Lena jacks in beside her, sharing the load. Inside the static they meet the colony — brief, luminous contact with thousands of minds, including fragments of Lena's family. The beat is overwhelming love and near-loss."
+    },
+    {
+      "n": 10,
+      "title": "Signal Found",
+      "summary": "Lena's POV, coda. Weeks later, the station hums with restored, fragmentary lives; some colonists wake whole, others remain echoes. Ada persists, changed, neither sister nor stranger. Lena updates her log one last time — addressed now to people who answer. The beat is quiet joy: alone no longer, and glad of what she became to end it."
+    }
+  ]
+}

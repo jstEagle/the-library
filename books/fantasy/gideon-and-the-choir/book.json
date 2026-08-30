@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01332",
+  "title": "Gideon and the Choir",
+  "author": "Isandro Brightwater",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Jude Yarrow, a mercenary sworn to a god that went silent, has spent fifteen years selling small charms in a city that outlawed magic. Then the border wards fall on the same night the stars go out — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1332
+  }
+}

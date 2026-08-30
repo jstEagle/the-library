@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00729",
+  "title": "The Burning Hollow",
+  "author": "L. M. Halloran",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Ansel Lockridge, a thief who steals memories, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 729
+  }
+}

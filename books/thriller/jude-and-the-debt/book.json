@@ -1,0 +1,21 @@
+{
+  "id": "THR-09372",
+  "title": "Jude and the Debt",
+  "author": "Mara Thackeray",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Sable Nakamura, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. To get through this, they must extract a defector who may be the bait before the border checkpoint shifts change.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9372
+  }
+}

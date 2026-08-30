@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07973",
+  "title": "Gravity and Machine",
+  "author": "Wren Nystrom",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Tamsin Whitlock, a starship navigator haunted by the backups sleeping in the hold, has spent twelve years hauling cargo through contested orbits. But when a ship returns from deep space with everyone aboard aged backward, she discovers that staying invisible was never really an option. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7973
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05307",
+  "title": "When the Verdict Falls",
+  "author": "V. M. Nystrom",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Sebastian Brightwater, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. But when a body turns up dressed in clothes stolen from the witness's own closet, she discovers that staying invisible was never really an option. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5307
+  }
+}

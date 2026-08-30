@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01919",
+  "title": "Spire and Wolf Revisited",
+  "author": "Coral Ishikawa",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Yara Marchetti, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1919
+  }
+}

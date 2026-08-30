@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00670",
+  "title": "A Passage for the Wreck",
+  "author": "Sebastian Marchetti",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Kestrel Lockridge, a railroad engineer with a map of closed lines, keeps moving because stopping costs more. But when the tide reveals a cave that legends charge admission to, they discover that staying invisible was never really an option. To get through this, they must cross the range ahead of the snows before the monsoon makes landfall.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 670
+  }
+}

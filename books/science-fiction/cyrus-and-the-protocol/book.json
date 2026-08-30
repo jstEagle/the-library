@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07333",
+  "title": "Cyrus and the Protocol",
+  "author": "Astrid Blackwood",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Dominic Halloran, a starship navigator haunted by the backups sleeping in the hold, records the slow death of a colony everyone else forgot. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. Now she must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7333
+  }
+}

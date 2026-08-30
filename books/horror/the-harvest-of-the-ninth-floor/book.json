@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03197",
+  "title": "The Harvest of the Ninth Floor",
+  "author": "August Sterling",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Paloma Ishikawa, the new teacher at a school with a missing-class problem, has spent seven years telling themselves the noises have explanations. Then all the photographs from grandma's house now include an extra chair — and they are pulled straight into the middle of it. Now they must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3197
+  }
+}

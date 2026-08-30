@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05252",
+  "title": "A Witness for the Autopsy",
+  "author": "Felix Kavanagh",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Rafael Dunmore, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, they discover that staying invisible was never really an option. To get through this, they must decode a ledger hidden in plain sight before the tide gives up what it took.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5252
+  }
+}

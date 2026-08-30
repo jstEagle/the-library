@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04892",
+  "title": "When the Inheritance Sings",
+  "author": "Ada Blackwood",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ivo Brightwater, a retired detective running a failing bookshop, thought they had seen every way a life can end. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4892
+  }
+}

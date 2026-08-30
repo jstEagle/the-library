@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00606",
+  "title": "Freya and the Compass",
+  "author": "Yara Whitlock",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Lior Dunmore, a mountain guide blacklisted from two countries, knows the wilderness forgives nothing and forgets less. Then the river gives up a chest stamped with a dead nation's seal — and he is pulled straight into the middle of it. To get through this, he must beat the salvage fleet to the wreck by six tides before the monsoon makes landfall.",
+  "themes": [
+    "identity",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 606
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09177",
+  "title": "Coral and the Contact",
+  "author": "Ivo Winterbourne",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Kestrel Halloran, a hostage negotiator with one failure still on the board, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. To get through this, she must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9177
+  }
+}

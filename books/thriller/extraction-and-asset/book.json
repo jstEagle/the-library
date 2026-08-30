@@ -1,0 +1,21 @@
+{
+  "id": "THR-08568",
+  "title": "Extraction and Asset",
+  "author": "Wendell Underhill",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Lena Dunmore, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and she is pulled straight into the middle of it. Now she must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8568
+  }
+}

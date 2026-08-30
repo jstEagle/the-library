@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05389",
+  "title": "The Final Confession",
+  "author": "Cyrus Reyes",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Kestrel Ashgrove, a hotel concierge who notices everything, thought they had seen every way a life can end. Then a body turns up dressed in clothes stolen from the witness's own closet — and she is pulled straight into the middle of it. To get through this, she must decode a ledger hidden in plain sight before the statute expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5389
+  }
+}

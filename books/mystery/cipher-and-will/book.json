@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05118",
+  "title": "Cipher and Will",
+  "author": "Wren Kavanagh",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Dominic Joubert, an estate lawyer reading a will that shouldn't exist, has spent twelve years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. To get through this, they must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "belonging",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5118
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09941",
+  "title": "Homecoming and Playlist",
+  "author": "Emrys Sterling",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Elodie Hartwell, a coder whose anonymous account knows too much, counts days until graduation like a sentence being served. But when a group chat starts predicting things that haven't happened yet, she discovers that staying invisible was never really an option. Now she must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9941
+  }
+}

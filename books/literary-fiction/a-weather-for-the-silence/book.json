@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04101",
+  "title": "A Weather for the Silence",
+  "author": "Rafael Brightwater",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Wren Brightwater, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the house sale closes.",
+  "themes": [
+    "memory",
+    "found family",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4101
+  }
+}

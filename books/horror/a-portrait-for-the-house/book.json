@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03495",
+  "title": "A Portrait for the House",
+  "author": "Rosalind Coldharbour",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Silas Yarrow, a property surveyor appraising a house that appraises back, documents everything, because documentation is a kind of prayer. But when the excavation crew unearths a door, sealed from the inside, they discover that staying invisible was never really an option. To get through this, they must finish the ritual the founders started before the last resident signs the papers.",
+  "themes": [
+    "belonging",
+    "memory",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3495
+  }
+}

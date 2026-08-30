@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03192",
+  "title": "The Portrait of the Ninth Floor",
+  "author": "Rafael Ashgrove",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ada Sterling, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. Then every mirror in the house starts reflecting the room one second late — and she is pulled straight into the middle of it. To get through this, she must get the family out ahead of the count before the last resident signs the papers.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3192
+  }
+}

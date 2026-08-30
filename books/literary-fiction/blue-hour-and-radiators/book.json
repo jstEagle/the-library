@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04241",
+  "title": "Blue Hour and Radiators",
+  "author": "Cyrus Fairweather",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Beatrix Lockridge, a letter-writer sending postcards to an address that burned down years ago, has spent three years practicing the art of almost saying it. Then a song on the radio is one that was written and never recorded — and he is pulled straight into the middle of it. To get through this, he must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4241
+  }
+}

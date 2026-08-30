@@ -1,0 +1,59 @@
+{
+  "title": "The Echo of the Deep Anew",
+  "slug": "science-fiction/the-echo-of-the-deep-anew",
+  "model": "stealth/ox-alpha",
+  "premise": "Odile Yarrow has spent eleven years alone on Relay Station Kestrel, maintaining a beacon whose original orders were scrubbed from every archive — and losing her human dreams to the alien signal patterns she deciphers nightly. When a ghost ship's manifest surfaces bearing her own dead sister's name, Odile discovers the beacon is not a listening post but a countdown: a message from an extinct alien civilization that both warring factions of humanity will kill to control. As fleets converge on Kestrel, she must choose between transmitting the truth — which will shatter the fragile armistice's foundation — or destroying it, which will let the war grind on. In the end, Odile broadcasts the message in a hybrid language only she can speak, forcing both sides to hear it as one species, and pays for survival with her identity, becoming the beacon herself.",
+  "about_author": "Edmund Thornbury is the pen name of a former maritime radio operator who spent a decade on remote North Atlantic stations before turning to fiction. His work explores isolation, language, and the strange intimacy of voices carried across vast distances.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Frequency",
+      "summary": "Odile Yarrow's POV. We meet her on Relay Station Kestrel: routines, the beacon she maintains for unknown masters, and her growing inability to dream in any human tongue. A supply drone arrives with routine cargo — but its manifest lists a ship that was decommissioned before the war began, carrying a passenger named Maren Yarrow, Odile's sister, who died six years ago. Beat: unease beneath stillness."
+    },
+    {
+      "n": 2,
+      "title": "Manifest of Ghosts",
+      "summary": "Odile digs into the drone's routing data and finds the manifest was injected from inside the station's own network — someone or something used her uplink while she slept. Her AI companion, Tally, insists no breach occurred. That night, Odile dreams coherently for the first time in years: in her sister's voice. Beat: dread sharpening into obsession."
+    },
+    {
+      "n": 3,
+      "title": "What the Beacon Remembers",
+      "summary": "Odile pries into the beacon's sealed command layer and finds a buried transmission queue addressed not to Earth but to two separate fleet commands — one Union, one Concordat — scheduled to auto-decrypt in nineteen days. The message is from the Vessh, the extinct aliens whose ruins dot the system. Beat: the vertigo of realizing her invisible job was always central."
+    },
+    {
+      "n": 4,
+      "title": "The Man Who Wasn't There",
+      "summary": "A Union salvage vessel docks unannounced; its lone officer, Commander Idris Vale, claims he's been sent to 'audit' the relay. Odile recognizes his ship as the ghost from the manifest. Vale is charming, evasive, and clearly knows more about Maren than he admits. POV alternates briefly to Vale, revealing his orders: retrieve the message, silence the linguist if necessary. Beat: cat-and-mouse begins."
+    },
+    {
+      "n": 5,
+      "title": "Dreams in Dead Tongues",
+      "summary": "Odile decodes fragments of the queued message using the dream-language she's absorbed: the Vessh didn't die out — they were exterminated by their own war machines after they built something that could end all conflict by erasing the capacity for deception. The message contains its activation key. Beat: loyalty vs. truth crystallizes — this knowledge could save or doom humanity."
+    },
+    {
+      "n": 6,
+      "title": "Nineteen Days",
+      "summary": "Vale confronts Odile with the truth of his mission and an offer: come with him, hand over the key, live comfortably under Union protection. He reveals Maren worked on the beacon project and sabotaged it before dying — the manifest was her failsafe, reaching for her sister. Odile refuses but doesn't report him. Beat: betrayal and kinship tangled together."
+    },
+    {
+      "n": 7,
+      "title": "The Concordat Arrives",
+      "summary": "A Concordat strike team breaches the station, hunting the same key. In the firefight, Tally sacrifices itself to shield the core, and Vale — unexpectedly — fights alongside Odile, his loyalty shifting from flag to person. They escape into the station's deep maintenance levels with the strike team sealing the exits behind them. Beat: alliances forged under fire; the cost of survival mounts."
+    },
+    {
+      "n": 8,
+      "title": "Maren's Failsafe",
+      "summary": "In the lower vaults, Odile finds her sister's hidden workshop and a recorded confession: Maren discovered the message years ago and split the decryption key between the beacon and her own mind, dying before she could pass it on — except through the dream-language she seeded into Odile during childhood visits. Odile realizes she is the second half of the key. Beat: grief transmuted into purpose."
+    },
+    {
+      "n": 9,
+      "title": "The Broadcast",
+      "summary": "Climax. Both fleets arrive in orbit, weapons hot, each blaming the other for the station's silence. Odile, guided by Vale holding off boarders, transmits the full Vessh message in her hybrid tongue — comprehensible to both sides simultaneously, undeniable proof that the war's founding atrocity was fabricated by arms manufacturers on both sides. Fleets stall mid-attack. Beat: the truth detonates; everything changes at once."
+    },
+    {
+      "n": 10,
+      "title": "Echo",
+      "summary": "Resolution. The armistice collapses into something stranger — joint investigation, shared outrage, an uneasy peace built on exposed lies. Odile, now famous and hunted by both old regimes, chooses exile aboard a neutral survey ship, carrying the Vessh archive outward. She dreams, finally, in a language that is entirely her own. Beat: bittersweet freedom — survival purchased with the self she was."
+    }
+  ]
+}

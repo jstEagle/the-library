@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06567",
+  "title": "A Promise for the Bakery",
+  "author": "Kestrel Pemberton",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Jonah Quintana, a cellist recovering from one catastrophic final performance, swears the heart is a muscle like any other: trainable, containable. But when the person behind a decade of letters moves in next door, he discovers that staying invisible was never really an option. To get through this, he must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6567
+  }
+}

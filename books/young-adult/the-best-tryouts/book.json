@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09834",
+  "title": "The Best Tryouts",
+  "author": "C. M. Coldharbour",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Isandro Crane, the eldest sibling raising the younger ones while mom works nights, has spent fifteen years being so careful it hurts. But when the college essay prompt asks one honest question nobody can stop answering, they discover that staying invisible was never really an option. Now they must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9834
+  }
+}

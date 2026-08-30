@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07837",
+  "title": "Oscar and the Vector",
+  "author": "Paloma Yarrow",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Kestrel Hartwell, a xenolinguist who can no longer dream in human languages, runs the long route between worlds that no longer speak. Then the station AI begins confessing to crimes nobody reported — and she is pulled straight into the middle of it. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7837
+  }
+}

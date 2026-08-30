@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04869",
+  "title": "The Missing Portrait",
+  "author": "Noor Quintana",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Petra Whitlock, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4869
+  }
+}

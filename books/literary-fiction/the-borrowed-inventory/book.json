@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04539",
+  "title": "The Borrowed Inventory",
+  "author": "Sebastian Yarrow",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Wren Marchetti, a restaurant critic who has forgotten how food tastes, has spent five years practicing the art of almost saying it. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. To get through this, they must ask the question the whole family arranged itself around before the house sale closes.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4539
+  }
+}

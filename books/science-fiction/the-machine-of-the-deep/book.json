@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07322",
+  "title": "The Machine of the Deep",
+  "author": "Bram Ishikawa",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.6,
+  "blurb": "Edmund Thornbury, a decommissioned war android paying off its debts, has spent ten years hauling cargo through contested orbits. But when a ship returns from deep space with everyone aboard aged backward, she discovers that staying invisible was never really an option. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7322
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08824",
+  "title": "Contact and Safehouse",
+  "author": "Bram Winterbourne",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Beatrix Kavanagh, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and he is pulled straight into the middle of it. To get through this, he must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8824
+  }
+}

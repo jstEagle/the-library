@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09704",
+  "title": "Group Chat and Mixtape",
+  "author": "Ada Thackeray",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Coral Halloran, the eldest sibling raising the younger ones while mom works nights, is fine. Everything is fine. Obviously.. But when the college essay prompt asks one honest question nobody can stop answering, they discover that staying invisible was never really an option. Now they must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9704
+  }
+}

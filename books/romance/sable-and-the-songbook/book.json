@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06475",
+  "title": "Sable and the Songbook",
+  "author": "Sable Almeida",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Isandro Galloway, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the festival ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6475
+  }
+}

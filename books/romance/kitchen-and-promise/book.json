@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06298",
+  "title": "Kitchen and Promise",
+  "author": "Noor Iversen",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Emrys Brightwater, a wedding planner who doesn't believe in weddings anymore, has spent three years rebuilding a life measured in small safe steps. But when a lost letter surfaces, postmarked eleven years ago, she discovers that staying invisible was never really an option. To get through this, she must forgive the person in the mirror first before the last ferry of the season departs.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6298
+  }
+}

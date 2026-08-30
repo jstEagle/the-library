@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06912",
+  "title": "Yara and the Summer",
+  "author": "Dominic Fairweather",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Ulyana Dravenmoor, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the vineyard's first harvest comes in.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6912
+  }
+}

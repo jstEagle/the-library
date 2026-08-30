@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06409",
+  "title": "The Second Bakery",
+  "author": "Yara Kavanagh",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Ivo Almeida, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. To get through this, they must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6409
+  }
+}

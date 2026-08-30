@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06508",
+  "title": "Mara and the Summer",
+  "author": "Ada Nystrom",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Noor Dravenmoor, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. But when the anonymous pen-pal assignment pairs enemies instead of strangers, he discovers that staying invisible was never really an option. Now he must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6508
+  }
+}

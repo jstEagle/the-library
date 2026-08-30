@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04479",
+  "title": "The Interior of the old quarter",
+  "author": "Orsen Whitlock",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Paloma Villalobos, a bridge inspector measuring the marriage in expansion joints, moves through the days like a tenant, not an owner. But when a song on the radio is one that was written and never recorded, he discovers that staying invisible was never really an option. To get through this, he must forgive the stranger in the old photographs before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4479
+  }
+}

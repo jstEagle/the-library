@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00204",
+  "title": "Ada and the Current",
+  "author": "Gideon Hartwell",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Paloma Kavanagh, a bush pilot flying medicine and rumors into the interior, carries a compass, a debt, and very little else. But when a government survey team vanishes, leaving gear and no tracks, she discovers that staying invisible was never really an option. Now she must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 204
+  }
+}

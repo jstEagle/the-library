@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04397",
+  "title": "A Postcards for the Weather",
+  "author": "Ivo Ashgrove",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Kestrel Nakamura, a restaurant critic who has forgotten how food tastes, has perfected the smile that ends conversations. Then the last speaker of a language asks for one final student — and she is pulled straight into the middle of it. Now she must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4397
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04975",
+  "title": "Ashcombe Rising",
+  "author": "E. M. Whitlock",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Oscar Villalobos, a night-shift dispatcher for a taxi company, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. Now they must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4975
+  }
+}

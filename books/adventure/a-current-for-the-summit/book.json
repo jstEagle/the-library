@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00473",
+  "title": "A Current for the Summit",
+  "author": "C. M. Crane",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ada Okonkwo, a storm chaser who owes money to dangerous optimists, knows the wilderness forgives nothing and forgets less. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 473
+  }
+}

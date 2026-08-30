@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01400",
+  "title": "Mirabel and the Sigil",
+  "author": "Casper Kavanagh",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Ada Ashgrove, the youngest member of a dying guild, has never left the valley where magic cannot follow. Then a dying stranger presses a map into unwilling hands — and she is pulled straight into the middle of it. Now she must steal back a soul sold to the court beneath the mountain, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1400
+  }
+}

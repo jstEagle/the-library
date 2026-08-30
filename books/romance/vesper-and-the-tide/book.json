@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06715",
+  "title": "Vesper and the Tide",
+  "author": "Ivo Marchetti",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 3.7,
+  "blurb": "Vesper Pemberton, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. But when the person behind a decade of letters moves in next door, she discovers that staying invisible was never really an option. Now she must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6715
+  }
+}

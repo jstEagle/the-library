@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05218",
+  "title": "Ledger and Verdict",
+  "author": "B. M. Quintana",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.6,
+  "blurb": "Jude Fairweather, a true-crime podcaster chasing the coldest case on record, has quietly solved three deaths the police called accidents. Then the town's beloved founder is exhumed and the coffin is empty — and he is pulled straight into the middle of it. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5218
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09528",
+  "title": "Westbrook High Rising",
+  "author": "Vesper Whitlock",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Jonah Underhill, the team's statistician who knows the game is rigged, counts days until graduation like a sentence being served. But when the teacher pairs nemesis with nemesis for a semester-long project, she discovers that staying invisible was never really an option. Now she must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9528
+  }
+}

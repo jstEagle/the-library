@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04484",
+  "title": "Aftermath and Undertow",
+  "author": "Mara Zhou",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Yara Delacroix, a former prodigy returning to the conservatory as a janitor, has spent twelve years practicing the art of almost saying it. But when a childhood home goes up for auction, she discovers that staying invisible was never really an option. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4484
+  }
+}

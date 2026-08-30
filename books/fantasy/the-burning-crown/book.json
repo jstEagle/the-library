@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01448",
+  "title": "The Burning Crown",
+  "author": "Mirabel Okonkwo",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Casper Reyes, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1448
+  }
+}

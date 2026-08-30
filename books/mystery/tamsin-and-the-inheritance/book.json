@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05714",
+  "title": "Tamsin and the Inheritance",
+  "author": "Lena Crane",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 5.0,
+  "blurb": "Quentin Okonkwo, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. To get through this, he must find the witness everyone swears is dead before the trial begins.",
+  "themes": [
+    "power and its corruption",
+    "memory",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5714
+  }
+}

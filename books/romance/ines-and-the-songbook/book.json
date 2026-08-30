@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06705",
+  "title": "Ines and the Songbook",
+  "author": "Petra Oyelaran",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Silas Dravenmoor, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, they discover that staying invisible was never really an option. To get through this, they must say the sentence that has been rehearsed for a decade before the vineyard's first harvest comes in.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6705
+  }
+}

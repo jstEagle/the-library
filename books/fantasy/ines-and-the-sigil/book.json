@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01305",
+  "title": "Ines and the Sigil",
+  "author": "Juniper Okafor",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Orsen Vane, a mercenary sworn to a god that went silent, has spent five years selling small charms in a city that outlawed magic. Then the old gods begin answering prayers again — and she is pulled straight into the middle of it. To get through this, she must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1305
+  }
+}

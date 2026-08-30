@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05359",
+  "title": "The Missing Letter",
+  "author": "Lior Reyes",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Sebastian Joubert, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. But when a body turns up dressed in clothes stolen from the witness's own closet, they discover that staying invisible was never really an option. To get through this, they must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5359
+  }
+}

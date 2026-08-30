@@ -1,0 +1,209 @@
+{
+  "title": "Deadline and Drop",
+  "slug": "thriller/deadline-and-drop",
+  "model": "stealth/ox-alpha",
+  "premise": "Ansel Kavanagh, a disgraced financial-crimes investigator hiding under a new identity after a raid that killed her partner, is pulled back in when a routine voiceprint check unlocks a dead man's encrypted server in Reykjavik. The server contains proof that the 'clean money' she once laundered for the state was actually a slush fund run by her former mentor, Deputy Director Corin Voss, who ordered the raid that killed her partner. As Voss's cleaners close in, Ansel must decide whether to trade the server's contents to a journalist whose life depends on her silence—or to the federal prosecutor who can end Voss but will expose Ansel's own crimes. In the end, she splits the truth: gives the prosecutor enough to destroy Voss's network while leaking the full archive publicly, sacrificing her anonymity and accepting arrest as the price of justice.",
+  "about_author": "Ivo Nystrom is the pen name of a former compliance analyst who spent six years tracing money through Baltic shell companies before walking away to write. They live near a fjord, keep irregular hours, and claim their best plot ideas arrive at 3 a.m., fully dressed.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Ledger",
+      "summary": "Ansel's POV. Two years into her new life auditing a sleepy credit union, insomnia and ritual routines show a woman managing fear like a balance sheet. A late-night anomaly—a voiceprint match flagged on an account opened by a dead man—cracks her composure. Beat: fragile calm before the fall."
+    },
+    {
+      "n": 2,
+      "title": "Voice of a Ghost",
+      "summary": "Ansel replays the voiceprint: it belongs to Tomas Reiner, her partner who died in the botched raid. The flag originated from a server in Reykjavik that only activates with his voice. She tells herself to walk away; instead she books a flight. Beat: denial curdling into compulsion."
+    },
+    {
+      "n": 3,
+      "title": "Cold Harbor",
+      "summary": "Reykjavik, Ansel's POV. She finds the server farm, uses a stored voice sample of Tomas from an old voicemail to unlock a partial directory. The files reference 'MERIDIAN'—the operation she thought she understood. Someone watches her leave. Beat: dread disguised as triumph."
+    },
+    {
+      "n": 4,
+      "title": "The Man Who Counts",
+      "summary": "Voss's POV, first time. In Washington, Deputy Director Corin Voss learns of the Reykjavik access within hours and orders a 'hygiene team' deployed—not to recover data but to erase people. His affection for Ansel is genuine and monstrous. Beat: the predator's patience."
+    },
+    {
+      "n": 5,
+      "title": "Clean Money",
+      "summary": "Ansel decodes fragments: MERIDIAN moved billions through sanctioned banks using warrants she helped draft. Her old casework wasn't sloppy—it was designed. Flashbacks to Tomas's last call. Beat: guilt restructured as evidence."
+    },
+    {
+      "n": 6,
+      "title": "The Journalist's Bargain",
+      "summary": "Ansel contacts Edda Sólveig, an exiled Icelandic journalist who once published MERIDIAN's edges and lost everything. Edda offers publication in exchange for exclusive access—but warns that going public paints a target. Beat: alliance born of mutual damage."
+    },
+    {
+      "n": 7,
+      "title": "Hygiene",
+      "summary": "Cleaner-team POV (leader: Marek). Marek's crew arrives in Reykjavik, sweeps Ansel's hotel, finds her alias thread. Professional, unhurried, chilling. They miss her by ninety minutes. Beat: the hunt begins without a sound."
+    },
+    {
+      "n": 8,
+      "title": "Dead Drop Protocol",
+      "summary": "Ansel and Edda set up a dead-drop system and mirror the server before it can be wiped. Ansel realizes the archive includes a file labeled with her own name: KAVANAGH_FINAL. Beat: curiosity versus self-preservation."
+    },
+    {
+      "n": 9,
+      "title": "What Tomas Left",
+      "summary": "Ansel opens Tomas's personal folder: recordings proving he discovered MERIDIAN weeks before the raid—and that Voss knew the raid would be lethal. Grief hits like a physical blow. Beat: mourning weaponized."
+    },
+    {
+      "n": 10,
+      "title": "The Prosecutor",
+      "summary": "Washington, alternating POVs. Federal prosecutor Dana Okafor, running a quiet probe into Voss, receives an anonymous ping from Ansel's cutout. Dana is principled, ambitious, and offers the only legal path—but demands everything, including Ansel's testimony and surrender. Beat: the law as both refuge and trap."
+    },
+    {
+      "n": 11,
+      "title": "Loyalty Audit",
+      "summary": "Ansel's POV. She weighs Edda's public leak against Dana's prosecution. Leaking protects the truth but not the conviction; testifying convicts Voss but exposes her own laundering. Insomnia deepens. Beat: the central dilemma sharpened."
+    },
+    {
+      "n": 12,
+      "title": "Marek Finds the Thread",
+      "summary": "Marek traces the credit-union connection back to Ansel's alias. He reports to Voss: subject located, recommend quiet termination. Voss hesitates—one night only—then signs off. Beat: the clock starts."
+    },
+    {
+      "n": 13,
+      "title": "Night Train to Hamburg",
+      "summary": "Ansel flees Iceland for Hamburg where MERIDIAN's banker, Ilse Brandt, keeps paper originals. Edda stays behind as decoy. On the train, Ansel spots a tail and executes a brutal, improvised escape. Beat: hunted adrenaline."
+    },
+    {
+      "n": 14,
+      "title": "Ilse's Price",
+      "summary": "Ilse, dying of cancer and unafraid, trades the paper trail for one thing: Ansel must name, on record, the American official who threatened her bank. Ansel realizes naming Voss makes her a witness—and a corpse-in-waiting. Beat: courage has a cost curve."
+    },
+    {
+      "n": 15,
+      "title": "Edda Taken",
+      "summary": "Edda's POV, brief and desperate. Marek's team takes her in Reykjavik, along with her laptop—the mirrored archive copy. Edda stalls under interrogation, giving nothing but buying Ansel time. Beat: loyalty tested by force."
+    },
+    {
+      "n": 16,
+      "title": "The Exchange Offer",
+      "summary": "Voss calls Ansel directly, voice warm as ever: Edda for the archive. He reminds her what happened to Tomas when he chose truth. Ansel records the call. Beat: love against duty—Voss was her mentor, almost family."
+    },
+    {
+      "n": 17,
+      "title": "Dana's Ultimatum",
+      "summary": "Dana, spooked by Ansel's illegality, threatens to charge her unless she surrenders the archive immediately and testifies. Ansel counters: Edda first, then testimony. Trust frays on both sides. Beat: allies as adversaries."
+    },
+    {
+      "n": 18,
+      "title": "Ghost Protocol",
+      "summary": "Ansel builds a third copy of the archive hidden inside a legitimate financial filing—an accountant's trick from her old life. If she dies, it publishes automatically. Beat: agency reclaimed through craft."
+    },
+    {
+      "n": 19,
+      "title": "The Safehouse Lie",
+      "summary": "Dana arranges a safehouse meet in Berlin. It's compromised—leaked from inside the prosecutor's office. Ansel escapes through service tunnels, wounded, realizing someone near Dana serves Voss. Beat: paranoia justified."
+    },
+    {
+      "n": 20,
+      "title": "Blood and Bandages",
+      "summary": "Ansel patches herself up in a Turkish bathhouse, tended by an old informant, Yusuf. Fever-dream flashbacks reconstruct the raid: she fired no shot, but her false ledger got Tomas killed. Beat: reckoning with complicity."
+    },
+    {
+      "n": 21,
+      "title": "Marek's Doubt",
+      "summary": "Marek's POV. Reviewing the file, he realizes the 'threat' he's hunting is a whistleblower and the target list includes a journalist. His partner wants Edda disappeared permanently. Marek begins keeping his own insurance file. Beat: the instrument develops a conscience."
+    },
+    {
+      "n": 22,
+      "title": "Trading Secrets",
+      "summary": "Ansel meets Marek covertly—he offers Edda's location in exchange for a copy of the archive as his own leverage against Voss. Ansel must trust the man sent to kill her. Beat: enemies negotiating in good faith."
+    },
+    {
+      "n": 23,
+      "title": "The Warehouse",
+      "summary": "Rescue op at a Baltic coast warehouse. Ansel goes herself rather than wait. Things go wrong; Marek turns on his own team to save them both. Edda is freed; Marek is gravely wounded. Beat: action climax of the middle act."
+    },
+    {
+      "n": 24,
+      "title": "Aftermath Arithmetic",
+      "summary": "Safehouse, three survivors counting costs. Edda, furious at being used as bait, nearly walks—then sees Tomas's recordings and commits fully. Ansel finally sleeps two hours. Beat: broken coalition reforged by shared truth."
+    },
+    {
+      "n": 25,
+      "title": "Voss Cleans House",
+      "summary": "Voss's POV. With Marek flipped and the archive loose, Voss burns MERIDIAN's outer layers, sacrifices subordinates, and prepares a counter-narrative painting Ansel as a rogue embezzler. Beat: the machine defends itself."
+    },
+    {
+      "n": 26,
+      "title": "The Frame",
+      "summary": "News breaks: ANSEL KAVANAGH WANTED—embezzlement, murder of Tomas Reiner. Her face everywhere. Dana's office leaks suggest even the prosecutor believes it. Beat: isolation at maximum."
+    },
+    {
+      "n": 27,
+      "title": "Dana's Crisis",
+      "summary": "Dana's POV. Cross-checking Ansel's filings against the frame, she finds the planted evidence too neat—and identifies her own leaker: her deputy, Renn. She must choose career or conscience. Beat: duty realigns with truth."
+    },
+    {
+      "n": 28,
+      "title": "Renn's Confession",
+      "summary": "Dana confronts Renn; he confesses to years of feeding Voss information, believing he was protecting the institution. Dana flips him—his testimony corroborates Ansel. Beat: institutional rot exposed from within."
+    },
+    {
+      "n": 29,
+      "title": "The Public Option",
+      "summary": "Ansel, Edda, and Dana align on a two-track plan: Dana prosecutes with the admissible core; Edda publishes everything simultaneously so Voss can't disappear witnesses. Ansel insists on including her own crimes. Beat: justice outside the law, in service of the law."
+    },
+    {
+      "n": 30,
+      "title": "One Last Call",
+      "summary": "Ansel calls Voss, plays back his threat recording, and tells him the deadline: publish at 06:00 GMT. He offers her everything—pardon, money, her old life back—if she destroys the archive. She hears, for one moment, the mentor she loved. Then declines. Beat: love against duty resolved."
+    },
+    {
+      "n": 31,
+      "title": "Six A.M.",
+      "summary": "Publication day. Edda's outlet releases the full MERIDIAN archive; markets shudder; arrests begin across four countries. Voss's hygiene teams stand down mid-operation, orders rescinded. Beat: catharsis at scale."
+    },
+    {
+      "n": 32,
+      "title": "The Hearing",
+      "summary": "Closed congressional hearing. Ansel testifies for nine hours, admitting her laundering, naming names, surrendering the final copy. Voss's counsel dismantles nothing; the recordings hold. Beat: truth as endurance."
+    },
+    {
+      "n": 33,
+      "title": "Voss Unbound",
+      "summary": "Voss, indicted, attempts escape via a private airfield—Marek, from a hospital bed, tips the marshals. Voss is taken quietly, dignity intact, which is somehow worse. Beat: the predator caged without spectacle."
+    },
+    {
+      "n": 34,
+      "title": "Plea",
+      "summary": "Ansel pleads guilty to three counts. Dana argues for leniency citing cooperation; the judge weighs Tomas's death against her service. Sentence: five years, suspended to eighteen months. Beat: justice imperfect but real."
+    },
+    {
+      "n": 35,
+      "title": "Eighteen Months",
+      "summary": "Compressed montage-chapter, Ansel's POV: prison routine, letters from Edda, visits from Dana, Marek's recovery updates. She sleeps through the night for the first time since the incident. Beat: penance as peace."
+    },
+    {
+      "n": 36,
+      "title": "Release Papers",
+      "summary": "Ansel walks out with nothing—no alias, no fortune, no institution. Edda waits at the gate with a job offer and a question: what now? Beat: rebirth without disguise."
+    },
+    {
+      "n": 37,
+      "title": "Tomas's Grave",
+      "summary": "Ansel visits Tomas's grave, leaves the old voicemail playing on a loop until the phone dies. She says the apology she owed and the goodbye she skipped. Beat: grief completed."
+    },
+    {
+      "n": 38,
+      "title": "New Ledger",
+      "summary": "Ansel joins Edda's nonprofit forensic unit, teaching investigators to read money the way Voss taught her—so they can catch men like him. First case lands on her desk. Beat: purpose rebuilt."
+    },
+    {
+      "n": 39,
+      "title": "The Letter",
+      "summary": "A letter arrives from Voss in prison: unrepentant, almost fond, warning that systems like MERIDIAN are never one man. Ansel reads it twice, then files it as evidence of pattern, not prophecy. Beat: vigilance over closure."
+    },
+    {
+      "n": 40,
+      "title": "Deadline Met",
+      "summary": "Final chapter, Ansel's POV, dawn. She watches the sunrise she used to fear, answers the unit's ringing phone, and steps into work. The secret worth killing for is now everyone's. Beat: resolution—justice outside the law, love intact, truth chosen."
+    }
+  ]
+}

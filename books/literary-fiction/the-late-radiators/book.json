@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04197",
+  "title": "The Late Radiators",
+  "author": "Felix Nystrom",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Hazel Marchetti, a translator losing a childhood language one borrowed word at a time, moves through the days like a tenant, not an owner. But when a box of undelivered letters surfaces behind a wardrobe, they discover that staying invisible was never really an option. To get through this, they must say goodbye properly, at last, out loud before the house sale closes.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4197
+  }
+}

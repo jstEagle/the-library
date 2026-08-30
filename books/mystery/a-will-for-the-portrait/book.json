@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04931",
+  "title": "A Will for the Portrait",
+  "author": "Isandro Thornbury",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ivo Zhou, a retired detective running a failing bookshop, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4931
+  }
+}

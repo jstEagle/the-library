@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05825",
+  "title": "Mirabel and the Cipher",
+  "author": "Wren Lockridge",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ada Kavanagh, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and he is pulled straight into the middle of it. Now he must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5825
+  }
+}

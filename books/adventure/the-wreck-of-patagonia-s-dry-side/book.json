@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00149",
+  "title": "The Wreck of Patagonia's dry side",
+  "author": "Quentin Underhill",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Edmund Voss, a mountain guide blacklisted from two countries, knows the wilderness forgives nothing and forgets less. Then the tide reveals a cave that legends charge admission to — and she is pulled straight into the middle of it. To get through this, she must bring the expedition home without telling anyone what it found before the dry season ends.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 149
+  }
+}

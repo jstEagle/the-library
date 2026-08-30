@@ -1,0 +1,59 @@
+{
+  "title": "Silas and the Witness",
+  "slug": "mystery/silas-and-the-witness",
+  "model": "stealth/ox-alpha",
+  "premise": "True-crime podcaster Rosalind Nakamura receives a confession letter for a forty-year-old drowning, postmarked the day after the sender's funeral. The letter points to a hardware store ledger that secretly recorded payments for silencing witnesses to a mill-town fire that killed six people. As Rosalind decodes the ledger's cipher with the help of Silas, the dead man's estranged grandson, they discover the last living conspirator is now a beloved judge presiding over an unrelated trial — and the ledger is the only evidence. The killer, realizing Rosalind has cracked the code, tries to destroy the ledger and silence them; in the climax at the courthouse archives, Silas chooses testimony over inherited shame, and the judge is arrested before the trial's verdict can be corrupted.",
+  "about_author": "Elodie Ashgrove is the pen name of a former small-town newspaper reporter who spent a decade covering cold cases across the Rust Belt. She writes mysteries about ordinary people who refuse to let the past stay buried.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Postmarked Yesterday",
+      "summary": "Rosalind Nakamura records the final episode of their accidental-deaths series when a letter arrives: a full confession to the 1984 drowning of Ada Merrick, signed by Harold Voss, postmarked the day after his funeral. POV: Rosalind. Emotional beat: uneasy exhilaration — the case of a lifetime arrives wrapped in grief and impossibility."
+    },
+    {
+      "n": 2,
+      "title": "The Reluctant Heir",
+      "summary": "Rosalind tracks down Harold's grandson, Silas Voss, a carpenter who wants nothing to do with his grandfather's name. He grudgingly lets them into the shuttered family house, where they find a hardware store ledger with columns of numbers that make no commercial sense. POV: alternating Rosalind/Silas. Emotional beat: friction thawing into wary alliance."
+    },
+    {
+      "n": 3,
+      "title": "Six Names, No Fire",
+      "summary": "Rosalind digs into the 1983 Hollis Mill fire officially ruled accidental; six workers died. Cross-referencing the ledger dates against fire-inspection records, she realizes payments began three weeks before the blaze. POV: Rosalind. Emotional beat: dread hardening into purpose as 'accident' starts looking like arithmetic."
+    },
+    {
+      "n": 4,
+      "title": "Cipher in Plain Sight",
+      "summary": "Silas recognizes the ledger's numbering system from his grandfather's inventory tags — a substitution cipher hiding names. The first decoded entry reads: 'M. Ashford — retainer.' Ashford is now Judge Marcus Ashford. POV: Silas. Emotional beat: vertigo as family inheritance becomes evidence."
+    },
+    {
+      "n": 5,
+      "title": "What Ada Saw",
+      "summary": "Rosalind interviews Ada Merrick's surviving sister, learning Ada was the mill's night bookkeeper who noticed the ledger discrepancies and threatened to go public. The drowning followed within days. POV: Rosalind. Emotional beat: grief for a woman punished for bookkeeping honesty — the price of survival made personal."
+    },
+    {
+      "n": 6,
+      "title": "A Warning in Wet Paint",
+      "summary": "Someone breaks into the Voss house and takes photographs but leaves the ledger — a message: we know what you have. Silas finds his workshop tools rearranged. POV: Silas. Emotional beat: fear curdling into defiance; he stops being a bystander to his own history."
+    },
+    {
+      "n": 7,
+      "title": "The Judge's Docket",
+      "summary": "Rosalind discovers Ashford is presiding over a wrongful-death trial against the mill's successor company — positioned to bury the last civil avenue for the victims' families. The ledger isn't just history; it's live ammunition. POV: Rosalind. Emotional beat: rising stakes, ticking clock before the verdict."
+    },
+    {
+      "n": 8,
+      "title": "Silas Testifies to Himself",
+      "summary": "Silas confronts his own memories: childhood visits from 'Uncle Marcus,' his grandfather's drunken confessions. He records a podcast segment naming Ashford, knowing it will force the killer's hand. POV: Silas. Emotional beat: catharsis — choosing truth over the comfortable silence he was raised in."
+    },
+    {
+      "n": 9,
+      "title": "Ashes in the Archive",
+      "summary": "Ashford's fixer lures them to the county courthouse archives to trade the ledger for safety; instead, Ashford comes personally to burn it. In the smoke-filled stacks, Silas shields the ledger while Rosalind livestreams the confrontation until deputies arrive. POV: both. Emotional beat: terror and clarity — survival means witnesses, not silence."
+    },
+    {
+      "n": 10,
+      "title": "The Ledger Closes",
+      "summary": "With Ashford arrested and the trial reassigned, the six families finally hear the truth. Rosalind airs the finale; Silas donates the ledger to the historical society and carves Ada Merrick's name into a memorial bench. POV: alternating. Emotional beat: bittersweet resolution — memory preserved, inheritance redeemed, survival redefined as remembrance."
+    }
+  ]
+}

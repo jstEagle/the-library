@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09901",
+  "title": "Isandro and the Mixtape",
+  "author": "Beatrix Thackeray",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Gideon Eastwick, a coder whose anonymous account knows too much, counts days until graduation like a sentence being served. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, he discovers that staying invisible was never really an option. Now he must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9901
+  }
+}

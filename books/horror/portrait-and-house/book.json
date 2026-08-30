@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03581",
+  "title": "Portrait and House",
+  "author": "Sable Eastwick",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Elodie Voss, a pest controller called to something with fingerprints, documents everything, because documentation is a kind of prayer. But when the sleep recordings capture a second voice answering questions, he discovers that staying invisible was never really an option. Now he must hold out until sunrise with the truth about what was invited in, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3581
+  }
+}

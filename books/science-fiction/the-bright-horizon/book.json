@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07155",
+  "title": "The Bright Horizon",
+  "author": "Odile Nystrom",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Petra Whitlock, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. Now they must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7155
+  }
+}

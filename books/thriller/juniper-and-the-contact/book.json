@@ -1,0 +1,21 @@
+{
+  "id": "THR-09286",
+  "title": "Juniper and the Contact",
+  "author": "Isandro Eriksen",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Marguerite Brightwater, a crash investigator whose family died in row twelve, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. To get through this, they must extract a defector who may be the bait before the border checkpoint shifts change.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9286
+  }
+}

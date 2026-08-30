@@ -1,0 +1,21 @@
+{
+  "id": "HOR-04046",
+  "title": "Zephyrine and the Winter",
+  "author": "Ines Quintana",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Emrys Fairweather, a radio host taking calls from listeners who died last week, has spent twenty years telling themselves the noises have explanations. Then the excavation crew unearths a door, sealed from the inside — and they are pulled straight into the middle of it. To get through this, they must get the family out ahead of the count before the frost writes its final pattern.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4046
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05505",
+  "title": "The Perfect Will",
+  "author": "Theo Whitlock",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Beatrix Eastwick, an insurance investigator with a photographic memory, has spent five years keeping the town's secrets filed and alphabetized. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. Now she must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "identity",
+    "belonging",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5505
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "The Parish of Bellwether Lane",
+  "slug": "mystery/the-parish-of-bellwether-lane",
+  "model": "stealth/ox-alpha",
+  "premise": "Rafael Hartwell, the cathedral's archivist and a discreet investigator, is hired by a nervous woman named Odile Vasseur to prove that her brother — missing for eleven years — was never murdered in the parish of Bellwether Lane. Rafael's search through the locked crypt's burial records reveals a ledger whose entries were written before the deaths they record, suggesting someone inside the parish has been orchestrating disappearances for decades. As the tide erodes the sea wall and exposes old bones, Rafael discovers the killer is the beloved verger who kept the ledger as a twisted act of mercy, hastening the deaths of the dying poor to spare them worse fates. In the climax, Rafael must choose between handing him to the law and honoring the found family of parish outsiders who shielded him; she chooses truth over loyalty, testifying at his trial while adopting the orphaned niece he leaves behind.",
+  "about_author": "Emrys Dunmore is the pen name of a former parish records clerk who spent nine years cataloguing centuries of baptisms, marriages, and burials along England's eastern coast. They write mysteries steeped in ecclesiastical archives, tidal landscapes, and the quiet moral compromises of small communities.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Client Who Paid in Advance",
+      "summary": "Rafael Hartwell's POV. A woman named Odile Vasseur arrives at the cathedral archive with an envelope of cash, asking Rafael to prove her brother Tomas was never murdered in Bellwether Lane — only that no murder ever happened there. Rafael, who never takes a case she can't close, accepts. The beat is wary curiosity: the request is strange because it asks for absence, not proof."
+    },
+    {
+      "n": 2,
+      "title": "Eleven Years of Dust",
+      "summary": "Rafael's POV. She begins with the parish registers, tracing Tomas Vasseur's last recorded appearance: a harvest festival photograph, then nothing. The verger, Mr. Callum Reeve, helpfully unlocks side rooms but watches her too closely. Emotional beat: the comfort of routine research beginning to curdle into unease."
+    },
+    {
+      "n": 3,
+      "title": "The Locked Crypt",
+      "summary": "Rafael's POV. The crypt beneath the cathedral has been sealed since a 1970s restoration, its key held by the diocese. Rafael petitions for access and is refused by Dean Aldous Pryce, who insists nothing down there concerns the living. Beat: first brush with institutional obstruction, and Rafael's pride stung."
+    },
+    {
+      "n": 4,
+      "title": "What the Tide Keeps",
+      "summary": "Odile's POV. Odile recalls the letter Tomas sent the week he vanished, mentioning 'the man who counts everyone twice.' She confesses to Rafael that their family fled Bellwether Lane after, and that her mother died believing Tomas walked into the sea. Beat: grief surfacing under Odile's composed exterior."
+    },
+    {
+      "n": 5,
+      "title": "A Ledger in Plain Sight",
+      "summary": "Rafael's POV. Cataloguing the vestry's display case, Rafael notices the historic 'Parish Almshouse Ledger' — a celebrated artifact — contains columns of dates in two different inks. The second ink records deaths days before they appear anywhere else. Beat: the thrill of the hunt, cold and sharp."
+    },
+    {
+      "n": 6,
+      "title": "The Verger's Kindness",
+      "summary": "Callum Reeve's POV. Callum brings tea to the housebound elderly of Bellwether Lane, listens to their confessions, and notes their suffering in a private notebook. He believes himself a servant of mercy. Beat: dramatic irony established — the reader sees his tenderness and his bookkeeping entwined."
+    },
+    {
+      "n": 7,
+      "title": "Names Before Dates",
+      "summary": "Rafael's POV. Cross-referencing forty years of almshouse entries, Rafael finds seventeen residents whose death dates in the ledger precede any official record — and whose bodies were committed to the sealed crypt rather than consecrated ground. Beat: dread; the pattern is too deliberate to be clerical error."
+    },
+    {
+      "n": 8,
+      "title": "The Dean's Silence",
+      "summary": "Rafael's POV. Rafael confronts Dean Pryce with the anomaly; he admits the crypt holds 'irregular burials' from a cholera scare, begs her to let the dead rest, and hints her contract may be terminated. Beat: pressure from above, and Rafael realizing someone wanted the crypt locked for a reason beyond tradition."
+    },
+    {
+      "n": 9,
+      "title": "Tomas Vasseur Was Not Poor",
+      "summary": "Odile's POV. Odile reveals Tomas wasn't an almshouse resident — he was a young accountant auditing the parish charities when he disappeared. This breaks Rafael's theory: the ledger's victims were the dying poor, but Tomas saw something else entirely. Beat: the case pivots from pattern to witness."
+    },
+    {
+      "n": 10,
+      "title": "The Man Who Counts Everyone Twice",
+      "summary": "Rafael's POV. Following Tomas's audit trail, Rafael finds the charity accounts balanced perfectly every year — too perfectly, with small sums diverted to unnamed 'pastoral expenses' signed off by one recurring initial: C.R. Beat: suspicion crystallizes on Callum, and Rafael hates how much she likes him."
+    },
+    {
+      "n": 11,
+      "title": "Storm Warning",
+      "summary": "Ensemble chapter, rotating brief POVs (Rafael, Odile, Callum). An autumn gale batters the sea wall below Bellwether Lane; engineers warn the foundations may shift. Callum prays in the crypt-adjacent passage he alone can open. Beat: converging threads and rising atmospheric menace."
+    },
+    {
+      "n": 12,
+      "title": "Bones at the Breach",
+      "summary": "Rafael's POV. The storm cracks the sea wall and a cavity opens beneath the lane, exposing remains wrapped in almshouse linen — not in the crypt at all, but hidden where the tide could eventually reclaim them. Police arrive; Rafael hides her ledger copies. Beat: the case becomes criminal, and Rafael an accessory by silence."
+    },
+    {
+      "n": 13,
+      "title": "Seventeen and One",
+      "summary": "Detective Inspector Sorrel Nkemelu's POV. The DI reconstructs the cavity finds: eighteen individuals spanning four decades, all matching the ledger's pre-dated entries. She interviews Rafael, who gives just enough truth to stay useful. Beat: cat-and-mouse between two women who both want justice but define it differently."
+    },
+    {
+      "n": 14,
+      "title": "The Mercy Argument",
+      "summary": "Callum Reeve's POV. Callum, aware the net is closing, reflects on each name in his notebook — the pain he ended, the families he spared the sight of decline. He drafts a confession, then burns it. Beat: chilling empathy; the reader understands him without forgiving him."
+    },
+    {
+      "n": 15,
+      "title": "Odile's Bargain",
+      "summary": "Odile's POV. Odile confronts Callum directly in the vestry, having guessed the truth. He neither denies nor confesses; he tells her Tomas died quickly and without fear, and offers her the location of his remains if she'll let the rest lie. Beat: loyalty versus truth made flesh — Odile can have her brother or justice, seemingly not both."
+    },
+    {
+      "n": 16,
+      "title": "The Second Key",
+      "summary": "Rafael's POV. Rafael deduces the crypt was never truly locked — Callum's 'restoration' key ring includes a duplicate stamped with the mason's mark from 1974. She enters alone and finds Tomas's remains apart from the others, posed with dignity, alongside his stolen audit notes Callum couldn't destroy. Beat: the answer, and the weight of holding it."
+    },
+    {
+      "n": 17,
+      "title": "Found Family",
+      "summary": "Ensemble POV. The parish outsiders Rafael has come to love — the flower arranger, the homeless veteran who sleeps in the porch, Odile herself — quietly signal they will protect Callum, their benefactor. Rafael realizes exposing him means betraying the only community that ever took her in. Beat: the theme's crux, agonizing and intimate."
+    },
+    {
+      "n": 18,
+      "title": "What the Tide Gives Up",
+      "summary": "Rafael's POV. A second storm fully collapses the sea wall, forcing evacuation of the lane and making concealment impossible; DI Nkemelu obtains the crypt key officially. Callum, seeing the sea take the lane he served, walks into the police station of his own accord carrying his notebook. Beat: surrender as release; the choice taken out of Rafael's hands by forces larger than anyone."
+    },
+    {
+      "n": 19,
+      "title": "Testimony",
+      "summary": "Rafael's POV. At the inquiry, Rafael presents the ledger analysis and Tomas's recovered notes, choosing truth over the found family's silent bargain. Callum pleads guilty to manslaughter across seventeen counts, insisting on the mercy motive; the court rejects it but acknowledges the victims' suffering. Beat: catharsis shadowed by cost — Rafael has won the case and lost her place."
+    },
+    {
+      "n": 20,
+      "title": "Aftermath of a Verdict",
+      "summary": "Odile's POV. Odie buries Tomas properly beside their mother. She finds among his effects a note naming Callum not as a monster but as 'a good man doing an unforgivable thing.' She forgives nothing and everything at once. Beat: grief finally given shape and ground."
+    },
+    {
+      "n": 21,
+      "title": "The Orphan in the Pew",
+      "summary": "Rafael's POV. Callum's estranged daughter died years ago; his sole survivor is a grandniece, twelve-year-old Wren, whom the parish wants to institutionalize. Rafael, who chose truth and lost her community, takes Wren in — building a new found family from the wreckage of the old. Beat: quiet redemption; the archivist learns some cases close you, not the other way around."
+    },
+    {
+      "n": 22,
+      "title": "Bellwether Lane, Rebuilt",
+      "summary": "Rafael's POV, epilogue. Spring: the lane is rebuilt above the new sea wall, the crypt reconsecrated with honest stones bearing real names. Rafael hangs the corrected ledger in the archive, pre-dated columns struck through in red, and teaches Wren to read the registers. Final beat: justice outside the law was answered by truth inside it, and the tide, for now, keeps only water."
+    }
+  ]
+}

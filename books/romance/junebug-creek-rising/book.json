@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06000",
+  "title": "Junebug Creek Rising",
+  "author": "Ansel Eastwick",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Ulyana Zhou, a pastry chef whose café is three missed payments from gone, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and they are pulled straight into the middle of it. To get through this, they must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6000
+  }
+}

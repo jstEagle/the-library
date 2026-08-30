@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03787",
+  "title": "The Smile of Marrow Creek",
+  "author": "Isandro Thackeray",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Coral Hartwell, a property surveyor appraising a house that appraises back, documents everything, because documentation is a kind of prayer. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. To get through this, they must get the family out ahead of the count before the last resident signs the papers.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3787
+  }
+}

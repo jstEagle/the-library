@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02436",
+  "title": "The Faithful Clock",
+  "author": "Xanthe Eriksen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Mirabel Ravensworth, a suffragist's driver who reads every letter before delivering it, keeps a low profile and busy hands. But when the census taker asks one question too many, she discovers that staying invisible was never really an option. To get through this, she must finish the work while the workshop still stands before the century turns.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2436
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04337",
+  "title": "The Quiet Glasshouse",
+  "author": "Lior Eastwick",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Coral Ishikawa, a piano tuner who hears the house's history in its radiators, has spent twenty years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and he is pulled straight into the middle of it. To get through this, he must translate the untranslatable sentence and live with it before the mother's memory goes entirely.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4337
+  }
+}

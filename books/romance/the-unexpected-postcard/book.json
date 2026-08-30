@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06377",
+  "title": "The Unexpected Postcard",
+  "author": "P. M. Winterbourne",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Ada Okafor, a single parent running the town's only bookshop, has spent seven years rebuilding a life measured in small safe steps. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. Now he must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6377
+  }
+}

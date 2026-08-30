@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09710",
+  "title": "Recipe and Locker",
+  "author": "Casper Montrose",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Beatrix Delacroix, the new kid at a school built over something old, stays under the radar: head down, grades up, locker shut. Then a group chat starts predicting things that haven't happened yet — and he is pulled straight into the middle of it. Now he must decide who to be when the labels come off, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9710
+  }
+}

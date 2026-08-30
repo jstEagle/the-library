@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00418",
+  "title": "Ines and the Rivergate",
+  "author": "Jonah Galloway",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Orsen Ishikawa, a storm chaser who owes money to dangerous optimists, knows the wilderness forgives nothing and forgets less. Then an expedition upriver stops answering the radio — and he is pulled straight into the middle of it. Now he must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "memory",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 418
+  }
+}

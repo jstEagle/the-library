@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01454",
+  "title": "The Forgotten Spire",
+  "author": "Lior Joubert",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Kestrel Halloran, the keeper of a gate that should stay shut, has spent seven years selling small charms in a city that outlawed magic. But when the old gods begin answering prayers again, he discovers that staying invisible was never really an option. Now he must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1454
+  }
+}

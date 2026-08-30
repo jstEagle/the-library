@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04903",
+  "title": "The Perfect Cipher",
+  "author": "J. M. Iversen",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Tamsin Zhou, a retired detective running a failing bookshop, has spent twelve years keeping the town's secrets filed and alphabetized. Then a body turns up dressed in clothes stolen from the witness's own closet — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4903
+  }
+}

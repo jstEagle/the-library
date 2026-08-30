@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04726",
+  "title": "Sebastian and the Glasshouse",
+  "author": "Rosalind Hartwell",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Vesper Crane, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. But when a song on the radio is one that was written and never recorded, he discovers that staying invisible was never really an option. To get through this, he must say goodbye properly, at last, out loud before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4726
+  }
+}

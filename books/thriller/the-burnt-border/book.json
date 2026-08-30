@@ -1,0 +1,21 @@
+{
+  "id": "THR-08450",
+  "title": "The Burnt Border",
+  "author": "Juniper Underhill",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Vesper Fairweather, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. To get through this, they must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8450
+  }
+}

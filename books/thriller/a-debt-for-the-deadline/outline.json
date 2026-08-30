@@ -1,0 +1,29 @@
+{
+  "title": "A Debt for the Deadline",
+  "slug": "thriller/a-debt-for-the-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Marguerite Underhill, a deniable fixer for the Meridian Section—an embassy that exists on no map—has spent a decade erasing other people's sins. When his own voiceprint, harvested years ago during a job he was told was routine, unlocks a black-site server in Jakarta, he discovers the Section has been training voice-cloning models on its own operatives to impersonate them in atrocities. Ordered to quietly retrieve the data and disappear a whistleblower, Marguerite instead goes rogue with her, racing to burn the network before the Section can deploy cloned voices of every agent it has ever employed. In the end he trades his own identity—letting the machine finish learning him—to trigger the kill-switch from inside, surviving as a man no database can name.",
+  "about_author": "Marguerite Nakamura is a former diplomatic translator who spent eleven years posted to cities that appear on maps but not itineraries. She writes thrillers about the people governments hire to make sure nothing ever happened.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Voice They Kept",
+      "summary": "POV: Marguerite. A routine cleanup in Vienna goes wrong when a dead courier's phone pings with Marguerite's own voice ordering an execution he never gave. Following the audio to its source, he finds a Meridian server farm cloning operatives' voices—and a terrified archivist, Ilse Brandt, who triggered the breach deliberately. Emotional beat: the sick vertigo of discovering you were the evidence all along."
+    },
+    {
+      "n": 2,
+      "title": "Attribution Denied",
+      "summary": "POV: alternating Marguerite and Ilse. The Section orders Marguerite to erase Ilse and certify the archive as foreign disinformation; instead he falsifies the report and they flee to Jakarta, where the training data was built. Pursued by his former partner Calloway, Marguerite must decide whether duty to the institution that made him outweighs the first person who ever saw him clearly. Emotional beat: love kindling inside betrayal."
+    },
+    {
+      "n": 3,
+      "title": "Everything the Machine Learned",
+      "summary": "POV: Marguerite, with interludes of Calloway closing in. Inside the Jakarta facility, they find the deployment schedule: within seventy-two hours, cloned voices will authorize a false-flag strike. To reach the kill-switch, someone must feed the model a complete live voiceprint—a trap that consumes whoever speaks. Ilse offers herself; Marguerite refuses to let another person be spent for him. Emotional beat: terror transmuted into resolve."
+    },
+    {
+      "n": 4,
+      "title": "A Man No Database Can Name",
+      "summary": "POV: Marguerite, then brief coda from Ilse. Marguerite gives the model everything—hours of unguarded confession—until it saturates on him, corrupting every cloned voice in the archive as the kill-switch fires. Calloway, hearing his own stolen voice among the casualties, lets them walk. Ilse burns their files; two people with no records board a ferry at dawn. Emotional beat: grief and freedom arriving in the same breath."
+    }
+  ]
+}

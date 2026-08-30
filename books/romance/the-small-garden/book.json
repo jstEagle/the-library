@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06244",
+  "title": "The Small Garden",
+  "author": "Xanthe Sterling",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Emrys Reyes, a pastry chef whose café is three missed payments from gone, swears the heart is a muscle like any other: trainable, containable. Then a fake date to survive a family reunion feels too real by dessert — and she is pulled straight into the middle of it. To get through this, she must forgive the person in the mirror first before the festival ends.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6244
+  }
+}

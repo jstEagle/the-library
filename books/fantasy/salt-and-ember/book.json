@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00831",
+  "title": "Salt and Ember",
+  "author": "G. M. Delacroix",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Hazel Pemberton, an exiled storm-caller, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 831
+  }
+}

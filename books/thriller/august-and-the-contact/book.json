@@ -1,0 +1,21 @@
+{
+  "id": "THR-09465",
+  "title": "August and the Contact",
+  "author": "Ansel Okonkwo",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Oscar Okafor, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. Then a voiceprint unlocks a server on another continent — and they are pulled straight into the middle of it. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9465
+  }
+}

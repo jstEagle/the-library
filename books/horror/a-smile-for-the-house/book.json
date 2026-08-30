@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03332",
+  "title": "A Smile for the House",
+  "author": "Wendell Brightwater",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Astrid Oyelaran, a twin who came home to bury the wrong sibling, keeps the lights on and the doors counted. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. To get through this, he must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3332
+  }
+}

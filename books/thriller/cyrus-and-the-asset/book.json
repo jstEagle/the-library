@@ -1,0 +1,21 @@
+{
+  "id": "THR-08956",
+  "title": "Cyrus and the Asset",
+  "author": "Petra Dunmore",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "August Nystrom, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. But when a voiceprint unlocks a server on another continent, she discovers that staying invisible was never really an option. Now she must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8956
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09841",
+  "title": "A Prom for the Detention",
+  "author": "Sebastian Whitlock",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Elodie Zhou, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. But when the school's legendary ghost starts leaving notes addressed by name — in impossible ink, they discover that staying invisible was never really an option. To get through this, they must tell the truth even if it costs the friendship before graduation.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9841
+  }
+}

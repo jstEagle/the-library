@@ -1,0 +1,21 @@
+{
+  "id": "THR-08908",
+  "title": "Tamsin and the Debt",
+  "author": "Gideon Crane",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Freya Thornbury, a burnt analyst bounced from three agencies, works cases no one wants attributed. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8908
+  }
+}

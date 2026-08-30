@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06897",
+  "title": "Coral and the Tide",
+  "author": "C. M. Nakamura",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Elodie Coldharbour, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6897
+  }
+}

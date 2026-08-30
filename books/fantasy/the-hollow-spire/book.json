@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01559",
+  "title": "The Hollow Spire",
+  "author": "Orsen Voss",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Gideon Sandoval, a bone-carver who hears the dead, knows every smuggler's road through the Thornfell mountains. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. To get through this, they must find the door out of a country that no longer exists before the last dragon-fire gutters out.",
+  "themes": [
+    "found family",
+    "identity",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1559
+  }
+}

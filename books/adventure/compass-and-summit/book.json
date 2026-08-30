@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00105",
+  "title": "Compass and Summit",
+  "author": "Edmund Zhou",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Wendell Lockridge, a salvage diver working a wreck the navy won't discuss, knows the wilderness forgives nothing and forgets less. Then the tide reveals a cave that legends charge admission to — and he is pulled straight into the middle of it. To get through this, he must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 105
+  }
+}

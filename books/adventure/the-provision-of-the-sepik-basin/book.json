@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00398",
+  "title": "The Provision of the Sepik Basin",
+  "author": "Ada Whitlock",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Theo Sandoval, a railroad engineer with a map of closed lines, knows the wilderness forgives nothing and forgets less. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. Now she must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 398
+  }
+}

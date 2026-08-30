@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03566",
+  "title": "The Kindly Winter",
+  "author": "Astrid Fairweather",
+  "genre": "Horror",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Juniper Fairweather, a folklorist recording songs the village refuses to sing twice, documents everything, because documentation is a kind of prayer. Then the excavation crew unearths a door, sealed from the inside — and she is pulled straight into the middle of it. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3566
+  }
+}

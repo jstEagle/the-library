@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01757",
+  "title": "Noor and the Oath",
+  "author": "Tamsin Hartwell",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Tamsin Ashgrove, a mercenary sworn to a god that went silent, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1757
+  }
+}

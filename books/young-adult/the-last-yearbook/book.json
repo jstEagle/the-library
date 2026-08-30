@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09543",
+  "title": "The Last Yearbook",
+  "author": "J. M. Crane",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Paloma Almeida, a debate champion who can't win the argument at home, is fine. Everything is fine. Obviously.. But when the college essay prompt asks one honest question nobody can stop answering, they discover that staying invisible was never really an option. To get through this, they must win the championship that doesn't matter — and the one that does before prom.",
+  "themes": [
+    "loyalty vs. truth",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9543
+  }
+}

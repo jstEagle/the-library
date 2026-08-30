@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03846",
+  "title": "August and the Hymn",
+  "author": "Emrys Eriksen",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Kestrel Amberdale, a radio host taking calls from listeners who died last week, doesn't believe, has never believed, will not begin believing now. But when the excavation crew unearths a door, sealed from the inside, they discover that staying invisible was never really an option. To get through this, they must get the family out ahead of the count before the harvest moon rises.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3846
+  }
+}

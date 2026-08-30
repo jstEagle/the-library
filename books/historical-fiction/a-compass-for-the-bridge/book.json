@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02769",
+  "title": "A Compass for the Bridge",
+  "author": "Sebastian Dravenmoor",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Ines Okonkwo, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, she discovers that staying invisible was never really an option. Now she must smuggle the evidence past three checkpoints, and time is already running out.",
+  "themes": [
+    "memory",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2769
+  }
+}

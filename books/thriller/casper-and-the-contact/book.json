@@ -1,0 +1,21 @@
+{
+  "id": "THR-09212",
+  "title": "Casper and the Contact",
+  "author": "Sable Kavanagh",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Rosalind Pemberton, a financial-crimes investigator drowning in clean money, keeps a go-bag packed and a lie polished. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "power and its corruption",
+    "found family",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9212
+  }
+}

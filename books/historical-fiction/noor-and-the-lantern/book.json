@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02911",
+  "title": "Noor and the Lantern",
+  "author": "Wendell Crane",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "August Ashgrove, a code-carrying courier on the last diplomatic mission of a doomed republic, measures the world in what can be carried when the orders come. But when a child is left at the door with instructions to forget the face, he discovers that staying invisible was never really an option. Now he must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2911
+  }
+}

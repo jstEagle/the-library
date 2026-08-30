@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05868",
+  "title": "The Last Confession Anew",
+  "author": "Ivo Galloway",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Beatrix Yarrow, an estate lawyer reading a will that shouldn't exist, has spent five years keeping the town's secrets filed and alphabetized. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. To get through this, they must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5868
+  }
+}

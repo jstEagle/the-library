@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04273",
+  "title": "The Small Language",
+  "author": "Wendell Winterbourne",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Lior Whitlock, a translator losing a childhood language one borrowed word at a time, has spent ten years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and they are pulled straight into the middle of it. To get through this, they must return to the place where the story went wrong before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "memory",
+    "belonging",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4273
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02514",
+  "title": "The Iron Orchard",
+  "author": "Sable Joubert",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Lior Thackeray, a pearl diver's child indentured to a trading company, has spent twelve years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. Now they must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2514
+  }
+}

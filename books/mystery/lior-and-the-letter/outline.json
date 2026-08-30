@@ -1,0 +1,209 @@
+{
+  "title": "Lior and the Letter",
+  "slug": "mystery/lior-and-the-letter",
+  "model": "stealth/ox-alpha",
+  "premise": "Freya Nakamura, the cathedral's reclusive archivist, receives two letters written in the same hand: one confessing to a murder in the locked crypt forty years ago, the other promising a second death unless she decodes the donor ledger hidden in the cathedral's own cataloguing system. As she traces the ledger's cipher through bequests, reliquaries, and forged provenance records, she uncovers an inheritance scheme that quietly transferred a family fortune—and buried the heir who objected. The confessor is dying and wants absolution; the promiser wants the fortune sealed forever. Freya, who built her life on being unseen, must choose between protecting the institution that sheltered her and exposing the corruption at its heart, ending with her unlocking the crypt publicly, naming the murdered heir, and accepting that belonging sometimes means burning down what kept you safe.",
+  "about_author": "Quentin Okonkwo spent a decade cataloguing ecclesiastical archives across three countries before turning to fiction, a career that left him fluent in the quiet violence of paperwork. He writes mysteries about people whom institutions would prefer stayed invisible.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Second Drawer",
+      "summary": "Freya Nakamura, POV. Establishing her meticulous, invisible life among the cathedral archives; she catalogs a misfiled donation envelope and finds the first letter—a confession to a murder in the locked crypt. Emotional beat: unease beneath routine."
+    },
+    {
+      "n": 2,
+      "title": "Twin Ink",
+      "summary": "Freya, POV. A second letter arrives by courier, same handwriting, promising 'one more' unless she reads the ledger before the statute expires. She compares inks under lamplight and confirms both are decades old yet freshly delivered. Beat: dread sharpening into purpose."
+    },
+    {
+      "n": 3,
+      "title": "What the Crypt Keeps",
+      "summary": "Freya, POV. She petitions the dean for crypt access and is refused with practiced warmth. Flashback fragments: how she came to the cathedral after losing her family, why invisibility felt like safety. Beat: first collision with institutional power."
+    },
+    {
+      "n": 4,
+      "title": "The Ledger of Gifts",
+      "summary": "Freya, POV. She begins cross-referencing the donor ledger against the confession's dates, finding a 1984 bequest from the Voss family that doesn't match any surviving Voss. Beat: the thrill of a pattern emerging."
+    },
+    {
+      "n": 5,
+      "title": "Father Anselm's Hands",
+      "summary": "Anselm, the aging canon treasurer, POV. He notices Freya pulling old files and reports it—gently—to the dean. We see his loyalty, his fear, and a flicker of guilt he can't name. Beat: the institution begins watching back."
+    },
+    {
+      "n": 6,
+      "title": "A Name Scratched Out",
+      "summary": "Freya, POV. In a 1985 memorial book she finds a name deliberately scraped away: Elias Voss. The confession letter mentions 'the boy who signed nothing.' Beat: grief for a stranger; the dead becoming real."
+    },
+    {
+      "n": 7,
+      "title": "The Statute Clock",
+      "summary": "Freya consults Marta, a retired lawyer in the parish, who explains the inheritance statute expires in eleven weeks—after which the fortune is untouchable forever. Beat: urgency installed; the mystery becomes a race."
+    },
+    {
+      "n": 8,
+      "title": "Dust and Fingerprints",
+      "summary": "Freya, POV. Someone has searched her office overnight—nothing taken, everything shifted two inches. She realizes the letters were meant for her specifically. Beat: violation; invisibility failing as armor."
+    },
+    {
+      "n": 9,
+      "title": "The Dean's Generosity",
+      "summary": "Dean Corbett, POV. Charming, weary, compromised—he offers Freya a promotion and a research trip abroad, transparently designed to remove her. Beat: corruption wearing a kind face."
+    },
+    {
+      "n": 10,
+      "title": "Cipher in the Columns",
+      "summary": "Freya, POV. She discovers the ledger's marginal notations encode amounts in a numeric cipher keyed to feast days; decoded, they reveal payments continuing long after Elias Voss supposedly emigrated. Beat: breakthrough and vertigo."
+    },
+    {
+      "n": 11,
+      "title": "Elias",
+      "summary": "Interleaved 1984 chapters begin: Elias Voss, POV, arriving at the cathedral as a young donation clerk, proud, ambitious, trusting his uncle Aldous Voss's plans. Beat: warmth before the fall."
+    },
+    {
+      "n": 12,
+      "title": "The Reliquary Room",
+      "summary": "Freya, POV. Following the cipher, she finds a reliquary whose inventory number matches a ledger entry for 'settlement.' Inside the case: not relics but deeds and a photograph of three men—one face scratched out. Beat: physical proof at last."
+    },
+    {
+      "n": 13,
+      "title": "Anselm Remembers Rain",
+      "summary": "Anselm, POV. A young curate in 1984, he carried boxes on the night something went wrong in the crypt; he was paid to forget. His memory stirs when he sees Freya's questions. Beat: guilt resurfacing like a bruise."
+    },
+    {
+      "n": 14,
+      "title": "One More",
+      "summary": "Freya, POV. A third letter arrives: 'You are reading well. One more will die if you stop.' Now the sender claims to be protecting her—or testing her. Beat: paranoia; ally and threat blur."
+    },
+    {
+      "n": 15,
+      "title": "Marta's Closed File",
+      "summary": "Marta, POV. She admits she once represented Aldous Voss and quit after seeing the settlement papers; she kept a copy out of conscience. Beat: an ally gained, at cost of revealing her own complicity."
+    },
+    {
+      "n": 16,
+      "title": "The Boy Who Signed Nothing",
+      "summary": "Elias, 1984, POV. He discovers the bequest documents bear his signature—forged—and confronts Aldous, who speaks softly of family duty and ruin. Beat: betrayal dawning; power's machinery closing."
+    },
+    {
+      "n": 17,
+      "title": "Locked From Inside",
+      "summary": "Freya, POV. She obtains the crypt key log: the door was locked from inside the night Elias vanished, meaning someone else had a second key—the same key pattern still used today. Beat: the past reaching into the present."
+    },
+    {
+      "n": 18,
+      "title": "Choir Practice",
+      "summary": "Sister Ilsa, the sacristan, POV. Warm, observant, she deflects Freya's questions but later leaves an anonymous note: 'Ask who holds the Voss chair.' Beat: the congregation knows more than it says."
+    },
+    {
+      "n": 19,
+      "title": "The Voss Chair",
+      "summary": "Freya, POV. The cathedral's endowed 'Voss Chair' funds the dean's position—meaning every dean since 1985 has been paid from Elias's stolen inheritance. Beat: the scale of corruption revealed; nausea."
+    },
+    {
+      "n": 20,
+      "title": "Aldous at the Altar",
+      "summary": "Elias, 1984, POV. On the eve of signing, Elias hides the true ledger copy inside the archive's cataloguing system—Freya's own system—then goes to meet his uncle in the crypt. Beat: doomed courage; the reader feels the trap."
+    },
+    {
+      "n": 21,
+      "title": "Midnight in the Crypt",
+      "summary": "Elias, 1984, POV. The confrontation; a blow; darkness. Told up to the moment of impact, withholding the killer's identity. Beat: terror and silence."
+    },
+    {
+      "n": 22,
+      "title": "Halfway Point: What Freya Knows",
+      "summary": "Freya, POV. She lays out the whole map: forged signature, ciphered payments, endowed chair, missing heir. Someone enters the archive behind her. Beat: pivot from investigation to danger."
+    },
+    {
+      "n": 23,
+      "title": "The Visitor",
+      "summary": "Freya, POV. It's Anselm—not threatening but breaking: he confesses he carried the boxes and took the money, and gives her the name of the man who held the second crypt key. Beat: pity over suspicion; a crack in the wall."
+    },
+    {
+      "n": 24,
+      "title": "The Second Key",
+      "summary": "Freya, POV. The key belonged to the cathedral solicitor, Gerald Hume—dead now, but his firm still administers the Voss trust. Beat: the trail leads outside the church walls."
+    },
+    {
+      "n": 25,
+      "title": "Hume & Daughters",
+      "summary": "Freya visits the law firm; Hume's daughter, Vivian, cool and precise, denies everything but flinches at the name Elias. Beat: a new antagonist shape—inheritance defending itself."
+    },
+    {
+      "n": 26,
+      "title": "Vivian's Ledger",
+      "summary": "Vivian, POV. She reveals (to the reader) that her father kept the trust alive out of twisted loyalty to Aldous, and that she has found the original settlement—she just never looked. Beat: complicity inherited like furniture."
+    },
+    {
+      "n": 27,
+      "title": "Fire Drill",
+      "summary": "Freya, POV. A small fire in the archive destroys the 1984 shelf—arson disguised as wiring failure. Her reconstructed evidence survives only because she'd moved it. Beat: escalation; the enemy is inside."
+    },
+    {
+      "n": 28,
+      "title": "The Confessor Speaks",
+      "summary": "Freya, POV. Using the return address cipher from the letters, she arranges a meeting. The confessor is revealed: a dying lay clerk, Tomas, who witnessed the crypt murder as a teenager and has mailed the letters yearly, hoping someone would finally read them. Beat: relief and horror entwined."
+    },
+    {
+      "n": 29,
+      "title": "Tomas's Testimony",
+      "summary": "Tomas, POV. He saw Aldous strike Elias—but Aldous didn't act alone; someone locked the door after. He never saw the second person's face, only their shoes: deacon's shoes. Beat: the circle tightens to the clergy."
+    },
+    {
+      "n": 30,
+      "title": "Deacon's Shoes",
+      "summary": "Freya, POV. Only two men from 1984 remain alive: Anselm and Dean Corbett's predecessor's protégé—who is Corbett himself, then a young deacon. Beat: sickening realization; the kindness was camouflage."
+    },
+    {
+      "n": 31,
+      "title": "Offer and Threat",
+      "summary": "Corbett, POV. He summons Freya, drops the charm, and offers her the archive, tenure, protection—if she burns the letters and lets the statute lapse. He mentions her lost family, proving he's studied her loneliness. Beat: the theme made flesh—power corrupting through belonging."
+    },
+    {
+      "n": 32,
+      "title": "What Invisible Buys",
+      "summary": "Freya, POV. Alone, she nearly accepts. A memory of her mother's advice—'disappearing is not the same as being safe'—turns her. Beat: dark night of the soul; choice crystallizing."
+    },
+    {
+      "n": 33,
+      "title": "The Original Copy",
+      "summary": "Freya, POV. Following Elias's 1984 hiding logic, she decodes his exact placement: the true ledger is bound inside a disused concordance on the very shelf she inherited. Holding it, she weeps. Beat: communion with the dead; the archive as witness."
+    },
+    {
+      "n": 34,
+      "title": "Vivian Decides",
+      "summary": "Vivian, POV. She delivers the trust's original papers to Freya unprompted—her inheritance of complicity ends with her. Beat: redemption available even to the comfortable."
+    },
+    {
+      "n": 35,
+      "title": "Eleven Days",
+      "summary": "Freya, POV. With Marta filing, Vivian testifying, and Tomas giving a statement, they move toward court before the statute lapses. Corbett suspends Freya pending 'review.' Beat: rising action; the institution mobilizes against her."
+    },
+    {
+      "n": 36,
+      "title": "The Review Board",
+      "summary": "Freya, POV. A closed hearing meant to discredit her; she turns it by reading the ciphered ledger aloud, payment by payment, naming each beneficiary—including board members. Beat: climax of voice; invisibility weaponized in reverse."
+    },
+    {
+      "n": 37,
+      "title": "Unlocking the Crypt",
+      "summary": "Climax. Freya, with police and press summoned by Marta, opens the crypt. Behind a false wall: Elias's remains and his satchel of unmailed letters to his mother. Corbett, cornered, confesses to the lock and the cover-up; Anselm corroborates. Beat: catharsis; the locked room opened literally and morally."
+    },
+    {
+      "n": 38,
+      "title": "Statute's End",
+      "summary": "Resolution begins. The estate is frozen then restored to Elias's surviving cousins; the Voss Chair dissolved; Corbett resigns and faces charges; Anselm retires to do penance openly. Beat: justice imperfect but real."
+    },
+    {
+      "n": 39,
+      "title": "Reburial",
+      "summary": "Freya, POV. The cathedral holds a funeral for Elias, thirty-nine years late. Freya reads his last letter aloud. Tomas attends in a wheelchair; Vivian sends flowers. Beat: mourning, belonging earned."
+    },
+    {
+      "n": 40,
+      "title": "The Archivist's Hand",
+      "summary": "Freya, POV, epilogue. She recatalogues the archive with a new finding aid titled 'The Voss Papers,' her own name on the spine for the first time. A final letter arrives—blank except for 'Thank you for reading.' She smiles and shelves it. Beat: peace; visibility chosen."
+    }
+  ]
+}

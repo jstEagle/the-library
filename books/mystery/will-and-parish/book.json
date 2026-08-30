@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05492",
+  "title": "Will and Parish",
+  "author": "Hazel Reyes",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Felix Pemberton, an estate lawyer reading a will that shouldn't exist, has spent ten years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5492
+  }
+}

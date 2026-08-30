@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00455",
+  "title": "The Uncharted Provision",
+  "author": "Orsen Crane",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ivo Zhou, an archaeologist's estranged child and better digger, carries a compass, a debt, and very little else. But when an expedition upriver stops answering the radio, she discovers that staying invisible was never really an option. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the monsoon makes landfall.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 455
+  }
+}

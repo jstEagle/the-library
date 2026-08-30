@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00562",
+  "title": "The Monsoon of Cape Reckoning",
+  "author": "Coral Sandoval",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Freya Hartwell, a bush pilot flying medicine and rumors into the interior, knows the wilderness forgives nothing and forgets less. But when a government survey team vanishes, leaving gear and no tracks, they discover that staying invisible was never really an option. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 562
+  }
+}

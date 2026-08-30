@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00302",
+  "title": "Jonah and the Trail",
+  "author": "Ines Kavanagh",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Petra Vasquez, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 302
+  }
+}

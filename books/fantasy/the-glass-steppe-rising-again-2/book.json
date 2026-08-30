@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02257",
+  "title": "the Glass Steppe Rising Again",
+  "author": "Vesper Nystrom",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Juniper Crane, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. But when a dying stranger presses a map into unwilling hands, they discover that staying invisible was never really an option. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2257
+  }
+}

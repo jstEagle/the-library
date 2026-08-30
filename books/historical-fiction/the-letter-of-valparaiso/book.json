@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02988",
+  "title": "The Letter of Valparaíso",
+  "author": "Yara Okafor",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Rafael Sterling, an apprentice clockmaker summoned to repair the observatory's master clock, keeps a low profile and busy hands. But when the bridge — the only road out — closes for the season, he discovers that staying invisible was never really an option. To get through this, he must choose which family member gets the last berth before the ship sails on the morning tide.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2988
+  }
+}

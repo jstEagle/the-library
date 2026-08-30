@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04678",
+  "title": "Oscar and the Weather",
+  "author": "Mirabel Okonkwo",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.8,
+  "blurb": "Wren Sandoval, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4678
+  }
+}

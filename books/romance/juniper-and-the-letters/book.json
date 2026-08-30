@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06728",
+  "title": "Juniper and the Letters",
+  "author": "Lena Underhill",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Petra Almeida, a vineyard owner who inherited debts instead of grapes, keeps love in the past tense where it belongs. But when two estranged names appear on the same impossibly stubborn orchard deed, they discover that staying invisible was never really an option. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the festival ends.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6728
+  }
+}

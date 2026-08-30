@@ -1,0 +1,21 @@
+{
+  "id": "THR-08503",
+  "title": "Ines and the Asset",
+  "author": "Edmund Nakamura",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Emrys Thornbury, a hostage negotiator with one failure still on the board, hasn't slept through the night since the incident. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. Now he must burn the network that did the training, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8503
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04655",
+  "title": "The Unsaid Inventory",
+  "author": "Quentin Dravenmoor",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Cyrus Nakamura, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. Now they must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4655
+  }
+}

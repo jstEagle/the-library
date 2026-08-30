@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04883",
+  "title": "Portrait and Witness",
+  "author": "August Vane",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Tamsin Nystrom, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. To get through this, he must close the one case everyone swore was closed for good before the statute expires.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4883
+  }
+}

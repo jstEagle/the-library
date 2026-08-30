@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01665",
+  "title": "Ashvale Rising Anew",
+  "author": "Ada Lockridge",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Rafael Pemberton, a beast-speaker hiding a forbidden gift, has spent fifteen years selling small charms in a city that outlawed magic. But when a child arrives at the door speaking a language that predates kingdoms, he discovers that staying invisible was never really an option. To get through this, he must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1665
+  }
+}

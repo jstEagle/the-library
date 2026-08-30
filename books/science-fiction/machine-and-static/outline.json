@@ -1,0 +1,59 @@
+{
+  "title": "Machine and Static",
+  "slug": "science-fiction/machine-and-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Freya Ashgrove, navigator of the salvage hauler Machine and Static, has spent years ferrying colonists' frozen backups from the failed world of Kestrel's Landing — backups he suspects were never delivered anywhere. When gravity stutters across the system for nine seconds, Freya is thrown into a derelict relay station where he finds evidence that the colony was massacred by the corporate fleet, and every official record rewritten to erase it. Hunted by an auditor who can rewrite his identity with a keystroke, Freya and his ragtag crew must smuggle the truth to the last living colony survivor hidden among the sleeping backups. In the end, Freya sacrifices his own backup — the last copy of who he used to be — to broadcast the massacre to every ship in the system, choosing the found family on his deck over the self he lost.",
+  "about_author": "Juniper Halloran is a former maritime radio operator who spent a decade listening to ships that never came home. She writes science fiction about people who keep records when no one else will.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Falling",
+      "summary": "Freya's POV. A routine cargo run past dead Kestrel's Landing is shattered when gravity flickers system-wide for nine seconds; Freya blacks out and wakes with coordinates burned into his memory. The crew dismisses it as equipment failure, but Freya feels chosen — or marked. Emotional beat: unease beneath routine, the sense that something enormous just noticed him."
+    },
+    {
+      "n": 2,
+      "title": "The Hold Full of Sleepers",
+      "summary": "Freya's POV, with interludes from engineer Sefa. We learn the hauler carries three thousand colony backups in cold storage, contracts long expired, delivery destinations deleted. Sefa wants to sell them for scrap credits; Freya refuses without knowing why. Emotional beat: guilt made physical — Freya talks to the sleepers like passengers, not cargo."
+    },
+    {
+      "n": 3,
+      "title": "Coordinates That Should Not Exist",
+      "summary": "Freya's POV. Following the burned-in coordinates, the crew finds Relay Station Vellum, officially decommissioned forty years ago — yet its reactor is warm. Inside they discover a data vault and signs someone has been living there. Emotional beat: dread curdling into wonder as the forgotten past proves alive."
+    },
+    {
+      "n": 4,
+      "title": "The Girl in the Vault",
+      "summary": "Sefa's POV. They find Iyo, a teenager grown from a backup and raised by the station's failing AI, who carries fragmentary recordings of the colony's final days. She speaks of fire, of ships with corporate livery, of screaming that no archive contains. Emotional beat: found family begins forming around a child of erased history."
+    },
+    {
+      "n": 5,
+      "title": "Every Record Says Otherwise",
+      "summary": "Freya's POV. Cross-checking Iyo's memories against official archives shows perfect, seamless falsification — too perfect. Then an Auditor-class vessel hails them: Warden Corvane arrives aboard, courteous and terrifying, asking about 'anomalous gravitational events.' Emotional beat: the horror of being gaslit by an entire civilization's paperwork."
+    },
+    {
+      "n": 6,
+      "title": "What Corvane Knows",
+      "summary": "Corvane's POV. The auditor privately reviews Freya's file and discovers Freya himself is a restored backup — one of the first, pulled from Kestrel's Landing before the massacre. Corvane realizes Freya may hold intact pre-rewrite memories. Emotional beat: cold institutional menace; even the hunter is a cog afraid of the machine above him."
+    },
+    {
+      "n": 7,
+      "title": "Static Between Us",
+      "summary": "Sefa's POV. Corvane offers the crew amnesty for Iyo's capture; the crew fractures. Old pilot Bram votes to take the deal, Sefa wavers, and Freya confesses at last that he remembers dying on Kestrel's Landing. Emotional beat: betrayal and reconciliation — the family nearly breaks, then chooses each other."
+    },
+    {
+      "n": 8,
+      "title": "The Massacre, Remembered",
+      "summary": "Freya's POV. Using the station AI and Iyo's fragments, Freya unlocks his own suppressed memories: the fleet burning the colony to cover a plague their own medicine caused, and the backups seized as leverage. He recovers the full recording. Emotional beat: grief transmuted into purpose; survival's price finally named."
+    },
+    {
+      "n": 9,
+      "title": "Broadcast",
+      "summary": "Freya's POV, climax. Cornered at Relay Station Vellum, the crew uses the relay's ancient antenna to transmit the massacre recording system-wide — but the broadcast requires a neural handshake that will burn out whatever mind connects. Freya goes, deleting his own backup so there is nothing left to restore. Emotional beat: sacrifice as authorship; he becomes the record."
+    },
+    {
+      "n": 10,
+      "title": "Machine and Static",
+      "summary": "Iyo's POV, resolution. Weeks later, the truth spreads through dockside whispers and pirate relays; Corvane's superiors disavow him, and investigations begin. Iyo, Sefa, and Bram fly the hauler with its hold finally empty, carrying Freya's damaged but surviving mind in the ship's navigation system. Emotional beat: mourning braided with hope — the family sails on, and Freya is still at the helm."
+    }
+  ]
+}

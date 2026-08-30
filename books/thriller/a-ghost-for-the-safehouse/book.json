@@ -1,0 +1,21 @@
+{
+  "id": "THR-08544",
+  "title": "A Ghost for the Safehouse",
+  "author": "Coral Eriksen",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Kestrel Vasquez, an interpreter attached to a peace delegation destined to fail, keeps a go-bag packed and a lie polished. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8544
+  }
+}

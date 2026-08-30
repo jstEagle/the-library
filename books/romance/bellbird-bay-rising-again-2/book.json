@@ -1,0 +1,21 @@
+{
+  "id": "ROM-07000",
+  "title": "Bellbird Bay Rising Again",
+  "author": "Elodie Coldharbour",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Lior Halloran, a pastry chef whose café is three missed payments from gone, has spent three years rebuilding a life measured in small safe steps. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7000
+  }
+}

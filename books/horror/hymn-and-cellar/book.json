@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03569",
+  "title": "Hymn and Cellar",
+  "author": "M. M. Ishikawa",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Orsen Kavanagh, an urban explorer mapping tunnels that aren't on any survey, has spent twelve years telling themselves the noises have explanations. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. To get through this, he must get the family out ahead of the count before the last resident signs the papers.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3569
+  }
+}

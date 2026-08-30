@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05017",
+  "title": "A Ledger for the Portrait",
+  "author": "Petra Voss",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Hazel Delacroix, an insurance investigator with a photographic memory, thought they had seen every way a life can end. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. To get through this, they must untangle alibis woven thirty years ago before the trial begins.",
+  "themes": [
+    "memory",
+    "identity",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5017
+  }
+}

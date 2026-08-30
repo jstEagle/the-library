@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02952",
+  "title": "Sebastian and the Ledger",
+  "author": "Gideon Thackeray",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Wendell Almeida, a battlefield nurse keeping a ledger of the names officers omit, has spent five years learning which silences keep people safe. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the armistice is signed — or isn't.",
+  "themes": [
+    "identity",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2952
+  }
+}

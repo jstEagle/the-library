@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02354",
+  "title": "Manchester's mill district Rising",
+  "author": "Lior Yarrow",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Marguerite Eastwick, an apprentice clockmaker summoned to repair the observatory's master clock, has spent three years learning which silences keep people safe. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. Now they must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2354
+  }
+}

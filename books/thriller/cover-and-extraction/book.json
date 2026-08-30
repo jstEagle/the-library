@@ -1,0 +1,21 @@
+{
+  "id": "THR-08992",
+  "title": "Cover and Extraction",
+  "author": "Odile Dunmore",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Freya Okafor, a hostage negotiator with one failure still on the board, works cases no one wants attributed. But when a dead handler sends a meeting invitation for tomorrow, they discover that staying invisible was never really an option. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8992
+  }
+}

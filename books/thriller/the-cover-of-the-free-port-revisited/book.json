@@ -1,0 +1,21 @@
+{
+  "id": "THR-09299",
+  "title": "The Cover of the Free Port Revisited",
+  "author": "Quentin Galloway",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Paloma Vane, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. But when a voiceprint unlocks a server on another continent, she discovers that staying invisible was never really an option. To get through this, she must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9299
+  }
+}

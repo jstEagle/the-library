@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09581",
+  "title": "When the Prom Breaks",
+  "author": "Ulyana Galloway",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Dominic Crane, the only out kid in a town of nine hundred, has spent twenty years being so careful it hurts. But when a group chat starts predicting things that haven't happened yet, she discovers that staying invisible was never really an option. To get through this, she must expose what the school board buried before the last game of the season.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9581
+  }
+}

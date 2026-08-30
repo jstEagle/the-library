@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06676",
+  "title": "Tide and Songbook",
+  "author": "Rosalind Galloway",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Theo Nakamura, a lighthouse keeper's granddaughter and part-time novelist, has spent twelve years rebuilding a life measured in small safe steps. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. To get through this, they must let someone stay after the last train leaves before the bakery lease runs out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6676
+  }
+}

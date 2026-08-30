@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00271",
+  "title": "The Rivergate of Patagonia's dry side",
+  "author": "August Galloway",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Noor Thornbury, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. Then a government survey team vanishes, leaving gear and no tracks — and they are pulled straight into the middle of it. To get through this, they must follow a river upstream to its forbidden source before the concession permits expire.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 271
+  }
+}

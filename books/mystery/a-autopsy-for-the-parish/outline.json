@@ -1,0 +1,119 @@
+{
+  "title": "A Autopsy for the Parish",
+  "slug": "mystery/a-autopsy-for-the-parish",
+  "model": "stealth/ox-alpha",
+  "premise": "Ulyana Galloway, host of the true-crime podcast 'The Long Silence,' receives twin letters about the 1974 disappearance of three parishioners from St. Aldhelm's: one confessing to the murders, one promising a fourth victim unless Ulyana decodes the parish's burial ledger before All Souls' Day. Following the ledger's coded entries — hymn numbers, grave plots, donation dates — Ulyana uncovers that the parish council covered up decades of abuse and theft, and that the confessor is dying and wants justice outside a law that failed. The climax comes in the crypt on All Souls' Eve, where Ulyana confronts the last living conspirator, now the beloved bishop, and must choose between exposing him through the podcast or letting the dying confessor's vigilante deadline stand; Ulyana broadcasts the truth, saving the intended victim and forcing the town to finally remember.",
+  "about_author": "Mirabel Nakamura is a former parish archivist turned crime writer who spent six years cataloguing church records across coastal England. She writes mysteries about institutions that keep secrets in plain sight, and about the people brave enough to read them aloud.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Twin Envelopes",
+      "summary": "POV Ulyana. Two letters arrive the same morning: one confessing to three murders from 1974, one promising 'a fourth by All Souls' Day.' The handwriting is identical. Ulyana, restless after a season of dead-end episodes, feels the old thrill curdle into dread. Emotional beat: fascination shadowed by guilt — she wanted a case like this, and now it wants her back."
+    },
+    {
+      "n": 2,
+      "title": "The Parish That Forgot",
+      "summary": "POV Ulyana. She travels to Marsh Aldhelm, a decaying fenland village where St. Aldhelm's still dominates the square. Locals are warm until she mentions 1974; then doors close. The vicar, Reverend Idris Cole, is courteous but evasive. Beat: unease — a whole town performing memory loss in unison."
+    },
+    {
+      "n": 3,
+      "title": "Three Names, One Grave",
+      "summary": "POV Ulyana. In the overgrown churchyard she finds the three missing parishioners' names on a single shared headstone, dated decades after their disappearance — someone buried them together and lied about when. A groundskeeper hints the sexton of 1974 kept a private ledger. Beat: the first hard proof the confession is real."
+    },
+    {
+      "n": 4,
+      "title": "The Ledger Hidden in Plain Sight",
+      "summary": "POV Ulyana. In the parish office, the official burial ledger looks mundane — but hymn numbers, plot coordinates, and donation amounts form a repeating pattern across fifty years. Ulyana photographs every page as Reverend Cole watches her too closely. Beat: intellectual exhilaration turning paranoid; the code was never hidden, only unread."
+    },
+    {
+      "n": 5,
+      "title": "A Second Letter",
+      "summary": "POV Ulyana. A new letter arrives at her hotel: instructions wrapped in psalm verses, warning that decoding slowly will cost a life. It knows her room number. Detective Sergeant Rowan Ashe, investigating the original letters' postmarks, appears — ally or surveillance? Beat: fear sharpening into resolve."
+    },
+    {
+      "n": 6,
+      "title": "Hymns for the Dead",
+      "summary": "POV alternating Ulyana/Ashe. Ulyana cracks the first layer: each coded entry pairs a hymn number with a grave plot, mapping donations to dates when parish children were quietly removed from registers. Ashe pulls the 1974 inquest file and finds it sealed by order of the diocese. Beat: dawning scale — this isn't one murder, it's an architecture."
+    },
+    {
+      "n": 7,
+      "title": "The Confessor's Voice",
+      "summary": "POV Ulyana. An untraceable phone call: a man's ruined voice claims he was the sexton's apprentice in 1974, that he helped bury the three, and that he is dying of cancer — hence the deadline. He won't say who ordered it. He says only: 'Read what we were paid.' Beat: pity entangled with horror."
+    },
+    {
+      "n": 8,
+      "title": "Ledger of Debts",
+      "summary": "POV Ulyana. Decoded fully, the ledger reveals the parish council ran a blackmail economy: hush payments recorded as roof repairs and flower-fund gifts, stretching from 1968 to 2009. Four names recur as payees. Three are dead. The fourth is Bishop Ambrose Fenn, the diocese's celebrated reformer. Beat: vertigo — the saintliest name is the deepest debt."
+    },
+    {
+      "n": 9,
+      "title": "What the Choir Knew",
+      "summary": "POV Ulyana. Ulyana interviews elderly choir members. One, Edith Marlowe, remembers the vanished trio were going to speak to police about the reverend of that era — and about 'the boy who sang like an angel.' Edith stops mid-sentence, terrified, and begs Ulyana to leave. Beat: grief for the silenced."
+    },
+    {
+      "n": 10,
+      "title": "Ashes and Alibis",
+      "summary": "POV Ashe. Ashe traces the letters to a hospice in Norwich and finds the room empty, a Bible annotated with the same cipher. His superintendent orders him off the case — the call comes from the diocesan office. Beat: institutional rot made personal; Ashe chooses Ulyana over his career."
+    },
+    {
+      "n": 11,
+      "title": "The Fourth Name",
+      "summary": "POV Ulyana. Cross-referencing removals from parish registers, Ulyana identifies the likely fourth target: Daniel Okafor, a former altar boy now a diocesan archivist who recently requested the sealed 1974 files. He doesn't know he's marked. When she calls him, he hangs up — then texts: 'How do you know my name?' Beat: urgency ignites."
+    },
+    {
+      "n": 12,
+      "title": "Vigil",
+      "summary": "POV Ulyana. Ulyana stakes out Okafor's cottage; the confessor's letter promised the fourth death 'as the bells ring in All Souls.' She records an episode laying out the ledger's existence without naming names, hoping publicity will force the killer's hand. Downloads explode; so do threats. Beat: power and peril of giving victims a voice."
+    },
+    {
+      "n": 13,
+      "title": "Bishop Fenn Receives Me",
+      "summary": "POV Ulyana. Summoned to the cathedral close, Ulyana meets Fenn — magnetic, sorrowful, masterful. He mourns the past, praises her work, and offers the diocese's full cooperation plus exclusive access. Every sentence is a trap dressed as grace. Beat: charisma as corruption; Ulyana leaves feeling laundered."
+    },
+    {
+      "n": 14,
+      "title": "Edith's Tape",
+      "summary": "POV Ulyana. Edith Marlowe, having listened to the episode, gives Ulyana a reel-to-reel tape her late husband, the 1974 organist, hid inside the choir loft: a recording of a council meeting deciding the trio 'must be quieted,' with a young Fenn's voice voting yes. Beat: memory weaponized at last; proof in hand, and a target on her back."
+    },
+    {
+      "n": 15,
+      "title": "Broken Window, Burning Car",
+      "summary": "POV alternating Ulyana/Ashe. Ulyana's rental is torched; the tape survives because she slept with it under her pillow. Ashe confirms the arsonist used accelerant methods matching a 1990s parish maintenance crew roster — which lists the confessor's probable identity: Thomas Reeve, sexton's apprentice. Beat: escalation; the enemy is closing, or protecting her from worse."
+    },
+    {
+      "n": 16,
+      "title": "The Dying Man in the Bell Tower",
+      "summary": "POV Ulyana. Ulyana finally meets Thomas Reeve face to face among the bells. Gaunt, oxygen tank beside him, he confesses everything: he buried the three under orders, kept the ledger as insurance, and chose the deadline to force the truth out before he dies. He swears he never intended to kill Okafor — the threat was bait. But someone else has been reading the ledger too. Beat: moral complexity — a murderer seeking justice outside the law."
+    },
+    {
+      "n": 17,
+      "title": "All Hallows",
+      "summary": "POV Ulyana. On All Hallows' Eve, Okafor disappears after telling Ulyana he found the original inquest's suppressed autopsy — the trio didn't drown; they were suffocated. Fenn announces a televised Requiem for the missing, daring Ulyana to act. Reeve goes silent. Beat: the noose tightens around everyone at once."
+    },
+    {
+      "n": 18,
+      "title": "The Crypt Ledger",
+      "summary": "POV Ulyana. Decoding the final ledger entries, Ulyana realizes they map not graves but the crypt itself: a walled-off chantry where the trio's remains — and fifty years of documents — were sealed behind the memorial stone. The last entry is dated tomorrow: All Souls'. Someone plans to make Okafor the ledger's final line. Beat: revelation as countdown."
+    },
+    {
+      "n": 19,
+      "title": "All Souls' Eve",
+      "summary": "POV Ulyana. During the Requiem, Ulyana slips into the crypt with Ashe and finds Okafor bound, and Fenn waiting — calm, holding the ledger's oldest page, ready to burn fifty years of evidence and blame the dying Reeve. Fenn offers Ulyana the story of a lifetime if she walks away. Beat: the corrupt bargain offered plainly; the theme made flesh."
+    },
+    {
+      "n": 20,
+      "title": "The Bells Ring In",
+      "summary": "POV Ulyana. As the All Souls' bells begin, Ulyana stalls Fenn while Reeve, having crawled down the tower stair on pure will, triggers the old bell mechanism — collapsing the chantry wall and exposing the remains and document cache to the congregation above. Fenn lunges; Ashe takes him down amid falling plaster and candlelight. Beat: climax — justice erupting through stone, memory refusing burial."
+    },
+    {
+      "n": 21,
+      "title": "An Autopsy for the Parish",
+      "summary": "POV Ulyana. Weeks later: Fenn charged, the diocese in collapse, the trio reburied under true names and dates. Reeve dies awaiting trial, asking Ulyana to read the corrected ledger entries aloud at his bedside — an accounting, not absolution. Okafor becomes the new archivist of the opened files. Beat: mourning without mercy; justice imperfect but real."
+    },
+    {
+      "n": 22,
+      "title": "The Long Silence, Ended",
+      "summary": "POV Ulyana. Ulyana releases the final episode: not the sensational story, but the tape, the names, and the town's own voices remembering at last. Marsh Aldhelm rings its bells voluntarily for the first time in fifty years. A last letter arrives — blank except for 'Thank you' — postmarked nowhere. Beat: resolution and release; memory restored, silence broken."
+    }
+  ]
+}

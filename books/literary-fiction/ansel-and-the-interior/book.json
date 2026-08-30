@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04327",
+  "title": "Ansel and the Interior",
+  "author": "Juniper Yarrow",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Cyrus Lockridge, a restaurant critic who has forgotten how food tastes, moves through the days like a tenant, not an owner. Then a song on the radio is one that was written and never recorded — and they are pulled straight into the middle of it. Now they must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4327
+  }
+}

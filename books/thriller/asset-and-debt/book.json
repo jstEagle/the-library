@@ -1,0 +1,21 @@
+{
+  "id": "THR-09151",
+  "title": "Asset and Debt",
+  "author": "Mirabel Quintana",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Edmund Nystrom, a whistle-blower living under four names, hasn't slept through the night since the incident. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. To get through this, they must extract a defector who may be the bait before the summit convenes.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9151
+  }
+}

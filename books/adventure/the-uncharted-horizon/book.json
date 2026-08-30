@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00463",
+  "title": "The Uncharted Horizon",
+  "author": "Rosalind Winterbourne",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Petra Sterling, a bush pilot flying medicine and rumors into the interior, carries a compass, a debt, and very little else. But when a dying prospector trades a map for a promise, they discover that staying invisible was never really an option. To get through this, they must outlast the monsoon with a leaking boat and a stranger's help before the concession permits expire.",
+  "themes": [
+    "identity",
+    "memory",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 463
+  }
+}

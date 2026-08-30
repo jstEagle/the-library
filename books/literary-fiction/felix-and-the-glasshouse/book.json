@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04672",
+  "title": "Felix and the Glasshouse",
+  "author": "Wren Villalobos",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mara Iversen, a bridge inspector measuring the marriage in expansion joints, has perfected the smile that ends conversations. Then a childhood home goes up for auction — and they are pulled straight into the middle of it. Now they must say goodbye properly, at last, out loud, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4672
+  }
+}

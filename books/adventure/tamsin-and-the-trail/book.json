@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00700",
+  "title": "Tamsin and the Trail",
+  "author": "Mara Thackeray",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Wren Vane, a desert ranger tracking a thief across nothing, has spent fifteen years measuring life in miles rather than years. But when an expedition upriver stops answering the radio, he discovers that staying invisible was never really an option. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "identity",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 700
+  }
+}

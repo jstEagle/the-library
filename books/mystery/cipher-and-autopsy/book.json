@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04921",
+  "title": "Cipher and Autopsy",
+  "author": "Paloma Sterling",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Cyrus Villalobos, a true-crime podcaster chasing the coldest case on record, has spent three years keeping the town's secrets filed and alphabetized. Then a client pays in advance to prove a murder hasn't happened — yet — and she is pulled straight into the middle of it. To get through this, she must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4921
+  }
+}

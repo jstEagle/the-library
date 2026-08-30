@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02694",
+  "title": "Harbor and Regiment",
+  "author": "A. M. Hartwell",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Hazel Blackwood, a battlefield nurse keeping a ledger of the names officers omit, has spent twelve years learning which silences keep people safe. Then a child is left at the door with instructions to forget the face — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the armistice is signed — or isn't.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2694
+  }
+}

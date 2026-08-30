@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05332",
+  "title": "Witness and Confession",
+  "author": "Mara Dunmore",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Wren Thackeray, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5332
+  }
+}

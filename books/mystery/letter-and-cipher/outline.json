@@ -1,0 +1,59 @@
+{
+  "title": "Letter and Cipher",
+  "slug": "mystery/letter-and-cipher",
+  "model": "stealth/ox-alpha",
+  "premise": "Retired detective Ivo Blackwood is paid a suspiciously large retainer to prove that a man named Alden Reeve was never murdered — a crime no one has reported and no body exists. Following the money, Ivo uncovers a thirty-year-old cover-up: Reeve faked his death to escape prosecution for a corporate fraud, and the people who helped him are now being silenced one by one as his trial approaches. When Ivo's client turns out to be Reeve himself, hiding in plain sight as the bookshop's quiet neighbor, Ivo must choose between the loyalty of an old friend who helped stage the death and the truth owed to a whistleblower's family. In the end, Ivo turns the evidence over to the prosecution — closing the case by refusing, for the first time, to protect a client.",
+  "about_author": "Mara Yarrow is a former court stenographer who spent two decades transcribing trials before turning to fiction. She writes slow-burn mysteries about people who know too much and say too little, from a coastal town she refuses to name.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Paid in Advance",
+      "summary": "Ivo Blackwood, third-person POV. A cash-stuffed envelope arrives with instructions: prove Alden Reeve was never murdered. No body, no report, no case file — and yet the payment is real. Ivo, bored and broke, accepts against instinct. Emotional beat: the itch of a puzzle that shouldn't exist."
+    },
+    {
+      "n": 2,
+      "title": "The Man Who Wasn't Dead",
+      "summary": "Ivo's POV. Digging into Reeve's history, Ivo finds a sealed 1995 fraud case, a vanished whistleblower, and a death certificate signed by a doctor who died last year. The emotional beat: unease deepening into obsession as the paper trail keeps contradicting itself."
+    },
+    {
+      "n": 3,
+      "title": "Alibis in Amber",
+      "summary": "Alternating POV: Ivo interviews three witnesses from the old trial, each with airtight alibis that sound rehearsed. One, a retired clerk named Sorrel, trembles when Reeve's name is spoken. Emotional beat: the realization that thirty years of silence was bought, not chosen."
+    },
+    {
+      "n": 4,
+      "title": "The Neighbor Who Reads Slowly",
+      "summary": "Ivo's POV. A quiet regular at the bookshop, Mr. Finch, asks oddly precise questions about the Reeve case. Ivo notices his hands — a scar matching a photo from the trial. Emotional beat: paranoia blooming in a place that was supposed to be a refuge."
+    },
+    {
+      "n": 5,
+      "title": "What Sorrel Kept",
+      "summary": "Sorrel's POV. She reveals a hidden letter Reeve sent her before vanishing — half confession, half cipher — and admits she was paid to misremember dates. She's terrified because someone has been asking her the same questions. Emotional beat: guilt finally cracking into speech."
+    },
+    {
+      "n": 6,
+      "title": "The Cipher of Small Lies",
+      "summary": "Ivo's POV. Decoding the letter, Ivo finds it maps to marginalia in a first edition — one sold from their own shop years ago. The buyer's address leads to a burned-out cottage and a fresh grave-sized patch of earth. Emotional beat: dread arriving ahead of proof."
+    },
+    {
+      "n": 7,
+      "title": "A Body, After All",
+      "summary": "Police POV (Detective Ansel). The patch yields remains: the whistleblower, killed in 1995, not missing. The murder never proven is now very proven — and Ivo's inquiries have made them a person of interest. Emotional beat: the case turning its teeth on its solver."
+    },
+    {
+      "n": 8,
+      "title": "Loyalty, Priced",
+      "summary": "Ivo's POV. Ivo's old friend and former partner, Wren, confesses: she helped Reeve stage his death to protect his family, believing him innocent of the murder. She begs Ivo to let it stay buried. Emotional beat: the bookshop case becoming a knife between two people who trust each other."
+    },
+    {
+      "n": 9,
+      "title": "Mr. Finch, Unmasked",
+      "summary": "Ivo's POV, climax. Ivo baits the trap with a fake ledger; Finch — Reeve himself — comes to the shop at night to destroy it. Confronted, Reeve admits the fraud but swears the murder was his fixer's doing, done to protect him. Emotional beat: the thrill of the reveal curdling into horror at what it protects."
+    },
+    {
+      "n": 10,
+      "title": "Closing the Case",
+      "summary": "Ivo's POV, resolution. Ivo hands the cipher, the letter, and the ledger to Detective Ansel, letting the trial proceed — and letting Wren face her part. The bookshop reopens; the retainer is donated to the whistleblower's daughter. Emotional beat: costly peace — truth kept, loyalty lost, the first case closed by letting go."
+    }
+  ]
+}

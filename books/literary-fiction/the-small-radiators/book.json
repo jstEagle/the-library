@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04087",
+  "title": "The Small Radiators",
+  "author": "Cyrus Kavanagh",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Quentin Ishikawa, a piano tuner who hears the house's history in its radiators, moves through the days like a tenant, not an owner. Then a childhood home goes up for auction — and he is pulled straight into the middle of it. To get through this, he must return to the place where the story went wrong before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "power and its corruption",
+    "identity",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4087
+  }
+}

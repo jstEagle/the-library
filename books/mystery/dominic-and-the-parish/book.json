@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05120",
+  "title": "Dominic and the Parish",
+  "author": "Orsen Reyes",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Bram Fairweather, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. To get through this, they must untangle alibis woven thirty years ago before the statute expires.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5120
+  }
+}

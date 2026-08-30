@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03711",
+  "title": "The Portrait of Vessel Farm",
+  "author": "O. M. Montrose",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Rafael Villalobos, a twin who came home to bury the wrong sibling, documents everything, because documentation is a kind of prayer. But when the childhood imaginary friend is waiting on the porch, unchanged, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the well refills.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3711
+  }
+}

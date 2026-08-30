@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03122",
+  "title": "The Atlas of Port Mahon",
+  "author": "Ulyana Okonkwo",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Lior Thornbury, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and she is pulled straight into the middle of it. To get through this, she must smuggle the evidence past three checkpoints before the century turns.",
+  "themes": [
+    "memory",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3122
+  }
+}

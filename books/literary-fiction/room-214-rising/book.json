@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04210",
+  "title": "Room 214 Rising",
+  "author": "Sable Nakamura",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Ines Ravensworth, a night librarian in a city that sleeps less every year, has spent twelve years practicing the art of almost saying it. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. Now they must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4210
+  }
+}

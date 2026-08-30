@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07535",
+  "title": "Wendell and the Echo",
+  "author": "Xanthe Ishikawa",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Lior Voss, a decommissioned war android paying off its debts, has spent twelve years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, he discovers that staying invisible was never really an option. To get through this, he must prove a massacre happened when every record says otherwise before Earth's last transmission loop ends.",
+  "themes": [
+    "memory",
+    "found family",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7535
+  }
+}

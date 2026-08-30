@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00411",
+  "title": "A Wreck for the Passage",
+  "author": "Astrid Almeida",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Kestrel Reyes, an archaeologist's estranged child and better digger, knows the wilderness forgives nothing and forgets less. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. To get through this, she must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 411
+  }
+}

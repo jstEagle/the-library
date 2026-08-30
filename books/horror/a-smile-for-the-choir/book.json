@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03888",
+  "title": "A Smile for the Choir",
+  "author": "Cyrus Dravenmoor",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Odile Crane, a radio host taking calls from listeners who died last week, keeps the lights on and the doors counted. Then the excavation crew unearths a door, sealed from the inside — and she is pulled straight into the middle of it. Now she must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3888
+  }
+}

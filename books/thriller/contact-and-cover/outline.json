@@ -1,0 +1,59 @@
+{
+  "title": "Contact and Cover",
+  "slug": "thriller/contact-and-cover",
+  "model": "stealth/ox-alpha",
+  "premise": "Wendell Eriksen, a financial-crimes investigator with a fabricated past and a go-bag by the door, receives a call on a burner phone that shouldn't exist — the voice belongs to their handler from a covert training program that officially never happened. The network that made Wendell is laundering clean money through legitimate institutions, and it has begun eliminating its graduates. Hunted by former classmates turned cleaners, Wendell must use their forensic skills to unravel the network's finances, burn its ledger, and expose its architect before the border checkpoint shift change gives them a narrow window to disappear — or to finally testify. In the end, Wendell chooses justice over escape, trading their polished lie for a true name on the record.",
+  "about_author": "A. M. Yarrow is a former compliance analyst who spent a decade tracing money through shells, trusts, and offshore fog before turning to fiction. They write thrillers about people whose paperwork is better than their alibis.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Go-Bag Rule",
+      "summary": "Wendell's POV. A routine day at the Financial Integrity Unit — flagging a suspiciously pristine shell company — while we learn Wendell's habits: the packed bag, the rehearsed backstory, the exits counted in every room. The emotional beat is controlled paranoia, the discipline of a person waiting for a past to arrive."
+    },
+    {
+      "n": 2,
+      "title": "Number That Doesn't Exist",
+      "summary": "Wendell's POV. A burner phone surfaces in Wendell's desk drawer, untraceable, ringing with a voice from the training program — Callas, presumed dead for six years. Callas says the graduates are being liquidated and Wendell is next on the ledger. The beat is dread cracking through routine."
+    },
+    {
+      "n": 3,
+      "title": "Clean Hands, Dirty Ledger",
+      "summary": "Wendell's POV, with a cold interlude from the Cleaner's perspective. Wendell verifies Callas's claim by finding a pattern of graduate-linked accounts being drained and closed — deaths disguised as asset wind-downs. The beat is the horror of recognizing one's own tradecraft used against one's own cohort."
+    },
+    {
+      "n": 4,
+      "title": "What the Program Made",
+      "summary": "Wendell's POV, flashback-woven. Wendell meets Callas at a rail yard; their shared history in the Program surfaces — the training, the debts, the names they surrendered. Callas demands Wendell burn the ledger; Wendell wants only to run. The beat is the tug-of-war between survival and conscience."
+    },
+    {
+      "n": 5,
+      "title": "The Auditor's Blind Spot",
+      "summary": "Wendell's POV. Using official access, Wendell traces the network's spine: a compliance consultancy feeding laundered money through charities and a private bank. A colleague, Inspector Rhea Vance, notices the anomaly — and Wendell must lie to the one honest person in the building. The beat is complicity tightening like a wire."
+    },
+    {
+      "n": 6,
+      "title": "Housecleaning",
+      "summary": "Alternating POV: the Cleaner closes in on Callas; Wendell arrives too late to a safehouse and finds it staged as a suicide. Among the effects: a partial copy of the ledger naming the Program's architect — someone still inside the government. The beat is grief weaponized into resolve."
+    },
+    {
+      "n": 7,
+      "title": "Two Names on a Form",
+      "summary": "Wendell's POV. Wendell decodes the ledger's final layer and finds the architect: Deputy Director Sorel, the man who signed Wendell's new identity. Rhea corners Wendell with the anomalies; Wendell gambles everything and tells her the truth. The beat is the terrifying relief of being seen."
+    },
+    {
+      "n": 8,
+      "title": "Shift Change",
+      "summary": "Wendell and Rhea's POV, intercut. Sorel triggers the network's failsafe, framing Wendell for the murders and freezing their accounts. The border checkpoint shift change — the last unmonitored window — is four hours away. The beat is the clock becoming a character."
+    },
+    {
+      "n": 9,
+      "title": "The Checkpoint",
+      "summary": "Climax, Wendell's POV with the Cleaner closing. Wendell lures Sorel's Cleaner to the crossing, trades the ledger's decryption for Rhea's safety, and forces a public confrontation at the checkpoint itself — cameras, witnesses, nowhere to hide. Sorel is exposed mid-transfer; the Cleaner is taken. The beat is Wendell choosing the record over the exit."
+    },
+    {
+      "n": 10,
+      "title": "True Name",
+      "summary": "Wendell's POV, weeks later. Testimony given, the Program dismantled in hearings, Wendell's fabricated identity dissolved in exchange for a real one — smaller, poorer, unhidden. The go-bag stays packed out of habit, then is finally unpacked. The beat is the quiet, expensive peace of a life that can be audited."
+    }
+  ]
+}

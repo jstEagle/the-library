@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03119",
+  "title": "Yara and the Ledger",
+  "author": "O. M. Villalobos",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Casper Dunmore, a battlefield nurse keeping a ledger of the names officers omit, measures the world in what can be carried when the orders come. Then the census taker asks one question too many — and they are pulled straight into the middle of it. Now they must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3119
+  }
+}

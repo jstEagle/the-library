@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01338",
+  "title": "Orsen and the Oath",
+  "author": "Lior Amberdale",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Kestrel Nakamura, a debt-bound temple scribe, knows every smuggler's road through the Thornfell mountains. But when tonight's date appears in a book of prophecies written a century ago, he discovers that staying invisible was never really an option. To get through this, he must carry a secret that could reignite an ancient war before the moon completes its thirteenth turn.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1338
+  }
+}

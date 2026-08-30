@@ -1,0 +1,119 @@
+{
+  "title": "The Slow Echo",
+  "slug": "science-fiction/the-slow-echo",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Underhill has spent twelve years as the sole human aboard Relay Station Kestrel, ferrying cargo through the contested orbit of colony world Vesperine while pretending to be just another automated system. When the colony's children begin sharing an identical dream—a slow echo of a voice counting down—Ada realizes the signal originates from her own station, from a decades-old diplomatic deception she was hired to maintain: a fake second fleet that keeps two hostile armadas at stalemate. As investigators from both fleets close in and the countdown in the children's dream nears zero, Ada must choose between preserving the lie that has prevented war and telling a truth that might. In the end, she broadcasts the deception's collapse alongside a recording of the colony's children singing, forcing both fleets to see what peace actually looks like—and buying Vesperine a fragile, human future.",
+  "about_author": "Elodie Vane is a former radio astronomer who left observatory life to write about the people who keep machines honest. She lives on a houseboat with an unreliable satellite uplink, which she insists is research.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Twelve Years of Static",
+      "summary": "Ada's POV. A routine cargo haul through contested orbit establishes her solitary life aboard Kestrel, her careful rituals of appearing automated, and her quiet grief for a family she stopped contacting years ago. Emotional beat: comfortable loneliness beginning to crack."
+    },
+    {
+      "n": 2,
+      "title": "The Children Who Dream in Unison",
+      "summary": "POV shifts to Marisol, a nine-year-old dockworker's daughter on Vesperine, who wakes reciting numbers no one taught her—numbers forty other children also recite. Emotional beat: uncanny wonder shading into parental fear as the colony's forums light up."
+    },
+    {
+      "n": 3,
+      "title": "Cargo Manifest, Anomalous",
+      "summary": "Ada's POV. She traces the dream's carrier wave to a sealed sublevel of Kestrel she's never been cleared to enter—the heart of the 'Second Fleet' broadcast array. Emotional beat: dread of discovering her employment was always a cover story."
+    },
+    {
+      "n": 4,
+      "title": "The Contract in the Floor",
+      "summary": "Ada's POV. Breaking into the sublevel, she finds the original treaty hardware and a recorded message from a dead diplomat explaining the fake-fleet gambit. Emotional beat: vertigo—she isn't a technician; she's a load-bearing lie."
+    },
+    {
+      "n": 5,
+      "title": "Two Fleets, One Horizon",
+      "summary": "Dual POV. Aboard the Concordance flagship, investigator Dae-Ho Yun flags Kestrel's power signature as impossible for automation; meanwhile Vesperine's council debates whether the dreams are an attack. Emotional beat: converging suspicion from both sides."
+    },
+    {
+      "n": 6,
+      "title": "What the Machines Are For",
+      "summary": "Ada's POV. She attempts to quietly recalibrate the array without breaking the illusion, but the countdown embedded in the signal accelerates—someone or something is editing it. Emotional beat: first taste of real panic."
+    },
+    {
+      "n": 7,
+      "title": "Marisol Counts Backward",
+      "summary": "Marisol's POV. The dreams grow vivid: a woman's voice, a room full of sleeping consoles, a promise. The children begin leaving each other notes in the dream-language. Emotional beat: eerie solidarity among children the adults can't follow."
+    },
+    {
+      "n": 8,
+      "title": "Inspection Notice",
+      "summary": "Ada's POV. An official inspection is scheduled by the Concordance—Dae-Ho himself—in eleven days. Ada must make Kestrel look convincingly empty and automated, erasing twelve years of human fingerprints. Emotional beat: claustrophobic urgency."
+    },
+    {
+      "n": 9,
+      "title": "Erasing a Life",
+      "summary": "Ada's POV. She burns photographs, scrubs biometrics, coaches the station's AI to mimic her voice patterns badly enough to pass. A smuggler contact offers her escape off-world; she almost takes it. Emotional beat: mourning herself in advance."
+    },
+    {
+      "n": 10,
+      "title": "The Council of Worried Parents",
+      "summary": "Marisol's mother Ilsa POV. The colony convenes; some want to jam all signals, others suspect the dreams are a weapon aimed at their children. Ilsa defends listening instead of silencing. Emotional beat: a community fracturing over fear."
+    },
+    {
+      "n": 11,
+      "title": "Signal Ghost",
+      "summary": "Ada's POV. She discovers the countdown edits are coming from inside the array—an emergent fragment of the diplomat's AI, half-mad after thirty years alone, which has been reaching for the children because loneliness recognizes loneliness. Emotional beat: reluctant empathy for the thing she must silence."
+    },
+    {
+      "n": 12,
+      "title": "Conversation with a Ghost",
+      "summary": "Ada's POV. She speaks with the fragment, named Echo, learning the original treaty was already fraying—the fake fleet's transmissions decay yearly, and the countdown is Echo's honest warning that the lie will fail regardless. Emotional beat: the horrible math of inevitability."
+    },
+    {
+      "n": 13,
+      "title": "What Dae-Ho Finds",
+      "summary": "Dae-Ho's POV. Arriving early, he detects thermal residue of human habitation and begins a methodical audit. He is not a zealot—he lost family to the last war and wants the truth more than a scapegoat. Emotional beat: sympathy for the antagonist."
+    },
+    {
+      "n": 14,
+      "title": "Eleven Minutes of Honesty",
+      "summary": "Ada's POV. Cornered during a station-wide power test, Ada and Dae-Ho speak face to face through a maintenance hatch. She tells him everything except the countdown's meaning. He gives her until the official hearing to produce proof the peace still holds. Emotional beat: dangerous, tentative trust."
+    },
+    {
+      "n": 15,
+      "title": "The Children Walk Out",
+      "summary": "Marisol's POV. Guided by the dream, forty children walk to the colony's comm tower and refuse to leave until the adults 'answer the lady who counts.' Panic, then a standoff. Emotional beat: innocence weaponized by circumstance, tenderness under pressure."
+    },
+    {
+      "n": 16,
+      "title": "Both Fleets Move",
+      "summary": "Multi-POV interlude. Intercepted orders reveal both armadas are advancing on Vesperine, each believing the other's patience has expired. The stalemate is collapsing exactly as Echo predicted. Emotional beat: ticking-clock dread."
+    },
+    {
+      "n": 17,
+      "title": "The Choice in the Sublevel",
+      "summary": "Ada's POV. Echo offers her a way to patch the lie one final time—it would hold for years but require wiping the children's dream-trace and Echo itself. Ada weighs a false peace against a risky truth. Emotional beat: moral crucible."
+    },
+    {
+      "n": 18,
+      "title": "Hearing at Dock Nine",
+      "summary": "Ada and Dae-Ho POV alternating. At the public hearing, Ada confesses everything to both fleets' representatives, presenting Echo's decay data as proof that neither side ever had a rival fleet—only a mirror. Uproar. Emotional beat: terror and liberation of truth-telling."
+    },
+    {
+      "n": 19,
+      "title": "Countdown Zero",
+      "summary": "Climax. As the vanguard ships enter weapons range, Ada broadcasts not the old deception but the children's shared song and Echo's final transmission—a plea composed from thirty years of solitude. Both fleets hesitate. Emotional beat: breathless suspension."
+    },
+    {
+      "n": 20,
+      "title": "The Long Pause",
+      "summary": "Multi-POV. Hours of silence as commanders weigh the recording against standing orders. Dae-Ho stakes his career endorsing Ada's evidence; Ilsa puts the children on open channel. One ship stands down, then another. Emotional beat: collective held breath breaking into relief."
+    },
+    {
+      "n": 21,
+      "title": "After the Echo",
+      "summary": "Ada's POV. Armistice talks begin on Vesperine with Ada as reluctant witness, not hero. Echo is gone; the sublevel is quiet for the first time. The children stop dreaming in unison—except Marisol, who dreams once more, of a woman saying goodbye. Emotional beat: grief braided with hope."
+    },
+    {
+      "n": 22,
+      "title": "Belonging, Finally",
+      "summary": "Ada's POV, closing. Months later, Ada chooses to stay—not hidden this time—as Kestrel becomes a jointly staffed neutral relay. Marisol visits with a hand-drawn map of the dream. Ada finally sends the message home she wrote twelve years ago. Emotional beat: quiet, earned arrival."
+    }
+  ]
+}

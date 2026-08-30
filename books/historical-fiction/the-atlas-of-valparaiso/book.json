@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02460",
+  "title": "The Atlas of Valparaíso",
+  "author": "Jude Brightwater",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Silas Eriksen, a suffragist's driver who reads every letter before delivering it, keeps a low profile and busy hands. Then a child is left at the door with instructions to forget the face — and he is pulled straight into the middle of it. To get through this, he must keep a promise made in peacetime to someone now declared enemy before the ship sails on the morning tide.",
+  "themes": [
+    "identity",
+    "belonging",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2460
+  }
+}

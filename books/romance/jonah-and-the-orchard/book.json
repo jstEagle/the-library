@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06035",
+  "title": "Jonah and the Orchard",
+  "author": "U. M. Vane",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Ada Thornbury, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. But when the person behind a decade of letters moves in next door, they discover that staying invisible was never really an option. Now they must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6035
+  }
+}

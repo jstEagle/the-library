@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07723",
+  "title": "A Horizon for the Protocol",
+  "author": "Jude Oyelaran",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "August Almeida, a terraformer tending a garden meant for people not yet born, has spent three years hauling cargo through contested orbits. Then a ship returns from deep space with everyone aboard aged backward — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7723
+  }
+}

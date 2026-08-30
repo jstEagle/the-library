@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07270",
+  "title": "Casper and the Machine",
+  "author": "Jonah Voss",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Coral Lockridge, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. To get through this, they must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "found family",
+    "memory",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7270
+  }
+}

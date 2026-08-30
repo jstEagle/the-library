@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07522",
+  "title": "The Slow Vector",
+  "author": "Marguerite Sandoval",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Zephyrine Blackwood, a decommissioned war android paying off its debts, runs the long route between worlds that no longer speak. Then the colony's children start sharing the same dream — and she is pulled straight into the middle of it. To get through this, she must prove a massacre happened when every record says otherwise before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7522
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09108",
+  "title": "Extraction and Cover",
+  "author": "Paloma Hartwell",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "August Sterling, a financial-crimes investigator drowning in clean money, works cases no one wants attributed. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9108
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04579",
+  "title": "Jonah and the Weather",
+  "author": "Oscar Galloway",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ines Quintana, a restaurant critic who has forgotten how food tastes, has spent three years practicing the art of almost saying it. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. Now he must translate the untranslatable sentence and live with it, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4579
+  }
+}

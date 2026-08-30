@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02534",
+  "title": "Atlas and Orchard",
+  "author": "Juniper Galloway",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Noor Vasquez, a mapmaker's apprentice finishing the atlas the master died for, measures the world in what can be carried when the orders come. Then the bridge — the only road out — closes for the season — and he is pulled straight into the middle of it. To get through this, he must choose which family member gets the last berth before the armistice is signed — or isn't.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2534
+  }
+}

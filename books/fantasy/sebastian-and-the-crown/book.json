@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01427",
+  "title": "Sebastian and the Crown",
+  "author": "Orsen Yarrow",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Oscar Okafor, a hedge-witch's runaway apprentice, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1427
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07314",
+  "title": "The Terminal of the Kuiper Line",
+  "author": "Dominic Yarrow",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Sebastian Blackwood, a decommissioned war android paying off its debts, maintains the beacon nobody remembers commissioning. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. To get through this, they must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "memory",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7314
+  }
+}

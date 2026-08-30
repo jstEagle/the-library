@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04857",
+  "title": "When the Parish Falls",
+  "author": "U. M. Underhill",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Ivo Fairweather, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. Then a client pays in advance to prove a murder hasn't happened — yet — and he is pulled straight into the middle of it. To get through this, he must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4857
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08149",
+  "title": "Ansel and the Archive",
+  "author": "Odile Nakamura",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Silas Underhill, a decommissioned war android paying off its debts, has spent five years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. To get through this, they must keep a lie alive that holds two fleets apart before the jump window closes.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8149
+  }
+}

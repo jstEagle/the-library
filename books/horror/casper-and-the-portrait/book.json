@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03771",
+  "title": "Casper and the Portrait",
+  "author": "Wren Lockridge",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Odile Delacroix, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. Then the sleep recordings capture a second voice answering questions — and they are pulled straight into the middle of it. To get through this, they must return what was taken in 1974 before the frost writes its final pattern.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3771
+  }
+}

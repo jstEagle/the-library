@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01030",
+  "title": "Felix and the Crown",
+  "author": "A. M. Okonkwo",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Isandro Zhou, a hedge-witch's runaway apprentice, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. To get through this, they must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1030
+  }
+}

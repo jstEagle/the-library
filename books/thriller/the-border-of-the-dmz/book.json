@@ -1,0 +1,21 @@
+{
+  "id": "THR-08796",
+  "title": "The Border of the DMZ",
+  "author": "Sebastian Almeida",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Orsen Hartwell, a burnt analyst bounced from three agencies, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and she is pulled straight into the middle of it. To get through this, she must extract a defector who may be the bait before the border checkpoint shifts change.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8796
+  }
+}

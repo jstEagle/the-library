@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00091",
+  "title": "When the Rivergate Breaks",
+  "author": "Tamsin Joubert",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.7,
+  "blurb": "Zephyrine Vane, an archaeologist's estranged child and better digger, keeps moving because stopping costs more. But when a government survey team vanishes, leaving gear and no tracks, they discover that staying invisible was never really an option. Now they must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 91
+  }
+}

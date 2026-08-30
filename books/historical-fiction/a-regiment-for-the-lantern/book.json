@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02718",
+  "title": "A Regiment for the Lantern",
+  "author": "Lior Ishikawa",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Marguerite Winterbourne, a mapmaker's apprentice finishing the atlas the master died for, keeps a low profile and busy hands. Then the bridge — the only road out — closes for the season — and they are pulled straight into the middle of it. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the armistice is signed — or isn't.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2718
+  }
+}

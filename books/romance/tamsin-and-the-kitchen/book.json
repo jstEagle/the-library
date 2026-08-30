@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06001",
+  "title": "Tamsin and the Kitchen",
+  "author": "Noor Zhou",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Isandro Ashgrove, a wedding planner who doesn't believe in weddings anymore, has spent fifteen years rebuilding a life measured in small safe steps. But when a fake date to survive a family reunion feels too real by dessert, she discovers that staying invisible was never really an option. To get through this, she must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6001
+  }
+}

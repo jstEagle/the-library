@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09780",
+  "title": "Dominic and the Detention",
+  "author": "Vesper Nakamura",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Wendell Whitlock, a debate champion who can't win the argument at home, counts days until graduation like a sentence being served. But when the teacher pairs nemesis with nemesis for a semester-long project, they discover that staying invisible was never really an option. To get through this, they must win the championship that doesn't matter — and the one that does before prom.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9780
+  }
+}

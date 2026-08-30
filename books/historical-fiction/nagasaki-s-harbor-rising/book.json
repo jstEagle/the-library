@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02420",
+  "title": "Nagasaki's harbor Rising",
+  "author": "Beatrix Vane",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Cyrus Whitlock, a typeface cutter's daughter in a print shop on the eve of a revolution, measures the world in what can be carried when the orders come. But when a stranger arrives carrying unmistakable handwriting from a supposed corpse, they discover that staying invisible was never really an option. To get through this, they must smuggle the evidence past three checkpoints before the ice breaks on the river.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2420
+  }
+}

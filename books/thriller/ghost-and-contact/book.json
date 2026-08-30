@@ -1,0 +1,21 @@
+{
+  "id": "THR-09009",
+  "title": "Ghost and Contact",
+  "author": "Casper Delacroix",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Rosalind Marchetti, a whistle-blower living under four names, keeps a go-bag packed and a lie polished. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. Now they must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9009
+  }
+}

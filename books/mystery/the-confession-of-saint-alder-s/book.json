@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05253",
+  "title": "The Confession of Saint Alder's",
+  "author": "Dominic Dunmore",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Dominic Iversen, a night-shift dispatcher for a taxi company, has spent twenty years keeping the town's secrets filed and alphabetized. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. To get through this, she must trap a killer who knows the case file better than the investigators do before the tide gives up what it took.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5253
+  }
+}

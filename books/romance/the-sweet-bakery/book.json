@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06477",
+  "title": "The Sweet Bakery",
+  "author": "Oscar Amberdale",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Felix Amberdale, a cellist recovering from one catastrophic final performance, has spent seven years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and they are pulled straight into the middle of it. To get through this, they must let someone stay after the last train leaves before the vineyard's first harvest comes in.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6477
+  }
+}

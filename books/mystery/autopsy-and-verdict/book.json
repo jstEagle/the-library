@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05022",
+  "title": "Autopsy and Verdict",
+  "author": "Felix Marchetti",
+  "genre": "Mystery",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Juniper Dunmore, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. Then the town's beloved founder is exhumed and the coffin is empty — and he is pulled straight into the middle of it. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5022
+  }
+}

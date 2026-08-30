@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05965",
+  "title": "A Letters for the Orchard",
+  "author": "K. M. Ishikawa",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Ansel Brightwater, a ghostwriter secretly penning a rival's memoirs, has spent twelve years rebuilding a life measured in small safe steps. But when a snowstorm strands two rivals with the best mistake of their twenties, they discover that staying invisible was never really an option. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5965
+  }
+}

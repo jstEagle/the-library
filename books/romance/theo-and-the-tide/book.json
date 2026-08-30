@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05974",
+  "title": "Theo and the Tide",
+  "author": "Beatrix Dunmore",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Silas Winterbourne, a wedding planner who doesn't believe in weddings anymore, keeps love in the past tense where it belongs. Then the person behind a decade of letters moves in next door — and they are pulled straight into the middle of it. To get through this, they must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5974
+  }
+}

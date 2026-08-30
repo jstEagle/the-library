@@ -1,0 +1,21 @@
+{
+  "id": "THR-08995",
+  "title": "When the Deadline Wakes",
+  "author": "Ansel Eriksen",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Bram Zhou, a burnt analyst bounced from three agencies, has spent ten years following rules that keep getting rewritten. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. To get through this, she must stop an attack scheduled to look like an accident before the summit convenes.",
+  "themes": [
+    "identity",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8995
+  }
+}

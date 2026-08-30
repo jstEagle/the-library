@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00192",
+  "title": "The Far Horizon",
+  "author": "Emrys Whitlock",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Tamsin Ashgrove, a railroad engineer with a map of closed lines, has spent fifteen years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. Now she must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 192
+  }
+}

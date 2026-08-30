@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00051",
+  "title": "The Current of Mount Kessler",
+  "author": "Dominic Dunmore",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Paloma Dunmore, an archaeologist's estranged child and better digger, carries a compass, a debt, and very little else. Then a dying prospector trades a map for a promise — and they are pulled straight into the middle of it. To get through this, they must follow a river upstream to its forbidden source before the monsoon makes landfall.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 51
+  }
+}

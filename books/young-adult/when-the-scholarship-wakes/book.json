@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09666",
+  "title": "When the Scholarship Wakes",
+  "author": "Sable Thackeray",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Silas Okafor, a baker's kid who bakes feelings into bread, is fine. Everything is fine. Obviously.. Then the teacher pairs nemesis with nemesis for a semester-long project — and he is pulled straight into the middle of it. Now he must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9666
+  }
+}

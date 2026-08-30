@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02372",
+  "title": "Quentin and the Lantern",
+  "author": "Ivo Sterling",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Elodie Okafor, an apprentice clockmaker summoned to repair the observatory's master clock, believes history happens to other people, elsewhere. Then the army requisitions the town and the ledger with all the names — and they are pulled straight into the middle of it. To get through this, they must finish the work while the workshop still stands before the armistice is signed — or isn't.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2372
+  }
+}

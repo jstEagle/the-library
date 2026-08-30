@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09777",
+  "title": "Quentin and the Locker",
+  "author": "Ines Voss",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Petra Dunmore, a scholarship student at an academy with too many secrets, counts days until graduation like a sentence being served. Then the teacher pairs nemesis with nemesis for a semester-long project — and she is pulled straight into the middle of it. To get through this, she must expose what the school board buried before prom.",
+  "themes": [
+    "identity",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9777
+  }
+}

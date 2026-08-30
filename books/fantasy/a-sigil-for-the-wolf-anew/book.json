@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02109",
+  "title": "A Sigil for the Wolf Anew",
+  "author": "Sable Fairweather",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Wendell Joubert, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and they are pulled straight into the middle of it. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2109
+  }
+}

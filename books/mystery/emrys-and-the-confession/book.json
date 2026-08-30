@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05701",
+  "title": "Emrys and the Confession",
+  "author": "Tamsin Dravenmoor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Lior Eastwick, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. Then a confession letter arrives postmarked the day after the funeral — and they are pulled straight into the middle of it. Now they must decode a ledger hidden in plain sight, and time is already running out.",
+  "themes": [
+    "memory",
+    "identity",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5701
+  }
+}

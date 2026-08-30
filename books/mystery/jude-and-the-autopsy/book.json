@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05671",
+  "title": "Jude and the Autopsy",
+  "author": "Sebastian Coldharbour",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Mara Quintana, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. Then twin letters arrive: one confessing, one promising more — and they are pulled straight into the middle of it. To get through this, they must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5671
+  }
+}

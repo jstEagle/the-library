@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03106",
+  "title": "A Atlas for the Bridge",
+  "author": "Orsen Winterbourne",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Petra Eriksen, an apprentice clockmaker summoned to repair the observatory's master clock, measures the world in what can be carried when the orders come. Then a sealed letter names the family in a plot no one wants a part of — and he is pulled straight into the middle of it. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3106
+  }
+}

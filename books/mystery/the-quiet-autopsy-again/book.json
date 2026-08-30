@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05712",
+  "title": "The Quiet Autopsy Again",
+  "author": "V. M. Iversen",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jonah Joubert, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. To get through this, he must untangle alibis woven thirty years ago before the anniversary dinner raises its glass.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5712
+  }
+}

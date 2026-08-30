@@ -1,0 +1,21 @@
+{
+  "id": "THR-08873",
+  "title": "Silas and the Cover",
+  "author": "Isandro Lockridge",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Isandro Okafor, a hostage negotiator with one failure still on the board, keeps a go-bag packed and a lie polished. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. To get through this, she must get the truth past three governments and one assassin before the extraction flight leaves at dawn.",
+  "themes": [
+    "belonging",
+    "memory",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8873
+  }
+}

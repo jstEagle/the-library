@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01405",
+  "title": "Felix and the Ember",
+  "author": "Juniper Nystrom",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Mirabel Okafor, an exiled storm-caller, has never left the valley where magic cannot follow. But when the border wards fall on the same night the stars go out, he discovers that staying invisible was never really an option. To get through this, he must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1405
+  }
+}

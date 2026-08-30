@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04775",
+  "title": "Wardrobe and Postcards",
+  "author": "Kestrel Pemberton",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Theo Marchetti, a letter-writer sending postcards to an address that burned down years ago, has perfected the smile that ends conversations. But when a box of undelivered letters surfaces behind a wardrobe, he discovers that staying invisible was never really an option. Now he must return to the place where the story went wrong, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4775
+  }
+}

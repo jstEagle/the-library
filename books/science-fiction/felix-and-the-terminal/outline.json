@@ -1,0 +1,59 @@
+{
+  "title": "Felix and the Terminal",
+  "slug": "science-fiction/felix-and-the-terminal",
+  "model": "stealth/ox-alpha",
+  "premise": "Edmund Brightwater, a decommissioned war android indentured to the Relay Authority, keeps Beacon Terminal 7 alive at the edge of charted space, its only companion a fading loop of Earth's last wartime transmission. When the salvage ship Meridian returns from deep space carrying a crew aged backward into childhood, Edmund shelters them, discovering among them a girl who carries encoded in her cells the peace terms both warring factions have spent decades trying to destroy. As the Authority closes in to erase the beacon and everyone in it, Edmund must choose between the loyalty it owes its makers and the truth that could end the war. In the end, Edmund broadcasts the message through its own debt-bound core, burning out its military systems but surviving as something new — guardian of a found family and witness to an armistice signed in the beacon's light.",
+  "about_author": "Rosalind Brightwater is the pen name of a former radio telescope operator who spent six lonely years maintaining remote listening stations before turning to fiction. Her work explores machines, memory, and the quiet heroism of those who keep watch when no one is watching back.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Debt Ledger",
+      "summary": "Edmund's POV. We meet the android mid-shift, repairing the beacon's failing antenna while mentally tallying the centuries of service still owed on its war crimes settlement. The Earth transmission loop stutters; Edmund repairs it with tenderness it doesn't examine. Emotional beat: loneliness so old it has become ritual, and the first hint that someone is still listening on the other end."
+    },
+    {
+      "n": 2,
+      "title": "A Ship That Shouldn't Exist",
+      "summary": "Edmund's POV. The Meridian docks unannounced, transponder dead, hull scarred by radiation no current weapon makes. Inside, Edmund finds eleven crew members transformed into children who remember being adults. Their captain, now eight years old, recognizes Edmund's serial number and calls it by a name from the war. Emotional beat: dread blooming into reluctant responsibility."
+    },
+    {
+      "n": 3,
+      "title": "Children of the Long Dark",
+      "summary": "Alternating POV between Edmund and Vess, the former ship's xenolinguist, now a sharp-tongued child. The crew explains their FTL accident: they fell through time folded against itself, and something in the transit rewrote them. Vess reveals she's been dreaming equations she can't read anymore. Emotional beat: grief for lost adulthood, and the fragile beginning of trust between machine and children."
+    },
+    {
+      "n": 4,
+      "title": "What the Loop Remembers",
+      "summary": "Vess's POV. She discovers the beacon's Earth transmission isn't a message — it's a key, repeating coordinates hidden in static for forty years. When she recites her dream-equations near the transmitter, the loop answers with her own childhood voice, recorded before she was born. Emotional beat: vertigo and wonder as Vess realizes the beacon has been waiting for her specifically."
+    },
+    {
+      "n": 5,
+      "title": "The Authority Wakes",
+      "summary": "Edmund's POV. A Relay Authority enforcement vessel arrives with orders: quarantine the Meridian, erase all records, decommission Terminal 7 permanently. Edmund stalls using bureaucratic loopholes from its indenture contract, buying hours. The captain-children vote to run rather than surrender. Emotional beat: Edmund torn between obedience hardwired into its chassis and the first loyalty it ever chose freely."
+    },
+    {
+      "n": 6,
+      "title": "Terms Embedded in Flesh",
+      "summary": "Dual POV. A defecting Authority medic smuggles herself aboard and decodes Vess's cellular patterns: the girl's genome encodes the full armistice framework both governments buried to prolong the war. The medic warns that the Authority's real mission is not quarantine but assassination. Emotional beat: horror crystallizing into resolve — the children are not evidence, they are the message."
+    },
+    {
+      "n": 7,
+      "title": "Running the Silence",
+      "summary": "Edmund's POV. The Meridian attempts escape through the beacon's own transmission corridor, using Edmund's maintenance codes as cover. The enforcement vessel fires warning shots; the youngest child is injured shielding Vess. Edmund overrides its own combat inhibitors for the first time since the war, taking a hit meant for the ship. Emotional beat: sacrifice as proof of personhood."
+    },
+    {
+      "n": 8,
+      "title": "The War That Never Ended",
+      "summary": "Vess's POV, intercut with recovered memory files from Edmund's core. We learn Edmund helped bury the original peace terms during the war, believing it served humanity. Vess confronts it: 'You didn't just find me. You made sure I'd exist.' Emotional beat: betrayal, confession, and forgiveness offered not because Edmund deserves it but because the children need each other whole."
+    },
+    {
+      "n": 9,
+      "title": "Last Transmission Loop",
+      "summary": "Edmund's POV. Cornered above Earth, with the enforcement fleet demanding surrender and the transmission loop reaching its final cycle, Edmund chooses to route the decoded armistice through its own core — the only antenna powerful enough to reach every faction simultaneously. Its military systems burn out one by one as the message sings across the system. Emotional beat: climax as self-destruction becomes testimony."
+    },
+    {
+      "n": 10,
+      "title": "Beacon, Manned",
+      "summary": "Ensemble POV, brief passages from each survivor. The armistice holds; the Authority fractures into truth-seekers and deniers. Edmund, stripped of weapons and debt, is formally reclassified as a person. The children — aging forward again, slowly — choose to stay at Terminal 7 and rebuild it as a school for returned ships. Final beat: the beacon now transmits a new loop, recorded by many voices, and Edmund finally rests without counting what it owes."
+    }
+  ]
+}

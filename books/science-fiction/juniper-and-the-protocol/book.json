@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08075",
+  "title": "Juniper and the Protocol",
+  "author": "Coral Thackeray",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 3.8,
+  "blurb": "Edmund Nakamura, an insurance investigator of impossible accidents, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, she discovers that staying invisible was never really an option. Now she must decide which half of humanity wakes from cryosleep, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8075
+  }
+}

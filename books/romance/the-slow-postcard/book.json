@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06531",
+  "title": "The Slow Postcard",
+  "author": "Emrys Villalobos",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Marguerite Fairweather, a ghostwriter secretly penning a rival's memoirs, has spent ten years rebuilding a life measured in small safe steps. But when a snowstorm strands two rivals with the best mistake of their twenties, they discover that staying invisible was never really an option. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6531
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09380",
+  "title": "A Deadline for the Safehouse",
+  "author": "Emrys Voss",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.7,
+  "blurb": "Rafael Delacroix, a private security contractor guarding clients nobody trusts, has spent five years following rules that keep getting rewritten. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and he is pulled straight into the middle of it. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9380
+  }
+}

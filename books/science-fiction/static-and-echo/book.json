@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07192",
+  "title": "Static and Echo",
+  "author": "Oscar Oyelaran",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.8,
+  "blurb": "Freya Eriksen, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and he is pulled straight into the middle of it. To get through this, he must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7192
+  }
+}

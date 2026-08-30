@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01163",
+  "title": "Wolf and Oath",
+  "author": "Theo Sterling",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Yara Okonkwo, an exiled storm-caller, knows every smuggler's road through the Thornfell mountains. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. To get through this, he must unbind a king from the thing wearing his crown before the moon completes its thirteenth turn.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1163
+  }
+}

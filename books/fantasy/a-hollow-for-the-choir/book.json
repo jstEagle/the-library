@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01533",
+  "title": "A Hollow for the Choir",
+  "author": "L. M. Brightwater",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Petra Whitlock, a beast-speaker hiding a forbidden gift, has spent twenty years selling small charms in a city that outlawed magic. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. Now she must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1533
+  }
+}

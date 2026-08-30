@@ -1,0 +1,21 @@
+{
+  "id": "THR-09124",
+  "title": "Mara and the Extraction",
+  "author": "Freya Marchetti",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Rafael Amberdale, a crash investigator whose family died in row twelve, keeps a go-bag packed and a lie polished. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. To get through this, he must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9124
+  }
+}

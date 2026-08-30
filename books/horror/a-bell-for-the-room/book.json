@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03428",
+  "title": "A Bell for the Room",
+  "author": "A. M. Vasquez",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 3.8,
+  "blurb": "Felix Almeida, a pest controller called to something with fingerprints, has spent ten years telling themselves the noises have explanations. But when every mirror in the house starts reflecting the room one second late, they discover that staying invisible was never really an option. To get through this, they must learn the song's last verse without singing along before the well refills.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3428
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05441",
+  "title": "Ledger and Cipher",
+  "author": "Q. M. Okafor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "August Vasquez, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. But when the town's beloved founder is exhumed and the coffin is empty, he discovers that staying invisible was never really an option. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "identity",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5441
+  }
+}

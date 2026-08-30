@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05276",
+  "title": "Gideon and the Confession",
+  "author": "Gideon Amberdale",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Hazel Vasquez, a retired detective running a failing bookshop, has spent twelve years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, she discovers that staying invisible was never really an option. To get through this, she must close the one case everyone swore was closed for good before the tide gives up what it took.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5276
+  }
+}

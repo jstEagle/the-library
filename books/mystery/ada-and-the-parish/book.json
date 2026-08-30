@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05694",
+  "title": "Ada and the Parish",
+  "author": "Wren Eastwick",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Petra Villalobos, an estate lawyer reading a will that shouldn't exist, thought they had seen every way a life can end. But when a confession letter arrives postmarked the day after the funeral, she discovers that staying invisible was never really an option. Now she must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5694
+  }
+}

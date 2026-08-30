@@ -1,0 +1,59 @@
+{
+  "title": "Cipher and Deadline",
+  "slug": "thriller/cipher-and-deadline",
+  "model": "stealth/ox-alpha",
+  "premise": "Wren Dravenmoor, a deniable fixer for the Meridian Consulate—an embassy that exists on no map—investigates a passenger flight whose records evaporate mid-flight, only to discover the plane never landed: it was rerouted to smuggle a weapon that will detonate at a border checkpoint, disguised as an infrastructure accident. Following a cipher hidden in their late father's inheritance papers, Wren uncovers that the conspiracy reaches into the Consulate itself, implicating the mentor who trained them. In a race against the checkpoint shift change, Wren must choose between protecting the institution that gave them purpose and delivering justice the law will never allow—ending with Wren exposing the plot publicly, burning their own cover, and walking away from the Consulate as the weapon is stopped and their mentor arrested.",
+  "about_author": "Theo Pemberton is a former logistics analyst who spent six years working near international transit corridors before turning to fiction full-time. They write thrillers about ordinary systems failing quietly, and live in a coastal town where they claim to have finally started sleeping through the night.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Flight That Wasn't",
+      "summary": "Wren's POV. Called in before dawn when flight KX-409 vanishes from every database while still airborne, Wren works the Consulate's back channels and finds no wreckage, no diversion, no passengers—only a single customs flag scrubbed seconds after it appeared. The beat is cold professional unease curdling into personal dread when Wren recognizes the customs officer's name from their father's old files."
+    },
+    {
+      "n": 2,
+      "title": "Inheritance of Small Lies",
+      "summary": "Wren's POV, with a flashback interlude. Sorting through their father's sealed estate, Wren finds a page ciphered in a family code, referencing 'the Meridian arrangement'—proof their father knew about the Consulate decades ago. The emotional beat is grief sharpening into suspicion: the inheritance isn't money, it's a warning Wren was meant to find only if something went wrong."
+    },
+    {
+      "n": 3,
+      "title": "Checkpoint Arithmetic",
+      "summary": "Wren's POV. Decoding the cipher reveals a schedule keyed to border checkpoint shift changes, pointing to an 'accident' timed for maximum casualties during handover, when protocols lapse. Wren reports upward and is quietly told to stand down. The beat is institutional betrayal—the first crack in Wren's faith, delivered with bureaucratic politeness."
+    },
+    {
+      "n": 4,
+      "title": "The Mentor's Hands",
+      "summary": "Dual POV: Wren and Ilse Varga, Wren's mentor and the Consulate's operations chief. Ilse reviews Wren's findings and orders a containment team—not to stop the attack, but to manage its narrative. Her chapters reveal her pragmatism and genuine affection for Wren, making her complicity more tragic than villainous. The beat is dread: the reader knows what Wren doesn't yet."
+    },
+    {
+      "n": 5,
+      "title": "Cargo Manifest, Revised",
+      "summary": "Wren's POV. Going off-book, Wren traces KX-409's true cargo through a freight broker in Rotterdam and finds the weapon: not a bomb but a cascading industrial sabotage kit designed to rupture fuel lines at the checkpoint and read as negligence. The beat is grim clarity—the attack is engineered to be unprovable, justice-proof by design."
+    },
+    {
+      "n": 6,
+      "title": "Six Hours to Shift Change",
+      "summary": "Wren's POV, real-time pressure. With under six hours until the vulnerable shift handover, Wren recruits Sefa, a disgraced air-traffic analyst who first flagged the vanished flight, and they physically retrace the cargo route. A tail forces them off the road; Sefa is injured. The beat is adrenaline laced with guilt—Wren has made someone else a target."
+    },
+    {
+      "n": 7,
+      "title": "What the Consulate Owes",
+      "summary": "Ilse's POV, then Wren's. Ilse confronts Wren privately, offering reinstatement and protection if Wren walks away, revealing fragments of why: the Consulate was built on compromises her generation made and buried. Wren refuses. The beat is heartbreak between two people who respect each other completely and can no longer serve the same thing."
+    },
+    {
+      "n": 8,
+      "title": "The Handover",
+      "summary": "Wren's POV, climax part one. At the checkpoint, Wren triggers a false inspection to freeze the shift change and buys minutes, then confronts the saboteur crew in the maintenance tunnels beneath the crossing. A brutal close-quarters struggle ends with the sabotage rig disabled but Sefa wounded again shielding Wren. The beat is desperate, costly victory."
+    },
+    {
+      "n": 9,
+      "title": "Cipher, Declassified",
+      "summary": "Wren's POV, climax part two. Rather than let the Consulate bury it, Wren broadcasts the decoded evidence—flight records, Ilse's containment order, the father's cipher—to press contacts and three governments simultaneously, using the Consulate's own deniability architecture against it. Ilse surrenders without a fight, telling Wren she'd hoped they'd be the one to end it. The beat is catharsis through self-destruction."
+    },
+    {
+      "n": 10,
+      "title": "Sleeping Through the Night",
+      "summary": "Wren's POV, weeks later. Testifying under immunity agreements no one trusts, Wren watches the Meridian Consulate formally dissolved and their father's name cleared in a footnote no newspaper prints. Sefa recovers; Wren visits the checkpoint, now mundane and safe. The final image: Wren asleep through the night for the first time since the incident. The beat is quiet, earned peace—and justice that outlived the law that failed to provide it."
+    }
+  ]
+}

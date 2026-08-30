@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05611",
+  "title": "Theo and the Will",
+  "author": "Paloma Eriksen",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Gideon Underhill, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5611
+  }
+}

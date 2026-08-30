@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09662",
+  "title": "The Sixteenth Mixtape",
+  "author": "C. M. Underhill",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.4,
+  "blurb": "Sebastian Hartwell, the team's statistician who knows the game is rigged, has spent ten years being so careful it hurts. But when a best friend goes missing, leaving only a set of keys behind, he discovers that staying invisible was never really an option. Now he must tell the truth even if it costs the friendship, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9662
+  }
+}

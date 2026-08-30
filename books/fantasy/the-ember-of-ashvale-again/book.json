@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01799",
+  "title": "The Ember of Ashvale Again",
+  "author": "Zephyrine Dunmore",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Coral Okonkwo, a mercenary sworn to a god that went silent, has never left the valley where magic cannot follow. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. Now they must carry a secret that could reignite an ancient war, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1799
+  }
+}

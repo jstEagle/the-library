@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09835",
+  "title": "The Prom of Maple Street",
+  "author": "J. M. Ashgrove",
+  "genre": "Young Adult",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Elodie Delacroix, a scholarship student at an academy with too many secrets, counts days until graduation like a sentence being served. Then grandma's recipe box contains directions that aren't for food — and she is pulled straight into the middle of it. To get through this, she must win the championship that doesn't matter — and the one that does before prom.",
+  "themes": [
+    "belonging",
+    "identity",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9835
+  }
+}

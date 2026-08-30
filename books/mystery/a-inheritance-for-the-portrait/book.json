@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04902",
+  "title": "A Inheritance for the Portrait",
+  "author": "Sable Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ada Nystrom, a retired detective running a failing bookshop, has spent five years keeping the town's secrets filed and alphabetized. Then twin letters arrive: one confessing, one promising more — and he is pulled straight into the middle of it. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4902
+  }
+}

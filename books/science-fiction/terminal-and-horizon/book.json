@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07336",
+  "title": "Terminal and Horizon",
+  "author": "Rafael Kavanagh",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Jude Sterling, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. But when a distress signal arrives in a language extinct for two centuries, they discover that staying invisible was never really an option. To get through this, they must reach the relay at the edge of dead space, racing the signal before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7336
+  }
+}

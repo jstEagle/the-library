@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04390",
+  "title": "The Undertow of the old quarter",
+  "author": "Coral Reyes",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Coral Ishikawa, a restaurant critic who has forgotten how food tastes, moves through the days like a tenant, not an owner. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. To get through this, she must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4390
+  }
+}

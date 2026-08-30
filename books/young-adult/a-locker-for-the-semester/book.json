@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09626",
+  "title": "A Locker for the Semester",
+  "author": "E. M. Iversen",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Lior Zhou, a scholarship student at an academy with too many secrets, has spent twenty years being so careful it hurts. Then a best friend goes missing, leaving only a set of keys behind — and she is pulled straight into the middle of it. To get through this, she must win the championship that doesn't matter — and the one that does before the last game of the season.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9626
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09725",
+  "title": "The Quiet Detention",
+  "author": "O. M. Pemberton",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Yara Fairweather, a scholarship student at an academy with too many secrets, stays under the radar: head down, grades up, locker shut. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and they are pulled straight into the middle of it. To get through this, they must decide who to be when the labels come off before graduation.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9725
+  }
+}

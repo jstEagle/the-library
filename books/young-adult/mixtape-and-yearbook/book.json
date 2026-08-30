@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09979",
+  "title": "Mixtape and Yearbook",
+  "author": "Sable Eastwick",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Kestrel Sterling, a coder whose anonymous account knows too much, counts days until graduation like a sentence being served. But when the college essay prompt asks one honest question nobody can stop answering, she discovers that staying invisible was never really an option. Now she must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9979
+  }
+}

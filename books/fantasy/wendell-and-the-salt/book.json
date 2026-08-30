@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02120",
+  "title": "Wendell and the Salt",
+  "author": "Juniper Dunmore",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Freya Quintana, a bone-carver who hears the dead, has never left the valley where magic cannot follow. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "found family",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2120
+  }
+}

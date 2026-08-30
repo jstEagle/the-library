@@ -1,0 +1,21 @@
+{
+  "id": "THR-08747",
+  "title": "Zephyrine and the Ghost",
+  "author": "August Whitlock",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Beatrix Amberdale, a hostage negotiator with one failure still on the board, has spent ten years following rules that keep getting rewritten. Then a stranger returns a favor that never happened, with interest owed — and she is pulled straight into the middle of it. Now she must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8747
+  }
+}

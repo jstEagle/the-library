@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01310",
+  "title": "The Oath of the Sundered Sea",
+  "author": "Ines Eriksen",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Gideon Thackeray, a mercenary sworn to a god that went silent, keeps the ledgers of a guild that trades in impossible things. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1310
+  }
+}

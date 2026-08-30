@@ -1,0 +1,21 @@
+{
+  "id": "THR-08833",
+  "title": "The Ghost of Marseille's old port",
+  "author": "Noor Reyes",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "August Zhou, a crash investigator whose family died in row twelve, hasn't slept through the night since the incident. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. Now they must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8833
+  }
+}

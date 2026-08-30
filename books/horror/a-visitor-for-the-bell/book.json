@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03704",
+  "title": "A Visitor for the Bell",
+  "author": "Tamsin Halloran",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Mirabel Hartwell, a property surveyor appraising a house that appraises back, keeps the lights on and the doors counted. Then the childhood imaginary friend is waiting on the porch, unchanged — and he is pulled straight into the middle of it. Now he must finish the ritual the founders started, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3704
+  }
+}

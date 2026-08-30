@@ -1,0 +1,21 @@
+{
+  "id": "THR-08561",
+  "title": "The Burnt Cipher",
+  "author": "Dominic Winterbourne",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Theo Oyelaran, a fixer for an embassy that doesn't officially exist, keeps a go-bag packed and a lie polished. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and she is pulled straight into the middle of it. To get through this, she must burn the network that did the training before the markets open in Frankfurt.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "belonging"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8561
+  }
+}

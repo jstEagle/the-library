@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01222",
+  "title": "Thorn and Hollow",
+  "author": "B. M. Galloway",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Mara Delacroix, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. But when the border wards fall on the same night the stars go out, she discovers that staying invisible was never really an option. To get through this, she must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1222
+  }
+}

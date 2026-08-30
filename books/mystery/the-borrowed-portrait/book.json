@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05061",
+  "title": "The Borrowed Portrait",
+  "author": "Silas Winterbourne",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Edmund Whitlock, a retired detective running a failing bookshop, has spent ten years keeping the town's secrets filed and alphabetized. But when the town's beloved founder is exhumed and the coffin is empty, they discover that staying invisible was never really an option. To get through this, they must close the one case everyone swore was closed for good before the tide gives up what it took.",
+  "themes": [
+    "belonging",
+    "identity",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5061
+  }
+}

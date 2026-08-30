@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09998",
+  "title": "A Recipe for the Prom",
+  "author": "I. M. Zhou",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Theo Ravensworth, the eldest sibling raising the younger ones while mom works nights, is fine. Everything is fine. Obviously.. But when the college essay prompt asks one honest question nobody can stop answering, she discovers that staying invisible was never really an option. Now she must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9998
+  }
+}

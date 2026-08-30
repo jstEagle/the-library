@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03391",
+  "title": "A Winter for the Harvest",
+  "author": "Jude Winterbourne",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 3.5,
+  "blurb": "Odile Oyelaran, an urban explorer mapping tunnels that aren't on any survey, doesn't believe, has never believed, will not begin believing now. But when all the photographs from grandma's house now include an extra chair, she discovers that staying invisible was never really an option. To get through this, she must finish the ritual the founders started before the last resident signs the papers.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3391
+  }
+}

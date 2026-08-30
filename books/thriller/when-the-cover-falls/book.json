@@ -1,0 +1,21 @@
+{
+  "id": "THR-08447",
+  "title": "When the Cover Falls",
+  "author": "C. M. Hartwell",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Isandro Villalobos, a crash investigator whose family died in row twelve, has spent fifteen years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. Now they must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8447
+  }
+}

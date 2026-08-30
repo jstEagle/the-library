@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09833",
+  "title": "Oscar and the Scholarship",
+  "author": "Xanthe Lockridge",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Marguerite Vasquez, a scholarship student at an academy with too many secrets, is fine. Everything is fine. Obviously.. Then the college essay prompt asks one honest question nobody can stop answering — and he is pulled straight into the middle of it. To get through this, he must tell the truth even if it costs the friendship before the final audition.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9833
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06743",
+  "title": "Silas and the Postcard",
+  "author": "Felix Dravenmoor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Orsen Iversen, a cellist recovering from one catastrophic final performance, keeps love in the past tense where it belongs. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. To get through this, they must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "identity",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6743
+  }
+}

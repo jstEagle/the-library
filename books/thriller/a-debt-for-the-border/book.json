@@ -1,0 +1,21 @@
+{
+  "id": "THR-09127",
+  "title": "A Debt for the Border",
+  "author": "Elodie Fairweather",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Yara Yarrow, a private security contractor guarding clients nobody trusts, works cases no one wants attributed. But when a dead handler sends a meeting invitation for tomorrow, he discovers that staying invisible was never really an option. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9127
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07402",
+  "title": "A Archive for the Protocol",
+  "author": "Jonah Lockridge",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Tamsin Amberdale, the last human technician on an automated relay station, maintains the beacon nobody remembers commissioning. But when an unfamiliar name shows up on the manifest of a ship that never flew, he discovers that staying invisible was never really an option. Now he must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7402
+  }
+}

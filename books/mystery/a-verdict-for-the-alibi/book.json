@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05033",
+  "title": "A Verdict for the Alibi",
+  "author": "Lior Blackwood",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Rosalind Villalobos, an estate lawyer reading a will that shouldn't exist, prides themselves on never taking a case they can't close. But when a client pays in advance to prove a murder hasn't happened — yet, he discovers that staying invisible was never really an option. Now he must close the one case everyone swore was closed for good, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5033
+  }
+}

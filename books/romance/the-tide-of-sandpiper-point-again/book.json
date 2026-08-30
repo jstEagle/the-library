@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06805",
+  "title": "The Tide of Sandpiper Point Again",
+  "author": "Bram Sterling",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Sable Almeida, a marine biologist counting turtles instead of heartbreaks, has spent three years rebuilding a life measured in small safe steps. Then the person behind a decade of letters moves in next door — and he is pulled straight into the middle of it. To get through this, he must forgive the person in the mirror first before the last ferry of the season departs.",
+  "themes": [
+    "belonging",
+    "identity",
+    "love against duty"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6805
+  }
+}

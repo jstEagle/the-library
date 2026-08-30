@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09900",
+  "title": "When the Prom Falls",
+  "author": "Bram Villalobos",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Gideon Marchetti, a coder whose anonymous account knows too much, has spent five years being so careful it hurts. But when grandma's recipe box contains directions that aren't for food, he discovers that staying invisible was never really an option. Now he must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "memory",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9900
+  }
+}

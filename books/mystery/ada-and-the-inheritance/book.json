@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05721",
+  "title": "Ada and the Inheritance",
+  "author": "G. M. Marchetti",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jude Blackwood, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. Then the town's beloved founder is exhumed and the coffin is empty — and he is pulled straight into the middle of it. Now he must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5721
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05312",
+  "title": "A Ledger for the Verdict",
+  "author": "Xanthe Thornbury",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Edmund Blackwood, a retired detective running a failing bookshop, has quietly solved three deaths the police called accidents. But when the missing person's diary continues past the date she disappeared, she discovers that staying invisible was never really an option. To get through this, she must decode a ledger hidden in plain sight before the anniversary dinner raises its glass.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5312
+  }
+}

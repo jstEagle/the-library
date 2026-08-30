@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07480",
+  "title": "The Quiet Horizon",
+  "author": "Sable Nystrom",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Noor Hartwell, a memory-smuggler running contraband past orbital customs, has spent twelve years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, they discover that staying invisible was never really an option. Now they must prove a massacre happened when every record says otherwise, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "identity",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7480
+  }
+}

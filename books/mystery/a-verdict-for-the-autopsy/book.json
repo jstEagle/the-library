@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05140",
+  "title": "A Verdict for the Autopsy",
+  "author": "Kestrel Sandoval",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Rosalind Montrose, a small-town coroner who knows every grave by name, has quietly solved three deaths the police called accidents. But when a confession letter arrives postmarked the day after the funeral, she discovers that staying invisible was never really an option. Now she must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "identity",
+    "found family",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5140
+  }
+}

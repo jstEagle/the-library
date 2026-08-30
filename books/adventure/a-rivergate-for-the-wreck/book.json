@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00451",
+  "title": "A Rivergate for the Wreck",
+  "author": "A. M. Fairweather",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Petra Brightwater, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. Then a government survey team vanishes, leaving gear and no tracks — and he is pulled straight into the middle of it. Now he must bring the expedition home without telling anyone what it found, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 451
+  }
+}

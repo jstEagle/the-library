@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05730",
+  "title": "Rosalind and the Inheritance",
+  "author": "K. M. Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.8,
+  "blurb": "Coral Joubert, a true-crime podcaster chasing the coldest case on record, thought they had seen every way a life can end. But when the town's beloved founder is exhumed and the coffin is empty, he discovers that staying invisible was never really an option. Now he must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5730
+  }
+}

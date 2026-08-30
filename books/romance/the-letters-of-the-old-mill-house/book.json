@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06469",
+  "title": "The Letters of the Old Mill House",
+  "author": "Odile Almeida",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Jonah Yarrow, a single parent running the town's only bookshop, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. To get through this, she must let someone stay after the last train leaves before the last ferry of the season departs.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6469
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08809",
+  "title": "Bram and the Deadline",
+  "author": "Gideon Blackwood",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Theo Nakamura, a financial-crimes investigator drowning in clean money, has spent fifteen years following rules that keep getting rewritten. But when a dead handler sends a meeting invitation for tomorrow, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the extraction flight leaves at dawn.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8809
+  }
+}

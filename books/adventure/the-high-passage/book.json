@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00228",
+  "title": "The High Passage",
+  "author": "Marguerite Montrose",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Oscar Fairweather, a railroad engineer with a map of closed lines, has spent three years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. To get through this, she must follow a river upstream to its forbidden source before the dry season ends.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 228
+  }
+}

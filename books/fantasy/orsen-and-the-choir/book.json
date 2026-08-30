@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02025",
+  "title": "Orsen and the Choir",
+  "author": "Mara Almeida",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Marguerite Dravenmoor, a thief who steals memories, knows every smuggler's road through the Thornfell mountains. Then a child arrives at the door speaking a language that predates kingdoms — and he is pulled straight into the middle of it. To get through this, he must carry a secret that could reignite an ancient war before the usurper's armies reach the free cities.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2025
+  }
+}

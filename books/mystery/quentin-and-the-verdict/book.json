@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05242",
+  "title": "Quentin and the Verdict",
+  "author": "Ulyana Galloway",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Ada Iversen, the archivist of a cathedral with a locked crypt, has spent twelve years keeping the town's secrets filed and alphabetized. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. To get through this, he must close the one case everyone swore was closed for good before the trial begins.",
+  "themes": [
+    "found family",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5242
+  }
+}

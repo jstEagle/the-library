@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04203",
+  "title": "Ulyana and the Language",
+  "author": "Orsen Amberdale",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Emrys Crane, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. But when a song on the radio is one that was written and never recorded, they discover that staying invisible was never really an option. To get through this, they must translate the untranslatable sentence and live with it before the demolition date arrives.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4203
+  }
+}

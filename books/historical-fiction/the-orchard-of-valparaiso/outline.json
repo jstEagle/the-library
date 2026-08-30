@@ -1,0 +1,119 @@
+{
+  "title": "The Orchard of Valparaíso",
+  "slug": "historical-fiction/the-orchard-of-valparaiso",
+  "model": "stealth/ox-alpha",
+  "premise": "In 1830s Valparaíso, on the eve of a naval mutiny that will shake the Chilean coast, Mirabel Eastwick works in her father's print shop cutting typefaces and keeping her head down. When a wounded stranger delivers a letter in the unmistakable hand of Captain Aurelio Fuentes—a man officially dead for two years—she learns the 'corpse' is alive, imprisoned, and the sole witness to a governor's smuggling conspiracy. Mirabel must forge documents, bribe her way past three checkpoints, and rely on an unlikely found family of printers, dockworkers, and one repentant soldier to carry the evidence to the fleet before the mutiny erupts. She succeeds at devastating cost—her father's shop burns, and the captain she saved must choose between vengeance and the law—but justice arrives outside any courtroom, and Mirabel finds she was never invisible to those who loved her.",
+  "about_author": "Orsen Thornbury is the pen name of a former typesetter who spent a decade restoring letterpress equipment in port cities from Liverpool to Valparaíso. Their novels explore the quiet heroism of tradespeople caught in history's machinery.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Weight of Lead",
+      "summary": "Mirabel's POV. We meet the Eastwick print shop: her father Tomás's failing eyesight, the smell of ink, her meticulous type-cutting hands. Establishes her philosophy of invisibility. Emotional beat: contentment built on careful smallness, shadowed by rising political pamphlets customers whisper about."
+    },
+    {
+      "n": 2,
+      "title": "A Stranger at Closing",
+      "summary": "Mirabel's POV. A bloodied stranger collapses at the shop door after hours, pressing a sealed letter into her hands before soldiers pass in the street. He whispers a name: Aurelio Fuentes. Emotional beat: fear cracking open her carefully ordered world; she hides him in the cellar against every instinct."
+    },
+    {
+      "n": 3,
+      "title": "The Hand of a Dead Man",
+      "summary": "Mirabel's POV. She examines the letter and recognizes the handwriting from old ship manifests—Fuentes, hanged as a traitor two years ago, or so the broadsheets claimed. The letter names Governor Roldán's smuggling routes. Emotional beat: vertigo of realizing official truth is typeset fiction, like anything from a press."
+    },
+    {
+      "n": 4,
+      "title": "What Father Knew",
+      "summary": "Tomás's POV. Her father confesses he once printed for Fuentes's faction and recognized the danger immediately. He urges burning the letter. Emotional beat: filial love strained by generational fear—he survived one purge by silence and cannot bear another."
+    },
+    {
+      "n": 5,
+      "title": "The Cellar Convalescent",
+      "summary": "Mirabel's POV. The stranger, Inés—a dockworker courier—feverishly explains the three checkpoints between the shop and the harbor fleet: the customs house, the garrison gate, the pier guard. Emotional beat: grudging respect hardening into resolve; Mirabel decides the letter must reach the fleet before the mutiny's appointed night."
+    },
+    {
+      "n": 6,
+      "title": "Lessons in Forgery",
+      "summary": "Mirabel's POV. Using her type skills, she begins forging travel passes, studying the governor's own printed seals. Inés teaches her the docks' unwritten laws. Emotional beat: exhilaration of competence weaponized—the first time invisibility becomes a chosen tool rather than a cage."
+    },
+    {
+      "n": 7,
+      "title": "Checkpoint One: The Customs House",
+      "summary": "Mirabel's POV. Disguised as a widow shipping mourning stationery, she passes the customs clerk Don Baltasar, whose suspicious eye lingers on her forged seal. Emotional beat: terror transmuted into triumph, undercut when she realizes Baltasar memorized her face."
+    },
+    {
+      "n": 8,
+      "title": "The Soldier Who Looked Away",
+      "summary": "Emiliano's POV. A young garrison soldier, Emiliano Vidal, finds a dropped scrap of the forged seal but pockets it instead of reporting. Flashbacks reveal his brother died in Fuentes's 'mutiny.' Emotional beat: corrosive doubt; the law he serves begins to look like the crime."
+    },
+    {
+      "n": 9,
+      "title": "Roldán's Press",
+      "summary": "Antagonist POV. Governor Roldán tours his secret printing operation forging foreign shipping papers, revealing the conspiracy's scale—and that he's hunting a leaked letter. Emotional beat: cold menace; power shown as a machine that consumes printers, couriers, and captains alike."
+    },
+    {
+      "n": 10,
+      "title": "The Burning of the Broadsheet Shop",
+      "summary": "Mirabel's POV. Soldiers torch a rival print shop suspected of sedition; the Eastwicks watch the fire from their doorway, knowing it's a warning. Tomás quietly begins packing movable type. Emotional beat: grief and solidarity with the printing community; the stakes turn mortal."
+    },
+    {
+      "n": 11,
+      "title": "Checkpoint Two: The Garrison Gate",
+      "summary": "Mirabel and Inés's alternating POV. The pair attempt the garrison gate with a forged requisition order; Emiliano is posted there and recognizes the seal—but waves them through, pocketing his doubt. Emotional beat: breathless suspense resolved by an act of quiet treason; found family gains a reluctant member."
+    },
+    {
+      "n": 12,
+      "title": "Betrayal in the Ink Room",
+      "summary": "Tomás's POV. An apprentice, bought by Roldán's men, reports the cellar visitor. Tomás sends Mirabel away and faces the soldiers alone, destroying evidence with his body between them and the press. Emotional beat: devastating sacrifice; the father who chose silence finally chooses loudly."
+    },
+    {
+      "n": 13,
+      "title": "Fugitives on the Camino",
+      "summary": "Mirabel's POV. Grieving and hunted, Mirabel and Inés hide among pilgrims heading to the coast. Mirabel nearly abandons the mission; Inés tells her story of losing everyone to Roldán's smugglers. Emotional beat: despair met by witness—found family forged through shared loss."
+    },
+    {
+      "n": 14,
+      "title": "The Prisoner of San Isidro",
+      "summary": "Interlude, Fuentes's POV. Captain Aurelio Fuentes, alive in a coastal prison cell, writes letters no one will ever receive—until he learns one escaped. Emotional beat: hope after two years of erasure; a man declared dead deciding what living means."
+    },
+    {
+      "n": 15,
+      "title": "Checkpoint Three: The Pier Guard",
+      "summary": "Mirabel's POV. The final checkpoint: pier guards checking every boat against manifest lists—lists printed from Roldán's press, which Mirabel can read like a signature. She exploits a typographical flaw only a cutter would notice. Emotional beat: her craft, once her hiding place, becomes her key."
+    },
+    {
+      "n": 16,
+      "title": "The Fleet at Anchor",
+      "summary": "Mirabel and Inés's POV. They reach the mutinous fleet anchored offshore; officers read Fuentes's letter and the forged seals Mirabel has collected as proof. Some demand immediate violence. Emotional beat: terrible responsibility—the evidence she carried might ignite a massacre or prevent one."
+    },
+    {
+      "n": 17,
+      "title": "Emiliano's Choice",
+      "summary": "Emiliano's POV. Ordered to lead soldiers against the fleet, Emiliano instead delivers Roldán's private orders to the mutiny leaders, confirming everything. Emotional beat: redemption purchased with career and safety; the law's servant becomes justice's instrument."
+    },
+    {
+      "n": 18,
+      "title": "The Night of the Mutiny",
+      "summary": "Multiple POVs converging. The fleet rises, seizes Roldán's smuggling ships without slaughtering their crews, and storms the customs house where Fuentes is held. Mirabel watches fires bloom across the harbor—the same fires that took her father's world. Emotional beat: climax; catharsis braided with cost."
+    },
+    {
+      "n": 19,
+      "title": "What the Fire Left",
+      "summary": "Mirabel's POV. She searches the ruins of the print district and finds Tomás alive, half-blind, sheltered by the apprentice who betrayed them—seeking absolution. Emotional beat: mercy as a deliberate act; forgiveness harder than justice, and chosen anyway."
+    },
+    {
+      "n": 20,
+      "title": "Justice Outside the Law",
+      "summary": "Fuentes's POV. Offered summary execution of captured Roldán loyalists, Fuentes instead insists on public trial, using Mirabel's preserved forgeries as evidence. Emotional beat: the theme crystallized—power corrupts, but restraint redeems; the corpse-captain chooses to be a citizen again."
+    },
+    {
+      "n": 21,
+      "title": "New Type, Old Hands",
+      "summary": "Mirabel's POV. Weeks later, the community rebuilds a print shop together—Tomás teaching, Inés running deliveries, Emiliano guarding honest presses. Mirabel cuts a new typeface and prints the first truthful broadsheet about the mutiny. Emotional beat: warm resolution; craft, family, and truth re-established."
+    },
+    {
+      "n": 22,
+      "title": "The Orchard of Valparaíso",
+      "summary": "Mirabel's POV, epilogue. On the hillside above the rebuilt shop, the found family plants an orchard—each tree a name lost to Roldán's years of crimes. Mirabel reflects that she never was invisible; she was simply unseen until she chose to be seen. Emotional beat: quiet, earned peace; legacy rooted where fire once fell."
+    }
+  ]
+}

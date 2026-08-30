@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04625",
+  "title": "Ulyana and the Blue Hour",
+  "author": "Lior Zhou",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Gideon Kavanagh, a bridge inspector measuring the marriage in expansion joints, has spent seven years practicing the art of almost saying it. Then a stranger at the funeral knows the family by a name nobody uses — and she is pulled straight into the middle of it. Now she must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4625
+  }
+}

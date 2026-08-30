@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08141",
+  "title": "A Horizon for the Gravity Again",
+  "author": "Wendell Reyes",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Oscar Underhill, the caretaker of Earth's abandoned seed vault, maintains the beacon nobody remembers commissioning. Then a ship returns from deep space with everyone aboard aged backward — and he is pulled straight into the middle of it. To get through this, he must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8141
+  }
+}

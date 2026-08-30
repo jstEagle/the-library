@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04585",
+  "title": "When the Glasshouse Wakes",
+  "author": "Lior Almeida",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Bram Fairweather, a bridge inspector measuring the marriage in expansion joints, keeps a careful inventory of everything unsaid. But when a stranger at the funeral knows the family by a name nobody uses, they discover that staying invisible was never really an option. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4585
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02273",
+  "title": "the Ninefold Court Rising Revisited",
+  "author": "Wren Eriksen",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Casper Vasquez, a thief who steals memories, has spent fifteen years selling small charms in a city that outlawed magic. But when the old gods begin answering prayers again, she discovers that staying invisible was never really an option. Now she must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2273
+  }
+}

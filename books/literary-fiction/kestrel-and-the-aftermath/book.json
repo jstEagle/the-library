@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04258",
+  "title": "Kestrel and the Aftermath",
+  "author": "Mirabel Ashgrove",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 3.6,
+  "blurb": "Lena Brightwater, a former prodigy returning to the conservatory as a janitor, moves through the days like a tenant, not an owner. But when the last speaker of a language asks for one final student, he discovers that staying invisible was never really an option. To get through this, he must return to the place where the story went wrong before the house sale closes.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "identity"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4258
+  }
+}

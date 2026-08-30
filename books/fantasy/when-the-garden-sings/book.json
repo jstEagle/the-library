@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00801",
+  "title": "When the Garden Sings",
+  "author": "Oscar Zhou",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Quentin Iversen, the keeper of a gate that should stay shut, has spent fifteen years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. To get through this, they must reforge a broken covenant between realms before the last dragon-fire gutters out.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 801
+  }
+}

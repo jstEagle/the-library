@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01761",
+  "title": "The Burning Hollow Revisited",
+  "author": "Yara Whitlock",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Noor Halloran, a mercenary sworn to a god that went silent, keeps the ledgers of a guild that trades in impossible things. But when the old gods begin answering prayers again, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1761
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-09344",
+  "title": "When the Deadline Sings Revisited",
+  "author": "Oscar Almeida",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Zephyrine Dravenmoor, a whistle-blower living under four names, hasn't slept through the night since the incident. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. To get through this, they must burn the network that did the training before the extraction flight leaves at dawn.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9344
+  }
+}

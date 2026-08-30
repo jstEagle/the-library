@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00061",
+  "title": "The Provision of the Empty Quarter",
+  "author": "Paloma Blackwood",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "Orsen Ashgrove, a bush pilot flying medicine and rumors into the interior, keeps moving because stopping costs more. Then a government survey team vanishes, leaving gear and no tracks — and he is pulled straight into the middle of it. To get through this, he must cross the range ahead of the snows before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "identity",
+    "the price of survival",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 61
+  }
+}

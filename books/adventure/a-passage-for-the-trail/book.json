@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00229",
+  "title": "A Passage for the Trail",
+  "author": "Wendell Fairweather",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Juniper Whitlock, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. To get through this, she must cross the range ahead of the snows before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 229
+  }
+}

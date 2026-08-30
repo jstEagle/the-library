@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00906",
+  "title": "The Broken Wolf",
+  "author": "A. M. Dunmore",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Astrid Marchetti, an exiled storm-caller, has spent twenty years selling small charms in a city that outlawed magic. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 906
+  }
+}

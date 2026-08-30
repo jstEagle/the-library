@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02801",
+  "title": "Zephyrine and the Letter",
+  "author": "L. M. Eastwick",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "August Marchetti, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. But when the census taker asks one question too many, she discovers that staying invisible was never really an option. Now she must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2801
+  }
+}

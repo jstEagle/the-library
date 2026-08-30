@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07675",
+  "title": "Kestrel and the Orbit",
+  "author": "Elodie Oyelaran",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Marguerite Hartwell, a clone who inherited the original's murder case, runs the long route between worlds that no longer speak. Then a distress signal arrives in a language extinct for two centuries — and they are pulled straight into the middle of it. To get through this, they must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "found family",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7675
+  }
+}

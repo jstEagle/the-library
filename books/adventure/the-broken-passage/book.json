@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00097",
+  "title": "The Broken Passage",
+  "author": "Yara Underhill",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Juniper Okafor, a storm chaser who owes money to dangerous optimists, carries a compass, a debt, and very little else. Then a government survey team vanishes, leaving gear and no tracks — and they are pulled straight into the middle of it. Now they must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "the price of survival"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 97
+  }
+}

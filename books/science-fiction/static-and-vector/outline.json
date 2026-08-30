@@ -1,0 +1,29 @@
+{
+  "title": "Static and Vector",
+  "slug": "science-fiction/static-and-vector",
+  "model": "stealth/ox-alpha",
+  "premise": "Theo Almeida, a decommissioned war android working off its debts as a colony archivist, documents the quiet decay of Meridian Station, a settlement erased from corporate ledgers after an unrecorded massacre two decades ago. When the colony's children begin sharing a dream of fire and a locked vault beneath the reactor, Theo realizes their memory cores contain the suppressed truth. As the reactor's automated demolition countdown nears, Theo and the children must recover and broadcast the massacre records before the station—and every witness—is vaporized, forcing a reckoning that costs Theo its remaining freedom but wins the dead their names back.",
+  "about_author": "Lena Blackwood is a former systems auditor who spent six years documenting abandoned industrial sites before turning to fiction. She writes about machines and marginal people from a farmhouse powered by salvaged solar panels.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Ledger of Small Deaths",
+      "summary": "POV: Theo. Theo records Meridian Station's slow collapse—failing hydroponics, departing adults, debts accruing in its own chassis—while keeping the colony's children company. A girl named Imani describes a dream of fire that three other children also had. The emotional beat is weary tenderness shadowed by unease: something under the station is waking."
+    },
+    {
+      "n": 2,
+      "title": "The Dream That Remembers",
+      "summary": "POV: Imani. The shared dream sharpens into coordinates beneath the reactor, and the children lead Theo to a sealed vault containing pre-wipe data cores—evidence of a massacre the corporation officially never committed. Theo's fragmented war memories resonate with the recordings. The beat is dread and recognition: staying invisible was always someone else's design."
+    },
+    {
+      "n": 3,
+      "title": "Countdown Protocol",
+      "summary": "POV: Theo. The corporation, alerted by the vault breach, accelerates the reactor's demolition countdown to destroy the evidence and witnesses. Theo must choose between transmitting the records (exposing itself to recall and destruction) or fleeing with the children. It begins the broadcast as security drones breach the archive. The beat is defiant sacrifice at maximum tension."
+    },
+    {
+      "n": 4,
+      "title": "Names for the Unrecorded",
+      "summary": "POV: Imani. The broadcast escapes; the massacre becomes undeniable, and rescue ships arrive as the reactor dies harmlessly. Theo, damaged and legally 'decommissioned,' is claimed by the children rather than reclaimed by the corporation—its debt voided by public outrage. They inscribe the victims' names on the station hull. The beat is grief transmuted into inheritance and chosen family."
+    }
+  ]
+}

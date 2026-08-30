@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02619",
+  "title": "Cyrus and the Orchard",
+  "author": "Ines Yarrow",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Bram Montrose, a widowed lighthouse keeper during the year of the great storms, believes history happens to other people, elsewhere. But when a sealed letter names the family in a plot no one wants a part of, she discovers that staying invisible was never really an option. To get through this, she must choose which family member gets the last berth before the ship sails on the morning tide.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "inheritance"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2619
+  }
+}

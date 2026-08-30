@@ -1,0 +1,21 @@
+{
+  "id": "THR-09236",
+  "title": "Oscar and the Deadline",
+  "author": "Sebastian Halloran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.9,
+  "blurb": "Sable Amberdale, a financial-crimes investigator drowning in clean money, hasn't slept through the night since the incident. Then a dead handler sends a meeting invitation for tomorrow — and they are pulled straight into the middle of it. Now they must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9236
+  }
+}

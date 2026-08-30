@@ -1,0 +1,21 @@
+{
+  "id": "THR-09449",
+  "title": "The Sharp Ghost Again",
+  "author": "Rosalind Pemberton",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Coral Almeida, a fixer for an embassy that doesn't officially exist, has spent twelve years following rules that keep getting rewritten. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. Now he must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9449
+  }
+}

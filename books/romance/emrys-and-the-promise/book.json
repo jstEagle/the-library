@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06329",
+  "title": "Emrys and the Promise",
+  "author": "Zephyrine Joubert",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Freya Thornbury, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. Then the person behind a decade of letters moves in next door — and he is pulled straight into the middle of it. To get through this, he must choose between the career that saved everything and the person who sees clearly at last before the last ferry of the season departs.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6329
+  }
+}

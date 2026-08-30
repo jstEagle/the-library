@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09968",
+  "title": "Semester and Recipe",
+  "author": "Emrys Quintana",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Ada Okafor, the only out kid in a town of nine hundred, has spent three years being so careful it hurts. Then the school's legendary ghost starts leaving notes addressed by name — in impossible ink — and she is pulled straight into the middle of it. To get through this, she must decide who to be when the labels come off before the final audition.",
+  "themes": [
+    "power and its corruption",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9968
+  }
+}

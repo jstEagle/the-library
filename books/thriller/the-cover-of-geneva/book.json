@@ -1,0 +1,21 @@
+{
+  "id": "THR-08663",
+  "title": "The Cover of Geneva",
+  "author": "D. M. Brightwater",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Rosalind Delacroix, a hostage negotiator with one failure still on the board, works cases no one wants attributed. But when a stranger returns a favor that never happened, with interest owed, they discover that staying invisible was never really an option. To get through this, they must get the truth past three governments and one assassin before the border checkpoint shifts change.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8663
+  }
+}

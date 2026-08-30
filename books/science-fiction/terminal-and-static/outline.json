@@ -1,0 +1,59 @@
+{
+  "title": "Terminal and Static",
+  "slug": "science-fiction/terminal-and-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Lena Amberdale, a terraformer tending a garden meant for colonists not yet born, has spent years running supply routes between two fleets that severed contact after the Silence War. When gravity flickers system-wide for nine seconds, Lena realizes the flicker was caused by the dying memory-core she secretly maintains—a core holding fabricated records that both fleets believe proves the other started the war, and whose collapse would let them finally compare notes and reignite hostilities. As salvage crews from both sides converge on her station to claim the core, Lena must keep the lie alive long enough to rewrite its ending into something that lets both fleets grieve instead of fight. In the end, she broadcasts the truth—that neither side fired first—and chooses exile in the unfinished garden, planting it at last for the living.",
+  "about_author": "Felix Eastwick is the pen name of a former orbital logistics analyst who spent six years writing maintenance logs aboard cargo haulers before turning fiction. They live somewhere with unreliable gravity and an unreasonable number of houseplants.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Falling",
+      "summary": "Lena's POV. During a routine supply run between the Verdance and Kestrel fleets, gravity fails for exactly nine seconds; crates float, a crewman breaks his arm, and Lena alone notices the timing matches a tremor in her hidden memory-core. Emotional beat: quiet dread beneath practiced calm."
+    },
+    {
+      "n": 2,
+      "title": "The Garden for No One",
+      "summary": "Lena's POV, flashback-woven. She tends the terraforming greenhouse meant for future colonists while rationing power to the secret core below, revealing how she inherited the lie from her dead mentor Ovid. Emotional beat: loneliness disguised as duty."
+    },
+    {
+      "n": 3,
+      "title": "Ping from the Kestrel Side",
+      "summary": "Alternating POV with Kestrel signals officer Dara Voss, who detects the gravity anomaly and flags it as evidence of a Verdance weapon test. Lena intercepts the transmission and realizes suspicion is spreading. Emotional beat: the lie beginning to metastasize."
+    },
+    {
+      "n": 4,
+      "title": "Ovid's Last Entry",
+      "summary": "Lena's POV. Digging through the core's corrupted archives, she finds Ovid's final log admitting he forged the war-trigger record—and that he chose her as unwitting custodian. Emotional beat: betrayal reframed as inheritance."
+    },
+    {
+      "n": 5,
+      "title": "Both Flags on One Dock",
+      "summary": "Dara's POV. A Kestrel salvage team arrives at Lena's station under truce pretenses, followed hours later by a Verdance cutter; both crews claim the anomaly source. Lena plays neutral host while hiding the core's location. Emotional beat: taut hospitality, everyone smiling with knives out."
+    },
+    {
+      "n": 6,
+      "title": "What the Core Remembers",
+      "summary": "Lena's POV. The core degrades faster than expected; fragments of real pre-war data surface showing both fleets were manipulated by a third party long dead. She begins secretly editing the record toward truth. Emotional beat: hope arriving too late to be comfortable."
+    },
+    {
+      "n": 7,
+      "title": "Dara's Doubt",
+      "summary": "Dara's POV. Comparing sensor logs with the Verdance engineer Ilya, Dara realizes the 'weapon test' signature is impossible—and suspects the quiet terraformer knows why. She confronts Lena privately. Emotional beat: the first honest conversation either woman has had in years."
+    },
+    {
+      "n": 8,
+      "title": "The Core Fails",
+      "summary": "Lena's POV. The memory-core dies mid-edit, leaving the record half-rewritten and both fleets' boarding parties minutes from seizing the wreckage. Lena makes a desperate choice: broadcast everything raw, unedited, to every ship in the system. Emotional beat: terror transmuted into resolve."
+    },
+    {
+      "n": 9,
+      "title": "Truth at Nine Seconds' Notice",
+      "summary": "Ensemble POV—Dara, Ilya, fleet commanders. The raw archive spreads; grief and fury ripple through both fleets as weapons arm, then hold, when soldiers recognize their own dead in the enemy's records. Emotional beat: collective vertigo on the edge of war."
+    },
+    {
+      "n": 10,
+      "title": "Planting Season",
+      "summary": "Lena's POV, coda. Months later, the fleets maintain an uneasy open channel; Lena, stripped of rank and welcomed by neither, stays in the garden and opens the greenhouse domes to actual sunlight. Dara visits with seed packets. Emotional beat: belonging found not in a faction but in chosen company."
+    }
+  ]
+}

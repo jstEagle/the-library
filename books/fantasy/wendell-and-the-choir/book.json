@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01237",
+  "title": "Wendell and the Choir",
+  "author": "Vesper Kavanagh",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Jude Eastwick, a bone-carver who hears the dead, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and he is pulled straight into the middle of it. Now he must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1237
+  }
+}

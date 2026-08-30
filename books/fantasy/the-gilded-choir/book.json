@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00713",
+  "title": "The Gilded Choir",
+  "author": "Bram Winterbourne",
+  "genre": "Fantasy",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Paloma Thackeray, a debt-bound temple scribe, has never left the valley where magic cannot follow. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. Now she must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 713
+  }
+}

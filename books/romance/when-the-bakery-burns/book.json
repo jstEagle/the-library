@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06313",
+  "title": "When the Bakery Burns",
+  "author": "Ansel Dunmore",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Ivo Ashgrove, a lighthouse keeper's granddaughter and part-time novelist, keeps love in the past tense where it belongs. But when the anonymous pen-pal assignment pairs enemies instead of strangers, she discovers that staying invisible was never really an option. Now she must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6313
+  }
+}

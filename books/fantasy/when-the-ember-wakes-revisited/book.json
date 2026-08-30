@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02132",
+  "title": "When the Ember Wakes Revisited",
+  "author": "X. M. Voss",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Yara Ishikawa, a mercenary sworn to a god that went silent, has spent three years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, she discovers that staying invisible was never really an option. To get through this, she must reforge a broken covenant between realms before the long winter finishes falling.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "the price of survival"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2132
+  }
+}

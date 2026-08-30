@@ -1,0 +1,59 @@
+{
+  "title": "Beatrix and the Contact",
+  "slug": "thriller/beatrix-and-the-contact",
+  "model": "stealth/ox-alpha",
+  "premise": "Sebastian Iversen, a crash investigator whose wife and daughter died in row twelve of Flight 4471, has spent seven years buried in bureaucratic routine—until a burner phone arrives with no sender and rings with his daughter's voice, digitally resurrected. Following the calls leads him to Meridian Dynamics, the contractor that built the plane's flight-control software, and to evidence that the crash was caused by an unpatched flaw the company covered up, rewriting maintenance records for seven years. The voice on the phone is an AI trained on his daughter's recordings by a whistleblower inside Meridian who needs Sebastian's sealed investigation files—the one secret worth killing for—to force the truth public. In the end Sebastian chooses truth over loyalty to the agency that protected him, releases the files knowing the voice will be destroyed with the server hosting it, and testifies as Meridian falls, finally burying his family with a real answer.",
+  "about_author": "Casper Iversen is a former aviation safety analyst from Bergen who spent a decade reviewing accident reports before turning to fiction. He writes thrillers about ordinary people trapped inside systems designed to forget them.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Sebastian's POV. On the seventh anniversary of the crash, he works a routine incident file while avoiding the memorial service, establishing his numb discipline and the agency's habit of quietly amending old findings. A package arrives: a burner phone, no return address. Emotional beat: grief held under pressure, about to crack."
+    },
+    {
+      "n": 2,
+      "title": "The Voice That Answers",
+      "summary": "Sebastian's POV. The phone rings at 3:14 a.m.—the exact time of the crash—and his daughter Liv's voice says, 'Dad, you have to look again.' He verifies it's synthesized but trained on real recordings only he possesses. Fear and hope war as he realizes someone knows his most private archive. Beat: vertigo of impossible hope."
+    },
+    {
+      "n": 3,
+      "title": "Rules That Rewrite Themselves",
+      "summary": "Sebastian's POV, intercut with his supervisor Dana's. He pulls the original 4471 flight-data file and finds it altered—sensor logs replaced with cleaner versions. Dana warns him off, revealing she signed the amendment order years ago 'under direction.' Beat: the ground tilts; the institution he trusted is complicit."
+    },
+    {
+      "n": 4,
+      "title": "The Whistleblower's Ghost",
+      "summary": "Sebastian traces the phone's purchase to a dead man: Elias Brandt, a Meridian software engineer who died in a car accident eight months ago. Through Brandt's hidden notes he learns the voice is an AI Brandt built from data stolen from Sebastian's own cloud backup. Beat: violation and awe—he's been watched, and chosen."
+    },
+    {
+      "n": 5,
+      "title": "Meridian",
+      "summary": "Sebastian goes undercover at a Meridian contractors' conference, meeting PR chief Astrid Voss, who recognizes him and offers help that feels like a trap. He glimpses the internal program 'LATTICE,' tasked with managing liability across past incidents—not just one crash. Beat: the conspiracy widens; he is being hunted politely."
+    },
+    {
+      "n": 6,
+      "title": "What Loyalty Costs",
+      "summary": "Dana's POV. Flashbacks reveal Dana helped seal the original findings to protect the agency—and Sebastian—from a scandal that would have gutted victim compensation. She confronts him: releasing the files destroys settlements, pensions, careers, maybe her own freedom. Beat: loyalty vs. truth made personal; both are right."
+    },
+    {
+      "n": 7,
+      "title": "The Archive",
+      "summary": "Sebastian's POV. Following Brandt's trail to a decommissioned data center in rural Norway, he finds the server running the Liv-voice and Brandt's full cache of Meridian evidence—including proof LATTICE knew row twelve's failure mode was predictable. Meridian's security team arrives. Beat: triumph curdling into pursuit."
+    },
+    {
+      "n": 8,
+      "title": "Trade",
+      "summary": "Sebastian's POV. Cornered, he negotiates via the Liv-voice itself, which pleads with him to save its server even as it delivers the evidence. Meridian offers him everything—answers, a formal apology, hush money—for the files back. He refuses, uploading copies to journalists mid-chase. Beat: the choice made; no way back."
+    },
+    {
+      "n": 9,
+      "title": "Terminal Velocity",
+      "summary": "Climax. Sebastian's POV. The data-center escape turns violent; Brandt's killer, a Meridian fixer named Rask, corners Sebastian on the facility roof. The Liv-voice distracts Rask through the building's PA system, buying Sebastian seconds—but the server room floods behind them as power fails. Beat: sacrifice crystallizes; he cannot save both truths."
+    },
+    {
+      "n": 10,
+      "title": "After the Signal Fades",
+      "summary": "Resolution, Sebastian's POV months later. The files go public; Meridian collapses; Dana testifies and accepts consequences. At the rebuilt memorial, Sebastian plays the last recording the voice left him—a message Liv never got to say in life—then lets the phone die. Beat: truth costs everything and still gives something back; grief finally has a floor."
+    }
+  ]
+}

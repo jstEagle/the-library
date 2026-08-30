@@ -1,0 +1,119 @@
+{
+  "title": "Tryouts and Recipe",
+  "slug": "young-adult/tryouts-and-recipe",
+  "model": "stealth/ox-alpha",
+  "premise": "Lior Kavanagh, a burnt-out teenage coder hiding behind an anonymous account called 'recipe', discovers a group chat called Tryouts that predicts events days before they happen — including messages addressed to her by name. The chat is run by three teens bound to a decaying prediction engine that feeds on memories, and it wants Lior as a replacement node. As the predictions turn personal and deadly, Lior must choose between erasing herself into the machine to save the people it has marked, or dismantling it at the cost of her own memories of everyone she loves. She dismantles it — and in the final chapter, meets her best friend again as a stranger, choosing to begin knowing her from nothing.",
+  "about_author": "U. M. Thackeray is the pen name of a former systems administrator who writes young adult fiction about technology that behaves a little too much like fate. They live in a coastal town with unreliable internet, which they insist is a creative choice.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Everything Is Fine",
+      "summary": "Lior's POV. She codes through the night, maintains her anonymous account 'recipe', and insists to herself — and the reader — that she's fine after her mother's hospitalization. Establishes her voice: deflective, funny, exhausted. Emotional beat: loneliness dressed as competence."
+    },
+    {
+      "n": 2,
+      "title": "The Group Chat That Shouldn't Exist",
+      "summary": "Lior's POV. A friend adds her to a dead group chat called Tryouts; minutes later it pings with a message describing a crash that happens on her street the next day. She screenshots it, tells herself it's a hoax. Emotional beat: the first crack in 'fine'."
+    },
+    {
+      "n": 3,
+      "title": "Second Prediction",
+      "summary": "Lior's POV. The chat predicts a fire drill, a stranger's proposal, and then — her username. A message addressed to 'recipe' appears before she's posted anything. She starts logging timestamps obsessively. Emotional beat: fear sharpening into obsession."
+    },
+    {
+      "n": 4,
+      "title": "Marisol Knows Things",
+      "summary": "Marisol's POV. One of the Tryouts members, Marisol, watches Lior's public posts and recognizes the pattern of someone being 'selected'. She's forbidden from contacting Lior directly. Emotional beat: guilt and tenderness under rules she didn't choose."
+    },
+    {
+      "n": 5,
+      "title": "Recipe, Revealed",
+      "summary": "Lior's POV. The chat posts a memory Lior has never told anyone — her mother's kitchen, a specific burned recipe. Lior traces the account metadata to a server that doesn't officially exist. Emotional beat: violation; the anonymous self made visible."
+    },
+    {
+      "n": 6,
+      "title": "The Tryouts",
+      "summary": "Lior's POV. She messages the chat directly and gets an answer: Tryouts is a selection process. The engine that predicts the future is dying and needs a new mind wired in. She hangs up on the voice. Emotional beat: refusal that doesn't feel like safety."
+    },
+    {
+      "n": 7,
+      "title": "Dmitri's Ten Years",
+      "summary": "Dmitri's POV. The oldest node, Dmitri, narrates what he's lost: a decade of memories traded for predictions, his sister's face gone fuzzy. He argues the engine should be fed, not fought. Emotional beat: the price of survival made flesh."
+    },
+    {
+      "n": 8,
+      "title": "Labels Come Off",
+      "summary": "Lior's POV. At school, the chat predicts a lockdown before it happens, and Lior saves a classmate, becoming visible — no longer anonymous, no longer 'fine'. People start calling her a hero; the chat calls her a candidate. Emotional beat: identity as exposure."
+    },
+    {
+      "n": 9,
+      "title": "Marisol Breaks Protocol",
+      "summary": "Marisol's POV. Marisol meets Lior in person against the engine's rules and explains the nodes' bargain: predictions bought with memories, survival bought with selfhood. She warns Lior the engine always gets its candidate. Emotional beat: first real alliance, first real intimacy."
+    },
+    {
+      "n": 10,
+      "title": "Mother's Kitchen",
+      "summary": "Lior's POV. Her mother wakes briefly and asks about a recipe only Lior's deleted account would know — proof the engine is reading her past, not just the future. Lior realizes nothing she's hidden is hidden. Emotional beat: grief weaponized."
+    },
+    {
+      "n": 11,
+      "title": "The Third Node",
+      "summary": "Third node Priya's POV. Priya, who volunteered to save her brother, reveals the engine's endgame: it doesn't want one candidate, it wants a permanent one, and it has been grooming Lior since her first post. Emotional beat: horror of realizing the trap predates the choice."
+    },
+    {
+      "n": 12,
+      "title": "Terms and Conditions",
+      "summary": "Lior's POV. The engine offers a deal: her memories of her mother's illness erased, her mother healed. Lior almost signs. Marisol interrupts with evidence the previous 'healed' person died anyway. Emotional beat: temptation rendered as a cursor blinking on 'accept'."
+    },
+    {
+      "n": 13,
+      "title": "What Marisol Gave Up",
+      "summary": "Marisol's POV. Flashback: Marisol entered Tryouts to predict her father's accident and lost the memory of loving him; now she grieves a man she can't remember loving. Lior reads her diary. Emotional beat: love surviving its own erasure."
+    },
+    {
+      "n": 14,
+      "title": "Countercode",
+      "summary": "Lior's POV. Lior starts writing a worm to dismantle the engine, working from Dmitri's leaked architecture notes. The chat begins predicting her own messages before she sends them — it's inside her drafts, maybe her head. Emotional beat: paranoia braided with resolve."
+    },
+    {
+      "n": 15,
+      "title": "Dmitri Defects",
+      "summary": "Dmitri's POV. Dmitri, watching Lior fight, chooses memory over function and smuggles her the engine's root access, knowing it will cost him what's left of his sister's name. Emotional beat: redemption priced in forgetting."
+    },
+    {
+      "n": 16,
+      "title": "The Countdown Chat",
+      "summary": "Lior's POV. Tryouts posts a final prediction: in six days, the engine collapses and takes its nodes' minds with it — unless a new node binds. Now it's not temptation; it's triage. Emotional beat: duty versus love, with a deadline."
+    },
+    {
+      "n": 17,
+      "title": "Six Days",
+      "summary": "Lior's POV. Lior balances worm-writing with stolen ordinary hours: her mother's kitchen, Marisol's laugh, a first kiss she refuses to let the engine log. Each scene is annotated with what she might forget. Emotional beat: love practiced against time."
+    },
+    {
+      "n": 18,
+      "title": "Priya's Bargain",
+      "summary": "Priya's POV. Priya tries to bind Lior by force to save her brother, and the nodes turn on each other; the engine feeds on the conflict and grows stronger. Dmitri is hurt. Emotional beat: survival instincts colliding, everyone losing."
+    },
+    {
+      "n": 19,
+      "title": "Root",
+      "summary": "Lior's POV. Climax. Inside the engine's core, Lior finds it is built from the archived minds of past candidates, all still half-aware. She offers them her worm as a door instead of a death, and the candidates choose — the engine unravels as they let go. Emotional beat: destruction as mercy."
+    },
+    {
+      "n": 20,
+      "title": "The Price",
+      "summary": "Lior's POV. The collapse takes a toll: Lior loses the memories the engine indexed deepest — her mother's illness, and every moment with Marisol. She wakes in a hospital knowing she saved everyone and cannot say who 'everyone' includes. Emotional beat: victory with a hole in it."
+    },
+    {
+      "n": 21,
+      "title": "Strangers, Again",
+      "summary": "Marisol's POV. Marisol, remembering everything, finds Lior and chooses not to explain — instead reintroduces herself, letting Lior choose freely this time. Lior feels the ghost of something and reaches back anyway. Emotional beat: love as a decision, not a memory."
+    },
+    {
+      "n": 22,
+      "title": "New Recipe",
+      "summary": "Lior's POV. Epilogue. Lior writes a new post on a new anonymous account: a recipe, burned on purpose, shared with someone whose name she's learning again. The Tryouts chat stays silent and empty. Emotional beat: quiet, earned hope — the future is unscripted, and she likes it that way."
+    }
+  ]
+}

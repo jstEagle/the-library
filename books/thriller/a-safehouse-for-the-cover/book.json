@@ -1,0 +1,21 @@
+{
+  "id": "THR-08745",
+  "title": "A Safehouse for the Cover",
+  "author": "V. M. Oyelaran",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 5.0,
+  "blurb": "Wren Nakamura, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8745
+  }
+}

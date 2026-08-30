@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01855",
+  "title": "Kestrel and the Wolf",
+  "author": "Vesper Vane",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Yara Whitlock, the keeper of a gate that should stay shut, keeps the ledgers of a guild that trades in impossible things. But when the border wards fall on the same night the stars go out, they discover that staying invisible was never really an option. Now they must reforge a broken covenant between realms, and time is already running out.",
+  "themes": [
+    "found family",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1855
+  }
+}

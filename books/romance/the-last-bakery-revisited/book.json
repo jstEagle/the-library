@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06651",
+  "title": "The Last Bakery Revisited",
+  "author": "H. M. Thornbury",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Beatrix Ashgrove, a single parent running the town's only bookshop, has spent twenty years rebuilding a life measured in small safe steps. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. Now they must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "inheritance"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6651
+  }
+}

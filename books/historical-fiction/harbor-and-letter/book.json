@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02584",
+  "title": "Harbor and Letter",
+  "author": "Tamsin Sterling",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Bram Thornbury, a pearl diver's child indentured to a trading company, keeps a low profile and busy hands. But when a sealed letter names the family in a plot no one wants a part of, they discover that staying invisible was never really an option. To get through this, they must keep a promise made in peacetime to someone now declared enemy before the ice breaks on the river.",
+  "themes": [
+    "memory",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2584
+  }
+}

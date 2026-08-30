@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06481",
+  "title": "The Letters of Sandpiper Point",
+  "author": "Felix Hartwell",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Theo Sterling, a ghostwriter secretly penning a rival's memoirs, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and she is pulled straight into the middle of it. Now she must forgive the person in the mirror first, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6481
+  }
+}

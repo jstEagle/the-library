@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05442",
+  "title": "Edmund and the Confession",
+  "author": "Mirabel Whitlock",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Odile Marchetti, an insurance investigator with a photographic memory, has spent fifteen years keeping the town's secrets filed and alphabetized. But when a confession letter arrives postmarked the day after the funeral, he discovers that staying invisible was never really an option. To get through this, he must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5442
+  }
+}

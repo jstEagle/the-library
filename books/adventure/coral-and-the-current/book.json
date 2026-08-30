@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00676",
+  "title": "Coral and the Current",
+  "author": "Cyrus Thackeray",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Orsen Winterbourne, a storm chaser who owes money to dangerous optimists, has spent twelve years measuring life in miles rather than years. Then a government survey team vanishes, leaving gear and no tracks — and he is pulled straight into the middle of it. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 676
+  }
+}

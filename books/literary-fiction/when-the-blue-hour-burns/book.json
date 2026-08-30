@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04124",
+  "title": "When the Blue Hour Burns",
+  "author": "Yara Hartwell",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Ada Hartwell, an heir cataloging a parent's silence after the funeral, moves through the days like a tenant, not an owner. Then a stranger at the funeral knows the family by a name nobody uses — and he is pulled straight into the middle of it. Now he must ask the question the whole family arranged itself around, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4124
+  }
+}

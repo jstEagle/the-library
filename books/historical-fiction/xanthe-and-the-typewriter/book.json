@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02779",
+  "title": "Xanthe and the Typewriter",
+  "author": "Paloma Zhou",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Oscar Reyes, a widowed lighthouse keeper during the year of the great storms, keeps a low profile and busy hands. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. Now he must finish the work while the workshop still stands, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2779
+  }
+}

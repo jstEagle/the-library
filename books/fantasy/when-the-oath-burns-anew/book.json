@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02138",
+  "title": "When the Oath Burns Anew",
+  "author": "Gideon Blackwood",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Tamsin Okafor, a mercenary sworn to a god that went silent, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and they are pulled straight into the middle of it. To get through this, they must find the door out of a country that no longer exists before the usurper's armies reach the free cities.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2138
+  }
+}

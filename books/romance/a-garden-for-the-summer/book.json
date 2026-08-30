@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06541",
+  "title": "A Garden for the Summer",
+  "author": "Mara Almeida",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "August Vane, a cellist recovering from one catastrophic final performance, has spent twelve years rebuilding a life measured in small safe steps. Then a lost letter surfaces, postmarked eleven years ago — and he is pulled straight into the middle of it. To get through this, he must risk the whole heart instead of lending pieces before the bakery lease runs out.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6541
+  }
+}

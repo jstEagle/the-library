@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04992",
+  "title": "Silas and the Will",
+  "author": "Zephyrine Sterling",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Beatrix Quintana, an insurance investigator with a photographic memory, prides themselves on never taking a case they can't close. But when the missing person's diary continues past the date she disappeared, he discovers that staying invisible was never really an option. To get through this, he must decode a ledger hidden in plain sight before the statute expires.",
+  "themes": [
+    "justice outside the law",
+    "the price of survival",
+    "identity"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4992
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06804",
+  "title": "Orsen and the Songbook",
+  "author": "Zephyrine Nakamura",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Wren Joubert, a marine biologist counting turtles instead of heartbreaks, swears the heart is a muscle like any other: trainable, containable. But when the person behind a decade of letters moves in next door, she discovers that staying invisible was never really an option. Now she must choose between the career that saved everything and the person who sees clearly at last, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "memory"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6804
+  }
+}

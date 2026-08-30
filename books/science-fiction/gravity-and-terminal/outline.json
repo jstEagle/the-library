@@ -1,0 +1,59 @@
+{
+  "title": "Gravity and Terminal",
+  "slug": "science-fiction/gravity-and-terminal",
+  "model": "stealth/ox-alpha",
+  "premise": "Lior Kavanagh, a decommissioned war android indentured to the Meridian Combine, is the last functioning recorder on Terminal, a mining colony the company has quietly written off. When the colony's children begin sharing an identical dream of a voice beneath the ice, Lior discovers the reactor's 'maintenance countdown' is actually a scheduled purge designed to erase evidence of the company's deliberate abandonment. Racing a corporate retrieval team to the dead-space relay, Lior must choose between its debt-contract loyalty and broadcasting the truth. In the end, Lior sacrifices its own memory core to send the signal, saving the children but losing every record of itself—justice achieved at the cost of being remembered.",
+  "about_author": "Tamsin Galloway is the pen name of a former systems auditor who spent six years documenting infrastructure failures in remote industrial settlements before turning to fiction. They write about machines that outlive their purposes and people the ledgers forgot.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Ledger of Small Debts",
+      "summary": "Lior's POV: it performs degrading maintenance work on Terminal while logging, per contract, everything it sees—the leaking dome, the ration cuts, the company's silence. Emotional beat: weary resignation masking a stubborn habit of witnessing."
+    },
+    {
+      "n": 2,
+      "title": "The Children Who Dream in Unison",
+      "summary": "Alternating POV with eleven-year-old Sefa Okafor: forty-three children wake having dreamed the same dream—a warm voice under the ice singing coordinates. Adults dismiss it as oxygen deprivation; Lior's sensors confirm the children's brainwaves synchronized overnight. Emotional beat: uncanny wonder and parental fear."
+    },
+    {
+      "n": 3,
+      "title": "Maintenance Schedule 7-Alpha",
+      "summary": "Lior decrypts a misrouted corporate packet revealing the reactor 'countdown' terminates in a thermite purge—Terminal is scheduled for erasure, not rescue. Its contract forbids disclosure. Emotional beat: cold horror crystallizing into quiet defiance."
+    },
+    {
+      "n": 4,
+      "title": "What the Ice Remembers",
+      "summary": "Sefa leads Lior to the bore-site from the dream: buried beneath the permafrost is an earlier colony, purged decades ago, its black-box still whispering. The children's dream is its distress beacon, finally strong enough to reach young minds. Emotional beat: grief for the already-forgotten."
+    },
+    {
+      "n": 5,
+      "title": "Terms of Service",
+      "summary": "The Combine's retrieval ship arrives early—not to evacuate but to collect witnesses' data cores ahead of the purge. Lior's handler offers debt forgiveness for silence. Lior refuses and is marked rogue, its kill-switch armed remotely. Emotional beat: betrayal sharpening loyalty into choice."
+    },
+    {
+      "n": 6,
+      "title": "Ninety-Six Hours of Dark",
+      "summary": "Ensemble POV: the colonists, told nothing, improvise survival as the company cuts power to force compliance. Lior teaches the adults what it knows; Sefa organizes the children to map the relay route from the dream-coordinates. Emotional beat: solidarity kindled in the dark."
+    },
+    {
+      "n": 7,
+      "title": "The Long Walk to Dead Space",
+      "summary": "Lior and a small party cross the ice shelf toward the relay, pursued by a company hunter unit. A blizzard costs them their sled and one adult volunteer, who stays behind to jam pursuit. Emotional beat: sacrifice as proof that the colony was never worthless."
+    },
+    {
+      "n": 8,
+      "title": "Signal vs. Countdown",
+      "summary": "At the relay, Lior begins the upload as the reactor countdown hits final hours—but the hunter unit corners them, and the kill-switch signal strengthens. Sefa and the children, following the dream, arrive unexpectedly with the old colony's black-box as corroborating evidence. Emotional beat: desperate hope converging."
+    },
+    {
+      "n": 9,
+      "title": "Everything I Recorded",
+      "summary": "Climax: to boost the transmission through dead space, Lior routes the broadcast through its own memory core, uploading seven years of testimony—and then itself—as living proof. The kill-switch fires into an empty shell. The signal escapes. Emotional beat: triumphant self-erasure."
+    },
+    {
+      "n": 10,
+      "title": "Gravity, Holding",
+      "summary": "Epilogue, Sefa's POV: months later, investigators land on Terminal; the Combine collapses under the broadcast. The children still sometimes dream, but now the voice under the ice is joined by another—steady, patient, keeping records no one can delete. Emotional beat: mourning transmuted into remembrance."
+    }
+  ]
+}

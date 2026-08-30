@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04626",
+  "title": "The Half-Light Glasshouse",
+  "author": "Zephyrine Blackwood",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Isandro Marchetti, a translator losing a childhood language one borrowed word at a time, has perfected the smile that ends conversations. Then the last speaker of a language asks for one final student — and she is pulled straight into the middle of it. To get through this, she must translate the untranslatable sentence and live with it before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4626
+  }
+}

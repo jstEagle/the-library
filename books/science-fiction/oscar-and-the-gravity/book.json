@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07689",
+  "title": "Oscar and the Gravity",
+  "author": "Rosalind Almeida",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 3.7,
+  "blurb": "Emrys Okafor, a terraformer tending a garden meant for people not yet born, has spent five years hauling cargo through contested orbits. Then gravity flickers across the entire system for exactly nine seconds — and he is pulled straight into the middle of it. To get through this, he must deliver a message that will end the war — or start it before Earth's last transmission loop ends.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7689
+  }
+}

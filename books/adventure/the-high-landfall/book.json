@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00164",
+  "title": "The High Landfall",
+  "author": "Hazel Blackwood",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.3,
+  "blurb": "Cyrus Kavanagh, a salvage diver working a wreck the navy won't discuss, has spent ten years measuring life in miles rather than years. But when an old rival hires the crew for the one job that was sworn off long ago, they discover that staying invisible was never really an option. To get through this, they must beat the salvage fleet to the wreck by six tides before the monsoon makes landfall.",
+  "themes": [
+    "belonging",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 164
+  }
+}

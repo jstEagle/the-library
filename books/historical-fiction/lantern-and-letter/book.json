@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02760",
+  "title": "Lantern and Letter",
+  "author": "Tamsin Eriksen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Isandro Vane, an apprentice clockmaker summoned to repair the observatory's master clock, keeps a low profile and busy hands. Then the army requisitions the town and the ledger with all the names — and she is pulled straight into the middle of it. Now she must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "identity",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2760
+  }
+}

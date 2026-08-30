@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09762",
+  "title": "Lena and the Group Chat",
+  "author": "Coral Galloway",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Noor Eastwick, the new kid at a school built over something old, stays under the radar: head down, grades up, locker shut. Then a best friend goes missing, leaving only a set of keys behind — and he is pulled straight into the middle of it. Now he must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "belonging",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9762
+  }
+}

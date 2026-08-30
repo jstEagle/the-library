@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00127",
+  "title": "Lior and the Current",
+  "author": "August Blackwood",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "August Sandoval, a storm chaser who owes money to dangerous optimists, has spent twelve years measuring life in miles rather than years. Then an expedition upriver stops answering the radio — and he is pulled straight into the middle of it. To get through this, he must cross the range ahead of the snows before the concession permits expire.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 127
+  }
+}

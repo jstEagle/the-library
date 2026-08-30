@@ -1,0 +1,21 @@
+{
+  "id": "THR-08505",
+  "title": "The Cover of Kowloon",
+  "author": "Petra Coldharbour",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Vesper Dravenmoor, an interpreter attached to a peace delegation destined to fail, hasn't slept through the night since the incident. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, they discover that staying invisible was never really an option. Now they must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8505
+  }
+}

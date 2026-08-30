@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04732",
+  "title": "Ansel and the Inventory",
+  "author": "Freya Vane",
+  "genre": "Literary Fiction",
+  "length": "short-story",
+  "rating": 3.7,
+  "blurb": "Elodie Dravenmoor, an heir cataloging a parent's silence after the funeral, keeps a careful inventory of everything unsaid. But when a box of undelivered letters surfaces behind a wardrobe, she discovers that staying invisible was never really an option. To get through this, she must say goodbye properly, at last, out loud before the house sale closes.",
+  "themes": [
+    "belonging",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4732
+  }
+}

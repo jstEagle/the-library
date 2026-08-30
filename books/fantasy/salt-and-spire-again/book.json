@@ -1,0 +1,21 @@
+{
+  "id": "FAN-02172",
+  "title": "Salt and Spire Again",
+  "author": "Lior Thornbury",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Ines Oyelaran, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. But when a child arrives at the door speaking a language that predates kingdoms, she discovers that staying invisible was never really an option. To get through this, she must find the door out of a country that no longer exists before the long winter finishes falling.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2172
+  }
+}

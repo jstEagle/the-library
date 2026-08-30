@@ -1,0 +1,21 @@
+{
+  "id": "THR-09025",
+  "title": "Tamsin and the Cover",
+  "author": "Felix Amberdale",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Jonah Sandoval, a hostage negotiator with one failure still on the board, works cases no one wants attributed. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. To get through this, they must extract a defector who may be the bait before the summit convenes.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9025
+  }
+}

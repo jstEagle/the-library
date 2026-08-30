@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03735",
+  "title": "Felix and the Smile",
+  "author": "Sable Reyes",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Ivo Villalobos, a property surveyor appraising a house that appraises back, doesn't believe, has never believed, will not begin believing now. Then the village's church bell rings although the bell was melted down in 1911 — and they are pulled straight into the middle of it. To get through this, they must finish the ritual the founders started before the well refills.",
+  "themes": [
+    "found family",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3735
+  }
+}

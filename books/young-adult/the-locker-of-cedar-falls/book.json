@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09889",
+  "title": "The Locker of Cedar Falls",
+  "author": "Noor Hartwell",
+  "genre": "Young Adult",
+  "length": "short-story",
+  "rating": 4.0,
+  "blurb": "Ines Amberdale, the new kid at a school built over something old, is fine. Everything is fine. Obviously.. Then grandma's recipe box contains directions that aren't for food — and he is pulled straight into the middle of it. Now he must win the championship that doesn't matter — and the one that does, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9889
+  }
+}

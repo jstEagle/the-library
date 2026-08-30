@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06169",
+  "title": "The Slow Songbook",
+  "author": "Coral Okafor",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Gideon Eriksen, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. But when the anonymous pen-pal assignment pairs enemies instead of strangers, they discover that staying invisible was never really an option. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "memory",
+    "inheritance"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6169
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06658",
+  "title": "Jonah and the Kitchen",
+  "author": "Casper Delacroix",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Paloma Coldharbour, a vineyard owner who inherited debts instead of grapes, believes second chances are for people with better timing. Then a fake date to survive a family reunion feels too real by dessert — and he is pulled straight into the middle of it. Now he must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6658
+  }
+}

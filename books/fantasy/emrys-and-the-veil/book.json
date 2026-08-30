@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01553",
+  "title": "Emrys and the Veil",
+  "author": "Kestrel Quintana",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Tamsin Okafor, a royal food-taster building immunity one dish at a time, keeps the ledgers of a guild that trades in impossible things. Then the border wards fall on the same night the stars go out — and she is pulled straight into the middle of it. To get through this, she must reforge a broken covenant between realms before the usurper's armies reach the free cities.",
+  "themes": [
+    "justice outside the law",
+    "belonging",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1553
+  }
+}

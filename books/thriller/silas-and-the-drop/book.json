@@ -1,0 +1,21 @@
+{
+  "id": "THR-08949",
+  "title": "Silas and the Drop",
+  "author": "Wren Pemberton",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Felix Oyelaran, an interpreter attached to a peace delegation destined to fail, works cases no one wants attributed. Then the safe house is listed for sale — with photos of the inside — and they are pulled straight into the middle of it. To get through this, they must trade the one secret worth killing for before the border checkpoint shifts change.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8949
+  }
+}

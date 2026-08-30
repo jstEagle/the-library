@@ -1,0 +1,21 @@
+{
+  "id": "THR-08734",
+  "title": "The Live Border",
+  "author": "Yara Okafor",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Yara Ishikawa, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. But when a voiceprint unlocks a server on another continent, he discovers that staying invisible was never really an option. Now he must trade the one secret worth killing for, and time is already running out.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8734
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "title": "Theo and the Verdict",
+  "slug": "mystery/theo-and-the-verdict",
+  "model": "stealth/ox-alpha",
+  "premise": "Isandro Dravenmoor, an insurance investigator with a photographic memory, is pulled back into the twenty-year-old disappearance of schoolteacher Marisol Vega when her diary surfaces—its entries continuing for months after the date she vanished. As Isandro cross-references the impossible pages against the town's buried secrets, they realize the killer has been editing the record all along, feeding them a curated version of the past to steer the investigation toward a scapegoat. The trail leads to the town's founding families and a night of violence everyone survived by agreeing to forget. In the end, Isandro must choose between exposing the truth and protecting the one person who sheltered them, trapping the killer in a final confrontation staged inside the archive itself.",
+  "about_author": "Felix Villalobos is a former court stenographer who spent a decade transcribing small-town trials before turning to fiction. He writes mysteries about records, memory, and the lies communities tell themselves to keep functioning.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Alphabet of Small Towns",
+      "summary": "Isandro's POV. Establishes their methodical life cataloging claims in the town of Bellhaven; a fire claim on an abandoned schoolhouse turns up a waterlogged diary. Emotional beat: quiet loneliness interrupted by curiosity."
+    },
+    {
+      "n": 2,
+      "title": "Marisol Vega, Missing Since June",
+      "summary": "Isandro's POV. They identify the diary as belonging to the teacher who vanished twenty years ago—and notice the handwriting continues three months past her disappearance date. Beat: cold dread."
+    },
+    {
+      "n": 3,
+      "title": "Entries That Shouldn't Exist",
+      "summary": "Isandro's POV, with diary excerpts. The post-disappearance entries describe ordinary days: grading papers, a man watching her house. Isandro verifies the ink and paper are period-accurate. Beat: vertigo of the impossible."
+    },
+    {
+      "n": 4,
+      "title": "The Sheriff Who Closed the File",
+      "summary": "Isandro visits retired Sheriff Dale Pruitt, who bristles at questions and insists the case was runaways, not foul play. His hands shake. Beat: first sign the town wants this buried."
+    },
+    {
+      "n": 5,
+      "title": "Photographic",
+      "summary": "Flashback chapter, Isandro's POV. Their childhood memory condition—remembering everything, belonging nowhere—framed through the day Marisol once defended them in class. Beat: tender, establishing stakes."
+    },
+    {
+      "n": 6,
+      "title": "A Witness Who Remembers Nothing",
+      "summary": "Isandro interviews diner owner Corinne Hale, who was the last to see Marisol alive but claims total amnesia about that week. Her amnesia is too convenient. Beat: suspicion blooms."
+    },
+    {
+      "n": 7,
+      "title": "The Diary's Second Voice",
+      "summary": "Isandro's POV. Close reading reveals marginal annotations in different handwriting—someone has been correcting the diary like an editor. Beat: the hunter realizes they're being hunted."
+    },
+    {
+      "n": 8,
+      "title": "Claim #4471",
+      "summary": "Isandro pulls their own company's old file: a vandalism claim on Marisol's classroom filed two weeks before she vanished, denied by someone above them. Beat: institutional rot surfaces."
+    },
+    {
+      "n": 9,
+      "title": "Night Visitor",
+      "summary": "Isandro's POV. Someone breaks into their office and searches the files but takes nothing—except leaves the diary open to a specific page, a message. Beat: fear becomes personal."
+    },
+    {
+      "n": 10,
+      "title": "What the Page Said",
+      "summary": "Isandro decodes the marked page: a reference to the old quarry, where searchers never looked because the sheriff declared it flooded ground. Beat: resolve hardens into action."
+    },
+    {
+      "n": 11,
+      "title": "Quarry Water",
+      "summary": "Isandro dives the shallow shelf with a salvage contact and finds a locked teacher's satchel—empty, but scratched from the inside. Beat: horror made physical."
+    },
+    {
+      "n": 12,
+      "title": "Corinne Breaks",
+      "summary": "Corinne's POV. Pressured by Isandro, she admits she saw Marisol alive after the disappearance date and was paid to forget—by whom, she won't say. Beat: guilt cracking open."
+    },
+    {
+      "n": 13,
+      "title": "The Founders' Ledger",
+      "summary": "Isandro's POV. Research into Bellhaven's founding families reveals the quarry land was quietly transferred the month Marisol vanished. Beat: motive takes shape—land, money, silence."
+    },
+    {
+      "n": 14,
+      "title": "Deacon Ashford's Welcome",
+      "summary": "Isandro dines with patriarch Deacon Ashford, charming and precise, who quotes details of the case no civilian should know. Beat: the reader sees the killer before Isandro does."
+    },
+    {
+      "n": 15,
+      "title": "Mistaken Certainty",
+      "summary": "Isandro's POV. Following a forged lead planted in the diary, they nearly accuse the wrong man—Pruitt's late deputy—and realize the killer is curating evidence in real time. Beat: humiliation, recalibration."
+    },
+    {
+      "n": 16,
+      "title": "Someone Is Reading Over My Shoulder",
+      "summary": "Isandro discovers their own notes have been photographed and rearranged; the killer knows every deduction the moment it's written down. Beat: paranoia, isolation."
+    },
+    {
+      "n": 17,
+      "title": "The Archive",
+      "summary": "Isandro retreats to the county records annex, building a private index off-site. Here we learn how their memory works as a tool and a curse. Beat: grim competence, self-knowledge."
+    },
+    {
+      "n": 18,
+      "title": "Entry 112: The Field Trip",
+      "summary": "Diary-heavy chapter. A May entry describes a student field trip to the quarry and something Marisol saw there—two men, a body bag, a transaction. Beat: the missing person witnessed the crime."
+    },
+    {
+      "n": 19,
+      "title": "The Boy Who Was There",
+      "summary": "Isandro tracks down Tommy Reyes, now a trucker, who was on that field trip and has spent twenty years drinking the memory down. He confirms: Marisol saw something. Beat: witness found, fragile hope."
+    },
+    {
+      "n": 20,
+      "title": "Tommy's Silence Bought Twice",
+      "summary": "Tommy reveals he testified vaguely at the time and was paid off by a lawyer representing 'the school board.' The payments stopped last month—someone tying loose ends. Beat: ticking clock engaged."
+    },
+    {
+      "n": 21,
+      "title": "Payments Stopped",
+      "summary": "Isandro's POV. Cross-referencing payment dates with local deaths: three witnesses died of 'accidents' in twenty years, each shortly after payments lapsed. Beat: pattern recognized, dread escalates."
+    },
+    {
+      "n": 22,
+      "title": "Corinne's Diner Burns",
+      "summary": "Arson destroys Corinne's diner hours after she agrees to go on record. She survives; her nerve doesn't. Beat: cost of cooperation made visceral."
+    },
+    {
+      "n": 23,
+      "title": "Alphabetized Grief",
+      "summary": "Quiet midpoint chapter, Isandro's POV. They reread every page of the diary and finally understand its structure: it isn't a diary, it's a dead-drop log Marisol kept for someone. Beat: paradigm shift."
+    },
+    {
+      "n": 24,
+      "title": "Who Was She Writing To?",
+      "summary": "Isandro identifies the second voice in the margins—not the killer, but Marisol's secret correspondent: a whistleblower inside the Ashford operation. Beat: hope rekindled, cast widens."
+    },
+    {
+      "n": 25,
+      "title": "The Whistleblower's Fate",
+      "summary": "Records show the correspondent, a junior accountant, died in a car crash weeks after Marisol vanished. Or did he? Isandro finds a death certificate signed by a doctor who never practiced in the county. Beat: the conspiracy deepens."
+    },
+    {
+      "n": 26,
+      "title": "Deacon's Son",
+      "summary": "Isandro confronts Roman Ashford, who inherited the quarry holdings, and finds him terrified rather than guilty—he's been receiving the same anonymous diary pages. Beat: enemy and ally blur."
+    },
+    {
+      "n": 27,
+      "title": "Two Recipients",
+      "summary": "Isandro deduces the killer is also receiving copies of the diary, using them to stay ahead. The mail route becomes the trap's hinge. Beat: strategic turn—the hunted sets terms."
+    },
+    {
+      "n": 28,
+      "title": "Baited Pages",
+      "summary": "Isandro plants a forged diary entry naming a false burial site, then watches the quarry road. A figure comes at 3 a.m. and escapes—but drops a key. Beat: first blood, momentum shifts."
+    },
+    {
+      "n": 29,
+      "title": "The Key Fits the Annex",
+      "summary": "The dropped key opens a long-sealed basement room in the records annex: Marisol's actual final months of writing, hidden by the whistleblower before his death. Beat: revelation cascade."
+    },
+    {
+      "n": 30,
+      "title": "Her Last Months",
+      "summary": "Marisol's recovered writings, intercut with Isandro's reactions. She hid in plain sight, protected by the accountant, documenting the quarry trafficking ring. Beat: grief and admiration."
+    },
+    {
+      "n": 31,
+      "title": "She Didn't Drown",
+      "summary": "The writings end mid-sentence the night she planned to leave town. Isandro realizes Marisol may have escaped—and the killer has spent twenty years hunting a living witness. Beat: the case flips from murder to manhunt."
+    },
+    {
+      "n": 32,
+      "title": "Pruitt's Confession",
+      "summary": "Dying Sheriff Pruitt confesses he falsified the runaway ruling under pressure, believing Marisol had left voluntarily. His guilt gives Isandro the name of who pressured him: not Deacon—his fixer. Beat: the true antagonist named."
+    },
+    {
+      "n": 33,
+      "title": "The Man Who Files Things",
+      "summary": "Isandro recognizes the fixer: Hollis Vane, the quiet county archivist who has 'helped' the investigation throughout—the killer has been inside every room. Beat: betrayal, chilling reversal."
+    },
+    {
+      "n": 34,
+      "title": "Vane's Logic",
+      "summary": "Vane abducts Isandro briefly, not to kill them but to recruit: he offers the town's stability in exchange for Isandro's silence, arguing some archives deserve to burn. Beat: thematic climax of ideas—memory versus mercy."
+    },
+    {
+      "n": 35,
+      "title": "Refusal",
+      "summary": "Isandro stalls, memorizing everything—Vane's tells, routes, the location where he's keeping the recovered writings hostage. They escape using a detail Vane forgot he'd mentioned. Beat: defiance, agency reclaimed."
+    },
+    {
+      "n": 36,
+      "title": "The Trap in the Archive",
+      "summary": "Isandro stages a fake 'complete file' handover in the annex, luring Vane with the one thing he can't resist: total control of the record. Roman and Tommy provide backup. Beat: tension coiled tight."
+    },
+    {
+      "n": 37,
+      "title": "Verdict",
+      "summary": "Climax. Vane springs his counter-trap; a fire starts among the records. Isandro chooses which documents to save, letting the corrupt ledgers burn while shielding Marisol's testimony, and Vane is caught trying to retrieve what he values most. Beat: sacrifice, justice."
+    },
+    {
+      "n": 38,
+      "title": "Postmark From Away",
+      "summary": "Weeks later, Isandro receives an unsigned postcard with a phrase only Marisol used—proof she lived, and chooses to remain gone. Isandro honors it, closing the file as 'located, private.' Beat: bittersweet grace."
+    },
+    {
+      "n": 39,
+      "title": "What We Keep",
+      "summary": "Falling action. The town reckons unevenly with the truth; Corinne rebuilds; Roman funds a memorial. Isandro is offered the archivist's job and declines. Beat: community exhaling."
+    },
+    {
+      "n": 40,
+      "title": "Index of a Life",
+      "summary": "Final chapter, Isandro's POV. They begin writing their own account instead of filing others', learning that memory kept alone is a cage, shared it's a home. Final line echoes the diary's first entry. Beat: belonging, earned."
+    }
+  ]
+}

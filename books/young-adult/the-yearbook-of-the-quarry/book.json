@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09884",
+  "title": "The Yearbook of the quarry",
+  "author": "Beatrix Reyes",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Sebastian Pemberton, a debate champion who can't win the argument at home, is fine. Everything is fine. Obviously.. But when a best friend goes missing, leaving only a set of keys behind, he discovers that staying invisible was never really an option. To get through this, he must win the championship that doesn't matter — and the one that does before the final audition.",
+  "themes": [
+    "power and its corruption",
+    "loyalty vs. truth",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9884
+  }
+}

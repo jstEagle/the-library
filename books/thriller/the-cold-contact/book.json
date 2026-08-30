@@ -1,0 +1,21 @@
+{
+  "id": "THR-08472",
+  "title": "The Cold Contact",
+  "author": "Zephyrine Lockridge",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Oscar Brightwater, a private security contractor guarding clients nobody trusts, hasn't slept through the night since the incident. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and she is pulled straight into the middle of it. To get through this, she must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8472
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07271",
+  "title": "The Static of the Rust Belt",
+  "author": "Dominic Nakamura",
+  "genre": "Science Fiction",
+  "length": "epic",
+  "rating": 4.2,
+  "blurb": "Oscar Thornbury, a pilot bonded to an AI that lies, has spent twenty years hauling cargo through contested orbits. But when the station AI begins confessing to crimes nobody reported, they discover that staying invisible was never really an option. To get through this, they must keep a lie alive that holds two fleets apart before the reactor finishes its countdown.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7271
+  }
+}

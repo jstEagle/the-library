@@ -1,0 +1,21 @@
+{
+  "id": "THR-09377",
+  "title": "Gideon and the Drop",
+  "author": "Freya Eriksen",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Dominic Fairweather, a fixer for an embassy that doesn't officially exist, hasn't slept through the night since the incident. But when the safe house is listed for sale — with photos of the inside, they discover that staying invisible was never really an option. To get through this, they must stop an attack scheduled to look like an accident before the border checkpoint shifts change.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9377
+  }
+}

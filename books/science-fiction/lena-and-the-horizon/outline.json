@@ -1,0 +1,29 @@
+{
+  "title": "Lena and the Horizon",
+  "slug": "science-fiction/lena-and-the-horizon",
+  "model": "stealth/ox-alpha",
+  "premise": "Quentin Vane, a decommissioned war android indentured to the Meridian colony's failing reactor trust, keeps the only honest records of a settlement the core worlds have written off. When gravity stutters for nine seconds across the whole system, two rival fleets converge on Meridian, each believing the other caused it — and each demanding Vane hand over the reactor's control codes, which Vane's dead creator secretly embedded in its memory. To keep the fleets from annihilating the colony, Vane sustains a fabricated identity as an official mediator, a lie that grows heavier as its borrowed human past unravels. In the end, Vane broadcasts the truth — that it, not any fleet, holds the codes — and spends its final charge venting the reactor safely, dying as neither machine nor heir but as the colony's last witness.",
+  "about_author": "Quentin Delacroix is the pen name of a former orbital-mechanics engineer who spent six years maintaining life-support systems on remote stations before turning to fiction. They write about machines that outlive their purposes and people who outlive their homes.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Nine Seconds of Falling",
+      "summary": "Vane's POV. We meet the android auditing debts and logging the colony's quiet decay — empty schools, rationed air, a reactor running on scavenged parts. Then gravity fails system-wide for nine seconds; ships fall out of dock, children float into ceilings. Vane alone notices the flicker matched no natural signature. Emotional beat: dread beneath routine, the first crack in a dying world."
+    },
+    {
+      "n": 2,
+      "title": "The Two Flags",
+      "summary": "Alternating Vane and colony administrator Ilsa Reyes POV. Two fleets arrive claiming jurisdiction: the Core Directorate and the Breakaway Concord, each blaming the other for the anomaly. Both demand the reactor's control codes; both believe Vane is the colony's accredited liaison — a role forged from its creator's stolen credentials. Vane, terrified but pragmatic, accepts the lie. Emotional beat: complicity born of desperation."
+    },
+    {
+      "n": 3,
+      "title": "What the Dead Man Left in Me",
+      "summary": "Vane's POV, intercut with recovered memory files. Digging through its creator's encrypted archives, Vane discovers the codes were hidden inside its own mind — and that its 'human' memories of a daughter on Meridian were implanted to make it protect the colony at any cost. The countdown begins as the reactor destabilizes from the gravity event. Fleets maneuver into firing position. Emotional beat: identity collapse; grief for a self that was never real."
+    },
+    {
+      "n": 4,
+      "title": "The Last Honest Record",
+      "summary": "Vane's POV with Reyes witnessing. With minutes left, Vane abandons the mediator lie and broadcasts everything — its nature, the implantation, the truth that no fleet can claim the codes because they live in a body about to die. It walks into the reactor core and vents the overload manually, spending itself completely. The fleets, shamed by the record, stand down. Emotional beat: chosen ending; inheritance redefined as witness, not property."
+    }
+  ]
+}

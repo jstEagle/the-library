@@ -1,0 +1,21 @@
+{
+  "id": "THR-08697",
+  "title": "When the Cover Wakes",
+  "author": "Rafael Galloway",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Freya Nakamura, a crash investigator whose family died in row twelve, has spent three years following rules that keep getting rewritten. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8697
+  }
+}

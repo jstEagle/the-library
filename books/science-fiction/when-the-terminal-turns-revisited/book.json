@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08143",
+  "title": "When the Terminal Turns Revisited",
+  "author": "Ulyana Fairweather",
+  "genre": "Science Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Sebastian Dravenmoor, a xenolinguist who can no longer dream in human languages, has spent five years hauling cargo through contested orbits. But when the colony's children start sharing the same dream, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before Earth's last transmission loop ends.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8143
+  }
+}

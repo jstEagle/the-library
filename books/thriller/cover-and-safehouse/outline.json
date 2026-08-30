@@ -1,0 +1,29 @@
+{
+  "title": "Cover and Safehouse",
+  "slug": "thriller/cover-and-safehouse",
+  "model": "stealth/ox-alpha",
+  "premise": "Cyrus Ravensworth, a ghost-class interpreter who translates for delegations that officially never existed, is pulled back in when a routine voiceprint verification unlocks a server in Tallinn containing proof that the peace summit's brokered ceasefire was engineered by the very governments sponsoring it. Hunted by an assassin contracted through three intelligence services and betrayed by the handler who made them invisible, Cyrus must smuggle the evidence to a journalist before the summit convenes in seventy-two hours. In the end, Cyrus chooses truth over survival: they release the files knowing it burns their cover forever, survives the assassin only because she decides the truth serves her own masters better buried than spoken, and walks away stateless but finally visible.",
+  "about_author": "Rosalind Nystrom spent a decade working as a contract linguist for NGOs operating in contested border regions, an experience she describes as 'learning which silences are paid for.' She writes from a coastal town whose location she declines to specify, citing old habits.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Voice That Wasn't Mine",
+      "summary": "Cyrus Ravensworth's POV. Working a dead-end translation job in Geneva, Cyrus is summoned to verify a voiceprint for a delegation that officially doesn't exist—and the server it unlocks responds with their own voice reading classified ceasefire terms. The emotional beat is dread: the invisibility Cyrus spent years constructing has been breached, and someone wanted them to know."
+    },
+    {
+      "n": 2,
+      "title": "Three Flags, One Bullet",
+      "summary": "Alternating between Cyrus and the assassin Vesper Kade. Cyrus flees Geneva with a copied drive while Vesper receives a triple-sourced kill order—unusual, since it means all three governments want this quiet. Cyrus's old handler, Marguerite, offers extraction that feels too easy. The beat is paranoia tightening into certainty: the trap isn't behind Cyrus, it's ahead."
+    },
+    {
+      "n": 3,
+      "title": "What the Interpreter Heard",
+      "summary": "Cyrus's POV, climax. Cornered at a Riga safehouse, Cyrus decodes the final file: the ceasefire was scripted months ago, and Marguerite authored it. When Vesper arrives, Cyrus does the one thing interpreters are trained never to do—they speak for themselves, offering Vesper the leverage of the truth. The beat is betrayal transmuted into defiance as Cyrus bets their life on an enemy's self-interest."
+    },
+    {
+      "n": 4,
+      "title": "Attribution Denied",
+      "summary": "Vesper's POV shifting to Cyrus's. Vesper delivers the files to the summit floor instead of a bullet, letting the governments destroy each other over attribution. Cyrus, officially erased, watches the collapse from a ferry crowd—stateless, unemployed, and for the first time unowned. The beat is costly peace: survival purchased not with silence, but with everything Cyrus used to be."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Rafael and the Weather",
+  "slug": "literary-fiction/rafael-and-the-weather",
+  "model": "stealth/ox-alpha",
+  "premise": "After her father's funeral, Mara Oyelaran finds a stranger named Rafael mourning at the graveside, calling the family by a name from a neighborhood that no longer exists. Following him back to the condemned district where her father grew up, she uncovers the debt, betrayal, and quiet act of justice that made her father flee and reinvent himself. As demolition day approaches, Mara must decide whether to expose the truth or let it be buried with the houses. She chooses to carry the name forward herself, paying off the old debt in her own currency and letting the neighborhood go.",
+  "about_author": "Rosalind Ishikawa is a former archivist who spent a decade cataloging unclaimed estate letters in Lagos and Manchester. Her fiction explores inheritance as both burden and permission.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Inventory of Unsaid Things",
+      "summary": "Mara's POV. After the funeral, Mara methodically catalogs her father's silences: unlabeled photographs, a locked drawer, an address crossed out on old envelopes. At the reception, a weathered stranger called Rafael appears, grieving openly, and calls the family by a surname nobody uses. Emotional beat: grief sharpened into unease; the careful order of mourning begins to crack."
+    },
+    {
+      "n": 2,
+      "title": "A Name Nobody Uses",
+      "summary": "Mara's POV. She tracks Rafael to a half-demolished street in the old neighborhood, where he lives in the last occupied house. He tells her fragments: her father once had another name, another family obligation, and left owing something that was never money alone. Emotional beat: fascination laced with resentment; Mara resents the stranger for knowing her father better than she did."
+    },
+    {
+      "n": 3,
+      "title": "What the Rain Kept",
+      "summary": "Mara's POV, climax. On the eve of demolition, Rafael reveals the full story: her father witnessed a crime as a boy, stayed silent to survive, and his silence cost Rafael's brother everything. Confronted with the rerouted bus line and the wrecking schedule, Mara must choose between protecting her father's memory and honoring the wronged. Emotional beat: fury, then reckoning; the price of survival laid bare."
+    },
+    {
+      "n": 4,
+      "title": "The Last Bus Out",
+      "summary": "Mara's POV, resolution. Mara publicly reads her father's confession at the neighborhood's final gathering, restoring Rafael's brother's name, then rides the last bus out beside Rafael. She adds a new page to her inventory — things finally said. Emotional beat: sorrow transmuted into belonging; Mara inherits not the silence but the duty to speak."
+    }
+  ]
+}

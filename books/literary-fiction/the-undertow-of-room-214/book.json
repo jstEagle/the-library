@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04251",
+  "title": "The Undertow of Room 214",
+  "author": "Cyrus Ravensworth",
+  "genre": "Literary Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Gideon Brightwater, a translator losing a childhood language one borrowed word at a time, keeps a careful inventory of everything unsaid. Then a song on the radio is one that was written and never recorded — and she is pulled straight into the middle of it. To get through this, she must return to the place where the story went wrong before the demolition date arrives.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4251
+  }
+}

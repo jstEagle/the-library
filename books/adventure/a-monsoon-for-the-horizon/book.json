@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00002",
+  "title": "A Monsoon for the Horizon",
+  "author": "Zephyrine Vasquez",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Oscar Fairweather, a riverboat captain who knows every sandbar's mood, keeps moving because stopping costs more. But when an old rival hires the crew for the one job that was sworn off long ago, he discovers that staying invisible was never really an option. To get through this, he must outlast the monsoon with a leaking boat and a stranger's help before the concession permits expire.",
+  "themes": [
+    "belonging",
+    "love against duty",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2
+  }
+}

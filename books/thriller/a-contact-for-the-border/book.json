@@ -1,0 +1,21 @@
+{
+  "id": "THR-08828",
+  "title": "A Contact for the Border",
+  "author": "S. M. Reyes",
+  "genre": "Thriller",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "Mirabel Almeida, a fixer for an embassy that doesn't officially exist, has spent ten years following rules that keep getting rewritten. Then every record of a flight vanishes while it's still in the air — and they are pulled straight into the middle of it. To get through this, they must stop an attack scheduled to look like an accident before the markets open in Frankfurt.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "identity"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8828
+  }
+}

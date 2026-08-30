@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03556",
+  "title": "Rosalind and the Harvest",
+  "author": "Mirabel Blackwood",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Wendell Eriksen, the new teacher at a school with a missing-class problem, keeps the lights on and the doors counted. But when the childhood imaginary friend is waiting on the porch, unchanged, she discovers that staying invisible was never really an option. To get through this, she must return what was taken in 1974 before the last resident signs the papers.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3556
+  }
+}

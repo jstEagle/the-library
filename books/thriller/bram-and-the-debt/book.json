@@ -1,0 +1,21 @@
+{
+  "id": "THR-09329",
+  "title": "Bram and the Debt",
+  "author": "Casper Winterbourne",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "Mara Villalobos, a burnt analyst bounced from three agencies, keeps a go-bag packed and a lie polished. But when a stranger returns a favor that never happened, with interest owed, she discovers that staying invisible was never really an option. To get through this, she must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "the price of survival",
+    "identity",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9329
+  }
+}

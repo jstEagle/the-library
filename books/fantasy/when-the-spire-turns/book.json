@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00759",
+  "title": "When the Spire Turns",
+  "author": "S. M. Fairweather",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Noor Halloran, a beast-speaker hiding a forbidden gift, has spent fifteen years selling small charms in a city that outlawed magic. But when the crown announces a hunt for anyone with the gift, they discover that staying invisible was never really an option. Now they must unbind a king from the thing wearing his crown, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 759
+  }
+}

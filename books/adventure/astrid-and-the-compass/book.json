@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00659",
+  "title": "Astrid and the Compass",
+  "author": "Gideon Galloway",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Jude Fairweather, a riverboat captain who knows every sandbar's mood, carries a compass, a debt, and very little else. Then an expedition upriver stops answering the radio — and she is pulled straight into the middle of it. To get through this, she must follow a river upstream to its forbidden source before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 659
+  }
+}

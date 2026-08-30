@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07108",
+  "title": "A Vector for the Colony",
+  "author": "Ulyana Whitlock",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Rafael Reyes, an insurance investigator of impossible accidents, records the slow death of a colony everyone else forgot. Then gravity flickers across the entire system for exactly nine seconds — and they are pulled straight into the middle of it. Now they must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "memory"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7108
+  }
+}

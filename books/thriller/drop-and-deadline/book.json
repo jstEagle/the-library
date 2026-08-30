@@ -1,0 +1,21 @@
+{
+  "id": "THR-08749",
+  "title": "Drop and Deadline",
+  "author": "Beatrix Dravenmoor",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.5,
+  "blurb": "August Lockridge, a private security contractor guarding clients nobody trusts, has spent seven years following rules that keep getting rewritten. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and they are pulled straight into the middle of it. To get through this, they must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "love against duty"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8749
+  }
+}

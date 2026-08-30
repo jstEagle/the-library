@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03412",
+  "title": "Sable and the Visitor",
+  "author": "Astrid Reyes",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.5,
+  "blurb": "August Lockridge, a radio host taking calls from listeners who died last week, doesn't believe, has never believed, will not begin believing now. Then every mirror in the house starts reflecting the room one second late — and he is pulled straight into the middle of it. To get through this, he must hold out until sunrise with the truth about what was invited in before the frost writes its final pattern.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3412
+  }
+}

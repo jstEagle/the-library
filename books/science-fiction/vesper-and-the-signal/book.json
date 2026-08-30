@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07901",
+  "title": "Vesper and the Signal",
+  "author": "Rosalind Blackwood",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Theo Lockridge, the caretaker of Earth's abandoned seed vault, records the slow death of a colony everyone else forgot. But when a ship returns from deep space with everyone aboard aged backward, he discovers that staying invisible was never really an option. To get through this, he must decide which half of humanity wakes from cryosleep before the fleet's truce expires.",
+  "themes": [
+    "loyalty vs. truth",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7901
+  }
+}

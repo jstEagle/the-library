@@ -1,0 +1,59 @@
+{
+  "title": "The Loose Cipher",
+  "slug": "thriller/the-loose-cipher",
+  "model": "stealth/ox-alpha",
+  "premise": "Lena Thackeray is guarding a mid-level data broker on a transatlantic flight when the aircraft's records vanish from every system while it's still airborne — a wipe so clean that the plane itself becomes legally nonexistent. The broker dies in a staged accident on landing, leaving Lena holding an encrypted drive he slipped into her bag, containing proof that a joint intelligence program called CIPHER has been erasing people and assets for three governments. Hunted by her own former agency, pursued by an assassin known only as Vesper, and betrayed by the mentor who trained her, Lena assembles a ragtag found family of exiled hackers and burned operatives to move the truth. In the end she trades herself to Vesper to buy time for the leak, survives because even assassins have loyalties, and watches CIPHER burn — knowing the power that replaces corruption is never clean.",
+  "about_author": "Emrys Halloran is the pen name of a former aviation logistics consultant who spent a decade inside the paperwork of things governments preferred not to exist. They write thrillers about ordinary professionals trapped in extraordinary cover-ups and live somewhere with unreliable internet by choice.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Flight 404",
+      "summary": "Lena's POV. Mid-flight over the Atlantic, Lena notices her client Marcus Vale sweating through his security briefing — then every digital trace of the aircraft evaporates: manifests, radar logs, even her own contract history. The cabin goes quiet in a way money can't buy. Emotional beat: professional unease curdling into dread as the rules she trusts stop applying."
+    },
+    {
+      "n": 2,
+      "title": "The Man Who Was Never Here",
+      "summary": "Lena's POV. On landing, Vale is killed in a flawless staged accident before he can reach customs; authorities insist no such flight arrived. Searching his effects, Lena finds the encrypted drive he planted in her bag — and realizes she's now the only witness to a flight that officially never happened. Emotional beat: grief and guilt sharpening into resolve."
+    },
+    {
+      "n": 3,
+      "title": "Burn Notice",
+      "summary": "Alternating POV between Lena and her old handler, Director Sorrell. Lena reaches out to her former agency for protection and is met with a kill order instead; Sorrell, chapters later, is shown ordering it while privately doubting. Lena barely escapes London with help from Juno, a disgraced signals analyst who recognizes the wipe signature. Emotional beat: betrayal by the institution that was her found family."
+    },
+    {
+      "n": 4,
+      "title": "Vesper",
+      "summary": "Assassin's POV. We meet Vesper — meticulous, weary, bound by a personal code — assigned to retrieve the drive and erase everyone who touched it. Vesper studies Lena's file and finds a pattern: she keeps saving people she was paid not to care about. First attempt fails in a Lisbon safehouse. Emotional beat: the hunter's curiosity becoming something dangerously like respect."
+    },
+    {
+      "n": 5,
+      "title": "The Loose Cipher",
+      "summary": "Juno's POV. The team decodes the drive: CIPHER, a trilateral program using legal nonexistence as a weapon — deleting flights, funds, and people. But one entry doesn't fit: a name flagged 'loose,' un-deletable, protected from inside. Emotional beat: the intoxicating and corrupting realization that whoever controls deletion controls reality."
+    },
+    {
+      "n": 6,
+      "title": "What Sorrell Kept",
+      "summary": "Sorrell's POV. Flashbacks reveal Sorrell built CIPHER believing oversight would prevent abuse — then watched partners weaponize it, keeping the 'loose' file as leverage and insurance. Sorrell summons Lena under truce, offering testimony in exchange for protection. Emotional beat: a mentor's confession, half redemption, half self-preservation."
+    },
+    {
+      "n": 7,
+      "title": "Three Governments, One Bullet",
+      "summary": "Lena's POV. The handoff becomes a trap: all three governments want Sorrell silenced and the drive destroyed. Vesper strikes during the meeting, kills the wrong target, and Sorrell falls protecting Lena — dying with the loose name half-spoken. Emotional beat: devastating loss that transforms the mission from survival to obligation."
+    },
+    {
+      "n": 8,
+      "title": "Found Family, Burning",
+      "summary": "Ensemble POV. Hiding in a decommissioned lighthouse station, the fractured team — Lena, Juno, a defected CIPHER auditor named Pell — prepares the leak while Vesper closes in. Old wounds surface; trust frays; Pell nearly sells them out. Emotional beat: the fragile family choosing each other anyway, knowing it may be fatal."
+    },
+    {
+      "n": 9,
+      "title": "The Price of Truth",
+      "summary": "Climax, Lena's POV. Vesper corners them at dawn. Lena offers herself in exchange for letting the upload run — appealing to the code Vesper hides behind. Vesper hesitates, then holds the door against CIPHER's retrieval team long enough for the files to go worldwide, taking a fatal wound. Emotional beat: sacrifice proving loyalty can outlive the systems that corrupted it."
+    },
+    {
+      "n": 10,
+      "title": "After the Wipe",
+      "summary": "Lena's POV, epilogue tone. CIPHER collapses in hearings and resignations; the 'loose' name turns out to be a child witness whose existence Sorrell protected all along, now safe. Lena, officially still deleted, builds a small honest security firm with Juno and Pell. Emotional beat: quiet resolution — truth survived, but Lena knows vigilance is the only permanent guard against power's appetite."
+    }
+  ]
+}

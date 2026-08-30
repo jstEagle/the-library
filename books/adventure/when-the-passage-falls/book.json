@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00372",
+  "title": "When the Passage Falls",
+  "author": "Kestrel Dunmore",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.3,
+  "blurb": "Marguerite Winterbourne, a salvage diver working a wreck the navy won't discuss, has spent twenty years measuring life in miles rather than years. Then the river gives up a chest stamped with a dead nation's seal — and she is pulled straight into the middle of it. To get through this, she must follow a river upstream to its forbidden source before the concession permits expire.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 372
+  }
+}

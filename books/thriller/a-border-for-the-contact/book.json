@@ -1,0 +1,21 @@
+{
+  "id": "THR-08916",
+  "title": "A Border for the Contact",
+  "author": "Cyrus Yarrow",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 3.9,
+  "blurb": "Wendell Underhill, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. To get through this, they must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "identity"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8916
+  }
+}

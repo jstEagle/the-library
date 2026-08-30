@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00518",
+  "title": "Emrys and the Escarpment",
+  "author": "Mara Ashgrove",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.6,
+  "blurb": "Wren Sandoval, a mountain guide blacklisted from two countries, knows the wilderness forgives nothing and forgets less. But when an old rival hires the crew for the one job that was sworn off long ago, they discover that staying invisible was never really an option. To get through this, they must bring the expedition home without telling anyone what it found before the concession permits expire.",
+  "themes": [
+    "belonging",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 518
+  }
+}

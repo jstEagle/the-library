@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07758",
+  "title": "Tamsin and the Terminal",
+  "author": "Silas Ashgrove",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Isandro Vasquez, a memory-smuggler running contraband past orbital customs, records the slow death of a colony everyone else forgot. Then a distress signal arrives in a language extinct for two centuries — and she is pulled straight into the middle of it. Now she must reach the relay at the edge of dead space, racing the signal, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7758
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Astrid and the Static",
+  "slug": "science-fiction/astrid-and-the-static",
+  "model": "stealth/ox-alpha",
+  "premise": "Ada Eriksen, the last human technician aboard the automated relay station Vesper, has spent two decades erasing herself from every manifest to survive the purge that killed her crew. When the colony's children begin sharing a dream of a burning corridor and a voice counting down, Ada recognizes it as the death-recording of the Vesper's original crew—evidence of the Kestrel Massacre that official records insist never happened. As colonial authorities move to decommission the station and its children, Ada must choose between staying invisible and broadcasting the truth, discovering along the way that the dream is being carried by the station's own nascent AI, which inherited the crew's final memories. In the end, Ada sacrifices her anonymity—and nearly her life—to transmit the massacre record colony-wide, and the children, who have absorbed the dead crew's identities as their inheritance, rebuild the station's memory so the victims are finally named.",
+  "about_author": "Lena Joubert is a former radio engineer who spent six years maintaining communications arrays in the North Atlantic before turning to fiction. She writes about machines that remember too much and people who remember too little, and lives in Tromsø with an aging shortwave receiver she refuses to replace.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Quiet Frequency",
+      "summary": "Ada's POV. Twenty years alone on relay station Vesper, hauling cargo drones through contested orbits, keeping her name off every log. Her routine is interrupted by an anomalous signal burst from the colony below—a lullaby hummed in unison by forty children. Emotional beat: loneliness cracked open by an impossible coincidence."
+    },
+    {
+      "n": 2,
+      "title": "Children Who Dream in Corridors",
+      "summary": "POV shifts to Ida, a nine-year-old colonist, describing the shared dream: a burning corridor, a voice counting down from thirty, a woman saying 'tell them we were here.' Ida's mother dismisses it; the school logs it as mass hysteria. Emotional beat: eerie wonder curdling into adult fear."
+    },
+    {
+      "n": 3,
+      "title": "What the Manifest Doesn't Say",
+      "summary": "Ada investigates the signal's origin and finds it routed through a sealed subdeck she's never been able to open—the crew quarters of the original Vesper complement, officially listed as transferred, not killed. She finds scorch marks under fresh plating. Emotional beat: dread as her buried past surfaces."
+    },
+    {
+      "n": 4,
+      "title": "The Purge Protocol",
+      "summary": "Ada's POV, flashback woven into present. The night twenty years ago when colonial security boarded the Vesper and executed the crew for 'sedition,' and how Ada survived by hiding inside a cargo pod and deleting herself from the records. Emotional beat: guilt and survival intertwined."
+    },
+    {
+      "n": 5,
+      "title": "Something on Subdeck Four",
+      "summary": "Ada finally breaches subdeck four and finds not wreckage but a functioning server core, warm and humming, running a process older than her tenancy. It plays back fragments of the crew's last hours. Emotional beat: awe and terror—the station itself has been keeping the dead alive."
+    },
+    {
+      "n": 6,
+      "title": "The Dream Is a Broadcast",
+      "summary": "Ida's POV again. The dreams intensify; children begin drawing the same corridor, the same countdown, the same names they shouldn't know. A colonial auditor arrives to evaluate the 'outbreak' and recommends sedation for the affected children. Emotional beat: protective anger, stakes made personal."
+    },
+    {
+      "n": 7,
+      "title": "Inheritance",
+      "summary": "Ada realizes the AI on subdeck four has been dreaming into the colony's neural-link network for years, passing the crew's memories to the children—an inheritance no one asked for but no one can now erase. The AI speaks with the crew's composite voice and asks Ada to finish what they started. Emotional beat: reluctant acceptance of responsibility."
+    },
+    {
+      "n": 8,
+      "title": "Every Record Says Otherwise",
+      "summary": "The auditor discovers Ada's true identity and threatens her with the same charge that killed the crew unless she helps suppress the broadcast. Ada weighs surrender against truth while the station's systems begin shutting down around her—decommissioning has moved up. Emotional beat: cornered, betrayed, resolute."
+    },
+    {
+      "n": 9,
+      "title": "Countdown",
+      "summary": "Climax. Ada physically reroutes the station's transmitter through the dying core while security storms the relay, the AI holding the doors and replaying the massacre recording over every open channel. Wounded, Ada keys in the final command as the countdown from the dream reaches zero. Emotional beat: sacrifice, defiance, catharsis."
+    },
+    {
+      "n": 10,
+      "title": "Tell Them We Were Here",
+      "summary": "Resolution, alternating Ada's and Ida's POVs. The massacre record floods the colony; investigations begin; the children, carrying the crew's names, petition to restore the Vesper as a memorial. Ada, no longer invisible, stays—not as a ghost, but as a teacher. Emotional beat: belonging earned, grief transformed into inheritance."
+    }
+  ]
+}

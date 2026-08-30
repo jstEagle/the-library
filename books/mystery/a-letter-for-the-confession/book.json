@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05329",
+  "title": "A Letter for the Confession",
+  "author": "Lena Crane",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Casper Thackeray, a hotel concierge who notices everything, has quietly solved three deaths the police called accidents. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. To get through this, they must untangle alibis woven thirty years ago before the tide gives up what it took.",
+  "themes": [
+    "belonging",
+    "the price of survival",
+    "love against duty"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5329
+  }
+}

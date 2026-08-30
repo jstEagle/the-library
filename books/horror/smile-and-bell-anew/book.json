@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03932",
+  "title": "Smile and Bell Anew",
+  "author": "Sable Whitlock",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Yara Eriksen, an urban explorer mapping tunnels that aren't on any survey, keeps the lights on and the doors counted. Then the village's church bell rings although the bell was melted down in 1911 — and she is pulled straight into the middle of it. To get through this, she must learn the song's last verse without singing along before the well refills.",
+  "themes": [
+    "the price of survival",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3932
+  }
+}

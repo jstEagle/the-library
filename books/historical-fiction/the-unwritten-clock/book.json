@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02327",
+  "title": "The Unwritten Clock",
+  "author": "Hazel Iversen",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ivo Dunmore, a mapmaker's apprentice finishing the atlas the master died for, measures the world in what can be carried when the orders come. But when the bridge — the only road out — closes for the season, he discovers that staying invisible was never really an option. To get through this, he must smuggle the evidence past three checkpoints before the armistice is signed — or isn't.",
+  "themes": [
+    "identity",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2327
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01560",
+  "title": "The Last Spire Again",
+  "author": "Silas Winterbourne",
+  "genre": "Fantasy",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ulyana Whitlock, the keeper of a gate that should stay shut, knows every smuggler's road through the Thornfell mountains. But when the old gods begin answering prayers again, he discovers that staying invisible was never really an option. To get through this, he must unbind a king from the thing wearing his crown before the last dragon-fire gutters out.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "the price of survival"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1560
+  }
+}

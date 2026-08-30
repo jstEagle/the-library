@@ -1,0 +1,21 @@
+{
+  "id": "THR-09192",
+  "title": "Ulyana and the Contact",
+  "author": "Yara Sandoval",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Astrid Montrose, a hostage negotiator with one failure still on the board, has spent twenty years following rules that keep getting rewritten. But when every record of a flight vanishes while it's still in the air, they discover that staying invisible was never really an option. To get through this, they must trade the one secret worth killing for before the summit convenes.",
+  "themes": [
+    "justice outside the law",
+    "power and its corruption",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9192
+  }
+}

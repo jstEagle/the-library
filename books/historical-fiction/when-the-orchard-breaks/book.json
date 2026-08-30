@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02642",
+  "title": "When the Orchard Breaks",
+  "author": "Ivo Halloran",
+  "genre": "Historical Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Theo Delacroix, a code-carrying courier on the last diplomatic mission of a doomed republic, believes history happens to other people, elsewhere. But when the bridge — the only road out — closes for the season, they discover that staying invisible was never really an option. To get through this, they must choose which family member gets the last berth before the ice breaks on the river.",
+  "themes": [
+    "found family",
+    "love against duty",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2642
+  }
+}

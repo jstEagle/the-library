@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01898",
+  "title": "Ironhollow Rising Revisited",
+  "author": "Marguerite Zhou",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ines Iversen, the youngest member of a dying guild, keeps the ledgers of a guild that trades in impossible things. But when a dying stranger presses a map into unwilling hands, he discovers that staying invisible was never really an option. To get through this, he must find the door out of a country that no longer exists before the usurper's armies reach the free cities.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1898
+  }
+}

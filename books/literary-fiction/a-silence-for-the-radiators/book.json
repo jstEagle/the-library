@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04200",
+  "title": "A Silence for the Radiators",
+  "author": "Astrid Sandoval",
+  "genre": "Literary Fiction",
+  "length": "epic",
+  "rating": 4.7,
+  "blurb": "Hazel Okafor, a bridge inspector measuring the marriage in expansion joints, has spent ten years practicing the art of almost saying it. Then a childhood home goes up for auction — and she is pulled straight into the middle of it. To get through this, she must translate the untranslatable sentence and live with it before the last bus to the old neighborhood is rerouted forever.",
+  "themes": [
+    "love against duty",
+    "the price of survival",
+    "belonging"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4200
+  }
+}

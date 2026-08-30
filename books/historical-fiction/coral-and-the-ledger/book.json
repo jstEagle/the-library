@@ -1,0 +1,21 @@
+{
+  "id": "HIS-03108",
+  "title": "Coral and the Ledger",
+  "author": "S. M. Reyes",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Jude Villalobos, a widowed lighthouse keeper during the year of the great storms, believes history happens to other people, elsewhere. But when a child is left at the door with instructions to forget the face, he discovers that staying invisible was never really an option. To get through this, he must finish the work while the workshop still stands before the armistice is signed — or isn't.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "justice outside the law"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3108
+  }
+}

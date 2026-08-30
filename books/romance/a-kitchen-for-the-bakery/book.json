@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06524",
+  "title": "A Kitchen for the Bakery",
+  "author": "Xanthe Fairweather",
+  "genre": "Romance",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Bram Whitlock, a vineyard owner who inherited debts instead of grapes, swears the heart is a muscle like any other: trainable, containable. But when the person behind a decade of letters moves in next door, he discovers that staying invisible was never really an option. Now he must let someone stay after the last train leaves, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "belonging"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6524
+  }
+}

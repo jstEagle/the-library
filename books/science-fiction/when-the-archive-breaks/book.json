@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07180",
+  "title": "When the Archive Breaks",
+  "author": "Lior Okonkwo",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Paloma Thornbury, a xenolinguist who can no longer dream in human languages, has spent fifteen years hauling cargo through contested orbits. But when gravity flickers across the entire system for exactly nine seconds, she discovers that staying invisible was never really an option. Now she must deliver a message that will end the war — or start it, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7180
+  }
+}

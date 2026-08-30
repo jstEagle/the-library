@@ -1,0 +1,21 @@
+{
+  "id": "LIT-04399",
+  "title": "Postcards and Glasshouse",
+  "author": "Beatrix Coldharbour",
+  "genre": "Literary Fiction",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Wendell Nystrom, an heir cataloging a parent's silence after the funeral, has spent twelve years practicing the art of almost saying it. But when the last speaker of a language asks for one final student, they discover that staying invisible was never really an option. Now they must forgive the stranger in the old photographs, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "love against duty",
+    "the price of survival"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4399
+  }
+}

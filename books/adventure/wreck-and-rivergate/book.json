@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00083",
+  "title": "Wreck and Rivergate",
+  "author": "Ansel Blackwood",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Ansel Yarrow, a salvage diver working a wreck the navy won't discuss, keeps moving because stopping costs more. Then an old rival hires the crew for the one job that was sworn off long ago — and he is pulled straight into the middle of it. Now he must outlast the monsoon with a leaking boat and a stranger's help, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "inheritance",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 83
+  }
+}

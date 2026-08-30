@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06373",
+  "title": "Emrys and the Letters",
+  "author": "Bram Halloran",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.1,
+  "blurb": "Ivo Oyelaran, a ghostwriter secretly penning a rival's memoirs, keeps love in the past tense where it belongs. Then a snowstorm strands two rivals with the best mistake of their twenties — and they are pulled straight into the middle of it. Now they must say the sentence that has been rehearsed for a decade, and time is already running out.",
+  "themes": [
+    "memory",
+    "loyalty vs. truth",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6373
+  }
+}

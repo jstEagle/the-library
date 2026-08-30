@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03765",
+  "title": "A Bell for the Hymn",
+  "author": "Silas Whitlock",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Gideon Halloran, a radio host taking calls from listeners who died last week, has spent twenty years telling themselves the noises have explanations. But when the sleep recordings capture a second voice answering questions, he discovers that staying invisible was never really an option. Now he must get the family out ahead of the count, and time is already running out.",
+  "themes": [
+    "belonging",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3765
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ROM-05971",
+  "title": "The Slow Letters",
+  "author": "Zephyrine Dunmore",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ulyana Marchetti, a lighthouse keeper's granddaughter and part-time novelist, believes second chances are for people with better timing. But when two estranged names appear on the same impossibly stubborn orchard deed, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the last ferry of the season departs.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5971
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03987",
+  "title": "Kestrel and the Hymn",
+  "author": "Mara Hartwell",
+  "genre": "Horror",
+  "length": "epic",
+  "rating": 4.1,
+  "blurb": "Xanthe Okonkwo, the new teacher at a school with a missing-class problem, keeps the lights on and the doors counted. But when the excavation crew unearths a door, sealed from the inside, he discovers that staying invisible was never really an option. To get through this, he must learn the song's last verse without singing along before the frost writes its final pattern.",
+  "themes": [
+    "identity",
+    "belonging",
+    "found family"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3987
+  }
+}

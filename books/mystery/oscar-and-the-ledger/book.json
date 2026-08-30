@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05860",
+  "title": "Oscar and the Ledger",
+  "author": "Rafael Okafor",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Yara Villalobos, a hotel concierge who notices everything, prides themselves on never taking a case they can't close. Then the town's beloved founder is exhumed and the coffin is empty — and she is pulled straight into the middle of it. To get through this, she must trap a killer who knows the case file better than the investigators do before the anniversary dinner raises its glass.",
+  "themes": [
+    "inheritance",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5860
+  }
+}

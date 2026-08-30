@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02836",
+  "title": "A Atlas for the Regiment",
+  "author": "Edmund Ashgrove",
+  "genre": "Historical Fiction",
+  "length": "novella",
+  "rating": 3.8,
+  "blurb": "Ulyana Sandoval, a pearl diver's child indentured to a trading company, believes history happens to other people, elsewhere. Then a stranger arrives carrying unmistakable handwriting from a supposed corpse — and they are pulled straight into the middle of it. To get through this, they must choose which family member gets the last berth before the ice breaks on the river.",
+  "themes": [
+    "loyalty vs. truth",
+    "the price of survival",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2836
+  }
+}

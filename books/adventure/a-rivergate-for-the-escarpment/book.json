@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00446",
+  "title": "A Rivergate for the Escarpment",
+  "author": "Astrid Montrose",
+  "genre": "Adventure",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Cyrus Kavanagh, a mountain guide blacklisted from two countries, keeps moving because stopping costs more. But when the river gives up a chest stamped with a dead nation's seal, she discovers that staying invisible was never really an option. To get through this, she must outlast the monsoon with a leaking boat and a stranger's help before the monsoon makes landfall.",
+  "themes": [
+    "belonging",
+    "justice outside the law",
+    "power and its corruption"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 446
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "THR-08816",
+  "title": "Hazel and the Border",
+  "author": "Sable Villalobos",
+  "genre": "Thriller",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Isandro Eriksen, a financial-crimes investigator drowning in clean money, has spent three years following rules that keep getting rewritten. But when the safe house is listed for sale — with photos of the inside, he discovers that staying invisible was never really an option. Now he must get the truth past three governments and one assassin, and time is already running out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8816
+  }
+}

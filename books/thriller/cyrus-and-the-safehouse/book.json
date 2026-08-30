@@ -1,0 +1,21 @@
+{
+  "id": "THR-08654",
+  "title": "Cyrus and the Safehouse",
+  "author": "Juniper Coldharbour",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Cyrus Winterbourne, a hostage negotiator with one failure still on the board, works cases no one wants attributed. Then every record of a flight vanishes while it's still in the air — and she is pulled straight into the middle of it. To get through this, she must get the truth past three governments and one assassin before the markets open in Frankfurt.",
+  "themes": [
+    "love against duty",
+    "identity",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8654
+  }
+}

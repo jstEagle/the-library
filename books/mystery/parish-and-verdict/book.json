@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05090",
+  "title": "Parish and Verdict",
+  "author": "Lior Vasquez",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Orsen Pemberton, the archivist of a cathedral with a locked crypt, has quietly solved three deaths the police called accidents. Then a confession letter arrives postmarked the day after the funeral — and she is pulled straight into the middle of it. To get through this, she must untangle alibis woven thirty years ago before the trial begins.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5090
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09574",
+  "title": "Mixtape and Detention",
+  "author": "Kestrel Oyelaran",
+  "genre": "Young Adult",
+  "length": "novella",
+  "rating": 4.9,
+  "blurb": "Hazel Pemberton, a coder whose anonymous account knows too much, stays under the radar: head down, grades up, locker shut. But when a best friend goes missing, leaving only a set of keys behind, they discover that staying invisible was never really an option. Now they must save the tradition that made the town, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "found family",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9574
+  }
+}

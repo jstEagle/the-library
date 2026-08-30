@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05550",
+  "title": "Gideon and the Letter",
+  "author": "D. M. Halloran",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 4.1,
+  "blurb": "Ada Halloran, an estate lawyer reading a will that shouldn't exist, has quietly solved three deaths the police called accidents. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. Now they must trap a killer who knows the case file better than the investigators do, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "justice outside the law",
+    "inheritance"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5550
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05478",
+  "title": "Sebastian and the Alibi",
+  "author": "Quentin Eastwick",
+  "genre": "Mystery",
+  "length": "epic",
+  "rating": 3.9,
+  "blurb": "Odile Okonkwo, a true-crime podcaster chasing the coldest case on record, prides themselves on never taking a case they can't close. Then the missing person's diary continues past the date she disappeared — and he is pulled straight into the middle of it. Now he must untangle alibis woven thirty years ago, and time is already running out.",
+  "themes": [
+    "power and its corruption",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5478
+  }
+}

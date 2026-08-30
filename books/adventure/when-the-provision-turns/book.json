@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00519",
+  "title": "When the Provision Turns",
+  "author": "Dominic Voss",
+  "genre": "Adventure",
+  "length": "epic",
+  "rating": 4.4,
+  "blurb": "Kestrel Thornbury, a desert ranger tracking a thief across nothing, carries a compass, a debt, and very little else. Then an old rival hires the crew for the one job that was sworn off long ago — and he is pulled straight into the middle of it. Now he must beat the salvage fleet to the wreck by six tides, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 519
+  }
+}

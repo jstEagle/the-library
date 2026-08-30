@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03240",
+  "title": "The Choir of the Bell House",
+  "author": "Oscar Okafor",
+  "genre": "Horror",
+  "length": "novella",
+  "rating": 4.6,
+  "blurb": "Kestrel Sandoval, a folklorist recording songs the village refuses to sing twice, has spent ten years telling themselves the noises have explanations. Then the village's church bell rings although the bell was melted down in 1911 — and he is pulled straight into the middle of it. Now he must return what was taken in 1974, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "inheritance",
+    "found family"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3240
+  }
+}

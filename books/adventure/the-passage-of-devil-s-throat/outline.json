@@ -1,0 +1,29 @@
+{
+  "title": "The Passage of Devil's Throat",
+  "slug": "adventure/the-passage-of-devil-s-throat",
+  "model": "stealth/ox-alpha",
+  "premise": "August Okafor, a railroad engineer haunted by the closed lines of Devil's Throat, is hired by his old rival Elias Vane to survey a route upriver to the Throat's forbidden source, where a lost tunnel and its dead crew were sealed away twenty years ago. August's late father helped seal it, and his map — inherited, incomplete, and lying about one crucial junction — is the only key. As the crew pushes upstream against rising water and sabotage from within their own ranks, August discovers Vane's true aim: not salvage, but proof that the disaster was covered up, and that August's father caused it. In the flooded heart of the Throat, August must choose between protecting his inheritance and telling the truth, and he chooses truth — collapsing the tunnel for good and giving the victims' families what they were owed, at the cost of the river route, Vane's fortune, and any home in the valley.",
+  "about_author": "Orsen Joubert is a former land surveyor who spent a decade mapping decommissioned rail corridors across three continents before turning to fiction. He writes adventure novels about people whose work leaves marks on landscapes they can never fully leave behind.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Map That Lies",
+      "summary": "POV: August. Drifting between contract jobs with his skeleton crew, August receives Vane's offer and refuses it — until a debt collector forces his hand. He studies his father's map of Devil's Throat and notices, for the first time, an inked-over junction. Emotional beat: reluctant commitment; the past knocking on a door August has kept moving to avoid answering."
+    },
+    {
+      "n": 2,
+      "title": "Upstream Against the Water",
+      "summary": "POV: August, alternating with crew foreman Naledi. The expedition fights rapids, washed-out trestles, and growing suspicion that someone aboard is feeding their position to outsiders. Naledi finds dynamite crates stamped with the old company seal. Emotional beat: rising dread; camaraderie tested as the river narrows toward the forbidden gorge."
+    },
+    {
+      "n": 3,
+      "title": "The Source",
+      "summary": "POV: August. At the sealed tunnel mouth, August decodes his father's map and enters the flooded workings alone, finding the wrecked bore and evidence the collapse was deliberate — ordered to hide shoddy construction, with his father complicit. Vane arrives, revealing he wants the scandal public, whatever it costs. Emotional beat: climax; betrayal, grief, and the weight of inherited guilt converging underground as the water rises."
+    },
+    {
+      "n": 4,
+      "title": "What the River Keeps",
+      "summary": "POV: August. August floods the tunnel permanently to end the argument, escaping with only the documents naming the dead. He delivers them to the victims' families, parts ways with Vane without forgiveness, and finally stops running — taking a permanent post repairing live lines in the valley. Emotional beat: resolution; belonging earned through truth rather than silence, survival paid for honestly at last."
+    }
+  ]
+}

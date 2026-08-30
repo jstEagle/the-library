@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05327",
+  "title": "The Confession of Greywater Bay",
+  "author": "Sable Dunmore",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.3,
+  "blurb": "August Yarrow, a hotel concierge who notices everything, has spent twenty years keeping the town's secrets filed and alphabetized. But when a body turns up dressed in clothes stolen from the witness's own closet, she discovers that staying invisible was never really an option. To get through this, she must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "inheritance",
+    "loyalty vs. truth",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5327
+  }
+}

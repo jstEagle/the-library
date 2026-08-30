@@ -1,0 +1,21 @@
+{
+  "id": "HOR-03381",
+  "title": "Felix and the Room",
+  "author": "Mirabel Brightwater",
+  "genre": "Horror",
+  "length": "novel",
+  "rating": 4.5,
+  "blurb": "Wren Kavanagh, a property surveyor appraising a house that appraises back, has spent seven years telling themselves the noises have explanations. Then all the photographs from grandma's house now include an extra chair — and he is pulled straight into the middle of it. To get through this, he must learn the song's last verse without singing along before the last resident signs the papers.",
+  "themes": [
+    "the price of survival",
+    "loyalty vs. truth",
+    "memory"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 3381
+  }
+}

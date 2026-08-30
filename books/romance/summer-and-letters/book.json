@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06620",
+  "title": "Summer and Letters",
+  "author": "Cyrus Lockridge",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Gideon Almeida, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. But when a lost letter surfaces, postmarked eleven years ago, they discover that staying invisible was never really an option. Now they must risk the whole heart instead of lending pieces, and time is already running out.",
+  "themes": [
+    "identity",
+    "power and its corruption",
+    "loyalty vs. truth"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6620
+  }
+}

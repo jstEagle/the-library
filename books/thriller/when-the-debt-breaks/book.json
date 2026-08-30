@@ -1,0 +1,21 @@
+{
+  "id": "THR-08786",
+  "title": "When the Debt Breaks",
+  "author": "Juniper Okonkwo",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 3.5,
+  "blurb": "Edmund Kavanagh, a crash investigator whose family died in row twelve, works cases no one wants attributed. Then a burner phone that shouldn't exist starts ringing with a familiar voice on the line — and she is pulled straight into the middle of it. Now she must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "belonging"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8786
+  }
+}

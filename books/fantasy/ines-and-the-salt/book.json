@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01414",
+  "title": "Ines and the Salt",
+  "author": "Astrid Whitlock",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.4,
+  "blurb": "Edmund Halloran, a beast-speaker hiding a forbidden gift, keeps the ledgers of a guild that trades in impossible things. Then a dying stranger presses a map into unwilling hands — and they are pulled straight into the middle of it. Now they must find the door out of a country that no longer exists, and time is already running out.",
+  "themes": [
+    "found family",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1414
+  }
+}

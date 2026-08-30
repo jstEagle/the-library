@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05193",
+  "title": "The Autopsy of Windrow House",
+  "author": "Juniper Quintana",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Marguerite Ashgrove, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. Then the town's beloved founder is exhumed and the coffin is empty — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "justice outside the law",
+    "found family"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5193
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00482",
+  "title": "Compass and Rivergate",
+  "author": "Tamsin Whitlock",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.7,
+  "blurb": "Silas Nakamura, a storm chaser who owes money to dangerous optimists, keeps moving because stopping costs more. But when an old rival hires the crew for the one job that was sworn off long ago, she discovers that staying invisible was never really an option. To get through this, she must bring the expedition home without telling anyone what it found before the monsoon makes landfall.",
+  "themes": [
+    "identity",
+    "belonging",
+    "inheritance"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 482
+  }
+}

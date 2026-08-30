@@ -1,0 +1,119 @@
+{
+  "title": "When the Debt Burns",
+  "slug": "thriller/when-the-debt-burns",
+  "model": "stealth/ox-alpha",
+  "premise": "Jude Pemberton, a crash investigator who survived the accident that killed their family in row twelve, has spent years hiding behind a fabricated identity and a meticulously maintained lie. When an anonymous voiceprint—recorded from their own testimony years ago—unlocks a server in Lisbon, Jude discovers the crash was no accident and that the same network is planning to stage another 'accident' at an upcoming international summit. Forced out of hiding by a former colleague turned ally and a ragtag group of survivors' families who become an unexpected found family, Jude races across two continents to decode the plot. In the end, Jude exposes the conspiracy at the summit itself, choosing truth over invisibility, though the cost is the last shred of the old life they were protecting.",
+  "about_author": "Cyrus Marchetti is the pen name of a former aviation safety analyst who spent a decade reconstructing accident timelines before turning to fiction. They write thrillers about people whose careful lives come apart at the seams.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Row Twelve",
+      "summary": "Jude's POV. Opening on the anniversary of the crash, Jude visits the memorial wall, touches row twelve's names, and returns to an apartment with a packed go-bag by the door. Flashbacks establish the polished lie of their new identity. Emotional beat: grief held together by routine."
+    },
+    {
+      "n": 2,
+      "title": "The Go-Bag Rule",
+      "summary": "Jude's POV. At work as a contract crash investigator, Jude notices anomalies in a cargo incident report that echo patterns from their family's crash. They file it away, but can't sleep. A phone call from an unknown number plays three seconds of their own voice—testimony they never gave publicly. Beat: dread creeping under routine."
+    },
+    {
+      "n": 3,
+      "title": "Voiceprint",
+      "summary": "Jude's POV. The unknown caller texts coordinates to a server farm outside Lisbon and one word: 'rowtwelve.' Against every instinct, Jude uses the voiceprint phrase to unlock an encrypted archive containing flight data that contradicts the official crash report. Beat: the floor drops out of the lie."
+    },
+    {
+      "n": 4,
+      "title": "What the Black Box Never Said",
+      "summary": "Jude's POV, intercut with archive files. The data shows deliberate sensor spoofing before impact. Jude realizes someone falsified evidence—and that whoever built this archive wanted them to find it. A warning ping suggests the access was traced. Beat: horror mixed with vindication."
+    },
+    {
+      "n": 5,
+      "title": "Invisible Was a Job",
+      "summary": "Introduces Mara Osei, POV. Mara, a burned-out journalist covering aviation disasters, has been tracking a pattern of 'coincidental' crashes near corporate summits. She identifies Jude's alias through the voiceprint leak and shows up at their door. Beat: wary collision of two people who trust no one."
+    },
+    {
+      "n": 6,
+      "title": "The Summit Calendar",
+      "summary": "Dual POV: Jude and Mara. Cross-referencing her crash pattern with upcoming events, they find the Geneva Infrastructure Summit—six weeks out—with a charter operator linked to every prior incident. The attack will be staged as a mechanical failure during a demonstration flight. Beat: the clock starts."
+    },
+    {
+      "n": 7,
+      "title": "People Who Keep Lists",
+      "summary": "Mara's POV. They reach out to families of the earlier crashes and form a loose cell: a retired mechanic, a grieving widow who's an air traffic controller, and a teenage hacker whose father died in the first staged crash. Jude resists joining; the widow's quiet courage breaks them. Beat: found family begins to form."
+    },
+    {
+      "n": 8,
+      "title": "The Man Who Signed Row Twelve",
+      "summary": "Jude's POV. Following the falsified maintenance signature, Jude confronts the retired inspector who signed off on their family's crash report. He confesses he was pressured, gives them a name: Halvard Voss, a risk consultant whose firm insures summit logistics. Beat: rage with a target."
+    },
+    {
+      "n": 9,
+      "title": "Lisbon, Off the Books",
+      "summary": "Jude and Mara fly to Lisbon using cash and false papers—the go-bag finally used for its real purpose. At the server farm they find the archive's architect dead, staged as suicide, but his notes survive: Voss's operation is called Meridian. Beat: they're ahead, barely, and someone knows."
+    },
+    {
+      "n": 10,
+      "title": "Tail Lights",
+      "summary": "Jude's POV. A surveillance team catches up; a rooftop chase through Alfama ends with the hacker, Devi, remotely blinding the trackers. But the escape burns a safehouse and forces the group to scatter. Jude blames themself. Beat: the cost of moving fast."
+    },
+    {
+      "n": 11,
+      "title": "Meridian's Ledger",
+      "summary": "Devi's POV. Decrypting the architect's notes reveals Meridian's method: insurance-linked sabotage, each 'accident' triggering payouts funneled into private security contracts. The Geneva op is the largest yet—a midair event over the summit's opening ceremony. Beat: understanding the machine they're fighting."
+    },
+    {
+      "n": 12,
+      "title": "The Widow Who Watches the Sky",
+      "summary": "Amara's POV (the air traffic controller). Working her shifts, she spots a charter filing pattern matching Meridian's previous ops and quietly flags tail numbers. She's nearly caught by a supervisor on Voss's payroll. Beat: ordinary competence as heroism."
+    },
+    {
+      "n": 13,
+      "title": "A Deal With the Devil's Accountant",
+      "summary": "Mara's POV. They flip Voss's deputy financial officer, who hands over transaction records in exchange for immunity—but the handoff is ambushed. The officer dies; Mara saves the drive but takes a bullet graze. Beat: betrayal inside the betrayal."
+    },
+    {
+      "n": 14,
+      "title": "Everything Jude Packed",
+      "summary": "Jude's POV. Wounded group, safehouse compromised, Jude considers running—the go-bag sits between them and the door. A letter from their late sister, kept in the bag for years, surfaces. Jude chooses the team over the exit. Beat: the lie dies; the person remains."
+    },
+    {
+      "n": 15,
+      "title": "Six Days",
+      "summary": "Group POV rotation. Countdown structure: six days to the summit. They map the demonstration flight plan, identify the sabotaged aircraft being ferried to Geneva, and realize the trigger is a software patch scheduled the night before. Beat: grim focus, family forged under pressure."
+    },
+    {
+      "n": 16,
+      "title": "The Patch",
+      "summary": "Devi and Amara's POV. Nighttime infiltration of a regional avionics facility to intercept the patch. They succeed partially—copying it—but trip a silent alarm. Voss now has their faces and a hostage bargaining chip: the retired inspector. Beat: victory that feels like defeat."
+    },
+    {
+      "n": 17,
+      "title": "Geneva, White Noise",
+      "summary": "Jude's POV. The team converges on Geneva under summit security lockdown. Jude uses their investigator credentials—burning their last clean identity—to get inside the flight line. First sight of the rigged aircraft, N-number matching the ledger. Beat: calm before the storm."
+    },
+    {
+      "n": 18,
+      "title": "Pre-Flight",
+      "summary": "Dual POV: Jude and Voss. Voss, aware of a leak but not which one, accelerates the timeline. Jude must physically access the aircraft during pre-flight checks while Amara feeds cover chatter and Devi jams telemetry. Beat: sustained, surgical tension."
+    },
+    {
+      "n": 19,
+      "title": "Climb-Out",
+      "summary": "Jude's POV. The demonstration flight launches with dignitaries aboard; the sabotage sequence arms at altitude. Jude, hidden in the avionics bay, manually severs the spoofing link mid-climb as alarms scream. Beat: the climax—row twelve's ghost versus the sky."
+    },
+    {
+      "n": 20,
+      "title": "What Accidents Look Like",
+      "summary": "Multiple POVs. The plane lands safely; Jude broadcasts the Meridian ledger to every press terminal at the summit simultaneously. Voss is arrested trying to board a private jet; the inspector is recovered alive. Beat: catharsis, exposure, the truth made loud."
+    },
+    {
+      "n": 21,
+      "title": "Aftermath, Unpacked",
+      "summary": "Jude's POV. Weeks later: hearings, headlines, the official record corrected. Jude unpacks the go-bag item by item, keeping only the sister's letter. The found family gathers in a kitchen that isn't anyone's permanent home yet. Beat: grief finally allowed to soften."
+    },
+    {
+      "n": 22,
+      "title": "When the Debt Burns",
+      "summary": "Jude's POV, final chapter. At the rebuilt memorial, Jude speaks their family's names aloud for the first time in years—no alias, no lie. Mara takes their hand. A new case file waits in Jude's inbox; they open it not from fear, but choice. Beat: inheritance reclaimed, memory honored, future chosen."
+    }
+  ]
+}

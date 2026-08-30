@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02558",
+  "title": "The Winter Clock",
+  "author": "Kestrel Crane",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Ansel Iversen, a widowed lighthouse keeper during the year of the great storms, has spent seven years learning which silences keep people safe. But when the army requisitions the town and the ledger with all the names, they discover that staying invisible was never really an option. Now they must keep a promise made in peacetime to someone now declared enemy, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2558
+  }
+}

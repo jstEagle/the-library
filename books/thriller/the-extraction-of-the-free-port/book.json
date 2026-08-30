@@ -1,0 +1,21 @@
+{
+  "id": "THR-08426",
+  "title": "The Extraction of the Free Port",
+  "author": "Lena Voss",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Ansel Almeida, a whistle-blower living under four names, works cases no one wants attributed. Then a stranger returns a favor that never happened, with interest owed — and they are pulled straight into the middle of it. Now they must stop an attack scheduled to look like an accident, and time is already running out.",
+  "themes": [
+    "loyalty vs. truth",
+    "identity",
+    "found family"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8426
+  }
+}

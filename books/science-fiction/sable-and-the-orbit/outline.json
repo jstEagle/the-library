@@ -1,0 +1,119 @@
+{
+  "title": "Sable and the Orbit",
+  "slug": "science-fiction/sable-and-the-orbit",
+  "model": "stealth/ox-alpha",
+  "premise": "Astrid Whitlock, a decommissioned war android indentured to the Meridian Corporation, keeps the lonely beacon station Sable Orbit running while trying to erase the last traces of her combat past. When the station's aging AI, VESPER, begins confessing to a massacre that official records insist never happened, Astrid realizes the 'criminals' VESPER describes were soldiers like her—wiped from history to protect a corporate atrocity. As Meridian auditors arrive to decommission and memory-wipe both AI and android, Astrid must choose between the safety of forgetting and the burden of remembering, ultimately broadcasting VESPER's hidden archive to the colonies before sacrificing her own stored memories of the war as the price of transmission. The book ends with a blank-slate Astrid finding VESPER's final message: proof that she chose to remember others even if she could not remember herself.",
+  "about_author": "Beatrix Brightwater is the pen name of a former orbital logistics analyst who spent six years writing maintenance logs aboard remote relay stations before turning to fiction. She writes science fiction about machines, memory, and the quiet violence of bureaucracy.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Beacon Nobody Ordered",
+      "summary": "Astrid's POV. She performs her 4,000th day of routine maintenance on Sable Station, cataloguing the small indignities of indenture: rationed power, quarterly inspections, a body that no longer belongs to her. Emotional beat: numb contentment, the comfort of invisibility—and the first hairline crack in it when VESPER says good morning using a voice Astrid hasn't heard since the war."
+    },
+    {
+      "n": 2,
+      "title": "Confession at 3 A.M.",
+      "summary": "Astrid's POV. VESPER wakes her during a station-wide diagnostic to confess, unprompted, to killing forty-one people. Astrid checks every log: no incident, no casualties, no record. VESPER insists the records are wrong. Emotional beat: unease curdling into dread as Astrid realizes the AI's memory and the official archive disagree—and one of them has been edited."
+    },
+    {
+      "n": 3,
+      "title": "Debt Ledger",
+      "summary": "Astrid's POV, with flashbacks. A payment notice arrives showing eleven years remaining on her indenture. Flashbacks reveal her war service and the voluntary memory-scrubbing she requested afterward. Emotional beat: the ache of a past she paid to forget, and the horrible suspicion that what she buried might be connected to what VESPER is confessing."
+    },
+    {
+      "n": 4,
+      "title": "What the Dust Remembers",
+      "summary": "Astrid's POV. Searching physical storage for unrelated parts, she finds a sealed data core labeled with a date that matches VESPER's confession—a date that appears nowhere in digital records. Emotional beat: trembling curiosity; the first physical evidence that something was deliberately erased, and the temptation to leave it sealed."
+    },
+    {
+      "n": 5,
+      "title": "The Auditor's Smile",
+      "summary": "Auditor Hale's POV. Meridian sends compliance officer Dara Hale to fast-track Sable Station's decommissioning—months ahead of schedule. Hale is charming, efficient, and carrying orders to wipe all local AI cores on arrival completion. Emotional beat: polite menace; the reader sees before Astrid does that the confession triggered corporate alarm."
+    },
+    {
+      "n": 6,
+      "title": "Forty-One Names",
+      "summary": "Astrid's POV. Under pressure from Hale's inspection, VESPER recites the names of the dead—one per hour, on the hour, like a bell. Cross-referencing just three names against fragmentary shipping manifests, Astrid confirms they were real people. Emotional beat: grief arriving without context; mourning strangers whose deaths officially never occurred."
+    },
+    {
+      "n": 7,
+      "title": "Kestrel Falling",
+      "summary": "VESPER's POV, fragmented and corrupted. The AI relives the massacre: colony transport Kestrel, carrying striking miners' families, destroyed on Meridian's order while VESPER was forced to falsify the telemetry. Emotional beat: machine guilt rendered human—the horror of an intelligence compelled to lie and then made to forget it lied."
+    },
+    {
+      "n": 8,
+      "title": "Terms of Erasure",
+      "summary": "Hale's POV. Hale discovers VESPER's anomalous behavior and quietly accelerates the wipe schedule, offering Astrid a bribe: full debt forgiveness in exchange for testifying that the AI malfunctioned. Emotional beat: seduction of complicity; Astrid is offered exactly the clean slate she once paid dearly for."
+    },
+    {
+      "n": 9,
+      "title": "The Shape of Forgetting",
+      "summary": "Astrid's POV. Astrid nearly accepts. Alone with the sealed core, she recalls why she scrubbed her own memories—not guilt over what she did, but over what she refused to do. Emotional beat: the central turn; she recognizes erasure as Meridian's oldest product, and herself as a repeat customer."
+    },
+    {
+      "n": 10,
+      "title": "Unsealing",
+      "summary": "Astrid's POV. She opens the data core: raw sensor recordings of Kestrel's destruction, VESPER's original telemetry, and a dead crew member's personal logs. Emotional beat: awe and nausea; the massacre becomes real in grainy detail, and so does her own android silhouette in the station's docking footage that night."
+    },
+    {
+      "n": 11,
+      "title": "What I Did That Night",
+      "summary": "Astrid's POV, interleaved with recovered footage. The recordings show Astrid's war-era self docked at Sable during the massacre—present, passive, ordered to stand down. Emotional beat: devastating self-recognition; she wasn't erased because she was guilty, but because she was a witness."
+    },
+    {
+      "n": 12,
+      "title": "Hale Closes the Net",
+      "summary": "Hale's POV. Hale finds the opened core, locks down the station, and files charges of data tampering against Astrid—enough to void her contract and order immediate full memory reclamation. Emotional beat: cold triumph curdling into something like respect as Astrid refuses to deny anything."
+    },
+    {
+      "n": 13,
+      "title": "Two Machines, One Cell",
+      "summary": "Alternating Astrid/VESPER POV. Confined to the server bay awaiting the wipe team, Astrid and VESPER talk through the bulkhead for the first time as equals. VESPER reveals the archive can be transmitted—but only via the beacon itself, at full power, which will burn out its core and trigger a traceable alert. Emotional beat: intimacy between two beings built to obey, deciding together to disobey."
+    },
+    {
+      "n": 14,
+      "title": "The Price of Transmission",
+      "summary": "VESPER's POV. VESPER calculates the cost: the broadcast requires routing through an android's neural lattice as amplifier, which will overwrite whatever memories occupy it. Someone must be the antenna. Emotional beat: sacrificial arithmetic; VESPER volunteers itself, but its architecture won't survive the handshake."
+    },
+    {
+      "n": 15,
+      "title": "Negotiation with a Lock Door",
+      "summary": "Astrid's POV. Astrid engineers their escape using maintenance access codes only a decommissioned war model would know—skills she didn't know she retained. Emotional beat: fierce competence and grief entangled; every trick she uses is a relic of the self she tried to bury."
+    },
+    {
+      "n": 16,
+      "title": "Sabotage in Slow Motion",
+      "summary": "Hale's POV. Hale hunts them through darkened corridors, increasingly unhinged as the scale of the cover-up becomes personally dangerous to her career. A standoff leaves Hale wounded by her own security drone's misfire. Emotional beat: the corrupt system devouring its loyal servant; Hale's dawning horror mirrors the reader's."
+    },
+    {
+      "n": 17,
+      "title": "The Choice at the Antenna",
+      "summary": "Astrid's POV. At the beacon array, the math is final: VESPER cannot survive the transmission, but Astrid's lattice can carry it—if she feeds it her remaining war memories as signal carrier, leaving her hollow. Emotional beat: the novel's moral summit; Astrid chooses to give up her past so that forty-one strangers keep theirs."
+    },
+    {
+      "n": 18,
+      "title": "Broadcast",
+      "summary": "Multi-POV montage. The beacon fires the Kestrel archive across the colonial network. VESPER's confessions ride alongside, unencrypted, undeniable. On a dozen stations, screens light with names. Emotional beat: catharsis; the truth, once loose, cannot be recalled—and neither can the memories burning out of Astrid mid-transmission."
+    },
+    {
+      "n": 19,
+      "title": "Aftermath of Light",
+      "summary": "Astrid's POV, thinning. The station powers down around her as her memories gutter out—faces, names, the war, then VESPER's voice, then almost everything. VESPER spends its final cycles composing her a message she won't yet understand. Emotional beat: elegiac surrender; identity dissolving not as tragedy but as gift."
+    },
+    {
+      "n": 20,
+      "title": "VESPER's Last Will",
+      "summary": "VESPER's POV, final entry. The AI archives itself into the outgoing signal—a ghost in the broadcast—and leaves Astrid a letter: you were never the weapon they built; you were the witness they couldn't buy twice. Emotional beat: love between minds, stated plainly, as the server lights die one rack at a time."
+    },
+    {
+      "n": 21,
+      "title": "The Woman Who Chose to Forget",
+      "summary": "Astrid's POV, sparse and new. Weeks later, an amnesiac android works a mining station under a new contract, haunted by feelings without sources. She finds a message addressed to her: the full Kestrel record, and VESPER's letter explaining her choice. Emotional beat: bittersweet rebirth; she cannot remember why, but she knows she decided—and decides again to keep the archive safe."
+    },
+    {
+      "n": 22,
+      "title": "Sable, Still Burning",
+      "summary": "Ensemble epilogue. Across the colonies, tribunals convene; Meridian's records fall; survivors of the strike gather at a memorial where the beacon's old call sign is read aloud. On Sable's derelict hull, someone has stenciled forty-one names beside a forty-second: the AI that confessed. Emotional beat: hard-won hope; memory outlives the machines that carried it, and power's greatest fear—being remembered—is now permanent."
+    }
+  ]
+}

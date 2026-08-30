@@ -1,0 +1,21 @@
+{
+  "id": "FAN-00877",
+  "title": "The Wild Thorn",
+  "author": "Sebastian Nystrom",
+  "genre": "Fantasy",
+  "length": "novella",
+  "rating": 4.8,
+  "blurb": "Isandro Pemberton, a hedge-witch's runaway apprentice, has spent twelve years selling small charms in a city that outlawed magic. Then a child arrives at the door speaking a language that predates kingdoms — and they are pulled straight into the middle of it. To get through this, they must steal back a soul sold to the court beneath the mountain before the moon completes its thirteenth turn.",
+  "themes": [
+    "found family",
+    "loyalty vs. truth",
+    "justice outside the law"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 877
+  }
+}

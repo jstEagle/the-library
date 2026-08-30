@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09536",
+  "title": "A Recipe for the Locker",
+  "author": "Sebastian Eriksen",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Elodie Marchetti, a scholarship student at an academy with too many secrets, stays under the radar: head down, grades up, locker shut. Then a group chat starts predicting things that haven't happened yet — and she is pulled straight into the middle of it. To get through this, she must tell the truth even if it costs the friendship before the final audition.",
+  "themes": [
+    "justice outside the law",
+    "found family",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9536
+  }
+}

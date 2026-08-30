@@ -1,0 +1,21 @@
+{
+  "id": "FAN-01567",
+  "title": "Orsen and the Hollow",
+  "author": "D. M. Nystrom",
+  "genre": "Fantasy",
+  "length": "short-story",
+  "rating": 4.5,
+  "blurb": "Theo Vane, the youngest member of a dying guild, knows every smuggler's road through the Thornfell mountains. Then tonight's date appears in a book of prophecies written a century ago — and he is pulled straight into the middle of it. To get through this, he must carry a secret that could reignite an ancient war before the long winter finishes falling.",
+  "themes": [
+    "loyalty vs. truth",
+    "belonging",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 1567
+  }
+}

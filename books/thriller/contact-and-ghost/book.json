@@ -1,0 +1,21 @@
+{
+  "id": "THR-08706",
+  "title": "Contact and Ghost",
+  "author": "Jonah Oyelaran",
+  "genre": "Thriller",
+  "length": "novella",
+  "rating": 3.9,
+  "blurb": "Odile Eastwick, a crash investigator whose family died in row twelve, works cases no one wants attributed. But when a burner phone that shouldn't exist starts ringing with a familiar voice on the line, he discovers that staying invisible was never really an option. Now he must extract a defector who may be the bait, and time is already running out.",
+  "themes": [
+    "love against duty",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8706
+  }
+}

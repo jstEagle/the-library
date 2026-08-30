@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06246",
+  "title": "A Orchard for the Promise",
+  "author": "Rafael Ashgrove",
+  "genre": "Romance",
+  "length": "novella",
+  "rating": 4.5,
+  "blurb": "Ulyana Ravensworth, a marine biologist counting turtles instead of heartbreaks, keeps love in the past tense where it belongs. Then the anonymous pen-pal assignment pairs enemies instead of strangers — and he is pulled straight into the middle of it. To get through this, he must say the sentence that has been rehearsed for a decade before the bakery lease runs out.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6246
+  }
+}

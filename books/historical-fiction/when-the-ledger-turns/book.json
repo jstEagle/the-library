@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02527",
+  "title": "When the Ledger Turns",
+  "author": "Zephyrine Iversen",
+  "genre": "Historical Fiction",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Edmund Eriksen, a code-carrying courier on the last diplomatic mission of a doomed republic, keeps a low profile and busy hands. But when the census taker asks one question too many, they discover that staying invisible was never really an option. Now they must get the truth on the record ahead of the victors' historians, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "power and its corruption",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2527
+  }
+}

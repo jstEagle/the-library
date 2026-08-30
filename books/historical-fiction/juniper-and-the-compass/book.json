@@ -1,0 +1,21 @@
+{
+  "id": "HIS-02948",
+  "title": "Juniper and the Compass",
+  "author": "Isandro Dravenmoor",
+  "genre": "Historical Fiction",
+  "length": "epic",
+  "rating": 4.0,
+  "blurb": "Rosalind Okonkwo, a mapmaker's apprentice finishing the atlas the master died for, believes history happens to other people, elsewhere. But when the army requisitions the town and the ledger with all the names, he discovers that staying invisible was never really an option. Now he must choose which family member gets the last berth, and time is already running out.",
+  "themes": [
+    "justice outside the law",
+    "love against duty",
+    "power and its corruption"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 2948
+  }
+}

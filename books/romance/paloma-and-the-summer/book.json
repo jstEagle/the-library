@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06587",
+  "title": "Paloma and the Summer",
+  "author": "Astrid Halloran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Felix Nakamura, a lighthouse keeper's granddaughter and part-time novelist, swears the heart is a muscle like any other: trainable, containable. Then the person behind a decade of letters moves in next door — and he is pulled straight into the middle of it. To get through this, he must forgive the person in the mirror first before the vineyard's first harvest comes in.",
+  "themes": [
+    "found family",
+    "justice outside the law",
+    "loyalty vs. truth"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6587
+  }
+}

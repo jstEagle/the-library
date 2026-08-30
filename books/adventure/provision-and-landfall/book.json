@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00052",
+  "title": "Provision and Landfall",
+  "author": "Rafael Crane",
+  "genre": "Adventure",
+  "length": "short-story",
+  "rating": 4.9,
+  "blurb": "Rosalind Reyes, a salvage diver working a wreck the navy won't discuss, has spent seven years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and she is pulled straight into the middle of it. To get through this, she must follow a river upstream to its forbidden source before the dry season ends.",
+  "themes": [
+    "justice outside the law",
+    "loyalty vs. truth",
+    "belonging"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 52
+  }
+}

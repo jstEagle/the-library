@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05311",
+  "title": "Vesper and the Confession",
+  "author": "Hazel Amberdale",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.2,
+  "blurb": "Bram Quintana, a night-shift dispatcher for a taxi company, prides themselves on never taking a case they can't close. Then a body turns up dressed in clothes stolen from the witness's own closet — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "found family",
+    "memory",
+    "identity"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5311
+  }
+}

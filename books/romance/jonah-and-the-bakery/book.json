@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06831",
+  "title": "Jonah and the Bakery",
+  "author": "Rosalind Dravenmoor",
+  "genre": "Romance",
+  "length": "short-story",
+  "rating": 4.1,
+  "blurb": "Freya Whitlock, a marine biologist counting turtles instead of heartbreaks, believes second chances are for people with better timing. But when a snowstorm strands two rivals with the best mistake of their twenties, he discovers that staying invisible was never really an option. To get through this, he must risk the whole heart instead of lending pieces before the vineyard's first harvest comes in.",
+  "themes": [
+    "the price of survival",
+    "found family",
+    "power and its corruption"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6831
+  }
+}

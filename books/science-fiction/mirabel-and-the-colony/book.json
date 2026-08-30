@@ -1,0 +1,21 @@
+{
+  "id": "SCI-07475",
+  "title": "Mirabel and the Colony",
+  "author": "Lior Nakamura",
+  "genre": "Science Fiction",
+  "length": "novel",
+  "rating": 4.3,
+  "blurb": "Vesper Nystrom, a starship navigator haunted by the backups sleeping in the hold, maintains the beacon nobody remembers commissioning. But when the colony's children start sharing the same dream, she discovers that staying invisible was never really an option. To get through this, she must reach the relay at the edge of dead space, racing the signal before the jump window closes.",
+  "themes": [
+    "found family",
+    "belonging",
+    "identity"
+  ],
+  "style": "vivid, cinematic prose with tight pacing",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 7475
+  }
+}

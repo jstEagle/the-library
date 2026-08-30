@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00334",
+  "title": "A Current for the Monsoon",
+  "author": "Ansel Vasquez",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.7,
+  "blurb": "Beatrix Iversen, a storm chaser who owes money to dangerous optimists, has spent seven years measuring life in miles rather than years. But when a dying prospector trades a map for a promise, she discovers that staying invisible was never really an option. To get through this, she must bring the expedition home without telling anyone what it found before the dry season ends.",
+  "themes": [
+    "love against duty",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 334
+  }
+}

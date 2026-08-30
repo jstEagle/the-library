@@ -1,0 +1,21 @@
+{
+  "id": "YNG-09690",
+  "title": "When the Yearbook Turns",
+  "author": "Edmund Kavanagh",
+  "genre": "Young Adult",
+  "length": "novel",
+  "rating": 3.9,
+  "blurb": "Paloma Ishikawa, a scholarship student at an academy with too many secrets, is fine. Everything is fine. Obviously.. Then the college essay prompt asks one honest question nobody can stop answering — and she is pulled straight into the middle of it. Now she must expose what the school board buried, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "love against duty",
+    "found family"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9690
+  }
+}

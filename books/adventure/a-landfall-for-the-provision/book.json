@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00377",
+  "title": "A Landfall for the Provision",
+  "author": "O. M. Crane",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Yara Eriksen, a salvage diver working a wreck the navy won't discuss, knows the wilderness forgives nothing and forgets less. But when an expedition upriver stops answering the radio, they discover that staying invisible was never really an option. Now they must follow a river upstream to its forbidden source, and time is already running out.",
+  "themes": [
+    "inheritance",
+    "belonging",
+    "found family"
+  ],
+  "style": "atmospheric and lyrical, with strong sensory detail",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 377
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00358",
+  "title": "A Monsoon for the Current",
+  "author": "Ansel Amberdale",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Mara Reyes, a salvage diver working a wreck the navy won't discuss, has spent twelve years measuring life in miles rather than years. Then an expedition upriver stops answering the radio — and he is pulled straight into the middle of it. To get through this, he must beat the salvage fleet to the wreck by six tides before the glacier calving season opens the route — briefly.",
+  "themes": [
+    "memory",
+    "inheritance",
+    "loyalty vs. truth"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 358
+  }
+}

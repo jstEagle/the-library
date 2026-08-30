@@ -1,0 +1,21 @@
+{
+  "id": "MYS-05749",
+  "title": "Zephyrine and the Verdict",
+  "author": "Juniper Dunmore",
+  "genre": "Mystery",
+  "length": "novel",
+  "rating": 3.8,
+  "blurb": "Zephyrine Sterling, the archivist of a cathedral with a locked crypt, thought they had seen every way a life can end. Then the missing person's diary continues past the date she disappeared — and they are pulled straight into the middle of it. Now they must find the witness everyone swears is dead, and time is already running out.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "loyalty vs. truth"
+  ],
+  "style": "crisp modern voice, short chapters, propulsive momentum",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 5749
+  }
+}

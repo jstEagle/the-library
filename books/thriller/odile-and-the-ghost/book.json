@@ -1,0 +1,21 @@
+{
+  "id": "THR-09339",
+  "title": "Odile and the Ghost",
+  "author": "Kestrel Marchetti",
+  "genre": "Thriller",
+  "length": "novel",
+  "rating": 4.0,
+  "blurb": "Lior Marchetti, a private security contractor guarding clients nobody trusts, keeps a go-bag packed and a lie polished. Then every record of a flight vanishes while it's still in the air — and he is pulled straight into the middle of it. To get through this, he must get the truth past three governments and one assassin before the summit convenes.",
+  "themes": [
+    "inheritance",
+    "power and its corruption",
+    "memory"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 9339
+  }
+}

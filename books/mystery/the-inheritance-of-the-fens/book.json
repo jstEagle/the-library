@@ -1,0 +1,21 @@
+{
+  "id": "MYS-04896",
+  "title": "The Inheritance of the Fens",
+  "author": "Noor Fairweather",
+  "genre": "Mystery",
+  "length": "novella",
+  "rating": 4.0,
+  "blurb": "Quentin Halloran, a night-shift dispatcher for a taxi company, has quietly solved three deaths the police called accidents. But when twin letters arrive: one confessing, one promising more, he discovers that staying invisible was never really an option. To get through this, he must find the witness everyone swears is dead before the tide gives up what it took.",
+  "themes": [
+    "memory",
+    "identity",
+    "the price of survival"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 4896
+  }
+}

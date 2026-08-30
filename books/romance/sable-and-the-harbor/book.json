@@ -1,0 +1,21 @@
+{
+  "id": "ROM-06734",
+  "title": "Sable and the Harbor",
+  "author": "Sebastian Halloran",
+  "genre": "Romance",
+  "length": "novel",
+  "rating": 4.2,
+  "blurb": "Marguerite Reyes, a vineyard owner who inherited debts instead of grapes, swears the heart is a muscle like any other: trainable, containable. Then a snowstorm strands two rivals with the best mistake of their twenties — and she is pulled straight into the middle of it. To get through this, she must let someone stay after the last train leaves before the festival ends.",
+  "themes": [
+    "justice outside the law",
+    "memory",
+    "love against duty"
+  ],
+  "style": "warm, character-driven storytelling with gentle humor",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 6734
+  }
+}

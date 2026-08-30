@@ -1,0 +1,21 @@
+{
+  "id": "SCI-08163",
+  "title": "Orsen and the Terminal",
+  "author": "Hazel Halloran",
+  "genre": "Science Fiction",
+  "length": "short-story",
+  "rating": 4.2,
+  "blurb": "Sable Whitlock, a terraformer tending a garden meant for people not yet born, runs the long route between worlds that no longer speak. But when gravity flickers across the entire system for exactly nine seconds, they discover that staying invisible was never really an option. To get through this, they must keep a lie alive that holds two fleets apart before Earth's last transmission loop ends.",
+  "themes": [
+    "the price of survival",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "richly descriptive with an intimate third-person narration",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 8163
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Hazel and the Vector",
+  "slug": "science-fiction/hazel-and-the-vector",
+  "model": "stealth/ox-alpha",
+  "premise": "Beatrix Winterbourne, the last caretaker of Meridian Station, tends a seed vault for colonists who will never arrive while logging the station's slow decay. When a distress signal arrives in a dead language, he discovers it's a countdown echoing his own reactor's failure — and that the signal's source, a derelict ship called Hazel, carries survivors in cryostasis who have been broadcasting for two hundred years. Racing the failing reactor to the relay at the edge of dead space, Beatrix must choose between preserving the garden that defines him and spending its power reserves to wake the sleepers. He reaches the relay, transmits their rescue beacon at the cost of the vault, and in doing so trades one family of the unborn for another found among the living.",
+  "about_author": "Orsen Delacroix is the pen name of a former hydrologist who spent six years on remote research stations before turning to fiction. They write quiet, character-driven science fiction about people who keep things alive.",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Gardener of Empty Rooms",
+      "summary": "Beatrix's POV. He walks the station's routines: tending the seed vault, logging reactor decay, recording messages to colonists who never came. The emotional beat is tender loneliness — devotion without an audience, and the first hint that the reactor's countdown cannot be stopped."
+    },
+    {
+      "n": 2,
+      "title": "A Language With No Speakers",
+      "summary": "Beatrix's POV. The station's array catches a repeating distress signal in Old Terran Standard, extinct for two centuries. Deciphering fragments, he realizes it originates from dead space beyond the relay. The beat is wonder curdling into dread: someone out there has been calling longer than he's been alive."
+    },
+    {
+      "n": 3,
+      "title": "Hazel",
+      "summary": "Beatrix's POV, with log entries from the ship Hazel interleaved. He identifies the source: a generation ship adrift with live cryopods, its crew long dead. The signal isn't automatic — it's a child's voice, recorded, looping. Emotional beat: grief for strangers, and the first pull toward purpose."
+    },
+    {
+      "n": 4,
+      "title": "Inventory of Small Mercies",
+      "summary": "Beatrix's POV. He audits everything: oxygen, fuel, the vault's power draw versus the relay trip's cost. The math says he can save the sleepers or the seeds, not both. Beat: cold clarity, the theme of survival's price made explicit as he argues with the station AI, Vesper, his only companion."
+    },
+    {
+      "n": 5,
+      "title": "What the Seeds Remember",
+      "summary": "Beatrix's POV, flashback-heavy. Memories of the terraforming team that abandoned the project, of the mentor who left him the vault, of why he stayed. Beat: bittersweet reckoning — the garden was always more tomb than promise, and staying was a way of hiding."
+    },
+    {
+      "n": 6,
+      "title": "Departure",
+      "summary": "Beatrix's POV. He seals the vault, loads a skiff with what he can carry, and burns for the relay as the reactor enters its final countdown behind him. Vesper stays to keep the signal repeating. Beat: fear and resolve, leaving home to answer a call from the dead."
+    },
+    {
+      "n": 7,
+      "title": "Dead Space",
+      "summary": "Beatrix's POV. Mid-journey, the skiff's navigation fails in a debris field; he drifts for days, rationing air, listening to Hazel's loop grow clearer. Beat: isolation deepening into communion — he begins answering the recorded voice aloud, talking to a ghost."
+    },
+    {
+      "n": 8,
+      "title": "The Relay at the End",
+      "summary": "Beatrix's POV. He docks at the ancient relay, finds it sabotaged centuries ago by Hazel's own crew to hide their fate, and must repair it by hand while the reactor countdown — now synced to his own suit's power — runs out. Beat: desperate competence, hands shaking, time bleeding away."
+    },
+    {
+      "n": 9,
+      "title": "Countdown",
+      "summary": "Alternating POV: Beatrix at the relay and the dying crew of Hazel two hundred years ago, whose sabotage was meant to spare others their plague. He wakes the first cryopod — a girl named Iyo — as his own power dies. Beat: climax; sacrifice made real, the price paid in full."
+    },
+    {
+      "n": 10,
+      "title": "First Planting",
+      "summary": "Shared POV, Beatrix and Iyo. Rescue ships answer the relayed beacon. Aboard, Iyo asks what he saved besides her; he shows her a single seed pod carried in his pocket, the last of the vault. Beat: resolution — identity rebuilt around found family, survival redefined as something you do together."
+    }
+  ]
+}

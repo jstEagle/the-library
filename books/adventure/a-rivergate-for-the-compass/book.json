@@ -1,0 +1,21 @@
+{
+  "id": "ADV-00233",
+  "title": "A Rivergate for the Compass",
+  "author": "C. M. Eriksen",
+  "genre": "Adventure",
+  "length": "novel",
+  "rating": 4.4,
+  "blurb": "Ansel Delacroix, a salvage diver working a wreck the navy won't discuss, has spent twenty years measuring life in miles rather than years. Then a dying prospector trades a map for a promise — and he is pulled straight into the middle of it. Now he must cross the range ahead of the snows, and time is already running out.",
+  "themes": [
+    "identity",
+    "memory",
+    "justice outside the law"
+  ],
+  "style": "wry first-person narration with emotional depth",
+  "language": "English",
+  "catalog": {
+    "source": "make_catalog.py",
+    "seed": "2026",
+    "index": 233
+  }
+}

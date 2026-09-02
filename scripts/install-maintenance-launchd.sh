@@ -1,24 +1,19 @@
 #!/bin/bash
-# Installs a per-user, 30-minute launchd job for scripts/maintenance.sh.
+# Installs a per-user, 30-minute cron job for scripts/maintenance.sh.
+# Cron is deliberately used here: this project lives under Documents, where a
+# background launchd agent can be denied macOS privacy access. The existing
+# user cron service has already been verified to read this project directory.
 set -euo pipefail
 
 ROOT="/Users/justus/Documents/Programming/the-library"
 LABEL="com.justeagle.the-library-maintenance"
-PLIST="/Users/justus/Library/LaunchAgents/${LABEL}.plist"
-
-mkdir -p "/Users/justus/Library/LaunchAgents"
-cat > "$PLIST" <<EOF
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0"><dict>
-  <key>Label</key><string>${LABEL}</string>
-  <key>ProgramArguments</key><array><string>/bin/bash</string><string>${ROOT}/scripts/maintenance.sh</string></array>
-  <key>StartInterval</key><integer>1800</integer>
-  <key>RunAtLoad</key><true/>
-  <key>ProcessType</key><string>Background</string>
-</dict></plist>
-EOF
+MARKER="# the-library-maintenance"
 
 launchctl bootout "gui/$(id -u)/${LABEL}" 2>/dev/null || true
-launchctl bootstrap "gui/$(id -u)" "$PLIST"
-launchctl kickstart -k "gui/$(id -u)/${LABEL}"
+rm -f "/Users/justus/Library/LaunchAgents/${LABEL}.plist"
+
+current=$(crontab -l 2>/dev/null || true)
+(printf '%s\n' "$current" | grep -vF "$MARKER" || true) > /tmp/the-library-crontab.$$
+printf '7,37 * * * * /bin/bash %s/scripts/maintenance.sh %s\n' "$ROOT" "$MARKER" >> /tmp/the-library-crontab.$$
+crontab /tmp/the-library-crontab.$$
+rm -f /tmp/the-library-crontab.$$

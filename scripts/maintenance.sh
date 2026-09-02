@@ -12,7 +12,6 @@ RECENT_LOG="$ROOT/generation.log.recent"
 LOCK="$ROOT/.maintenance.lock"
 KEEP_BYTES=$((2 * 1024 * 1024))
 ROTATE_AT=$((32 * 1024 * 1024))
-MIN_AGE_MINUTES=5
 
 ts() { date '+%F %T'; }
 note() { echo "$(ts) $*" >> "$LOG"; }
@@ -43,12 +42,12 @@ if ! git merge-base --is-ancestor origin/main HEAD; then
   exit 0
 fi
 
-# Only stage durable project content. Generated chapters need to be quiet for
-# a few minutes first, avoiding an in-progress write during a batch commit.
+# Only stage durable project content. The generator writes chapters atomically,
+# so an untracked chapter only appears after its complete content is in place.
 git add -- config.json scripts/generate.py scripts/watchdog.sh scripts/maintenance.sh scripts/install-maintenance-launchd.sh .gitignore README.md 2>/dev/null || true
-# xargs batches avoid one git process per chapter when a large historical
-# generation batch is ready to publish.
-find books -type f -name '*.md' -mmin +"$MIN_AGE_MINUTES" -print0 \
+# Restrict the routine batch to newly generated, untracked files. This avoids
+# needlessly re-indexing the large existing catalog on every scheduled run.
+git ls-files --others --exclude-standard -z -- books \
   | xargs -0 -n 200 git add --
 
 if git diff --cached --quiet; then

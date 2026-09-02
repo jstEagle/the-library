@@ -12,7 +12,7 @@ cat > "$PLIST" <<EOF
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0"><dict>
   <key>Label</key><string>${LABEL}</string>
-  <key>ProgramArguments</key><array><string>${ROOT}/scripts/maintenance.sh</string></array>
+  <key>ProgramArguments</key><array><string>/bin/bash</string><string>${ROOT}/scripts/maintenance.sh</string></array>
   <key>StartInterval</key><integer>1800</integer>
   <key>RunAtLoad</key><true/>
   <key>ProcessType</key><string>Background</string>

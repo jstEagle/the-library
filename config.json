@@ -1,11 +1,15 @@
 {
-  "model": "stealth/ox-alpha",
+  "model": "nvidia/nemotron-3.5-lightning:free",
+  "models": [
+    "nvidia/nemotron-3.5-lightning:free",
+    "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "openrouter/free"
+  ],
   "app_title": "The Library",
-  "max_concurrent_requests": 32,
+  "max_concurrent_requests": 8,
   "retries": 6,
   "outline_temperature": 0.9,
   "chapter_temperature": 0.8,
-  "reasoning_effort": "low",
   "request_timeout_seconds": 480,
   "length_presets": {
     "short-story": { "chapters": 4, "words_per_chapter": 1200 },

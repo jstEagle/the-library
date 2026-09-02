@@ -4,5 +4,8 @@ __pycache__/
 .DS_Store
 .venv/
 generation.log
+generation.log.*
 watchdog.log
+watchdog.log.*
 generation.pid
+maintenance.log

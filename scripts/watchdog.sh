@@ -15,7 +15,7 @@ if pgrep -f "thelibrary-generator" >/dev/null 2>&1 \
 fi
 
 echo "$(ts) no live generator found; relaunching" >> "$LOG"
-./.venv/bin/python scripts/generate.py --workers 1000 --daemon >> "$LOG" 2>&1
+./.venv/bin/python scripts/generate.py --daemon >> "$LOG" 2>&1
 sleep 3
 
 if pgrep -f "thelibrary-generator" >/dev/null 2>&1; then

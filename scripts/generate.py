@@ -45,6 +45,9 @@ READMe_FILE = "README.md"
 
 DEFAULT_CONFIG: dict[str, Any] = {
     "model": "anthropic/claude-sonnet-4.5",
+    # Use a small free-model pool for long-running generation.  The legacy
+    # "model" key remains supported for single-model runs and book overrides.
+    "models": [],
     "app_title": "The Library",
     "max_concurrent_requests": 32,
     "retries": 6,
@@ -353,10 +356,32 @@ class Generator:
             },
         )
         self.default_model = default_model
+        configured_models = config.get("models", [])
+        self.models = [str(model).strip() for model in configured_models
+                       if str(model).strip()] or [default_model]
+        self._model_index = 0
         self.retries = int(config["retries"])
         self.semaphore = asyncio.Semaphore(workers)
         effort = config.get("reasoning_effort")
         self.extra_body = {"reasoning": {"effort": effort}} if effort else {}
+
+    def next_model(self, override: Optional[str] = None) -> str:
+        """Return a book override or rotate the configured shared model pool."""
+        if override:
+            return override
+        model = self.models[self._model_index % len(self.models)]
+        self._model_index += 1
+        return model
+
+    def fallback_model(self, current: str) -> str:
+        """Advance the shared free-model pool after a provider-side failure."""
+        if len(self.models) < 2:
+            return current
+        for _ in range(len(self.models)):
+            candidate = self.next_model()
+            if candidate != current:
+                return candidate
+        return current
 
     async def chat(self, messages: list[dict], *, model: str, temperature: float,
                    max_tokens: int) -> str:
@@ -365,11 +390,12 @@ class Generator:
         limits. Streaming keeps the connection alive while slow models think,
         so long generations never trip an idle read-timeout."""
         last_error: Exception | None = None
+        active_model = model
         for attempt in range(self.retries + 1):
             try:
                 parts: list[str] = []
                 stream = await self.client.chat.completions.create(
-                    model=model,
+                    model=active_model,
                     messages=messages,
                     temperature=temperature,
                     max_tokens=max_tokens,
@@ -390,12 +416,20 @@ class Generator:
                     "empty completion (max_tokens too small for reasoning?)"
                 )
             except Exception as exc:  # noqa: BLE001 - classified below
-                if non_retryable(exc):
+                # A free endpoint can be temporarily unavailable even when the
+                # model remains listed. Rotate to another configured free model
+                # before spending the rest of this request's retry budget.
+                status = getattr(exc, "status_code", None)
+                if status is None and getattr(exc, "response", None) is not None:
+                    status = getattr(exc.response, "status_code", None)
+                if status in (404, 429):
+                    active_model = self.fallback_model(active_model)
+                elif non_retryable(exc):
                     raise
                 last_error = exc
             if attempt < self.retries:
                 delay = retry_delay(attempt, last_error)
-                print(f"[retry] {model}: attempt {attempt + 1}/{self.retries + 1} "
+                print(f"[retry] {active_model}: attempt {attempt + 1}/{self.retries + 1} "
                       f"failed ({last_error}); backing off {delay:.0f}s",
                       file=sys.stderr, flush=True)
                 await asyncio.sleep(delay)
@@ -460,7 +494,7 @@ async def ensure_outline(book: BookSpec, gen: Generator, config: dict,
                          force: bool, counter: "Counter") -> bool:
     if not force and book.outline_path.exists():
         return True
-    model = book.model_override or gen.default_model
+    model = gen.next_model(book.model_override)
     parse_retries = 2  # content-level retries (API-level retries live in chat())
     for attempt in range(parse_retries + 1):
         try:
@@ -576,7 +610,7 @@ async def write_chapter(book: BookSpec, outline: dict, ch: dict, gen: Generator,
     if path.exists():
         counter.bump("skipped")
         return
-    model = book.model_override or gen.default_model
+    model = gen.next_model(book.model_override)
     max_tokens = int(book.words_per_chapter * 2.4) + 1200
     try:
         async with gen.semaphore:

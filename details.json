@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "title": "The Library",
+  "description": "A browsable library of AI-written books stored as Markdown, with resumable outline and chapter generation from structured book descriptions.",
+  "tags": [
+    "Python",
+    "OpenRouter",
+    "Markdown",
+    "Generative AI"
+  ],
+  "featured": false,
+  "links": {
+    "repo": "https://github.com/jstEagle/the-library"
+  }
+}
